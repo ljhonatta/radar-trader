@@ -29,13 +29,13 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,02",
-    "var": "+0,00%"
+    "var": ""
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 5,64",
-    "var": "+0,00%"
+    "var": ""
    },
    {
     "k": "BTC",
@@ -87,7 +87,7 @@
   "ibov": "208.296",
   "ibovVar": "+1,57%",
   "dolar": "R$ 5,02",
-  "dolarVar": "+0,00%",
+  "dolarVar": "",
   "btc": "US$ 83,0 mil"
  }
 }

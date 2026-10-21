@@ -489,7 +489,9 @@ def placar(coleta, antigo, falhas):
         y = yahoo(sim) or (None if moeda and moeda in awesome else google(gcod))
         if y:
             v, ant, ts = y
-            itens.append({"k": k, "nome": nome, "v": fmt(v), "var": var_pct(v, ant)})
+            # o Google não traz o fechamento anterior das moedas (vem igual ao preço): sem variação em vez de um falso 0,00%
+            semvar = moeda and ant and abs(v / ant - 1) < 5e-5
+            itens.append({"k": k, "nome": nome, "v": fmt(v), "var": "" if semvar else var_pct(v, ant)})
             if k == "IBOV" and ts:
                 ultimo_pregao = datetime.fromtimestamp(ts, tz=BRT)
             continue
