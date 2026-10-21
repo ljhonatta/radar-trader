@@ -484,7 +484,9 @@ def placar(coleta, antigo, falhas):
         pass
     ultimo_pregao = None
     for k, nome, sim, gcod, fmt in ATIVOS:
-        y = yahoo(sim) or google(gcod)
+        moeda = {"USD": "USDBRL", "EUR": "EURBRL", "BTC": "BTCUSD"}.get(k)
+        # moedas: a AwesomeAPI traz a variação do dia certa; o Google fica de última reserva
+        y = yahoo(sim) or (None if moeda and moeda in awesome else google(gcod))
         if y:
             v, ant, ts = y
             itens.append({"k": k, "nome": nome, "v": fmt(v), "var": var_pct(v, ant)})
