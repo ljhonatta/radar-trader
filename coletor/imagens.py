@@ -14,10 +14,10 @@ CAPA = ("Wide cinematic hero banner for a Brazilian financial-markets news app c
         "sweep blended with rising candlestick charts and thin data lines, subtle grid, soft bokeh city lights of São Paulo "
         "skyline at the bottom. Premium, editorial, high contrast, lots of empty dark space on the left for a title. "
         "No text, no letters, no numbers, no logos, no people.")
-ICONE = ("App icon for a financial-markets news app called Radar Trader. A single bold symbol: an orange (#ff6a13) radar "
-         "sweep arc combined with an upward trading line, centered on a rounded-square dark navy (#0c1019) background "
-         "with a subtle orange glow. Flat modern vector style, crisp, minimal, highly legible at small sizes. "
-         "No text, no letters, no numbers.")
+ICONE = ("Flat vector app icon, full bleed square, solid dark navy background (#0c1019) edge to edge. One bold solid orange "
+         "(#ff6a13) symbol filling about 75% of the canvas: a quarter-circle radar sweep (two thick concentric arcs from a "
+         "corner point) with a thick zigzag trading line rising to an arrow head on top. Crisp sharp edges, NO glow, NO blur, "
+         "NO gradient, NO shadow, no border, high contrast, perfectly legible at 16x16 pixels. No text, no letters, no numbers.")
 
 
 def gerar(prompt, tamanho, arquivo):
