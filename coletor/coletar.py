@@ -448,9 +448,14 @@ def yahoo(simbolo):
 def google(cod):
     """Reserva quando o Yahoo bloqueia: lê o preço e o fechamento anterior da página do Google Finance."""
     try:
-        a, b = cod.split(":")
         t = requests.get(f"https://www.google.com/finance/quote/{cod}", headers=UA, timeout=20).text
-        m = re.search(rf'\["{re.escape(a)}","{re.escape(b)}"\],"[^"]*",\d+,(?:null|"[A-Z]+"),\[(-?[\d.]+),(-?[\d.]+),(-?[\d.]+)[^\]]*\],null,(-?[\d.]+)(?:,null)*,\[(\d+)\]', t)
+        if ":" in cod:  # índices e futuros, ex.: IBOV:INDEXBVMF
+            a, b = cod.split(":")
+            ini = rf'\["{re.escape(a)}","{re.escape(b)}"\],"[^"]*"'
+        else:  # moedas, ex.: USD-BRL
+            a, b = cod.split("-")
+            ini = rf'"{re.escape(a)} / {re.escape(b)}"'
+        m = re.search(ini + r',\d+,(?:null|"[A-Z]+"),\[(-?[\d.E-]+),(-?[\d.E-]+),(-?[\d.E-]+)[^\]]*\],null,(-?[\d.E-]+)(?:,null)*,\[(\d+)\]', t)
         if m:
             return float(m.group(1)), float(m.group(4)), int(m.group(5))
     except Exception:
@@ -487,6 +492,13 @@ def placar(coleta, antigo, falhas):
                 ultimo_pregao = datetime.fromtimestamp(ts, tz=BRT)
             continue
         a = awesome.get({"USD": "USDBRL", "EUR": "EURBRL", "BTC": "BTCUSD"}.get(k, "-"))
+        if not a and k == "BTC":
+            try:
+                cg = requests.get("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true",
+                                  headers=UA, timeout=20).json()["bitcoin"]
+                a = {"bid": cg["usd"], "pctChange": cg.get("usd_24h_change") or 0}
+            except Exception:
+                pass
         if a:
             v = float(a["bid"])
             pc = float(a.get("pctChange") or 0)
