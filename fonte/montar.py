@@ -54,6 +54,7 @@ details.ficha ul{margin:0;padding-left:18px;display:flex;flex-direction:column;g
 details.ficha .cmpt{border-collapse:collapse;font-size:13px}
 details.ficha .cmpt td{padding:3px 10px 3px 0;border-bottom:1px solid var(--line)}
 .ai-row input{flex:1;min-width:200px;width:auto}
+@media (max-width:720px){.nav{width:28px;height:28px;font-size:16px;background:rgba(0,0,0,.35)}.nav.l{left:4px}.nav.r{right:4px}}
 .sl .tick{display:flex;gap:calc(30px * var(--k));overflow:hidden;white-space:nowrap;flex:none;margin:calc(-18px * var(--k)) calc(-1 * var(--sx)) 0;padding:calc(12px * var(--k)) var(--sx);background:var(--s-hi);border-top:1px solid var(--s-line2);border-bottom:1px solid var(--s-line2);font-family:"JetBrains Mono",monospace;font-size:calc(22px * var(--k));color:var(--s-txt)}
 .sl .tick b{color:var(--s-a);font-weight:600}
 .sl .tick i{font-style:normal}.sl .tick i.up{color:#2fcf7a}.sl .tick i.dn{color:#ff5b5b}
@@ -267,6 +268,56 @@ troca('''</script>
  $("aiModeloSalvar").onclick=()=>{radarModelo.set($("aiModelo").value.trim());st();};st();})();
 </script>
 </body></html>''')
+
+# ---------- encaixe: o texto nunca passa das margens seguras (4:5 e 1:1, todos os modelos) ----------
+troca("""function autofit(el){
+  const m=el.querySelector(".main");if(!m)return;
+  let t=1;el.style.setProperty("--t",t);
+  while(m.scrollHeight>m.clientHeight+2&&t>0.6){t=+(t-0.05).toFixed(2);el.style.setProperty("--t",t);}
+}""", """function autofit(el){
+  const m=el.querySelector(".main");if(!m)return;
+  const fr=el.querySelector(".frame");
+  // passou do quadro: altura (corta embaixo) ou largura (palavra comprida sai pela lateral)
+  const over=()=>{if(m.scrollHeight>m.clientHeight+1||m.scrollWidth>m.clientWidth+1)return true;
+    const lim=fr.getBoundingClientRect();return [...m.querySelectorAll(".h1,.h2,.qt,.tarja,.brd,.bignum")].some(x=>{const r=x.getBoundingClientRect();return r.right>lim.right+1||r.left<lim.left-1;});};
+  let t=1;el.style.setProperty("--t",t);
+  while(over()&&t>0.5){t=+(t-0.04).toFixed(2);el.style.setProperty("--t",t);}
+  if(!over())return;
+  // último recurso: tira frases do fim do texto corrido, depois palavras, até caber
+  const txts=[...m.querySelectorAll(".txt,.qx,.sub,.ps>div span")].reverse();
+  for(const x of txts){const parts=x.innerHTML.split(/(?<=[.!?])\\s+/);while(over()&&parts.length>1){parts.pop();x.innerHTML=parts.join(" ");}}
+  for(const x of txts){let w=x.textContent.split(/\\s+/);let n=0;while(over()&&w.length>6&&n++<120){w.pop();x.textContent=w.join(" ").replace(/[,;:.]$/,"")+"…";}}
+}""")
+troca('return `<div class="box" style="height:${bh}px">', 'return `<div class="box" style="height:calc(${bh}px * var(--t))">')
+s = s.replace('class="ico3d" style="width:${Math.round(124*k)}px;height:${Math.round(118*k)}px"', 'class="ico3d" style="width:calc(${Math.round(124*k)}px * var(--t));height:calc(${Math.round(118*k)}px * var(--t))"')
+assert 'calc(${Math.round(124*k)}px' in s
+troca('(F.fh.includes("Anton")?.56:.82)', '(F.fh.includes("Anton")?.62:.9)', 2)
+troca('function tickHTML(d){const it=(d.placar||[]).slice(0,6);', 'function tickHTML(d){const it=(d.placar||[]).slice(0,4);')
+troca("""</style>""", """/* encaixe 2.0: tudo encolhe junto com o texto (--t) e nada atravessa a margem */
+.sl .main,.sl .main *{overflow-wrap:break-word;hyphens:manual}
+.sl .main>*{max-width:100%}
+.sl .tick{margin-top:0;justify-content:space-between;gap:calc(16px * var(--k))}
+.sl .tick span{overflow:hidden;text-overflow:ellipsis}
+.sl .lr{gap:calc(16px * var(--t))}
+.sl .nat{font-size:calc(20px * var(--k) * var(--t))}
+.sl .rot{font-size:calc(22px * var(--k) * var(--t));white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.sl .chip{font-size:calc(24px * var(--k) * var(--t))}
+.sl .src{font-size:calc(21px * var(--k) * var(--t))}
+.sl .uline{height:calc(8px * var(--t))}
+.sl .follow{padding:calc(16px * var(--k) * var(--t));gap:calc(20px * var(--k) * var(--t))}
+.sl .follow .fa{width:calc(88px * var(--k) * var(--t));height:calc(88px * var(--k) * var(--t))}
+.sl .follow .fn b{font-size:calc(32px * var(--k) * var(--t))}
+.sl .follow .fn span{font-size:calc(22px * var(--k) * var(--t))}
+.sl .follow .fb{font-size:calc(30px * var(--k) * var(--t));padding:calc(14px * var(--k) * var(--t)) calc(32px * var(--k) * var(--t))}
+.sl .bio{font-size:calc(28px * var(--k) * var(--t))}
+.sl .follow{margin-bottom:calc(58px * var(--k))}
+.sl .follow.big{padding-right:calc(46px * var(--k))}
+.sl .pill{font-size:calc(34px * var(--k) * var(--t))}
+.sl .fa2{max-width:calc(190px * var(--t));max-height:calc(190px * var(--t))}
+.sl .cta-btn{font-size:calc(46px * var(--k) * var(--t));padding:calc(28px * var(--k) * var(--t)) 0}
+.sl .dados{padding:calc(20px * var(--k) * var(--t)) calc(28px * var(--k))}
+.sl .ccard{padding:calc(36px * var(--k) * var(--t)) calc(38px * var(--k))}
+</style>""", 2)
 
 open(os.path.join(os.path.dirname(AQUI), "docs", "index.html"), "w", encoding="utf-8").write(s)
 print("index.html montado:", len(s), "bytes")

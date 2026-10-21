@@ -1,4 +1,28 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><link rel="icon" type="image/png" sizes="32x32" href="data/img/icone-32.png"><link rel="apple-touch-icon" href="data/img/icone-180.png"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#0c1019"><meta name="description" content="Notícias do mercado financeiro coletadas 3 vezes por dia com IA, prontas para virar carrossel."><meta property="og:title" content="Radar Trader"><meta property="og:description" content="Notícias do mercado financeiro com IA, prontas para virar carrossel."><meta property="og:image" content="https://ljhonatta.github.io/radar-trader/data/img/og.jpg"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><link rel="icon" type="image/png" sizes="32x32" href="data/img/icone-32.png"><link rel="apple-touch-icon" href="data/img/icone-180.png"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#0c1019"><meta name="description" content="Notícias do mercado financeiro coletadas 3 vezes por dia com IA, prontas para virar carrossel."><meta property="og:title" content="Radar Trader"><meta property="og:description" content="Notícias do mercado financeiro com IA, prontas para virar carrossel."><meta property="og:image" content="https://ljhonatta.github.io/radar-trader/data/img/og.jpg"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}/* encaixe 2.0: tudo encolhe junto com o texto (--t) e nada atravessa a margem */
+.sl .main,.sl .main *{overflow-wrap:break-word;hyphens:manual}
+.sl .main>*{max-width:100%}
+.sl .tick{margin-top:0;justify-content:space-between;gap:calc(16px * var(--k))}
+.sl .tick span{overflow:hidden;text-overflow:ellipsis}
+.sl .lr{gap:calc(16px * var(--t))}
+.sl .nat{font-size:calc(20px * var(--k) * var(--t))}
+.sl .rot{font-size:calc(22px * var(--k) * var(--t));white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.sl .chip{font-size:calc(24px * var(--k) * var(--t))}
+.sl .src{font-size:calc(21px * var(--k) * var(--t))}
+.sl .uline{height:calc(8px * var(--t))}
+.sl .follow{padding:calc(16px * var(--k) * var(--t));gap:calc(20px * var(--k) * var(--t))}
+.sl .follow .fa{width:calc(88px * var(--k) * var(--t));height:calc(88px * var(--k) * var(--t))}
+.sl .follow .fn b{font-size:calc(32px * var(--k) * var(--t))}
+.sl .follow .fn span{font-size:calc(22px * var(--k) * var(--t))}
+.sl .follow .fb{font-size:calc(30px * var(--k) * var(--t));padding:calc(14px * var(--k) * var(--t)) calc(32px * var(--k) * var(--t))}
+.sl .bio{font-size:calc(28px * var(--k) * var(--t))}
+.sl .follow{margin-bottom:calc(58px * var(--k))}
+.sl .follow.big{padding-right:calc(46px * var(--k))}
+.sl .pill{font-size:calc(34px * var(--k) * var(--t))}
+.sl .fa2{max-width:calc(190px * var(--t));max-height:calc(190px * var(--t))}
+.sl .cta-btn{font-size:calc(46px * var(--k) * var(--t));padding:calc(28px * var(--k) * var(--t)) 0}
+.sl .dados{padding:calc(20px * var(--k) * var(--t)) calc(28px * var(--k))}
+.sl .ccard{padding:calc(36px * var(--k) * var(--t)) calc(38px * var(--k))}
+</style></head><body>
 <title>Radar Trader 2.0</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,500&family=Anton&family=Playfair+Display:wght@700;800&family=Space+Grotesk:wght@400;500;700&family=Archivo:wght@400;500;700;900&family=IBM+Plex+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
@@ -286,6 +310,7 @@ details.ficha ul{margin:0;padding-left:18px;display:flex;flex-direction:column;g
 details.ficha .cmpt{border-collapse:collapse;font-size:13px}
 details.ficha .cmpt td{padding:3px 10px 3px 0;border-bottom:1px solid var(--line)}
 .ai-row input{flex:1;min-width:200px;width:auto}
+@media (max-width:720px){.nav{width:28px;height:28px;font-size:16px;background:rgba(0,0,0,.35)}.nav.l{left:4px}.nav.r{right:4px}}
 .sl .tick{display:flex;gap:calc(30px * var(--k));overflow:hidden;white-space:nowrap;flex:none;margin:calc(-18px * var(--k)) calc(-1 * var(--sx)) 0;padding:calc(12px * var(--k)) var(--sx);background:var(--s-hi);border-top:1px solid var(--s-line2);border-bottom:1px solid var(--s-line2);font-family:"JetBrains Mono",monospace;font-size:calc(22px * var(--k));color:var(--s-txt)}
 .sl .tick b{color:var(--s-a);font-weight:600}
 .sl .tick i{font-style:normal}.sl .tick i.up{color:#2fcf7a}.sl .tick i.dn{color:#ff5b5b}
@@ -304,6 +329,30 @@ details.ficha .cmpt td{padding:3px 10px 3px 0;border-bottom:1px solid var(--line
 .sl .ps>div{display:flex;flex-direction:column;gap:6px;min-width:0}
 .sl .ps b{font-size:calc(38px * var(--k) * var(--t));color:var(--s-txt);line-height:1.15}
 .sl .ps>div span{font-size:calc(30px * var(--k) * var(--t));color:var(--s-sub);line-height:1.35}
+/* encaixe 2.0: tudo encolhe junto com o texto (--t) e nada atravessa a margem */
+.sl .main,.sl .main *{overflow-wrap:break-word;hyphens:manual}
+.sl .main>*{max-width:100%}
+.sl .tick{margin-top:0;justify-content:space-between;gap:calc(16px * var(--k))}
+.sl .tick span{overflow:hidden;text-overflow:ellipsis}
+.sl .lr{gap:calc(16px * var(--t))}
+.sl .nat{font-size:calc(20px * var(--k) * var(--t))}
+.sl .rot{font-size:calc(22px * var(--k) * var(--t));white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.sl .chip{font-size:calc(24px * var(--k) * var(--t))}
+.sl .src{font-size:calc(21px * var(--k) * var(--t))}
+.sl .uline{height:calc(8px * var(--t))}
+.sl .follow{padding:calc(16px * var(--k) * var(--t));gap:calc(20px * var(--k) * var(--t))}
+.sl .follow .fa{width:calc(88px * var(--k) * var(--t));height:calc(88px * var(--k) * var(--t))}
+.sl .follow .fn b{font-size:calc(32px * var(--k) * var(--t))}
+.sl .follow .fn span{font-size:calc(22px * var(--k) * var(--t))}
+.sl .follow .fb{font-size:calc(30px * var(--k) * var(--t));padding:calc(14px * var(--k) * var(--t)) calc(32px * var(--k) * var(--t))}
+.sl .bio{font-size:calc(28px * var(--k) * var(--t))}
+.sl .follow{margin-bottom:calc(58px * var(--k))}
+.sl .follow.big{padding-right:calc(46px * var(--k))}
+.sl .pill{font-size:calc(34px * var(--k) * var(--t))}
+.sl .fa2{max-width:calc(190px * var(--t));max-height:calc(190px * var(--t))}
+.sl .cta-btn{font-size:calc(46px * var(--k) * var(--t));padding:calc(28px * var(--k) * var(--t)) 0}
+.sl .dados{padding:calc(20px * var(--k) * var(--t)) calc(28px * var(--k))}
+.sl .ccard{padding:calc(36px * var(--k) * var(--t)) calc(38px * var(--k))}
 </style>
 
 <div class="wrap">
@@ -796,7 +845,7 @@ function imageBlock(d,s,bh){
   const t=FORMATOS[d.formato],bw=t.w-2*t.sx;
   if(si.modo==="dados"&&im.analise?.dados?.length)
     return `<div class="dados">${numsHTML(im.analise.dados,false)}<div class="src" style="margin-top:8px">DADOS DO PRINT ENVIADO · CONFERIR NA FONTE</div></div>`;
-  return `<div class="box" style="height:${bh}px"><div class="photo" style="inset:0;${bgStyle(im,si,bw,bh)}"></div>${im.credito?`<div class="cap">${esc(im.credito)}</div>`:""}</div>`;
+  return `<div class="box" style="height:calc(${bh}px * var(--t))"><div class="photo" style="inset:0;${bgStyle(im,si,bw,bh)}"></div>${im.credito?`<div class="cap">${esc(im.credito)}</div>`:""}</div>`;
 }
 const ICONES={
  calendario:{b:'<rect x="28" y="42" width="144" height="128" rx="24" fill="#X#"/>',t:'<path d="M28 66a24 24 0 0 1 24-24h96a24 24 0 0 1 24 24v16H28z" fill="#D#"/>'+[0,1,2].map(r=>[0,1,2,3].map(c=>`<rect x="${46+c*28}" y="${98+r*22}" width="20" height="14" rx="4" fill="${(r===1&&c>1)?"#L#":"#W#"}" opacity=".95"/>`).join("")).join("")+'<rect x="58" y="24" width="16" height="38" rx="8" fill="#W#"/><rect x="126" y="24" width="16" height="38" rx="8" fill="#W#"/><rect x="40" y="50" width="54" height="7" rx="3.5" fill="#fff" opacity=".35"/>'},
@@ -823,7 +872,7 @@ const ICO_MAP={grafico:"grafico",seta:"grafico",queda:"queda",moeda:"dinheiro",r
 function icoDe(d,s){const P={numeros:"grafico",importa:"alvo",impacto:/^-|queda|▼/i.test(d.noticia?.destaque||"")?"queda":"grafico",contexto:"lupa",cenarios:"relogio",comparativo:"calendario",passos:"foguete"};return P[s.papel]||ICO_MAP[d.noticia?.icone]||"grafico";}
 function cmpHTML(rows){return `<div class="cmp"><div class="ch"><span></span><span>Antes</span><span>Depois</span></div>${rows.slice(0,4).map(r=>`<div class="cr"><span>${esc(r.item)}</span><span>${esc(r.antes)}</span><b>${esc(r.depois)}</b></div>`).join("")}</div>`;}
 function passosHTML(list){return `<div class="pss">${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div><b>${esc(p.t)}</b>${p.d?`<span>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
-function tickHTML(d){const it=(d.placar||[]).slice(0,6);if(!it.length)return "";
+function tickHTML(d){const it=(d.placar||[]).slice(0,4);if(!it.length)return "";
   return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"} ${esc(String(x.var).replace(/^[+-]/,""))}</i>`:""}</span>`}).join("")}</div>`;}
 const hand=()=>`<svg class="hand" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"><path d="M44 18c0-7 12-7 12 0v38l4-2c0-7 12-7 12 0v4c0-7 12-7 12 0v4c0-7 12-7 12 0v26c0 16-12 28-28 28H62c-10 0-18-6-22-14L24 74c-4-6 4-12 10-8l10 10V18z" fill="#fff" stroke="#111" stroke-width="5" stroke-linejoin="round"/></svg>`;
 function deco(p){
@@ -903,12 +952,12 @@ function marcaParts(d,s,t,p,k,b,es,F){
   const corner=`<div class="glow2"></div>`;
   if(es.marcaLay==="poster"){
     return {bg:corner,main:`<div class="main" style="justify-content:space-between">${logoId?`<div class="${claro?"lgbox":""}" style="display:flex;align-self:flex-end"><img src="${blobSrc(logoId)}" alt="" style="height:${Math.round(190*k)}px;width:auto;display:block"></div>`:""}
-      <div class="h1 brd" style="font-size:calc(${Math.round(Math.min(128,(t.w-2*t.sx)/(Math.max(...bord.join(" ").split(/\s+/).map(w=>w.length))*(F.fh.includes("Anton")?.56:.82)))*k)}px * var(--t));line-height:.95">${esc(bord[0])}${bord[1]?`<br><em>${esc(bord[1])}</em>`:""}</div>
+      <div class="h1 brd" style="font-size:calc(${Math.round(Math.min(128,(t.w-2*t.sx)/(Math.max(...bord.join(" ").split(/\s+/).map(w=>w.length))*(F.fh.includes("Anton")?.62:.9)))*k)}px * var(--t));line-height:.95">${esc(bord[0])}${bord[1]?`<br><em>${esc(bord[1])}</em>`:""}</div>
       <div style="display:flex;flex-direction:column;gap:${Math.round(20*k)}px">${pitch?`<div class="sub" style="font-size:calc(${Math.round(34*k)}px * var(--t))">${esc(pitch)}</div>`:""}<div class="cta-chip">${ctaHTML}</div></div></div>`};
   }
   if(es.marcaLay==="bloco"){
     return {bg:corner,main:`<div class="main" style="justify-content:space-between"><div style="align-self:flex-start">${logoId?`<div class="${claro?"lgbox":""}" style="display:flex"><img src="${blobSrc(logoId)}" alt="" style="height:${Math.round(150*k)}px;width:auto;display:block"></div>`:""}</div>
-      <div style="display:flex;flex-direction:column;gap:${Math.round(26*k)}px"><div class="h1 brd" style="font-size:calc(${Math.round(Math.min(92,(t.w-2*t.sx)/(Math.max(...bord.join(" ").split(/\s+/).map(w=>w.length))*(F.fh.includes("Anton")?.56:.82)))*k)}px * var(--t))">${esc(bord[0])}${bord[1]?`<br><em>${esc(bord[1])}</em>`:""}</div>${pitch?`<div class="sub" style="font-size:calc(${Math.round(38*k)}px * var(--t))">${esc(pitch)}</div>`:""}</div>
+      <div style="display:flex;flex-direction:column;gap:${Math.round(26*k)}px"><div class="h1 brd" style="font-size:calc(${Math.round(Math.min(92,(t.w-2*t.sx)/(Math.max(...bord.join(" ").split(/\s+/).map(w=>w.length))*(F.fh.includes("Anton")?.62:.9)))*k)}px * var(--t))">${esc(bord[0])}${bord[1]?`<br><em>${esc(bord[1])}</em>`:""}</div>${pitch?`<div class="sub" style="font-size:calc(${Math.round(38*k)}px * var(--t))">${esc(pitch)}</div>`:""}</div>
       <div style="display:flex;flex-direction:column;gap:${Math.round(18*k)}px"><div class="txt" style="font-size:calc(${Math.round(32*k)}px * var(--t))">${ctaHTML}</div><div class="cta-btn">LINK NA BIO ${hand()}</div></div></div>`};
   }
   if(es.marcaLay==="pergunta"){
@@ -933,7 +982,7 @@ function slideHTML(d,s,i,opt={}){
   const segs=Array.from({length:n},(_,j)=>`<i class="${j<=i?"on":""}"></i>`).join("");
   const ft=`<div class="ft"><div class="me">${b.icone?`<img src="${blobSrc(b.icone)}" alt="">`:""}<div class="segs">${segs}</div></div><span class="${last?"":"sw"}">${last?String(i+1).padStart(2,"0")+"/"+String(n).padStart(2,"0"):"ARRASTA ›"}</span></div>`;
   const tl=plain(s.titulo).length,hs=F.sc;
-  const lr=`<div class="lr"><span class="nat ${s.natureza||"fato"}">${NAT[s.natureza||"fato"]||"FATO"}</span><span class="rot">${esc(s.rotulo||PAPEIS[s.papel]?.nome||"")}</span>${es.el.icone?`<span class="ico3d" style="width:${Math.round(124*k)}px;height:${Math.round(118*k)}px">${icon3d(icoDe(d,s),p)}</span>`:""}</div>`;
+  const lr=`<div class="lr"><span class="nat ${s.natureza||"fato"}">${NAT[s.natureza||"fato"]||"FATO"}</span><span class="rot">${esc(s.rotulo||PAPEIS[s.papel]?.nome||"")}</span>${es.el.icone?`<span class="ico3d" style="width:calc(${Math.round(124*k)}px * var(--t));height:calc(${Math.round(118*k)}px * var(--t))">${icon3d(icoDe(d,s),p)}</span>`:""}</div>`;
   const tick=es.el.ticker&&!last?tickHTML(d):"";
   const srcL=s.fonte?`<div class="src">FONTE: ${esc(s.fonte)}</div>`:"";
   let bg=`<div class="glow"></div><div class="lines"></div>`,main="";
@@ -991,8 +1040,17 @@ function slideHTML(d,s,i,opt={}){
 }
 function autofit(el){
   const m=el.querySelector(".main");if(!m)return;
+  const fr=el.querySelector(".frame");
+  // passou do quadro: altura (corta embaixo) ou largura (palavra comprida sai pela lateral)
+  const over=()=>{if(m.scrollHeight>m.clientHeight+1||m.scrollWidth>m.clientWidth+1)return true;
+    const lim=fr.getBoundingClientRect();return [...m.querySelectorAll(".h1,.h2,.qt,.tarja,.brd,.bignum")].some(x=>{const r=x.getBoundingClientRect();return r.right>lim.right+1||r.left<lim.left-1;});};
   let t=1;el.style.setProperty("--t",t);
-  while(m.scrollHeight>m.clientHeight+2&&t>0.6){t=+(t-0.05).toFixed(2);el.style.setProperty("--t",t);}
+  while(over()&&t>0.5){t=+(t-0.04).toFixed(2);el.style.setProperty("--t",t);}
+  if(!over())return;
+  // último recurso: tira frases do fim do texto corrido, depois palavras, até caber
+  const txts=[...m.querySelectorAll(".txt,.qx,.sub,.ps>div span")].reverse();
+  for(const x of txts){const parts=x.innerHTML.split(/(?<=[.!?])\s+/);while(over()&&parts.length>1){parts.pop();x.innerHTML=parts.join(" ");}}
+  for(const x of txts){let w=x.textContent.split(/\s+/);let n=0;while(over()&&w.length>6&&n++<120){w.pop();x.textContent=w.join(" ").replace(/[,;:.]$/,"")+"…";}}
 }
 
 /* ================= EDITOR ================= */
