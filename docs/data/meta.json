@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-20T21:16:52-03:00",
-  "novas": 20,
+  "ultimaColeta": "2026-10-20T21:18:27-03:00",
+  "novas": 9,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "20 nova(s): Ibovespa sobe e dólar cai!; Ibovespa e dólar: o que esperar?; Dólar recua em meio a eleições.",
+  "mensagem": "9 nova(s): Dólar em queda: Eleições em foco!; Ibovespa dispara com varejo; Netflix com previsões prejudicadas.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
   "manual": true,
   "historico": [
+   "2026-10-20T21:18:27-03:00",
    "2026-10-20T21:16:52-03:00",
    "2026-10-20T21:14:27-03:00",
    "2026-10-20T07:00:00-03:00"
@@ -40,7 +41,7 @@
     "k": "BTC",
     "nome": "Bitcoin",
     "v": "US$ 83,0 mil",
-    "var": "+1,57%"
+    "var": "+1,76%"
    },
    {
     "k": "SPX",
@@ -57,14 +58,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 109,49",
-    "var": "+0,64%"
+    "v": "US$ 109,44",
+    "var": "+0,60%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.135,70",
-    "var": "-0,17%"
+    "v": "US$ 4.136,00",
+    "var": "-0,16%"
    },
    {
     "k": "SELIC",
@@ -82,7 +83,7 @@
   "obs": "Fechamento",
   "hora": "ter 21h",
   "data": "2026-10-20",
-  "atualizadoEm": "2026-10-20T21:16:52-03:00",
+  "atualizadoEm": "2026-10-20T21:18:27-03:00",
   "ibov": "208.296",
   "ibovVar": "+1,57%",
   "dolar": "R$ 5,02",

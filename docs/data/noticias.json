@@ -1,5 +1,440 @@
 [
  {
+  "titulo": "Dólar cai para R$ 5,01 enquanto eleições se aproximam",
+  "resumo": "O dólar à vista caiu 0,58% em meio a intensa volatilidade e foco nas eleições presidenciais. O cenário doméstico influenciou a desvalorização da moeda americana.",
+  "fatos": [
+   "O dólar encerrou a R$ 5,0189 no mercado à vista, com queda de 0,58%.",
+   "O DXY, indicador que mede o desempenho do dólar em relação a outras moedas, caiu 0,26%.",
+   "Pesquisas apontam Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, em empate técnico.",
+   "A volatilidade no petróleo também impactou o mercado cambial.",
+   "Investidores estão ajustando suas posições conforme se aproxima o segundo turno das eleições."
+  ],
+  "numeros": [
+   {
+    "valor": "5,0189",
+    "rotulo": "cotação do dólar à vista"
+   },
+   {
+    "valor": "0,58%",
+    "rotulo": "queda do dólar"
+   },
+   {
+    "valor": "48%",
+    "rotulo": "intenção de voto Flávio Bolsonaro"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "intenção de voto Lula"
+   },
+   {
+    "valor": "0,26%",
+    "rotulo": "queda do DXY"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,0189",
+  "porQueImporta": "Entender a queda do dólar é crucial para investidores, pois pode impactar custos de importação e decisões de investimento no Brasil.",
+  "impactoMercado": "A volatilidade do dólar pode influenciar a confiança dos investidores e suas estratégias em um cenário eleitoral indefinido.",
+  "entenda": "O DXY é um índice que mede o valor do dólar americano em relação a outras moedas, refletindo sua força no mercado global.",
+  "observar": "Fique atento às novas pesquisas de intenção de voto e a como essas novidades impactam a volatilidade do câmbio.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa situação destaca a importância de compreender como eventos políticos influenciam o mercado cambial e a necessidade de educação financeira.",
+  "gancho": "Dólar em queda: *Eleições* em foco!",
+  "ideias": [
+   "O que está fazendo o dólar cair?",
+   "Impactos das eleições no mercado cambial",
+   "Entenda como o DXY afeta suas finanças"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-20-10-26-lils/",
+  "publicadoEm": "2026-10-20T17:04:37-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-51"
+ },
+ {
+  "titulo": "Ibovespa sobe 1,57% e dólar fecha a R$ 5,019",
+  "resumo": "O Ibovespa teve alta de 1,57%, impulsionado pela recuperação do setor varejista. O dólar encerrou o dia a R$ 5,019.",
+  "fatos": [
+   "O Ibovespa avançou 1,57%, refletindo um bom desempenho no setor varejista.",
+   "O fechamento do dólar foi a R$ 5,019, mostrando estabilidade em relação ao dia anterior.",
+   "O crescimento do varejo está influenciando a confiança dos investidores."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "1,57%",
+  "porQueImporta": "A alta do Ibovespa pode sinalizar confiança no mercado, enquanto a estabilidade do dólar pode influenciar operações de câmbio.",
+  "impactoMercado": "As movimentações na bolsa e no câmbio impactam as decisões de investimento, refletindo expectativas econômicas.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores brasileira, indicando o desempenho das ações das empresas listadas.",
+  "observar": "Fique de olho nas próximas divulgações sobre o setor varejista e mudanças cambiais.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender como o desempenho do varejo influencia o mercado é essencial para quem deseja investir com conhecimento.",
+  "gancho": "*Ibovespa* dispara com *varejo*",
+  "ideias": [
+   "Como o varejo influencia o Ibovespa?",
+   "O que significa a alta do Ibovespa?",
+   "Análise do dólar em relação ao mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "UOL Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+sobe+1%2C57%25+com+disparada+do+varejo%3B+d%C3%B3lar+fecha+a+R%24+5%2C019+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T19:24:10-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-52"
+ },
+ {
+  "titulo": "Netflix projeta resultados abaixo do esperado para o 4º trimestre",
+  "resumo": "A Netflix divulgou suas projeções financeiras para o último trimestre do ano, que foram consideradas abaixo das expectativas do mercado.",
+  "fatos": [
+   "A companhia anunciou que espera resultados inferiores ao projetado por analistas.",
+   "Isso pode impactar a confiança dos investidores na empresa.",
+   "O desempenho esperado pode ser influenciado pelas mudanças no comportamento do consumidor."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "As projeções financeiras afetam a percepção dos investidores sobre o desempenho futuro da empresa, influenciando decisões de investimento.",
+  "impactoMercado": "Resultados abaixo do esperado podem levar à queda nas ações da Netflix e influenciar o mercado de tecnologia como um todo.",
+  "entenda": "As projeções financeiras servem como um indicador sobre como a empresa pode se sair em um período futuro, impactando a confiança de investidores.",
+  "observar": "Acompanhe novos releases financeiros da Netflix e suas repercussões no mercado.",
+  "publico": [
+   "Investidores",
+   "Aposentados",
+   "Day traders"
+  ],
+  "angulo": "Entender as expectativas de lucro das empresas é essencial para quem quer operar com segurança e embasamento no mercado.",
+  "gancho": "Netflix com *previsões* *prejudicadas*",
+  "ideias": [
+   "Projeções: o que esperar da Netflix?",
+   "Impacto das expectativas da Netflix no mercado",
+   "O que significa uma projeção abaixo do esperado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "CNN Brasil",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.google.com/search?q=Netflix+divulga+proje%C3%A7%C3%A3o+abaixo+do+esperado+para+o+4%C2%BA+trimestre+CNN+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T17:40:15-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-53"
+ },
+ {
+  "titulo": "Ações da Vamos (VAMO3) sobem com trade eleitoral e expectativa positiva",
+  "resumo": "As ações da Vamos (VAMO3) tiveram alta de 6,53%, impulsionadas pelo cenário eleitoral e recomendações do Itaú BBA. O potencial de valorização é de 47% em relação ao preço-alvo.",
+  "fatos": [
+   "As ações da Vamos (VAMO3) estavam em alta de 6,53% a R$ 6,53.",
+   "O aumento das ações é influenciado pelo ‘trade eleitoral’, com pesquisas mostrando um cenário de empate técnico nas eleições.",
+   "O Itaú BBA elevou o preço-alvo de VAMO3 de R$ 5 para R$ 9, indicando um potencial de valorização de 47%.",
+   "A recomendação de compra foi mantida, além de uma expectativa de lucros crescentes com a queda de juros.",
+   "As taxas de Depósito Interfinanceiro (DIs) estão em queda, com expectativa de ajuste fiscal."
+  ],
+  "numeros": [
+   {
+    "valor": "6,53",
+    "rotulo": "R$ da ação VAMO3"
+   },
+   {
+    "valor": "47%",
+    "rotulo": "potencial de valorização segundo Itaú BBA"
+   },
+   {
+    "valor": "9",
+    "rotulo": "novo preço-alvo da ação"
+   },
+   {
+    "valor": "5",
+    "rotulo": "preço-alvo anterior da ação"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "47%",
+  "porQueImporta": "A valorização das ações pode impactar investidores no setor e trazer oportunidades de lucro, especialmente em um cenário eleitoreiro volátil.",
+  "impactoMercado": "Mudanças nas expectativas de juros podem afetar o desempenho de ações no mercado, assim como o clima político influencia a economia.",
+  "entenda": "O ‘trade eleitoral’ se refere a como as expectativas sobre resultados de eleições influenciam os preços de ações e ativos financeiros.",
+  "observar": "Acompanhar as pesquisas eleitorais e a reação do mercado às taxas de juros pode oferecer insights sobre investimentos futuros.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Esta notícia destaca como eventos políticos afetam o mercado e a importância de entender esses movimentos para investimentos conscientes.",
+  "gancho": "*Ações da Vamos*: alta surpreendente com *cenário eleitoral*",
+  "ideias": [
+   "Vamos (VAMO3): A alta inesperada no Ibovespa",
+   "Compreendendo o trade eleitoral e suas implicações",
+   "O que esperar da Vamos após as eleições?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.moneytimes.com.br/a-acao-que-sobe-com-o-trade-eleitoral-e-pode-ganhar-mais-47-segundo-o-itau-bba-lils/",
+  "publicadoEm": "2026-10-20T14:53:39-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-54"
+ },
+ {
+  "titulo": "Ibovespa fecha em alta e dólar tem recuo",
+  "resumo": "O Ibovespa registrou alta de 1,57%, enquanto o dólar caiu para R$ 5,01. As movimentações refletem o cenário atual do mercado financeiro.",
+  "fatos": [
+   "O Ibovespa avançou 1,57% no fechamento recente.",
+   "O dólar terminou o dia cotado a R$ 5,01.",
+   "Esses movimentos indicam tendência positiva para o mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender essas variações é crucial, pois podem influenciar decisões de investimento e estratégias de negociação no mercado.",
+  "impactoMercado": "Essas movimentações podem apontar para um otimismo ou pessimismo em relação à economia, afetando diretamente investidores e suas ações.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo a performance das ações mais negociadas.",
+  "observar": "Acompanhar se essa tendência de alta do Ibovespa se mantém nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender o que causa flutuações no Ibovespa e no dólar ajuda a novos investidores a tomar decisões informadas.",
+  "gancho": "*Ibovespa* e *dólar* em foco hoje!",
+  "ideias": [
+   "Onde o Ibovespa pode ir a seguir?",
+   "Impacto do dólar nos seus investimentos",
+   "O que causa movimentos no mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Finance News",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+fecha+em+1%2C57%25%3B+d%C3%B3lar+cai+a+R%24+5%2C01+Finance+News",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T18:07:36-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-55"
+ },
+ {
+  "titulo": "Juros futuros refletem otimismo eleitoral no Brasil",
+  "resumo": "Os juros futuros apresentam queda acentuada, mesmo após saírem das mínimas recentes, impulsionados por um clima otimista nas eleições.",
+  "fatos": [
+   "Os juros futuros estão em queda, embora tenham saído de suas mínimas.",
+   "O otimismo em relação ao cenário eleitoral está influenciando essa movimentação.",
+   "Os investidores continuam a acompanhar os sinais políticos para decisões do mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A queda nos juros futuros pode indicar maior confiança do mercado e impacto nas decisões de investimentos.",
+  "impactoMercado": "Esse cenário pode afetar a dinâmica do mercado, influenciando as escolhas financeiras dos investidores.",
+  "entenda": "Juros futuros são contratos que financiam taxas de juros e são influenciados por expectativas de inflação e política monetária.",
+  "observar": "Fique de olho nas atualizações eleitorais e suas repercussões sobre o cenário econômico.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender como o ambiente político pode afetar os juros é essencial para quem deseja investir com mais segurança.",
+  "gancho": "*Otimismo eleitoral* impacta *juros futuros*",
+  "ideias": [
+   "O que muda com a queda dos juros futuros?",
+   "Como o otimismo das eleições afeta o mercado?",
+   "Entenda a relação entre juros futuros e política."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Juros",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.google.com/search?q=Juros+futuros+saem+das+m%C3%ADnimas%2C+mas+ainda+t%C3%AAm+queda+forte+com+otimismo+eleitoral+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T17:48:34-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-56"
+ },
+ {
+  "titulo": "Euro fica em alta na cotação de hoje",
+  "resumo": "Acompanhe ao vivo as cotações do euro e o seu comportamento no mercado financeiro.",
+  "fatos": [
+   "O euro é uma moeda importante no mercado global.",
+   "Acompanhar a cotação é fundamental para operações de câmbio.",
+   "Flutuações na cotação podem impactar investimentos."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender a cotação do euro ajuda investidores a tomar decisões mais informadas sobre câmbio e operações de comércio exterior.",
+  "impactoMercado": "Mudanças na cotação do euro podem influenciar o comércio e o fluxo de investimentos, refletindo na economia local.",
+  "entenda": "A cotação de moedas, como o euro, é o valor que se paga por uma unidade da moeda em outra. Isso é crucial para negociações internacionais.",
+  "observar": "Fique atento às flutuações que podem ocorrer devido a notícias econômicas ou políticas na Europa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia é uma ótima oportunidade para entender como a cotação do euro pode afetar o mercado, mostrando a importância de se informar.",
+  "gancho": "Siga a cotação do *euro*",
+  "ideias": [
+   "Como a cotação do euro impacta suas finanças?",
+   "5 dicas para entender o câmbio com o euro",
+   "A importância do euro para o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "GZH",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.google.com/search?q=Euro+hoje%3A+siga+ao+vivo+o+valor+da+cota%C3%A7%C3%A3o+GZH",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T18:24:59-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-57"
+ },
+ {
+  "titulo": "Receita devolve valor recorde em restituições do IR 2026",
+  "resumo": "A Receita Federal anunciou a devolução de um valor histórico em restituições do Imposto de Renda de 2026, totalizando R$ 41 bilhões.",
+  "fatos": [
+   "A Receita Federal alcançou um valor recorde de R$ 41 bilhões em restituições do Imposto de Renda.",
+   "Essa devolução é considerada um feito histórico para o órgão.",
+   "Os contribuintes afetados poderão acessar suas restituições em breve."
+  ],
+  "numeros": [
+   {
+    "valor": "41 bilhões",
+    "rotulo": "valor em restituições do IR 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 41 bilhões",
+  "porQueImporta": "Esse volume recorde de restituições pode impactar a liquidez no mercado, pois representa um aporte significativo de recursos na economia.",
+  "impactoMercado": "A devolução de restituições pode injetar recursos no mercado, estimulando o consumo e influenciando o desempenho de alguns setores econômicos.",
+  "entenda": "O Imposto de Renda é uma tributo arrecadado pelo governo, onde contribuintes podem receber restituições caso tenham pago valor superior ao devido.",
+  "observar": "Fique atento ao cronograma de devoluções da Receita e como isso pode afetar a economia local.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender a dinâmica das restituições pode ajudar investidores a antecipar movimentações no mercado.",
+  "gancho": "*Restituições* recordes em *2026*!",
+  "ideias": [
+   "O que significam as restituições do IR?",
+   "Como o valor recorde impacta a economia?",
+   "Restituições do IR: uma oportunidade para o investidor."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "G1",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://www.google.com/search?q=Receita+devolve+valor+recorde+de+R%24+41+bilh%C3%B5es+em+restitui%C3%A7%C3%B5es+do+IR+2026+G1",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T18:42:56-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-58"
+ },
+ {
+  "titulo": "Oversight Board critica Meta por falhas nas eleições",
+  "resumo": "O comitê de supervisão da Meta afirma que a empresa deve aumentar a transparência e melhorar seu controle de conteúdos eleitorais após falhas nas eleições brasileiras.",
+  "fatos": [
+   "Oversight Board destaca que a Meta aplicou excessivamente políticas antifraude contra anúncios de Lula.",
+   "O comitê pede mais transparência nas ações da Meta durante as eleições.",
+   "A falta de métricas públicas sobre a eficácia das medidas eleitorais foi criticada.",
+   "Relatos de interferência eleitoral e remoção indevida de conteúdos têm preocupado especialistas.",
+   "O conselho exige que a Meta atenda à promessa de 2025 sobre liberdade de expressão."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essa discussão sobre a moderação de conteúdos e transparência é crucial para a integridade do processo eleitoral, influenciando a confiança dos usuários nas plataformas.",
+  "impactoMercado": "As práticas de moderação da Meta podem afetar sua reputação e, consequentemente, impactar a percepção de investidores sobre a empresa e seu valor de mercado.",
+  "entenda": "O Oversight Board é um comitê independente que analisa decisões da Meta sobre o controle de conteúdos. Suas críticas visam garantir a integridade e a confiança em períodos eleitorais.",
+  "observar": "Acompanhar os próximos anúncios da Meta sobre mudanças em suas políticas de moderação e a implementação de métricas públicas solicitadas pelo comitê.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A crítica ao controle das plataformas sociais levanta a importância de debater o impacto da moderação na participação política e no mercado financeiro.",
+  "gancho": "*Falhas* da Meta na fiscalização eleitoral",
+  "ideias": [
+   "Por que a transparência é crucial nas eleições?",
+   "Como a moderação de conteúdos afeta o mercado?",
+   "Entenda a função do Oversight Board da Meta"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:18:27-03:00",
+  "url": "https://exame.com/brasil/comite-da-meta-diz-estar-preocupado-com-falhas-recorrentes-no-controle-de-conteudos-eleitorais/",
+  "publicadoEm": "2026-10-20T15:32:50-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-59"
+ },
+ {
   "titulo": "Ibovespa cresce 1,58% com exterior favorável e eleições",
   "resumo": "O Ibovespa B3 subiu devido ao ambiente internacional positivo e às eleições. O dólar também teve queda significativa.",
   "fatos": [
