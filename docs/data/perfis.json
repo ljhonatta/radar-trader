@@ -1,0 +1,24 @@
+{
+ "trader_wendellguimaraes": {
+  "nome": "Trader School Wendell Guimarães",
+  "handle": "@trader_wendellguimaraes",
+  "paleta": "laranja",
+  "foto": "img/foto-wendell.jpg",
+  "instLogo": "img/logo-traderschool.png",
+  "inst": "Trader School",
+  "bordao": "Menos ansiedade | Mais conhecimento",
+  "pitch": "A Trader School Wendell Guimarães é uma faculdade para quem quer entrar no mercado financeiro, entender o day trade e viver o extraordinário.",
+  "ctaFinal": "Quer entrar no mundo do mercado financeiro? Clique no link da bio e venha fazer parte da nossa faculdade."
+ },
+ "traderjhonatta": {
+  "nome": "Trader Jhonatta",
+  "handle": "@traderjhonatta",
+  "paleta": "laranja",
+  "foto": "img/foto-jhonatta.jpg",
+  "instLogo": "img/logo-traderschool.png",
+  "inst": "Trader School",
+  "bordao": "Menos ansiedade | Mais conhecimento",
+  "pitch": "A Trader School Wendell Guimarães é uma faculdade para quem quer entrar no mercado financeiro, entender o day trade e viver o extraordinário.",
+  "ctaFinal": "Quer entrar no mundo do mercado financeiro? Clique no link da bio e venha fazer parte da nossa faculdade."
+ }
+}

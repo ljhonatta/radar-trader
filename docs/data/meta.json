@@ -1,0 +1,81 @@
+{
+ "coleta": {
+  "atualizadas": 0,
+  "falhas": [],
+  "manual": false,
+  "mensagem": "Notícias trazidas do painel antigo (coleta de 20/10, 7h). A partir de agora a coleta roda no GitHub.",
+  "novas": 10,
+  "status": "ok",
+  "ultimaColeta": "2026-10-20T07:00:00-03:00",
+  "historico": [
+   "2026-10-20T07:00:00-03:00"
+  ]
+ },
+ "placar": {
+  "atualizadoEm": "2026-10-20T07:00:00-03:00",
+  "btc": "US$ 81,7 mil",
+  "data": "2026-10-20",
+  "dolar": "R$ 5,05",
+  "dolarVar": "-0,49%",
+  "hora": "ter 7h",
+  "ibov": "205.079",
+  "ibovVar": "-0,17%",
+  "itens": [
+   {
+    "k": "IBOV",
+    "nome": "Ibovespa",
+    "v": "205.079",
+    "var": "-0,17%"
+   },
+   {
+    "k": "USD",
+    "nome": "Dólar comercial",
+    "v": "R$ 5,05",
+    "var": "-0,49%"
+   },
+   {
+    "k": "EUR",
+    "nome": "Euro",
+    "v": "R$ 5,67",
+    "var": "-0,71%"
+   },
+   {
+    "k": "BTC",
+    "nome": "Bitcoin",
+    "v": "US$ 81,7 mil",
+    "var": "-1,2%"
+   },
+   {
+    "k": "SPX",
+    "nome": "S&P 500",
+    "v": "7.690",
+    "var": "+0,41%"
+   },
+   {
+    "k": "BRENT",
+    "nome": "Petróleo Brent",
+    "v": "US$ 110,50",
+    "var": "+0,85%"
+   },
+   {
+    "k": "OURO",
+    "nome": "Ouro",
+    "v": "US$ 4.160,10",
+    "var": "-0,50%"
+   },
+   {
+    "k": "SELIC",
+    "nome": "Selic meta",
+    "v": "13,75%",
+    "var": ""
+   },
+   {
+    "k": "IPCA",
+    "nome": "IPCA 12 meses",
+    "v": "4,58%",
+    "var": ""
+   }
+  ],
+  "obs": "Último fechamento"
+ }
+}

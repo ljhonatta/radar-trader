@@ -1,0 +1,25 @@
+{
+  "_comentario": "Fontes do Radar Trader. 'feeds' são RSS lidos direto. 'buscas' viram buscas no Google Notícias (últimas 24h), para os sites que bloqueiam leitura direta. Pode adicionar ou tirar à vontade.",
+  "feeds": [
+    {"nome": "Money Times", "url": "https://www.moneytimes.com.br/mercados/feed/", "reserva": "https://www.moneytimes.com.br/feed/"},
+    {"nome": "Bora Investir (B3)", "url": "https://borainvestir.b3.com.br/feed/"},
+    {"nome": "Agência Brasil Economia", "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml"},
+    {"nome": "InfoMoney", "url": "https://www.infomoney.com.br/feed/"},
+    {"nome": "Exame", "url": "https://exame.com/feed/"},
+    {"nome": "Bloomberg Línea", "url": "https://www.bloomberglinea.com.br/arc/outboundfeeds/rss/?outputType=xml"},
+    {"nome": "BP Money", "url": "https://bpmoney.com.br/feed/"},
+    {"nome": "Acionista", "url": "https://acionista.com.br/feed/"},
+    {"nome": "Seu Dinheiro", "url": "https://www.seudinheiro.com/feed/"}
+  ],
+  "buscas": [
+    "Ibovespa fechamento", "dólar hoje real", "Copom Selic", "Boletim Focus", "IPCA inflação IBGE",
+    "juros futuros DI", "B3 bolsa", "Banco Central Galípolo", "Fed juros Powell", "petróleo Brent",
+    "Valor Econômico mercado", "Folha mercado bolsa", "G1 economia mercado", "Reuters Brasil mercado", "CNN Brasil economia", "E-Investidor Estadão",
+    "CVM regulação", "Tesouro Direto", "dividendos ações", "fundos imobiliários FIIs", "bitcoin ETF"
+  ],
+  "polymarket": [
+    "https://gamma-api.polymarket.com/events?closed=false&tag_slug=economy&order=volume24hr&ascending=false&limit=15",
+    "https://gamma-api.polymarket.com/events?closed=false&tag_slug=fed&order=volume24hr&ascending=false&limit=10",
+    "https://gamma-api.polymarket.com/events?closed=false&tag_slug=crypto&order=volume24hr&ascending=false&limit=10"
+  ]
+}
