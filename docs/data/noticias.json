@@ -1,5 +1,1132 @@
 [
  {
+  "titulo": "Recuperação judicial do Grupo Casas Bahia é aprovada",
+  "resumo": "A Justiça de SP aprovou a recuperação judicial do Grupo Casas Bahia, que possui dívidas de R$ 17,3 bilhões, sendo R$ 16,4 bilhões sem garantias reais.",
+  "fatos": [
+   "A recuperação judicial foi aprovada pela 2ª Vara de Falências e Recuperações Judiciais.",
+   "O grupo apresentava dívidas totais de R$ 17,3 bilhões.",
+   "Dessas, R$ 16,4 bilhões são dívidas quirografárias, ou seja, sem garantias reais.",
+   "O plano de recuperação ainda precisa da aprovação dos credores.",
+   "A decisão mantém a suspensão das execuções contra o grupo por 180 dias."
+  ],
+  "numeros": [
+   {
+    "valor": "17,3 bilhões",
+    "rotulo": "total de dívidas do Grupo Casas Bahia"
+   },
+   {
+    "valor": "16,4 bilhões",
+    "rotulo": "dívidas quirografárias"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 17,3 bilhões",
+  "porQueImporta": "A recuperação judicial é um mecanismo que permite a uma empresa em dificuldades financeiras reorganizar suas dívidas e continuar operando.",
+  "impactoMercado": "A aprovação pode influenciar a confiança dos investidores e a percepção de risco do setor de varejo no Brasil.",
+  "entenda": "A recuperação judicial é um processo legal que busca reestruturar as dívidas de uma empresa, permitindo sua continuidade operacional.",
+  "observar": "Acompanhar os próximos passos do plano de recuperação e a resposta dos credores.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como a recuperação judicial afeta a operação de varejistas e aprende sobre mecanismos de reestruturação financeira.",
+  "gancho": "*Recuperação Judicial* do Grupo *Casas Bahia*",
+  "ideias": [
+   "O que é recuperação judicial?",
+   "Entenda as dívidas do Grupo Casas Bahia",
+   "Impacto da recuperação judicial no varejo"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.infomoney.com.br/mercados/justica-de-sp-aprova-recuperacao-judicial-do-grupo-casas-bahia-bhia3/",
+  "publicadoEm": "2026-10-21T11:37:50-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-01"
+ },
+ {
+  "titulo": "GPA inicia recuperação e B3 bloqueia títulos por 60 dias",
+  "resumo": "O GPA deu início ao plano de reestruturação de dívidas, com homologação judicial, resultando no bloqueio de títulos na B3 por até 60 dias.",
+  "fatos": [
+   "A Justiça homologou o plano de recuperação extrajudicial do GPA em 7 de outubro de 2026.",
+   "Os credores têm até 30 dias para disponibilizar novos recursos após a publicação da sentença.",
+   "O bloqueio dos títulos na B3 impede qualquer operação de negociação até a emissão das novas debêntures."
+  ],
+  "numeros": [
+   {
+    "valor": "60",
+    "rotulo": "dias de bloqueio na B3"
+   },
+   {
+    "valor": "30",
+    "rotulo": "dias para novos recursos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "60 dias",
+  "porQueImporta": "A recuperação do GPA e o bloqueio de títulos refletem a saúde financeira da empresa e podem influenciar a confiança de investidores e credores.",
+  "impactoMercado": "O bloqueio de títulos pode afetar a liquidez e a negociação de ativos relacionados ao GPA, gerando cautela entre investidores.",
+  "entenda": "A recuperação judicial é um mecanismo legal que permite a reestruturação de dívidas, buscando evitar a falência da empresa.",
+  "observar": "Acompanhe a emissão das novas debêntures e a resposta do mercado às notícias da GPA ao longo do período de bloqueio.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como reestruturações podem afetar o mercado é essencial para investidores e quem busca conhecer a fundo a dinâmica das empresas.",
+  "gancho": "*GPA* e *reestruturação*: O que esperar?",
+  "ideias": [
+   "Como a recuperação judicial impacta o mercado?",
+   "O que significa bloqueio de títulos na B3?",
+   "Entenda a importância da reestruturação de dívida."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.infomoney.com.br/mercados/gpa-recuperacao-extrajudicial-leva-b3-a-bloquear-titulos-por-ate-60-dias/",
+  "publicadoEm": "2026-10-21T11:20:23-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-02"
+ },
+ {
+  "titulo": "Petróleo sobe com temores de abastecimento no Oriente Médio",
+  "resumo": "Os preços do petróleo aumentaram devido a tensões no Oriente Médio e queda nos estoques dos EUA. O Brent e o WTI registraram altas importantes.",
+  "fatos": [
+   "Os contratos futuros do petróleo Brent subiram 92 centavos, ou 0,85%, para US$ 109,700 por barril.",
+   "O petróleo WTI avançou 82 centavos, ou 0,84%, para US$ 98,64 por barril.",
+   "Os estoques de petróleo bruto dos EUA caíram 4,9 milhões de barris na semana encerrada em 16 de outubro.",
+   "A empresa Kpler registrou pelo menos 18 ataques a embarcações nas últimas duas semanas.",
+   "O Irã afirmou não haver negociações com os EUA até que suas exigências sejam atendidas."
+  ],
+  "numeros": [
+   {
+    "valor": "109,700",
+    "rotulo": "Preço do petróleo Brent por barril"
+   },
+   {
+    "valor": "98,64",
+    "rotulo": "Preço do petróleo WTI por barril"
+   },
+   {
+    "valor": "4,9 milhões",
+    "rotulo": "Queda em barris dos estoques dos EUA"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Brent a US$",
+  "porQueImporta": "As flutuações nos preços do petróleo impactam diretamente os custos de energia e transporte, afetando diversos setores da economia.",
+  "impactoMercado": "Tensões no Oriente Médio podem gerar volatilidade nos preços do petróleo, influenciando mercados e investimentos em energia.",
+  "entenda": "O petróleo Brent é um dos principais indicadores de preços globais do petróleo, com referências em diversas negociações internacionais.",
+  "observar": "Acompanhe os desdobramentos das tensões no Oriente Médio e os dados de estoques de petróleo nos EUA.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender as dinâmicas do petróleo pode ajudar a tomar decisões mais informadas no mercado.",
+  "gancho": "*Petróleo sobe* com *tensões do Oriente Médio*",
+  "ideias": [
+   "Impacto da queda dos estoques de petróleo nos preços",
+   "Como as tensões geopolíticas afetam o mercado de petróleo?",
+   "Entenda o que são contratos futuros de petróleo"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.moneytimes.com.br/petroleo-sobe-com-temores-sobre-o-abastecimento-no-oriente-medio-e-queda-dos-estoques-dos-eua-fets/",
+  "publicadoEm": "2026-10-21T04:52:07-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-03"
+ },
+ {
+  "titulo": "WEG lucra R$ 1,67 bi no 3º tri, abaixo do esperado",
+  "resumo": "A WEG apresentou lucro líquido de R$ 1,67 bilhão no terceiro trimestre de 2026, valor que não atendeu às expectativas de analistas. A receita líquida também ficou aquém das previsões.",
+  "fatos": [
+   "No 3T26, a WEG (WEGE3) lucrou R$ 1,67 bilhão, aumento de 0,9% em relação ao 3T25.",
+   "A receita líquida foi de R$ 10,86 bilhões, abaixo dos R$ 10,92 bilhões projetados.",
+   "O EBITDA totalizou R$ 2,3452 bilhões, inferior aos R$ 2,40 bilhões esperados.",
+   "A margem EBITDA caiu para 21,6%, com queda em relação ao ano passado e ao trimestre anterior.",
+   "As despesas consolidadas de VG&A aumentaram 7,0% em relação ao 3T25 e 0,7% em relação ao 2T26."
+  ],
+  "numeros": [
+   {
+    "valor": "1,67",
+    "rotulo": "lucro líquido em bilhões de reais"
+   },
+   {
+    "valor": "10,86",
+    "rotulo": "receita líquida em bilhões de reais"
+   },
+   {
+    "valor": "2,34",
+    "rotulo": "EBITDA em bilhões de reais"
+   },
+   {
+    "valor": "21,6",
+    "rotulo": "margem EBITDA em porcentagem"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "lucro líquido",
+    "antes": "R$ 1,65 bi",
+    "depois": "R$ 1,67 bi"
+   },
+   {
+    "item": "receita líquida",
+    "antes": "R$ 10,92 bi",
+    "depois": "R$ 10,86 bi"
+   },
+   {
+    "item": "EBITDA",
+    "antes": "R$ 2,40 bi",
+    "depois": "R$ 2,3452 bi"
+   }
+  ],
+  "destaque": "R$ 1,67 bilhão",
+  "porQueImporta": "Os resultados abaixo do esperado indicam desafios para a WEG, o que pode impactar a confiança dos investidores e a avaliação da empresa no mercado.",
+  "impactoMercado": "Resultados financeiros aquém das projeções tendem a gerar volatilidade nas ações da companhia, refletindo incertezas sobre o desempenho futuro.",
+  "entenda": "Lucro líquido é o resultado final de uma empresa após deduzir todos os custos e despesas, representando o que ela realmente ganha.",
+  "observar": "Fique atento a futuros resultados financeiros da WEG e comentários de analistas sobre setores que influenciam sua performance.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender os resultados da WEG ajuda investidores a avaliar como o mercado pode reagir a notícias financeiras e aprender mais sobre análise de balanços.",
+  "gancho": "*Resultados da WEG* decepcionam o mercado",
+  "ideias": [
+   "Por que o lucro da WEG foi abaixo do esperado?",
+   "Como a receita líquida impacta suas decisões de investimento?",
+   "Entenda a importância do EBITDA nos resultados financeiros."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/weg-wege3-lucro-167-bilhao-3-trimestre-2026/",
+  "publicadoEm": "2026-10-21T09:20:35-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-04"
+ },
+ {
+  "titulo": "Setor financeiro e bancário se destacam na B3",
+  "resumo": "Os índices de empresas financeiras e bancárias lideraram a valorização da renda variável no terceiro trimestre de 2026, com altas significativas.",
+  "fatos": [
+   "O Índice Financeiro (IFNC B3) subiu 12,19% entre julho e setembro de 2026.",
+   "O Índice B3 Bancos avançou 10,85% no mesmo período.",
+   "O Índice Carbono Eficiente (ICO2 B3) ficou em terceiro com valorização de 10,72%.",
+   "O Índice Bovespa apresentou alta de 8,32% no trimestre.",
+   "Os índices ajudam investidores a acompanhar o desempenho de segmentos econômicos."
+  ],
+  "numeros": [
+   {
+    "valor": "12,19%",
+    "rotulo": "alta do Índice Financeiro"
+   },
+   {
+    "valor": "10,85%",
+    "rotulo": "alta do Índice Bancos"
+   },
+   {
+    "valor": "8,32%",
+    "rotulo": "alta do Ibovespa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "12,19%",
+  "porQueImporta": "Compreender a valorização dos índices é crucial para investidores que buscam diversificação e estratégia em suas operações na bolsa.",
+  "impactoMercado": "O desempenho positivo dos índices financeiros e bancários pode atrair mais investidores à bolsa e aumentar a liquidez do mercado.",
+  "entenda": "Os índices de ações são ferramentas que permitem acompanhamento de segmentos do mercado, funcionando como termômetros do desempenho econômico e investimento.",
+  "observar": "Acompanhe a evolução destes índices e o impacto no mercado acionário nos próximos trimestres.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Ao explorar a valorização do setor financeiro, os investidores podem perceber oportunidades e entender melhor o funcionamento do mercado.",
+  "gancho": "*Valorização* da *renda variável* no 3º tri",
+  "ideias": [
+   "Setor financeiro brilha na B3",
+   "Desempenho do Ibovespa e índices setoriais",
+   "Como ETFs refletem a B3"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/indices/indices-de-empresas-dos-setores-financeiro-e-bancario-lideram-valorizacao-da-renda-variavel-no-3o-tri/",
+  "publicadoEm": "2026-10-21T10:43:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-05"
+ },
+ {
+  "titulo": "Ruiz Coffees solicita recuperação judicial com dívida de R$ 775 milhões",
+  "resumo": "A Ruiz Coffees entrou com pedido de recuperação judicial devido a uma dívida total de aproximadamente R$ 1,6 bilhão, impactada por juros altos e problemas climáticos. O processo já conta com algumas medidas de proteção.",
+  "fatos": [
+   "O pedido de recuperação foi protocolado em São José do Rio Preto (SP).",
+   "Do total da dívida, R$ 775 milhões estão incluídos no processo.",
+   "O juiz determinou a suspensão das cobranças judiciais por 30 dias.",
+   "A empresa listou diversas causas para o aperto financeiro, incluindo alta dos juros e custos elevados.",
+   "Se o pedido for aceito, a Ruiz Coffees terá 60 dias para apresentar um plano de recuperação."
+  ],
+  "numeros": [
+   {
+    "valor": "1,6 bilhão",
+    "rotulo": "dívida total da Ruiz Coffees"
+   },
+   {
+    "valor": "775 milhões",
+    "rotulo": "dívida no processo de recuperação"
+   },
+   {
+    "valor": "30 dias",
+    "rotulo": "período de suspensão das cobranças"
+   },
+   {
+    "valor": "60 dias",
+    "rotulo": "prazo para apresentar plano de recuperação"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 775 milhões",
+  "porQueImporta": "A recuperação judicial é uma medida que pode impactar a cadeia produtiva do café, considerando a importância da Ruiz Coffees no Brasil e os efeitos diretos e indiretos nas finanças de fornecedores e credores.",
+  "impactoMercado": "A situação da Ruiz Coffees pode afetar a confiança dos investidores no setor agrícola, especialmente considerando as altas taxas de juros e as dificuldades financeiras de empresas do ramo.",
+  "entenda": "A recuperação judicial é um processo que permite que empresas em dificuldade financeira reestruturem suas dívidas e continuem operando, evitando a falência.",
+  "observar": "Fique atento às decisões judiciais que podem impactar a recuperação financeira da empresa e como isso pode afetar o mercado de café.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Aposentados"
+  ],
+  "angulo": "Este caso destaca desafios e estratégias na gestão de dívidas em empresas do setor agrícola, o que pode despertar interesse em entender mais sobre o funcionamento do mercado financeiro.",
+  "gancho": "*Recuperação judicial* em destaque!",
+  "ideias": [
+   "Consequências da recuperação judicial no setor agrícola",
+   "Entenda a recuperação judicial e sua importância",
+   "Como juros altos afetam empresas agrícolas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://bpmoney.com.br/agro/ruiz-coffees-recuperacao-judicial-divida-775-milhoes/",
+  "publicadoEm": "2026-10-21T10:29:58-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-06"
+ },
+ {
+  "titulo": "SUS oferece 9 novos medicamentos para câncer",
+  "resumo": "O SUS inicia a oferta de nove novos tratamentos oncológicos, prevendo beneficiar mais de 116 mil pessoas em todo o Brasil. A novidade vem com um investimento anual de R$ 155,4 milhões.",
+  "fatos": [
+   "Os novos medicamentos têm 13 indicações para tumores variados, como mama e próstata.",
+   "A distribuição começará em 20 centros de tratamento em 17 estados brasileiros.",
+   "O Ministério da Saúde prevê a expansão para mais centros até dezembro.",
+   "Além dos novos produtos, o objetivo é alcançar 23 medicamentos oncológicos até o final do ano.",
+   "O impacto financeiro total das medidas pode chegar a R$ 4 bilhões por ano."
+  ],
+  "numeros": [
+   {
+    "valor": "116.000",
+    "rotulo": "número de pacientes beneficiados"
+   },
+   {
+    "valor": "R$ 155,4 milhões",
+    "rotulo": "investimento anual para aquisição"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "aumento das opções de tratamento disponíveis"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 155,4 milhões",
+  "porQueImporta": "Essas novas opções de tratamento no SUS são essenciais para aumentar a acessibilidade e a variedade de cuidados oncológicos disponíveis para a população.",
+  "impactoMercado": "A ampliação do acesso a medicamentos pode influenciar positivamente a percepção da população sobre o sistema de saúde pública e sua eficácia.",
+  "entenda": "O SUS é o sistema público de saúde brasileiro, que oferece uma variedade de serviços de saúde à população, incluindo tratamento de câncer.",
+  "observar": "Fique atento aos próximos anúncios sobre a expansão da distribuição desses medicamentos para mais centros de saúde.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Esta notícia mostra a importância de entender o sistema de saúde e como ele pode impactar a vida dos cidadãos, além de ser uma oportunidade para conhecer mais sobre investimentos na área da saúde.",
+  "gancho": "*Novos tratamentos* no SUS para câncer",
+  "ideias": [
+   "Entenda como o SUS muda a saúde pública",
+   "Novos medicamentos que transformam vidas",
+   "O que significa a ampliação do SUS?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://exame.com/ciencia/sus-comeca-a-oferecer-9-novos-medicamentos-contra-o-cancer-veja-quais/",
+  "publicadoEm": "2026-10-21T07:15:53-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-07"
+ },
+ {
+  "titulo": "Ibovespa avança com eleições e dólar estável",
+  "resumo": "O Ibovespa inicia o dia em alta com foco nas eleições, enquanto o dólar se mantém estável frente ao real. A disputa presidencial gera expectativas no mercado.",
+  "fatos": [
+   "O Ibovespa teve alta de 0,35%, alcançando 209.031,63 pontos.",
+   "O dólar à vista manteve-se em R$ 5,0196, com leve variação de 0,01%.",
+   "Flávio Bolsonaro e Lula estão em empate técnico nas intenções de voto, com 48% e 46%, respectivamente.",
+   "A Fitch Ratings prevê aperto das contas públicas no próximo ano independentemente do vencedor das eleições.",
+   "O IGP-M subiu 1,59% na segunda prévia de outubro, uma aceleração em relação ao mês anterior."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "209.031,63 pontos",
+  "porQueImporta": "A alta do Ibovespa reflete reações do mercado a eventos políticos, podendo impactar as decisões de investimento dos traders e investidores.",
+  "impactoMercado": "As expectativas eleitorais e os dados econômicos podem alterar a confiança dos investidores e direcionar os movimentos do mercado em curto prazo.",
+  "entenda": "O Ibovespa é o principal indicador do desempenho das ações na Bolsa brasileira, refletindo a saúde econômica e política do país.",
+  "observar": "Fique de olho nas próximas pesquisas eleitorais e no impacto de decisões fiscais na economia e no mercado de ações.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender os movimentos do Ibovespa e suas relações com as eleições ajuda a decifrar o comportamento do mercado.",
+  "gancho": "*Eleições* e *Ibovespa*: o que esperar?",
+  "ideias": [
+   "Como as eleições influenciam o Ibovespa?",
+   "O que saber sobre o dólar hoje?",
+   "Expectativas do mercado: eleições e economia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-21-10-26-lils/",
+  "publicadoEm": "2026-10-21T10:14:01-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-08"
+ },
+ {
+  "titulo": "Ibovespa futuro inicia dia em queda antes do segundo turno",
+  "resumo": "A quatro dias das eleições, o Ibovespa futuro caiu 0,65% em meio à expectativa da pesquisa Quaest. O dólar, inicialmente em alta, também teve quedas rápidas nesta quarta-feira.",
+  "fatos": [
+   "O Ibovespa futuro começou o dia com queda de 0,65%, a 211.630 pontos.",
+   "Logo após, o índice alcançou mínima de 0,32%, chegando a 207.623,77 pontos.",
+   "O dólar à vista abriu a R$ 5,0270, alta de 0,16%, mas depois caiu para R$ 5,0145.",
+   "Os investidores aguardam a divulgação da pesquisa Quaest, prevista para às 10h.",
+   "No exterior, o petróleo Brent está próximo de US$ 110 por barril."
+  ],
+  "numeros": [
+   {
+    "valor": "211.630",
+    "rotulo": "Ibovespa futuro inicia o dia"
+   },
+   {
+    "valor": "207.623,77",
+    "rotulo": "Ibovespa atinge mínima"
+   },
+   {
+    "valor": "R$ 5,0270",
+    "rotulo": "Dólar à vista abre em alta"
+   },
+   {
+    "valor": "R$ 5,0145",
+    "rotulo": "Dólar à vista depois da queda"
+   },
+   {
+    "valor": "US$ 110",
+    "rotulo": "Preço do petróleo Brent"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,0145",
+  "porQueImporta": "O cenário eleitoral tende a influenciar o apetite por risco dos investidores, impactando diretamente o mercado financeiro.",
+  "impactoMercado": "A expectativa em relação às eleições pode aumentar a volatilidade no mercado, afetando tanto ações quanto moedas.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, refletindo as ações mais negociadas e o desempenho do mercado como um todo.",
+  "observar": "Acompanhe a divulgação da pesquisa Quaest e como ela pode impactar o comportamento do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto das eleições no mercado financeiro é crucial para investidores que buscam se atualizar e operar com mais segurança.",
+  "gancho": "*Eleições impactam* o mercado financeiro",
+  "ideias": [
+   "Como as eleições influenciam o Ibovespa?",
+   "Expectativa do mercado para o segundo turno",
+   "Dólar e sua relação com o cenário eleitoral"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-futuro-21-10-26-lils/",
+  "publicadoEm": "2026-10-21T09:16:09-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-09"
+ },
+ {
+  "titulo": "Lula edita MP com R$ 6,494 bi para empresas",
+  "resumo": "O presidente Lula anunciou crédito extraordinário para apoiar empresas afetadas por tarifas dos EUA, totalizando R$ 6,494 bilhões. Essa medida pode impactar o mercado de exportação.",
+  "fatos": [
+   "O presidente Luiz Inácio Lula da Silva editou a medida provisória 1.397.",
+   "Essa MP destina R$ 6,494 bilhões para crédito extraordinário.",
+   "O valor é para financiar exportadores e seus fornecedores no Plano Brasil Soberano.",
+   "Esse programa visa apoiar empresas afetadas pelo tarifaço dos EUA.",
+   "Uma segunda MP, a 1.398, abre R$ 300 milhões para despesas do Ministério da Integração."
+  ],
+  "numeros": [
+   {
+    "valor": "6.494.000.000",
+    "rotulo": "Crédito extraordinário do Plano Brasil Soberano"
+   },
+   {
+    "valor": "300.000.000",
+    "rotulo": "Crédito para defesa civil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 6,494 bilhões",
+  "porQueImporta": "Essa medida pode aliviar a pressão financeira sobre exportadores, contribuindo para a estabilidade econômica em um cenário desafiador.",
+  "impactoMercado": "As ações de empresas exportadoras podem ser influenciadas positivamente, além de refletir uma postura do governo frente a tarifas internacionais.",
+  "entenda": "O Plano Brasil Soberano é um programa de apoio para empresas que sofrem com tarifas elevadas, buscando minimizar os impactos no comércio exterior.",
+  "observar": "Acompanhe possíveis reações do mercado às medidas de apoio, especialmente no setor de exportação.",
+  "publico": [
+   "Empresários",
+   "Investidores"
+  ],
+  "angulo": "Entender como decisões políticas impactam o mercado pode ajudar investidores a se prepararem para mudanças de cenário.",
+  "gancho": "*Crédito Extraordinário* para as empresas!",
+  "ideias": [
+   "Como a MP de Lula pode beneficiar empresas?",
+   "Impactos do novo crédito no mercado de exportação.",
+   "Entenda o Plano Brasil Soberano e suas implicações."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "raio",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-edita-mp-com-r-6494-bi-em-credito-extra-para-plano-brasil-soberano/",
+  "publicadoEm": "2026-10-21T11:27:01-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-10"
+ },
+ {
+  "titulo": "Influenciadora Malévola Alves é presa no Egito",
+  "resumo": "A influenciadora Malévola Alves foi detida no Egito por postar vídeos com conotação sexual, segundo autoridades locais. O caso gerou repercussão internacional e preocupações sobre discriminação.",
+  "fatos": [
+   "Malévola Alves, influenciadora de 22 anos, foi presa em Alexandria, Egito.",
+   "As autoridades a acusaram de gravar vídeos com insinuações sexuais.",
+   "A Embaixada do Brasil no Cairo está disponível para assistência consular.",
+   "As brasileiras foram entrevistadas sobre sua identidade de gênero. A detenção provocou desespero e preocupação entre seguidores.",
+   "Malévola tem 900 mil seguidores no TikTok e 1,9 milhão no Instagram."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Este incidente destaca os riscos e desafios enfrentados por influenciadores e pessoas da comunidade LGBT em contextos sociais conservadores.",
+  "impactoMercado": "A repercussão do caso pode afetar a percepção de segurança de turistas e influenciadores em países com normas sociais restritivas.",
+  "entenda": "O caso traz à tona questões sobre direitos LGBT em países onde a discriminação é comum e pode impactar a vida de viajantes.",
+  "observar": "Acompanhe o desdobramento legal do caso e a resposta do governo brasileiro sobre a situação das brasileiras.",
+  "publico": [
+   "Iniciantes",
+   "Aposentados",
+   "Investidores"
+  ],
+  "angulo": "A detenção de Malévola Alves gera discussões sobre os limites da liberdade de expressão nas redes sociais e a segurança de influenciadores no exterior.",
+  "gancho": "*Detenção* de influenciadora gera *preocupação*",
+  "ideias": [
+   "Malévola Alves: A influenciadora e seus desafios",
+   "O que a detenção de Malévola revela sobre direitos LGBT?",
+   "Impactos da prisão de uma influenciadora no Egito"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.infomoney.com.br/brasil/quem-e-malevola-alves-influenciadora-brasileira-detida-no-egito-aos-22-anos/",
+  "publicadoEm": "2026-10-21T11:32:18-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-11"
+ },
+ {
+  "titulo": "Wall Street sobe com balanços do 3T e SpaceX em destaque",
+  "resumo": "Os índices de Wall Street estão em alta, impulsionados por balanços corporativos, como o da SpaceX, que apresentou resultados surpreendentes. O mercado aguarda outros lançamentos de resultados.",
+  "fatos": [
+   "Os índices de Wall Street operam em alta nesta quarta-feira, 21.",
+   "Os rendimentos dos Treasuries de longo prazo estão em queda, aliviando temores inflacionários.",
+   "A SpaceX reportou lucro líquido de US$ 4,4 bilhões no 3T.",
+   "O lucro ajustado por ação da SpaceX foi de US$ 0,35, superando expectativas de US$ 0,13.",
+   "A receita da SpaceX subiu 161% em relação ao ano anterior, alcançando US$ 14,6 bilhões."
+  ],
+  "numeros": [
+   {
+    "valor": "4,4 bilhões",
+    "rotulo": "Lucro líquido da SpaceX no 3T"
+   },
+   {
+    "valor": "161%",
+    "rotulo": "Aumento da receita da SpaceX"
+   },
+   {
+    "valor": "0,35",
+    "rotulo": "Lucro ajustado por ação da SpaceX"
+   },
+   {
+    "valor": "14,6 bilhões",
+    "rotulo": "Receita total da SpaceX"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "SpaceX lucrou US$",
+  "porQueImporta": "Os resultados das empresas impactam diretamente o sentimento do mercado. Um balanço positivo atrai novos investidores e pode elevar os preços das ações.",
+  "impactoMercado": "Um bom desempenho no terceiro trimestre pode influenciar o otimismo no mercado, especialmente se outras empresas também apresentarem resultados positivos.",
+  "entenda": "Os balanços corporativos são relatórios financeiros que mostram o desempenho de uma empresa em um período específico, como trimestral ou anual.",
+  "observar": "Fique atento aos próximos balanços, especialmente da Meta, e ao impacto das notícias nos índices de Wall Street.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como os balanços influenciam os preços das ações é fundamental para qualquer investidor ou operador no mercado.",
+  "gancho": "*Wall Street* avança com *SpaceX* e balanços!",
+  "ideias": [
+   "Resultados que movimentam o mercado",
+   "Por que os balanços corporativos importam?",
+   "SpaceX e o que seus lucros ensinam"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.moneytimes.com.br/wall-street-abertura-21-10-26-lils/",
+  "publicadoEm": "2026-10-21T10:56:27-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-12"
+ },
+ {
+  "titulo": "Ibovespa sobe aos 209 mil pontos com bancos e B3; Petrobras recua",
+  "resumo": "O Ibovespa avança 0,39% impulsionado por bancos e B3, enquanto a Petrobras registra queda. O cenário fiscal e as eleições seguem no radar dos investidores.",
+  "fatos": [
+   "Ibovespa iniciou o pregão em alta de 0,02%, fechando a 209.117,88 pontos com alta final de 0,39%.",
+   "Dólar oscila perto de R$ 5,03, com PTAX reportando compra a R$ 5,0175 e venda a R$ 5,0181.",
+   "Petrobras registra recuo de 0,31% nas ações ordinárias (PETR3) e 0,45% nas preferenciais (PETR4).",
+   "Os grandes bancos, como Itaú, Bradesco e Banco do Brasil, contribuíram para a valorização do índice.",
+   "O cenário fiscal e as expectativas eleitorais são monitorados pelos investidores."
+  ],
+  "numeros": [
+   {
+    "valor": "209.117,88",
+    "rotulo": "Pontos do Ibovespa"
+   },
+   {
+    "valor": "0,39%",
+    "rotulo": "Alta do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,03",
+    "rotulo": "Cotação do Dólar"
+   },
+   {
+    "valor": "0,31%",
+    "rotulo": "Queda da PETR3"
+   },
+   {
+    "valor": "0,45%",
+    "rotulo": "Queda da PETR4"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "209.117,88 pontos",
+  "porQueImporta": "A alta do Ibovespa indica um otimismo do mercado, influenciado pelo desempenho das ações dos bancos, vitais para a economia.",
+  "impactoMercado": "Movimentos como esse podem afetar a confiança dos investidores e impactar as estratégias de compra e venda de ações.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo a performance das ações mais negociadas e atuando como um termômetro do mercado.",
+  "observar": "Fique atento às movimentações nas próximas sessões, especialmente após o segundo turno das eleições, que pode afetar o cenário fiscal.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como as ações das grandes instituições financeiras afetam o mercado pode instigar o interesse em cursos de educação financeira.",
+  "gancho": "Ibovespa supera *209 mil pontos*!",
+  "ideias": [
+   "Ibovespa e o impacto das eleições",
+   "Por que os bancos impulsionaram o Ibovespa?",
+   "Análise da performance da Petrobras hoje"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-209-mil-pontos-com-bancos-e-b3-petrobras-recua/",
+  "publicadoEm": "2026-10-21T10:20:53-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-13"
+ },
+ {
+  "titulo": "Spotify exigirá verificação por QR no Plano Família",
+  "resumo": "A nova checagem do Spotify requer que os usuários do Plano Família confirmem presença em um local determinado.",
+  "fatos": [
+   "O Spotify implementará verificação por QR code para usuários do Plano Família.",
+   "A assinatura do plano pode incluir até seis contas, custando R$ 40,90 mensais.",
+   "Ambos, administrador e integrante, devem estar no mesmo local para a verificação.",
+   "Quem não concluir a checagem ficará impedido de entrar em outros planos por 12 meses.",
+   "O plano Família oferece uma divisão de R$ 40,90, aproximadamente R$ 6,82 por pessoa, quando cheio."
+  ],
+  "numeros": [
+   {
+    "valor": "40,90",
+    "rotulo": "custo mensal do Plano Família"
+   },
+   {
+    "valor": "6,82",
+    "rotulo": "custo por pessoa no plano cheio"
+   },
+   {
+    "valor": "12",
+    "rotulo": "meses de bloqueio para não verificados"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 40,90",
+  "porQueImporta": "Essa verificação pode impactar a adesão de novos assinantes no plano Família, já que condiciona benefícios e pode ser um fator limitante.",
+  "impactoMercado": "Mudanças no Spotify podem influenciar a atração de novos clientes e a fidelidade dos já existentes, refletindo na concorrência com outras plataformas de streaming.",
+  "entenda": "O Plano Família permite que várias pessoas compartilhem uma assinatura, mas precisam morar juntas para entrar.",
+  "observar": "Fique atento às possíveis reações dos usuários e como o Spotify pode ajustar essa estratégia no futuro.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as novas exigências do Spotify pode ajudar a perceber como os serviços se adaptam no mercado em busca de usuários mais fiéis.",
+  "gancho": "*Spotify* e suas novas exigências",
+  "ideias": [
+   "Como funciona o Plano Família do Spotify?",
+   "Verificação por QR: impacto no seu plano?",
+   "Spotify: vale a pena assinar o Família?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "moeda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://exame.com/tecnologia/spotify-exige-foto-de-qr-code-para-verificar-se-membros-do-plano-familia-moram-juntos/",
+  "publicadoEm": "2026-10-21T08:25:15-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-14"
+ },
+ {
+  "titulo": "Dólar apresenta leve alta após pesquisa da Quaest",
+  "resumo": "O dólar agora apresenta uma leve alta, refletindo as últimas pesquisas eleitorais divulgadas. Essa variação é um reflexo da dinâmica do mercado diante de expectativas políticas.",
+  "fatos": [
+   "O dólar se tornou mais forte nas últimas horas.",
+   "A mudança ocorreu após a divulgação de uma nova pesquisa da Quaest.",
+   "Esse movimento é observado com frequência em períodos eleitorais."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender a variação do dólar é crucial, pois impacta a economia e a vida cotidiana, afetando desde importações a investimentos.",
+  "impactoMercado": "Mudanças na cotação do dólar podem influenciar decisões de investidores e as expectativas em relação ao cenário político-econômico.",
+  "entenda": "O dólar é a moeda mais negociada globalmente e sua valorização ou desvalorização pode ter efeitos diretos sobre a economia nacional.",
+  "observar": "Fique atento a novas pesquisas de opinião e outros indicadores econômicos que podem influenciar o mercado cambial.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Acompanhar a flutuação do dólar ajuda a entender melhor o mercado financeiro e contextualiza o aprendizado na Trader School.",
+  "gancho": "Dólar e *pesquisas eleitorais*: o que esperar?",
+  "ideias": [
+   "Dólar em alta? Entenda os motivos!",
+   "Como as pesquisas eleitorais afetam o câmbio?",
+   "A importância do dólar no seu investimento"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+hoje+vira+para+leve+alta+ap%C3%B3s+nova+pesquisa+da+Quaest+InfoMoney",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T10:33:39-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-15"
+ },
+ {
+  "titulo": "Balanços e pesquisa eleitoral agitam o mercado financeiro",
+  "resumo": "Hoje, o mercado é impactado por balanços de empresas e novas pesquisas eleitorais. A volatilidade está alta, exigindo atenção dos investidores.",
+  "fatos": [
+   "Os relatos de balanços trimestrais estão influenciando as cotações das ações.",
+   "Pesquisas sobre as eleições também têm provocado reações no mercado.",
+   "A combinação desses fatores está gerando volatilidade nas operações."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Balanços e pesquisas eleitorais podem impactar diretamente a percepção de risco e as expectativas de lucro das empresas, afetando decisões de investimento.",
+  "impactoMercado": "Mudanças nas expectativas podem causar oscilações significativas nas ações e na confiança do investidor.",
+  "entenda": "Balanços corporativos são relatórios que mostram o desempenho financeiro e operacional das empresas, enquanto pesquisas eleitorais podem influenciar expectativas políticas e econômicas.",
+  "observar": "Fique atento a novas divulgações de balanços e atualizações em pesquisas eleitorais nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender como as análises de balanços e cenários eleitorais podem ajudar na tomada de decisões é fundamental para quem está no mercado.",
+  "gancho": "*Balanços* e *Eleições*: O Impacto no Mercado",
+  "ideias": [
+   "Como Balanços Influenciam Ações?",
+   "Eleições e Mercado Financeiro: O Que Você Precisa Saber",
+   "Volatilidade: O Que Está Movendo o Mercado Hoje?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.google.com/search?q=Balan%C3%A7os+e+pesquisa+eleitoral+movem+o+mercado+hoje+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T10:22:42-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-16"
+ },
+ {
+  "titulo": "Ibovespa atinge 209 mil pontos em dia positivo",
+  "resumo": "O Ibovespa chegou a 209 mil pontos, impulsionado por fatores eleitorais e balanços de empresas, enquanto o dólar apresenta queda.",
+  "fatos": [
+   "O Ibovespa registra um novo marco, atingindo 209 mil pontos.",
+   "A movimentação está alinhada com as expectativas em relação às eleições e ao desempenho de balanços corporativos.",
+   "O dólar tem sua cotação reduzida, refletindo a confiança no mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "209 mil pontos",
+  "porQueImporta": "O índice Ibovespa é um termômetro do mercado acionário brasileiro; seu crescimento pode indicar confiança dos investidores.",
+  "impactoMercado": "Uma alta no Ibovespa pode atrair novos investimentos, enquanto a queda do dólar pode beneficiar empresas que importam produtos.",
+  "entenda": "O Ibovespa é o principal índice da B3, que reúne as ações mais negociadas na bolsa brasileira.",
+  "observar": "Fique atento aos próximos balanços de empresas e ao cenário eleitoral para entender as movimentações futuras do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender a correlação entre eventos eleitorais e resultados financeiros é essencial para quem deseja navegar no mercado de ações.",
+  "gancho": "*Ibovespa* dispara com *eleições* e *balanços*",
+  "ideias": [
+   "O que impulsionou o Ibovespa a 209 mil pontos?",
+   "Impactos eleitorais no mercado financeiro",
+   "Queda do dólar: o que isso significa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+bate+209+mil+pontos+com+elei%C3%A7%C3%A3o+e+balan%C3%A7os+em+foco%3B+d%C3%B3lar+cai+CNN+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T10:20:58-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-17"
+ },
+ {
+  "titulo": "XP aponta risco de queda em ações após alta do Ibovespa",
+  "resumo": "Após a recente alta do Ibovespa, a XP sinalizou que 17 ações podem ter risco de queda, incluindo Magalu e Renner.",
+  "fatos": [
+   "A XP avaliou o impacto da valorização do Ibovespa nas ações do mercado.",
+   "Entre as 17 ações listadas estão Magalu e Renner.",
+   "A recomendação é para que investidores fiquem atentos ao cenário atual."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essa análise da XP é importante para investidores que precisam avaliar riscos de suas operações e a dinâmica do mercado.",
+  "impactoMercado": "Uma correção nas ações pode impactar a confiança dos investidores e trazer volatilidade ao mercado.",
+  "entenda": "O Ibovespa é o principal indicador do desempenho das ações no Brasil, refletindo a saúde do mercado de ações.",
+  "observar": "Acompanhe como as ações mencionadas se comportam nos próximos dias e a reação do mercado.",
+  "publico": [
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender as análises sobre ações é fundamental para quem deseja operar no mercado financeiro com segurança.",
+  "gancho": "*Ações em risco* após alta do *Ibovespa*!",
+  "ideias": [
+   "Risco de queda em ações populares",
+   "Ibovespa e suas consequências no mercado",
+   "Análise da XP sobre o futuro das ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.google.com/search?q=XP+alerta+para+risco+de+queda+em+17+a%C3%A7%C3%B5es+ap%C3%B3s+alta+do+Ibovespa%3B+Magalu+e+Renner+est%C3%A3o+na+lista+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T11:12:43-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-18"
+ },
+ {
+  "titulo": "iFood compra Caju e amplia competição no setor de R$ 150 bi",
+  "resumo": "A aquisição da startup Caju pelo iFood Benefícios une 3 milhões de usuários e amplia a competição no mercado de benefícios que movimenta cerca de R$ 150 bilhões ao ano.",
+  "fatos": [
+   "O iFood Benefícios anunciou a compra da Caju, uma startup de benefícios corporativos.",
+   "Somadas, as duas empresas alcançam cerca de 3 milhões de usuários.",
+   "O mercado de benefícios corporativos movimenta aproximadamente R$ 150 bilhões por ano.",
+   "As mudanças nas regras do Programa de Alimentação do Trabalhador (PAT) prometem reconfigurar o setor.",
+   "A transação foi comunicada ao Cade e aguarda aprovação do Banco Central."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "3 milhões de",
+  "porQueImporta": "A fusão entre iFood e Caju pode transformar o cenário de benefícios corporativos, aumentando a competitividade e as opções para trabalhadores e empresas.",
+  "impactoMercado": "A união das operações pode acelerar a inovação e a oferta de serviços no setor, beneficiando tanto empresas quanto trabalhadores com melhores condições.",
+  "entenda": "O Programa de Alimentação do Trabalhador (PAT) é uma iniciativa que visa oferecer opções de alimentação aos funcionários por meio de benefícios como vale-refeição e vale-alimentação.",
+  "observar": "Acompanhe as aprovações regulatórias da aquisição e as movimentações no mercado de benefícios nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa aquisição ilustra a dinâmica do mercado financeiro e pode incentivar mais pessoas a se interessarem por investimentos neste setor.",
+  "gancho": "iFood e Caju: disputa de *R$ 150 bi*!",
+  "ideias": [
+   "iFood e Caju: uma nova era em benefícios",
+   "Mercado de benefícios: o que muda com a compra da Caju?",
+   "Entenda o impacto da nova regra do PAT no comércio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Bloomberg Línea",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.bloomberglinea.com.br/negocios/ifood-beneficios-acerta-a-compra-da-caju-e-amplia-disputa-por-mercado-de-r-150-bi/",
+  "publicadoEm": "2026-10-20T16:50:53-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-21-19"
+ },
+ {
+  "titulo": "Ibovespa opera em estabilidade após novas pesquisas eleitorais",
+  "resumo": "O Ibovespa registra leve variação enquanto analistas avaliam resultados de empresas e novas pesquisas sobre as eleições. Dólar se mantém perto de R$ 5,02.",
+  "fatos": [
+   "Ibovespa opera em leve estabilidade, cotado a 208.217,35 pontos.",
+   "Na terça-feira, o índice fechou em alta de 1,57%.",
+   "O dólar comercial tem leve queda de 0,06%, cotado a R$ 5,022.",
+   "A WEG anunciou lucro líquido de R$ 1,67 bilhão, abaixo do esperado.",
+   "Pesquisas mostram Flávio Bolsonaro e Lula em empate técnico para o 2º turno."
+  ],
+  "numeros": [
+   {
+    "valor": "208.217,35",
+    "rotulo": "Ibovespa atual"
+   },
+   {
+    "valor": "1,57%",
+    "rotulo": "alta na terça-feira"
+   },
+   {
+    "valor": "R$ 5,022",
+    "rotulo": "cotação do dólar"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro da WEG",
+    "antes": "R$ 1,71 bilhão",
+    "depois": "R$ 1,67 bilhão"
+   }
+  ],
+  "destaque": "208.217,35",
+  "porQueImporta": "A instabilidade política pode impactar a confiança dos investidores, afetando diretamente as operações na bolsa.",
+  "impactoMercado": "Com as pesquisas eleitorais e resultados de empresas no radar, o mercado pode apresentar volatilidade.",
+  "entenda": "O Ibovespa é o principal índice da B3, refletindo a performance das ações mais negociadas.",
+  "observar": "Acompanhe a evolução das pesquisas eleitorais e os resultados das empresas que ainda vão ser divulgados.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como fatores externos e eleições influenciam o mercado é crucial para quem deseja operar com segurança.",
+  "gancho": "*Ibovespa* estável com *pesquisas eleitorais*",
+  "ideias": [
+   "Como as eleições afetam o Ibovespa?",
+   "Resultados de empresas podem influenciar o mercado.",
+   "Entenda o impacto das pesquisas eleitorais na bolsa."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://exame.com/invest/mercados/ibovespa-perde-forca-com-novas-pesquisas-eleitorais-e-repercute-balancos/",
+  "publicadoEm": "2026-10-21T07:47:40-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-20"
+ },
+ {
+  "titulo": "Tesouro Direto: taxas caem antes do segundo turno",
+  "resumo": "As taxas do Tesouro Direto caíram nesta sexta-feira, a poucos dias do segundo turno das eleições. Essa movimentação pode impactar as decisões de investimento dos cidadãos.",
+  "fatos": [
+   "As taxas do Tesouro Direto sofreram uma queda significativa.",
+   "A redução das taxas ocorre a apenas quatro dias do segundo turno das eleições.",
+   "Essa tendência pode influenciar as escolhas dos investidores."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as oscilações nas taxas do Tesouro Direto é crucial para os investidores que buscam maximizar seus rendimentos.",
+  "impactoMercado": "Uma queda nas taxas pode estimular mais investimentos em renda fixa, alterando a dinâmica de procura por esses ativos.",
+  "entenda": "O Tesouro Direto é um programa de compra de títulos públicos do Brasil, que permite ao investidor emprestar dinheiro ao governo em troca de juros.",
+  "observar": "É importante monitorar como os resultados das eleições afetarão as taxas e o comportamento do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A flutuação nas taxas do Tesouro Direto é uma oportunidade de aprendizado sobre como o cenário político influencia o mercado e as decisões de investimento.",
+  "gancho": "*Taxas em Queda* antes da *eleição*",
+  "ideias": [
+   "Como as taxas do Tesouro Direto afetam seus investimentos?",
+   "Impacto das eleições nas taxas de juros",
+   "Entenda o Tesouro Direto e como investir"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "moeda",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:41:23-03:00",
+  "url": "https://www.google.com/search?q=Tesouro+Direto+hoje%3A+taxas+recuam+a+quatro+dias+do+segundo+turno+InvestNews",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T10:50:19-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-21"
+ },
+ {
   "titulo": "Dólar cai para R$ 5,01 enquanto eleições se aproximam",
   "resumo": "O dólar à vista caiu 0,58% em meio a intensa volatilidade e foco nas eleições presidenciais. O cenário doméstico influenciou a desvalorização da moeda americana.",
   "fatos": [
@@ -3855,13 +4982,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "46,5%",
+  "destaque": "82,5%",
   "fatos": [
-   "Queda até US$ 77,5 mil em outubro está precificada em 46,5%.",
-   "Alta até US$ 87,5 mil aparece com 25,5%, ante 39,5% em 11 de outubro.",
-   "Queda até US$ 75 mil tem 25,5% e alta até US$ 90 mil, 14,5%.",
-   "Os mercados de queda a US$ 82,5 mil e US$ 80 mil já foram resolvidos como sim.",
-   "Volume de cerca de US$ 325 mil em 24 horas."
+   "↑ 85,000: 82,5%",
+   "↑ 87,500: 47,5%",
+   "↓ 80,000: 35,5%",
+   "↑ 90,000: 23,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -3872,31 +4998,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "Cai a US$ 77,5 mil",
-    "prob": 46.5
+    "opcao": "↑ 85,000",
+    "prob": 82.5
    },
    {
-    "opcao": "Sobe a US$ 87,5 mil",
-    "prob": 25.5
+    "opcao": "↑ 87,500",
+    "prob": 47.5
    },
    {
-    "opcao": "Cai a US$ 75 mil",
-    "prob": 25.5
+    "opcao": "↓ 80,000",
+    "prob": 35.5
    },
    {
-    "opcao": "Sobe a US$ 90 mil",
-    "prob": 14.5
+    "opcao": "↑ 90,000",
+    "prob": 23.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Apostadores no Polymarket veem mais chance de queda a US$ 77,5 mil do que de alta a US$ 87,5 mil até o fim do mês; são probabilidades precificadas por apostadores.",
+  "resumo": "Os apostadores acreditam na alta do Bitcoin, com fortíssima expectativa de que ele ultrapasse os $85,000.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
-  "status": "nova",
+  "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 46,5% de chance de bitcoin cair a US$ 77,5 mil",
+  "titulo": "Mercado de previsões vê 82.5% de chance do Bitcoin superar 85,000 até novembro.",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 325 mil",
-  "id": "2026-10-19-p3"
+  "volume24h": "US$ 244 mil",
+  "id": "2026-10-19-p3",
+  "numeros": [
+   {
+    "valor": "82,5%",
+    "rotulo": "↑ 85,000"
+   },
+   {
+    "valor": "47,5%",
+    "rotulo": "↑ 87,500"
+   },
+   {
+    "valor": "35,5%",
+    "rotulo": "↓ 80,000"
+   },
+   {
+    "valor": "23,5%",
+    "rotulo": "↑ 90,000"
+   }
+  ],
+  "atualizadoEm": "2026-10-21T11:41:23-03:00"
  },
  {
   "categoria": "Commodities",

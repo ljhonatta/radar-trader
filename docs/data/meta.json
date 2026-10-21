@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-20T21:18:27-03:00",
-  "novas": 9,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-10-21T11:41:23-03:00",
+  "novas": 21,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "9 nova(s): Dólar em queda: Eleições em foco!; Ibovespa dispara com varejo; Netflix com previsões prejudicadas.",
+  "mensagem": "21 nova(s) e 1 atualizada(s): Recuperação Judicial do Grupo Casas Bahia; GPA e reestruturação: O que esperar?; Petróleo sobe com tensões do Oriente Médio.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-21T11:41:23-03:00",
    "2026-10-20T21:18:27-03:00",
    "2026-10-20T21:16:52-03:00",
    "2026-10-20T21:14:27-03:00",
@@ -22,50 +23,50 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "208.296",
-    "var": "+1,57%"
+    "v": "207.862",
+    "var": "-0,21%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,02",
-    "var": ""
+    "v": "R$ 5,03",
+    "var": "+0,06%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 5,64",
-    "var": ""
+    "var": "+0,06%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 83,0 mil",
-    "var": "+1,76%"
+    "v": "US$ 84,1 mil",
+    "var": "+1,18%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.713",
-    "var": "+0,28%"
+    "v": "7.721",
+    "var": "+0,11%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "29.490",
-    "var": "-0,13%"
+    "v": "29.666",
+    "var": "+0,59%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 109,44",
-    "var": "+0,60%"
+    "v": "US$ 108,72",
+    "var": "-0,06%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.136,00",
-    "var": "-0,16%"
+    "v": "US$ 4.151,70",
+    "var": "+0,22%"
    },
    {
     "k": "SELIC",
@@ -80,14 +81,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "ter 21h",
-  "data": "2026-10-20",
-  "atualizadoEm": "2026-10-20T21:18:27-03:00",
-  "ibov": "208.296",
-  "ibovVar": "+1,57%",
-  "dolar": "R$ 5,02",
-  "dolarVar": "",
-  "btc": "US$ 83,0 mil"
+  "obs": "Parcial do pregão",
+  "hora": "qua 11h",
+  "data": "2026-10-21",
+  "atualizadoEm": "2026-10-21T11:41:23-03:00",
+  "ibov": "207.862",
+  "ibovVar": "-0,21%",
+  "dolar": "R$ 5,03",
+  "dolarVar": "+0,06%",
+  "btc": "US$ 84,1 mil"
  }
 }
