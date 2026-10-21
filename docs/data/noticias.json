@@ -1,5 +1,1218 @@
 [
  {
+  "titulo": "Estrangeiros injetam até R$ 500 bilhões na bolsa brasileira",
+  "resumo": "O Ibovespa sobe 11% em outubro, com grande entrada de capital estrangeiro. Até o momento, foram R$ 19,9 bilhões investidos, indicando uma possível mudança no cenário econômico.",
+  "fatos": [
+   "O Ibovespa acumula alta de 11% em outubro, seu segundo melhor desempenho mensal do ano.",
+   "Neste mês, investidores estrangeiros injetaram R$ 19,9 bilhões na Bolsa, totalizando R$ 47,3 bilhões em 2025.",
+   "A alocação média dos fundos de mercados emergentes no Brasil caiu de 7,6% para 5,8% entre abril e outubro.",
+   "A retomada das alocações para níveis anteriores poderia trazer até R$ 125 bilhões ao Brasil.",
+   "Os investidores estrangeiros preferem ações do Ibovespa, com 32% dos aportes indo para ações da Petrobras."
+  ],
+  "numeros": [
+   {
+    "valor": "19,9",
+    "rotulo": "Bilhões injetados por estrangeiros em outubro"
+   },
+   {
+    "valor": "47,3",
+    "rotulo": "Bilhões investidos até 2025"
+   },
+   {
+    "valor": "500",
+    "rotulo": "Bilhões de potencial investimento total"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 500 bilhões",
+  "porQueImporta": "Entender a entrada de capital estrangeiro é crucial, pois ela pode influenciar a valorização das ações brasileiras e o mercado como um todo.",
+  "impactoMercado": "A expectativa de aumento nos investimentos pode levar a um mercado mais aquecido e oportunidades para os investidores.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, representando as ações mais negociadas e um termômetro da economia nacional.",
+  "observar": "Acompanhar as próximas movimentações do capital estrangeiro e as reações do mercado diante das mudanças políticas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia destaca tendências de investimento e pode ajudar quem busca entender melhor o funcionamento do mercado financeiro.",
+  "gancho": "*Investimentos* estrangeiros podem aquecer a Bolsa",
+  "ideias": [
+   "Como o dinheiro estrangeiro afeta a Bolsa?",
+   "Ibovespa sobe com capital gringo; entenda!",
+   "O que significa R$ 500 bilhões na sua carteira?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-pode-receber-ate-r-500-bilhoes-de-gringos-veja-onde-eles-investem-lils/",
+  "publicadoEm": "2026-10-21T15:41:36-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-22"
+ },
+ {
+  "titulo": "JPMorgan alerta sobre desafios no Brasil pós-eleições",
+  "resumo": "O JPMorgan aponta que o resultado do segundo turno das eleições será crucial para o mercado, com foco nas políticas econômicas e reformas necessárias.",
+  "fatos": [
+   "Faltam quatro dias para o segundo turno das eleições presidenciais brasileiras.",
+   "O relatório do JPMorgan destaca o Brasil como o \"último grande teste\" em um ciclo eleitoral recente.",
+   "Candidatos da direita podem ter uma configuração legislativa mais favorável, caso o candidato à frente vença.",
+   "O impacto econômico dependerá da composição do gabinete e das estratégias no Congresso."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Os investidores devem ficar atentos às decisões políticas e econômicas que surgirão após o segundo turno, pois elas moldarão o cenário do mercado brasileiro.",
+  "impactoMercado": "Mudanças na composição do governo e no Congresso poderão afetar a implementação de reformas essenciais e a percepção de investidores sobre o Brasil.",
+  "entenda": "Os ciclos eleitorais podem influenciar a economia e os mercados financeiros, uma vez que políticas governamentais impactam diretamente a confiança do investidor.",
+  "observar": "É importante acompanhar as decisões do novo governo e as reações do mercado diante das diretrizes econômicas apresentadas.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender como a política impacta a economia é crucial para quem deseja investir de forma consciente no Brasil.",
+  "gancho": "*Próximo grande teste* do Brasil!",
+  "ideias": [
+   "Como o ciclo eleitoral afeta o mercado?",
+   "O que esperar do segundo turno?",
+   "Desafios econômicos para o próximo governo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.infomoney.com.br/mercados/jpmorgan-destaca-proximo-grande-teste-para-mercado-brasileiro-apos-ciclo-eleitoral/",
+  "publicadoEm": "2026-10-21T16:00:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-23"
+ },
+ {
+  "titulo": "STF julga exclusão do ISS do PIS/Cofins",
+  "resumo": "O julgamento do STF sobre a exclusão do ISS da base de cálculo do PIS/Cofins pode ter um impacto de até R$ 35,4 bilhões para a União.",
+  "fatos": [
+   "O STF está empatado em 5 a 5 no julgamento sobre o Imposto sobre Serviços (ISS).",
+   "O impacto financeiro da decisão para a União pode chegar a R$ 35,4 bilhões.",
+   "O voto faltante é do ministro Luiz Fux, que pode desempatar a situação.",
+   "O relator Nunes Marques votou pela inconstitucionalidade da norma que aumentaria a conta de luz.",
+   "A decisão do STF terá repercussão geral, afetando todas as ações similares."
+  ],
+  "numeros": [
+   {
+    "valor": "R$ 35,4 bi",
+    "rotulo": "impacto estimado para a União"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 35,4 bi",
+  "porQueImporta": "A decisão do STF é relevante pois pode afetar a tributação e, consequentemente, os custos operacionais de empresas, refletindo em preços para o consumidor.",
+  "impactoMercado": "Se a norma for considerada inconstitucional, pode haver uma redução de custos para empresas, potencialmente impactando seus resultados e, consequentemente, o mercado.",
+  "entenda": "O PIS e a Cofins são contribuições que as empresas pagam sobre sua receita, e o ISS é um imposto municipal sobre serviços. A forma como são calculados pode afetar preços e a economia.",
+  "observar": "Acompanhe o desfecho do julgamento e a posição do ministro Luiz Fux, que pode mudar o placar atual.",
+  "publico": [
+   "Empresários",
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto de decisões judiciais no mercado financeiro pode ajudar investidores a tomar decisões mais informadas.",
+  "gancho": "*ISS* e *PIS/Cofins*: O que muda?",
+  "ideias": [
+   "Como decisões judiciais influenciam o mercado?",
+   "O que é ISS e como ele impacta seu negócio?",
+   "Entenda o papel do STF nas tributações."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.infomoney.com.br/brasil/stf-comeca-a-julgar-exclusao-do-iss-da-base-do-pis-cofins-impacto-e-de-r-354-bi/",
+  "publicadoEm": "2026-10-21T16:12:37-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-24"
+ },
+ {
+  "titulo": "Analistas veem potencial de 27% para B3SA3",
+  "resumo": "O Santander eleva a recomendação para as ações da B3, acreditando que a empresa pode manter alta e distribuir bons dividendos nos próximos anos.",
+  "fatos": [
+   "As ações da B3 (B3SA3) subiram 37% em 30 dias, superando o Ibovespa, que avançou 12%.",
+   "O Santander aumentou a recomendação de neutra para outperform, com preço-alvo de R$ 30 até 2027.",
+   "O retorno estimado de dividendos é de 7%, com R$ 5,5 bilhões disponíveis para distribuições.",
+   "Em outubro, o volume médio diário de negociação na bolsa é de aproximadamente R$ 66 bilhões.",
+   "A B3 enfrenta concorrência potencial da Base Exchange, que deve operar como bolsa em 2027."
+  ],
+  "numeros": [
+   {
+    "valor": "37%",
+    "rotulo": "alta das ações da B3 em 30 dias"
+   },
+   {
+    "valor": "12%",
+    "rotulo": "alta do Ibovespa no mesmo período"
+   },
+   {
+    "valor": "R$ 30",
+    "rotulo": "preço-alvo do Santander"
+   },
+   {
+    "valor": "7%",
+    "rotulo": "retorno estimado de dividendos"
+   },
+   {
+    "valor": "R$ 5,5 bilhões",
+    "rotulo": "estoque para distribuições de JCP"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "27%",
+  "porQueImporta": "Entender as recomendações dos analistas ajuda investidores a tomarem decisões informadas, além de considerar dividendos que aumentam o retorno dos investimentos.",
+  "impactoMercado": "A valorização contínua das ações e o pagamento de dividendos podem estimular o investimento na B3, mas a introdução de concorrentes pode afetar a dinâmica do mercado.",
+  "entenda": "Os dividendos são parte dos lucros da empresa distribuídos aos acionistas, ajudando a aumentar o retorno sobre o investimento.",
+  "observar": "Fique atento à evolução do volume de negociações e às novas movimentações relacionadas à Base Exchange nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "A análise otimista sobre a B3SA3 pode levar novos investidores a explorar o mercado financeiro e as oportunidades na faculdade de mercado.",
+  "gancho": "*B3SA3*: potencial de alta e dividendos",
+  "ideias": [
+   "B3SA3: O que podemos esperar daqui para frente?",
+   "Os impactos das eleições no volume de negociação da B3",
+   "Como os juros influenciam a B3 e seus investidores"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/a-festa-ainda-nao-acabou-b3-b3sa3-pode-subir-mais-27-e-pagar-bons-dividendos-diz-santander-miql/",
+  "publicadoEm": "2026-10-21T16:23:59-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-25"
+ },
+ {
+  "titulo": "Fitch prevê aperto fiscal no Brasil a partir de 2027",
+  "resumo": "A Fitch Ratings antecipa uma política fiscal mais rígida no Brasil até 2027, afetando o consumo e o investimento, independentemente do resultado das eleições.",
+  "fatos": [
+   "A Fitch Ratings espera um aperto fiscal no Brasil a partir de 2027.",
+   "Ela destaca um déficit orçamentário acima de 8% do PIB e a dívida maior que 80% do PIB.",
+   "O PIB deve crescer 1,9% em 2026 e 1,4% em 2027.",
+   "A Selic está atualmente em 13,75% e deve cair para 11,75% no próximo ano.",
+   "Juros altos devem limitar consumo, investimento e crédito, mesmo com a queda nos juros nominais."
+  ],
+  "numeros": [
+   {
+    "valor": "8%",
+    "rotulo": "defeito orçamentário em relação ao PIB"
+   },
+   {
+    "valor": "80%",
+    "rotulo": "relação entre dívida e PIB"
+   },
+   {
+    "valor": "1,9%",
+    "rotulo": "crescimento do PIB em 2026"
+   },
+   {
+    "valor": "1,4%",
+    "rotulo": "crescimento do PIB em 2027"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "atual Selic"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "8%",
+  "porQueImporta": "Entender o aperto fiscal e sua relação com a política monetária é fundamental para investidores, pois impacta diretamente o crescimento econômico e as decisões de investimento.",
+  "impactoMercado": "A expectativa de juros altos pode limitar o consumo e o investimento, influenciando o desempenho de empresas e a confiança do consumidor.",
+  "entenda": "O aperto fiscal refere-se a mudanças na política orçamentária que visam reduzir déficits, muitas vezes resultando em cortes de gastos ou aumento de impostos.",
+  "observar": "Acompanhe as próximas reuniões do Banco Central e as decisões fiscais após as eleições, que podem impactar a taxa de juros e a economia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Esta análise da Fitch abre um espaço para entender como decisões fiscais afetam o seu portfólio, convidando a explorar mais sobre o mercado.",
+  "gancho": "Fitch e *aperto fiscal* no Brasil",
+  "ideias": [
+   "Como o aperto fiscal afeta seu investimento?",
+   "Perspectivas da Fitch para o PIB e Selic!",
+   "Entenda a relação entre juros altos e consumo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/fitch-ve-aperto-fiscal-no-brasil-independentemente-do-resultado-da-eleicao/",
+  "publicadoEm": "2026-10-21T16:06:45-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-26"
+ },
+ {
+  "titulo": "UBS BB corta preço-alvo das ações da Vale novamente",
+  "resumo": "O UBS BB reduziu o preço-alvo das ações da Vale (VALE3) em R$ 4, prevendo novas quedas no curto prazo devido a pressões no preço do minério de ferro e nos custos.",
+  "fatos": [
+   "O preço-alvo das ações da Vale foi cortado de R$ 77 para R$ 73.",
+   "Essa é a segunda redução em um mês; na primeira, o corte foi de R$ 8.",
+   "As ações da Vale operavam em queda de 1,39%, a R$ 64,53.",
+   "O desempenho acumulado das ações em 2023 é negativo em 8,17%.",
+   "Analistas apontam que o mercado não precificou adequadamente os riscos atuais."
+  ],
+  "numeros": [
+   {
+    "valor": "73",
+    "rotulo": "novo preço-alvo das ações da Vale"
+   },
+   {
+    "valor": "64,53",
+    "rotulo": "preço atual do VALE3"
+   },
+   {
+    "valor": "-8,17%",
+    "rotulo": "desempenho das ações em 2023"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "preço-alvo anterior",
+    "antes": "R$ 77",
+    "depois": "R$ 73"
+   },
+   {
+    "item": "redução em setembro",
+    "antes": "R$ 85",
+    "depois": "R$ 77"
+   }
+  ],
+  "destaque": "R$ 73",
+  "porQueImporta": "Entender os cortes de preço-alvo pode ajudar investidores a avaliar as ações da Vale e sua performance no mercado.",
+  "impactoMercado": "Novas avaliações de preço-alvo refletem a percepção dos investidores sobre riscos operacionais e condições de mercado, impactando a confiança nas ações da Vale.",
+  "entenda": "Um preço-alvo é uma estimativa que analistas fazem sobre o valor futuro de uma ação. Alterações nesse valor podem refletir mudanças nas expectativas de desempenho da empresa.",
+  "observar": "Acompanhe as próximas divulgações sobre o desempenho operacional da Vale e o comportamento dos preços do minério de ferro.",
+  "publico": [
+   "Investidores",
+   "Iniciantes"
+  ],
+  "angulo": "Essa notícia pode gerar interesse sobre como os analistas avaliam ações e o valor de mercado, levando mais pessoas a entender o funcionamento do mercado financeiro.",
+  "gancho": "Vale: nova projeção e desafios?",
+  "ideias": [
+   "Análise da nova redução do preço-alvo da Vale",
+   "O que esperar das ações da Vale após mais cortes?",
+   "Como as condições de mercado afetam a Vale?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.moneytimes.com.br/ubs-bb-passa-a-tesoura-nas-acoes-da-vale-vale3-pela-segunda-vez-em-um-mes-veja-preco-alvo-lils/",
+  "publicadoEm": "2026-10-21T12:37:41-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-27"
+ },
+ {
+  "titulo": "WEG (WEGE3) tem queda acentuada após resultados mistos",
+  "resumo": "As ações da WEG enfrentam forte queda no Ibovespa após a divulgação de balanço do 3T26, impactadas por dólar e tarifas dos EUA; analistas consideram números neutros.",
+  "fatos": [
+   "Os papéis da WEG (WEGE3) caíram mais de 7% após os resultados do 3T26.",
+   "A empresa reportou lucro líquido de R$ 1,66 bilhão, com alta de 0,9% em relação ao ano anterior.",
+   "A receita operacional líquida totalizou R$ 10,8 bilhões, um aumento de 5,7% na comparação anual.",
+   "Analistas avaliam o balanço como neutro, com Ebitda de R$ 2,34 bilhões, abaixo da expectativa.",
+   "Setores como Geração e Transmissão mostraram forte demanda, enquanto Equipamentos Eletroeletrônicos apresentaram desempenho fraco."
+  ],
+  "numeros": [
+   {
+    "valor": "R$ 1,66 bilhão",
+    "rotulo": "Lucro líquido do 3T26"
+   },
+   {
+    "valor": "R$ 10,8 bilhões",
+    "rotulo": "Receita operacional líquida"
+   },
+   {
+    "valor": "R$ 2,34 bilhões",
+    "rotulo": "Ebitda do 3T26"
+   },
+   {
+    "valor": "+0,9%",
+    "rotulo": "Crescimento do lucro líquido"
+   },
+   {
+    "valor": "+5,7%",
+    "rotulo": "Aumento da receita"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "queda de mais",
+  "porQueImporta": "Entender o impacto das oscilações das ações da WEG é crucial para investidores que acompanham setores sensíveis ao câmbio e tarifas internacionais.",
+  "impactoMercado": "A forte queda das ações pode refletir incertezas sobre a rentabilidade da empresa e suas perspectivas futuras no mercado financeiro.",
+  "entenda": "O Ebitda é um indicador financeiro que mede o desempenho operacional de uma empresa, excluindo itens não operacionais e despesas financeiras.",
+  "observar": "Fique atento às respostas do mercado sobre os resultados da WEG e a evolução das tarifas comerciais nos EUA nos próximos dias.",
+  "publico": [
+   "Investidores",
+   "Iniciantes"
+  ],
+  "angulo": "Esta notícia mostra como balanços podem afetar as ações e a importância de entender esses eventos para investir com segurança.",
+  "gancho": "WEG (WEGE3): *queda alarmante* ou *sinal de alerta*?",
+  "ideias": [
+   "O que significa a queda das ações da WEG?",
+   "Como os resultados da WEG impactam o Ibovespa?",
+   "O que o Ebitda revela sobre o desempenho da WEG?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/weg-wege3-amarga-queda-no-ibovespa-com-balanco-pressionado-por-dolar-e-tarifas-exagero-ou-sinal-de-alerta-lmrs/",
+  "publicadoEm": "2026-10-21T14:19:33-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-28"
+ },
+ {
+  "titulo": "Ouro sobe levemente com queda nos preços do petróleo",
+  "resumo": "O preço do ouro apresenta leve alta, influenciado pela queda nos preços do petróleo, que traz alívio aos investidores.",
+  "fatos": [
+   "Ouro tem leve alta nos mercados financeiros.",
+   "Queda nos preços do petróleo é o principal fator para essa mudança.",
+   "Investidores estão buscando segurança em meio às flutuações do mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A alta do ouro pode indicar uma busca por segurança em investimentos, especialmente quando os preços das commodities flutuam.",
+  "impactoMercado": "Esse movimento pode atrair investidores que buscam ativos mais seguros durante períodos de incerteza econômica.",
+  "entenda": "O preço do ouro frequentemente sobe quando há instabilidade, pois é considerado um ativo de refúgio.",
+  "observar": "Acompanhe as flutuações nos preços do petróleo e suas consequências nos mercados financeiros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender como a relação entre petróleo e ouro afeta o mercado pode ajudar investidores a tomar decisões informadas.",
+  "gancho": "*Alta do Ouro* frente a *Petróleo* em queda",
+  "ideias": [
+   "Como o petróleo influencia o ouro?",
+   "Entenda a busca por segurança no mercado financeiro",
+   "Por que o ouro sobe em tempos de incerteza?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.google.com/search?q=Ouro+tem+leve+alta+com+al%C3%ADvio+nos+pre%C3%A7os+do+petr%C3%B3leo+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T15:01:07-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-29"
+ },
+ {
+  "titulo": "BTG projeta recuo de preços do açúcar em 2027",
+  "resumo": "O mercado de açúcar deve ter oferta restrita nos próximos meses, mas, com a produção brasileira se recuperando em 2027, os preços podem voltar ao patamar de equilíbrio, segundo o BTG.",
+  "fatos": [
+   "A produção brasileira de açúcar deve se recuperar em 2027, reduzindo as cotações.",
+   "BTG aponta que US$ 0,17 por libra-peso é o nível de equilíbrio para o mercado.",
+   "Preços recentes estão entre US$ 0,20 e US$ 0,21 por libra-peso.",
+   "Estima-se um déficit de 1,9 milhão de toneladas no primeiro trimestre de 2027.",
+   "O fluxo de comércio pode voltar a ter superávit de 363 mil toneladas no segundo trimestre de 2027."
+  ],
+  "numeros": [
+   {
+    "valor": "0,17",
+    "rotulo": "Preço de equilíbrio por libra-peso"
+   },
+   {
+    "valor": "1,9 milhão",
+    "rotulo": "Deficit de toneladas no 1º tri de 2027"
+   },
+   {
+    "valor": "0,20 a 0,21",
+    "rotulo": "Faixa de preços atuais por libra-peso"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Déficit no 4º tri de 2026",
+    "antes": "superávit de 548 mil toneladas",
+    "depois": "déficit de 302 mil toneladas"
+   },
+   {
+    "item": "Déficit no 1º tri de 2027",
+    "antes": "déficit de 962 mil toneladas",
+    "depois": "déficit de 1,9 milhão de toneladas"
+   }
+  ],
+  "destaque": "US$ 0,17",
+  "porQueImporta": "Entender a dinâmica do mercado de açúcar ajuda investidores a se posicionarem em momentos de alta e baixa, sobretudo com a variação na oferta e demanda.",
+  "impactoMercado": "As previsões de déficits e a recuperação da produção podem impactar as decisões de investimento em empresas do setor sucroenergético.",
+  "entenda": "O preço do açúcar é influenciado pelo equilíbrio entre oferta e demanda global, afetando diretamente sua cotação e a rentabilidade de produtores.",
+  "observar": "Fique atento às próximas projeções da produção e tendências de preços, especialmente após a nova safra de 2027.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Informe-se sobre o futuro do açúcar e como as tendências globais impactam o mercado financeiro e as oportunidades de negócios.",
+  "gancho": "Preços do açúcar em 2027: *mudança* à vista?",
+  "ideias": [
+   "Açúcar: preços sob pressão em 2027?",
+   "Entenda o impacto da produção no preço do açúcar",
+   "Oportunidades no setor sucroenergético em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.moneytimes.com.br/acucar-deve-perder-forca-em-2027-btg-ve-precos-recuando-a-patamar-de-equilibrio/",
+  "publicadoEm": "2026-10-21T11:21:31-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-30"
+ },
+ {
+  "titulo": "Petróleo Brent sobe 0,03% e WTI apresenta queda",
+  "resumo": "Os preços do petróleo Brent aumentaram levemente, enquanto o WTI caiu. As negociações sobre a Ucrânia influenciam as expectativas do mercado.",
+  "fatos": [
+   "O petróleo Brent fechou em alta de 0,03%.",
+   "O WTI, por outro lado, teve uma queda.",
+   "As expectativas de avanço nas negociações sobre a Ucrânia afetam o mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A variação nos preços do petróleo pode impactar diversos setores da economia, refletindo na inflação e nos custos de produção.",
+  "impactoMercado": "Os movimentos nos preços do petróleo influenciam decisões de investimento, podendo afetar ações de empresas relacionadas ao setor energético.",
+  "entenda": "O Brent e o WTI são os principais tipos de petróleo negociados no mercado global, influenciados por fatores geopolíticos e econômicos.",
+  "observar": "Fique atento a novas atualizações sobre as negociações da Ucrânia e seus impactos nas commodities.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como conflitos geopolíticos afetam os preços de commodities é essencial para quem deseja operar no mercado.",
+  "gancho": "*Petróleo em alta* e *negociações da Ucrânia*",
+  "ideias": [
+   "Entenda a alta do petróleo Brent",
+   "WTI em queda: o que isso significa?",
+   "Impactos das negociações sobre o petróleo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Times Brasil | CNBC",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.google.com/search?q=Petr%C3%B3leo+Brent+fecha+em+alta+de+0%2C03%25+e+WTI+cai+com+expectativa+de+avan%C3%A7o+nas+negocia%C3%A7%C3%B5es+sobre+a+Ucr%C3%A2nia+Times+Brasil+%7C+CNBC",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T16:28:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-31"
+ },
+ {
+  "titulo": "Bolsas europeias fecham em alta impulsionadas por tecnologia",
+  "resumo": "As bolsas da Europa subiram nesta quarta-feira, impulsionadas por bons balanços corporativos e recuperação de ações tecnológicas, apesar de preocupações com inflação e instabilidade política na França.",
+  "fatos": [
+   "O índice Stoxx 600 encerrou com alta de 0,92%, aos 644,49 pontos.",
+   "No FTSE 100 de Londres, a alta foi de 0,19%, a 10.752,88 pontos.",
+   "Em Frankfurt, o DAX avançou 1,35%, a 25.645,04 pontos.",
+   "O CAC 40 de Paris teve ganho de 1,06%, a 7.921,68 pontos.",
+   "A inflação no Reino Unido acelerou acima das expectativas, levando a possíveis elevações da taxa de juros."
+  ],
+  "numeros": [
+   {
+    "valor": "0,92%",
+    "rotulo": "alta do índice Stoxx 600"
+   },
+   {
+    "valor": "16%",
+    "rotulo": "alta da EssilorLuxottica"
+   },
+   {
+    "valor": "-13,2%",
+    "rotulo": "queda do Carrefour"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,92%",
+  "porQueImporta": "A alta das bolsas europeias pode abrir oportunidades para investidores que acompanham tendências do mercado global, especialmente em ações de tecnologia.",
+  "impactoMercado": "A recuperação dos índices pode influenciar decisões de investimento e a confiança do mercado, especialmente em meio a uma economia instável.",
+  "entenda": "O índice Stoxx 600 é uma referência que contempla empresas de diversos setores na Europa, serve para medir o desempenho do mercado.",
+  "observar": "Fique atento às próximas divulgações de balanços e aos efeitos das decisões de política monetária na região.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender a reação do mercado às notícias políticas e corporativas pode ajudar investidores a se posicionar melhor.",
+  "gancho": "*Bolsas em Alta* na Europa!",
+  "ideias": [
+   "Alta das Bolsas: O que Significa?",
+   "Novidades do Mercado Europeu!",
+   "Impactos da Tecnologia nas Ações!"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.moneytimes.com.br/europa-21-10-26-davs/",
+  "publicadoEm": "2026-10-21T15:05:13-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-32"
+ },
+ {
+  "titulo": "B3 (B3SA3) dispara 37% em um mês",
+  "resumo": "Santander eleva recomendação e fixa novo preço-alvo para a B3. O ativo teve uma valorização significativa, gerando dúvidas entre investidores sobre novas compras.",
+  "fatos": [
+   "B3 (B3SA3) teve uma valorização de 37% em um mês.",
+   "O Santander elevou a recomendação para ações da B3.",
+   "Um novo preço-alvo foi fixado para o ativo."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "37%",
+  "porQueImporta": "A alta significativa no preço das ações gera oportunidades e riscos para investidores, que devem se informar bem antes de tomar decisões.",
+  "impactoMercado": "A recomendação do Santander pode influenciar outros investidores e afetar a liquidez das ações em dias seguintes.",
+  "entenda": "Uma valorização de ações indica que o mercado está tendo uma visão positiva sobre a empresa, que pode ser impulsionada por resultados financeiros ou recomendações de instituições.",
+  "observar": "Acompanhe as novas recomendações de analistas e possíveis movimentações de mercado em relação à B3.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender o que impulsionou essa valorização ajuda investidores a aprenderem como funcionam as recomendações de instituições financeiras.",
+  "gancho": "*B3* dispara 37%; *é hora de comprar?*",
+  "ideias": [
+   "B3 (B3SA3) sobe 37%: Entenda o que ocorreu",
+   "Santander eleva recomendação da B3: O que significa?",
+   "Valorização da B3: Está na hora de investir?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "foguete",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.google.com/search?q=B3+%28B3SA3%29+dispara+37%25+em+um+m%C3%AAs%3B+ainda+d%C3%A1+tempo+de+comprar%3F+Santander+eleva+recomenda%C3%A7%C3%A3o+e+fixa+novo+pre%C3%A7o-alvo+Money+Times",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T16:00:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-33"
+ },
+ {
+  "titulo": "Lei perdoa dívidas e amplia limite de MEI",
+  "resumo": "O presidente sancionou a lei que perdoa dívidas de microempreendedores e aumenta limite de faturamento. Medida promete beneficiar milhões e modernizar o regime MEI.",
+  "fatos": [
+   "O PLP nº 186/2026 foi aprovado por 78 votos a 0 no Senado e 461 a 4 na Câmara.",
+   "A lei pode perdoar mais de R$ 18 bilhões em dívidas de microempreendedores.",
+   "Até 3,6 milhões de MEIs poderão ter suas dívidas perdoadas.",
+   "O limite de faturamento do MEI aumentará de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028.",
+   "Agora, o MEI poderá contratar até dois empregados."
+  ],
+  "numeros": [
+   {
+    "valor": "17.600.000",
+    "rotulo": "potenciais beneficiados pela lei"
+   },
+   {
+    "valor": "R$ 18.700.000.000",
+    "rotulo": "valor das dívidas perdoadas"
+   },
+   {
+    "valor": "3.600.000",
+    "rotulo": "MEIs com dívidas perdoadas"
+   },
+   {
+    "valor": "R$ 3.400",
+    "rotulo": "média dos débitos dos MEIs"
+   },
+   {
+    "valor": "R$ 81.000",
+    "rotulo": "limite atual de faturamento"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 18,7 bilhões",
+  "porQueImporta": "A medida pode facilitar a recuperação econômica de microempreendedores, promovendo uma maior geração de empregos e melhorias na arrecadação tributária futura.",
+  "impactoMercado": "Com menos dívidas, os MEIs poderão investir mais em seus negócios, impactando positivamente o mercado e a economia local.",
+  "entenda": "O microempreendedor individual (MEI) é um tipo de empresa que permite que o empresário tenha um negócio formalizado com menos burocracia e custos.",
+  "observar": "Acompanhe se novas medidas fiscais ou alterações na categoria de MEI surgirão nos próximos meses.",
+  "publico": [
+   "Empresários",
+   "Iniciantes",
+   "CLT"
+  ],
+  "angulo": "Entender as mudanças na legislação pode ajudar empresários a planejar melhor seus negócios e explorar oportunidades na formalização.",
+  "gancho": "*Dívidas Perdoadas* e *Novas Oportunidades* para MEIs",
+  "ideias": [
+   "Como o perdão de dívida pode ajudar seu negócio",
+   "Mudanças na lei do MEI: o que você precisa saber",
+   "Aumentando seu limite de faturamento como MEI"
+  ],
+  "formatos": [
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
+  "publicadoEm": "2026-10-21T13:33:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-34"
+ },
+ {
+  "titulo": "Governo libera R$ 6,49 bilhões para **exportação**",
+  "resumo": "O governo federal destinou R$ 6,49 bilhões para apoiar exportadores, através do Plano Brasil Soberano. A medida foi publicada na Medida Provisória nº 1.397.",
+  "fatos": [
+   "O crédito extraordinário é de R$ 6,49 bilhões.",
+   "Os recursos visam financiar pessoas físicas e empresas exportadoras.",
+   "A medida foi publicada no Diário Oficial da União na quarta-feira (21).",
+   "Os recursos são geridos pelo Fundo de Garantia à Exportação.",
+   "A ação é uma resposta aos impactos das sobretaxas dos EUA."
+  ],
+  "numeros": [
+   {
+    "valor": "6,49 bilhões",
+    "rotulo": "Crédito extraordinário do governo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 6,49 bilhões",
+  "porQueImporta": "Essa injeção financeira pode oferecer segurança e recursos para empresas que atuam no comércio exterior, crucial em um cenário econômico desafiador.",
+  "impactoMercado": "O apoio do governo pode estimular as exportações e, consequentemente, trazer melhorias no desempenho econômico, impactando os investidores.",
+  "entenda": "O Fundo de Garantia à Exportação oferece suporte a exportadores, ajudando a mitigar riscos e assegurar a continuidade das operações.",
+  "observar": "Fique de olho nos próximos anúncios do governo sobre medidas de apoio ao setor de exportação.",
+  "publico": [
+   "Empresários",
+   "Investidores"
+  ],
+  "angulo": "A notícia ressalta a importância do suporte governamental, incentivando uma maior compreensão das operações no mercado e no ambiente da faculdade.",
+  "gancho": "Gov. libera *R$ 6,49 bi* para exportação",
+  "ideias": [
+   "Apoio do governo a exportadores: o que esperar?",
+   "Entenda o impacto do crédito na economia",
+   "Plano Brasil Soberano e suas regras de apoio"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-destina-r-649-bilhoes-setor-de-exportacao",
+  "publicadoEm": "2026-10-21T10:36:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-35"
+ },
+ {
+  "titulo": "Petróleo fecha sem direção em meio a tensões geopolíticas",
+  "resumo": "Nesta quarta-feira, o petróleo teve uma sessão volátil, com traders reagindo a negociações da Rússia-Ucrânia e ataques no Oriente Médio.",
+  "fatos": [
+   "Os contratos futuros do petróleo fecharam sem uma tendência clara.",
+   "O petróleo Brent subiu 0,03%, para US$ 108,82 o barril.",
+   "O petróleo WTI caiu 0,68%, fechando a US$ 97,15 o barril.",
+   "Houve uma queda de 3,06 milhões de barris nos estoques de petróleo dos EUA na última semana.",
+   "Os embarques de petróleo do Oriente Médio superaram níveis pré-guerra, chegando a 24 milhões de barris por dia."
+  ],
+  "numeros": [
+   {
+    "valor": "3,06 milhões",
+    "rotulo": "queda nos estoques de petróleo dos EUA"
+   },
+   {
+    "valor": "24 milhões",
+    "rotulo": "embarques diários do Oriente Médio"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas movimentações no preço do petróleo afetam diversas economias, influenciando desde o custo de combustíveis até a inflação.",
+  "impactoMercado": "Flutuações nas negociações e tensões geopolíticas podem impactar a oferta e demanda global de petróleo, alterando os preços.",
+  "entenda": "O petróleo Brent e WTI são as principais referências para o preço do petróleo no mercado, cada um com suas particularidades.",
+  "observar": "Fique atento às próximas negociações entre Rússia e Ucrânia, pois avanços podem afetar os preços do petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender o movimento do petróleo é essencial para quem deseja entrar no mercado financeiro e compreender como geopolitica impacta os investimentos.",
+  "gancho": "*Petróleo* em alta! Entenda o porquê.",
+  "ideias": [
+   "Preço do petróleo: o que está em jogo?",
+   "Geopolítica e seu impacto no mercado do petróleo",
+   "Como os estoques influenciam o preço do petróleo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-21102026/",
+  "publicadoEm": "2026-10-21T16:26:53-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-36"
+ },
+ {
+  "titulo": "Ibovespa e dólar sobem enquanto investidores esperam eleições",
+  "resumo": "Investidores monitoram pesquisa Quaest e resultados de empresas. Dólar cai e Ibovespa se recupera com entrada de capital estrangeiro.",
+  "fatos": [
+   "O Ibovespa recuperou perdas e subiu 1,57%, fechando a 208.295,98 pontos.",
+   "O dólar encerrou a R$ 5,0183, com queda de 0,58%.",
+   "Na Europa, os principais índices iniciaram o dia em alta.",
+   "A pesquisa Quaest do 2º turno revela empate entre Flávio Bolsonaro e Lula.",
+   "Netflix teve valorização fraca, caindo mais de 6% no pré-mercado.",
+   "As receitas da SpaceX subiram 5%, animando os investidores."
+  ],
+  "numeros": [
+   {
+    "valor": "208.295,98",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,0183",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "1,57%",
+    "rotulo": "alta do Ibovespa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "208.295,98 pontos",
+  "porQueImporta": "Entender como pesquisas eleitorais e resultados de empresas impactam os preços das ações é essencial para quem investe.",
+  "impactoMercado": "Mudanças nas intenções de votos podem afetar a confiança do investidor e, consequentemente, o desempenho do Ibovespa.",
+  "entenda": "A pesquisa Quaest mede a intenção de voto dos eleitores, influenciando as expectativas do mercado em relação a investimentos.",
+  "observar": "Acompanhe os resultados da pesquisa Quaest e o desempenho de balanços de empresas nos próximos dias.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa situação destaca a importância de monitorar eventos políticos e resultados corporativos para tomar decisões informadas no mercado financeiro.",
+  "gancho": "*Ibovespa*, Dólar e *Eleições* em foco",
+  "ideias": [
+   "O que a pesquisa Quaest significa para o mercado?",
+   "Como o dólar está impactando os investimentos?",
+   "Balanços de empresas: qual a importância para os investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.moneytimes.com.br/pesquisa-quaest-aparece-em-dia-mais-esvaziado-e-investidores-monitoram-balancos-ibovespa-em-dolar-cai-nesta-quarta-feira-21-rens/",
+  "publicadoEm": "2026-10-21T07:07:39-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-37"
+ },
+ {
+  "titulo": "PEC da tarifa zero prevê R$ 12 bi até 2027",
+  "resumo": "Ministro do Planejamento anunciou que emendas parlamentares vão financiar a PEC que estabelece tarifa zero no transporte coletivo a partir de 2027.",
+  "fatos": [
+   "A PEC visa liberar R$ 12 bilhões para redução de tarifas no transporte coletivo até 2027.",
+   "O ministro Bruno Moretti afirmou que pelo menos 26,8% das emendas anuais serão destinadas a essa gratuidade.",
+   "O objetivo é garantir mobilidade gratuita principalmente em feriados e finais de semana.",
+   "O Congresso Nacional agora irá analisar a proposta após a assinatura do presidente Lula."
+  ],
+  "numeros": [
+   {
+    "valor": "12.000.000.000",
+    "rotulo": "emendas para tarifa zero até 2027"
+   },
+   {
+    "valor": "26,8%",
+    "rotulo": "percentual das emendas reservadas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 12 bilhões",
+  "porQueImporta": "Essa proposta pode impactar a economia local, influenciando o acesso ao transporte e a mobilidade da população.",
+  "impactoMercado": "A PEC pode afetar as finanças públicas, com potenciais reflexos em orçamentos futuros e investimentos em setores relacionados ao transporte.",
+  "entenda": "Uma PEC é uma proposta de emenda à Constituição, que deve ser analisada e aprovada pelo Congresso antes de ser promulgada.",
+  "observar": "Acompanhe a tramitação da PEC no Congresso e seu impacto no orçamento federal.",
+  "publico": [
+   "Iniciantes",
+   "Empresários",
+   "Aposentados"
+  ],
+  "angulo": "Entender como as políticas públicas podem influenciar o mercado financeiro é essencial para investidores e futuros traders.",
+  "gancho": "*Tarifa zero* e *economia pública* em foco",
+  "ideias": [
+   "Como funciona a tarifa zero no transporte?",
+   "Entenda a importância das emendas parlamentares",
+   "O que muda com a PEC da tarifa zero?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://bpmoney.com.br/economia/pec-tarifa-zero-emendas-parlamentares-12-bilhoes-moretti/",
+  "publicadoEm": "2026-10-21T15:22:59-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-38"
+ },
+ {
+  "titulo": "Governo destina R$ 300 milhões para Defesa Civil",
+  "resumo": "O governo federal anunciou a liberação de R$ 300 milhões extras para fortalecer a Defesa Civil em frente a eventos climáticos extremos que afetam diversas regiões do Brasil.",
+  "fatos": [
+   "O crédito foi aberto ao Ministério da Integração e do Desenvolvimento Regional por uma medida provisória.",
+   "O Norte está enfrentando estiagem e queimadas, enquanto o Sul e o Sudeste sofrem com chuvas intensas.",
+   "Os recursos buscam fortalecer a capacidade de resposta da Defesa Civil e apoiar ações de emergência.",
+   "A medida precisa ser aprovada pelo Congresso Nacional para ter validade definitiva."
+  ],
+  "numeros": [
+   {
+    "valor": "R$ 300 milhões",
+    "rotulo": "destinados à Defesa Civil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 300 milhões",
+  "porQueImporta": "Esses recursos são essenciais para fortalecer as ações de proteção civil e podem impactar a recuperação econômica de áreas afetadas por desastres naturais.",
+  "impactoMercado": "A destinação de verbas públicas pode influenciar o mercado ao gerar expectativas sobre investimentos em infraestrutura e no setor de emergência.",
+  "entenda": "A Defesa Civil é um órgão responsável por coordenar ações de prevenção e resposta a desastres naturais, essenciais para proteger a população.",
+  "observar": "Acompanhe a tramitação da medida no Congresso e a implementação das ações de emergência nas regiões afetadas.",
+  "publico": [
+   "Aposentados",
+   "Investidores",
+   "CLT",
+   "Empresários"
+  ],
+  "angulo": "A destinação de recursos para a Defesa Civil em tempos de crise climática enfatiza a importância da preparação e resiliência no mercado.",
+  "gancho": "*R$ 300 milhões* para *Defesa Civil*",
+  "ideias": [
+   "Governo libera R$ 300 milhões para desastres",
+   "Como a verba da Defesa Civil impacta o mercado?",
+   "Entenda a importância da Defesa Civil"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://bpmoney.com.br/politica/governo/defesa-civil-credito-extraordinario-300-milhoes/",
+  "publicadoEm": "2026-10-21T15:01:25-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-39"
+ },
+ {
+  "titulo": "Euforia dá lugar à proteção nas opções de bolsa antes do 2º turno",
+  "resumo": "Investidores mudam de euforia para estratégia de proteção nas opções da bolsa em meio ao 2º turno das eleições. O clima cauteloso reflete preocupações com a volatilidade dos mercados.",
+  "fatos": [
+   "O 2º turno das eleições está gerando uma mudança no comportamento dos investidores.",
+   "Com a incerteza, muitos estão adotando estratégias de proteção nas opções.",
+   "Essa transição indica um clima de cautela no mercado financeiro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender essas mudanças ajuda investidores a se prepararem para possíveis oscilações no mercado, especialmente em períodos eleitorais.",
+  "impactoMercado": "A proteção nas opções pode influenciar as movimentações na bolsa, aumentando a volatilidade e afetando a confiança dos investidores.",
+  "entenda": "Opções são contratos que dão ao investidor o direito de comprar ou vender um ativo a um preço predeterminado, oferecendo uma forma de proteção contra perdas.",
+  "observar": "É importante acompanhar como as movimentações nas opções afetam o mercado, especialmente após o 2º turno.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa mudança de percepção no mercado é crucial para quem deseja entender mais sobre estratégias de proteção.",
+  "gancho": "*Protetores* da bolsa: o que esperar?",
+  "ideias": [
+   "Como se proteger em períodos de incerteza?",
+   "O impacto das eleições nas opções de bolsa",
+   "Estratégias de proteção: o que considerar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "escudo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.google.com/search?q=Euforia+d%C3%A1+lugar+%C3%A0+prote%C3%A7%C3%A3o+nas+op%C3%A7%C3%B5es+de+bolsa+antes+do+2%C2%BA+turno+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T14:39:58-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-40"
+ },
+ {
+  "titulo": "Mudanças importantes no fundo VCRR11 em novembro",
+  "resumo": "O fundo imobiliário VCRR11 terá nova gestora a partir de novembro, com mudanças em sua estrutura de remuneração. Essas alterações foram aprovadas pelos cotistas em assembleia.",
+  "fatos": [
+   "O fundo VCRR11 passará a ser gerido pela Altavista Capital a partir de 3 de novembro.",
+   "A mudança foi aprovada em assembleia realizada em agosto de 2026.",
+   "A taxa de gestão proposta é de 0,20% ao ano sobre o patrimônio do fundo.",
+   "A remuneração mínima mensal será de R$ 40 mil e será corrigida pelo IPCA.",
+   "Não haverá taxa de performance na nova gestão."
+  ],
+  "numeros": [
+   {
+    "valor": "0,20%",
+    "rotulo": "Taxa de gestão anual proposta"
+   },
+   {
+    "valor": "R$ 40 mil",
+    "rotulo": "Remuneração mínima mensal"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "VCRR11",
+  "porQueImporta": "Mudanças na gestão e estrutura de remuneração podem afetar o desempenho do fundo, impactando os rendimentos dos cotistas e a percepção de mercado.",
+  "impactoMercado": "A transição de gestora pode alterar a estratégia de investimento do fundo, influenciando a confiança dos investidores e a negociação das cotas no mercado.",
+  "entenda": "Fundo imobiliário é um tipo de investimento coletivo em imóveis, permitindo que investidores adquiram frações de propriedades e recebam rendimentos.",
+  "observar": "Acompanhe a performance do fundo após a mudança de gestora e como o mercado reagirá a essas alterações.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender as mudanças na gestão de fundos é essencial para investidores que buscam maximizar rendimentos e diversificar suas carteiras.",
+  "gancho": "*Gestão* do VCRR11 *muda* em novembro!",
+  "ideias": [
+   "Como a nova gestão pode impactar seu investimento no VCRR11?",
+   "Entenda as mudanças na estrutura de remuneração do VCRR11.",
+   "O que significa a troca de gestão para investidores de FIIs?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "FIIs",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "url": "https://www.infomoney.com.br/onde-investir/fundo-imobiliario-deixa-gestao-do-patria-e-prepara-nova-fase-em-novembro/",
+  "publicadoEm": "2026-10-21T16:18:28-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-41"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-on-october-21-2026",
+  "titulo": "Mercado de previsões vê 46% de chance do Bitcoin atingir 85 mil até 21 de outubro",
+  "resumo": "Este é um cenário baseado em apostas, não uma previsão.",
+  "probs": [
+   {
+    "opcao": "↑ 85,000",
+    "prob": 46.0
+   },
+   {
+    "opcao": "↑ 86,000",
+    "prob": 5.0
+   },
+   {
+    "opcao": "↓ 82,000",
+    "prob": 2.9
+   },
+   {
+    "opcao": "↑ 87,000",
+    "prob": 2.1
+   }
+  ],
+  "prazo": "2026-10-22",
+  "volume24h": "US$ 397 mil",
+  "fatos": [
+   "↑ 85,000: 46,0%",
+   "↑ 86,000: 5,0%",
+   "↓ 82,000: 2,9%",
+   "↑ 87,000: 2,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "46,0%",
+    "rotulo": "↑ 85,000"
+   },
+   {
+    "valor": "5,0%",
+    "rotulo": "↑ 86,000"
+   },
+   {
+    "valor": "2,9%",
+    "rotulo": "↓ 82,000"
+   },
+   {
+    "valor": "2,1%",
+    "rotulo": "↑ 87,000"
+   }
+  ],
+  "destaque": "46,0%",
+  "gancho": "*Expectativa* sobre preço do Bitcoin",
+  "entenda": "O preço do Bitcoin é influenciado por diversos fatores, como demanda de mercado, regulamentações e adoção. Previsões variam conforme o movimento do mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-october-21-2026",
+  "publicadoEm": "2026-10-21T16:37:34-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "data": "2026-10-21",
+  "status": "nova",
+  "id": "2026-10-21-p1"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bank-of-russia-decision-in-october-20260724021538830",
+  "titulo": "Mercado de previsões vê 74,5% de chance de nenhuma mudança na taxa pelo Banco da Rússia em outubro",
+  "resumo": "Chance estimada por apostadores, não previsão formal.",
+  "probs": [
+   {
+    "opcao": "Sem mudança",
+    "prob": 74.5
+   },
+   {
+    "opcao": "Redução",
+    "prob": 25.0
+   },
+   {
+    "opcao": "Aumento",
+    "prob": 0.7
+   }
+  ],
+  "prazo": "2026-10-24",
+  "volume24h": "US$ 61 mil",
+  "fatos": [
+   "Sem mudança: 74,5%",
+   "Redução: 25,0%",
+   "Aumento: 0,7%"
+  ],
+  "numeros": [
+   {
+    "valor": "74,5%",
+    "rotulo": "Sem mudança"
+   },
+   {
+    "valor": "25,0%",
+    "rotulo": "Redução"
+   },
+   {
+    "valor": "0,7%",
+    "rotulo": "Aumento"
+   }
+  ],
+  "destaque": "74,5%",
+  "gancho": "*Expectativa* do Banco da Rússia",
+  "entenda": "A política monetária da Rússia influencia a economia local e internacional, afetando câmbio e inflação, e é monitorada por investidores em todo o mundo.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bank-of-russia-decision-in-october-20260724021538830",
+  "publicadoEm": "2026-10-21T16:37:34-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-21T16:37:34-03:00",
+  "data": "2026-10-21",
+  "status": "nova",
+  "id": "2026-10-21-p2"
+ },
+ {
   "titulo": "Recuperação judicial do Grupo Casas Bahia é aprovada",
   "resumo": "A Justiça de SP aprovou a recuperação judicial do Grupo Casas Bahia, que possui dívidas de R$ 17,3 bilhões, sendo R$ 16,4 bilhões sem garantias reais.",
   "fatos": [
@@ -4982,12 +6195,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "82,5%",
+  "destaque": "90,5%",
   "fatos": [
-   "↑ 85,000: 82,5%",
-   "↑ 87,500: 47,5%",
-   "↓ 80,000: 35,5%",
-   "↑ 90,000: 23,5%"
+   "↑ 85,000: 90,5%",
+   "↓ 82,500: 64,0%",
+   "↑ 87,500: 51,5%",
+   "↓ 80,000: 31,0%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -4999,49 +6212,49 @@
   "probs": [
    {
     "opcao": "↑ 85,000",
-    "prob": 82.5
+    "prob": 90.5
+   },
+   {
+    "opcao": "↓ 82,500",
+    "prob": 64.0
    },
    {
     "opcao": "↑ 87,500",
-    "prob": 47.5
+    "prob": 51.5
    },
    {
     "opcao": "↓ 80,000",
-    "prob": 35.5
-   },
-   {
-    "opcao": "↑ 90,000",
-    "prob": 23.5
+    "prob": 31.0
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores acreditam na alta do Bitcoin, com fortíssima expectativa de que ele ultrapasse os $85,000.",
+  "resumo": "Probabilidade baseada nas apostas dos participantes do mercado.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 82.5% de chance do Bitcoin superar 85,000 até novembro.",
+  "titulo": "Mercado de previsões vê 90,5% de chance do Bitcoin atingir 85 mil até novembro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 244 mil",
+  "volume24h": "US$ 325 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "82,5%",
+    "valor": "90,5%",
     "rotulo": "↑ 85,000"
    },
    {
-    "valor": "47,5%",
+    "valor": "64,0%",
+    "rotulo": "↓ 82,500"
+   },
+   {
+    "valor": "51,5%",
     "rotulo": "↑ 87,500"
    },
    {
-    "valor": "35,5%",
+    "valor": "31,0%",
     "rotulo": "↓ 80,000"
-   },
-   {
-    "valor": "23,5%",
-    "rotulo": "↑ 90,000"
    }
   ],
-  "atualizadoEm": "2026-10-21T11:41:23-03:00"
+  "atualizadoEm": "2026-10-21T16:37:34-03:00"
  },
  {
   "categoria": "Commodities",
