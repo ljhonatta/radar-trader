@@ -15,7 +15,7 @@ def troca(velho, novo, n=1):
 
 
 # ---------- cabeçalho e textos ----------
-troca('<!doctype html><html><head><meta charset=utf8>', '<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%278%27 fill=%27%23e2600c%27/%3E%3Cpath d=%27M6 22l6-7 5 4 9-11%27 stroke=%27white%27 stroke-width=%273.4%27 fill=%27none%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27/%3E%3C/svg%3E">')
+troca('<!doctype html><html><head><meta charset=utf8>', '<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><link rel="icon" type="image/png" sizes="32x32" href="data/img/icone-32.png"><link rel="apple-touch-icon" href="data/img/icone-180.png"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#0c1019"><meta name="description" content="Notícias do mercado financeiro coletadas 3 vezes por dia com IA, prontas para virar carrossel."><meta property="og:title" content="Radar Trader"><meta property="og:description" content="Notícias do mercado financeiro com IA, prontas para virar carrossel."><meta property="og:image" content="https://ljhonatta.github.io/radar-trader/data/img/og.jpg"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">')
 troca('<title>Radar Trader Fontes</title>', '<title>Radar Trader 2.0</title>')
 troca('<span class="eyebrow">Vision Prime · Fábrica de conteúdo financeiro</span>\n      <h1>Radar Trader Fontes</h1>',
       '<span class="eyebrow">Fábrica de conteúdo financeiro · versão 2.0</span>\n      <h1>Radar Trader</h1>')
@@ -24,6 +24,17 @@ troca('<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/htm
       '<script src="github.js"></script>\n<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>')
 troca('No app do Claude no iPhone ou Android, cada imagem abre a tela de compartilhar ou salvar do celular: escolha <b>Salvar imagem</b> para ir para a galeria.',
       'No celular, abre a tela de compartilhar com todas as imagens juntas: escolha <b>Salvar imagens</b> para ir para a galeria.')
+
+# ---------- capa (imagem gerada com IA) ----------
+troca('  <div class="top">', '  <div class="top hero">')
+troca('.top{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;justify-content:space-between}',
+      '.top{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;justify-content:space-between}\n'
+      '.hero{min-height:clamp(150px,22vw,230px);padding:22px clamp(16px,3vw,28px);border-radius:16px;overflow:hidden;color:#fff;'
+      'background:linear-gradient(90deg,#05070c 0%,rgba(5,7,12,.85) 32%,rgba(5,7,12,.1) 70%),url(data/img/capa.jpg) right center/cover no-repeat #05070c;'
+      'box-shadow:0 18px 40px -24px rgba(0,0,0,.6)}\n'
+      '.hero h1{font-size:clamp(28px,4.4vw,44px);color:#fff}\n'
+      '.hero .eyebrow{color:#ff8a33}\n'
+      '.hero .status{color:#c9cfdc;background:rgba(5,7,12,.55);padding:4px 10px;border-radius:999px}')
 
 # ---------- CSS novo ----------
 CSS = r'''
