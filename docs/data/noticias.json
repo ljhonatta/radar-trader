@@ -1,5 +1,1129 @@
 [
  {
+  "titulo": "Arrecadação federal atinge R$ 239,384 bi em setembro",
+  "resumo": "A arrecadação de impostos federais em setembro foi a maior desde 2000, mostrando um crescimento real em relação ao ano anterior.",
+  "fatos": [
+   "A Receita Federal declarou arrecadação de R$ 239,384 bilhões em setembro.",
+   "Esse resultado é 5,62% maior em comparação com setembro de 2025, descontando a inflação.",
+   "O IRPJ e a CSLL arrecadaram R$ 29,820 bilhões, com aumento de 1,06%.",
+   "A Receita Previdenciária foi de R$ 64,588 bilhões, alta de 6,18%.",
+   "As receitas com o imposto de exportação de petróleo somaram R$ 2,943 bilhões no mês."
+  ],
+  "numeros": [
+   {
+    "valor": "239,384",
+    "rotulo": "arrecadação em bilhões"
+   },
+   {
+    "valor": "5,62",
+    "rotulo": "crescimento em percentual"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 239,384 bi",
+  "porQueImporta": "Esse crescimento na arrecadação pode ser um indicativo da saúde econômica do país, impactando a confiança de investidores.",
+  "impactoMercado": "A arrecadação crescente pode influenciar decisões de política monetária e fiscal, afetando o mercado de investimentos e renda fixa.",
+  "entenda": "A arrecadação federal se refere aos tributos coletados pelo governo, que são usados para financiar serviços públicos e investimentos.",
+  "observar": "Acompanhe os próximos dados sobre a economia e os efeitos das políticas fiscais.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa notícia demonstra a importância do acompanhamento de indicadores econômicos para entender o mercado e suas dinâmicas.",
+  "gancho": "*Arrecadação* federal em alta!",
+  "ideias": [
+   "Arrecadação federal: o que isso significa?",
+   "Como a arrecadação impacta o mercado financeiro?",
+   "Entenda a importância da receita pública"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.infomoney.com.br/economia/arrecadacao-soma-r-239384-bi-em-setembro-maior-valor-para-o-mes-desde-2000/",
+  "publicadoEm": "2026-10-22T11:35:13-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-01"
+ },
+ {
+  "titulo": "Ibovespa cai com tensão externa e eleições à vista",
+  "resumo": "O Ibovespa apresenta queda enquanto os preços do petróleo aumentam e as eleições presidenciais se aproximam. O cenário externo também gera cautela entre os investidores.",
+  "fatos": [
+   "O Ibovespa caiu 0,35%, atingindo 205.770,86 pontos.",
+   "O dólar à vista subiu para R$ 5,0434, com uma alta de 0,31%.",
+   "Os preços do petróleo chegaram a US$ 112 por barril com aumento nas tensões no Oriente Médio.",
+   "As pesquisas eleitorais mostram Flávio Bolsonaro com 51% e Luiz Inácio Lula da Silva com 49%, tecnicamente empatados.",
+   "A campanha de Lula entrou com uma ação no TSE contra a chapa de Bolsonaro."
+  ],
+  "numeros": [
+   {
+    "valor": "205.770",
+    "rotulo": "Ibovespa em pontos"
+   },
+   {
+    "valor": "R$ 5,0434",
+    "rotulo": "Dólar à vista"
+   },
+   {
+    "valor": "US$ 112",
+    "rotulo": "Preço do petróleo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,35%",
+  "porQueImporta": "Essas informações são essenciais para investidores, pois indicam um cenário de incerteza que pode impactar decisões de compra e venda de ativos na bolsa.",
+  "impactoMercado": "A instabilidade política e a alta nos preços do petróleo podem gerar volatilidade no mercado, afetando ações e a confiança dos investidores.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo a performance das ações mais negociadas. Suas flutuações indicam o sentimento do mercado em relação à economia.",
+  "observar": "Fique atento às pesquisas eleitorais e ao cenário internacional, pois esses fatores podem influenciar o comportamento do mercado nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender as influências externas e políticas ajuda na formação de uma visão crítica sobre o mercado financeiro e pode incentivar a busca por aprendizado na área.",
+  "gancho": "*Ibovespa em queda* com *tensões internacionais*",
+  "ideias": [
+   "Como as eleições afetam o mercado?",
+   "Entenda a relação entre petróleo e Ibovespa",
+   "Impactos das tensões internacionais nas ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-22-10-26-lils/",
+  "publicadoEm": "2026-10-22T10:14:54-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-02"
+ },
+ {
+  "titulo": "Petróleo sobe mais de 2% com tensões no Oriente Médio",
+  "resumo": "Os preços do petróleo dispararam após ataques na Arábia Saudita, aumentando as preocupações com o fornecimento. O Brent e o WTI apresentam alta significativa.",
+  "fatos": [
+   "O petróleo Brent subiu US$ 2,89, ou 2,66%, para US$ 111,70 por barril.",
+   "O WTI avançou US$ 2,45, ou 2,52%, para US$ 99,60.",
+   "O ataque resultou em pelo menos uma morte no aeroporto de Dammam, Arábia Saudita.",
+   "Os estoques de petróleo bruto dos EUA caíram 3,06 milhões de barris, para 412,5 milhões de barris."
+  ],
+  "numeros": [
+   {
+    "valor": "2,66%",
+    "rotulo": "alta do Brent"
+   },
+   {
+    "valor": "$ 111,70",
+    "rotulo": "preço do Brent"
+   },
+   {
+    "valor": "2,52%",
+    "rotulo": "alta do WTI"
+   },
+   {
+    "valor": "$ 99,60",
+    "rotulo": "preço do WTI"
+   },
+   {
+    "valor": "3,06 milhões",
+    "rotulo": "queda nos estoques dos EUA"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "2,66%",
+  "porQueImporta": "As tensões geopolíticas podem afetar a oferta de petróleo, impactando os preços e a inflação. Isso é relevante para investidores em commodities e ações do setor.",
+  "impactoMercado": "A alta nos preços do petróleo pode influenciar ações de empresas do setor energético e commodities, além de pressionar a inflação.",
+  "entenda": "O petróleo é uma commodity crucial, e seu preço pode ser afetado por fatores geopolíticos e mudanças na oferta e demanda.",
+  "observar": "Acompanhe a evolução das tensões no Oriente Médio e os dados de estoques de petróleo nos EUA para entender como isso impacta os preços.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Entender as flutuações no preço do petróleo ajuda a tomar decisões mais informadas sobre investimentos e a compreender a dinâmica do mercado.",
+  "gancho": "*Petróleo* em alta: entenda o motivo agora!",
+  "ideias": [
+   "Por que o petróleo dispara? Entenda agora!",
+   "Os impactos da alta do petróleo no mercado",
+   "Tensões no Oriente Médio e o preço do petróleo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.moneytimes.com.br/petroleo-dispara-acima-de-2-com-a-escalada-das-tensoes-no-oriente-medio-fets/",
+  "publicadoEm": "2026-10-22T04:46:43-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-03"
+ },
+ {
+  "titulo": "Mercado reage a balanços e pesquisa antes da eleição",
+  "resumo": "Investidores aguardam pesquisa do Datafolha enquanto incertezas eleitorais afetam o Ibovespa e o dólar. Expectativas são altas para balanços de empresas e dados do emprego dos EUA.",
+  "fatos": [
+   "Faltam menos de cinco dias para o segundo turno das eleições.",
+   "O Ibovespa perdeu 1,8 mil pontos, fechando em 206.495,23.",
+   "O dólar à vista terminou a R$ 5,0279, com alta de 0,18%.",
+   "Bolsas asiáticas e europeias fecharam em queda.",
+   "O barril do Brent subiu para mais de US$ 112."
+  ],
+  "numeros": [
+   {
+    "valor": "206.495,23",
+    "rotulo": "fechamento do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,0279",
+    "rotulo": "cotação do dólar à vista"
+   },
+   {
+    "valor": "112",
+    "rotulo": "preço do barril de Brent"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,0279",
+  "porQueImporta": "A pesquisa de intenção de votos pode afetar o humor do mercado e influenciar as decisões dos investidores em relação a ativos financeiros.",
+  "impactoMercado": "A incerteza eleitoral e resultados de balanços podem afetar a performance do Ibovespa e a cotação do dólar, ou seja, o risco percebido pelos investidores.",
+  "entenda": "O Ibovespa é o principal indicador da bolsa brasileira, refletindo o desempenho das ações mais negociadas.",
+  "observar": "Acompanhe os resultados da pesquisa Datafolha e o fechamento do mercado após a divulgação dos balanços do Bradesco.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A volatilidade do mercado em períodos eleitorais é um aspecto fundamental a se entender para a tomada de decisões informadas.",
+  "gancho": "*Eleições* e *mercado*: como tudo se conecta?",
+  "ideias": [
+   "Como as eleições impactam o Ibovespa?",
+   "O que esperar dos resultados do Bradesco?",
+   "Entenda o preço do petróleo e suas implicações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.moneytimes.com.br/mercado-local-reage-a-balancos-e-nova-pesquisa-datafolha-ibovespa-em-dolar-cai-nesta-quinta-feira-22-rens/",
+  "publicadoEm": "2026-10-22T07:17:43-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-04"
+ },
+ {
+  "titulo": "Ibovespa cai 1% com tensões externas e eleições",
+  "resumo": "O Ibovespa registra queda de 1,38%, impactado por tensões no Oriente Médio e pesquisas eleitorais. O dólar também mostra alta, refletindo esse cenário.",
+  "fatos": [
+   "O Ibovespa caiu 1,38%, alcançando 203.639,61 pontos.",
+   "Tensões no Oriente Médio provocaram a alta dos preços do petróleo a US$ 112 por barril.",
+   "Pesquisas de intenção de votos para a Presidência geram cautela no mercado.",
+   "O dólar à vista abriu a R$ 5,0479, apresentando alta de 0,40% no início dos negócios."
+  ],
+  "numeros": [
+   {
+    "valor": "203.639,61",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "112",
+    "rotulo": "US$ por barril de petróleo"
+   },
+   {
+    "valor": "5,0479",
+    "rotulo": "R$ por dólar à vista"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,38%",
+  "porQueImporta": "A queda do Ibovespa pode afetar a confiança dos investidores e a disposição para assumir riscos no mercado de renda variável.",
+  "impactoMercado": "Esses fatores contribuem para um ambiente de incerteza, o que pode levar investidores a ajustar suas estratégias e posições, dependendo da evolução da situação.",
+  "entenda": "O Ibovespa é um índice que reflete o desempenho das ações negociadas na B3, a bolsa de valores brasileira. Sua variação é monitorada de perto por investidores.",
+  "observar": "Acompanhe a divulgação das pesquisas eleitorais e os preços do petróleo, pois ambos podem continuar influenciando o comportamento do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como fatores externos e políticos impactam o Ibovespa é essencial para quem quer operar ou investir na bolsa.",
+  "gancho": "Ibovespa em queda: *o que isso significa?*",
+  "ideias": [
+   "Queda do Ibovespa: o que está acontecendo?",
+   "Ibovespa e eleições: impacto no mercado",
+   "Por que o petróleo influencia a bolsa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.moneytimes.com.br/tempo-real-22-10-26-apsa/",
+  "publicadoEm": "2026-10-22T06:00:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-05"
+ },
+ {
+  "titulo": "Ibovespa em alta e dólar a R$ 5: hora de diversificar?",
+  "resumo": "Com o Ibovespa superando os 200 mil pontos e o dólar ao redor de R$ 5, especialistas recomendam diversificação internacional, mas com foco estrutural.",
+  "fatos": [
+   "O Ibovespa superou os 200 mil pontos em outubro.",
+   "O dólar está sendo negociado em torno de R$ 5, abaixo da média do ano.",
+   "Especialistas alertam que a diversificação deve ser uma decisão estruturante, não apenas aproveitando o câmbio.",
+   "Os juros americanos continuam relativamente elevados, enquanto a bolsa americana teve valorização em 2026.",
+   "Investir no exterior deve ser avaliado com um horizonte de longo prazo, de pelo menos dez anos."
+  ],
+  "numeros": [
+   {
+    "valor": "200.000",
+    "rotulo": "pontos do Ibovespa em outubro"
+   },
+   {
+    "valor": "R$ 5",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Selic projetada"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "juros americanos"
+   },
+   {
+    "valor": "19,1",
+    "rotulo": "P/L projetado do S&P 500"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5",
+  "porQueImporta": "Entender como diversificar sua carteira em um mercado globalizado é crucial para proteger seu patrimônio e se beneficiar de oportunidades internacionais.",
+  "impactoMercado": "A alta do Ibovespa e a cotação do dólar podem influenciar decisões estratégicas de alocação de ativos no exterior.",
+  "entenda": "A diversificação internacional reduz o risco de se concentrar em uma única economia, o que é essencial para melhorar a resiliência do portfólio.",
+  "observar": "Acompanhe a evolução das taxas de juros nos EUA e a política econômica brasileira, pois isso pode impactar o câmbio e a atratividade de investimentos internacionais.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A análise reflete não apenas a situação atual, mas também como se preparar para o futuro no mercado financeiro.",
+  "gancho": "*Diversificação Internacional*: é o momento certo?",
+  "ideias": [
+   "Como diversificar sua carteira no exterior",
+   "Ibovespa e dólar: o que fazer agora?",
+   "Investir fora do Brasil: vale a pena?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Câmbio",
+  "icone": "seta",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/etfs/ibovespa-em-alta-e-dolar-em-r-5-e-o-momento-de-diversificar-no-exterior/",
+  "publicadoEm": "2026-10-22T11:28:53-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-06"
+ },
+ {
+  "titulo": "MPF exige ações da Meta contra moderação indevida no 2º turno",
+  "resumo": "O Ministério Público Federal cobrou da Meta medidas para garantir transparência e proteção do jornalismo livre durante as eleições, com um prazo de 48 horas para resposta.",
+  "fatos": [
+   "O MPF pediu transparência em providências urgentes da Meta em relação à moderação de conteúdo durante o 2º turno das eleições.",
+   "A Meta tem 48 horas para informar se adotará as recomendações solicitadas pelo MPF.",
+   "Entre 25 de setembro e 13 de outubro, 206,9 mil publicações foram bloqueadas automaticamente pela Meta.",
+   "O MPF considera que muitas dessas restrições foram feitas sem análise individual e em categorias inadequadas.",
+   "A procuradoria defende que o direito à participação política vai além do voto e inclui o debate público e manifestações pacíficas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "As reclamações sobre moderação de conteúdo podem afetar a liberdade de expressão nas redes sociais, importante para o debate político.",
+  "impactoMercado": "Mudanças na forma como plataformas digitais moderam conteúdo podem influenciar o ambiente de negócios e a interação com usuários durante períodos eleitorais.",
+  "entenda": "A moderação de conteúdo refere-se ao processo de revisão e remoção de postagens feitas em plataformas digitais para garantir que não infrinjam diretrizes e políticas.",
+  "observar": "Aguardar a resposta da Meta e a análise do MPF nas próximas semanas pode revelar como a moderação de conteúdo será aplicada nas eleições.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender a relação entre plataformas digitais e moderação de conteúdo é essencial para quem busca operar no mercado, especialmente durante períodos eleitorais.",
+  "gancho": "*Meta*, *moderação* e *eleições*: O que vem por aí?",
+  "ideias": [
+   "Impactos da moderação de conteúdo nas eleições",
+   "Como plataformas digitais influenciam o debate eleitoral",
+   "MPF e a luta pela transparência nas redes sociais"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://bpmoney.com.br/politica/mpf-pede-meta-medidas-urgentes-liberdade-expressao-moderacao-eleicoes/",
+  "publicadoEm": "2026-10-22T11:36:10-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-07"
+ },
+ {
+  "titulo": "Oportunidades na bolsa e renda fixa pós-eleições",
+  "resumo": "Bruno Di Giacomo, da Nero Capital, discute como o cenário fiscal pós-eleitoral pode abrir novas oportunidades de investimentos no Brasil.",
+  "fatos": [
+   "Empresas podem ter novas oportunidades de captação dependendo do resultado eleitoral.",
+   "Essas oportunidades podem incluir IPOs ou emissão de dívida.",
+   "O debate eleitoral e a nova governança fiscal influenciam o mercado de investimentos."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender o impacto do cenário fiscal na bolsa e na renda fixa ajuda investidores a se prepararem para novas oportunidades.",
+  "impactoMercado": "Mudanças no cenário fiscal podem estimular novos investimentos e operações no mercado, impactando a dinâmica da bolsa e da renda fixa.",
+  "entenda": "IPOs (Ofertas Públicas Iniciais) são quando empresas vendem ações ao público pela primeira vez, permitindo captar recursos para investimentos.",
+  "observar": "Acompanhe os resultados eleitorais e suas implicações para a economia e o mercado financeiro.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia abre um caminho para entender como o cenário político pode afetar seus investimentos e a importância de informações sobre o mercado.",
+  "gancho": "*Oportunidades* na bolsa *após eleições*",
+  "ideias": [
+   "Investimentos em alta após as eleições",
+   "Como o cenário político impacta o mercado",
+   "O que esperar da bolsa e renda fixa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/crescimento-a-vista-as-oportunidades-que-podem-surgir-na-bolsa-e-na-renda-fixa-apos-as-eleicoes/",
+  "publicadoEm": "2026-10-22T11:00:48-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-08"
+ },
+ {
+  "titulo": "Wall Street cai com pressão em ações de IA e petróleo em alta",
+  "resumo": "Os índices de Wall Street enfrentam quedas devido a pressões no setor de IA após balanços de Meta e Tesla, enquanto os preços do petróleo aumentam a nervosidade do mercado.",
+  "fatos": [
+   "O Ibovespa caiu 0,63%, fechando em 205.203,58 pontos.",
+   "Os balanços da Meta e Tesla superaram expectativas, mas as ações ainda operaram em queda.",
+   "A Meta teve receita de US$ 64,60 bilhões, um aumento de 26% em relação ao ano anterior.",
+   "A Tesla reportou receita de US$ 28,05 bilhões, acima da estimativa de US$ 27,9 bilhões.",
+   "Os pedidos iniciais de auxílio-desemprego nos EUA caíram para 194.000, indicando estabilidade no mercado de trabalho."
+  ],
+  "numeros": [
+   {
+    "valor": "0,63%",
+    "rotulo": "queda do Ibovespa"
+   },
+   {
+    "valor": "64,60 bilhões",
+    "rotulo": "receita da Meta"
+   },
+   {
+    "valor": "28,05 bilhões",
+    "rotulo": "receita da Tesla"
+   },
+   {
+    "valor": "194.000",
+    "rotulo": "pedidos de auxílio-desemprego"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "205.203,58",
+  "porQueImporta": "As oscilações em Wall Street podem afetar o mercado global, influenciando as decisões de investidores em diferentes ativos.",
+  "impactoMercado": "O clima nervoso pode levar a movimentos erráticos nos preços das ações e impactar investidores em busca de oportunidades ou segurança.",
+  "entenda": "As ações de crescimento incluem empresas com potencial de valorização rápido, mas podem ser mais voláteis em resposta a resultados financeiros.",
+  "observar": "Acompanhe os desdobramentos dos balanços do setor de tecnologia e a evolução dos preços do petróleo nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender as reações do mercado a resultados corporativos é essencial para quem deseja se aprofundar no mercado financeiro.",
+  "gancho": "*Wall Street* em *queda* por balanços",
+  "ideias": [
+   "Wall Street e o impacto nos investimentos",
+   "Por que os balanços da Meta e Tesla importam?",
+   "O que significa a queda do Ibovespa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.moneytimes.com.br/wall-street-abertura-22-10-26-lils/",
+  "publicadoEm": "2026-10-22T10:57:12-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-09"
+ },
+ {
+  "titulo": "BradSaúde (SAUD3) se valoriza após resultados do 3T",
+  "resumo": "As ações da BradSaúde subiram após a divulgação do balanço do terceiro trimestre e anúncio de R$ 1 bilhão em dividendos, destacando uma sinistralidade de 84,5%.",
+  "fatos": [
+   "BradSaúde (SAUD3) teve valorização de 5,19%, cotada a R$ 16,22.",
+   "A sinistralidade consolidada ficou em 84,5%, com pequena piora de 0,5 ponto percentual em relação ao ano anterior.",
+   "O lucro por ação ficou em linha com as estimativas, mas a receita financeira foi abaixo do esperado, somando R$ 685 milhões.",
+   "O pagamento de R$ 1 bilhão em dividendos representa um retorno de 2,2%, equivalente a R$ 0,34 por ação.",
+   "As ações da BradSaúde tiveram valorização de 16% nas últimas três semanas, mas ainda abaixo da média de 25% dos pares."
+  ],
+  "numeros": [
+   {
+    "valor": "1.000.000.000",
+    "rotulo": "dividendos anunciados pela empresa"
+   },
+   {
+    "valor": "84,5",
+    "rotulo": "sinistralidade do trimestre"
+   },
+   {
+    "valor": "0,34",
+    "rotulo": "dividendo por ação"
+   },
+   {
+    "valor": "16",
+    "rotulo": "cotação das ações em R$"
+   },
+   {
+    "valor": "5,19%",
+    "rotulo": "valorização das ações"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "sinistralidade",
+    "antes": "84,0",
+    "depois": "84,5"
+   }
+  ],
+  "destaque": "R$ 1 bilhão",
+  "porQueImporta": "O aumento nos dividendos e a melhora na sinistralidade são sinais positivos, o que pode atrair novos investidores e aumentar a confiança no papel.",
+  "impactoMercado": "Esses resultados podem estimular o interesse em ações do setor de saúde e influenciar a percepção sobre a rentabilidade futura das operadoras.",
+  "entenda": "A sinistralidade mede o percentual de receitas utilizado para pagar despesas assistenciais, refletindo a saúde financeira das operadoras de planos.",
+  "observar": "Fique atento aos próximos resultados e à evolução da sinistralidade, que podem impactar o futuro dos dividendos e da valorização das ações.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender os dados financeiros ajudará a tirar conclusões sobre o mercado de ações e a importância de acompanhar resultados trimestrais.",
+  "gancho": "*Dividendos bilionários* e *sinistralidade* em destaque",
+  "ideias": [
+   "BradSaúde: bons resultados e dividendos",
+   "Sinistralidade: o que isso significa para investidores?",
+   "Ações SAUD3: análise do desempenho recente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.infomoney.com.br/mercados/bradsaude-saud3-analise-resultados-terceiro-trimestre/",
+  "publicadoEm": "2026-10-22T11:27:07-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-10"
+ },
+ {
+  "titulo": "Bitcoin cai 2,6% com aversão a risco após bear market na China",
+  "resumo": "A queda do bitcoin reflete a aversão a risco global, especialmente após o bear market na bolsa da China, que acumula queda de 20%. ETFs de bitcoin nos EUA atraem US$ 528,4 milhões.",
+  "fatos": [
+   "O bitcoin caiu 2,6% e estava cotado a US$ 81.521.",
+   "A bolsa chinesa entrou em bear market, acumulando 20% de queda desde junho.",
+   "Os ETFs de bitcoin à vista nos EUA registraram um saldo líquido positivo de US$ 528,4 milhões.",
+   "O índice Fear & Greed para criptomoedas caiu de 54 para 49 pontos, mas ainda se mantém na zona neutra.",
+   "Os principais ETFs de bitcoin, IBIT e FBTC, receberam US$ 235 milhões e US$ 212,7 milhões, respectivamente."
+  ],
+  "numeros": [
+   {
+    "valor": "2,6%",
+    "rotulo": "queda do bitcoin"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "queda na bolsa da China"
+   },
+   {
+    "valor": "528,4 milhões",
+    "rotulo": "entrada em ETFs de bitcoin"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "-2,6%",
+  "porQueImporta": "A queda do bitcoin pode impactar investidores e traders, pois reflete a confiança fragilizada no mercado cripto diante de tensões macroeconômicas.",
+  "impactoMercado": "Movimentos no bitcoin e ETFs refletem o sentimento de aversão ao risco, que pode influenciar decisões de investimentos em criptomoedas.",
+  "entenda": "Bear market é um termo que descreve um mercado em queda, tipicamente quando os preços caem 20% ou mais em um período. Isso gera aversão ao risco entre os investidores.",
+  "observar": "Acompanhe as futuras movimentações do bitcoin e os índices de sentimento de mercado para entender melhor o comportamento dos investidores.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Analisar o comportamento do bitcoin em meio a tensões na bolsa da China pode ajudar a entender melhor as dinâmicas do mercado cripto e sua relação com o cenário econômico.",
+  "gancho": "*Bitcoin* cai em meio a *aversão ao risco*",
+  "ideias": [
+   "Impactos do bear market chinês no bitcoin",
+   "Como a aversão ao risco afeta o mercado cripto",
+   "ETFs de bitcoin: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "queda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://exame.com/future-of-money/bitcoin-hoje-22-10-2026/",
+  "publicadoEm": "2026-10-22T07:22:22-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-11"
+ },
+ {
+  "titulo": "Raízen propõe aumento de capital de até R$ 3,5 bilhões",
+  "resumo": "A Raízen anunciou aumento de capital para fortalecer seu caixa durante recuperação extrajudicial; novas ações poderão ser emitidas até dezembro.",
+  "fatos": [
+   "A Raízen está em recuperação extrajudicial e propõe um aumento de capital de até R$ 3,5 bilhões.",
+   "A emissão será de novas ações ordinárias e preferenciais até dezembro.",
+   "O preço de subscrição das ações foi fixado em R$ 0,25 cada.",
+   "As novas ações terão direito a dividendos e outros proventos.",
+   "A Raízen montou um plano de reestruturação para enfrentar prejuízos e endividamento."
+  ],
+  "numeros": [
+   {
+    "valor": "R$ 3,5 bilhões",
+    "rotulo": "Aumento de capital proposto"
+   },
+   {
+    "valor": "R$ 0,25",
+    "rotulo": "Preço por ação"
+   },
+   {
+    "valor": "30 de outubro",
+    "rotulo": "Data da assembleia"
+   },
+   {
+    "valor": "5 de novembro",
+    "rotulo": "Reunião do conselho sobre aumento de capital"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 3,5 bilhões",
+  "porQueImporta": "Essa movimentação pode aproximar a Raízen da recuperação financeira, impactando a confiança de investidores e a valorização das ações no futuro.",
+  "impactoMercado": "O aumento de capital poderá melhorar a situação financeira da empresa, mas também pode diluir a participação de acionistas existentes que não participarem da subscrição.",
+  "entenda": "O aumento de capital é uma estratégia utilizada por empresas para levantar recursos financeiros, podendo resultar em mais ações em circulação e, consequentemente, diluição das participações acionárias.",
+  "observar": "Fique atento às decisões das assembleias e a resposta do mercado após a aprovação das propostas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender como operações de aumento de capital funcionam é essencial para qualquer investidor que queira avaliar oportunidades e riscos no mercado.",
+  "gancho": "*Aumento de Capital* da Raízen: o que esperar?",
+  "ideias": [
+   "Impactos do aumento de capital na Raízen",
+   "O que significa a recuperação extrajudicial?",
+   "Como o aumento de capital afeta os acionistas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/raizen-raiz4-tenta-ganhar-folego-com-aumento-de-capital-de-ate-r-35-bilhoes-veja-o-que-muda-para-acionistas/",
+  "publicadoEm": "2026-10-21T20:42:53-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-22-12"
+ },
+ {
+  "titulo": "Ibovespa cai com incerteza eleitoral; dólar a R$ 5,02",
+  "resumo": "O Ibovespa fechou em queda de 0,86%, enquanto o dólar teve leve alta. Incertezas eleitorais impactam o mercado a quatro dias do segundo turno das eleições.",
+  "fatos": [
+   "O Ibovespa perdeu 1,8 mil pontos e terminou a 206.495,23 pontos.",
+   "O dólar à vista encerrou as negociações a R$ 5,0279, com alta de 0,18%.",
+   "A pesquisa da Quaest mostrou Flávio Bolsonaro com 45% e Lula com 44% das intenções de voto, indicando empate técnico.",
+   "Hapvida teve a maior queda, de 8,48%, enquanto WEG caiu 7,34%.",
+   "As ações da Petrobras recuaram 0,79% e da Vale, 2,15%."
+  ],
+  "numeros": [
+   {
+    "valor": "206.495,23",
+    "rotulo": "Ibovespa em pontos"
+   },
+   {
+    "valor": "5,0279",
+    "rotulo": "Dólar à vista"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Intenções de voto de Bolsonaro"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "Intenções de voto de Lula"
+   },
+   {
+    "valor": "-8,48%",
+    "rotulo": "Queda da Hapvida"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,86%",
+  "porQueImporta": "A incerteza eleitoral pode aumentar a aversão ao risco e levar investidores a buscar alternativas mais seguras, como a renda fixa.",
+  "impactoMercado": "Esse cenário pode provocar oscilações nas ações, principalmente das empresas com maior peso no índice, como Petrobras e Vale.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, representando a performance das ações mais negociadas no Brasil.",
+  "observar": "Acompanhe as próximas pesquisas eleitorais e suas interpretações pelo mercado financeiro.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa queda do índice traz uma oportunidade para entender como eventos políticos impactam o mercado e a importância de se estar informado.",
+  "gancho": "*Incerteza eleitoral* e *impacto no mercado*",
+  "ideias": [
+   "Como a incerteza eleitoral afeta seus investimentos?",
+   "O que o Ibovespa nos diz sobre o cenário político?",
+   "Dólar sobe: entenda o que isso significa para você."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-21-10-26-lils/",
+  "publicadoEm": "2026-10-21T17:25:40-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-22-13"
+ },
+ {
+  "titulo": "Ibovespa cai com pesquisa eleitoral e petróleo a US$ 112",
+  "resumo": "O Ibovespa registrou queda em meio a preocupações com a pesquisa eleitoral, enquanto o preço do petróleo alcançou US$ 112. O dólar permanece estável no mercado.",
+  "fatos": [
+   "O Ibovespa enfrentou um dia negativo, influenciado por pesquisas eleitorais recentes.",
+   "O preço do petróleo subiu, chegando a US$ 112 o barril.",
+   "O dólar se manteve em estabilidade, sem grandes variações."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como as notícias eleitorais e os preços das commodities afetam o comportamento do mercado é crucial para investidores.",
+  "impactoMercado": "A volatilidade causada por fatores políticos e econômicos pode gerar oportunidades e riscos para investidores.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas.",
+  "observar": "Fique atento às próximas pesquisas eleitorais e aos preços do petróleo, pois podem impactar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Ao compreender a influência de fatores externos no mercado, você pode se sentir mais preparado para investir e aprender mais sobre finanças.",
+  "gancho": "*Ibovespa* e *câmbio*: o que você precisa saber?",
+  "ideias": [
+   "Como a política influencia a Bolsa?",
+   "O que acontece quando o petróleo sobe?",
+   "Dólar estável: vantagens e desvantagens"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+hoje+cai+com+pesquisa+eleitoral+e+petr%C3%B3leo+a+US%24+112%3B+d%C3%B3lar+fica+est%C3%A1vel+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T10:15:02-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-14"
+ },
+ {
+  "titulo": "Dólar próximo de R$ 5,04 e Ibovespa em baixa",
+  "resumo": "O dólar opera em alta, mantendo-se próximo a R$ 5,04, enquanto o Ibovespa recua, influenciado pela volatilidade do petróleo e pela pesquisa Datafolha.",
+  "fatos": [
+   "O dólar chega a ser cotado perto de R$ 5,04.",
+   "O Ibovespa está enfrentando uma queda.",
+   "A movimentação dos ativos é impactada pela oscilação do preço do petróleo e pela pesquisa Datafolha."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A alta do dólar pode impactar diretamente os custos de importação e a inflação, enquanto a queda do Ibovespa reflete a confiança do mercado.",
+  "impactoMercado": "Os investidores devem observar a volatilidade e suas consequências nas ações e na economia local.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa Brasileira, refletindo o desempenho das ações mais negociadas e relevantes do mercado.",
+  "observar": "Acompanhe as próximas movimentações do dólar e do petróleo, que podem influenciar o Ibovespa.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como fatores externos e pesquisas influenciam o mercado é fundamental para quem quer operar com segurança.",
+  "gancho": "*Dólar* em alta e *Ibovespa* em queda!",
+  "ideias": [
+   "Dólar sobe: o que isso significa?",
+   "Entenda a queda do Ibovespa",
+   "Como petróleo e Datafolha afetam o mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Portal do Agronegócio",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+sobe+perto+de+R%24+5%2C04+e+Ibovespa+cai+com+petr%C3%B3leo+e+Datafolha+no+radar+Portal+do+Agroneg%C3%B3cio",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T11:05:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-15"
+ },
+ {
+  "titulo": "Taxas dos DIs sobem com eleições em destaque",
+  "resumo": "As taxas dos DIs apresentam aumento enquanto as eleições ganham atenção no mercado. Este movimento reflete a incerteza política que tem impactado as expectativas econômicas.",
+  "fatos": [
+   "As taxas dos DIs estão em alta.",
+   "O cenário eleitoral volta a ser um foco importante para os investidores.",
+   "A incerteza política pode afetar as expectativas econômicas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como as eleições afetam as taxas de juros é crucial para investidores, pois isso pode influenciar a rentabilidade de seus investimentos.",
+  "impactoMercado": "O aumento nas taxas pode gerar cautela entre investidores, afetando decisões de compra e venda.",
+  "entenda": "Os DIs (Depósitos Interfinanceiros) são utilizados como referência para as taxas de juros no mercado financeiro.",
+  "observar": "Acompanhe a evolução das taxas e debates eleitorais que podem influenciar a economia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender o impacto das eleições nas taxas ajuda a moldar uma visão mais assertiva sobre investimentos.",
+  "gancho": "*Eleições* e *Taxas de Juros* em foco!",
+  "ideias": [
+   "Como as eleições afetam as taxas de juros?",
+   "Entenda a alta das taxas dos DIs.",
+   "O que as taxas dos DIs revelam sobre o mercado?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.google.com/search?q=Taxas+dos+DIs+sobem+com+elei%C3%A7%C3%A3o+novamente+no+foco+das+aten%C3%A7%C3%B5es+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T10:35:48-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-16"
+ },
+ {
+  "titulo": "Apple se destaca em meio a incertezas da IA em Wall Street",
+  "resumo": "A Apple se torna um investimento confiável enquanto outras gigantes de tecnologia enfrentam oscilações devido à IA. Suas ações subiram 28% em 2026, superando o S&P 500.",
+  "fatos": [
+   "A Apple teve um aumento de 28% nas ações em 2026.",
+   "Isso a tornou a maior contribuinte para a alta de 12% do índice S&P 500.",
+   "Enquanto empresas como Microsoft e Meta enfrentam oscilações, as ações da Apple se mostraram estáveis.",
+   "A correlação entre as ações da Apple e o índice de semicondutores é negativa desde julho, atingindo níveis extremos.",
+   "Os investidores a veem como um 'porto seguro' em tempos de incerteza no mercado de tecnologia."
+  ],
+  "numeros": [
+   {
+    "valor": "28%",
+    "rotulo": "aumento das ações da Apple em 2026"
+   },
+   {
+    "valor": "12%",
+    "rotulo": "alta do índice S&P 500 em 2026"
+   },
+   {
+    "valor": "36",
+    "rotulo": "múltiplo das ações da Apple"
+   },
+   {
+    "valor": "4,7%",
+    "rotulo": "distância para média móvel de 50 dias"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "crescimento esperado da receita da Apple",
+    "antes": "8%",
+    "depois": "15%"
+   },
+   {
+    "item": "crescimento para 2027",
+    "antes": "9,7%",
+    "depois": "diminuindo"
+   }
+  ],
+  "destaque": "28%",
+  "porQueImporta": "Entender como a Apple se posiciona no mercado de tecnologia pode ajudar investidores a decidirem onde alocar recursos em tempos de incerteza.",
+  "impactoMercado": "Essa dinâmica pode levar a uma maior atenção sobre a estratégia da Apple, influenciando decisões de investimento e a confiança no setor tecnológico.",
+  "entenda": "No mercado financeiro, a correlação entre ações indica como as movimentações de uma ação influenciam outra, importante para entender tendências.",
+  "observar": "Acompanhe futuros anúncios de resultados financeiros da Apple e movimentações no setor de semicondutores que podem impactar sua performance.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa situação ressalta a importância de conhecer as empresas antes de investir, visando mitigar riscos em um ambiente volátil como o atual.",
+  "gancho": "*Apple* é o *porto seguro* de Wall Street?",
+  "ideias": [
+   "A Apple se destaca no cenário de IA",
+   "Como a Apple é vista como proteção por investidores?",
+   "Entenda a correlação da Apple com ações de semicondutores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://www.infomoney.com.br/mercados/apple-o-refugio-de-ia-favorito-de-wall-street-em-meio-aos-temores-com-alta-de-gastos/",
+  "publicadoEm": "2026-10-22T11:32:09-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-17"
+ },
+ {
+  "titulo": "Ingressos para show do U2 no Brasil já disponíveis",
+  "resumo": "Os ingressos para os shows do U2 em São Paulo, marcados para março de 2027, estão à venda a partir de R$ 250. Abertura será com o cantor Beck.",
+  "fatos": [
+   "Os shows ocorrerão nos dias 10 e 12 de março de 2027 no Estádio do MorumBIS, em São Paulo.",
+   "A venda geral de ingressos começou no dia 22 de outubro, às 10h no site e às 11h na bilheteria.",
+   "Os ingressos variam de R$ 250 na meia-entrada do Fan Ticket a R$ 3.000 no pacote VIP Red Zone.",
+   "Os ingressos do Fan Ticket são limitados e não possuem setor definido na compra.",
+   "Cada ingresso contribui para a causa da (RED) no combate à AIDS."
+  ],
+  "numeros": [
+   {
+    "valor": "250",
+    "rotulo": "preço mínimo do ingresso"
+   },
+   {
+    "valor": "3000",
+    "rotulo": "preço máximo do ingresso"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 250",
+  "porQueImporta": "Compreender como funciona a venda de ingressos para eventos pode ajudar no planejamento financeiro ao participar de shows e outras atividades culturais.",
+  "impactoMercado": "O movimento dos fãs em busca de ingressos pode impactar a economia local, como hotéis e transportes, especialmente com grandes eventos na cidade.",
+  "entenda": "Ingressos variam entre modalidades, cada uma com suas características e preços, impactando o acesso ao evento.",
+  "observar": "Acompanhe a resposta do público e a disponibilidade de ingressos nas próximas semanas, especialmente para pacotes VIP.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Essa notícia ilustra como grandes eventos podem afetar o comportamento do consumidor e o mercado de entretenimento.",
+  "gancho": "*U2* no Brasil: ingressos *já à venda*",
+  "ideias": [
+   "Quando comprar ingressos do U2?",
+   "Entenda os tipos de ingressos para shows!",
+   "Impacto de grandes shows na economia local."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://exame.com/pop/u2-no-brasil-ingressos-ja-estao-a-venda-veja-precos-e-como-comprar/",
+  "publicadoEm": "2026-10-22T07:01:57-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-18"
+ },
+ {
+  "titulo": "A importância da diversidade nas contratações para equipes inovadoras",
+  "resumo": "A diversidade nas empresas é crucial para a inovação e evita o pensamento único. Líderes precisam repensar critérios de contratação para reconhecer talentos de diferentes trajetórias.",
+  "fatos": [
+   "O maior desperdício de talento pode estar nas contratações não realizadas.",
+   "Ter perfis muito semelhantes em uma equipe aumenta o risco do pensamento único.",
+   "Diversidade pode ser uma condição para alcançar alta performance e inovação.",
+   "É necessário ampliar os olhares e adaptar ambientes para diferentes talentos."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Reconhecer a importância da diversidade ajuda a criar equipes mais criativas e inovadoras, que atendem melhor as demandas de um mercado em constante transformação.",
+  "impactoMercado": "As empresas que valorizam a diversidade tendem a ter melhor desempenho e inovação, adaptando-se mais rapidamente às mudanças do mercado.",
+  "entenda": "Diversidade no ambiente de trabalho significa ter diferentes perspectivas e experiências, o que pode resultar em soluções mais criativas e eficazes.",
+  "observar": "Acompanhe como as empresas estão mudando suas estratégias de contratação para incluir uma maior diversidade de talentos.",
+  "publico": [
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A discussão sobre diversidade no local de trabalho é essencial para entender como equipes multifacetadas podem gerar melhores resultados.",
+  "gancho": "*Diversidade* traz *inovação* ao mercado!",
+  "ideias": [
+   "Como a diversidade melhora a performance da sua equipe",
+   "Desmistificando o pensamento único nas empresas",
+   "A relação entre diversidade e inovação nos negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "raio",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "url": "https://exame.com/negocios/talento-fora-da-bolha/",
+  "publicadoEm": "2026-10-22T07:00:35-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-19"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-in-october-2026",
+  "titulo": "Mercado de previsões vê 53,5% de chance de Ethereum *abaixo de 2.300* em outubro",
+  "resumo": "Expectativa predominante sugere que o preço do Ethereum pode recuar, refletindo incerteza no mercado de criptoativos.",
+  "probs": [
+   {
+    "opcao": "↓ 2,300",
+    "prob": 53.5
+   },
+   {
+    "opcao": "↑ 2,600",
+    "prob": 28.5
+   },
+   {
+    "opcao": "↓ 2,200",
+    "prob": 25.5
+   },
+   {
+    "opcao": "↓ 2,100",
+    "prob": 13.5
+   }
+  ],
+  "prazo": "2026-11-01",
+  "volume24h": "US$ 130 mil",
+  "fatos": [
+   "↓ 2,300: 53,5%",
+   "↑ 2,600: 28,5%",
+   "↓ 2,200: 25,5%",
+   "↓ 2,100: 13,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "53,5%",
+    "rotulo": "↓ 2,300"
+   },
+   {
+    "valor": "28,5%",
+    "rotulo": "↑ 2,600"
+   },
+   {
+    "valor": "25,5%",
+    "rotulo": "↓ 2,200"
+   },
+   {
+    "valor": "13,5%",
+    "rotulo": "↓ 2,100"
+   }
+  ],
+  "destaque": "53,5%",
+  "gancho": "*Incerteza entre cripto* investidores",
+  "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-october-2026",
+  "publicadoEm": "2026-10-22T11:41:47-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-22T11:41:47-03:00",
+  "data": "2026-10-22",
+  "status": "nova",
+  "id": "2026-10-22-p1"
+ },
+ {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
   "resumo": "A IBM superou as expectativas de Wall Street, com um lucro líquido de US$ 2,19 bilhões, unindo crescimento em sua divisão de software e a aprovação de dividendos.",
   "fatos": [
@@ -5446,16 +6570,16 @@
  {
   "tipo": "sinal",
   "slug": "bank-of-canada-decision-in-october-20260715203359314",
-  "titulo": "Mercado de previsões vê 68,7% de chance de *aumento de 25 bps* na taxa do Banco do Canadá",
-  "resumo": "A determinação vem da análise de apostas feitas no mercado, não se trata de uma previsão oficial.",
+  "titulo": "Mercado de previsões vê 83% de chance de *aumento de 25 bps* pelo Banco do Canadá",
+  "resumo": "Expectativa de aumento em taxa de juros é forte entre apostadores, sinalizando preocupação inflacionária.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 68.7
+    "prob": 83.0
    },
    {
-    "opcao": "Nenhuma mudança",
-    "prob": 29.8
+    "opcao": "Sem mudança",
+    "prob": 16.8
    },
    {
     "opcao": "Aumento de 50+ bps",
@@ -5467,21 +6591,21 @@
    }
   ],
   "prazo": "2026-10-28",
-  "volume24h": "US$ 52 mil",
+  "volume24h": "US$ 48 mil",
   "fatos": [
-   "Aumento de 25 bps: 68,7%",
-   "Nenhuma mudança: 29,8%",
+   "Aumento de 25 bps: 83,0%",
+   "Sem mudança: 16,8%",
    "Aumento de 50+ bps: 0,1%",
    "Redução de 25 bps: 0,1%"
   ],
   "numeros": [
    {
-    "valor": "68,7%",
+    "valor": "83,0%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "29,8%",
-    "rotulo": "Nenhuma mudança"
+    "valor": "16,8%",
+    "rotulo": "Sem mudança"
    },
    {
     "valor": "0,1%",
@@ -5492,7 +6616,7 @@
     "rotulo": "Redução de 25 bps"
    }
   ],
-  "destaque": "68,7%",
+  "destaque": "83,0%",
   "gancho": "*Decisão monetária* no *Canadá*",
   "entenda": "O Banco do Canadá é responsável por controlar a inflação e definir a política monetária do país, incluindo taxas de juros.",
   "categoria": "Previsões",
@@ -5505,59 +6629,60 @@
   "horaEstimada": true,
   "coletadoEm": "2026-10-20T21:14:27-03:00",
   "data": "2026-10-20",
-  "status": "nova",
-  "id": "2026-10-20-p2"
+  "status": "atualizada",
+  "id": "2026-10-20-p2",
+  "atualizadoEm": "2026-10-22T11:41:47-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 67.5% de chance de Bitcoin a mais de $90,000 em 2026",
-  "resumo": "Apostadores acreditam que o preço do Bitcoin poderá ultrapassar $90,000 até o final de 2026.",
+  "titulo": "Mercado de previsões vê 55,5% de chance de Bitcoin *acima de 90.000* antes de 2027",
+  "resumo": "Apostadores acreditam que Bitcoin pode alcançar valores elevados, refletindo otimismo no mercado de criptoativos.",
   "probs": [
    {
-    "opcao": "Acima de $90,000",
-    "prob": 67.5
+    "opcao": "↑ 90,000",
+    "prob": 55.5
    },
    {
-    "opcao": "Acima de $95,000",
-    "prob": 42.5
+    "opcao": "↑ 95,000",
+    "prob": 35.5
    },
    {
-    "opcao": "Abaixo de $70,000",
-    "prob": 27.5
+    "opcao": "↓ 70,000",
+    "prob": 34.5
    },
    {
-    "opcao": "Acima de $100,000",
-    "prob": 26.5
+    "opcao": "↓ 65,000",
+    "prob": 23.0
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 326 mil",
+  "volume24h": "US$ 718 mil",
   "fatos": [
-   "Acima de $90,000: 67,5%",
-   "Acima de $95,000: 42,5%",
-   "Abaixo de $70,000: 27,5%",
-   "Acima de $100,000: 26,5%"
+   "↑ 90,000: 55,5%",
+   "↑ 95,000: 35,5%",
+   "↓ 70,000: 34,5%",
+   "↓ 65,000: 23,0%"
   ],
   "numeros": [
    {
-    "valor": "67,5%",
-    "rotulo": "Acima de $90,000"
+    "valor": "55,5%",
+    "rotulo": "↑ 90,000"
    },
    {
-    "valor": "42,5%",
-    "rotulo": "Acima de $95,000"
+    "valor": "35,5%",
+    "rotulo": "↑ 95,000"
    },
    {
-    "valor": "27,5%",
-    "rotulo": "Abaixo de $70,000"
+    "valor": "34,5%",
+    "rotulo": "↓ 70,000"
    },
    {
-    "valor": "26,5%",
-    "rotulo": "Acima de $100,000"
+    "valor": "23,0%",
+    "rotulo": "↓ 65,000"
    }
   ],
-  "destaque": "67,5%",
+  "destaque": "55,5%",
   "gancho": "*Bitcoin* pode *crescer muito*",
   "entenda": "Bitcoin é uma criptomoeda que tem apresentado alta volatilidade, afetando sua valorização de acordo com a demanda do mercado.",
   "categoria": "Previsões",
@@ -5572,7 +6697,7 @@
   "data": "2026-10-20",
   "status": "atualizada",
   "id": "2026-10-20-p3",
-  "atualizadoEm": "2026-10-21T21:12:40-03:00"
+  "atualizadoEm": "2026-10-22T11:41:47-03:00"
  },
  {
   "tipo": "sinal",
@@ -6943,12 +8068,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "87,5%",
+  "destaque": "92,5%",
   "fatos": [
-   "A opção de manutenção está precificada em 87,5%.",
-   "Alta de 0,25 ponto aparece com 11,5%.",
-   "Na coleta de 11 de outubro, a manutenção estava em 70,5%.",
-   "O volume negociado em 24 horas foi de cerca de US$ 2 milhões."
+   "Sem mudança: 92,5%",
+   "Aumento de 25 bps: 7,5%",
+   "Aumento de 50+ bps: 0,4%",
+   "Redução de 25 bps: 0,2%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Fed* parado em *outubro*?",
@@ -6959,31 +8084,50 @@
   "prazo": "2026-10-28",
   "probs": [
    {
-    "opcao": "Manter",
-    "prob": 87.5
+    "opcao": "Sem mudança",
+    "prob": 92.5
    },
    {
-    "opcao": "Alta 0,25",
-    "prob": 11.5
+    "opcao": "Aumento de 25 bps",
+    "prob": 7.5
    },
    {
-    "opcao": "Alta 0,5+",
+    "opcao": "Aumento de 50+ bps",
     "prob": 0.4
    },
    {
-    "opcao": "Corte 0,25",
-    "prob": 0.4
+    "opcao": "Redução de 25 bps",
+    "prob": 0.2
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Apostadores no Polymarket precificam alta probabilidade de juros estáveis nos EUA na reunião de 28 de outubro; é probabilidade de mercado, não previsão oficial.",
+  "resumo": "Apostadores indicam alta probabilidade de manutenção da taxa de juros pelo Fed na próxima reunião.",
   "slug": "fed-decision-in-october-20260617190323537",
-  "status": "nova",
+  "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 87,5% de chance de Fed manter juros em outubro",
+  "titulo": "Mercado de previsões vê 92,5% de chance de *sem mudança* na decisão do Fed",
   "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
-  "volume24h": "US$ 2,0 mi",
-  "id": "2026-10-19-p1"
+  "volume24h": "US$ 3,1 mi",
+  "id": "2026-10-19-p1",
+  "numeros": [
+   {
+    "valor": "92,5%",
+    "rotulo": "Sem mudança"
+   },
+   {
+    "valor": "7,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "0,2%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "atualizadoEm": "2026-10-22T11:41:47-03:00"
  },
  {
   "categoria": "Global",
@@ -7776,30 +8920,6 @@
   "id": "2026-10-15-46"
  },
  {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T21:25:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "40% dos custos",
-  "fatos": [
-   "O querosene de aviação dobrou de preço e responde por cerca de 40% dos custos da Gol.",
-   "Os cortes começam em fevereiro de 2027 e tiram a Flórida da malha da empresa.",
-   "Voos para Uruguai, Paraguai e República Dominicana também serão suspensos.",
-   "A Petrobras reajustou o querosene em 13,9% em setembro e 11,8% em outubro.",
-   "As passagens aéreas subiram 26,3% em 12 meses até agosto, pelo IPCA."
-  ],
-  "fonte": "InvestNews; Valor Econômico",
-  "gancho": "*Combustível* derruba *voos*",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-14T16:02:00-03:00",
-  "resumo": "Com o combustível de aviação dobrando de preço, a Gol suspende voos para a Flórida e rotas domésticas a partir de fevereiro.",
-  "status": "nova",
-  "titulo": "Gol corta rotas no Brasil e no exterior com querosene em alta",
-  "url": "https://investnews.com.br/negocios/gol-corte-rotas-alta-querosene-2026/",
-  "id": "2026-10-15-47"
- },
- {
   "categoria": "Política monetária",
   "coletadoEm": "2026-10-15T21:25:00-03:00",
   "data": "2026-10-15",
@@ -8253,30 +9373,6 @@
   "id": "2026-10-15-28"
  },
  {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-15T12:55:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "46,2 pts",
-  "fatos": [
-   "O Índice de Confiança do Empresário Industrial (Icei) subiu 1,3 ponto, para 46,2 pontos.",
-   "Abaixo de 50 pontos o índice indica falta de confiança, situação que já dura 22 meses seguidos.",
-   "O índice de expectativas subiu 2,1 pontos, para 49,3.",
-   "O índice de condições atuais caiu para 40 pontos, o menor desde julho de 2020.",
-   "A CNI cita queda da demanda, custos altos e incerteza externa; foram ouvidas 1.103 empresas."
-  ],
-  "fonte": "Agência Brasil (CNI)",
-  "gancho": "*Indústria* segue *pessimista*",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-14T15:59:00-03:00",
-  "resumo": "Índice da CNI melhora com expectativas, mas a avaliação do momento atual cai ao menor nível desde julho de 2020.",
-  "status": "nova",
-  "titulo": "Confiança da indústria sobe em outubro, mas setor segue pessimista há 22 meses",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista",
-  "id": "2026-10-15-27"
- },
- {
   "atualizadoEm": "2026-10-15T18:58:00-03:00",
   "categoria": "Bolsa",
   "coletadoEm": "2026-10-15T12:55:00-03:00",
@@ -8349,55 +9445,6 @@
   "titulo": "Direcional despenca 9,26% e lidera quedas do Ibovespa após prévia fraca",
   "url": "https://www.moneytimes.com.br/direcional-dirr3-tem-geracao-de-caixa-operacional-de-r-228-milhoes-no-3o-trimestre-fets/",
   "id": "2026-10-15-21"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "US$ 62,4 bi",
-  "fatos": [
-   "De janeiro a setembro, o saldo foi de US$ 62,4 bilhões, alta de 34,8%.",
-   "Exportações somaram US$ 284,65 bilhões (+10,4%) e importações US$ 222,26 bilhões (+5%).",
-   "Vendas para a China subiram 12% e para a União Europeia, 20%.",
-   "Só em setembro, o superávit foi de US$ 7,74 bilhões.",
-   "A projeção de saldo para 2026 foi revisada de US$ 90 bilhões para US$ 84,4 bilhões."
-  ],
-  "fonte": "Exame (MDIC)",
-  "gancho": "*Balança* no *azul*",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-14T21:00:00-03:00",
-  "resumo": "Exportações avançam mais rápido que importações no acumulado do ano, puxadas por China e União Europeia, segundo dados do MDIC.",
-  "status": "nova",
-  "titulo": "Superávit comercial do Brasil cresce 34,8% e chega a US$ 62,4 bilhões",
-  "url": "https://exame.com/esferabrasil/superavit-da-balanca-comercial-brasileira-cresce-348-e-chega-a-us-624-bilhoes/",
-  "id": "2026-10-15-17"
- },
- {
-  "atualizadoEm": "2026-10-16T07:05:00-03:00",
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "R$ 140 mil",
-  "fatos": [
-   "O teto anual sobe de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028.",
-   "O Senado aprovou com 78 votos; a Câmara havia aprovado por 461 a 4.",
-   "O MEI poderá contratar até dois empregados.",
-   "Dívidas até 13/10/2026 serão perdoadas se o MEI pagar o DAS em dia por seis meses.",
-   "O presidente tem até 15 dias úteis para sancionar ou vetar."
-  ],
-  "fonte": "Exame",
-  "gancho": "Novo *teto do MEI*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-14T19:46:00-03:00",
-  "resumo": "Depois da Câmara, o Senado aprovou por unanimidade o aumento gradual do limite do MEI e o perdão de débitos; o texto vai à sanção presidencial.",
-  "status": "atualizada",
-  "titulo": "Senado aprova teto do MEI de R$ 140 mil e perdão de dívidas",
-  "url": "https://exame.com/brasil/senado-aprova-aumento-do-teto-do-mei-e-perdao-de-dividas-veja-quando-comeca-a-valer/",
-  "id": "2026-10-15-16"
  },
  {
   "categoria": "Day trade",
@@ -8615,102 +9662,6 @@
   "id": "2026-10-15-24"
  },
  {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "Open USD",
-  "fatos": [
-   "A joint venture reúne Visa, Mastercard, Coinbase, Stripe e Shopify, no consórcio Open Standard.",
-   "A stablecoin Open USD será emitida pela Bridge e lançada a partir dos EUA.",
-   "Suporte inicial previsto em Ethereum, Solana, Base e Tempo.",
-   "As reservas ficarão com BlackRock, Lead Bank e BNY.",
-   "O consórcio tem mais de 140 empresas."
-  ],
-  "fonte": "Exame",
-  "gancho": "*Stablecoin* dos gigantes",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 11,
-  "publicadoEm": "2026-10-14T19:52:00-03:00",
-  "resumo": "Órgão aprovou sem restrições a joint venture que vai emitir o Open USD, moeda digital pareada ao dólar, ainda sem lançamento no Brasil.",
-  "status": "nova",
-  "titulo": "Cade aprova stablecoin de dólar de Visa, Mastercard, Coinbase e Stripe",
-  "url": "https://exame.com/future-of-money/cade-aprova-joint-venture-de-visa-mastercard-coinbase-e-stripe-para-criar-stablecoin/",
-  "id": "2026-10-15-11"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "R$ 540 bi",
-  "fatos": [
-   "Fluxo estrangeiro adicional estimado entre R$ 60 bilhões e R$ 270 bilhões.",
-   "A normalização da alocação local pode somar entre R$ 140 bilhões e R$ 268 bilhões.",
-   "Cíclicas negociam a 12,9 vezes o lucro, contra média histórica de 17,9 vezes.",
-   "No cenário base, potencial de alta de 33% para cíclicas, 15% para commodities e 8% para defensivas.",
-   "O Índice de Sentimento XP voltou a otimismo extremo, que costuma anteceder realizações."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Fluxo* bilionário na *bolsa*",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-14T17:53:00-03:00",
-  "resumo": "Estrategistas da XP calculam espaço para entrada de dinheiro estrangeiro e local, com cíclicas domésticas como maiores beneficiadas, mas alertam para correção de curto prazo.",
-  "status": "nova",
-  "titulo": "XP vê até R$ 540 bilhões de fluxo extra para a bolsa e prefere cíclicas",
-  "url": "https://www.moneytimes.com.br/xp-ve-espaco-para-entrada-de-r-540-bi-em-fluxo-adicional-na-bolsa-ciclicas-sao-as-maiores-beneficiadas-de-reprecificacao-apsa/",
-  "id": "2026-10-15-07"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "220 mil",
-  "fatos": [
-   "85% esperam o Ibovespa acima de 200 mil pontos no fim do ano, ante 46% na pesquisa anterior.",
-   "41% projetam o índice acima de 220 mil, ante 10% no mês passado.",
-   "O caixa médio dos fundos caiu a 4,4%, abaixo da média histórica de 5,5%.",
-   "85% esperam ao menos mais um corte da Selic neste ano.",
-   "Consumo discricionário passou a ser um dos setores preferidos; materiais básicos são vistos como os mais caros."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Ibovespa* a *220 mil*?",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-14T18:38:00-03:00",
-  "resumo": "Pesquisa do BofA com investidores latino-americanos mostra otimismo recorde com a bolsa brasileira, menos caixa nos fundos e aposta em mais cortes da Selic.",
-  "status": "nova",
-  "titulo": "Gestores já veem Ibovespa a 220 mil pontos no fim de 2026, mostra BofA",
-  "url": "https://www.moneytimes.com.br/pesquisa-gestores-bofa-14-10-26-apsa/",
-  "id": "2026-10-15-06"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "14 empresas",
-  "fatos": [
-   "Entre as empresas estão Bradesco, B3, Gerdau, Equatorial, Banrisul, Copasa e Totvs.",
-   "A gestora passou de 10% das ações ordinárias da B3 e de 10% das preferenciais do Bradesco.",
-   "As posições informadas são de 5 a 8 de outubro.",
-   "As cotas do ETF EWZ subiram 26,6% entre 5 e 13 de outubro.",
-   "Os comunicados mostram a posição final, não o valor comprado."
-  ],
-  "fonte": "InvestNews; Finance News",
-  "gancho": "*BlackRock* às compras na *B3*",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-14T15:02:00-03:00",
-  "resumo": "Comunicados à CVM mostram que a maior gestora do mundo elevou participações em bancos, siderúrgicas e elétricas durante o rali da bolsa.",
-  "status": "nova",
-  "titulo": "BlackRock aumenta fatias em ao menos 14 empresas da B3 após o 1º turno",
-  "url": "https://investnews.com.br/negocios/investidas-blackrock-apos-eleicao2026/",
-  "id": "2026-10-15-10"
- },
- {
   "categoria": "Global",
   "coletadoEm": "2026-10-15T06:58:00-03:00",
   "data": "2026-10-15",
@@ -8733,31 +9684,6 @@
   "titulo": "Kospi desaba 7,57% e Ásia tem dia de liquidação em ações de chips",
   "url": "https://www.moneytimes.com.br/bolsas-da-asia-despencam-com-liquidacao-de-acoes-de-tecnologia-apos-cpi-dos-eua-fets/",
   "id": "2026-10-15-01"
- },
- {
-  "atualizadoEm": "2026-10-16T11:20:00-03:00",
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "40 horas",
-  "fatos": [
-   "O Congresso promulgou a PEC em sessão solene nesta sexta (16), com Lula presente.",
-   "No Senado, a PEC foi aprovada por 75 votos a 1.",
-   "A primeira redução vale dois meses após a emenda entrar em vigor; a etapa final, um ano depois.",
-   "O limite passa a 40 horas semanais, com dois dias de descanso e sem redução salarial.",
-   "A CNI estima alta de até R$ 267,2 bilhões por ano no custo do emprego formal."
-  ],
-  "fonte": "Exame; CNN Brasil; Gazeta do Povo",
-  "gancho": "*6x1* acabou: e agora?",
-  "icone": "relogio",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-14T21:59:00-03:00",
-  "resumo": "Emenda foi promulgada nesta sexta em sessão solene; jornada cai de 44 para 40 horas sem corte de salário, em transição gradual. Economistas veem risco de preços maiores.",
-  "status": "atualizada",
-  "titulo": "Congresso promulga fim da escala 6x1 e jornada cairá para 40 horas",
-  "url": "https://exame.com/brasil/senado-aprova-fim-da-escala-6x1/",
-  "id": "2026-10-15-03"
  },
  {
   "categoria": "Empresas",
@@ -8809,77 +9735,6 @@
   "id": "2026-10-15-05"
  },
  {
-  "atualizadoEm": "2026-10-15T21:20:00-03:00",
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "+1,51%",
-  "fatos": [
-   "Na quarta, o ouro para dezembro caiu 1,66%, a US$ 4.107,90 a onça.",
-   "A prata para dezembro desabou 6,12% no mesmo dia, a US$ 55,88 a onça.",
-   "Na quinta, o ouro subiu 1,51%, a US$ 4.170,10 a onça, segundo o fechamento do mercado da Agência Estado.",
-   "O Saxo Bank aponta resistência do ouro perto de US$ 4.235."
-  ],
-  "fonte": "Money Times; Agência Estado (via DGABC)",
-  "gancho": "*Ouro* dá a *volta*",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-14T16:12:00-03:00",
-  "resumo": "Depois de caírem com o medo de alta do Fed na quarta, os metais preciosos tiveram recuperação do ouro na quinta.",
-  "status": "atualizada",
-  "titulo": "Ouro devolve tombo e sobe 1,5% a US$ 4.170 após queda forte da prata",
-  "url": "https://www.moneytimes.com.br/ouro-14-10-26-apsa/",
-  "id": "2026-10-15-09"
- },
- {
-  "categoria": "Renda fixa",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "5,79%",
-  "fatos": [
-   "IMA-B rendeu 5,79% no 3º tri e 3,15% só em setembro.",
-   "IRF-M, de prefixados, subiu 4,03%; o CDI ficou em 3,43%.",
-   "A poupança rendeu 2% no trimestre.",
-   "No acumulado de 2026, o IMA-S tem 10,62% e o CDI, 10,51%, contra 10,11% do IMA-B.",
-   "Especialistas divergem se a virada é tendência ou só recuperação."
-  ],
-  "fonte": "Bora Investir (B3)",
-  "gancho": "*IPCA+* lidera a *renda fixa*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-14T15:40:00-03:00",
-  "resumo": "Queda dos juros futuros fez o IMA-B render 5,79% no trimestre, acima de prefixados e do CDI; no ano, pós-fixados ainda estão à frente.",
-  "status": "nova",
-  "titulo": "Títulos atrelados à inflação lideram a renda fixa no 3º trimestre",
-  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-fixa/titulos-publicos-atrelados-a-inflacao-lideram-rendimentos-no-3o-trimestre-confira-retornos-da-renda-fixa/",
-  "id": "2026-10-15-08"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "35.595 BTC",
-  "fatos": [
-   "A Strive soma 35.595 BTC.",
-   "Comprou 6.133 BTC em uma única semana, seu recorde.",
-   "Precisa de mais cerca de 9 mil BTC para passar Metaplanet e Twenty One Capital.",
-   "Captou US$ 369,2 milhões com warrants de investidores institucionais."
-  ],
-  "fonte": "Exame",
-  "gancho": "*Tesouraria* de *bitcoin*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 12,
-  "publicadoEm": "2026-10-14T18:21:00-03:00",
-  "resumo": "Empresa americana acelera compras na contramão de rivais e já é a quarta maior detentora corporativa de bitcoin.",
-  "status": "nova",
-  "titulo": "Strive compra 10 mil bitcoins desde setembro e mira 2º maior caixa em BTC",
-  "url": "https://exame.com/future-of-money/empresa-compra-10-mil-bitcoins-desde-setembro-e-ruma-a-meta-de-ser-2o-maior-tesouro-de-btc/",
-  "id": "2026-10-15-12"
- },
- {
   "atualizadoEm": "2026-10-15T21:25:00-03:00",
   "categoria": "Commodities",
   "coletadoEm": "2026-10-15T06:58:00-03:00",
@@ -8903,672 +9758,5 @@
   "titulo": "Brent fecha estável e WTI dispara 3% com Ormuz e estoques dos EUA",
   "url": "https://www.moneytimes.com.br/petroleo-recua-com-investidores-avaliando-perspectivas-de-oferta-e-tensoes-no-oriente-medio-fets/",
   "id": "2026-10-15-04"
- },
- {
-  "categoria": "Day trade",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "69%",
-  "fatos": [
-   "De 76 ativos analisados, 59 estavam acima da MM200 no fechamento de 13 de outubro.",
-   "Vamos estava 69,25% acima da média, Fleury 59,53% e Magalu 58,25%.",
-   "Natura, TIM e Hapvida eram as mais distantes abaixo da média.",
-   "Para PRIO, o analista vê rompimento de R$ 66 com alvos de R$ 74,85 e R$ 89,30."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Média de 200* no radar",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-14T10:00:00-03:00",
-  "resumo": "Após o rali, 77,6% das ações analisadas negociam acima da média móvel de 200 períodos; analista da XP aponta Embraer, SLC e PRIO.",
-  "status": "nova",
-  "titulo": "Vamos, Fleury e Magalu são as ações mais esticadas sobre a média de 200 dias",
-  "url": "https://www.infomoney.com.br/mercados/acoes-ficam-ate-69-acima-da-media-de-longo-prazo-apos-rali-tres-entram-no-radar/",
-  "id": "2026-10-14-30"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "US$ 81,5 mil",
-  "fatos": [
-   "O bitcoin abriu o dia a US$ 83.092 e perdeu força após o CPI.",
-   "À tarde, a cotação caminhava para cerca de US$ 81,5 mil.",
-   "Ether, XRP e Solana caíram perto de 3%.",
-   "O bitcoin segue mais de 30% abaixo do recorde histórico."
-  ],
-  "fonte": "Quartz; Yahoo Finance",
-  "gancho": "*Bitcoin* recua com *CPI*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-14T17:14:00-03:00",
-  "resumo": "Criptomoedas caíram depois que o CPI veio acima do esperado e elevou as apostas de juros mais altos nos EUA.",
-  "status": "nova",
-  "titulo": "Bitcoin recua para perto de US$ 81,5 mil após inflação americana",
-  "url": "https://qz.com/bitcoin-price-falls-september-cpi-inflation-101426",
-  "id": "2026-10-14-26"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "US$ 5 tri",
-  "fatos": [
-   "A ação da Apple subiu 0,5% nesta quarta.",
-   "O valor de mercado fechou acima de US$ 5 trilhões pela primeira vez.",
-   "O avanço ocorreu enquanto o setor de tecnologia do S&P 500 caía 2,6%."
-  ],
-  "fonte": "Investing.com (Reuters)",
-  "gancho": "*Apple* vale *US$ 5 tri*",
-  "horaEstimada": true,
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-14T17:10:00-03:00",
-  "resumo": "Em dia de forte queda da tecnologia, a ação da Apple subiu e levou a empresa a um marco inédito de valor.",
-  "status": "nova",
-  "titulo": "Apple fecha acima de US$ 5 trilhões em valor de mercado pela primeira vez",
-  "url": "https://www.investing.com/news/economy-news/sp-500-dow-futures-rise-ahead-of-big-bank-results-cpi-data-4948567",
-  "id": "2026-10-14-27"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "",
-  "fatos": [
-   "A licença é de Sociedade de Crédito, Financiamento e Investimento (SCFI).",
-   "A empresa lançou seguro ligado ao crédito pessoal e uma opção de compre agora, pague depois.",
-   "Os novos produtos ainda não chegaram a toda a base de clientes.",
-   "Cartão de crédito não é prioridade no momento, segundo a empresa."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*99Pay* vira *financeira*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-14T12:44:00-03:00",
-  "resumo": "Braço financeiro da 99 obteve autorização para operar como SCFI e planeja ampliar oferta de crédito, sem cartão como prioridade.",
-  "status": "nova",
-  "titulo": "99Pay ganha licença de financeira do BC e mira crédito e investimentos",
-  "url": "https://bpmoney.com.br/mercado/99pay-mira-expansao-de-credito-e-investimentos-apos-nova-licenca-do-bc/",
-  "id": "2026-10-14-31"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "-1,88%",
-  "fatos": [
-   "S&P 500 recuou 1,11%, a 7.718,94 pontos; Nasdaq caiu 1,88%, a 26.692,87; Dow Jones teve -0,09%.",
-   "O índice de semicondutores da Filadélfia caiu 4,3%, sexta sessão seguida de perdas.",
-   "Oracle perdeu 8,8% e CoreWeave cerca de 15%, com receio sobre a dívida usada para expandir IA.",
-   "O setor de tecnologia do S&P 500 recuou 2,6%; 8 dos 11 setores fecharam em queda.",
-   "Bank of America caiu 4,8% após lucro menor e provisão de US$ 1,2 bilhão para multas."
-  ],
-  "fonte": "Investing.com (Reuters); Money Times",
-  "gancho": "*Nasdaq* sente o *CPI*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-14T17:10:00-03:00",
-  "resumo": "Inflação acima do previsto reacendeu apostas de alta de juros nos EUA e derrubou tecnologia e chips em Wall Street.",
-  "status": "nova",
-  "titulo": "Nasdaq cai 1,88% e S&P 500 tem maior queda diária desde julho",
-  "url": "https://www.investing.com/news/economy-news/sp-500-dow-futures-rise-ahead-of-big-bank-results-cpi-data-4948567",
-  "id": "2026-10-14-21"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "12 distritos",
-  "fatos": [
-   "Dos 12 distritos do Fed, 2 viram crescimento moderado, 3 modesto, 4 leve e 3 estabilidade.",
-   "Quatro distritos relataram aceleração no ritmo de alta dos preços.",
-   "Segundo o relatório, o petróleo mais caro apareceu em todos os distritos, com sobretaxas de diesel repassadas.",
-   "Cinco distritos citaram empresas que reduziram contratações após investir em IA.",
-   "Consumo ficou praticamente estável e foi puxado por famílias de alta renda."
-  ],
-  "fonte": "Federal Reserve (Livro Bege)",
-  "gancho": "*Livro Bege* acende alerta",
-  "icone": "escudo",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-14T15:00:00-03:00",
-  "resumo": "Relatório do Fed mostra economia americana crescendo de forma desigual, com pressão de preços maior e empresas contratando menos por causa da IA.",
-  "status": "nova",
-  "titulo": "Livro Bege do Fed: petróleo caro espalha alta de preços pelos EUA",
-  "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
-  "id": "2026-10-14-22"
- },
- {
-  "categoria": "Juros",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "37%",
-  "fatos": [
-   "Antes do CPI, o FedWatch indicava 21,6% de chance de alta de 0,25 ponto em outubro.",
-   "Na reação inicial, a probabilidade chegou a 47,1%.",
-   "No fechamento, a Reuters registrou 37%, ante 22% na terça.",
-   "O juro básico americano está entre 3,75% e 4% após a alta de setembro.",
-   "O ING não espera alta em outubro, mas prevê uma em dezembro."
-  ],
-  "fonte": "Money Times; Investing.com (Reuters)",
-  "gancho": "*Fed* pode subir *juros*",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-14T11:38:00-03:00",
-  "resumo": "Pela ferramenta FedWatch, da CME, investidores passaram a ver probabilidade bem maior de o Fed subir juros já na reunião de 28 de outubro.",
-  "status": "nova",
-  "titulo": "Chance de alta de juros nos EUA em outubro dispara após o CPI",
-  "url": "https://moneytimes.com.br/juros-podem-subir-ja-em-outubro-mercado-ajusta-projecoes-para-proxima-reuniao-do-fed",
-  "id": "2026-10-14-23"
- },
- {
-  "categoria": "Comportamento do investidor",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "3,5% ao mês",
-  "fatos": [
-   "A falência foi decretada pela 2ª Vara Empresarial Regional de São Paulo.",
-   "Os títulos prometiam retorno de até 3,5% ao mês.",
-   "As garantias eram ações do extinto Besc, absorvido pelo Banco do Brasil em 2008.",
-   "Ações judiciais contra a empresa passaram de 239 em maio para 623 em agosto.",
-   "A AJX diz estar em reestruturação e que vai recorrer."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Promessa* alta, *risco* maior",
-  "icone": "cadeado",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-14T18:32:00-03:00",
-  "resumo": "Empresa vendia CCBs a pessoas físicas com garantia em ações de banco extinto que, segundo o Banco do Brasil, não têm valor comercial.",
-  "status": "nova",
-  "titulo": "Justiça decreta falência da AJX Capital, que prometia até 3,5% ao mês",
-  "url": "https://bpmoney.com.br/mercado/justica-decreta-falencia-ajx-capital-titulos-35-ao-mes/",
-  "id": "2026-10-14-28"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "R$ 70",
-  "fatos": [
-   "O preço-alvo subiu de R$ 55 para R$ 70, potencial de cerca de 23% sobre o fechamento anterior.",
-   "O banco projeta 2,9 milhões de barris por dia em 2027 e 3,1 milhões em 2028.",
-   "O plano da Petrobras prevê 2,6 milhões em 2027 e 2,7 milhões em 2028.",
-   "A ação negocia a 3,5 vezes EV/Ebitda, desconto de 55% ante Exxon e Chevron.",
-   "Nesta quarta, PETR4 subiu 2,22% com o Brent acima de US$ 106."
-  ],
-  "fonte": "Money Times; InfoMoney",
-  "gancho": "*Petrobras* com alvo de *R$ 70*",
-  "icone": "alvo",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-14T18:18:00-03:00",
-  "resumo": "Bank of America manteve compra para PETR4 e projeta produção maior que a da própria Petrobras para 2027 e 2028.",
-  "status": "nova",
-  "titulo": "BofA eleva preço-alvo da Petrobras para R$ 70 e vê pré-sal subestimado",
-  "url": "https://moneytimes.com.br/petrobras-bofa-diz-que-mercado-substima-pre-sal-e-eleva-o-preco-alvo-de-petr4-lils",
-  "id": "2026-10-14-24"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "-24%",
-  "fatos": [
-   "BHIA3 caiu 24,31%, a R$ 1,09; a ação não faz parte do Ibovespa.",
-   "MGLU3 recuou 4,49%, a R$ 10,85, e foi o papel com mais negócios do dia.",
-   "O DI de janeiro de 2035 subiu 8 pontos-base, a 12,66%.",
-   "Tenda, Usiminas e Cyrela também ficaram entre as maiores quedas do índice."
-  ],
-  "fonte": "BP Money; InfoMoney",
-  "gancho": "*Varejo* apanha dos *juros*",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-14T17:38:00-03:00",
-  "resumo": "Varejistas endividadas sofreram com a subida dos DIs após a inflação americana e a volta de prêmio de risco à curva.",
-  "status": "nova",
-  "titulo": "Casas Bahia despenca 24% e Magalu cai 4,5% com alta dos juros futuros",
-  "url": "https://bpmoney.com.br/mercado/casas-bahia-desaba-24-magalu-cai-449-juros-futuros/",
-  "id": "2026-10-14-25"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-14T18:52:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "24 ações",
-  "fatos": [
-   "O grupo passou de 10 ações em 2 de outubro para 24 em 9 de outubro, alta de 140%.",
-   "Movida subiu 74,56% na semana, Simpar 59,81% e Ânima 58,38%.",
-   "O volume médio diário dessas 24 ações subiu cerca de 129%, para R$ 13,61 bilhões.",
-   "A consultoria ressalta que os dados não provam que a eleição causou os movimentos."
-  ],
-  "fonte": "InfoMoney (Elos Ayta)",
-  "gancho": "*Rali* das ações em *2026*",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-14T11:14:00-03:00",
-  "resumo": "Levantamento da Elos Ayta mostra salto no número de ações com ganho expressivo em 2026 na semana seguinte ao primeiro turno.",
-  "status": "nova",
-  "titulo": "Ações com alta acima de 50% no ano mais que dobram após 1º turno",
-  "url": "https://www.infomoney.com.br/mercados/acoes-com-alta-acima-de-50-em-2026-crescem-140-apos-1o-turno-diz-elos-ayta/",
-  "id": "2026-10-14-29"
- },
- {
-  "atualizadoEm": "2026-10-14T18:52:00-03:00",
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "-0,18%",
-  "fatos": [
-   "O Ibovespa fechou em 206.505,98 pontos, queda de 0,18%, após mínima de 203.463 pontos.",
-   "O dólar comercial subiu 0,17%, a R$ 5,028.",
-   "Brent fechou a US$ 106,06 e Petrobras subiu mais de 2%; PRIO ganhou 2,29%.",
-   "Itaú caiu 1,41%, Bradesco 1,08% e Santander 2,08%.",
-   "Volume financeiro foi de R$ 45,4 bilhões; no mês, o índice ainda sobe 10,82%."
-  ],
-  "fonte": "InfoMoney; Forbes Brasil; BP Money",
-  "gancho": "*Ibovespa* reage com *Petrobras*",
-  "icone": "seta",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-14T10:40:00-03:00",
-  "resumo": "Depois de cair mais de 1,5% com o CPI americano, a bolsa se recuperou à tarde puxada por petroleiras e pela leitura de inflação temporária nos EUA.",
-  "status": "atualizada",
-  "titulo": "Ibovespa zera quase toda a queda e fecha em -0,18% com Petrobras",
-  "url": "https://www.infomoney.com.br/mercados/ibovespa-tem-nova-queda-de-mais-de-1-com-inflacao-nos-eua-e-pesquisa-no-radar/",
-  "id": "2026-10-14-10"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "-0,1%",
-  "fatos": [
-   "O volume de serviços caiu 0,1% em agosto ante julho, com ajuste sazonal.",
-   "A pesquisa Reuters esperava alta de 0,4% no mês e de 1,1% no ano.",
-   "Na comparação anual houve alta de 0,6%, a 29ª seguida.",
-   "Outros serviços caíram 1,0%; serviços às famílias subiram 2,1%.",
-   "No ano, o setor acumula alta de 1,7%."
-  ],
-  "fonte": "InfoMoney (IBGE)",
-  "gancho": "*Serviços* frustram projeções",
-  "icone": "seta",
-  "impacto": "alto",
-  "ordem": 4,
-  "publicadoEm": "2026-10-14T09:10:00-03:00",
-  "resumo": "O IBGE mostrou queda no volume de serviços quando a previsão era de alta, reforçando a leitura de economia mais fraca no 3º trimestre.",
-  "status": "nova",
-  "titulo": "Setor de serviços recua 0,1% em agosto e frustra o mercado",
-  "url": "https://www.infomoney.com.br/economia/setor-de-servicos-agosto-2026-ibge/",
-  "id": "2026-10-14-11"
- },
- {
-  "categoria": "Comportamento do investidor",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "R$ 1,3 bi",
-  "fatos": [
-   "O valor a devolver é de cerca de R$ 1,325 bilhão.",
-   "A devolução alcança cerca de 26,5 milhões de apostadores e começou em 9 de outubro.",
-   "A partir de 14 de outubro a Caixa assume casos com obstáculos operacionais.",
-   "86,2 milhões de contas tinham saldo de até R$ 0,99, somando R$ 15,5 milhões.",
-   "A devolução não exige pagamento antecipado; pedidos assim são golpe."
-  ],
-  "fonte": "Agência Brasil",
-  "gancho": "Último dia do *dinheiro das bets*",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 13,
-  "publicadoEm": "2026-10-14T07:10:00-03:00",
-  "resumo": "Bancos têm até esta quarta para devolver saldos deixados por cerca de 26,5 milhões de apostadores; depois, casos pendentes vão para a Caixa.",
-  "status": "nova",
-  "titulo": "Termina hoje prazo para bancos devolverem R$ 1,3 bilhão de bets",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/prazo-pra-bancos-devolverem-r-13-bilhao-de-bets-acaba-nesta-quarta",
-  "id": "2026-10-14-20"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "5,0%",
-  "fatos": [
-   "O índice de preços ao produtor subiu 5,0% em setembro, ante 3,8% em agosto.",
-   "A projeção da Reuters era de 4,5%; é o ritmo mais forte desde junho de 2022.",
-   "A inflação ao consumidor foi de 0,9% em 12 meses, abaixo do 1,0% esperado.",
-   "A gasolina subiu 16,6% em um ano na China.",
-   "Interrupções no fornecimento de commodities ligadas ao Oriente Médio puxaram a alta."
-  ],
-  "fonte": "CNN Brasil (Reuters)",
-  "gancho": "*China* exporta inflação?",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-14T06:51:00-03:00",
-  "resumo": "Os preços ao produtor chineses subiram 5% em 12 meses com commodities mais caras, enquanto a inflação ao consumidor ficou abaixo do esperado.",
-  "status": "nova",
-  "titulo": "Inflação ao produtor da China tem maior alta desde 2022",
-  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inflacao-ao-produtor-da-china-tem-maior-alta-em-quatro-anos-com-commodities/",
-  "id": "2026-10-14-16"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "",
-  "fatos": [
-   "O FMI pediu consolidação fiscal urgente nas grandes economias.",
-   "Segundo o Fundo, o custo do serviço da dívida em vários países é o maior desde os anos 1990.",
-   "Kristalina Georgieva citou EUA e Europa entre os piores casos de endividamento excessivo.",
-   "O FMI defendeu que a China dependa menos de exportações e mais do consumo interno.",
-   "A recomendação aos bancos centrais é manter foco total na estabilidade de preços."
-  ],
-  "fonte": "InfoMoney (Estadão Conteúdo); Money Times (Reuters); Valor Econômico",
-  "gancho": "*FMI* cobra ajuste fiscal",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-14T08:15:00-03:00",
-  "resumo": "No Monitor Fiscal, o FMI diz que juros altos já viraram realidade e que o custo da dívida está no maior nível desde os anos 1990.",
-  "status": "nova",
-  "titulo": "FMI pede ajuste fiscal imediato antes que os mercados forcem governos",
-  "url": "https://www.infomoney.com.br/mercados/fmi-pede-ajuste-fiscal-imediato-e-alerta-que-mercados-podem-forcar-governos-a-agir/",
-  "id": "2026-10-14-17"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "26 jatos",
-  "fatos": [
-   "O pedido tem 16 aeronaves firmes e 10 opções de compra.",
-   "O valor não foi divulgado; entra na carteira após o contrato definitivo.",
-   "As entregas estão previstas a partir de 2029.",
-   "A Embraer entregou 66 aviões no 3º trimestre, seu melhor 3º tri em entregas.",
-   "Em nove meses, foram 175 entregas, alta de 14%."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Embraer* decola no Japão",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 11,
-  "publicadoEm": "2026-10-14T12:24:00-03:00",
-  "resumo": "A JAL fechou 16 pedidos firmes e 10 opções para renovar a frota regional; as entregas começam em 2029.",
-  "status": "nova",
-  "titulo": "Japan Airlines encomenda 26 jatos E190-E2 da Embraer",
-  "url": "https://bpmoney.com.br/negocios/empresas/embraer-japan-airlines-encomenda-26-aeronaves-e190-e2/",
-  "id": "2026-10-14-18"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "US$ 15,5 tri",
-  "fatos": [
-   "O lucro foi de US$ 1,66 bilhão, ante US$ 1,32 bilhão um ano antes.",
-   "O lucro por ação foi de US$ 10,57.",
-   "Os ativos sob gestão chegaram a US$ 15,49 trilhões, ante US$ 13,46 trilhões.",
-   "Os ETFs iShares captaram US$ 134,5 bilhões líquidos no trimestre.",
-   "A ação subia quase 4% no pré-mercado."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*ETFs* turbinam a BlackRock",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-14T08:19:00-03:00",
-  "resumo": "A maior gestora do mundo lucrou US$ 1,66 bilhão no 3º trimestre, puxada por comissões maiores e forte captação em ETFs.",
-  "status": "nova",
-  "titulo": "BlackRock chega a US$ 15,5 trilhões sob gestão e lucro salta",
-  "url": "https://www.infomoney.com.br/mercados/lucro-da-blackrock-salta-com-alta-nas-comissoes-puxada-pela-resiliencia-dos-mercados/",
-  "id": "2026-10-14-14"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "R$ 33,4 bi/dia",
-  "fatos": [
-   "O volume médio diário em ações foi de R$ 33,421 bilhões, alta de 45,7% em um ano.",
-   "Na comparação com agosto, o volume cresceu 10,4%.",
-   "O volume médio de futuros subiu 24,5%, para R$ 11,521 bilhões.",
-   "A B3 tinha 5,886 milhões de investidores, alta de 9,2%.",
-   "O estoque de renda fixa registrada cresceu 16%, a R$ 10,147 trilhões."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Bolsa* mais movimentada",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-14T08:32:00-03:00",
-  "resumo": "O volume médio diário negociado em ações chegou a R$ 33,4 bilhões e o número de investidores subiu para 5,9 milhões.",
-  "status": "nova",
-  "titulo": "B3 tem alta de 45,7% no volume de ações em setembro",
-  "url": "https://www.infomoney.com.br/mercados/b3-b3sa3-registra-alta-de-457-no-volume-negociado-em-setembro/",
-  "id": "2026-10-14-15"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "31,4%",
-  "fatos": [
-   "A alíquota proposta é de 31,4% sobre o ganho na conversão.",
-   "A emenda passou na Comissão de Finanças em 7 de outubro.",
-   "Se aprovada, a regra vale a partir de 1º de janeiro de 2027.",
-   "A Chainalysis aponta US$ 9,4 bilhões em operações tributáveis com cripto na França em 2025.",
-   "A Chainalysis alerta que a medida pode empurrar operações para corretoras estrangeiras e DeFi."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Imposto* sobre stablecoins",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 12,
-  "publicadoEm": "2026-10-14T12:22:00-03:00",
-  "resumo": "Emenda ao orçamento de 2027 aprovada em comissão tributaria o ganho na conversão de cripto em stablecoins reguladas; votação prevista para 20 de outubro.",
-  "status": "nova",
-  "titulo": "França estuda taxar em 31,4% troca de bitcoin por stablecoins",
-  "url": "https://bpmoney.com.br/mercado/cripto/franca-imposto-31-4-troca-bitcoin-stablecoins/",
-  "id": "2026-10-14-19"
- },
- {
-  "categoria": "Renda fixa",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "IPCA + 6,61%",
-  "fatos": [
-   "O Prefixado 2029 passou de 12,51% para 12,54% ao ano por volta das 11h53.",
-   "O IPCA+ 2040 subiu de IPCA + 6,57% para IPCA + 6,61%.",
-   "O IPCA+ 2050 foi de IPCA + 6,57% para IPCA + 6,62%.",
-   "O núcleo do CPI acima do esperado elevou os rendimentos dos Treasuries.",
-   "Juros americanos mais altos obrigam emergentes como o Brasil a pagar mais pela dívida."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Tesouro Direto* paga mais",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-14T12:36:00-03:00",
-  "resumo": "Prefixados e IPCA+ pagam taxas maiores depois do CPI dos EUA e à espera da pesquisa Quaest; o IPCA+ 2040 chegou a IPCA + 6,61%.",
-  "status": "nova",
-  "titulo": "Juros do Tesouro Direto sobem em bloco após inflação americana",
-  "url": "https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-taxas-sobem-inflacao-eua-pesquisa-quaest-14-outubro/",
-  "id": "2026-10-14-12"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T12:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "-17%",
-  "fatos": [
-   "O lucro do Morgan Stanley subiu para US$ 4,91 bilhões, ante US$ 4,61 bilhões um ano antes.",
-   "A receita com negociação de ações do Morgan Stanley cresceu quase 41%, a US$ 5,8 bilhões.",
-   "O lucro do Bank of America caiu 17%, para US$ 6,9 bilhões.",
-   "O lucro por ação do BofA foi de US$ 0,91, abaixo dos US$ 1,10 esperados pela FactSet.",
-   "As ações do BofA caíam 3,9% no pré-mercado."
-  ],
-  "fonte": "InfoMoney (Reuters; Estadão Conteúdo)",
-  "gancho": "*Bancos* americanos divididos",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-14T09:22:00-03:00",
-  "resumo": "A volatilidade turbinou a mesa de ações do Morgan Stanley, enquanto o BofA lucrou 17% menos e ficou abaixo das estimativas.",
-  "status": "nova",
-  "titulo": "Morgan Stanley lucra US$ 4,9 bilhões; Bank of America decepciona",
-  "url": "https://www.infomoney.com.br/mercados/bank-of-america-tem-lucro-de-us-69-bilhoes-no-3o-trimestre-17-menor-na-base-anual/",
-  "id": "2026-10-14-13"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-14T06:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "€ 5 bi",
-  "fatos": [
-   "Vendas líquidas de € 11,7 bilhões no 3º trimestre, recorde da empresa.",
-   "Lucro líquido de € 5,0 bilhões e margem bruta de 57,5%, ante 54% no 2º tri.",
-   "Projeção para o 4º tri: vendas entre € 14,2 bilhões e € 15,2 bilhões.",
-   "Para 2026, a faixa de vendas passou a € 44 bilhões a € 45 bilhões.",
-   "A empresa diz que a capacidade planejada para 2027 e 2028 não atenderá toda a demanda; clientes já querem encomendar para 2029 e 2030."
-  ],
-  "fonte": "ASML (comunicado oficial); XTB",
-  "gancho": "*ASML* sem máquina para todos",
-  "icone": "foguete",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-14T02:00:00-03:00",
-  "resumo": "A fabricante holandesa de equipamentos para chips teve vendas recordes no 3º tri e elevou o piso da projeção anual, puxada pela demanda ligada à IA.",
-  "status": "nova",
-  "titulo": "ASML lucra € 5 bilhões e diz que oferta de máquinas não dará conta da demanda",
-  "url": "https://www.globenewswire.com/news-release/2026/10/14/3380319/0/en/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-in-q3-2026.html",
-  "id": "2026-10-14-01"
- },
- {
-  "atualizadoEm": "2026-10-14T12:50:00-03:00",
-  "categoria": "Inflação",
-  "coletadoEm": "2026-10-14T06:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "3,7%",
-  "fatos": [
-   "O CPI subiu 0,6% em setembro, após 0,4% em agosto, e acumula 3,7% em 12 meses.",
-   "A gasolina subiu 9,1% no mês e a energia, 5,2%.",
-   "O núcleo, sem alimentos e energia, subiu 0,3% no mês, acima do esperado.",
-   "O Treasury de 10 anos chegou a 5,306% e o de 2 anos a 4,933%.",
-   "Às 9h52 o FedWatch via cerca de 65% de chance de manutenção dos juros em 28 de outubro."
-  ],
-  "fonte": "Money Times; InfoMoney; Yahoo Finance",
-  "gancho": "*Inflação* americana acelera",
-  "icone": "raio",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-14T05:51:00-03:00",
-  "resumo": "O CPI de setembro subiu 0,6% no mês com gasolina mais cara; Treasuries dispararam e cresceu a aposta em nova alta de juros do Fed.",
-  "status": "atualizada",
-  "titulo": "Inflação dos EUA sobe a 3,7% em 12 meses e pressiona juros",
-  "url": "https://www.moneytimes.com.br/cpi-inflacao-dos-eua-acelera-para-06-em-setembro-e-acumula-alta-anual-de-37/",
-  "id": "2026-10-14-02"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-14T06:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "+36,3%",
-  "fatos": [
-   "Exportações chinesas cresceram 36,3% em dólares sobre setembro de 2025.",
-   "Economistas ouvidos pela Reuters esperavam 25,5%; em agosto a alta foi de 25%.",
-   "Importações avançaram 31% na mesma comparação.",
-   "A inflação ao consumidor ficou em 0,9% em 12 meses, pouco abaixo do 1,0% esperado.",
-   "Os preços ao produtor subiram 5,0%, acima dos 4,4% projetados."
-  ],
-  "fonte": "Business Recorder (Reuters); XTB",
-  "gancho": "*China* exporta como nunca",
-  "icone": "globo",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-14T00:07:00-03:00",
-  "resumo": "Dados alfandegários mostraram vendas externas muito mais fortes que o esperado, enquanto preços ao produtor subiram acima das projeções.",
-  "status": "nova",
-  "titulo": "Exportações da China saltam 36,3% em setembro, bem acima do previsto",
-  "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31",
-  "id": "2026-10-14-03"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-14T06:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "",
-  "fatos": [
-   "John Williams sugeriu que mais uma alta de juros pode ser necessária ainda em 2026.",
-   "Para ele, novas altas em 2027 são improváveis.",
-   "Christopher Waller disse que os rendimentos longos elevados já apertam as condições financeiras.",
-   "Susan Collins afirmou que o Fed não está revendo a meta de inflação de 2%."
-  ],
-  "fonte": "XTB",
-  "gancho": "*Fed* ainda pode subir",
-  "horaEstimada": true,
-  "icone": "alvo",
-  "impacto": "alto",
-  "ordem": 4,
-  "publicadoEm": "2026-10-14T06:50:00-03:00",
-  "resumo": "Dirigentes do banco central americano deram sinais na véspera do CPI: mais um aperto em 2026 é possível, mas novas altas em 2027 parecem improváveis.",
-  "status": "nova",
-  "titulo": "Williams, do Fed, diz que pode ser preciso mais uma alta de juros neste ano",
-  "url": "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-wall-street-looks-to-rebound-ahead-of-us-cpi-as-asml-results-weigh-on-sentiment-14-10-2026",
-  "id": "2026-10-14-04"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-14T06:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "US$ 83 mil",
-  "fatos": [
-   "O bitcoin praticamente não se mexeu em 24 horas e era negociado perto de R$ 420,7 mil.",
-   "US$ 85 mil é a resistência imediata; US$ 87,4 mil é a seguinte, segundo a Boost Research.",
-   "Suporte na média de 50 dias, perto de US$ 80,4 mil.",
-   "O MSCI decide até sexta se empresas como a Strategy continuam em seus índices."
-  ],
-  "fonte": "BitNotícias",
-  "gancho": "*Bitcoin* de lado",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-14T06:05:00-03:00",
-  "resumo": "A criptomoeda andou de lado nas últimas 24 horas; analistas apontam US$ 85 mil como resistência e US$ 80 mil como suporte.",
-  "status": "nova",
-  "titulo": "Bitcoin fica travado perto de US$ 83 mil antes da inflação americana",
-  "url": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-14-de-outubro-de-2026/",
-  "id": "2026-10-14-09"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-14T06:50:00-03:00",
-  "data": "2026-10-14",
-  "destaque": "-0,88%",
-  "fatos": [
-   "O Kospi caiu 0,44%, a 6.008,81 pontos, após recuar 5,5% no dia anterior.",
-   "O Nikkei ficou praticamente estável (-0,05%), aos 67.744,29 pontos.",
-   "Xangai perdeu 0,88% e Shenzhen, 1,81%.",
-   "O Taiex, de Taiwan, foi a exceção com alta de 0,59%.",
-   "Na Austrália, o S&P/ASX 200 recuou 0,64%."
-  ],
-  "fonte": "Money Times (Estadão Conteúdo)",
-  "gancho": "*Ásia* em compasso de espera",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-14T06:00:00-03:00",
-  "resumo": "Investidores evitaram risco antes do CPI americano; Kospi teve leve baixa depois do tombo de mais de 5% na véspera.",
-  "status": "nova",
-  "titulo": "Ásia fecha majoritariamente em queda à espera da inflação dos EUA",
-  "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-a-espera-do-cpi-dos-eua-fets/",
-  "id": "2026-10-14-05"
  }
 ]

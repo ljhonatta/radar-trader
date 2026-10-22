@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-21T21:12:40-03:00",
-  "novas": 8,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-10-22T11:41:47-03:00",
+  "novas": 20,
+  "atualizadas": 3,
   "status": "ok",
-  "mensagem": "8 nova(s) e 2 atualizada(s): Resultados financeiros da IBM; Tesla e o lucro de US$ 787 milhões; Lucro e Dividendos da BradSaúde em destaque.",
+  "mensagem": "20 nova(s) e 3 atualizada(s): Arrecadação federal em alta!; Ibovespa em queda com tensões internacionais; Petróleo em alta: entenda o motivo agora!.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-22T11:41:47-03:00",
    "2026-10-21T21:12:40-03:00",
    "2026-10-21T16:37:34-03:00",
    "2026-10-21T11:41:23-03:00",
@@ -25,14 +26,14 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "206.495",
-    "var": "-0,86%"
+    "v": "203.651",
+    "var": "-1,38%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,02",
-    "var": "+0,02%"
+    "v": "R$ 5,04",
+    "var": "+0,35%"
    },
    {
     "k": "EUR",
@@ -43,32 +44,32 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 84,2 mil",
-    "var": "+1,59%"
+    "v": "US$ 81,7 mil",
+    "var": "-2,78%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.757",
-    "var": "+0,58%"
+    "v": "7.650",
+    "var": "-1,38%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "29.823",
-    "var": "+1,13%"
+    "v": "29.135",
+    "var": "-2,30%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 110,04",
-    "var": "+1,12%"
+    "v": "US$ 111,31",
+    "var": "+2,29%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.139,70",
-    "var": "-0,25%"
+    "v": "US$ 4.066,60",
+    "var": "-2,25%"
    },
    {
     "k": "SELIC",
@@ -83,14 +84,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "qua 21h",
-  "data": "2026-10-21",
-  "atualizadoEm": "2026-10-21T21:12:40-03:00",
-  "ibov": "206.495",
-  "ibovVar": "-0,86%",
-  "dolar": "R$ 5,02",
-  "dolarVar": "+0,02%",
-  "btc": "US$ 84,2 mil"
+  "obs": "Parcial do pregão",
+  "hora": "qui 11h",
+  "data": "2026-10-22",
+  "atualizadoEm": "2026-10-22T11:41:47-03:00",
+  "ibov": "203.651",
+  "ibovVar": "-1,38%",
+  "dolar": "R$ 5,04",
+  "dolarVar": "+0,35%",
+  "btc": "US$ 81,7 mil"
  }
 }
