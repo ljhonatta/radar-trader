@@ -1,5 +1,500 @@
 [
  {
+  "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
+  "resumo": "A IBM superou as expectativas de Wall Street, com um lucro líquido de US$ 2,19 bilhões, unindo crescimento em sua divisão de software e a aprovação de dividendos.",
+  "fatos": [
+   "O lucro líquido da IBM entre julho e setembro de 2026 foi de US$ 2,19 bilhões, crescimento de 26% em relação a 2025.",
+   "As ações da empresa valorizaram 3,4% após o anúncio.",
+   "A receita da IBM alcançou US$ 17,1 bilhões, superando a estimativa de US$ 16,82 bilhões.",
+   "O segmento de software cresceu 8%, somando US$ 7,8 bilhões no trimestre.",
+   "O dividendo trimestral aprovado foi de US$ 1,69 por ação ordinária."
+  ],
+  "numeros": [
+   {
+    "valor": "2,19 bilhões",
+    "rotulo": "lucro líquido da IBM no 3º trimestre"
+   },
+   {
+    "valor": "3,4%",
+    "rotulo": "valorização das ações da IBM"
+   },
+   {
+    "valor": "17,1 bilhões",
+    "rotulo": "receita da IBM no 3º trimestre"
+   },
+   {
+    "valor": "1,69",
+    "rotulo": "dividendo trimestral por ação"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "lucro líquido",
+    "antes": "US$ 1,74 bilhões",
+    "depois": "US$ 2,19 bilhões"
+   },
+   {
+    "item": "receita",
+    "antes": "US$ 16,82 bilhões",
+    "depois": "US$ 17,1 bilhões"
+   }
+  ],
+  "destaque": "US$ 2,19 bilhões",
+  "porQueImporta": "Para investidores, os resultados positivos indicam um bom desempenho da empresa e potencial de valorização das ações, além de retornos por meio dos dividendos.",
+  "impactoMercado": "Resultados fortes podem atrair novos investidores e fortalecer a confiança no setor de tecnologia, impactando a performance das ações de outras empresas do setor.",
+  "entenda": "O lucro líquido é o resultado financeiro da empresa após descontar todas as despesas e impostos, essencial para avaliar a saúde financeira de uma companhia.",
+  "observar": "Acompanhe os próximos anúncios de resultados da IBM e suas projeções para 2026, bem como o comportamento das ações no mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A notícia ressalta a importância de acompanhar os resultados das empresas, já que podem influenciar decisões de investimento e alternativas de aprendizado em finanças.",
+  "gancho": "Resultados financeiros da *IBM*",
+  "ideias": [
+   "O que os lucros da IBM dizem sobre o mercado?",
+   "A importância do setor de software no crescimento da IBM",
+   "Dividendos da IBM: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://bpmoney.com.br/economia/internacional-economia/ibm-lucro-receita-terceiro-trimestre-2026-acoes-sobem/",
+  "publicadoEm": "2026-10-21T18:45:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-42"
+ },
+ {
+  "titulo": "Tesla registra lucro de US$ 787 milhões no 3º trimestre",
+  "resumo": "No terceiro trimestre de 2026, a Tesla teve um lucro líquido de US$ 787 milhões e voltou a gerar caixa, mesmo com altos investimentos em IA.",
+  "fatos": [
+   "O lucro líquido da Tesla foi de US$ 787 milhões, 43,8% menor que no mesmo período de 2025.",
+   "A produção livre de caixa foi de US$ 1,53 bilhão, revertendo o saldo negativo anterior.",
+   "Os gastos de capital mais que dobraram, atingindo US$ 4,73 bilhões.",
+   "A receita ficou estável em US$ 28,05 bilhões, em linha com as previsões de analistas.",
+   "A Tesla vendeu 486.532 veículos elétricos, 2% a menos que no ano anterior."
+  ],
+  "numeros": [
+   {
+    "valor": "1.53",
+    "rotulo": "bilhões de dólares em produção livre de caixa"
+   },
+   {
+    "valor": "787",
+    "rotulo": "milhões de dólares em lucro líquido"
+   },
+   {
+    "valor": "4.73",
+    "rotulo": "bilhões de dólares em gastos de capital"
+   },
+   {
+    "valor": "28.05",
+    "rotulo": "bilhões de dólares em receita"
+   },
+   {
+    "valor": "486.532",
+    "rotulo": "veículos elétricos vendidos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "lucro líquido",
+    "antes": "US$ 1,4 bilhões",
+    "depois": "US$ 787 milhões"
+   },
+   {
+    "item": "gastos de capital",
+    "antes": "US$ 2,3 bilhões",
+    "depois": "US$ 4,73 bilhões"
+   },
+   {
+    "item": "veículos vendidos",
+    "antes": "495.000",
+    "depois": "486.532"
+   }
+  ],
+  "destaque": "US$ 787 milhões",
+  "porQueImporta": "Os investidores precisam acompanhar o desempenho financeiro da Tesla, que mostra resiliência mesmo em meio a altos investimentos.",
+  "impactoMercado": "Os resultados positivos da Tesla podem influenciar a confiança do mercado em ações de empresas de tecnologia e veículos elétricos.",
+  "entenda": "O lucro líquido é o resultado financeiro final de uma empresa, após deduzir todas as despesas. Em um mercado volátil, esses números são cruciais para a avaliação da saúde financeira de uma empresa.",
+  "observar": "Fique atento aos próximos balanços da Tesla e a evolução de seus investimentos em tecnologia.",
+  "publico": [
+   "Investidores",
+   "Iniciantes"
+  ],
+  "angulo": "Entender os resultados da Tesla ajuda a perceber a dinâmica do setor de tecnologia e as oportunidades de investimento.",
+  "gancho": "*Tesla* e o lucro de *US$ 787 milhões*",
+  "ideias": [
+   "Tesla mostra resiliência com lucros positivos",
+   "Entenda o impacto do gasto em IA na Tesla",
+   "Balanço da Tesla: lucros e desafios no 3º tri"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://bpmoney.com.br/economia/internacional-economia/tesla-lucro-787-milhoes-terceiro-trimestre-2026/",
+  "publicadoEm": "2026-10-21T18:35:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-43"
+ },
+ {
+  "titulo": "BradSaúde reporta lucro de R$ 1,1 bilhão e R$ 1 bi em dividendos",
+  "resumo": "A BradSaúde (SAUD3) teve lucro líquido de R$ 1,075 bilhão no terceiro trimestre de 2026, realizando a distribuição de R$ 1 bilhão em dividendos.",
+  "fatos": [
+   "O lucro líquido foi 14,4% maior que no terceiro trimestre de 2025.",
+   "Os planos de saúde contribuíram com R$ 857 milhões para o lucro.",
+   "O faturamento da empresa no trimestre foi de R$ 14,275 bilhões, alta de 9,2% ano a ano.",
+   "O retorno sobre o patrimônio líquido (ROAE) subiu para 25,4% em 2026.",
+   "Os dividendos aprovados correspondem a R$ 0,342 por ação."
+  ],
+  "numeros": [
+   {
+    "valor": "1,075 bilhões",
+    "rotulo": "lucro líquido no 3º trimestre"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "dividendos distribuídos"
+   },
+   {
+    "valor": "14,275 bilhões",
+    "rotulo": "faturamento no 3º trimestre"
+   },
+   {
+    "valor": "25,4%",
+    "rotulo": "ROAE em 12 meses"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 1 bilhão",
+  "porQueImporta": "Os lucros e dividendos são indicadores importantes da saúde financeira e do retorno aos acionistas, refletindo a performance da empresa.",
+  "impactoMercado": "Dividendos atraem investidores, o que pode aumentar a demanda pelas ações da BradSaúde no mercado.",
+  "entenda": "Os dividendos são a distribuição de parte dos lucros da empresa aos acionistas, um importante indicativo de como a companhia está se saindo financeiramente.",
+  "observar": "Acompanhe o desempenho dos papéis da BradSaúde após a data ex-dividendo em 3 de novembro.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender os resultados da BradSaúde pode ajudar a esclarecer a importância do acompanhamento de lucros e dividendos no mercado.",
+  "gancho": "*Lucro* e *Dividendos* da BradSaúde em destaque",
+  "ideias": [
+   "Como interpretar os lucros da BradSaúde?",
+   "Dividendos: O que isso significa para você?",
+   "Desempenho da BradSaúde no 3º trimestre"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/bradsaude-saud3-lucro-terceiro-trimestre-2026-dividendos/",
+  "publicadoEm": "2026-10-21T18:25:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-44"
+ },
+ {
+  "titulo": "BrasilAgro (AGRO3) anuncia R$ 30 milhões em dividendos",
+  "resumo": "A BrasilAgro vai distribuir R$ 30 milhões em dividendos, com pagamento a partir de 16 de novembro. Ações serão negociadas 'ex-dividendos' já nesta quinta-feira.",
+  "fatos": [
+   "A BrasilAgro (AGRO3) vai distribuir R$ 30 milhões em dividendos intermediários aos acionistas.",
+   "O valor por ação ordinária será de R$ 0,30115808232.",
+   "Os dividendos começam a ser pagos em 16 de novembro de 2026.",
+   "Têm direito ao provento os investidores que tinham ações registradas até 21 de outubro de 2026.",
+   "A partir de 22 de outubro, as ações começam a ser negociadas 'ex-dividendos'."
+  ],
+  "numeros": [
+   {
+    "valor": "30.000.000",
+    "rotulo": "Valor total dos dividendos"
+   },
+   {
+    "valor": "0,30115808232",
+    "rotulo": "Valor por ação ordinária"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 30 milhões",
+  "porQueImporta": "Os dividendos são uma forma de retorno sobre o investimento para acionistas, e a data 'ex-dividendos' é crucial para determinar quem receberá esse pagamento.",
+  "impactoMercado": "A notícia pode afetar o interesse dos investidores nas ações da BrasilAgro, influenciando a liquidez e a volatilidade nas negociações.",
+  "entenda": "Dividendos são parcelas do lucro de uma empresa distribuídas aos acionistas como retorno sobre o capital investido.",
+  "observar": "Fique atento à data de negociação 'ex-dividendos' e a possíveis reações do mercado após a distribuição dos dividendos.",
+  "publico": [
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Entender a distribuição de dividendos é essencial para quem deseja se aprofundar no mercado financeiro e nos direitos dos acionistas.",
+  "gancho": "*Dividendo* de R$ 30 milhões para AGRO3!",
+  "ideias": [
+   "BrasilAgro: tudo sobre os dividendos de AGRO3",
+   "Quando receber os dividendos da BrasilAgro?",
+   "O que significa 'ex-dividendos' na prática?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Dividendos",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://bpmoney.com.br/mercado/acoes/brasilagro-agro3-dividendos-r-30-milhoes-quem-tem-direito/",
+  "publicadoEm": "2026-10-21T18:00:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-45"
+ },
+ {
+  "titulo": "Ibovespa recua 0,86% com pressão da Vale e eleições",
+  "resumo": "O Ibovespa B3 caiu, afetado pela Vale, enquanto o dólar atinge R$ 5,02. Eleições no Brasil aumentam a cautela dos investidores.",
+  "fatos": [
+   "O Ibovespa recuou 0,86%, fechando a 206.495,23 pontos.",
+   "As ações da Vale caíram 2,15% devido à queda do minério de ferro.",
+   "O volume negociado na B3 foi de R$ 37,1 bilhões.",
+   "O dólar comercial subiu 0,17%, encerrando a R$ 5,02.",
+   "Pesquisas eleitorais indicam um cenário acirrado, aumentando a cautela do mercado."
+  ],
+  "numeros": [
+   {
+    "valor": "206.495,23",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "5,02",
+    "rotulo": "cotação do dólar"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,86%",
+  "porQueImporta": "As mudanças no Ibovespa e no dólar indicam a reação do mercado diante de incertezas políticas e econômicas.",
+  "impactoMercado": "A cautela dos investidores pode levar a maior volatilidade nos preços das ações e do câmbio nos próximos dias.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações das empresas listadas na B3.",
+  "observar": "Fique atento às próximas pesquisas eleitorais e ao desempenho das commodities que podem impactar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender as flutuações do Ibovespa e do dólar pode ajudar a decifrar tendências do mercado financeiro e a importância do momento eleitoral.",
+  "gancho": "*Ibovespa* e *dólar* em queda!",
+  "ideias": [
+   "Ibovespa: queda na expectativa das eleições",
+   "Dólar comercial: impacto das incertezas no câmbio",
+   "Como a Vale influencia o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-086-puxado-por-vale-e-com-eleicao-no-radar-dolar-vai-a-r-502/",
+  "publicadoEm": "2026-10-21T17:42:18-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-46"
+ },
+ {
+  "titulo": "Dólar sobe e fecha a R$ 5,02 com pressão eleitoral",
+  "resumo": "O dólar interrompeu uma sequência de perdas e fechou em alta, refletindo a disputa acirrada entre Flávio Bolsonaro e Lula nas eleições.",
+  "fatos": [
+   "O dólar à vista encerrou o pregão cotado a R$ 5,0279, com alta de 0,18%.",
+   "A disputa pela Presidência entre Flávio Bolsonaro e Lula está muito próxima, com Flávio alcançando 45% e Lula 44% nas intenções de voto.",
+   "Flávio possui uma vantagem de 2,2 milhões de votos sobre Lula do primeiro turno.",
+   "A incerteza eleitoral aumentou a busca por proteção no câmbio, segundo analistas.",
+   "O mercado ainda se mostra sensível ao noticiário eleitoral, apesar do ambiente externo ser mais favorável."
+  ],
+  "numeros": [
+   {
+    "valor": "5,0279",
+    "rotulo": "Cotação do dólar à vista"
+   },
+   {
+    "valor": "0,18%",
+    "rotulo": "Alta do dólar hoje"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Intenções de voto de Flávio Bolsonaro"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "Intenções de voto de Lula"
+   },
+   {
+    "valor": "2,2 milhões",
+    "rotulo": "Votos a favor de Flávio no 1º turno"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,0279",
+  "porQueImporta": "Essa alta pode indicar uma busca por proteção por parte dos investidores em meio à instabilidade política, impactando decisões de investimento.",
+  "impactoMercado": "Os movimentos do câmbio são influenciados por incertezas políticas que podem afetar a confiança dos investidores e o clima empresarial.",
+  "entenda": "O câmbio se refere à troca de moedas e sua cotação pode ser influenciada por diversos fatores, incluindo políticas econômicas e resultados eleitorais.",
+  "observar": "Acompanhe as próximas pesquisas eleitorais e como elas afetam a cotação do dólar e outras moedas.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender a relação entre política e mercado ajuda investidores a navegar em ambientes voláteis, como o atual, onde dados eleitorais impactam o câmbio.",
+  "gancho": "Dólar em alta: *Flávio ou Lula?*",
+  "ideias": [
+   "Mercado em movimento: O impacto das eleições no dólar",
+   "Como a política influencia a cotação do câmbio?",
+   "Entenda a alta do dólar em meio às eleições"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-21-10-26-lils/",
+  "publicadoEm": "2026-10-21T17:03:05-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-47"
+ },
+ {
+  "titulo": "Ibovespa cai com incertezas eleitorais e dólar a R$ 5,03",
+  "resumo": "O Ibovespa fechou em queda de 0,86%, enquanto o dólar subiu levemente. O cenário político e a temporada de balanços movimentam o mercado.",
+  "fatos": [
+   "O Ibovespa terminou o dia em 206.495,23 pontos, recuando 0,86%.",
+   "A mínima do dia foi de 205.988 pontos, e a máxima, de 209.244,71 pontos.",
+   "O volume financeiro na B3 foi de R$ 24,6 bilhões, com 46 das 76 ações em baixa.",
+   "O dólar à vista subiu 0,17%, fechando a R$ 5,027.",
+   "A pesquisa mostrou Flávio Bolsonaro com 45% e Lula com 44%, num empate técnico."
+  ],
+  "numeros": [
+   {
+    "valor": "206.495",
+    "rotulo": "Ibovespa pontos"
+   },
+   {
+    "valor": "24,6 bilhões",
+    "rotulo": "Volume financeiro"
+   },
+   {
+    "valor": "5,027",
+    "rotulo": "Dólar fechamento"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Intenções de voto Flávio"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "Intenções de voto Lula"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "206.495",
+  "porQueImporta": "O desempenho do Ibovespa e do dólar pode impactar as decisões de investidores e traders, especialmente com a volatilidade crescente durante a eleição.",
+  "impactoMercado": "A incertidão política pode levar os investidores a adotarem uma postura mais cautelosa e defensiva, influenciando ações e movimentos no câmbio.",
+  "entenda": "O Ibovespa é o principal indicador da bolsa brasileira, refletindo o desempenho das ações das empresas mais negociadas na B3, sendo um termômetro da economia.",
+  "observar": "Acompanhe as ações das empresas em balanços e o resultado das eleições, que podem alterar a tendência do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender como as políticas e eventos eleitorais influenciam o mercado é essencial para qualquer investidor que deseja se aprofundar no funcionamento da B3.",
+  "gancho": "*Ibovespa em queda* com incertezas eleitorais",
+  "ideias": [
+   "Por que a volatilidade do Ibovespa aumenta?",
+   "Como a política impacta investimentos",
+   "Entenda o que acontece com o dólar durante eleições"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://exame.com/invest/mercados/ibovespa-reverte-ganhos-a-quatro-dias-da-eleicao-dolar-sobe/",
+  "publicadoEm": "2026-10-21T14:34:13-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-48"
+ },
+ {
+  "titulo": "Dólar sobe a R$ 5,02 após nova pesquisa",
+  "resumo": "O dólar alcançou R$ 5,02, influenciado por nova pesquisa da Quaest. Esse movimento ocorre em descompasso com as tendências do mercado externo.",
+  "fatos": [
+   "O dólar foi cotado a R$ 5,02 no Brasil.",
+   "Esse aumento ocorreu após a divulgação de uma nova pesquisa da Quaest.",
+   "O movimento do dólar contrasta com o que ocorre no mercado internacional."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "R$ 5,02",
+  "porQueImporta": "O dólar afeta o custo de importações e pode influenciar a inflação, impactando a estratégia de investidores e traders.",
+  "impactoMercado": "Mudanças na cotação do dólar podem afetar empresas importadoras e o mercado de commodities, impactando o cenário econômico.",
+  "entenda": "Dólar forte pode encarecer produtos importados, influenciando a inflação e as decisões dos investidores.",
+  "observar": "Caso outras pesquisas ou dados econômicos sejam divulgados, isso pode alterar a cotação do dólar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender a relação entre pesquisas, dólar e mercado pode ajudar investidores a tomarem decisões mais informadas.",
+  "gancho": "Dólar em *alta* com *novas pesquisas*",
+  "ideias": [
+   "Como a pesquisa da Quaest afeta o dólar?",
+   "O que significa o dólar a R$ 5,02?",
+   "Impactos da alta do dólar nos investimentos"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:12:40-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+hoje+sobe+a+R%24+5%2C02%2C+ap%C3%B3s+nova+pesquisa+da+Quaest+e+na+contram%C3%A3o+do+exterior+InfoMoney",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-21T18:02:36-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-49"
+ },
+ {
   "titulo": "Estrangeiros injetam até R$ 500 bilhões na bolsa brasileira",
   "resumo": "O Ibovespa sobe 11% em outubro, com grande entrada de capital estrangeiro. Até o momento, foram R$ 19,9 bilhões investidos, indicando uma possível mudança no cenário econômico.",
   "fatos": [
@@ -1159,44 +1654,44 @@
  {
   "tipo": "sinal",
   "slug": "bank-of-russia-decision-in-october-20260724021538830",
-  "titulo": "Mercado de previsões vê 74,5% de chance de nenhuma mudança na taxa pelo Banco da Rússia em outubro",
-  "resumo": "Chance estimada por apostadores, não previsão formal.",
+  "titulo": "Mercado de previsões vê 87.0% de chance de nenhuma alteração na taxa do Banco da Rússia em outubro",
+  "resumo": "A maioria dos apostadores acredita que não haverá mudança na política monetária da Rússia na próxima reunião.",
   "probs": [
    {
-    "opcao": "Sem mudança",
-    "prob": 74.5
+    "opcao": "Sem alteração",
+    "prob": 87.0
    },
    {
     "opcao": "Redução",
-    "prob": 25.0
+    "prob": 11.5
    },
    {
     "opcao": "Aumento",
-    "prob": 0.7
+    "prob": 0.1
    }
   ],
   "prazo": "2026-10-24",
-  "volume24h": "US$ 61 mil",
+  "volume24h": "US$ 102 mil",
   "fatos": [
-   "Sem mudança: 74,5%",
-   "Redução: 25,0%",
-   "Aumento: 0,7%"
+   "Sem alteração: 87,0%",
+   "Redução: 11,5%",
+   "Aumento: 0,1%"
   ],
   "numeros": [
    {
-    "valor": "74,5%",
-    "rotulo": "Sem mudança"
+    "valor": "87,0%",
+    "rotulo": "Sem alteração"
    },
    {
-    "valor": "25,0%",
+    "valor": "11,5%",
     "rotulo": "Redução"
    },
    {
-    "valor": "0,7%",
+    "valor": "0,1%",
     "rotulo": "Aumento"
    }
   ],
-  "destaque": "74,5%",
+  "destaque": "87,0%",
   "gancho": "*Expectativa* do Banco da Rússia",
   "entenda": "A política monetária da Rússia influencia a economia local e internacional, afetando câmbio e inflação, e é monitorada por investidores em todo o mundo.",
   "categoria": "Previsões",
@@ -1209,8 +1704,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-10-21T16:37:34-03:00",
   "data": "2026-10-21",
-  "status": "nova",
-  "id": "2026-10-21-p2"
+  "status": "atualizada",
+  "id": "2026-10-21-p2",
+  "atualizadoEm": "2026-10-21T21:12:40-03:00"
  },
  {
   "titulo": "Recuperação judicial do Grupo Casas Bahia é aprovada",
@@ -5015,53 +5511,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 56,5% de chance de Bitcoin atingir *90.000* até o fim de 2026",
-  "resumo": "Os números refletem as expectativas de apostadores e não constituem previsões oficiais do mercado.",
+  "titulo": "Mercado de previsões vê 67.5% de chance de Bitcoin a mais de $90,000 em 2026",
+  "resumo": "Apostadores acreditam que o preço do Bitcoin poderá ultrapassar $90,000 até o final de 2026.",
   "probs": [
    {
-    "opcao": "↑ 90.000",
-    "prob": 56.5
+    "opcao": "Acima de $90,000",
+    "prob": 67.5
    },
    {
-    "opcao": "↑ 95.000",
-    "prob": 34.5
+    "opcao": "Acima de $95,000",
+    "prob": 42.5
    },
    {
-    "opcao": "↓ 70.000",
-    "prob": 34.5
+    "opcao": "Abaixo de $70,000",
+    "prob": 27.5
    },
    {
-    "opcao": "↓ 65.000",
-    "prob": 22.0
+    "opcao": "Acima de $100,000",
+    "prob": 26.5
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 394 mil",
+  "volume24h": "US$ 326 mil",
   "fatos": [
-   "↑ 90.000: 56,5%",
-   "↑ 95.000: 34,5%",
-   "↓ 70.000: 34,5%",
-   "↓ 65.000: 22,0%"
+   "Acima de $90,000: 67,5%",
+   "Acima de $95,000: 42,5%",
+   "Abaixo de $70,000: 27,5%",
+   "Acima de $100,000: 26,5%"
   ],
   "numeros": [
    {
-    "valor": "56,5%",
-    "rotulo": "↑ 90.000"
+    "valor": "67,5%",
+    "rotulo": "Acima de $90,000"
    },
    {
-    "valor": "34,5%",
-    "rotulo": "↑ 95.000"
+    "valor": "42,5%",
+    "rotulo": "Acima de $95,000"
    },
    {
-    "valor": "34,5%",
-    "rotulo": "↓ 70.000"
+    "valor": "27,5%",
+    "rotulo": "Abaixo de $70,000"
    },
    {
-    "valor": "22,0%",
-    "rotulo": "↓ 65.000"
+    "valor": "26,5%",
+    "rotulo": "Acima de $100,000"
    }
   ],
-  "destaque": "56,5%",
+  "destaque": "67,5%",
   "gancho": "*Bitcoin* pode *crescer muito*",
   "entenda": "Bitcoin é uma criptomoeda que tem apresentado alta volatilidade, afetando sua valorização de acordo com a demanda do mercado.",
   "categoria": "Previsões",
@@ -5074,8 +5570,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-10-20T21:14:27-03:00",
   "data": "2026-10-20",
-  "status": "nova",
-  "id": "2026-10-20-p3"
+  "status": "atualizada",
+  "id": "2026-10-20-p3",
+  "atualizadoEm": "2026-10-21T21:12:40-03:00"
  },
  {
   "tipo": "sinal",

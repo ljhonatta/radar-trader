@@ -1,16 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-21T16:37:34-03:00",
-  "novas": 22,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-10-21T21:12:40-03:00",
+  "novas": 8,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "22 nova(s) e 1 atualizada(s): Investimentos estrangeiros podem aquecer a Bolsa; Próximo grande teste do Brasil!; ISS e PIS/Cofins: O que muda?.",
+  "mensagem": "8 nova(s) e 2 atualizada(s): Resultados financeiros da IBM; Tesla e o lucro de US$ 787 milhões; Lucro e Dividendos da BradSaúde em destaque.",
   "falhas": [
-   "Sem cotação confiável: Dólar comercial",
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-21T21:12:40-03:00",
    "2026-10-21T16:37:34-03:00",
    "2026-10-21T11:41:23-03:00",
    "2026-10-20T21:18:27-03:00",
@@ -25,44 +25,50 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "206.366",
-    "var": "-0,93%"
+    "v": "206.495",
+    "var": "-0,86%"
+   },
+   {
+    "k": "USD",
+    "nome": "Dólar comercial",
+    "v": "R$ 5,02",
+    "var": "+0,02%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 5,65",
-    "var": "+0,23%"
+    "v": "R$ 5,64",
+    "var": ""
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 84,5 mil",
-    "var": "+2,51%"
+    "v": "US$ 84,2 mil",
+    "var": "+1,59%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.756",
-    "var": "+0,57%"
+    "v": "7.757",
+    "var": "+0,58%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "29.841",
-    "var": "+1,19%"
+    "v": "29.823",
+    "var": "+1,13%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 109,18",
-    "var": "+0,36%"
+    "v": "US$ 110,04",
+    "var": "+1,12%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.136,60",
-    "var": "-0,14%"
+    "v": "US$ 4.139,70",
+    "var": "-0,25%"
    },
    {
     "k": "SELIC",
@@ -77,14 +83,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qua 16h",
+  "obs": "Fechamento",
+  "hora": "qua 21h",
   "data": "2026-10-21",
-  "atualizadoEm": "2026-10-21T16:37:34-03:00",
-  "ibov": "206.366",
-  "ibovVar": "-0,93%",
-  "dolar": "",
-  "dolarVar": "",
-  "btc": "US$ 84,5 mil"
+  "atualizadoEm": "2026-10-21T21:12:40-03:00",
+  "ibov": "206.495",
+  "ibovVar": "-0,86%",
+  "dolar": "R$ 5,02",
+  "dolarVar": "+0,02%",
+  "btc": "US$ 84,2 mil"
  }
 }
