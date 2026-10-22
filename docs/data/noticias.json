@@ -1,5 +1,590 @@
 [
  {
+  "titulo": "Petróleo Brent atinge maior valor desde maio",
+  "resumo": "Os preços do petróleo subiram nesta quinta-feira, com o Brent alcançando US$ 113,17, devido às tensões no Oriente Médio e possíveis ações militares dos EUA contra o Irã.",
+  "fatos": [
+   "O petróleo Brent para dezembro avançou 4% e fechou a US$ 113,17 o barril.",
+   "O WTI igualmente teve alta de 2,39%, a US$ 99,47 o barril.",
+   "Os ataques dos Houthis à Arábia Saudita aumentam as tensões na região.",
+   "Os EUA ordenaram que o pessoal não essencial deixasse a Arábia Saudita por precaução.",
+   "Sete petroleiros foram danificados em ataques no Estreito de Ormuz, se confirmado."
+  ],
+  "numeros": [
+   {
+    "valor": "113,17",
+    "rotulo": "preço do barril de petróleo Brent"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "alta do Brent"
+   },
+   {
+    "valor": "99,47",
+    "rotulo": "preço do barril de petróleo WTI"
+   },
+   {
+    "valor": "2,39%",
+    "rotulo": "alta do WTI"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "113,17",
+  "porQueImporta": "Esse aumento nos preços do petróleo pode impactar a inflação e os custos de produção, influenciando o mercado e o comportamento dos investidores.",
+  "impactoMercado": "Uma escalada no Oriente Médio pode afetar o fornecimento de petróleo, resultando em oscilações nos preços e volatilidade no mercado de energia.",
+  "entenda": "O preço do petróleo é um indicador importante da saúde econômica global, sendo influenciado por fatores geopolíticos e condições de oferta e demanda.",
+  "observar": "Fique atento a novas atualizações sobre a situação no Oriente Médio e suas possíveis repercussões no mercado de petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia mostra como questões geopolíticas podem afetar diretamente os preços das commodities, despertando interesse sobre o funcionamento do mercado de petróleo.",
+  "gancho": "Alta do *petróleo* e *tensões* no Oriente",
+  "ideias": [
+   "Como as tensões no Oriente Médio afetam o petróleo.",
+   "Entenda o que influencia o preço do Brent.",
+   "Impactos do mercado de petróleo nas finanças pessoais."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://www.moneytimes.com.br/petroleo-22-10-26-lils/",
+  "publicadoEm": "2026-10-22T16:22:39-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-20"
+ },
+ {
+  "titulo": "Petróleo brent atinge maior valor desde maio",
+  "resumo": "O preço do petróleo brent subiu 4%, impulsionado por tensões no Oriente Médio e ataques à Arábia Saudita. A alta gera preocupação sobre possíveis interrupções no fornecimento.",
+  "fatos": [
+   "O petróleo brent fechou a US$ 113,17, alta de 4% ou US$ 4,35.",
+   "O WTI subiu 2,39%, alcançando US$ 99,47.",
+   "Os ataques dos Houthis à infraestrutura saudita aumentaram os temores de ações militares no Irã.",
+   "Os EUA estão retirando pessoal governamental não essencial da Arábia Saudita."
+  ],
+  "numeros": [
+   {
+    "valor": "113,17",
+    "rotulo": "Preço do petróleo brent"
+   },
+   {
+    "valor": "99,47",
+    "rotulo": "Preço do petróleo WTI"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "Alta do brent"
+   },
+   {
+    "valor": "2,39%",
+    "rotulo": "Alta do WTI"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 113,17",
+  "porQueImporta": "Entender as flutuações do preço do petróleo é vital, pois impactam diversas áreas da economia, desde a inflação até o custo de transporte.",
+  "impactoMercado": "A alta do petróleo pode influenciar ações de empresas do setor e tem potencial para aumentar a volatilidade nos mercados financeiros.",
+  "entenda": "O Brent é um tipo de petróleo que serve como referência para a formação de preços de petróleo no mercado mundial.",
+  "observar": "Fique atento às novas tensões no Oriente Médio, que podem impactar os preços do petróleo nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa alta do petróleo revela como eventos geopolíticos afetam diretamente os mercados, incentivando a busca por conhecimento em finanças.",
+  "gancho": "*Petróleo em alta!* Entenda o que está acontecendo",
+  "ideias": [
+   "Impacto das tensões do Oriente Médio nos preços do petróleo",
+   "Por que o petróleo brent alcançou novos patamares?",
+   "O que significa a alta do WTI para o mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-22102026/",
+  "publicadoEm": "2026-10-22T16:16:26-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-21"
+ },
+ {
+  "titulo": "Ibovespa perde 3 mil pontos em clima eleitoral tenso",
+  "resumo": "O Ibovespa enfrenta uma queda significativa antes das eleições, refletindo preocupação dos investidores com a competição acirrada entre Flávio e Lula. A cautela afeta o mercado.",
+  "fatos": [
+   "O Ibovespa caiu 3.388,64 pontos, chegando a 203.106,59 pontos.",
+   "Houve uma queda de 1,64% no pregão desta quinta-feira (22).",
+   "As últimas pesquisas mostram Flávio Bolsonaro com 51% e Lula com 49%, com margem de erro de 1,6 ponto percentual.",
+   "O índice acumula uma queda de quase 1% nesta semana.",
+   "O dólar chegou a R$ 5,0427, com alta de 0,29%."
+  ],
+  "numeros": [
+   {
+    "valor": "3.388,64",
+    "rotulo": "pontos perdidos pelo Ibovespa"
+   },
+   {
+    "valor": "1,64%",
+    "rotulo": "queda percentual do Ibovespa"
+   },
+   {
+    "valor": "5,0427",
+    "rotulo": "cotação do dólar em reais"
+   },
+   {
+    "valor": "51%",
+    "rotulo": "votos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "49%",
+    "rotulo": "votos de Lula"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "3.388,64 pontos",
+  "porQueImporta": "Essa queda do Ibovespa indica a reação dos investidores a incertezas políticas, fator crucial na formação de expectativas sobre o mercado financeiro.",
+  "impactoMercado": "A incerteza eleitoral pode levar a um desempenho volátil do mercado, afetando a confiança e os investimentos no curto prazo.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas e, portanto, é um termômetro da saúde econômica do país.",
+  "observar": "Acompanhe as próximas pesquisas eleitorais e os movimentos do Ibovespa, que podem sinalizar tendências de mercado conforme a votação se aproxima.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as flutuações do mercado é fundamental para investidores e motivador para conhecer mais sobre o mercado financeiro e a faculdade.",
+  "gancho": "*Ibovespa* em queda: o que fazer?",
+  "ideias": [
+   "O que provoca queda no Ibovespa?",
+   "Desvendando a influência das eleições na bolsa",
+   "Cautela ou oportunidade: como investir agora?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://www.moneytimes.com.br/no-vermelho-ibovespa-perde-3-mil-pontos-com-disputa-acirrada-entre-flavio-e-lula-lils/",
+  "publicadoEm": "2026-10-22T12:40:07-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-22"
+ },
+ {
+  "titulo": "Bradesco lidera reclamações do BC no 3º tri",
+  "resumo": "O Bradesco ficou no topo do ranking de reclamações do Banco Central, com 6.333 reclamações procedentes, seguido pelo Banco C6.",
+  "fatos": [
+   "No 3º trimestre de 2026, o Bradesco teve 6.333 reclamações consideradas procedentes.",
+   "O índice de reclamações por milhão de clientes no Bradesco foi de 57,23.",
+   "O Banco C6 ocupou a segunda posição com 1.893 reclamações e índice de 52,31.",
+   "Itaú ficou em terceiro lugar com 4.252 reclamações e um índice de 43,20."
+  ],
+  "numeros": [
+   {
+    "valor": "6.333",
+    "rotulo": "reclamações do Bradesco"
+   },
+   {
+    "valor": "57,23",
+    "rotulo": "índice de reclamações por milhão"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "6.333",
+  "porQueImporta": "Esses dados indicam a satisfação dos clientes e podem influenciar a reputação e a performance das ações de bancos.",
+  "impactoMercado": "Um alto número de reclamações pode impactar a confiança do investidor em ações desses bancos, afetando seu desempenho no mercado.",
+  "entenda": "O índice de reclamações mede o número de queixas procedentes em relação ao total de clientes, refletindo a qualidade do atendimento.",
+  "observar": "Observe como esses índices podem afetar decisões de investimento em ações desses bancos nos próximos trimestres.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia mostra a importância de entender a qualidade das instituições financeiras no mercado antes de investir.",
+  "gancho": "*Reclamações de Bancos*: Bradesco é líder!",
+  "ideias": [
+   "Bradesco no topo das reclamações do BC",
+   "Entenda o impacto das reclamações no mercado financeiro",
+   "Banco C6 em segundo: o que isso significa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://www.infomoney.com.br/mercados/bradesco-lidera-ranking-de-reclamacoes-do-bc-do-3o-trimestre/",
+  "publicadoEm": "2026-10-22T16:29:41-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-23"
+ },
+ {
+  "titulo": "Estudo da Hashdex indica fim do ciclo de baixa do Bitcoin",
+  "resumo": "Uma análise sugere que o mercado de baixa do Bitcoin pode estar próximo do fim, com 359 dias de queda e diminuição de vendas de curto prazo.",
+  "fatos": [
+   "O ciclo de baixa do Bitcoin acumulou 359 dias até 30 de setembro de 2026.",
+   "Essa duração é similar a quedas anteriores que precederam grandes recuperações.",
+   "Os short-term holders detinham apenas 16,1% da oferta, o menor patamar da série histórica.",
+   "O Bitcoin agora tem maior correlação com o ouro, atingindo 0,54.",
+   "A posse de Bitcoin por governos cresceu cerca de 80% desde 2020."
+  ],
+  "numeros": [
+   {
+    "valor": "359",
+    "rotulo": "dias de queda do Bitcoin"
+   },
+   {
+    "valor": "16,1%",
+    "rotulo": "participação dos short-term holders"
+   },
+   {
+    "valor": "0,54",
+    "rotulo": "correlação com o ouro"
+   },
+   {
+    "valor": "598.428",
+    "rotulo": "unidades sob custódia governamental"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "16,1%",
+  "porQueImporta": "Entender a dinâmica do Bitcoin e os sinais de fim de ciclo é fundamental para investidores que buscam oportunidades em criptoativos.",
+  "impactoMercado": "Mudanças na atuação de investidores de curto prazo e a correlação com o ouro podem impactar o comportamento das criptomoedas no futuro.",
+  "entenda": "A correlação entre ativos mede como eles se movem em conjunto; uma correlação positiva sugere que eles tendem a variar na mesma direção.",
+  "observar": "Acompanhe os próximos meses e como as condições de mercado e regulamentações influenciam o Bitcoin.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A análise da Hashdex sobre a possibilidade de fim da baixa do Bitcoin instiga investidores a explorar o setor de criptomoedas e entender seu comportamento.",
+  "gancho": "*Bitcoin*, *ciclo de baixa*, *Hashdex*",
+  "ideias": [
+   "Fases de alta e baixa do Bitcoin",
+   "O que significa a correlação com o ouro?",
+   "Como os governos estão comprando Bitcoin"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://bpmoney.com.br/mercado/cripto/bitcoin-perto-fim-ciclo-baixa-hashdex/",
+  "publicadoEm": "2026-10-22T16:23:24-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-24"
+ },
+ {
+  "titulo": "Bitcoin cai para US$ 81.700 com tensões geopolíticas",
+  "resumo": "O Bitcoin perdeu o patamar de US$ 82 mil, refletindo aversão ao risco global. A alta do petróleo e os balanços de tecnologia impactam o mercado cripto.",
+  "fatos": [
+   "O Bitcoin caiu 4%, sendo cotado a cerca de US$ 81,7 mil.",
+   "As criptomoedas Ether, Solana e XRP também recuaram entre 3% e 4,5%.",
+   "O petróleo Brent ultrapassou US$ 112 por barril devido a tensões no Oriente Médio.",
+   "Apesar da queda, houve captação de US$ 1,1 bilhão em ETFs de Bitcoin nesta semana.",
+   "O Bitcoin ainda está aproximadamente 35% abaixo de sua máxima histórica de mais de US$ 126 mil."
+  ],
+  "numeros": [
+   {
+    "valor": "82.000",
+    "rotulo": "Patamar anterior do Bitcoin"
+   },
+   {
+    "valor": "81.700",
+    "rotulo": "Novo valor do Bitcoin"
+   },
+   {
+    "valor": "528.000.000",
+    "rotulo": "Valor em ETFs captados"
+   },
+   {
+    "valor": "909.600.000",
+    "rotulo": "Resgates anteriores em ETFs"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "81.700",
+  "porQueImporta": "O movimento do Bitcoin reflete o sentimento do mercado em relação a riscos globais, o que pode afetar decisões de compra e venda de investidores.",
+  "impactoMercado": "A pressão vendedora intensa pode levar mais investidores a adotar posturas cautelosas, influenciando o desempenho do Bitcoin e de outras criptomoedas.",
+  "entenda": "A média móvel de 50 dias é um indicador técnico que ajuda traders a identificar tendências de curto prazo. Ela serve de suporte ou resistência para a cotação de ativos.",
+  "observar": "Acompanhe as próximas movimentações do petróleo e o cenário econômico global, pois podem influenciar a volatilidade do Bitcoin.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Compreender a relação entre eventos geopolíticos e o mercado de criptomoedas ajuda a tomar decisões mais informadas ao investir.",
+  "gancho": "Bitcoin em queda: *tensões e petróleo* em alta",
+  "ideias": [
+   "Impacto da geopolítica no Bitcoin",
+   "Entendendo a média móvel de 50 dias",
+   "O papel dos ETFs no mercado cripto"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "queda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://bpmoney.com.br/mercado/cripto/bitcoin-cai-abaixo-us-82-mil-aversao-risco-oriente-medio/",
+  "publicadoEm": "2026-10-22T15:20:47-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-25"
+ },
+ {
+  "titulo": "Bitcoin cai com aversão ao risco e tensão no Oriente Médio",
+  "resumo": "A criptomoeda Bitcoin despencou para menos de US$ 82 mil, refletindo a pressão nos mercados globais e alta do petróleo. Mesmo assim, investidores ainda apostam na recuperação.",
+  "fatos": [
+   "Nesta quinta-feira, o Bitcoin caiu para cerca de US$ 81,7 mil após recuar 4%.",
+   "Tokens menores, como Ether, Solana e XRP, também caíram entre 3% e 4,5%.",
+   "O petróleo Brent subiu para acima de US$ 112 por barril, enquanto as bolsas caíram.",
+   "Os ETFs de Bitcoin nos EUA tiveram entradas líquidas de US$ 1,1 bilhão nesta semana.",
+   "O Bitcoin ainda está 35% abaixo do recorde histórico de mais de US$ 126 mil."
+  ],
+  "numeros": [
+   {
+    "valor": "81,7",
+    "rotulo": "Bitcoin em US$"
+   },
+   {
+    "valor": "112",
+    "rotulo": "Petróleo Brent em US$"
+   },
+   {
+    "valor": "1,1 bi",
+    "rotulo": "Entradas em ETFs de Bitcoin"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "Abaixo do recorde histórico"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 81,7 mil",
+  "porQueImporta": "A queda do Bitcoin pode afetar a confiança dos investidores em ativos digitais, especialmente em tempos de incerteza econômica.",
+  "impactoMercado": "As tensões globais e dados econômicos mistos podem continuar a influenciar o sentimento do mercado, impactando a volatilidade das criptomoedas.",
+  "entenda": "O Bitcoin é uma criptomoeda que opera em um mercado descentralizado, altamente volátil e influenciado por fatores como eventos geopolíticos e tendências econômicas.",
+  "observar": "Fique atento às oscilações do Bitcoin em relação à média móvel de 50 dias e ao desempenho global do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa situação ressalta a importância de compreender o mercado financeiro para estratégias de investimento mais informadas.",
+  "gancho": "*Bitcoin* em queda: o que isso significa?",
+  "ideias": [
+   "Queda do Bitcoin: fatores que influenciam o mercado",
+   "Como os eventos globais impactam o preço das criptomoedas",
+   "O papel dos ETFs no mercado de Bitcoin"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Cripto",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-82-mil-com-aversao-ao-risco-e-tensao-no-oriente-medio/",
+  "publicadoEm": "2026-10-22T14:54:56-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-26"
+ },
+ {
+  "titulo": "Dólar sobe e Bolsa cai com alta de petróleo",
+  "resumo": "O dólar alcançou R$ 5,05 e a Bolsa registrou queda devido a fatores como a alta do petróleo, eleições e balanças financeiras.",
+  "fatos": [
+   "O dólar subiu para R$ 5,05.",
+   "A Bolsa registrou uma queda.",
+   "Os principais fatores foram a alta do petróleo e a proximidade das eleições."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "R$ 5,05",
+  "porQueImporta": "Entender as flutuações do dólar e da Bolsa é crucial para investidores e traders, pois impactam a rentabilidade e os custos de operação.",
+  "impactoMercado": "Mudanças no dólar e na Bolsa podem afetar decisões de investimento e a confiança do mercado, refletindo incertezas econômicas.",
+  "entenda": "O valor do dólar é influenciado por fatores como oferta e demanda, política econômica e eventos globais, afetando as operações no mercado financeiro.",
+  "observar": "Acompanhe próximos movimentos do dólar e da Bolsa em resposta a informações econômicas e políticas.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia ilustra como eventos globais e nacionais influenciam o mercado financeiro, incentivando o aprendizado sobre essas dinâmicas.",
+  "gancho": "*Dólar* e *Bolsa*: o que está acontecendo?",
+  "ideias": [
+   "O que está por trás da alta do dólar?",
+   "Entenda a relação entre petróleo e o mercado.",
+   "Como as eleições afetam o mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+sobe+a+R%24+5%2C05+e+Bolsa+cai%2C+com+alta+de+petr%C3%B3leo%2C+elei%C3%A7%C3%A3o+e+balan%C3%A7os+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T13:04:15-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-27"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "another-fed-rate-hike-in-2026",
+  "titulo": "Previsões dão 75.5% de chance de *novo aumento* da taxa pelo Fed em 2026",
+  "resumo": "Aposta dos apostadores indica que haverá mais aumentos nas taxas de juros no próximo ano.",
+  "probs": [
+   {
+    "opcao": "Sim",
+    "prob": 75.5
+   },
+   {
+    "opcao": "Não",
+    "prob": 24.5
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 100 mil",
+  "fatos": [
+   "Sim: 75,5%",
+   "Não: 24,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "75,5%",
+    "rotulo": "Sim"
+   },
+   {
+    "valor": "24,5%",
+    "rotulo": "Não"
+   }
+  ],
+  "destaque": "75,5%",
+  "gancho": "Atenção para *nova alta de juros*",
+  "entenda": "Os aumentos das taxas influenciam o custo do crédito e decisões de investimento, afetando a economia de maneira ampla.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+  "publicadoEm": "2026-10-22T16:30:55-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "data": "2026-10-22",
+  "status": "nova",
+  "id": "2026-10-22-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
+  "titulo": "Aposta de 68.5% vê 2 aumentos de juros pelo Fed em 2026",
+  "resumo": "Investidores esperam que o Fed eleve as taxas duas vezes até o final de 2026.",
+  "probs": [
+   {
+    "opcao": "2 (50 bps)",
+    "prob": 68.5
+   },
+   {
+    "opcao": "1 (25 bps)",
+    "prob": 24.5
+   },
+   {
+    "opcao": "3 (75 bps)",
+    "prob": 6.8
+   },
+   {
+    "opcao": "4 (100 bps)",
+    "prob": 0.2
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 55 mil",
+  "fatos": [
+   "2 (50 bps): 68,5%",
+   "1 (25 bps): 24,5%",
+   "3 (75 bps): 6,8%",
+   "4 (100 bps): 0,2%"
+  ],
+  "numeros": [
+   {
+    "valor": "68,5%",
+    "rotulo": "2 (50 bps)"
+   },
+   {
+    "valor": "24,5%",
+    "rotulo": "1 (25 bps)"
+   },
+   {
+    "valor": "6,8%",
+    "rotulo": "3 (75 bps)"
+   },
+   {
+    "valor": "0,2%",
+    "rotulo": "4 (100 bps)"
+   }
+  ],
+  "destaque": "68,5%",
+  "gancho": "Expectativa de *vários aumentos* pela frente",
+  "entenda": "O número de aumentos de juros é um marcador importante da política monetária e da estratégia do Fed para controlar a inflação.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-many-fed-rate-hikes-in-2026-20260623190717369",
+  "publicadoEm": "2026-10-22T16:30:55-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-22T16:30:55-03:00",
+  "data": "2026-10-22",
+  "status": "nova",
+  "id": "2026-10-22-p3"
+ },
+ {
   "titulo": "Arrecadação federal atinge R$ 239,384 bi em setembro",
   "resumo": "A arrecadação de impostos federais em setembro foi a maior desde 2000, mostrando um crescimento real em relação ao ano anterior.",
   "fatos": [
@@ -7951,12 +8536,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "76,5%",
+  "destaque": "71,5%",
   "fatos": [
-   "Alta de 0,25 ponto está precificada em 76,5%.",
-   "Manutenção aparece com 19,5%.",
-   "Alta de 0,5 ponto ou mais tem 2,8%.",
-   "O volume em 24 horas foi de cerca de US$ 78 mil."
+   "Aumento de 25 bps: 71,5%",
+   "Nenhuma mudança: 24,0%",
+   "Aumento de 50+ bps: 2,9%",
+   "Redução de 25 bps: 0,7%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Fed* deve *subir* juros em dezembro",
@@ -7967,31 +8552,50 @@
   "prazo": "2026-12-10",
   "probs": [
    {
-    "opcao": "Alta 0,25",
-    "prob": 76.5
+    "opcao": "Aumento de 25 bps",
+    "prob": 71.5
    },
    {
-    "opcao": "Manter",
-    "prob": 19.5
+    "opcao": "Nenhuma mudança",
+    "prob": 24.0
    },
    {
-    "opcao": "Alta 0,5+",
-    "prob": 2.8
+    "opcao": "Aumento de 50+ bps",
+    "prob": 2.9
    },
    {
-    "opcao": "Corte 0,25",
+    "opcao": "Redução de 25 bps",
     "prob": 0.7
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "No Polymarket, apostadores atribuem maior probabilidade a uma alta de 0,25 ponto do Fed em dezembro; trata-se de probabilidade precificada, não de projeção oficial.",
+  "resumo": "Investidores acreditam que o Fed possa aumentar as taxas de juros na reunião de dezembro.",
   "slug": "fed-decision-in-december-20260729232808632",
-  "status": "nova",
+  "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 76,5% de chance de alta do Fed em dezembro",
+  "titulo": "Mercado vê 71.5% de chance de aumento de 25 bps no Fed em dezembro",
   "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-  "volume24h": "US$ 78 mil",
-  "id": "2026-10-19-p2"
+  "volume24h": "US$ 171 mil",
+  "id": "2026-10-19-p2",
+  "numeros": [
+   {
+    "valor": "71,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "24,0%",
+    "rotulo": "Nenhuma mudança"
+   },
+   {
+    "valor": "2,9%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "0,7%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "atualizadoEm": "2026-10-22T16:30:55-03:00"
  },
  {
   "categoria": "Economia",
