@@ -1,5 +1,1063 @@
 [
  {
+  "titulo": "Lucro do Bradesco cresce, mas inadimplência sobe no 3º tri",
+  "resumo": "O Bradesco reportou um lucro de R$ 7,11 bilhões no terceiro trimestre, com aumento da inadimplência para 4,6%. O cenário de juros altos impacta a performance do banco.",
+  "fatos": [
+   "O Bradesco registrou lucro líquido recorrente de R$ 7,11 bilhões no 3º trimestre, alta de 0,8% em relação ao 2º tri.",
+   "A inadimplência subiu para 4,6%, maior entre micro, pequenas e médias empresas, que chegou a 4,9%.",
+   "As provisões para devedores duvidosos totalizaram R$ 10,6 bilhões, aumento de 6,6% sobre o segundo trimestre.",
+   "O retorno sobre o patrimônio líquido (ROE) recuou de 16,2% para 15,6%, devido a um aumento de capital de R$ 10 bilhões.",
+   "A margem com mercado, ligadas às operações de tesouraria, subiu para R$ 875 milhões, contra R$ 99 milhões um ano antes."
+  ],
+  "numeros": [
+   {
+    "valor": "7,11",
+    "rotulo": "Lucro em bilhões de reais"
+   },
+   {
+    "valor": "4,6%",
+    "rotulo": "Inadimplência acima de 90 dias"
+   },
+   {
+    "valor": "10,6",
+    "rotulo": "Provisão para devedores em bilhões"
+   },
+   {
+    "valor": "15,6%",
+    "rotulo": "Retorno sobre o patrimônio líquido"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Inadimplência",
+    "antes": "4,3%",
+    "depois": "4,6%"
+   },
+   {
+    "item": "ROE",
+    "antes": "16,2%",
+    "depois": "15,6%"
+   },
+   {
+    "item": "PDD",
+    "antes": "9,95",
+    "depois": "10,6"
+   }
+  ],
+  "destaque": "R$ 7,11 bilhões",
+  "porQueImporta": "Esse resultado reflete a saúde financeira do Bradesco e o impacto de fatores como a inadimplência, crucial para investidores e analistas do setor bancário.",
+  "impactoMercado": "A inadimplência em alta e a necessidade de provisões podem levar bancos a um cenário de crédito restrito, afetando a rentabilidade e a disposição de emprestar.",
+  "entenda": "A inadimplência é a proporção de empréstimos que estão em atraso há mais de 90 dias, e um aumento nesse índice indica problemas na capacidade de pagamento dos tomadores de crédito.",
+  "observar": "Acompanhe os próximos resultados financeiros de outros grandes bancos, como Santander e Itaú Unibanco, e a evolução das taxas de juros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como a inadimplência e os lucros dos bancos se inter-relacionam ajuda a visualizar as dinâmicas do mercado financeiro.",
+  "gancho": "Bradesco: lucro e inadimplência",
+  "ideias": [
+   "Bradesco: alta na inadimplência preocupa",
+   "O que dizem os números do Bradesco?",
+   "Como a inadimplência impacta seu investimento?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Bloomberg Línea",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.bloomberglinea.com.br/negocios/lucro-do-bradesco-perde-folego-no-3-tri-com-alta-da-inadimplencia-e-das-provisoes/",
+  "publicadoEm": "2026-10-22T19:52:25-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-28"
+ },
+ {
+  "titulo": "Ibovespa cai 1% com pressão externa e incerteza eleitoral",
+  "resumo": "A três dias do segundo turno, o Ibovespa teve um pregão negativo por conta da incerteza eleitoral e aumento dos preços do petróleo. O dólar também subiu.",
+  "fatos": [
+   "O Ibovespa (IBOV) caiu 1,15%, fechando a 204.120,12 pontos.",
+   "O dólar à vista teve alta de 0,23%, encerrando o dia a R$ 5,0394.",
+   "As ações da CSN (CSNA3) caíram 5,43%, enquanto BB Seguridade (BBSE3) subiu 2,05%.",
+   "Vale (VALE3) teve queda de 3,75%, acompanhando a desvalorização do minério de ferro.",
+   "As incertezas eleitorais impactaram o apetite ao risco, prevendo um ambiente tenso antes do segundo turno."
+  ],
+  "numeros": [
+   {
+    "valor": "204.120,12",
+    "rotulo": "fechamento do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,03",
+    "rotulo": "cotação do dólar à vista"
+   },
+   {
+    "valor": "5,43%",
+    "rotulo": "queda da CSN"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,15%",
+  "porQueImporta": "A queda do Ibovespa e a alta do dólar refletem o clima de incerteza, o que pode dificultar decisões de investimento e aumentar a volatilidade do mercado.",
+  "impactoMercado": "A pressão externa e incerteza política podem levar investidores a adotar uma postura mais cautelosa, afetando o desempenho das ações e o câmbio.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho médio das ações mais negociadas na B3, a bolsa de valores do Brasil.",
+  "observar": "Acompanhe as movimentações do dólar e o desempenho do Ibovespa após o segundo turno das eleições, assim como novos dados sobre o preço do petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia mostra como fatores externos e políticos impactam o mercado, incentivando a busca por conhecimento em finanças.",
+  "gancho": "*Ibovespa* e *dólar*: por que caem?",
+  "ideias": [
+   "O que influencia a queda do Ibovespa?",
+   "Entenda os impactos da incerteza eleitoral no mercado",
+   "Como as commodities afetam a bolsa brasileira?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-22-10-26-lils/",
+  "publicadoEm": "2026-10-22T17:32:47-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-29"
+ },
+ {
+  "titulo": "Taxas dos DIs sobem por acirramento eleitoral e fuga global do risco",
+  "resumo": "As taxas dos DIs se elevaram devido à disputa acirrada entre Lula e Flávio Bolsonaro, além da pressão internacional. O cenário influencia a decisão dos investidores.",
+  "fatos": [
+   "Na quinta-feira (22), os DIs fecharam em alta, refletindo a corrida presidencial entre Lula e Flávio Bolsonaro.",
+   "O DI para janeiro de 2028 foi cotado a 12,88%, com alta de 11 pontos-base em relação ao dia anterior.",
+   "O contrato para janeiro de 2035 subiu para 12,76%, avanço de 2 pontos-base.",
+   "O ambiente externo também trazia instabilidade, com queda nos índices globais e petróleo acima de US$ 110.",
+   "A incerteza política trouxe cautela aos investidores na B3."
+  ],
+  "numeros": [
+   {
+    "valor": "12,88%",
+    "rotulo": "Taxa do DI para janeiro de 2028"
+   },
+   {
+    "valor": "12,76%",
+    "rotulo": "Taxa do DI para janeiro de 2035"
+   },
+   {
+    "valor": "US$ 110",
+    "rotulo": "Preço do petróleo Brent"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "DI janeiro 2028",
+    "antes": "12,775%",
+    "depois": "12,88%"
+   },
+   {
+    "item": "DI janeiro 2035",
+    "antes": "12,743%",
+    "depois": "12,76%"
+   }
+  ],
+  "destaque": "12,88%",
+  "porQueImporta": "O aumento das taxas dos DIs pode impactar o custo do crédito e a rentabilidade dos investimentos, tornando importante para investidores estarem atentos a movimentos eleitorais.",
+  "impactoMercado": "Com a incerteza política, há um clima de aversão ao risco que pode afetar o desempenho dos ativos na B3.",
+  "entenda": "O Depósito Interfinanceiro (DI) é uma taxa de juros que baliza diversas aplicações financeiras, e seu aumento reflete a expectativa do mercado em relação à economia.",
+  "observar": "Fique atento às próximas pesquisas eleitorais e como elas podem influenciar as decisões de investimento na B3.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A volatilidade decorrente de eleições e eventos globais é uma parte importante de entender como o mercado financeiro funciona.",
+  "gancho": "*Taxas dos DIs* sobem com *eleições*",
+  "ideias": [
+   "Impacto das eleições nas taxas de juros",
+   "O que são os DIs e como afetam seu investimento",
+   "Cenário político e suas consequências no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://bpmoney.com.br/mercado/taxas-dis-sobem-disputa-eleitoral-aversao-risco/",
+  "publicadoEm": "2026-10-22T18:33:52-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-30"
+ },
+ {
+  "titulo": "Morgan Stanley vê ações brasileiras com potencial de alta",
+  "resumo": "O Morgan Stanley destaca que o Brasil pode ter valorização de até 50% em suas ações, mas ressalta a necessidade de reformas fiscais e juros mais baixos para isso acontecer.",
+  "fatos": [
+   "Morgan Stanley prevê alta potencial de 50% para as ações brasileiras, mas em um cenário otimista.",
+   "O Brasil lidera os retornos na América Latina, com 75% das ações da B3 acima da média móvel de 200 dias.",
+   "O banco projeta 10% de alta do Ibovespa até o fim do ano.",
+   "As principais categorias que devem se beneficiar são utilities e financeiro, com 60% e 55% de potencial, respectivamente.",
+   "A valorização depende de um dólar a R$ 4,50 no cenário otimista."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "potencial de 50%",
+  "porQueImporta": "Esse relatório do Morgan Stanley é relevante para investidores que buscam oportunidades de valorização no mercado brasileiro, especialmente diante de um cenário fiscal incerto.",
+  "impactoMercado": "O potencial de alta nas ações brasileiras pode atrair novos investidores, especialmente se reformas fiscais forem implementadas e os juros estiverem mais baixos.",
+  "entenda": "O Ibovespa é o principal índice da bolsa de valores brasileira e reflete o desempenho das ações mais negociadas do país.",
+  "observar": "Fique atento a novas decisões sobre reformas fiscais e às movimentações do mercado de ações nos próximos meses.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A análise do Morgan Stanley traz uma visão otimista, convidando investidores a se aprofundarem no mercado financeiro e na dinâmica das ações brasileiras.",
+  "gancho": "Ações brasileiras podem *valorizar* até *50%*",
+  "ideias": [
+   "Ações brasileiras em alta: saiba por quê!",
+   "Morgan Stanley projeta até 50% de valorização!",
+   "O que deve mudar no mercado com reformas fiscais?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "foguete",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.moneytimes.com.br/acoes-brasileiras-tem-potencial-de-subir-ate-50-mas-morgan-stanley-diz-que-ha-uma-condicao-para-a-primavera-chegar-por-aqui-ccgg/",
+  "publicadoEm": "2026-10-22T16:57:08-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-31"
+ },
+ {
+  "titulo": "Juros futuros sobem com disputa eleitoral e fuga de risco",
+  "resumo": "Os juros futuros avançaram devido à instabilidade política e fuga de risco. A preocupação com as eleições impacta diretamente as expectativas do mercado.",
+  "fatos": [
+   "Os juros futuros mostraram tendência de alta.",
+   "A disputa eleitoral trouxe incertezas ao mercado financeiro.",
+   "A fuga de risco dos investidores está influenciando as taxas de juros."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "O aumento dos juros futuros pode impactar o custo dos financiamentos e investimentos. Isso afeta diretamente a rentabilidade e as expectativas de quem opera no mercado.",
+  "impactoMercado": "A instabilidade política pode gerar uma volatilidade maior no mercado, tornando-o menos previsível para investidores e operadores.",
+  "entenda": "Juros futuros são contratos que indicam a expectativa do mercado em relação à taxa de juros no futuro, influenciando decisões de investimento.",
+  "observar": "Acompanhe as notícias sobre a disputa eleitoral e seus reflexos nas decisões do Banco Central e nas taxas de juros.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender a relação entre política e juros ajuda investidores a tomar decisões mais informadas e conhecer melhor o mercado financeiro.",
+  "gancho": "*Juros* em alta: entenda por quê!",
+  "ideias": [
+   "Como a disputa eleitoral afeta os juros?",
+   "Juros futuros: o que você precisa saber",
+   "Fuga de risco: o que isso significa para o mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "SpaceMoney",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.google.com/search?q=Juros+futuros+avan%C3%A7am+com+disputa+eleitoral+e+fuga+de+risco+SpaceMoney",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T18:42:05-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-32"
+ },
+ {
+  "titulo": "Decisão crucial para traders antes das eleições",
+  "resumo": "No último pregão antes do segundo turno, traders enfrentam dilema: zerar posições ou manter ações até segunda-feira?, com riscos e expectativas em jogo.",
+  "fatos": [
+   "Sexta-feira (23) é o último pregão antes do segundo turno das eleições.",
+   "Investidores devem decidir entre manter ações ou zerar posições devido ao risco de gap na abertura de segunda.",
+   "Aumento na volatilidade pode elevar o risco para posições mantidas até o próximo pregão.",
+   "O conceito de VaR (Value at Risk) é essencial para avaliar o risco financeiro em situações de maior volatilidade.",
+   "Opções são uma alternativa para limitar riscos, mas têm custos que podem impactar a operação."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender o impacto das eleições é crucial, pois resultados podem provocar forte movimentação nos preços das ações e volatilidade no mercado.",
+  "impactoMercado": "A abertura de segunda-feira poderá ser influenciada pelo resultado das eleições e interpretações do cenário político e fiscal, assim o investidor deve estar preparado.",
+  "entenda": "O conceito de 'gap' é fundamental, pois é o movimento brusco que pode ocorrer entre o fechamento e a abertura de um ativo, aumentando o risco da operação.",
+  "observar": "É importante acompanhar a volatilidade do mercado e a interpretação das eleições após o resultado, pois isso pode afetar as ações diretamente.",
+  "publico": [
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender as dinâmicas do mercado eleitoral pode ajudar investidores a tomar decisões informadas, considerando riscos e oportunidades em um cenário volátil.",
+  "gancho": "*Bolsa e eleições*: risco ou oportunidade?",
+  "ideias": [
+   "Como se preparar para as eleições na Bolsa?",
+   "Entenda o impacto eleitoral nas ações.",
+   "Por que a volatilidade pode aumentar nas eleições?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.infomoney.com.br/mercados/bolsa-eleicao-carregar-acoes-ate-segunda/",
+  "publicadoEm": "2026-10-22T19:54:22-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-33"
+ },
+ {
+  "titulo": "Lula se prepara para debate focando em propostas",
+  "resumo": "O presidente Luiz Inácio Lula da Silva está sendo treinado para focar em propostas durante o debate e evitar provocações de Flávio Bolsonaro nesta semana.",
+  "fatos": [
+   "Lula iniciou sua preparação para o debate na TV Globo, onde se confrontará com Flávio Bolsonaro neste fim de semana.",
+   "O presidente está sendo orientado a evitar discussões diretas e ironias durante o embate.",
+   "A preparação é comandada por Sidônio Palmeira, da Secretaria de Comunicação Social.",
+   "No último confronto, Flávio registrou 44% contra 46% de rejeição para Lula.",
+   "O debate terá quatro blocos com perguntas e respostas e um bloco de tema livre."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A forma como Lula se apresenta no debate pode influenciar na percepção do eleitor e nas intenções de voto, impactando os mercados.",
+  "impactoMercado": "Resultados eleitorais podem afetar a confiança no Brasil, impactando a economia e o comportamento dos investidores.",
+  "entenda": "Debates eleitorais são oportunidades para candidatos apresentarem propostas e esclarecerem dúvidas, influenciando a opinião pública.",
+  "observar": "Fique atento ao desempenho de Lula no debate e como isso pode mudar a dinâmica eleitoral em períodos próximos ao resultado das eleições.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explorar como os preparativos de debate refletem na estratégia política de Lula e em como isso afeta a economia.",
+  "gancho": "*Lula* e *debate* em foco",
+  "ideias": [
+   "Preparação de Lula para o debate",
+   "Impacto do debate nas eleições",
+   "Como debates influenciam o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-e-preparado-para-nao-responder-a-provocacoes-de-flavio-em-focar-propostas/",
+  "publicadoEm": "2026-10-22T20:45:46-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-34"
+ },
+ {
+  "titulo": "CMN e BC alteram regras do *Open Finance*",
+  "resumo": "As novas regras visam aumentar segurança e transparência no compartilhamento de dados financeiros, beneficiando tanto clientes quanto instituições.",
+  "fatos": [
+   "O CMN e o BC aprovaram mudanças nas regras do Open Finance nesta quinta-feira (22).",
+   "As alterações enfatizam segurança e estabelecem novas exigências para instituições financeiras.",
+   "O consentimento específico será necessário para cada empresa parceira e o monitoramento será mais rigoroso.",
+   "As novas regras devem facilitar processos que dependem da aprovação de diferentes representantes em empresas.",
+   "O objetivo é modernizar o sistema financeiro e aumentar a concorrência entre as instituições."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas mudanças são relevantes pois garantem maior controle aos consumidores sobre seus dados e promovem um ambiente mais seguro para o compartilhamento de informações financeiras.",
+  "impactoMercado": "A segurança e a transparência reforçadas podem atrair mais consumidores a adotar serviços de Open Finance, potencializando a concorrência entre bancos e fintechs.",
+  "entenda": "O Open Finance permite que clientes compartilhem seus dados financeiros entre instituições, o que pode facilitar a oferta de produtos financeiros mais personalizados.",
+  "observar": "Observe como as institutions reagem às novas exigências e se haverá mudanças nas ofertas de serviços financeiros após essas novas regras.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A compreensão das novas regras do Open Finance abre espaço para novidades no mercado financeiro, incentivando o uso consciente e seguro de dados.",
+  "gancho": "*Alterações no Open Finance* trazem mais segurança",
+  "ideias": [
+   "O que muda com as regras do Open Finance?",
+   "Como o Open Finance pode beneficiar sua empresa?",
+   "Entenda as novas exigências para o compartilhamento de dados"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "escudo",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance",
+  "publicadoEm": "2026-10-22T20:03:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-35"
+ },
+ {
+  "titulo": "Ibovespa recua 1,15% com Vale e exterior negativo",
+  "resumo": "Nesta quinta-feira, o Ibovespa caiu, influenciado pelo desempenho da Vale e pela cautela no exterior. O dólar também teve leve alta, fechando a R$ 5,03.",
+  "fatos": [
+   "O Ibovespa recuou 1,15%, fechando a 204.120,12 pontos.",
+   "O volume negociado na B3 foi de R$ 39,5 bilhões.",
+   "A arrecadação federal em setembro foi de R$ 239,4 bilhões, com crescimento real de 5,62%.",
+   "A Vale (VALE3) caiu 3,97% devido à baixa no minério de ferro.",
+   "O preço do dólar comercial subiu 0,22%, fechando a R$ 5,03."
+  ],
+  "numeros": [
+   {
+    "valor": "204.120,12",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,03",
+    "rotulo": "dólar comercial"
+   },
+   {
+    "valor": "R$ 39,5 bilhões",
+    "rotulo": "volume na B3"
+   },
+   {
+    "valor": "R$ 239,4 bilhões",
+    "rotulo": "arrecadação federal"
+   },
+   {
+    "valor": "5,62%",
+    "rotulo": "crescimento real da arrecadação"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,15%",
+  "porQueImporta": "O recuo do Ibovespa pode indicar o clima de cautela do mercado e influenciar a confiança dos investidores na economia.",
+  "impactoMercado": "A volatilidade nas bolsas e a alta do dólar podem refletir mudanças no apetite por risco entre os investidores.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas.",
+  "observar": "Fique atento à dinâmica das eleições e ao desempenho das commodities, que podem impactar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como fatores externos e internos afetam o mercado é essencial para quem deseja atuar nas finanças.",
+  "gancho": "Ibovespa em queda; *Vale* impacta!",
+  "ideias": [
+   "O que levou o Ibovespa a cair hoje?",
+   "Como as eleições afetam o mercado financeiro?",
+   "Impacto das commodities na nossa bolsa?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-115-puxado-por-vale-e-exterior-negativo-dolar-vai-a-r-503/",
+  "publicadoEm": "2026-10-22T18:01:02-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-36"
+ },
+ {
+  "titulo": "Ibovespa cai e dólar sobe com aversão ao risco",
+  "resumo": "O Ibovespa caiu 1,15% e o dólar teve uma alta, refletindo um clima de aversão ao risco global com a eleição iminente no Brasil.",
+  "fatos": [
+   "O Ibovespa registrou uma queda de 1,15%.",
+   "O dólar apresentou valorização no mercado.",
+   "O cenário global e a proximidade das eleições impactaram o sentimento do investidor."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender a aversão ao risco é crucial, pois ela influencia a volatilidade dos mercados e pode afetar as decisões de investimento.",
+  "impactoMercado": "Mudanças no humor do investidor podem provocar oscilações no preço das ações e do câmbio, afetando investidores e traders.",
+  "entenda": "A aversão ao risco ocorre quando investidores se tornam cautelosos devido a incertezas políticas ou econômicas, levando a vendas em massa.",
+  "observar": "Fique atento às movimentações do mercado em torno da data da eleição, pois a volatilidade pode aumentar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia ressalta a importância de compreender como eventos políticos e econômicos afetam o mercado financeiro.",
+  "gancho": "*Ibovespa em queda* e *dólar valorizado*: entenda o que isso",
+  "ideias": [
+   "Por que o Ibovespa caiu hoje?",
+   "Como as eleições impactam o mercado?",
+   "Aversão ao risco: o que é e como afeta você"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Forbes Brasil",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+Cai+1%2C15%25+e+D%C3%B3lar+Sobe+com+Avers%C3%A3o+Global+a+Risco+e+Elei%C3%A7%C3%A3o+no+Radar+Forbes+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T18:48:45-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-37"
+ },
+ {
+  "titulo": "Setor financeiro brilha na B3 com 5 ações entre as mais negociadas",
+  "resumo": "Em setembro, cinco das dez ações mais realizadas na B3 eram do setor financeiro, com Petrobras liderando as negociações. A B3 atraiu R$ 8,78 bilhões em capital externo.",
+  "fatos": [
+   "Cinco ações do setor financeiro estão entre as dez mais negociadas da B3 em setembro.",
+   "A ação preferencial da Petrobras (PETR4) continua na liderança, seguida pela ordinária da Vale (VALE3).",
+   "O Itaú Unibanco (ITUB4) foi a terceira ação mais negociada, enquanto o Banco do Brasil (BBAS3) ficou em quarto.",
+   "A B3 (B3SA3) ocupou o quinto lugar, com a preferencial do Bradesco (BBDC4) em sexto.",
+   "As petroleiras também foram destaque, com duas ações de Petrobras entre as dez mais negociadas."
+  ],
+  "numeros": [
+   {
+    "valor": "R$ 8,78 bilhões",
+    "rotulo": "entradas de capital externo na Bovespa em setembro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "5 ações do",
+  "porQueImporta": "O setor financeiro demonstra resiliência e atratividade para investidores em busca de segurança e liquidez no cenário atual da B3.",
+  "impactoMercado": "A concentração de volumes de negociação no setor financeiro pode indicar uma preferência do investidor, refletindo confiança neste segmento durante a instabilidade.",
+  "entenda": "Entender o que são ações preferenciais e ordinárias é essencial para investidores, já que elas têm características diferentes em relação a dividendos e direitos de voto.",
+  "observar": "Acompanhe o desempenho das ações do setor financeiro e o comportamento do mercado externo, que pode afetar as negociações na B3.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A análise do desempenho das ações financeiras explica como escolher investimentos balizados na liquidez e no desempenho de ações específicas.",
+  "gancho": "*Ações financeiras* dominam a B3",
+  "ideias": [
+   "Setor financeiro: O que você precisa saber?",
+   "As ações mais negociadas da B3 em setembro",
+   "Por que investir em ações financeiras?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://bpmoney.com.br/mercado/acoes/setor-financeiro-domina-acoes-mais-negociadas-b3-setembro/",
+  "publicadoEm": "2026-10-22T18:39:49-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-38"
+ },
+ {
+  "titulo": "Petrobras (PETR4) se destaca com maior valorização do setor em outubro",
+  "resumo": "As ações da Petrobras se valorizaram acima de 22,45% em outubro, impulsionadas por fatores como dividendos e o cenário político brasileiro.",
+  "fatos": [
+   "Petrobras (PETR4) teve alta de mais de 22,45% em outubro, superando outras grandes petroleiras globais.",
+   "O petróleo Brent chegou a US$ 113, com alta de quase 4%, influenciando as receitas da Petrobras.",
+   "Expectativa de dividendos robustos, estimados entre US$ 3,8 bilhões a US$ 4,2 bilhões, também impulsiona a ação.",
+   "Desde o primeiro turno das eleições, o fluxo de investimentos estrangeiros na bolsa brasileira aumentou."
+  ],
+  "numeros": [
+   {
+    "valor": "22,45%",
+    "rotulo": "valorização da Petrobras em outubro"
+   },
+   {
+    "valor": "US$ 3,8 bilhões a US$ 4,2 bilhões",
+    "rotulo": "estimativa de dividendos no trimestre"
+   },
+   {
+    "valor": "US$ 159,49 bilhões",
+    "rotulo": "valor de mercado da Petrobras"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "22,45%",
+  "porQueImporta": "A valorização de ações como a da Petrobras pode indicar confiança do mercado e influenciar decisões de investimento de traders e investidores.",
+  "impactoMercado": "A movimentação positiva das ações da Petrobras pode impulsionar o Ibovespa e atrair mais investimentos para o Brasil, especialmente de estrangeiros.",
+  "entenda": "A valorização das ações da Petrobras é impactada pelo preço do petróleo e pela expectativa de dividendos, refletindo o desempenho da empresa no mercado.",
+  "observar": "Acompanhe como as decisões políticas e as oscilações no preço do petróleo podem afetar as ações da Petrobras nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender o desempenho da Petrobras ajuda novos investidores a aprender sobre o mercado de ações e a importância das notícias econômicas.",
+  "gancho": "*Petrobras* supera *gigantes* em valorização",
+  "ideias": [
+   "Petrobras: Ação que brilha em outubro",
+   "O que impulsionou a alta das ações da Petrobras?",
+   "Dividendo da Petrobras: Qual a expectativa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/petrobras-petr4-supera-gigantes-globais-e-emplaca-a-maior-valorizacao-do-setor-em-outubro-alem-do-petroleo-o-que-esta-por-tras-bdap/",
+  "publicadoEm": "2026-10-22T16:42:06-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-39"
+ },
+ {
+  "titulo": "Dólar fecha em alta à espera de Datafolha",
+  "resumo": "O dólar encerrou a quinta-feira em alta, atingindo R$ 5,0394, devido a incertezas eleitorais e uma postura avessa ao risco no exterior.",
+  "fatos": [
+   "O dólar apresentou alta de 0,23% e fechou a R$ 5,0394 no mercado à vista.",
+   "Essa é a segunda alta consecutiva da moeda norte-americana.",
+   "O cenário eleitoral contribuí para o aumento da demanda por dólar como proteção.",
+   "As últimas pesquisas eleitorais mostram Flávio Bolsonaro com 51% e Lula com 49%, considerando votos válidos.",
+   "O Datafolha será divulgado na sexta-feira (23)."
+  ],
+  "numeros": [
+   {
+    "valor": "5,0394",
+    "rotulo": "fechamento do dólar à vista"
+   },
+   {
+    "valor": "0,23%",
+    "rotulo": "alta do dólar no dia"
+   },
+   {
+    "valor": "1,6",
+    "rotulo": "margem de erro da pesquisa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,0394",
+  "porQueImporta": "A volatilidade do câmbio pode impactar diversas áreas da economia e decisões de investimento, especialmente em períodos eleitorais.",
+  "impactoMercado": "A incerteza política pode levar investidores a buscar segurança em ativos mais estáveis, como o dólar, aumentando a volatilidade do câmbio.",
+  "entenda": "O dólar é a moeda mais negociada globalmente e, em momentos de incerteza, tende a ser visto como um abrigo seguro.",
+  "observar": "Fique atento às próximas pesquisas eleitorais e seus impactos sobre a cotação do dólar e a volatilidade do mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender o impacto das eleições no câmbio é fundamental para quem deseja operar no mercado financeiro.",
+  "gancho": "*Dólar* em alta: *insegurança* eleitoral!",
+  "ideias": [
+   "Como as eleições afetam o dólar?",
+   "Entenda a alta do dólar na semana.",
+   "Expectativa do Datafolha e o mercado de câmbio."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-22-10-26-lils/",
+  "publicadoEm": "2026-10-22T17:04:22-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-40"
+ },
+ {
+  "titulo": "Petróleo sobe 4% e Brent ultrapassa US$ 113",
+  "resumo": "O preço do petróleo disparou, com o barril do Brent superando US$ 113, refletindo a volatilidade do mercado. O aumento dos preços pode impactar a economia global.",
+  "fatos": [
+   "O barril do Brent superou a marca de US$ 113.",
+   "O preço do petróleo teve um aumento de 4%.",
+   "Esse movimento reflete a instabilidade nas cotações do mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "US$ 113",
+  "porQueImporta": "A alta no preço do petróleo pode impactar os custos de transporte e produção, afetando a inflação e os lucros das empresas.",
+  "impactoMercado": "Com o aumento do preço do petróleo, investidores devem observar como isso influenciará ações de empresas do setor e a economia como um todo.",
+  "entenda": "O barril do Brent é um dos principais índices de preços de petróleo no mercado global, utilizado como referência para negociação.",
+  "observar": "Se os preços do petróleo continuar a subir, fique atento ao impacto nas ações das empresas relacionadas ao setor.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender a relação entre preço do petróleo e mercado é fundamental para quem busca investir com sabedoria.",
+  "gancho": "*Petróleo em alta*, *Brent* supera US$ 113",
+  "ideias": [
+   "O que causa a alta do petróleo?",
+   "Impactos do preço do óleo no seu bolso!",
+   "Como investir em empresas de petróleo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Bahia Econômica",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.google.com/search?q=PETR%C3%93LEO+DISPARA+4%25+E+BARRIL+DO+BRENT+SUPERA+US%24+113+Bahia+Econ%C3%B4mica",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T18:34:03-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-41"
+ },
+ {
+  "titulo": "Lucro do Bradesco cresce 14% no 3T26, mas desafios permanecem",
+  "resumo": "O Bradesco (BBDC4) teve lucro de R$ 7,1 bilhões no 3T26, mas enfrenta riscos com aumento na inadimplência e alta nas despesas com calotes.",
+  "fatos": [
+   "Lucro líquido recorrente do Bradesco alcançou R$ 7,1 bilhões, avançando 14,6% em relação ao ano anterior.",
+   "O retorno sobre o patrimônio líquido médio (ROAE) foi de 16,1%, ligeiramente acima das expectativas.",
+   "A inadimplência subiu para 4,6%, impactada por pequenas e médias empresas.",
+   "As despesas com provisões para perdas no crédito somaram R$ 10,6 bilhões, alta de 24,3% em um ano.",
+   "O Bradesco anunciou um novo programa de recompra de ações, podendo adquirir até 106,5 milhões de papéis."
+  ],
+  "numeros": [
+   {
+    "valor": "7,1",
+    "rotulo": "milhões de reais de lucro líquido"
+   },
+   {
+    "valor": "4,6%",
+    "rotulo": "índice de inadimplência"
+   },
+   {
+    "valor": "10,6",
+    "rotulo": "milhões de reais em provisões para calotes"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "14,6%",
+  "porQueImporta": "Entender como o Bradesco gerencia seu crescimento e riscos pode ajudar investidores a avaliarem a saúde financeira do banco.",
+  "impactoMercado": "A inadimplência elevada e as despesas com calotes podem influenciar a percepção de risco dos investidores em relação ao Bradesco.",
+  "entenda": "O retorno sobre o patrimônio líquido (ROAE) é um indicador importante que mede a rentabilidade de um banco em relação ao seu patrimônio.",
+  "observar": "Acompanhe a evolução da inadimplência e os resultados do Bradesco nos próximos trimestres para entender seu impacto na rentabilidade.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Analisar as finanças do Bradesco pode oferecer insights sobre a dinâmica do setor bancário e como gerenciar riscos em investimentos.",
+  "gancho": "*Bradesco* e *lucro em alta*!",
+  "ideias": [
+   "Bradesco: Lucro e Desafios no 3T26",
+   "Como a inadimplência impacta o Bradesco?",
+   "Recompra de ações: o que significa para o investidor?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/lucro-do-bradesco-bbdc4-no-3t26-rentabilidade-roe-calotes-podem-frear-a-virada-miql/",
+  "publicadoEm": "2026-10-22T18:07:06-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-42"
+ },
+ {
+  "titulo": "Dólar tem leve alta e Ibovespa registra queda",
+  "resumo": "O dólar subiu 0,22%, enquanto o Ibovespa caiu 1,15%. Movimentos que podem impactar os investidores na B3.",
+  "fatos": [
+   "O dólar fechou a R$ 5,038 após uma alta de 0,22%.",
+   "O Ibovespa caiu 1,15% no mesmo período.",
+   "Esses movimentos refletem a volatilidade do mercado financeiro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as oscilações do dólar e do Ibovespa é crucial para investidores, pois afeta decisões de compra e venda de ativos.",
+  "impactoMercado": "As flutuações podem indicar oportunidades ou riscos para o investidor na B3. Monitorar essas variações é fundamental para estratégias de investimento.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, representando a performance das ações mais negociadas e influenciadas por fatores econômicos.",
+  "observar": "Acompanhe como o dólar e o Ibovespa se comportam nos próximos dias para ajustar sua estratégia de investimento.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A flutuação das moedas e índices é essencial para quem busca entender o mercado e seus movimentos.",
+  "gancho": "Impactos do *Dólar* e *Ibovespa*",
+  "ideias": [
+   "Como a alta do dólar afeta seus investimentos?",
+   "Entenda a volatilidade do Ibovespa.",
+   "Dólar e Ibovespa: o que esperar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Poder360",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+sobe+0%2C22%25+e+fecha+a+R%24+5%2C038%3B+Ibovespa+cai+1%2C15%25+Poder360",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T17:37:39-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-43"
+ },
+ {
+  "titulo": "Nova pesquisa Datafolha mostra Lula e Flávio empatados",
+  "resumo": "A pesquisa do Datafolha revelou que Flávio Bolsonaro e Lula estão empatados com 50% dos votos válidos a três dias do segundo turno. A margem de erro é de dois pontos percentuais.",
+  "fatos": [
+   "O Datafolha entrevistou 2.520 eleitores entre 20 e 22 de outubro.",
+   "Flávio Bolsonaro e Lula possuem 50% dos votos válidos, dentro da margem de erro.",
+   "A aprovação do governo Lula é de 49%, com 48% de desaprovação.",
+   "Três dias antes da eleição, eleitores indecisos permanecem em 2%."
+  ],
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "votos válidos de Flávio e Lula"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "margem de erro da pesquisa"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "indecisos no total de votos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "votos válidos de Flávio Bolsonaro",
+    "antes": "51%",
+    "depois": "50%"
+   },
+   {
+    "item": "votos válidos de Lula",
+    "antes": "49%",
+    "depois": "50%"
+   },
+   {
+    "item": "aprovação do governo Lula",
+    "antes": "50%",
+    "depois": "49%"
+   },
+   {
+    "item": "desaprovação do governo Lula",
+    "antes": "50%",
+    "depois": "48%"
+   }
+  ],
+  "destaque": "50%",
+  "porQueImporta": "Entender essas dinâmicas eleitorais é crucial, pois as incertezas políticas podem afetar os mercados e as decisões financeiras dos investidores.",
+  "impactoMercado": "O cenário eleitoral pode trazer volatilidade ao mercado, especialmente se o resultado for diferente do esperado. Investidores devem estar atentos às mudanças.",
+  "entenda": "Pesquisas eleitorais medem a intenção de voto da população e podem influenciar o comportamento do mercado em períodos eleitorais.",
+  "observar": "Fique atento aos desdobramentos das eleições e como os resultados impactam o mercado financeiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Acompanhar pesquisas eleitorais é essencial para entender como os rumos políticos podem influenciar suas estratégias de investimento na bolsa.",
+  "gancho": "*Empate* entre Lula e *Flávio Bolsonaro*",
+  "ideias": [
+   "O que as pesquisas eleitorais indicam para os investidores?",
+   "Como o resultado das eleições pode afetar o mercado?",
+   "Entenda a importância da política monetária nas eleições."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/pesquisa-datafolha-flavio-bolsonaro-e-lula-empatam-com-50-no-segundo-turno-davs/",
+  "publicadoEm": "2026-10-22T19:46:04-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-44"
+ },
+ {
+  "titulo": "Lula propõe secretaria para finanças populares em nova eleição",
+  "resumo": "O presidente Lula anunciou a criação de uma secretaria para orientar finanças populares, sugerindo a economista Nath Finanças para o cargo. Essa proposta visa oferecer assistência financeira à população.",
+  "fatos": [
+   "Luiz Inácio Lula da Silva anunciou, em live, a intenção de criar uma secretaria para finanças populares caso reeleito.",
+   "A influenciadora Nath Finanças foi sugerida para atuar na nova secretaria.",
+   "Lula enfatizou a responsabilidade do Estado em orientar financeiramente a população.",
+   "Ele também declarou que não irá retomar a exploração de apostas.",
+   "Durante a live, foi destacado que a campanha deve focar na mobilização de eleitores."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A proposta de Lula pode impactar diretamente a população em situação financeira vulnerável, aumentando o acesso a orientações financeiras.",
+  "impactoMercado": "Caso implementada, essa secretaria pode influenciar o cenário econômico e a confiança dos investidores em políticas públicas de apoio às finanças pessoais.",
+  "entenda": "A secretaria para finanças populares é uma iniciativa que busca ajudar cidadãos a entender e administrar melhor suas finanças.",
+  "observar": "Acompanhe os próximos passos da campanha e a receptividade da proposta junto ao eleitorado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as propostas políticas e suas repercussões pode ajudar novos investidores a avaliar o ambiente econômico.",
+  "gancho": "*Finanças populares* em foco: Lula propõe nova secretaria",
+  "ideias": [
+   "Lula e a nova secretaria de finanças",
+   "Como as finanças populares impactam o Brasil",
+   "Apostas e finanças: o que Lula diz?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-anuncia-criacao-de-secretaria-para-orientar-financas-populares-caso-seja-eleito/",
+  "publicadoEm": "2026-10-22T20:54:25-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-45"
+ },
+ {
+  "titulo": "Flamengo enfrenta Estudiantes na semifinal da Libertadores",
+  "resumo": "Flamengo joga em casa pela semifinal da Libertadores contra o Estudiantes, após empate na ida. O jogo acontece no Maracanã e terá transmissão ao vivo pela Disney+.",
+  "fatos": [
+   "A partida ocorre no Maracanã, no Rio de Janeiro, nesta quinta-feira, dia 22, às 21h30.",
+   "O Flamengo precisa marcar ao menos um gol para seguir para a final.",
+   "O jogo da semifinal vem após um empate sem gols na ida.",
+   "Quem vencer enfrentará Fluminense ou Palmeiras na final.",
+   "As escalacões dos times já foram definidas pelos técnicos Leonardo Jardim e A. Medina."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A semifinal da Libertadores é uma das competições mais importantes do futebol sul-americano, impactando seguidores e investidores ligados ao esporte.",
+  "impactoMercado": "O resultado da partida pode influenciar investidores e patrocinadores do clube, além de afetar ações relacionadas ao futebol.",
+  "entenda": "A Libertadores é o torneio de clubes mais prestigiado da América do Sul, onde os melhores times competem anualmente.",
+  "observar": "Acompanhe o desempenho do Flamengo e do Estudiantes, especialmente após o resultado da partida.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A disputa da Libertadores é relevante para investidores e amantes do futebol, mostrando a importância de acompanhar eventos esportivos e suas implicações financeiras.",
+  "gancho": "*Libertadores*: Flamengo e Estudiantes!",
+  "ideias": [
+   "Flamengo rumo à final da Libertadores?",
+   "Estudiantes desafia Flamengo no Maracanã!",
+   "Onde assistir à semifinal da Libertadores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://www.infomoney.com.br/esportes/flamengo-estudiantes-onde-assistir-libertadores-4/",
+  "publicadoEm": "2026-10-22T19:00:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-46"
+ },
+ {
+  "titulo": "Datafolha indica empate técnico entre Lula e Flávio Bolsonaro",
+  "resumo": "Pesquisa do Datafolha mostra Lula com 46% e Flávio Bolsonaro com 47% em intenções de voto. Empate técnico aparece nos votos válidos, cada um com 50% dos votos.",
+  "fatos": [
+   "Faltando três dias para o segundo turno, pesquisa mostra empate técnico.",
+   "Lula (PT) tem 46%, enquanto Flávio Bolsonaro (PL) registra 47%.",
+   "Votos válidos indicam que ambos têm 50% cada.",
+   "Margem de erro da pesquisa é de dois pontos percentuais.",
+   "Total de 2.154 pessoas foi entrevistado entre 20 e 22 de setembro."
+  ],
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "percentual de votos válidos para cada candidato"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "percentual de indecisos"
+   },
+   {
+    "valor": "5%",
+    "rotulo": "percentual de brancos e nulos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "50%",
+  "porQueImporta": "Esse empate técnico nas intenções de voto pode influenciar a confiança dos investidores no cenário político e econômico do país.",
+  "impactoMercado": "Mudanças nas intenções de voto podem impactar a volatilidade do mercado, especialmente em setores sensíveis à política.",
+  "entenda": "Empate técnico ocorre quando os candidatos estão dentro da margem de erro da pesquisa, indicando incerteza nas preferências eleitorais.",
+  "observar": "É importante acompanhar os desdobramentos nas pesquisas e como elas podem afetar a economia nas semanas seguintes.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender o impacto da política nas suas decisões de investimento é essencial para quem opera ou deseja entrar no mercado.",
+  "gancho": "*Empate técnico* nas eleições, o que isso significa?",
+  "ideias": [
+   "Como o empate técnico pode afetar o mercado?",
+   "Entenda a margem de erro nas pesquisas eleitorais.",
+   "O que acontece com os investidores durante as eleições?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:10:06-03:00",
+  "url": "https://bpmoney.com.br/politica/datafolha-segundo-turno-flavio-bolsonaro-47-lula-46/",
+  "publicadoEm": "2026-10-22T19:08:29-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-47"
+ },
+ {
   "titulo": "Petróleo Brent atinge maior valor desde maio",
   "resumo": "Os preços do petróleo subiram nesta quinta-feira, com o Brent alcançando US$ 113,17, devido às tensões no Oriente Médio e possíveis ações militares dos EUA contra o Irã.",
   "fatos": [

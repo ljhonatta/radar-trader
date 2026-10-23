@@ -1,16 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-22T16:30:55-03:00",
-  "novas": 10,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-10-22T21:10:06-03:00",
+  "novas": 20,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "10 nova(s) e 1 atualizada(s): Alta do petróleo e tensões no Oriente; Petróleo em alta! Entenda o que está acontecendo; Ibovespa em queda: o que fazer?.",
+  "mensagem": "20 nova(s): Bradesco: lucro e inadimplência; Ibovespa e dólar: por que caem?; Taxas dos DIs sobem com eleições.",
   "falhas": [
-   "Sem cotação confiável: Selic meta",
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-22T21:10:06-03:00",
    "2026-10-22T16:30:55-03:00",
    "2026-10-22T11:41:47-03:00",
    "2026-10-21T21:12:40-03:00",
@@ -28,50 +28,56 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "203.997",
-    "var": "-1,21%"
+    "v": "204.120",
+    "var": "-1,15%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,04",
-    "var": "+0,26%"
+    "v": "R$ 5,05",
+    "var": "+0,56%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 5,65",
-    "var": "+0,11%"
+    "v": "R$ 5,67",
+    "var": "+0,45%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 81,4 mil",
-    "var": "-3,60%"
+    "v": "US$ 81,2 mil",
+    "var": "-3,55%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.656",
-    "var": "-1,30%"
+    "v": "7.663",
+    "var": "-1,21%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "28.973",
-    "var": "-2,85%"
+    "v": "28.959",
+    "var": "-2,90%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 113,40",
-    "var": "+4,21%"
+    "v": "US$ 113,08",
+    "var": "-0,08%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.044,00",
-    "var": "-2,55%"
+    "v": "US$ 4.038,50",
+    "var": "-0,54%"
+   },
+   {
+    "k": "SELIC",
+    "nome": "Selic meta",
+    "v": "13,75%",
+    "var": ""
    },
    {
     "k": "IPCA",
@@ -80,14 +86,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qui 16h",
+  "obs": "Fechamento",
+  "hora": "qui 21h",
   "data": "2026-10-22",
-  "atualizadoEm": "2026-10-22T16:30:55-03:00",
-  "ibov": "203.997",
-  "ibovVar": "-1,21%",
-  "dolar": "R$ 5,04",
-  "dolarVar": "+0,26%",
-  "btc": "US$ 81,4 mil"
+  "atualizadoEm": "2026-10-22T21:10:06-03:00",
+  "ibov": "204.120",
+  "ibovVar": "-1,15%",
+  "dolar": "R$ 5,05",
+  "dolarVar": "+0,56%",
+  "btc": "US$ 81,2 mil"
  }
 }
