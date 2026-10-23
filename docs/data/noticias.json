@@ -1,5 +1,726 @@
 [
  {
+  "titulo": "Bradesco projeta aumento na inadimplência do crédito",
+  "resumo": "O CEO do Bradesco alerta para um aumento da inadimplência em todo o sistema financeiro, mesmo com lucros recordes. Ações do banco caem com a notícia.",
+  "fatos": [
+   "Marcelo Noronha, CEO do Bradesco, afirma que a inadimplência no sistema financeiro vai apertar.",
+   "O lucro líquido do Bradesco entre janeiro e setembro de 2026 foi de R$ 20,9 bilhões, alta de 15,6%.",
+   "As ações do Bradesco caíam 2,23%, cotadas a R$ 19,77, após o anúncio.",
+   "A inadimplência acima de 90 dias subiu para 4,6% e as Provisões para Devedores Duvidosos somaram R$ 30,2 bilhões, crescimento de 24,4%."
+  ],
+  "numeros": [
+   {
+    "valor": "4,6%",
+    "rotulo": "Inadimplência acima de 90 dias"
+   },
+   {
+    "valor": "R$ 30,2 bilhões",
+    "rotulo": "Provisões para Devedores Duvidosos"
+   },
+   {
+    "valor": "R$ 20,9 bilhões",
+    "rotulo": "Lucro líquido do Bradesco"
+   },
+   {
+    "valor": "2,23%",
+    "rotulo": "Queda das ações do Bradesco"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 20,9 bilhões",
+  "porQueImporta": "O aumento da inadimplência pode pressionar o custo do crédito e impactar a rentabilidade de bancos e empresas do setor financeiro.",
+  "impactoMercado": "A expectativa de inadimplência crescente pode influenciar decisões de investimento e estratégias bancárias, afetando ações de instituições financeiras.",
+  "entenda": "A inadimplência se refere ao não pagamento de dívidas por consumidores ou empresas, um indicador importante da saúde do crédito em uma economia.",
+  "observar": "Acompanhe os próximos relatórios de resultados dos bancos e mudanças nas taxas de juros, que podem impactar a inadimplência.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia destaca o desafio de gestão de risco em um cenário de inadimplência crescente, relevante para quem deseja entender o mercado financeiro.",
+  "gancho": "*Inadimplência* e *Lucro* em foco",
+  "ideias": [
+   "Aumento da inadimplência: O que esperar?",
+   "Bradesco: Lucro alto, mas desafios pela frente",
+   "Como a inadimplência afeta seu investimento?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/bradesco-inadimplencia-generalizada-acoes-caem-pregao/",
+  "publicadoEm": "2026-10-23T11:22:04-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-01"
+ },
+ {
+  "titulo": "Ações da Kering despencam 12% e fechamentos de lojas se aceleram",
+  "resumo": "Kering, que controla a Gucci, enfrenta quedas nas vendas e anunciou o fechamento de 125 lojas até o fim do ano. A crise no setor de luxo avança.",
+  "fatos": [
+   "As ações da Kering caíram 12% após mais quedas nas vendas.",
+   "A empresa planeja fechar 125 lojas até o final do ano.",
+   "Conflitos no Oriente Médio e taxações na China agravam a situação.",
+   "A Hermès também relatou uma queda de 2% nas vendas no terceiro trimestre.",
+   "O petróleo atingiu seu maior nível desde maio, aumentando a pressão sobre os consumidores."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "Kering caiu 12%",
+  "porQueImporta": "Essas quedas refletem uma crise no setor de luxo, impactando as estratégias das empresas e a confiança dos investidores.",
+  "impactoMercado": "A pressão nas vendas pode levar a novas estratégias, como reduções de preços e mais fechamentos, impactando a dinâmica do mercado de luxo.",
+  "entenda": "O setor de luxo é sensível a fatores econômicos e políticos, como péssimas vendas podem afetar a percepção de mercado e os limites de cobrança.",
+  "observar": "Fique atento aos resultados financeiros e planos de recuperação de marcas de luxo nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender a Kering pode ajudar investidores a avaliar perigos e oportunidades no setor de luxo, além de conhecer a Trader School.",
+  "gancho": "*Kering*: Queda de *ações* e *planos* de fechamento",
+  "ideias": [
+   "O que leva a Kering a fechar lojas?",
+   "Como o conflito do Oriente Médio afeta o sector de luxo?",
+   "Entenda o impacto do aumento do petróleo no mercado."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://bpmoney.com.br/economia/internacional-economia/dona-da-gucci-recua-12-acoes-kering-queda-vendas/",
+  "publicadoEm": "2026-10-23T11:24:42-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-02"
+ },
+ {
+  "titulo": "Prévia da inflação em outubro recua para 0,32%",
+  "resumo": "A prévia da inflação oficial para outubro foi de 0,32%, menos da metade de setembro, segundo o IBGE. O acumulado em 12 meses é de 4,62%, acima da meta do governo.",
+  "fatos": [
+   "A prévia da inflação oficial de outubro ficou em 0,32%, uma queda em relação a 0,7% no mês anterior.",
+   "O IPCA-15 acumula 4,62% em 12 meses, acima da meta de 4,5% ao ano do governo.",
+   "Em setembro, o acumulado de 12 meses era de 4,47%.",
+   "Os alimentos e bebidas subiram 0,88%, enquanto o grupo habitação teve uma retração de -0,10%.",
+   "A alta de transportes foi influenciada pelas combustíveis, que aumentaram 1,2%."
+  ],
+  "numeros": [
+   {
+    "valor": "0,32",
+    "rotulo": "prévia da inflação em outubro"
+   },
+   {
+    "valor": "4,62",
+    "rotulo": "acumulado em 12 meses"
+   },
+   {
+    "valor": "0,7",
+    "rotulo": "prévia do mês anterior"
+   },
+   {
+    "valor": "4,5",
+    "rotulo": "meta de inflação do governo"
+   },
+   {
+    "valor": "1,2",
+    "rotulo": "alta dos combustíveis"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "4,47%",
+    "depois": "4,62%"
+   }
+  ],
+  "destaque": "0,32",
+  "porQueImporta": "A inflação impacta diretamente o poder de compra do consumidor e, assim, influencia decisões de investimentos e políticas econômicas.",
+  "impactoMercado": "O recuo na inflação pode indicar uma desaceleração nos preços, mas ainda há incertezas. Isso pode afetar a confiança de investidores e as expectativas de juros.",
+  "entenda": "O IPCA-15 é uma prévia do IPCA, indicador central da inflação no Brasil, que guia a política de metas de inflação do governo.",
+  "observar": "Fique atento à divulgação do IPCA cheio no dia 12 de novembro e como isso pode afetar as expectativas do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Essa notícia sobre a inflação é crucial para entender como as políticas monetárias podem afetar o mercado e a economia.",
+  "gancho": "*Inflação em queda* no Brasil",
+  "ideias": [
+   "Como a inflação afeta seus investimentos?",
+   "Entenda a prévia do IPCA e sua importância!",
+   "O que a queda na inflação significa para você?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "seta",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previa-da-inflacao-oficial-cai-pela-metade-e-fecha-outubro-em-032",
+  "publicadoEm": "2026-10-23T10:42:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-03"
+ },
+ {
+  "titulo": "Investidores estrangeiros elevam proteção contra queda da Bolsa",
+  "resumo": "A compra de opções de venda cresce, refletindo cautela de investidores após o segundo turno. Contratos do EWZ saltaram para 12,2 milhões, com forte especulação.",
+  "fatos": [
+   "Os contratos de opções em aberto do EWZ atingiram 12,2 milhões na última quarta-feira, subindo de 9,5 milhões desde o início de outubro.",
+   "A maioria das opções em aberto é de compra, com 8,7 milhões, mas 3,5 milhões são opções de venda, indicando cautela.",
+   "A volatilidade das opções aumentou significativamente, com prêmios subindo, evidenciando a disposição dos investidores de pagar alto por proteção.",
+   "Após o primeiro turno, a demanda por opções de venda cresceu mais de 90% entre os investidores.",
+   "A expectativa é que o mercado reaja de forma diferente a depender do resultado das eleições."
+  ],
+  "numeros": [
+   {
+    "valor": "12,2 milhões",
+    "rotulo": "Contratos de opções do EWZ em aberto"
+   },
+   {
+    "valor": "90%",
+    "rotulo": "Crescimento na demanda por puts"
+   },
+   {
+    "valor": "204 mil",
+    "rotulo": "Ibovespa após o primeiro turno"
+   },
+   {
+    "valor": "41,80",
+    "rotulo": "Preco do EWZ na quinta-feira"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "12,2 milhões",
+  "porQueImporta": "A busca por opções de venda mostra a preocupação dos investidores com a incerteza política, refletindo a necessidade de proteção em momentos de volatilidade.",
+  "impactoMercado": "Dependendo do resultado da eleição, o mercado pode reagir com alta ou correção significativa, afetando a confiança e a estratégia de investimentos.",
+  "entenda": "O EWZ é um fundo que replica ações brasileiras, permitindo acesso ao mercado financeiro nacional por investidores estrangeiros.",
+  "observar": "Acompanhe a reação do mercado na segunda-feira, especialmente para o EWZ e o Ibovespa, após a divulgação dos resultados eleitorais.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender as estratégias de hedge e o uso de opções é crucial para quem deseja operar no mercado, especialmente em períodos de incerteza.",
+  "gancho": "*Investidores* *estrangeiros* buscam *proteção*",
+  "ideias": [
+   "Aposte em opções: proteção no mercado financeiro",
+   "Cenário eleitoral e a alta nas opções de venda",
+   "Como o EWZ reflete a confiança dos investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://www.infomoney.com.br/onde-investir/investidor-estrangeiro-eleva-compra-de-seguro-contra-queda-da-bolsa-apos-o-2o-turno/",
+  "publicadoEm": "2026-10-23T11:00:11-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-04"
+ },
+ {
+  "titulo": "Juros DI longos sobem com pesquisas eleitorais",
+  "resumo": "Os juros futuros médios e longos têm leve alta, enquanto o curto permanece estável, mesmo com IPCA-15 abaixo das expectativas. A cautela é reflexo das eleições e do avanço do petróleo.",
+  "fatos": [
+   "Os juros futuros estão apresentando leve avanço devido a pesquisas eleitorais acirradas.",
+   "O IPCA-15 subiu 0,32% em outubro, abaixo da expectativa de 0,37%.",
+   "A taxa DI está em 13,501%, ligeiramente acima da anterior de 13,496%.",
+   "O DI de janeiro de 2029 subiu para 12,690%, e o de janeiro de 2031 para 12,695%.",
+   "A alta do petróleo e do dólar também afeta o cenário local."
+  ],
+  "numeros": [
+   {
+    "valor": "0,32%",
+    "rotulo": "IPCA-15 em outubro"
+   },
+   {
+    "valor": "13,501%",
+    "rotulo": "Taxa DI atual"
+   },
+   {
+    "valor": "12,690%",
+    "rotulo": "DI janeiro 2029"
+   },
+   {
+    "valor": "12,695%",
+    "rotulo": "DI janeiro 2031"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "DI atual",
+    "antes": "13,496%",
+    "depois": "13,501%"
+   },
+   {
+    "item": "DI janeiro 2029",
+    "antes": "12,664%",
+    "depois": "12,690%"
+   },
+   {
+    "item": "DI janeiro 2031",
+    "antes": "12,665%",
+    "depois": "12,695%"
+   }
+  ],
+  "destaque": "0,32%",
+  "porQueImporta": "Entender as oscilações dos juros DI é crucial para avaliar o custo do dinheiro e suas implicações em diversas aplicações e investimentos.",
+  "impactoMercado": "Os juros mais altos podem afetar a tomada de crédito e, consequentemente, o consumo e os investimentos no país, influenciando o mercado financeiro.",
+  "entenda": "Os juros DI refletem as expectativas do mercado sobre a taxa Selic e são fundamentais para a precificação de diversas aplicações financeiras.",
+  "observar": "Fique atento a novas pesquisas e resultados das eleições, que podem continuar a influenciar as expectativas sobre os juros.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esse cenário evidencia a importância de acompanhar indicadores econômicos e políticos para compreender as oscilações do mercado financeiro.",
+  "gancho": "*Juros DI* e *eleições*: o que esperar?",
+  "ideias": [
+   "Efeitos das eleições nos juros DI",
+   "Como o IPCA-15 impacta os juros?",
+   "Entenda os juros futuros e a economia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://www.infomoney.com.br/economia/juros-di-longos-sobem-com-pesquisas-curtos-ficam-estavel-apos-ipca-15-fraco/",
+  "publicadoEm": "2026-10-23T10:39:26-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-05"
+ },
+ {
+  "titulo": "Ibovespa futuro avança com IPCA-15 baixo antes do 2º turno",
+  "resumo": "O Ibovespa futuro iniciou o pregão em alta com a divulgação do IPCA-15. O dólar também subiu, refletindo tensões geopolíticas e o clima eleitoral.",
+  "fatos": [
+   "O Ibovespa futuro subiu 0,78%, alcançando 207.750 pontos.",
+   "O dólar à vista abriu a R$ 5,0557, com alta de 0,32%.",
+   "A prévia da inflação, IPCA-15, subiu 0,32% em outubro, acumulando 4,62% em 12 meses.",
+   "No cenário eleitoral, Flávio Bolsonaro e Luiz Inácio Lula da Silva estão empatados com 50% dos votos válidos.",
+   "Os preços do petróleo estão acima de US$ 110 por barril devido a tensões geopolíticas."
+  ],
+  "numeros": [
+   {
+    "valor": "207.750",
+    "rotulo": "pontos do Ibovespa futuro"
+   },
+   {
+    "valor": "5,0557",
+    "rotulo": "cotação do dólar à vista"
+   },
+   {
+    "valor": "0,32%",
+    "rotulo": "alta do IPCA-15"
+   },
+   {
+    "valor": "4,62%",
+    "rotulo": "inflação acumulada em 12 meses"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "0,70%",
+    "depois": "0,32%"
+   },
+   {
+    "item": "votos válidos",
+    "antes": "51%",
+    "depois": "50%"
+   }
+  ],
+  "destaque": "0,32%",
+  "porQueImporta": "Entender os movimentos do Ibovespa e do dólar antes das eleições ajuda investidores a ajustar suas estratégias.",
+  "impactoMercado": "A evolução das eleições pode influenciar a volatilidade do mercado e a direção dos investimentos em curto prazo.",
+  "entenda": "O IPCA-15 é uma prévia da inflação oficial, que ajuda a medir a variação de preços no Brasil e afeta decisões de política monetária.",
+  "observar": "Acompanhe o resultado das eleições e os próximos dados de inflação, que podem impactar o mercado de ações e câmbio.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia ilustra a interconexão entre política e economia, essencial para quem deseja entender o mercado financeiro.",
+  "gancho": "*Ibovespa* futuro em alta: o que isso significa?",
+  "ideias": [
+   "Como o IPCA-15 afeta o seu investimento?",
+   "O que esperar do dólar em tempos de eleições?",
+   "Flávio Bolsonaro e Lula: impacto no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-futuro-23-10-26-lils/",
+  "publicadoEm": "2026-10-23T09:13:19-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-06"
+ },
+ {
+  "titulo": "IPCA-15 apresenta queda, mas inflação de serviços preocupa",
+  "resumo": "O IPCA-15 de outubro trouxe uma surpresa positiva, mas a inflação de serviços continua elevada, indicando que o cenário inflacionário ainda é desafiador.",
+  "fatos": [
+   "O IPCA-15 de outubro subiu 0,32%, abaixo da expectativa de 0,49%.",
+   "A queda das passagens aéreas foi o principal fator para a redução do índice, com impacto de 0,12 ponto percentual.",
+   "Os núcleos de inflação avançaram 0,31%, abaixo da projeção de 0,35% do ASA.",
+   "Os preços de serviços continuam elevados, mantendo tensões inflacionárias na economia."
+  ],
+  "numeros": [
+   {
+    "valor": "0,32%",
+    "rotulo": "IPCA-15 de outubro"
+   },
+   {
+    "valor": "0,12 ponto percentual",
+    "rotulo": "Impacto das passagens aéreas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "0,49%",
+    "depois": "0,32%"
+   },
+   {
+    "item": "Núcl. de Inflação",
+    "antes": "0,35%",
+    "depois": "0,31%"
+   }
+  ],
+  "destaque": "0,32%",
+  "porQueImporta": "A inflação afeta diretamente o poder de compra e as decisões financeiras dos investidores, com implicações na política monetária e na economia em geral.",
+  "impactoMercado": "A continuidade da inflação elevada nos serviços pode resultar em mudanças nas expectativas de juros, afetando a rentabilidade de investimentos.",
+  "entenda": "O IPCA é o Índice de Preços ao Consumidor Amplo, usado como referência para a inflação no Brasil, afetando a política monetária e os investimentos.",
+  "observar": "Acompanhe a evolução dos preços de serviços e como esse fator pode impactar a definição dos juros e a inflação oficial nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender a inflação é essencial para investidores que buscam proteger seus ativos e antecipar decisões de mercado em resposta às mudanças econômicas.",
+  "gancho": "*IPCA-15*: incerteza no cenário inflacionário",
+  "ideias": [
+   "O que significa o IPCA-15 para sua carteira?",
+   "Como a inflação de serviços impacta seus investimentos",
+   "Análise do IPCA-15: desafios e oportunidades"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "relogio",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://bpmoney.com.br/mercado/ipca-15-surpreende-mas-inflacao-de-servicos-ainda-preocupa-avalia-asa/",
+  "publicadoEm": "2026-10-23T11:01:53-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-07"
+ },
+ {
+  "titulo": "IPCA-15 fraco impulsiona Ibovespa antes das eleições",
+  "resumo": "O Ibovespa mostra leve alta após divulgação do IPCA-15, enquanto o cenário eleitoral se intensifica. As tensões externas também influenciam o mercado.",
+  "fatos": [
+   "O Ibovespa opera em alta, com leve variação de +0,09%, aos 204.304,67 pontos.",
+   "O IPCA-15 subiu 0,32% em outubro, acumulando alta de 4,62% em 12 meses.",
+   "O dólar à vista opera a R$ 5,0403, com leve alta de 0,03%.",
+   "As tensões no Oriente Médio mantêm os preços do petróleo em alta.",
+   "Bradesco reporta lucro de R$ 7,1 bilhões no 3T26, avançando 14,6% em relação ao ano anterior."
+  ],
+  "numeros": [
+   {
+    "valor": "0,32%",
+    "rotulo": "alta do IPCA-15 em outubro"
+   },
+   {
+    "valor": "204.304,67",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,0403",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "R$ 7,1 bilhões",
+    "rotulo": "lucro do Bradesco"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "0,70%",
+    "depois": "0,32%"
+   },
+   {
+    "item": "votos válidos",
+    "antes": "51%",
+    "depois": "50%"
+   },
+   {
+    "item": "votos totais de Lula",
+    "antes": "45%",
+    "depois": "46%"
+   }
+  ],
+  "destaque": "0,32%",
+  "porQueImporta": "Os dados de inflação e as eleições podem afetar diretamente as decisões de investimento, influenciando a volatilidade do mercado.",
+  "impactoMercado": "O desempenho do Ibovespa e do dólar pode ser afetado por expectativas de resultados eleitorais e a inflação controlada contribui para a estabilidade econômica.",
+  "entenda": "O IPCA-15 é uma prévia da inflação que ajuda investidores a entender tendências inflacionárias antes da divulgação do IPCA oficial.",
+  "observar": "Fique atento às reações do mercado após o debate de hoje e as informações sobre os resultados das eleições no domingo.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender como as escolhas política e econômica influenciam o mercado é essencial para qualquer investidor. Conheça mais sobre o cenário no Trader School.",
+  "gancho": "*IPCA-15 fraco* e *eleições* elevam Ibovespa",
+  "ideias": [
+   "Como o IPCA-15 impacta seus investimentos?",
+   "Eleições: O que o resultado pode significar para sua carteira?",
+   "Descubra como as tensões externas afetam o mercado brasileiro."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-23-10-26-lils/",
+  "publicadoEm": "2026-10-23T10:15:18-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-08"
+ },
+ {
+  "titulo": "Wall Street recua com petróleo acima de US$ 100",
+  "resumo": "Os índices de Wall Street caem nesta sexta-feira devido ao petróleo nas máximas de cinco meses, provocando preocupações com a inflação. O Ibovespa também apresenta queda.",
+  "fatos": [
+   "Wall Street opera em queda nesta sexta-feira com o petróleo acima de US$ 100 por barril.",
+   "O preço do Brent para dezembro subiu 1,77%, alcançando US$ 115,17.",
+   "O Ibovespa perde 0,03%, cotado a 204.062,40 pontos.",
+   "Bradesco (BBDC4) cai 1,78%, a R$ 19,86, influenciado pelo balanço do 3T26."
+  ],
+  "numeros": [
+   {
+    "valor": "115,17",
+    "rotulo": "Preço do Brent em US$ por barril"
+   },
+   {
+    "valor": "204.062,40",
+    "rotulo": "Ibovespa em pontos"
+   },
+   {
+    "valor": "1,78%",
+    "rotulo": "Queda do Bradesco (BBDC4)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 115,17",
+  "porQueImporta": "A alta do petróleo pode aumentar a inflação, impactando negativamente os mercados e a confiança dos investidores.",
+  "impactoMercado": "A continuidade da pressão inflacionária pode levar a decisões mais cautelosas por parte dos investidores e afetar o desempenho dos ativos financeiros.",
+  "entenda": "O petróleo é um dos principais insumos da economia, e sua alta pode repercutir nos custos de transporte e produção.",
+  "observar": "Fique atento ao comportamento dos preços do petróleo e a possíveis reações dos índices de Wall Street e do Ibovespa nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender os impactos da inflação e dos preços do petróleo pode ajudar a tomar decisões mais informadas no mercado financeiro.",
+  "gancho": "Petróleo impacta *Wall Street* e *Ibovespa*",
+  "ideias": [
+   "Queda de Wall Street: Entenda o impacto do petróleo",
+   "Inflacionário? O que os preços do petróleo significam",
+   "Ibovespa e petróleo: O que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://www.moneytimes.com.br/wall-street-abertura-23-10-26-lils/",
+  "publicadoEm": "2026-10-23T10:46:11-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-09"
+ },
+ {
+  "titulo": "Ibovespa sobe com IPCA-15 fraco e dólar avança",
+  "resumo": "O Ibovespa sobe em meio à divulgação do IPCA-15, que apresenta inflação abaixo do esperado. O dólar também se valoriza, refletindo o cenário atual do mercado financeiro.",
+  "fatos": [
+   "O IPCA-15 subiu 0,32% em outubro, desacelerando em relação ao avanço de 0,70% em setembro.",
+   "A alta acumulada em 12 meses do IPCA-15 é de 4,62%, acima dos 4,47% do mês anterior.",
+   "O Ibovespa opera em alta nos primeiros minutos do pregão, mas enfrenta limitações devido ao cenário externo e preços do petróleo.",
+   "O dólar à vista abriu a R$ 5,0557, com alta de 0,32%."
+  ],
+  "numeros": [
+   {
+    "valor": "0,32%",
+    "rotulo": "Variação do IPCA-15 em outubro"
+   },
+   {
+    "valor": "4,62%",
+    "rotulo": "IPCA-15 acumulado em 12 meses"
+   },
+   {
+    "valor": "R$ 5,0557",
+    "rotulo": "Cotação do dólar à vista"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "0,70%",
+    "depois": "0,32%"
+   },
+   {
+    "item": "IPCA acumulado em 12 meses",
+    "antes": "4,47%",
+    "depois": "4,62%"
+   }
+  ],
+  "destaque": "R$ 5,0557",
+  "porQueImporta": "Compreender a evolução do IPCA-15 é essencial para investidores, já que a inflação influencia as decisões do Banco Central sobre a taxa de juros.",
+  "impactoMercado": "O movimento do dólar e a recuperação do Ibovespa podem impactar a confiança dos investidores no mercado, afetando a liquidez e volatilidade dos ativos.",
+  "entenda": "O IPCA-15 é uma prévia da inflação oficial, antecipando comportamento dos índices de preços que impactam diretamente a economia e as políticas monetárias.",
+  "observar": "Acompanhar a evolução do dólar e a repercussão do resultado do segundo turno das eleições pode trazer mais volatilidade aos mercados.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como indicadores como o IPCA-15 afetam o comportamento do mercado é crucial para quem quer operar de forma informada.",
+  "gancho": "*Ibovespa* reage ao *IPCA-15* e ao *dólar*",
+  "ideias": [
+   "Como o IPCA-15 impacta seus investimentos",
+   "Dólar em alta: o que isso significa?",
+   "Entenda o que é o IPCA-15"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "url": "https://www.moneytimes.com.br/tempo-real-23-10-26-apsa-lils/",
+  "publicadoEm": "2026-10-23T06:00:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-10"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "largest-company-end-of-december-2026",
+  "titulo": "Mercado de previsões vê 57% de chance de *NVIDIA* ser a maior empresa em dezembro",
+  "resumo": "Houve uma probabilidade de 57% de que a NVIDIA será a maior empresa em termos de valor de mercado até o final de dezembro de 2026. Essa é uma visão do mercado e não uma previsão oficial.",
+  "probs": [
+   {
+    "opcao": "NVIDIA",
+    "prob": 57.0
+   },
+   {
+    "opcao": "Apple",
+    "prob": 41.7
+   },
+   {
+    "opcao": "Alphabet",
+    "prob": 1.1
+   },
+   {
+    "opcao": "Microsoft",
+    "prob": 0.4
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 92 mil",
+  "fatos": [
+   "NVIDIA: 57,0%",
+   "Apple: 41,7%",
+   "Alphabet: 1,1%",
+   "Microsoft: 0,4%"
+  ],
+  "numeros": [
+   {
+    "valor": "57,0%",
+    "rotulo": "NVIDIA"
+   },
+   {
+    "valor": "41,7%",
+    "rotulo": "Apple"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "Alphabet"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Microsoft"
+   }
+  ],
+  "destaque": "57,0%",
+  "gancho": "*Gigantes em competição*, *NVIDIA em foco*",
+  "entenda": "Avaliações de empresas ajudam investidores a entender tendências do mercado. Valor de mercado elevado pode indicar uma forte performance financeira e aceitação do produto.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+  "publicadoEm": "2026-10-23T11:28:02-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-23T11:28:02-03:00",
+  "data": "2026-10-23",
+  "status": "nova",
+  "id": "2026-10-23-p1"
+ },
+ {
   "titulo": "Lucro do Bradesco cresce, mas inadimplência sobe no 3º tri",
   "resumo": "O Bradesco reportou um lucro de R$ 7,11 bilhões no terceiro trimestre, com aumento da inadimplência para 4,6%. O cenário de juros altos impacta a performance do banco.",
   "fatos": [
@@ -4352,71 +5073,6 @@
   "publicadoEm": "2026-10-21T16:18:28-03:00",
   "data": "2026-10-21",
   "id": "2026-10-21-41"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-on-october-21-2026",
-  "titulo": "Mercado de previsões vê 46% de chance do Bitcoin atingir 85 mil até 21 de outubro",
-  "resumo": "Este é um cenário baseado em apostas, não uma previsão.",
-  "probs": [
-   {
-    "opcao": "↑ 85,000",
-    "prob": 46.0
-   },
-   {
-    "opcao": "↑ 86,000",
-    "prob": 5.0
-   },
-   {
-    "opcao": "↓ 82,000",
-    "prob": 2.9
-   },
-   {
-    "opcao": "↑ 87,000",
-    "prob": 2.1
-   }
-  ],
-  "prazo": "2026-10-22",
-  "volume24h": "US$ 397 mil",
-  "fatos": [
-   "↑ 85,000: 46,0%",
-   "↑ 86,000: 5,0%",
-   "↓ 82,000: 2,9%",
-   "↑ 87,000: 2,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "46,0%",
-    "rotulo": "↑ 85,000"
-   },
-   {
-    "valor": "5,0%",
-    "rotulo": "↑ 86,000"
-   },
-   {
-    "valor": "2,9%",
-    "rotulo": "↓ 82,000"
-   },
-   {
-    "valor": "2,1%",
-    "rotulo": "↑ 87,000"
-   }
-  ],
-  "destaque": "46,0%",
-  "gancho": "*Expectativa* sobre preço do Bitcoin",
-  "entenda": "O preço do Bitcoin é influenciado por diversos fatores, como demanda de mercado, regulamentações e adoção. Previsões variam conforme o movimento do mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-october-21-2026",
-  "publicadoEm": "2026-10-21T16:37:34-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-21T16:37:34-03:00",
-  "data": "2026-10-21",
-  "status": "nova",
-  "id": "2026-10-21-p1"
  },
  {
   "tipo": "sinal",
@@ -9460,12 +10116,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "90,5%",
+  "destaque": "76,0%",
   "fatos": [
-   "↑ 85,000: 90,5%",
-   "↓ 82,500: 64,0%",
-   "↑ 87,500: 51,5%",
-   "↓ 80,000: 31,0%"
+   "↑ 82,500: 76,0%",
+   "↓ 80,000: 71,0%",
+   "↑ 85,000: 37,5%",
+   "↓ 77,500: 33,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -9476,50 +10132,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↑ 85,000",
-    "prob": 90.5
-   },
-   {
-    "opcao": "↓ 82,500",
-    "prob": 64.0
-   },
-   {
-    "opcao": "↑ 87,500",
-    "prob": 51.5
+    "opcao": "↑ 82,500",
+    "prob": 76.0
    },
    {
     "opcao": "↓ 80,000",
-    "prob": 31.0
+    "prob": 71.0
+   },
+   {
+    "opcao": "↑ 85,000",
+    "prob": 37.5
+   },
+   {
+    "opcao": "↓ 77,500",
+    "prob": 33.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Probabilidade baseada nas apostas dos participantes do mercado.",
+  "resumo": "Apostadores acreditam que existe uma probabilidade de 76% para que o Bitcoin atinja 82,500 até o final do mês. Essa é uma análise de mercado e não uma previsão oficial.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 90,5% de chance do Bitcoin atingir 85 mil até novembro",
+  "titulo": "Mercado de previsões vê 76% de chance de *Bitcoin a 82,500* em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 325 mil",
+  "volume24h": "US$ 215 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "90,5%",
+    "valor": "76,0%",
+    "rotulo": "↑ 82,500"
+   },
+   {
+    "valor": "71,0%",
+    "rotulo": "↓ 80,000"
+   },
+   {
+    "valor": "37,5%",
     "rotulo": "↑ 85,000"
    },
    {
-    "valor": "64,0%",
-    "rotulo": "↓ 82,500"
-   },
-   {
-    "valor": "51,5%",
-    "rotulo": "↑ 87,500"
-   },
-   {
-    "valor": "31,0%",
-    "rotulo": "↓ 80,000"
+    "valor": "33,5%",
+    "rotulo": "↓ 77,500"
    }
   ],
-  "atualizadoEm": "2026-10-21T16:37:34-03:00"
+  "atualizadoEm": "2026-10-23T11:28:02-03:00"
  },
  {
   "categoria": "Commodities",
@@ -9889,54 +10545,6 @@
   "id": "2026-10-17-03"
  },
  {
-  "categoria": "Comportamento do investidor",
-  "coletadoEm": "2026-10-16T11:20:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "9,9% x 8,7%",
-  "fatos": [
-   "A orientação é distinguir queda de preço de queda de valor do fundo.",
-   "Sinais de piora incluem vacância maior, contratos rompidos e problemas de gestão.",
-   "Se os fundamentos estão intactos, a queda pode permitir comprar mais cotas por menos.",
-   "Estudo da Morningstar mostra fundos rendendo 9,9% ao ano em 10 anos até 2025.",
-   "O dinheiro do investidor médio rendeu 8,7% ao ano, por comprar e vender na hora errada."
-  ],
-  "fonte": "Bora Investir (B3)",
-  "gancho": "*FII* caiu: preço ou valor?",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T11:26:00-03:00",
-  "resumo": "Especialista orienta checar vacância, contratos e gestão antes de reagir à volatilidade dos fundos imobiliários; estudo mostra que o investidor ganha menos que o próprio fundo.",
-  "status": "nova",
-  "titulo": "Vender FII na queda? Veja como separar queda de preço de queda de valor",
-  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/como-tirar-proveito-da-volatilidade-nos-fiis/",
-  "id": "2026-10-16-27"
- },
- {
-  "categoria": "Renda fixa",
-  "coletadoEm": "2026-10-16T11:20:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "1º/nov",
-  "fatos": [
-   "A CVM autorizou gestores e administradores de FIDCs a acessar o SCR, base de crédito do Banco Central.",
-   "O pedido partiu da Anbima.",
-   "O acesso começa em 1º de novembro.",
-   "A Resolução CVM 247 inclui a consulta ao SCR na análise dos créditos comprados pelos fundos.",
-   "Securitizadoras terão 12 meses para enviar mensalmente seus dados de crédito ao SCR."
-  ],
-  "fonte": "Investidor Institucional",
-  "gancho": "*FIDCs* ganham raio-x do crédito",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T22:38:00-03:00",
-  "resumo": "CVM liberou acesso de gestores e administradores de FIDCs ao sistema de informações de crédito do BC, antes restrito a bancos, a partir de 1º de novembro.",
-  "status": "nova",
-  "titulo": "Gestores de FIDCs vão poder consultar dados de crédito do Banco Central",
-  "url": "https://investidorinstitucional.com.br/mercados/gestao-de-recursos/gestores-de-fidcs-vao-acessar-informacoes-de-credito-do-bc/",
-  "id": "2026-10-16-26"
- },
- {
   "categoria": "Empresas",
   "coletadoEm": "2026-10-16T11:20:00-03:00",
   "data": "2026-10-16",
@@ -10007,30 +10615,6 @@
   "id": "2026-10-16-17"
  },
  {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+29%",
-  "fatos": [
-   "Na Europa, a moagem cresceu 3,2% no ano, primeira alta trimestral desde 2024.",
-   "Na Ásia, a alta foi de 29%, o maior volume trimestral desde 2011.",
-   "Na América do Norte, houve queda de 2,5%, com menos fábricas respondendo.",
-   "Os futuros de cacau em Nova York subiram 1,7%, a quarta alta seguida.",
-   "Analistas questionam se o ritmo se mantém no 4º trimestre."
-  ],
-  "fonte": "Bloomberg Línea",
-  "gancho": "*Cacau* volta a esquentar",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 13,
-  "publicadoEm": "2026-10-15T21:30:00-03:00",
-  "resumo": "A moagem de cacau do 3º trimestre superou as previsões na Europa e na Ásia, sinal de retomada da demanda por chocolate, e os futuros subiram pelo 4º dia.",
-  "status": "nova",
-  "titulo": "Moagem de cacau surpreende na Europa e na Ásia e futuros sobem",
-  "url": "https://www.bloomberglinea.com.br/agro/chocolate-em-alta-moagem-de-cacau-supera-previsoes-e-sinaliza-retomada-da-demanda/",
-  "id": "2026-10-16-21"
- },
- {
   "categoria": "Empresas",
   "coletadoEm": "2026-10-16T10:45:00-03:00",
   "data": "2026-10-16",
@@ -10076,30 +10660,6 @@
   "titulo": "Day trade: Ibovespa tem suporte em 203.980 pontos após três quedas",
   "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-16102026/",
   "id": "2026-10-16-16"
- },
- {
-  "categoria": "Comportamento do investidor",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "1.000 pts",
-  "fatos": [
-   "A ferramenta avalia cinco pilares: diversificação, retorno, liquidez, proteção e eficiência.",
-   "A carteira recebe uma pontuação de até 1.000 pontos.",
-   "É gratuita e exige apenas R$ 1 investido; a liberação é gradual no Brasil.",
-   "O produto não faz compras: a decisão continua com o cliente.",
-   "O Nubank diz ter mais de 118 milhões de clientes no Brasil."
-  ],
-  "fonte": "Bloomberg Línea",
-  "gancho": "*IA* dá nota à sua *carteira*",
-  "icone": "alvo",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T10:07:00-03:00",
-  "resumo": "O Nu Smart Invest analisa a carteira do cliente, atribui nota de até 1.000 pontos e sugere ajustes de alocação, sem executar compras automaticamente.",
-  "status": "nova",
-  "titulo": "Nubank lança IA gratuita que dá nota à carteira de investimentos",
-  "url": "https://www.bloomberglinea.com.br/tech/nubank-lanca-ferramenta-de-ia-que-promete-recomendacoes-neutras-de-investimento/",
-  "id": "2026-10-16-11"
  },
  {
   "categoria": "Economia",
@@ -10223,30 +10783,6 @@
   "id": "2026-10-16-15"
  },
  {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 56",
-  "fatos": [
-   "O preço-alvo de RENT3 passou de R$ 45 para R$ 56, com recomendação de compra.",
-   "A projeção de seminovos vendidos no 3º tri caiu de 93,3 mil para 89,4 mil.",
-   "O banco estima lucro líquido de R$ 1,04 bilhão no trimestre.",
-   "O Citi vê risco de depreciação maior por causa do mercado de usados.",
-   "Juros menores são citados como principal fator positivo."
-  ],
-  "fonte": "Bloomberg Línea",
-  "gancho": "*Localiza*: alvo maior, alerta junto",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 11,
-  "publicadoEm": "2026-10-15T14:21:00-03:00",
-  "resumo": "O Citi subiu o alvo da Localiza e manteve compra, mas alerta que crédito mais caro e menor venda de seminovos devem pressionar margens no 3º trimestre.",
-  "status": "nova",
-  "titulo": "Citi eleva preço-alvo da Localiza para R$ 56, mas vê seminovos fracos",
-  "url": "https://www.bloomberglinea.com.br/negocios/cenario-desafiador-em-seminovos-coloca-pressao-sobre-localiza-aponta-citi/",
-  "id": "2026-10-16-19"
- },
- {
   "categoria": "Global",
   "coletadoEm": "2026-10-16T10:45:00-03:00",
   "data": "2026-10-16",
@@ -10296,30 +10832,6 @@
   "id": "2026-10-16-14"
  },
  {
-  "categoria": "Produtos",
-  "coletadoEm": "2026-10-16T10:40:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+79%",
-  "fatos": [
-   "O volume médio diário de opções foi de cerca de R$ 1,4 bilhão em 2026, contra R$ 781 milhões em 2025.",
-   "As opções semanais mais que dobraram, de R$ 50 milhões para R$ 106 milhões por dia.",
-   "Um pregão de outubro movimentou R$ 2,96 bilhões em opções mensais e semanais, recorde.",
-   "As opções de índice somam R$ 273 milhões por dia em 2026, ante R$ 94 milhões em 2025.",
-   "As posições em aberto chegaram a 8,5 bilhões de contratos em 9 de outubro."
-  ],
-  "fonte": "Bora Investir (B3)",
-  "gancho": "*Opções* explodem na B3",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T14:52:30-03:00",
-  "resumo": "O volume médio diário de opções na B3 saltou para cerca de R$ 1,4 bilhão no ano, com recorde de R$ 2,96 bilhões num pregão de outubro.",
-  "status": "nova",
-  "titulo": "Mercado de opções da B3 cresce 79% e bate recorde diário em 2026",
-  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/derivativos/mercado-de-opcoes-da-b3-cresce-79-e-movimenta-valor-recorde-de-r-29-bilhoes-em-um-dia-em-2026/",
-  "id": "2026-10-16-23"
- },
- {
   "categoria": "Política monetária",
   "coletadoEm": "2026-10-16T10:40:00-03:00",
   "data": "2026-10-16",
@@ -10342,31 +10854,6 @@
   "titulo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva",
   "url": "https://www.infomoney.com.br/mercados/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/",
   "id": "2026-10-16-22"
- },
- {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-16T10:37:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "354,5 mi t",
-  "fatos": [
-   "A produção de grãos deve chegar a 354,5 milhões de toneladas, 2,4% acima de 2025.",
-   "Frente à estimativa de agosto, a alta foi de 0,4%, cerca de 1,57 milhão de toneladas.",
-   "A soja deve somar 175 milhões de toneladas, alta de 5,4%.",
-   "O milho deve chegar a 143,3 milhões de toneladas, alta de 1,1%.",
-   "Arroz deve cair 11,4% e trigo, 24%.",
-   "A área colhida deve atingir 83,2 milhões de hectares, 2% a mais."
-  ],
-  "fonte": "Agência Brasil (IBGE)",
-  "gancho": "*Safra recorde* no Brasil",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T10:18:00-03:00",
-  "resumo": "A estimativa de setembro do IBGE aponta a maior safra de grãos da série, puxada pela soja, com alta de 2,4% sobre 2025.",
-  "status": "nova",
-  "titulo": "IBGE prevê safra recorde de 354,5 milhões de toneladas em 2026",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibge-estima-safra-de-graos-recorde-em-2026-3545-milhoes-de-toneladas",
-  "id": "2026-10-16-24"
  },
  {
   "categoria": "Global",
@@ -10395,29 +10882,6 @@
  {
   "categoria": "Cripto",
   "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+360% no Brasil",
-  "fatos": [
-   "A rodada de US$ 110 milhões foi liderada pela CoinFund.",
-   "Andreessen Horowitz, Coinbase Ventures e GIC também participaram.",
-   "A receita no Brasil subiu 360% entre janeiro e agosto.",
-   "O volume liquidado em stablecoins chega a cerca de US$ 1,5 bilhão anualizado."
-  ],
-  "fonte": "Exame",
-  "gancho": "*Stablecoins* miram o *Brasil*",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-15T19:20:00-03:00",
-  "resumo": "A empresa americana de pagamentos corporativos levantou US$ 110 milhões e diz que a receita no Brasil cresceu 360% de janeiro a agosto.",
-  "status": "nova",
-  "titulo": "Fintech de stablecoins Jeeves capta R$ 509 milhões e faz do Brasil maior mercado",
-  "url": "https://exame.com/future-of-money/empresa-que-faz-pagamentos-com-stablecoins-capta-r-509-milhoes-e-foca-no-brasil/",
-  "id": "2026-10-16-07"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
   "data": "2026-10-16",
   "destaque": "US$ 82 mil",
   "fatos": [
@@ -10437,54 +10901,6 @@
   "titulo": "Bitcoin fica perto de US$ 82 mil com entrada quase nula nos ETFs",
   "url": "https://cryptoticker.io/en/bitcoin-price-etf-inflows-standstill-october-16-2026/",
   "id": "2026-10-16-06"
- },
- {
-  "categoria": "FIIs",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 1,4 bi",
-  "fatos": [
-   "O negócio soma R$ 1,435 bilhão por três galpões em Guarulhos (SP).",
-   "A área bruta locável é de 237,4 mil m².",
-   "TRXF11 e o FII Matriz terão 50% cada dos imóveis.",
-   "Dois galpões têm contratos atípicos de 10 anos com o Mercado Livre.",
-   "A compra do terceiro galpão depende de um contrato built-to-suit."
-  ],
-  "fonte": "Exame",
-  "gancho": "*Galpões* do *Mercado Livre*",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-15T18:00:00-03:00",
-  "resumo": "O fundo imobiliário da TRX entra como coproprietário de um complexo logístico em Guarulhos com contratos longos de aluguel com o Mercado Livre.",
-  "status": "nova",
-  "titulo": "TRXF11 e Matriz fecham compra de R$ 1,4 bilhão em galpões do Mercado Livre",
-  "url": "https://exame.com/mercado-imobiliario/trxf11-e-matriz-fecham-operacao-de-r-14-bi-em-galpoes-alugados-ao-mercado-livre/",
-  "id": "2026-10-16-05"
- },
- {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "100 milhões de barris",
-  "fatos": [
-   "Os países-membros já liberaram 330 milhões de barris desde março.",
-   "Os 100 milhões restantes incluem mais de 20 milhões de barris de diesel.",
-   "O total vai superar a meta original de 400 milhões de barris.",
-   "No momento do anúncio, o Brent estava perto de US$ 106 e o WTI, de US$ 98."
-  ],
-  "fonte": "The National",
-  "gancho": "*Reservas* de *petróleo* liberadas",
-  "horaEstimada": true,
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-15T12:48:00-03:00",
-  "resumo": "A Agência Internacional de Energia vai liberar o restante das reservas de emergência, incluindo diesel, para conter os preços altos do petróleo.",
-  "status": "nova",
-  "titulo": "AIE acelera liberação dos últimos 100 milhões de barris de reservas",
-  "url": "https://www.thenationalnews.com/business/energy/2026/10/15/iea-oil-supply-pledge-to-exceed-target-as-it-boosts-release-of-remaining-stocks/",
-  "id": "2026-10-16-04"
  },
  {
   "categoria": "Agenda",
@@ -10556,869 +10972,5 @@
   "titulo": "Warsh não sinaliza próxima alta do Fed e diz que IA pressiona inflação",
   "url": "https://investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
   "id": "2026-10-16-02"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T21:25:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 800 bi",
-  "fatos": [
-   "O valor de mercado chegou a R$ 800,39 bilhões no fechamento de 14 de outubro.",
-   "PETR4 subiu 2,22% no dia, a R$ 58,11, e PETR3 avançou 1,94%, a R$ 65,02.",
-   "No ano, PETR4 sobe 94,4% e PETR3, 105,3%.",
-   "A empresa havia passado de R$ 700 bilhões pela primeira vez em 2 de outubro.",
-   "O lucro do 1º semestre foi de R$ 85,1 bilhões, alta de 37,6%."
-  ],
-  "fonte": "Mix Vale",
-  "gancho": "*Petrobras* vale *R$ 800 bi*",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-15T18:07:00-03:00",
-  "resumo": "Estatal atingiu o maior valor da história no fechamento de quarta, com ações perto de dobrar em 2026.",
-  "status": "nova",
-  "titulo": "Petrobras bate recorde de R$ 800 bilhões em valor de mercado",
-  "url": "https://www.mixvale.com.br/2026/10/15/petrobras-alcanca-recorde-de-r-80039-bilhoes-com-acoes-em-alta-de-ate-110/",
-  "id": "2026-10-15-46"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-15T21:25:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "3,75%-4%",
-  "fatos": [
-   "Beth Hammack, do Fed de Cleveland, disse que o Fed pode ter de agir com mais força se as expectativas de inflação piorarem.",
-   "Ela avaliou que as condições financeiras estão praticamente neutras, sem frear a economia.",
-   "Mary Daly, do Fed de São Francisco, vê mais altas como provável, mas sem urgência na reunião de 27 e 28 de outubro.",
-   "O Fed subiu os juros em 0,25 ponto no mês passado, para a faixa de 3,75% a 4%.",
-   "Os dados de inflação piores que o esperado nesta semana elevaram as apostas de alta já em outubro."
-  ],
-  "fonte": "Yahoo Finance (Reuters); Quartz",
-  "gancho": "*Fed* ameaça *subir* mais",
-  "icone": "escudo",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T18:53:00-03:00",
-  "resumo": "Beth Hammack e Mary Daly indicam que o Fed pode precisar subir mais os juros, mas sem pressa para a reunião de outubro.",
-  "status": "nova",
-  "titulo": "Dirigentes do Fed reforçam que novas altas de juros podem vir",
-  "url": "https://finance.yahoo.com/economy/policy/articles/feds-hammack-warns-inflation-expectations-215355459.html",
-  "id": "2026-10-15-43"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-15T21:25:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 26,50",
-  "fatos": [
-   "O preço-alvo de B3SA3 subiu de R$ 18,50 para R$ 26,50, com recomendação de compra mantida.",
-   "A ação acumula cerca de 50% de alta desde o fim de agosto.",
-   "O volume médio diário em outubro chegou a R$ 62 bilhões, com R$ 13 bilhões de entrada líquida de estrangeiros no mês.",
-   "O UBS BB projeta lucro de R$ 1,6 bilhão no 3º trimestre, alta de 29%.",
-   "As projeções de volume para 2027 e 2028 subiram cerca de 20%."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*B3* ganha com *volume* recorde",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T17:42:00-03:00",
-  "resumo": "Banco vê mais negócios na bolsa após o 1º turno e projeta lucro da B3 29% maior no 3º trimestre.",
-  "status": "nova",
-  "titulo": "UBS BB eleva preço-alvo da B3 para R$ 26,50 com volume em alta",
-  "url": "https://bpmoney.com.br/mercado/acoes/ubs-bb-eleva-preco-alvo-b3-26-50-recomendacao-compra/",
-  "id": "2026-10-15-44"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-15T21:25:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "US$ 190 bi",
-  "fatos": [
-   "A receita do 3º trimestre foi de US$ 7,2 bilhões, alta de 17% em um ano.",
-   "Os novos ativos líquidos somaram US$ 190,4 bilhões, um recorde.",
-   "As ações caíram 2,4% no pré-mercado de quinta."
-  ],
-  "fonte": "Quartz",
-  "gancho": "*Schwab* capta *recorde*",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-15T10:09:00-03:00",
-  "resumo": "Corretora americana registrou captação líquida recorde no 3º trimestre, mas as ações recuaram no pré-mercado.",
-  "status": "nova",
-  "titulo": "Schwab tem receita recorde de US$ 7,2 bilhões, mas ação cai",
-  "url": "https://qz.com/charles-schwab-record-revenue-net-new-assets-earnings-101526",
-  "id": "2026-10-15-48"
- },
- {
-  "categoria": "Renda fixa",
-  "coletadoEm": "2026-10-15T21:25:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "IPCA + 6,67%",
-  "fatos": [
-   "Às 13h, o Tesouro IPCA+ 2040 pagava IPCA + 6,67%, ante 6,58% no fechamento de quarta.",
-   "O IPCA+ 2032 subiu de 6,71% para 6,77% acima da inflação.",
-   "O Prefixado 2029 passou de 12,51% para 12,57% ao ano.",
-   "As taxas amenizaram a alta da abertura ao longo do dia, segundo o InfoMoney."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Tesouro IPCA+* paga mais",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T15:32:00-03:00",
-  "resumo": "Taxas dos títulos públicos voltam a subir com a cautela eleitoral e o IPCA+ 2040 passa de 6,6% de juro real.",
-  "status": "nova",
-  "titulo": "IPCA+ longo do Tesouro vai ao maior nível desde o 1º turno",
-  "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-15102026/",
-  "id": "2026-10-15-45"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-15T21:20:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "",
-  "fatos": [
-   "A decisão foi tomada em bloco na terça (13), seguindo recomendação do Ministério Público junto ao TCU.",
-   "A área técnica do tribunal havia proposto aprovar as contas como regulares.",
-   "O julgamento envolve o presidente do BC, Gabriel Galípolo, e outros oito integrantes da diretoria.",
-   "O processo, relatado por Jhonatan de Jesus, apura possíveis falhas do BC na supervisão do Master, liquidado em novembro de 2025."
-  ],
-  "fonte": "Metrópoles; Valor Econômico",
-  "gancho": "*TCU* segura contas do *BC*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T17:28:00-03:00",
-  "resumo": "O tribunal suspendeu a análise das contas de 2025 do BC até a conclusão do processo sobre a atuação da autarquia na liquidação do Banco Master.",
-  "status": "nova",
-  "titulo": "TCU trava julgamento das contas do Banco Central até fim do caso Master",
-  "url": "https://www.metropoles.com/brasil/tcu-adia-julgamento-das-contas-do-bc-ate-conclusao-do-caso-master",
-  "id": "2026-10-15-37"
- },
- {
-  "categoria": "Produtos",
-  "coletadoEm": "2026-10-15T21:20:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "20x",
-  "fatos": [
-   "O CEO Francisco Gurgel afirma que o custo de negociar no Brasil pode ser até 20 vezes maior que no exterior, dependendo da comparação.",
-   "A empresa, sediada no Rio, é controlada pela Mubadala Capital, ligada ao fundo soberano de Abu Dhabi.",
-   "Os pedidos de licença de bolsa na CVM e de clearing no Banco Central estão em análise há cerca de três anos.",
-   "O plano é começar por ações, ETFs, fundos imobiliários e aluguel de ações; derivativos ficam para depois.",
-   "Sua plataforma Floa já responde por cerca de 8% do volume negociado em ações na B3."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Concorrente* da *B3* vem aí",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T07:00:00-03:00",
-  "resumo": "A Base Exchange, controlada pela Mubadala Capital, quer começar a operar até o fim de 2027 com ações, ETFs e fundos imobiliários.",
-  "status": "nova",
-  "titulo": "Futura rival da B3 diz que operar na bolsa brasileira custa até 20 vezes mais",
-  "url": "https://www.moneytimes.com.br/somos-uma-empresa-nativamente-de-tecnologia-afirma-ceo-da-base-exchange-uma-das-futuras-concorrentes-da-b3-apsa/",
-  "id": "2026-10-15-36"
- },
- {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-15T21:20:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "US$ 483 mi",
-  "fatos": [
-   "A receita somou US$ 3,70 bilhões, abaixo dos US$ 3,97 bilhões do 2º trimestre e acima dos US$ 3,00 bilhões de um ano antes.",
-   "O lucro ajustado foi de US$ 485 milhões, ou US$ 1,82 por ação.",
-   "O Ebitda ajustado chegou a US$ 789 milhões e o caixa fechou em US$ 4,4 bilhões.",
-   "A produção de alumínio subiu pelo sexto trimestre seguido, com a retomada da fundição Alumar concluída.",
-   "A compra da AliGroup, da South32, foi aprovada pelos acionistas da vendedora e deve ser concluída no 1º semestre de 2027."
-  ],
-  "fonte": "Alcoa (comunicado à SEC)",
-  "gancho": "*Alumínio* em *alta*",
-  "horaEstimada": true,
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-15T21:20:00-03:00",
-  "resumo": "A gigante do alumínio teve lucro de US$ 1,81 por ação e manteve as projeções de produção e embarques para 2026.",
-  "status": "nova",
-  "titulo": "Alcoa lucra US$ 483 milhões no 3º tri e confirma metas de produção",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm",
-  "id": "2026-10-15-39"
- },
- {
-  "categoria": "Comportamento do investidor",
-  "coletadoEm": "2026-10-15T21:20:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+35% contas",
-  "fatos": [
-   "O lucro diluído por ação foi de US$ 0,69, contra US$ 0,59 um ano antes.",
-   "Na versão ajustada, o lucro por ação foi de US$ 0,67, ante US$ 0,57.",
-   "A receita líquida chegou a US$ 1,91 bilhão, acima de US$ 1,66 bilhão no 3º trimestre de 2025.",
-   "As contas de clientes cresceram 35% e as ordens diárias (DARTs) subiram 18%, para 4,27 milhões.",
-   "O patrimônio dos clientes avançou 27%, para US$ 964,7 bilhões."
-  ],
-  "fonte": "Interactive Brokers (comunicado à SEC)",
-  "gancho": "*Investidor* de varejo *acelera*",
-  "horaEstimada": true,
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T21:20:00-03:00",
-  "resumo": "A corretora americana fechou o 3º trimestre com 5,58 milhões de contas e US$ 964,7 bilhões em patrimônio de clientes.",
-  "status": "nova",
-  "titulo": "Interactive Brokers ganha 35% mais clientes em um ano e lucro por ação sobe",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
-  "id": "2026-10-15-38"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-15T21:14:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "US$ 1 tri",
-  "fatos": [
-   "As 20 maiores empresas de IA e semicondutores perderam mais de US$ 1 trilhão em valor de mercado na semana.",
-   "A bolsa da Coreia do Sul caiu 7,6%, com interrupções no pregão.",
-   "A CoreWeave caiu 15% na quarta; a cesta de neoclouds do Goldman recuou 20% em cinco pregões.",
-   "O juro do Treasury de 10 anos caiu a 5,08%, menor nível em três semanas.",
-   "O Goldman Sachs avalia que a demanda por IA não está desabando; o gargalo é de oferta e financiamento."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*IA* perde *US$ 1 tri*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T13:00:00-03:00",
-  "resumo": "As 20 maiores empresas de IA e chips encolheram mais de US$ 1 trilhão na semana, com dúvidas sobre retorno dos gastos e juros mais altos nos EUA.",
-  "status": "nova",
-  "titulo": "Ações de IA perdem mais de US$ 1 trilhão em valor em uma semana",
-  "url": "https://www.infomoney.com.br/onde-investir/acoes-de-ia-tombam-us-1-tri-na-semana-hora-de-comprar-ou-de-fugir/",
-  "id": "2026-10-15-40"
- },
- {
-  "categoria": "Inflação",
-  "coletadoEm": "2026-10-15T21:14:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "3,1%",
-  "fatos": [
-   "A inflação anual ao consumidor passou de 2,4% em agosto para 3,1% em setembro, segundo o Insee.",
-   "A estimativa preliminar era de 3%.",
-   "A energia subiu 21,3% em 12 meses; derivados de petróleo, 36,2%.",
-   "No mês, os preços caíram 0,3%, após alta de 0,7% em agosto.",
-   "O índice harmonizado europeu (IHPC) foi de 2,6% para 3,4% ao ano."
-  ],
-  "fonte": "Poder360 (Insee)",
-  "gancho": "*Energia* inflama a *Europa*",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T07:27:00-03:00",
-  "resumo": "Puxada pela energia, a inflação anual francesa subiu de 2,4% para 3,1% em setembro, acima da estimativa preliminar de 3%.",
-  "status": "nova",
-  "titulo": "Inflação da França acelera para 3,1%, maior nível desde janeiro de 2024",
-  "url": "https://www.poder360.com.br/poder-economia/inflacao-anual-da-franca-acelera-para-31-em-setembro/",
-  "id": "2026-10-15-41"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T21:14:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "A-.br",
-  "fatos": [
-   "A Moody's Local afirmou o rating de emissor do Banco Bmg (BMGB4) em A-.br.",
-   "A perspectiva foi revisada de positiva para estável.",
-   "A agência citou posição consolidada no cartão consignado e rentabilidade em recuperação.",
-   "Também pesaram a diversificação das fontes de captação e a liquidez confortável.",
-   "O banco divulgou a decisão em comunicado ao mercado de 14 de outubro."
-  ],
-  "fonte": "Acionista",
-  "gancho": "*Bmg* mantém *nota*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T11:28:00-03:00",
-  "resumo": "A agência confirmou o rating de emissor do Banco Bmg, mas trocou a perspectiva de positiva para estável.",
-  "status": "nova",
-  "titulo": "Moody's Local mantém nota A-.br do Bmg e muda perspectiva para estável",
-  "url": "https://acionista.com.br/banco-bmg-bmgb4-tem-rating-a-br-mantido-pela-moodys-local/",
-  "id": "2026-10-15-42"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-15T18:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+1,08%",
-  "fatos": [
-   "O Dow Jones subiu 1,08%, a 52.177 pontos; o S&P 500 ganhou 0,33% e o Nasdaq, 0,08%.",
-   "O índice de semicondutores da Filadélfia caiu 0,88%, com Nvidia (-1,84%) e TSMC (-1,80%) no vermelho.",
-   "Consumo e saúde lideraram a rotação para setores defensivos; a Nike subiu 5,21%.",
-   "O PPI de setembro subiu 1,3% no mês e 6,3% em 12 meses, a maior alta anual desde dezembro de 2022.",
-   "O VIX, índice do medo, recuou 2,43%, para 16,46 pontos."
-  ],
-  "fonte": "TradingKey, Investing.com",
-  "gancho": "*Dow* sobe, *IA* perde fôlego",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T17:30:00-03:00",
-  "resumo": "Mesmo com a inflação ao produtor americana bem acima do previsto, investidores trocaram tecnologia por setores defensivos e o Dow Jones liderou os ganhos.",
-  "status": "nova",
-  "titulo": "Wall Street fecha em alta com Dow +1,08% e fuga das ações de IA",
-  "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262219455-us-stock-market-today-close-dow-jones-rise-500-ppi-inflation-coreweave-micron-tradingkey",
-  "id": "2026-10-15-31"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-15T18:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 804 mi",
-  "fatos": [
-   "São 1.030.899 trabalhadores e R$ 804,2 milhões no total, segundo o Ministério do Trabalho.",
-   "Trabalhadores da iniciativa privada (704.398) recebem o PIS pela Caixa; servidores (326.501), o Pasep pelo Banco do Brasil.",
-   "Os valores vão de R$ 136 a R$ 1.621, conforme os meses trabalhados em 2024.",
-   "Tem direito quem trabalhou ao menos 30 dias com carteira em 2024 e ganhou em média até R$ 2.765,93 por mês.",
-   "A consulta é feita com a conta gov.br, no portal do abono ou no app Carteira de Trabalho Digital."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Abono* extra na *conta*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-15T12:50:00-03:00",
-  "resumo": "O governo começou a pagar nesta quinta um lote complementar do abono salarial, com valores de R$ 136 a R$ 1.621.",
-  "status": "nova",
-  "titulo": "Lote extra do abono PIS/Pasep paga R$ 804 milhões a 1 milhão de pessoas",
-  "url": "https://bpmoney.com.br/economia/lote-extra-pis-pasep-pago-quinta-15-como-consultar/",
-  "id": "2026-10-15-35"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T18:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "57,4%",
-  "fatos": [
-   "A Superintendência-Geral do Cade aprovou a reorganização da Azzas 2154 (AZZA3) sem restrições.",
-   "A Arezzo&Co ficará com marcas como Arezzo, Schutz, Vans e Hering; a Soma, com Animale, Maria Filó e Reserva.",
-   "A Farm vira sociedade separada, com 57,4% da Arezzo&Co e 42,6% da Soma.",
-   "A decisão fica definitiva 15 dias após a publicação no Diário Oficial; ainda faltam aval de acionistas e listagem da Soma no Novo Mercado.",
-   "Não há data definida para concluir a cisão."
-  ],
-  "fonte": "Acionista",
-  "gancho": "*Azzas* mais perto do *divórcio*",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-15T13:00:00-03:00",
-  "resumo": "O aval antitruste é um passo para dividir a Azzas 2154 em duas empresas abertas, mas ainda faltam aprovações de conselho, acionistas e da B3.",
-  "status": "nova",
-  "titulo": "Cade aprova sem restrições a separação da Azzas em Arezzo&Co e Soma",
-  "url": "https://acionista.com.br/azza3-o-divorcio-avanca-mas-a-operacao-ainda-nao-terminou/",
-  "id": "2026-10-15-34"
- },
- {
-  "categoria": "Produtos",
-  "coletadoEm": "2026-10-15T18:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "16/10",
-  "fatos": [
-   "O prazo para os investidores escolherem o destino do INBR32 termina nesta sexta-feira (16).",
-   "As opções são receber ações do Inter na Nasdaq, migrar para um novo BDR na B3 ou ter os papéis vendidos.",
-   "O INBR32 deixa de ser negociado na B3 a partir de 16 de outubro.",
-   "O novo BDR, INBR34, começa a ser negociado em 19 de outubro."
-  ],
-  "fonte": "Seu Dinheiro, Acionista",
-  "gancho": "*INBR32* tem *prazo final*",
-  "icone": "relogio",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T10:50:00-03:00",
-  "resumo": "Quem tem INBR32 precisa decidir até sexta se recebe ações na Nasdaq, migra para o novo BDR ou deixa os papéis serem vendidos.",
-  "status": "nova",
-  "titulo": "BDR do Inter (INBR32) sai da B3 e prazo de escolha termina sexta",
-  "url": "https://www.seudinheiro.com/2026/empresas/inbr32-da-adeus-a-b3-prazo-para-decidir-o-destino-dos-bdrs-do-inter-termina-nesta-sexta-feira-veja-as-opcoes-miql/",
-  "id": "2026-10-15-33"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-15T18:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "US$ 79,7 mil",
-  "fatos": [
-   "A mínima do dia foi de US$ 79.694, pouco antes das 5h de Brasília.",
-   "Por volta das 14h de Brasília, o bitcoin era negociado a US$ 82.151, alta de 0,33% em 24 horas.",
-   "Posições alavancadas em cripto somaram cerca de US$ 929 milhões em liquidações em 24 horas, US$ 777 milhões delas compradas.",
-   "Analistas citam que a chance implícita de alta de juros do Fed em outubro chegou a voltar para perto de 50%.",
-   "O valor de mercado do bitcoin ficou perto de US$ 1,65 trilhão."
-  ],
-  "fonte": "Bitcoin.com News",
-  "gancho": "*Bitcoin* fura *US$ 80 mil*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T14:10:00-03:00",
-  "resumo": "A criptomoeda chegou a US$ 79,7 mil de madrugada, pressionada pela inflação americana, e se recuperou ao longo do dia, após liquidações de quase US$ 1 bilhão.",
-  "status": "nova",
-  "titulo": "Bitcoin perde US$ 80 mil por algumas horas e volta acima de US$ 82 mil",
-  "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-above-82k-after-brief-dip-below-80k/",
-  "id": "2026-10-15-32"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T13:30:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "100%",
-  "fatos": [
-   "A Globe Investimentos passa a deter 100% da Nova AVB, holding da Avibras.",
-   "O Cade aprovou a operação e a empresa segue com capital brasileiro.",
-   "A Avibras entrou em recuperação judicial em 2022 e voltou a operar em maio de 2026.",
-   "Os novos donos querem retomar a produção e ampliar exportações, sem divulgar valores.",
-   "O valor da compra não foi informado."
-  ],
-  "fonte": "BP Money",
-  "gancho": "Batistas *compram* a *Avibras*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T13:08:34-03:00",
-  "resumo": "A Globe Investimentos, de Joesley e Wesley Batista, assumiu 100% da holding que controla a Avibras, empresa de defesa que estava em recuperação judicial desde 2022.",
-  "status": "nova",
-  "titulo": "Irmãos Batista concluem compra da Avibras, fabricante do sistema ASTROS",
-  "url": "https://bpmoney.com.br/negocios/empresas/irmaos-batista-concluem-compra-avibras-fabricante-armas-jacarei/",
-  "id": "2026-10-15-30"
- },
- {
-  "categoria": "Dividendos",
-  "coletadoEm": "2026-10-15T13:30:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 25",
-  "fatos": [
-   "O preço-alvo passou de R$ 20 para R$ 25, potencial de cerca de 20%.",
-   "A recomendação de compra foi mantida mesmo após alta de 20% desde agosto.",
-   "A XP projeta lucro de R$ 4,6 bilhões em 2026 e R$ 5,2 bilhões em 2027.",
-   "O dividend yield estimado para 2027 é de 7,6%.",
-   "No curto prazo, a pausa no crédito imobiliário da Caixa e a greve de setembro devem pesar nas vendas."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Preço-alvo* sobe e *dividendos* atraem",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T12:55:24-03:00",
-  "resumo": "A XP manteve recomendação de compra para Caixa Seguridade (CXSE3) e subiu o preço-alvo, apostando no crédito imobiliário e em dividendos elevados.",
-  "status": "nova",
-  "titulo": "XP eleva preço-alvo da Caixa Seguridade para R$ 25 e vê alta de 20%",
-  "url": "https://bpmoney.com.br/mercado/acoes/caixa-seguridade-cxse3-xp-eleva-alvo-e-projeta-alta-de-20/",
-  "id": "2026-10-15-29"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T13:30:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "-77%",
-  "fatos": [
-   "Vendas líquidas somaram R$ 268 milhões no 3º trimestre, R$ 185 milhões na fatia da Even.",
-   "A queda foi de 77% na comparação com o 3º trimestre de 2025.",
-   "A velocidade de vendas (VSO) caiu para 5%, contra 19% um ano antes.",
-   "Foram dois lançamentos com VGV de R$ 590 milhões; no 3T25, um único projeto somou R$ 1,45 bilhão.",
-   "No acumulado de nove meses, as vendas caem 60,6% e os lançamentos, 49,5%."
-  ],
-  "fonte": "Money Times; InfoMoney",
-  "gancho": "*Vendas* da Even *despencam*",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T08:57:00-03:00",
-  "resumo": "A incorporadora Even divulgou prévia operacional fraca: vendas líquidas e lançamentos recuaram forte frente ao mesmo trimestre de 2025, num setor já sob pressão dos juros altos.",
-  "status": "nova",
-  "titulo": "Even vê vendas desabarem 77% no 3º trimestre e velocidade cai a 5%",
-  "url": "https://www.moneytimes.com.br/even-even3-vendas-e-lancamentos-recuam-no-3t26-veja-os-destaques-igdl/",
-  "id": "2026-10-15-28"
- },
- {
-  "atualizadoEm": "2026-10-15T18:58:00-03:00",
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-15T12:55:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "-1,06%",
-  "fatos": [
-   "O Ibovespa fechou a 204.324 pontos, queda de 1,06%, a terceira baixa seguida.",
-   "Na mínima do dia, o índice chegou a 203.110 pontos; o volume foi de R$ 40,9 bilhões.",
-   "O dólar comercial fechou a R$ 5,08, alta de 1,17%.",
-   "Direcional (-9,26%), MRV (-4,94%) e Magazine Luiza (-4,24%) lideraram as perdas; Embraer subiu 2,70%.",
-   "A inflação ao produtor dos EUA subiu 6,3% em 12 meses, reforçando apostas de alta de juros pelo Fed."
-  ],
-  "fonte": "Bora Investir (B3), Suno, Exame, InfoMoney",
-  "gancho": "*Ibovespa* cai pela *3ª vez*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T10:52:00-03:00",
-  "resumo": "Depois de quase zerar as perdas ao meio-dia, a bolsa voltou a cair à tarde com PPI americano forte, varejo fraco e cautela eleitoral; o dólar subiu 1,17%.",
-  "status": "atualizada",
-  "titulo": "Ibovespa cai 1,06% na terceira queda seguida e dólar sobe a R$ 5,08",
-  "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-106-puxado-por-inflacao-varejo-e-petrobras-dolar-vai-a-r-508/",
-  "id": "2026-10-15-26"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-15T12:55:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+0,8%",
-  "fatos": [
-   "As vendas no varejo dos EUA subiram 0,8% em setembro sobre agosto; a previsão era de 0,3%.",
-   "Sem automóveis, a alta foi de 0,9%, ante 0,5% esperado.",
-   "O grupo de controle, usado no cálculo do PIB, subiu só 0,1%, abaixo dos 0,3% projetados.",
-   "O dado de agosto foi revisado para cima, para alta de 1,2%.",
-   "No mesmo dia, a inflação ao produtor (PPI) subiu 1,3% no mês, mais que o dobro do previsto."
-  ],
-  "fonte": "investingLive, InfoMoney",
-  "gancho": "*Consumidor americano* não freia",
-  "icone": "globo",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T09:31:00-03:00",
-  "resumo": "Consumo americano segue forte mesmo com inflação alta, o que reforça a leitura de que o Fed pode subir juros.",
-  "status": "nova",
-  "titulo": "Vendas no varejo dos EUA sobem 0,8% em setembro, acima do previsto",
-  "url": "https://investinglive.com/news/us-retails-sales-for-september-0-8-mom-vs-1-1-last-month-0",
-  "id": "2026-10-15-25"
- },
- {
-  "atualizadoEm": "2026-10-15T18:58:00-03:00",
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "-9,26%",
-  "fatos": [
-   "A geração de caixa operacional da Direcional foi de R$ 228 milhões no 3º trimestre.",
-   "As vendas líquidas contratadas caíram cerca de 27%, para R$ 1,05 bilhão, e os lançamentos recuaram 45,7%.",
-   "DIRR3 fechou em queda de 9,26%, a R$ 10,58, a maior baixa do Ibovespa.",
-   "MRV (-4,94%) também ficou entre as maiores quedas do dia.",
-   "A Even vendeu R$ 268 milhões no trimestre (R$ 185 milhões na sua parte), com velocidade de vendas de 5%, ante 19% um ano antes."
-  ],
-  "fonte": "Money Times, InfoMoney, Bora Investir (B3)",
-  "gancho": "*Construtoras* vendem *menos*",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-15T06:12:00-03:00",
-  "resumo": "Mesmo com caixa operacional de R$ 228 milhões, a ação liderou as quedas do Ibovespa; Even também mostrou vendas e lançamentos em forte queda.",
-  "status": "atualizada",
-  "titulo": "Direcional despenca 9,26% e lidera quedas do Ibovespa após prévia fraca",
-  "url": "https://www.moneytimes.com.br/direcional-dirr3-tem-geracao-de-caixa-operacional-de-r-228-milhoes-no-3o-trimestre-fets/",
-  "id": "2026-10-15-21"
- },
- {
-  "categoria": "Day trade",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "IFR 67,8",
-  "fatos": [
-   "O WINZ26 fechou quarta (14) em queda de 0,97%, aos 208.995 pontos.",
-   "Nos gráficos de 15 e 60 minutos, o preço está abaixo das médias de 9 e 21 períodos.",
-   "No diário, segue acima das médias de 9, 21 e 200 períodos.",
-   "O IFR de 14 períodos está em 67,82, perto de sobrecompra.",
-   "Suportes no diário: 207.615 e 204.770; resistências: 212.720 e 215.685."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Mini-índice* em *correção*",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-15T07:07:00-03:00",
-  "resumo": "Análise técnica do WINZ26 aponta viés corretivo no curto prazo e estrutura ainda de alta no gráfico diário.",
-  "status": "nova",
-  "titulo": "Mini-índice segue em tendência positiva, mas correção pede atenção",
-  "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-15102026/",
-  "id": "2026-10-15-20"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+77,5%",
-  "fatos": [
-   "Na Tenda, os distratos consolidados subiram 77,5% e foram a 19,5% das vendas brutas.",
-   "Na Cury, cresceram quase 60% e chegaram a 15% das vendas brutas.",
-   "Causas citadas: critérios mais rígidos da Caixa e greve de quase 20 dias em setembro.",
-   "Após as prévias, CURY3 subiu 9,66% e TEND3, 4,78%.",
-   "BTG tem compra com alvos de R$ 45 (Tenda) e R$ 42 (Cury)."
-  ],
-  "fonte": "Seu Dinheiro",
-  "gancho": "*Distratos* sobem, *ações* também",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-15T06:06:00-03:00",
-  "resumo": "Cancelamentos de vendas cresceram com crédito mais rígido da Caixa, mas investidores reagiram bem às prévias do 3º trimestre.",
-  "status": "nova",
-  "titulo": "Distratos disparam em Tenda e Cury, mas ações sobem",
-  "url": "https://www.seudinheiro.com/2026/empresas/negocio-caiu-acao-subiu-por-que-disparada-distratos-nao-assusta-investidores-tenda-tend3-cury-cury3-bdap/",
-  "id": "2026-10-15-19"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "",
-  "fatos": [
-   "A resposta foi enviada à CVM na quarta (14).",
-   "Reportagem de 11/10 dizia que a empresa estava longe da adesão necessária dos credores.",
-   "O prazo citado para protocolar o plano era 14 de outubro.",
-   "A companhia não confirmou o protocolo dentro desse prazo.",
-   "Os números divulgados ao mercado são ilustrativos, não projeções, segundo a empresa."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Oncoclínicas* sem *acordo*",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 11,
-  "publicadoEm": "2026-10-15T08:36:00-03:00",
-  "resumo": "Questionada pela CVM, a empresa afirmou que segue negociando a recuperação extrajudicial e que divulgará fato relevante quando protocolar o plano.",
-  "status": "nova",
-  "titulo": "Oncoclínicas diz que plano com credores ainda não está fechado",
-  "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-rebate-noticia-e-diz-que-plano-com-credores-ainda-nao-esta-fechado-jcav/",
-  "id": "2026-10-15-23"
- },
- {
-  "categoria": "Câmbio",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 5,06",
-  "fatos": [
-   "O dólar à vista abriu a R$ 5,063, alta de 0,68%, e depois desacelerou para cerca de R$ 5,05.",
-   "O Ibovespa futuro caía 0,32%, aos 208.245 pontos, após a abertura.",
-   "Os futuros da Nasdaq recuavam 1,24% com dúvidas sobre gastos em inteligência artificial.",
-   "O Brent para dezembro caía 1,40%, a US$ 104,57.",
-   "O índice DXY recuava 0,42% no exterior."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Dólar* sobe na *abertura*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 3,
-  "publicadoEm": "2026-10-15T09:27:00-03:00",
-  "resumo": "Câmbio e bolsa começam o dia pressionados por cautela com pesquisas eleitorais, fim da escala 6x1 e queda das ações de tecnologia lá fora.",
-  "status": "nova",
-  "titulo": "Dólar abre em alta a R$ 5,06 e Ibovespa futuro recua antes do pregão",
-  "url": "https://www.moneytimes.com.br/ibovespa-futuro-15-20-26-lils/",
-  "id": "2026-10-15-15"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+0,1%",
-  "fatos": [
-   "O varejo restrito subiu 0,1% sobre julho; o consenso Reuters era de 0,7%.",
-   "Na comparação com agosto de 2025, a alta foi de 0,4%, ante 1,45% esperado.",
-   "O varejo ampliado caiu 0,2% no mês.",
-   "Móveis e eletrodomésticos recuaram 4,2%, a maior queda entre os setores.",
-   "Equipamentos de escritório e informática subiram 6,3%."
-  ],
-  "fonte": "BP Money (IBGE)",
-  "gancho": "*Varejo* decepciona em *agosto*",
-  "icone": "seta",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T09:18:00-03:00",
-  "resumo": "Vendas do comércio no Brasil ficaram praticamente estáveis em agosto, bem abaixo da alta de 0,7% projetada, com tombo em móveis e eletrodomésticos.",
-  "status": "nova",
-  "titulo": "Varejo cresce só 0,1% em agosto e frustra expectativa do mercado",
-  "url": "https://bpmoney.com.br/economia/varejo-sobe-01-agosto-abaixo-previsto-ibge/",
-  "id": "2026-10-15-14"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "R$ 130 mi",
-  "fatos": [
-   "Imóvel em Laranjeiras foi vendido por R$ 95 milhões à Supermundi.",
-   "Imóveis na Tijuca e no Engenho Velho foram para o FII Antilhas por R$ 34,92 milhões.",
-   "Não houve outros interessados qualificados, e as audiências de propostas foram canceladas.",
-   "Os recursos ampliam a liquidez para iniciativas estratégicas, segundo a empresa."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Americanas* faz *caixa*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-15T08:25:00-03:00",
-  "resumo": "Venda de imóveis reforça o caixa da varejista em recuperação judicial para financiar seu plano de transformação.",
-  "status": "nova",
-  "titulo": "Americanas obtém aval da Justiça para vender imóveis no Rio por R$ 130 milhões",
-  "url": "https://www.moneytimes.com.br/americanas-amer3-obtem-autorizacao-da-justica-para-vender-imoveis-no-rio-por-r-130-milhoes-igdl/",
-  "id": "2026-10-15-22"
- },
- {
-  "categoria": "FIIs",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "169 FIIs",
-  "fatos": [
-   "Pelo menos 169 FIIs pagam proventos nesta quinta (15), segundo a Funds Explorer.",
-   "O KEVE11 paga R$ 180,08 por cota, sendo R$ 165,87 de amortização.",
-   "O CFII11 distribui R$ 85 por cota, também como amortização.",
-   "O IFIX fechou quarta (14) em 3.953,80 pontos, alta de 0,07%.",
-   "No ano, o índice de FIIs sobe 4,73%."
-  ],
-  "fonte": "Money Times",
-  "gancho": "Dia de *proventos* nos *FIIs*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-15T08:02:00-03:00",
-  "resumo": "Dia de pagamento para dezenas de FIIs que tiveram data-com em 30 de setembro; IFIX acumula alta de 5,29% em outubro.",
-  "status": "nova",
-  "titulo": "169 fundos imobiliários pagam proventos hoje, com até R$ 180 por cota",
-  "url": "https://www.moneytimes.com.br/169-fundos-imobiliarios-pagam-proventos-hoje-15-com-valores-de-ate-r-180-por-cota-ifix-sobe-igdl/",
-  "id": "2026-10-15-18"
- },
- {
-  "categoria": "Inflação",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+1,3%",
-  "fatos": [
-   "O PPI subiu 1,3% em setembro ante agosto; o mercado esperava 0,6%.",
-   "Em 12 meses, o PPI avançou 6,3%, contra 5,3% projetados.",
-   "O núcleo do PPI subiu 0,7% no mês e 5,0% em 12 meses, ambos acima do esperado.",
-   "As vendas no varejo cresceram 0,8% em setembro, ante expectativa de 0,3%; agosto foi revisado para 1,3%.",
-   "Pedidos de seguro-desemprego somaram 199 mil, em linha com o previsto."
-  ],
-  "fonte": "InfoMoney (ao vivo)",
-  "gancho": "*PPI* explode nos *EUA*",
-  "icone": "raio",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T09:32:00-03:00",
-  "resumo": "PPI e vendas no varejo americanos vieram bem acima das projeções, reforçando o risco de juros mais altos nos EUA.",
-  "status": "nova",
-  "titulo": "Inflação ao produtor dos EUA dispara 1,3% em setembro, mais que o dobro do previsto",
-  "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/",
-  "id": "2026-10-15-13"
- },
- {
-  "categoria": "Agenda",
-  "coletadoEm": "2026-10-15T09:50:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "Até hoje",
-  "fatos": [
-   "O prazo de adesão ao Simples Nacional acaba nesta quinta (15).",
-   "O regime vale para empresas com faturamento anual de até R$ 4,8 milhões.",
-   "A janela foi antecipada de janeiro de 2027 para setembro de 2026 pela reforma tributária.",
-   "Empresas do Simples que quiserem recolher IBS e CBS pelo regime regular têm até 30 de outubro.",
-   "A adesão do MEI ao Simei continua em janeiro."
-  ],
-  "fonte": "Agência Brasil",
-  "gancho": "Último dia do *Simples*",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 12,
-  "publicadoEm": "2026-10-15T08:04:00-03:00",
-  "resumo": "Adesão foi antecipada por causa da reforma tributária; quem optar entra no regime em 1º de janeiro de 2027.",
-  "status": "nova",
-  "titulo": "Prazo para empresas aderirem ao Simples Nacional termina hoje",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/prazo-para-empresas-optarem-por-simples-acaba-nesta-quinta",
-  "id": "2026-10-15-24"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "-7,57%",
-  "fatos": [
-   "O Kospi, da Coreia do Sul, caiu 7,57%, a 5.554 pontos, maior queda diária desde 28 de julho.",
-   "Samsung Electronics recuou 9,5% e SK Hynix, 11%.",
-   "Em Taiwan, o Taiex perdeu 3,41%; em Hong Kong, o Hang Seng caiu 1,03%.",
-   "Xangai recuou 1,59% e Shenzhen, 2,64%.",
-   "O regulador sul-coreano convocou reunião de emergência e prometeu tolerância zero com manipulação e boatos."
-  ],
-  "fonte": "Money Times (Estadão Conteúdo); InfoMoney",
-  "gancho": "*Kospi* derrete com *chips*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-15T06:03:00-03:00",
-  "resumo": "Inflação americana acima do previsto reacendeu temor de juros altos por mais tempo e derrubou bolsas asiáticas, puxadas por empresas ligadas à inteligência artificial.",
-  "status": "nova",
-  "titulo": "Kospi desaba 7,57% e Ásia tem dia de liquidação em ações de chips",
-  "url": "https://www.moneytimes.com.br/bolsas-da-asia-despencam-com-liquidacao-de-acoes-de-tecnologia-apos-cpi-dos-eua-fets/",
-  "id": "2026-10-15-01"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "+68,7%",
-  "fatos": [
-   "Receita de NT$ 1,494 trilhão (cerca de US$ 46,7 bilhões), alta de 50,9% em um ano.",
-   "A receita superou a faixa projetada pela própria empresa, de US$ 44,6 a 45,8 bilhões.",
-   "Lucro líquido de NT$ 763,06 bilhões, acima da estimativa da LSEG de NT$ 746,3 bilhões.",
-   "Margem bruta de 66,4%, 1,3 ponto abaixo do 2º tri, por causa do início da produção em 2 nm.",
-   "Projeção de investimentos em 2026 subiu para US$ 60 a 64 bilhões."
-  ],
-  "fonte": "TradingKey; CNBC",
-  "gancho": "*TSMC* lucra recorde com *IA*",
-  "horaEstimada": true,
-  "icone": "foguete",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-15T06:31:00-03:00",
-  "resumo": "Maior fabricante de chips do mundo cresceu lucro em 68,7% no 3º trimestre com demanda por IA, mas margem bruta recuou frente ao trimestre anterior.",
-  "status": "nova",
-  "titulo": "TSMC tem lucro recorde de NT$ 763 bilhões e supera estimativas",
-  "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262218050-tsmc-q3-earnings-beat-ai-demand-revenue-profit-record-tradingkey",
-  "id": "2026-10-15-02"
- },
- {
-  "categoria": "Agenda",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "9h IBGE",
-  "fatos": [
-   "Às 9h, o IBGE divulga o varejo de agosto; em julho, o restrito caiu 0,8% no mês.",
-   "Às 9h30 saem o PPI de setembro e os pedidos de seguro-desemprego nos EUA.",
-   "Às 10h30, vendas no varejo americano de setembro; em agosto, alta de 1,2%.",
-   "Tesouro faz leilão de prefixados às 11h30.",
-   "Cedo, o Nasdaq futuro caía 1,34%, o S&P 500 futuro 0,36%, e o Dow Jones futuro subia 0,41%."
-  ],
-  "fonte": "Exame; InfoMoney",
-  "gancho": "*Agenda* de *varejo* e PPI",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-15T05:30:00-03:00",
-  "resumo": "Quinta-feira traz vendas do varejo do IBGE, inflação ao produtor e varejo americanos; futuros de Nova York amanhecem mistos, com Nasdaq em queda.",
-  "status": "nova",
-  "titulo": "Varejo no Brasil e PPI e vendas nos EUA movem os mercados hoje",
-  "url": "https://exame.com/invest/mercados/varejo-no-brasil-inflacao-nos-eua-e-datafolha-o-que-move-os-mercados/",
-  "id": "2026-10-15-05"
- },
- {
-  "atualizadoEm": "2026-10-15T21:25:00-03:00",
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-15T06:58:00-03:00",
-  "data": "2026-10-15",
-  "destaque": "WTI +3%",
-  "fatos": [
-   "O Brent de dezembro fechou a US$ 105,92, queda de 0,1%; o WTI de novembro subiu 3%, a US$ 97,97.",
-   "Cedo, o Brent chegou a cair 1,89%, a US$ 104,10, com mais oferta da Rússia e do Golfo.",
-   "Navios afundaram perto do Estreito de Ormuz e o Brent acumula alta de mais de 70% no ano.",
-   "Os estoques de petróleo dos EUA caíram 8,6 milhões de barris, segundo a EIA.",
-   "Membros da IEA prometeram concluir a liberação de 100 milhões de barris de reservas."
-  ],
-  "fonte": "Money Times (Reuters); Rigzone",
-  "gancho": "*WTI* sobe, *Brent* trava",
-  "icone": "seta",
-  "impacto": "alto",
-  "ordem": 4,
-  "publicadoEm": "2026-10-15T05:00:00-03:00",
-  "resumo": "Depois de cair cedo, o petróleo americano fechou em forte alta, descolando do Brent, que ficou perto da estabilidade.",
-  "status": "atualizada",
-  "titulo": "Brent fecha estável e WTI dispara 3% com Ormuz e estoques dos EUA",
-  "url": "https://www.moneytimes.com.br/petroleo-recua-com-investidores-avaliando-perspectivas-de-oferta-e-tensoes-no-oriente-medio-fets/",
-  "id": "2026-10-15-04"
  }
 ]

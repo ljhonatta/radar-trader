@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-22T21:10:06-03:00",
-  "novas": 20,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-10-23T11:28:02-03:00",
+  "novas": 11,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "20 nova(s): Bradesco: lucro e inadimplência; Ibovespa e dólar: por que caem?; Taxas dos DIs sobem com eleições.",
+  "mensagem": "11 nova(s) e 1 atualizada(s): Inadimplência e Lucro em foco; Kering: Queda de ações e planos de fechamento; Inflação em queda no Brasil.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-23T11:28:02-03:00",
    "2026-10-22T21:10:06-03:00",
    "2026-10-22T16:30:55-03:00",
    "2026-10-22T11:41:47-03:00",
@@ -28,50 +29,50 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "204.120",
-    "var": "-1,15%"
+    "v": "203.590",
+    "var": "-0,26%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,05",
-    "var": "+0,56%"
+    "v": "R$ 5,04",
+    "var": "-0,23%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 5,67",
-    "var": "+0,45%"
+    "v": "R$ 5,65",
+    "var": "-0,40%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 81,2 mil",
-    "var": "-3,55%"
+    "v": "US$ 81,3 mil",
+    "var": "-0,39%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.663",
-    "var": "-1,21%"
+    "v": "7.614",
+    "var": "-0,65%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "28.959",
-    "var": "-2,90%"
+    "v": "28.926",
+    "var": "-0,11%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 113,08",
-    "var": "-0,08%"
+    "v": "US$ 116,24",
+    "var": "+2,71%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.038,50",
-    "var": "-0,54%"
+    "v": "US$ 4.011,60",
+    "var": "-1,20%"
    },
    {
     "k": "SELIC",
@@ -86,14 +87,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "qui 21h",
-  "data": "2026-10-22",
-  "atualizadoEm": "2026-10-22T21:10:06-03:00",
-  "ibov": "204.120",
-  "ibovVar": "-1,15%",
-  "dolar": "R$ 5,05",
-  "dolarVar": "+0,56%",
-  "btc": "US$ 81,2 mil"
+  "obs": "Parcial do pregão",
+  "hora": "sex 11h",
+  "data": "2026-10-23",
+  "atualizadoEm": "2026-10-23T11:28:02-03:00",
+  "ibov": "203.590",
+  "ibovVar": "-0,26%",
+  "dolar": "R$ 5,04",
+  "dolarVar": "-0,23%",
+  "btc": "US$ 81,3 mil"
  }
 }
