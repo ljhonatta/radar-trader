@@ -1,5 +1,670 @@
 [
  {
+  "titulo": "Goldman Sachs prevê reajuste de 50% no diesel da Petrobras",
+  "resumo": "O Goldman Sachs alerta para um possível reajuste de 50% no preço do diesel da Petrobras após as eleições, devido a defasagem em relação ao mercado internacional.",
+  "fatos": [
+   "A Petrobras apresenta defasagem de 21% em relação ao preço internacional do diesel.",
+   "Atualmente, o valor no mercado local é de R$ 2,12, enquanto o preço justo seria R$ 3,52 por litro.",
+   "Os analistas acreditam que o reajuste poderá ser de 50% caso a assimetria de subsídios seja eliminada após as eleições.",
+   "Além disso, há risco de alta adicional para compensar perdas do ano.",
+   "A estatal deve esperar o fim das eleições para decidir sobre qualquer alteração de preço."
+  ],
+  "numeros": [
+   {
+    "valor": "21%",
+    "rotulo": "defasagem no preço do diesel"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "possível aumento no preço"
+   },
+   {
+    "valor": "R$ 3,52",
+    "rotulo": "preço internacional do diesel"
+   },
+   {
+    "valor": "R$ 2,12",
+    "rotulo": "preço atual do diesel no Brasil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "50%",
+  "porQueImporta": "Esse reajuste pode impactar diretamente no custo de transportes e, consequentemente, na inflação e preços de produtos consumidos diariamente.",
+  "impactoMercado": "Uma alta no preço do diesel pode influenciar outros setores da economia, afetando os custos operacionais e a inflação.",
+  "entenda": "O diesel, utilizado em diversos setores, como transporte e agricultura, pode impactar a cadeia produtiva e preços ao consumidor final.",
+  "observar": "Fique de olho nas decisões da Petrobras após as eleições e nas reações do mercado ao possível reajuste.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como as decisões da Petrobras afetam o mercado é fundamental para quem deseja atuar como investidor.",
+  "gancho": "*Petrobras* e *preço do diesel* em alerta!",
+  "ideias": [
+   "Precificação do diesel: o que esperar?",
+   "Impactos do reajuste da Petrobras na inflação.",
+   "Defasagem do diesel: por que isso importa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "Exame",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://exame.com/economia/goldman-sachs-alerta-para-risco-de-petrobras-reajustar-preco-do-diesel-em-50-apos-eleicoes/",
+  "publicadoEm": "2026-10-23T13:20:49-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-11"
+ },
+ {
+  "titulo": "Petz Cobasi aprova recompra de até 17,6 milhões de ações",
+  "resumo": "A Petz Cobasi anunciou um programa de recompra de ações, que pode impactar positivamente o retorno aos acionistas ao aumentar o lucro por ação.",
+  "fatos": [
+   "O programa contempla a recompra de até 17,6 milhões de ações ordinárias.",
+   "Esse total equivale a 2,05% do total emitido e 10% das ações em circulação.",
+   "A recompra tem duração prevista até 23 de abril de 2028.",
+   "As ações AUAU3 têm alta de cerca de 35% em 2026, negociando a R$ 5,20.",
+   "A empresa registrou lucro líquido ajustado de R$ 70,3 milhões no segundo trimestre de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "17.600.000",
+    "rotulo": "número de ações a serem recompradas"
+   },
+   {
+    "valor": "R$ 5,20",
+    "rotulo": "preço das ações AUAU3"
+   },
+   {
+    "valor": "R$ 70,3 milhões",
+    "rotulo": "lucro líquido ajustado no 2º tri de 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "17.6 milhões",
+  "porQueImporta": "A recompra de ações geralmente resulta em maior lucro por ação, beneficiando os acionistas com potenciais retornos aumentados, como dividendos.",
+  "impactoMercado": "Essa estratégia pode fortalecer a confiança dos investidores na gestão da empresa e atrair mais capital para suas ações.",
+  "entenda": "O programa de recompra de ações é uma estratégia em que uma empresa adquire suas próprias ações para reduzir a quantidade em circulação, o que pode aumentar o lucro por ação.",
+  "observar": "Fique atento aos anúncios futuros sobre a execução do programa de recompra e os resultados financeiros trimestrais.",
+  "publico": [
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Entender movimentos de recompra pode ajudar os investidores a interpretar melhor a saúde financeira e as estratégias das empresas no mercado.",
+  "gancho": "Entenda as *recompras de ações* agora!",
+  "ideias": [
+   "O que a recompra de ações significa?",
+   "Como a Petz Cobasi aumenta seu valor?",
+   "Impactos da recompra para o acionista"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/petz-cobasi-auau3-quer-recomprar-ate-176-milhoes-de-acoes-o-que-isso-significa-para-o-acionista-lmrs/",
+  "publicadoEm": "2026-10-23T16:21:22-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-12"
+ },
+ {
+  "titulo": "Safra projeta Ibovespa a 260 mil pontos até 2027",
+  "resumo": "O banco Safra acredita que o Ibovespa pode subir 27,4% até 2027, alcançando 260 mil pontos, caso haja melhorias fiscais e cortes de juros.",
+  "fatos": [
+   "O Ibovespa deverá subir 27,4%, chegando aos 260 mil pontos até 2027.",
+   "O cenário macroeconômico mais favorável pode permitir cortes adicionais na taxa Selic, atualmente em 13,75%.",
+   "Nos últimos 30 dias, o Ibovespa já registrou uma alta de mais de 9%.",
+   "O peso do Brasil nos índices emergentes é de 4,8%, 20% abaixo da média histórica."
+  ],
+  "numeros": [
+   {
+    "valor": "260000",
+    "rotulo": "Ibovespa projetado para 2027"
+   },
+   {
+    "valor": "27,4%",
+    "rotulo": "possível alta até 2027"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic atual"
+   },
+   {
+    "valor": "9%",
+    "rotulo": "alta do Ibovespa nos últimos 30 dias"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "27,4%",
+  "porQueImporta": "Entender as projeções do Ibovespa ajuda investidores a tomarem decisões sobre exposição em renda variável e avaliar riscos associados ao cenário fiscal.",
+  "impactoMercado": "Uma melhora no cenário fiscal pode aumentar o interesse de investidores, especialmente os que atuam em renda variável, potencialmente reduzindo a atratividade da renda fixa.",
+  "entenda": "O Ibovespa é o principal índice da B3, representando as ações mais negociadas no Brasil. Suas variações refletem a percepção do mercado sobre o desempenho da economia brasileira.",
+  "observar": "Acompanhe os próximos anúncios sobre política fiscal e decisões do Copom em relação à taxa de juros, pois podem impactar o comportamento do Ibovespa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa projeção do Safra mostra a importância de acompanhar o cenário fiscal e suas repercussões no mercado acionário, impulsionando o interesse por educação financeira.",
+  "gancho": "*Projeção otimista* para o *Ibovespa* até 2027",
+  "ideias": [
+   "Ibovespa: Safra vê potencial de 27,4% até 2027",
+   "O que a projeção do Safra significa para você?",
+   "Desafios fiscais: como afetam o Ibovespa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-tem-espaco-para-subir-mais-de-27-e-alcancar-260-mil-pontos-em-2027-projeta-safra-davs/",
+  "publicadoEm": "2026-10-23T14:03:41-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-13"
+ },
+ {
+  "titulo": "Cenários eleitorais e suas implicações no mercado financeiro",
+  "resumo": "A vitória de Lula pode manter os juros altos, favorecendo a renda fixa, enquanto Flávio Bolsonaro poderia beneficiar a economia real. As apostas do CEO da EQI são analisadas.",
+  "fatos": [
+   "Juliano Custódio, CEO da EQI, afirma que uma vitória de Lula tende a manter os juros elevados, beneficiando a renda fixa.",
+   "Por outro lado, uma vitória de Flávio Bolsonaro favoreceria ativos da economia real.",
+   "Custódio destaca que o foco dos investidores está na expectativa para os juros.",
+   "O juro futuro caiu quase dois pontos percentuais desde o primeiro turno, mas pode não cair muito mais sem reformas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Compreender o impacto das eleições na taxa de juros ajuda investidores a formularem estratégias de atuação no mercado.",
+  "impactoMercado": "Os resultados eleitorais podem influenciar as expectativas de juros e a atratividade de diferentes investimentos.",
+  "entenda": "Renda fixa se refere a investimentos que oferecem rendimentos regulares e previsíveis, a partir de juros pré-estabelecidos.",
+  "observar": "Fique atento às propostas dos candidatos e suas possíveis repercussões nas taxas de juros e na economia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A análise de como diferentes cenários eleitorais impactam o mercado é crucial para quem quer entender finanças.",
+  "gancho": "*Eleições* e *juros*: o que esperar?",
+  "ideias": [
+   "Como as eleições influenciam a renda fixa?",
+   "O que esperar do cenário econômico pós-eleição?",
+   "A importância do equilíbrio fiscal na política brasileira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "moeda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.seudinheiro.com/2026/economia/se-o-lula-vencer-o-cenario-tende-a-favorecer-mais-o-rentismo-diz-ceo-da-eqi-veja-as-apostas-da-corretora-rnda/",
+  "publicadoEm": "2026-10-23T15:56:48-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-14"
+ },
+ {
+  "titulo": "Expectativas com vitória de Flávio ou Lula na eleição",
+  "resumo": "As eleições podem ter impacto na Bolsa, no dólar e nas taxas de juros, trazendo diferentes cenários financeiros. Investidores devem se preparar para as possíveis mudanças.",
+  "fatos": [
+   "A vitória de Flávio ou Lula pode afetar a confiança dos investidores.",
+   "A Bolsa pode reagir de forma positiva ou negativa dependendo do candidato eleito.",
+   "Alterações nas taxas de juros devem ser esperadas, influenciadas pelas políticas econômicas propostas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as expectativas eleitorais ajuda investidores a se prepararem para movimentações no mercado.",
+  "impactoMercado": "As flutuações em Bolsa e no câmbio podem afetar diretamente os investimentos e decisões financeiras.",
+  "entenda": "O mercado financeiro é suscetível a mudanças políticas, o que pode impactar investimentos e a economia como um todo.",
+  "observar": "Acompanhe as declarações dos candidatos e a reação dos mercados após o resultado das eleições.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A análise das eleições e seus impactos pode despertar o interesse em aprender sobre investimentos e a dinâmica do mercado.",
+  "gancho": "O que *esperar* das eleições?",
+  "ideias": [
+   "Impactos eleitorais na *Bolsa*",
+   "Cenários para o *dólar* nas eleições",
+   "Juros e *eleições*: o que esperar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.google.com/search?q=Bolsa%2C+d%C3%B3lar+e+juros%3A+o+que+esperar+se+Fl%C3%A1vio+ou+Lula+vencer+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-23T15:35:25-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-15"
+ },
+ {
+  "titulo": "Ouro fecha em baixa e fica abaixo de US$ 4 mil",
+  "resumo": "O metal precioso encerra a semana com perdas devido a altas no petróleo e busca por liquidez após queda de ações de tecnologia.",
+  "fatos": [
+   "O ouro foi cotado a US$ 4.007,90 por onça-troy.",
+   "A perda semanal foi de 4,14%.",
+   "A prata também caiu, cotada a US$ 53,949 por onça-troy com perda de 5,9%.",
+   "O aumento do preço do petróleo alimentou temores inflacionários.",
+   "Investidores estão buscando liquidez devido à baixa do Nasdaq."
+  ],
+  "numeros": [
+   {
+    "valor": "4.007,90",
+    "rotulo": "preço do ouro por onça-troy"
+   },
+   {
+    "valor": "4,14%",
+    "rotulo": "perda semanal do ouro"
+   },
+   {
+    "valor": "53,949",
+    "rotulo": "preço da prata por onça-troy"
+   },
+   {
+    "valor": "5,9%",
+    "rotulo": "perda semanal da prata"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 4.007,90",
+  "porQueImporta": "As oscilações do preço do ouro afetam investidores que buscam segurança em tempos de incerteza econômica.",
+  "impactoMercado": "O cenário atual sugere que a pressão inflacionária pode continuar a impactar os preços dos metais preciosos.",
+  "entenda": "O preço do ouro é influenciado por fatores como inflação, juros e liquidez no mercado financeiro.",
+  "observar": "Prestar atenção nas próximas movimentações do petróleo e nos dados de inflação pode ser crucial para o preço do ouro.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender a dinâmica do mercado de ouro ajuda investidores a tomar decisões mais informadas.",
+  "gancho": "*Ouro em queda* e *inflação em alta*",
+  "ideias": [
+   "Como a alta do petróleo afeta o ouro?",
+   "Entenda a relação entre ouro e inflação.",
+   "O que esperar do mercado de metais preciosos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "queda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://bpmoney.com.br/mercado/commodities/ouro-cai-abaixo-us-4-mil-perda-4-por-cento-semana/",
+  "publicadoEm": "2026-10-23T15:52:04-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-16"
+ },
+ {
+  "titulo": "TSE mantém funcionamento do canal ‘Exército do Lula’",
+  "resumo": "O ministro do TSE, Floriano de Azevedo, impede a suspensão do canal ‘Exército do Lula’, garantindo que novas decisões sejam levadas a plenário.",
+  "fatos": [
+   "O ministro do TSE proibiu a suspensão do canal ‘Exército do Lula’ por decisão individual.",
+   "A liminar foi concedida em resposta a um mandado de segurança da campanha de Lula.",
+   "Qualquer nova medida sobre o canal deve ser discutida em plenário.",
+   "O canal possui quase 10 milhões de inscritos.",
+   "A decisão ocorre a dois dias do segundo turno da eleição presidencial."
+  ],
+  "numeros": [
+   {
+    "valor": "10.000.000",
+    "rotulo": "inscritos no canal ‘Exército do Lula’"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "10 milhões",
+  "porQueImporta": "A decisão do TSE pode impactar o fluxo de informações durante a eleição, influenciando a opinião pública.",
+  "impactoMercado": "A estabilidade política é crucial; decisões eleitorais podem afetar a confiança nas instituições e o comportamento do investidor.",
+  "entenda": "O TSE é responsável por regular as eleições e garantir que não haja abusos de comunicação, especialmente nas plataformas digitais.",
+  "observar": "Acompanhe os desdobramentos sobre a operação de canais e a regulamentação do uso das mídias sociais na política.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como decisões políticas influenciam o mercado é essencial para a formação de investidores conscientes.",
+  "gancho": "TSE mantém canal em véspera de eleições",
+  "ideias": [
+   "Como decisões do TSE impactam o mercado?",
+   "O que é o canal ‘Exército do Lula’?",
+   "A influência das redes sociais nas eleições"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.infomoney.com.br/politica/ministro-do-tse-barra-suspensao-monocratica-do-canal-exercito-do-lula/",
+  "publicadoEm": "2026-10-23T15:41:09-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-17"
+ },
+ {
+  "titulo": "Ágora recomenda day trade: compre *POMO4* e venda *GGBR4*",
+  "resumo": "Ações da Marcopolo e Gerdau são recomendadas para operações de day trade nesta sexta-feira (23). Potenciais de ganho são de até 1,47% e 1,46%, respectivamente.",
+  "fatos": [
+   "Marcopolo (POMO4) é recomendada para compra em day trade pela Ágora Investimentos.",
+   "As ações da Marcopolo fecharam a sessão da última quinta-feira a R$ 4,75.",
+   "O potencial de ganho para POMO4 é de 1,47% e o stop sugerido é de R$ 4,72.",
+   "Gerdau (GGBR4) é recomendada para venda, com retorno de até 1,46% e stop em R$ 25,62."
+  ],
+  "numeros": [
+   {
+    "valor": "4,75",
+    "rotulo": "Cotação fechamento POMO4"
+   },
+   {
+    "valor": "4,72",
+    "rotulo": "Stop sugerido POMO4"
+   },
+   {
+    "valor": "1,47%",
+    "rotulo": "Potencial de ganho POMO4"
+   },
+   {
+    "valor": "25,62",
+    "rotulo": "Stop sugerido GGBR4"
+   },
+   {
+    "valor": "1,46%",
+    "rotulo": "Potencial de ganho GGBR4"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,47%",
+  "porQueImporta": "As recomendações de day trade podem ajudar traders a identificar oportunidades de lucros rápidos, mas envolvem risco.",
+  "impactoMercado": "A adoção dessas estratégias em operações de curto prazo pode gerar maior volatilidade no mercado das ações indicadas.",
+  "entenda": "O day trade é uma estratégia de investimento onde as operações são realizadas e finalizadas no mesmo dia, buscando lucros rápidos.",
+  "observar": "Fique atento ao monitorar os preços de entrada e saída das ações durante o dia.",
+  "publico": [
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Entender as recomendações de day trade pode impulsionar seu conhecimento sobre operações na Bolsa e os riscos envolvidos.",
+  "gancho": "*Ações recomendadas* para day trade",
+  "ideias": [
+   "Marcopolo: compre hoje e veja seus ganhos!",
+   "Day trade: estratégias para lucros diários",
+   "Entenda o potencial de POMO4 e GGBR4"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Day trade",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.moneytimes.com.br/day-trade-compre-marcopolo-pomo4-e-venda-gerdau-ggbr4-para-ganhar-ate-14-hoje-23-segundo-a-agora/",
+  "publicadoEm": "2026-10-23T09:30:35-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-18"
+ },
+ {
+  "titulo": "Small caps podem se destacar com ajustes fiscais e juros menores",
+  "resumo": "Caio Megale da XP Investimentos indica que um ajuste fiscal pode impulsionar o mercado, especialmente as small caps. Expectativa de quedas nos juros também é mencionada.",
+  "fatos": [
+   "Caio Megale comentou sobre a incerteza do segundo turno eleitoral e seu impacto no mercado.",
+   "Ele destacou que a alta dos preços de commodities beneficia o Brasil, que deve registrar recordes de exportações este ano.",
+   "Megale acredita que um ajuste fiscal pode permitir a redução das taxas de juros, beneficiando as ações menores.",
+   "O real deve permanecer estável a curto prazo, com o câmbio perto de R$ 5,10."
+  ],
+  "numeros": [
+   {
+    "valor": "1,4 trilhões",
+    "rotulo": "Investimentos em data centers até 2027"
+   },
+   {
+    "valor": "R$ 5,10",
+    "rotulo": "Cotação do câmbio atual"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Ajuste fiscal potencial",
+  "porQueImporta": "Entender como o cenário fiscal e a política econômica podem afetar o mercado é essencial para tomar decisões informadas ao investir.",
+  "impactoMercado": "Uma política fiscal saudável pode impulsionar o mercado acionário e beneficiar especialmente as small caps.",
+  "entenda": "Small caps, ou ações de empresas menores, podem ter maior potencial de crescimento em um ambiente de juros mais baixos.",
+  "observar": "Fique atento às sinalizações do novo governo sobre controle fiscal e possíveis medidas econômicas nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa análise mostra como o cenário político e econômico influencia as oportunidades de investimento, incentivando a educação no mercado.",
+  "gancho": "*Ajuste fiscal* e *juros menores*: O futuro das small caps",
+  "ideias": [
+   "Por que o ajuste fiscal é crucial para o mercado?",
+   "Como as small caps reagem a mudanças fiscais?",
+   "Entenda o impacto dos juros baixos nas ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.moneytimes.com.br/small-caps-podem-brilhar-com-ajuste-fiscal-e-juros-menores-diz-caio-megale-da-xp-apsa/",
+  "publicadoEm": "2026-10-23T09:32:20-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-19"
+ },
+ {
+  "titulo": "Fundo ALZR11 busca até R$ 530,5 milhões no mercado",
+  "resumo": "O FII Alianza Trust Renda (ALZR11) aprovou uma nova emissão de cotas que pode levantar até R$ 530,5 milhões para aquisição de ativos e pagamentos de encargos.",
+  "fatos": [
+   "A 9ª emissão de cotas do ALZR11 pode levantar até R$ 530,5 milhões.",
+   "Serão emitidos inicialmente 40 milhões de novos papéis a R$ 10,61 cada, totalizando R$ 10,71 com taxa de distribuição.",
+   "A oferta destina-se a investidores profissionais que possuem mais de R$ 10 milhões aplicados.",
+   "Se houver demanda, a quantidade de novas cotas pode chegar a 50 milhões.",
+   "O patrimônio líquido do ALZR11 é de R$ 1,76 bilhão, com compromissos financeiros totais de R$ 544,3 milhões até 2041."
+  ],
+  "numeros": [
+   {
+    "valor": "530,5 milhões",
+    "rotulo": "Valor total da captação"
+   },
+   {
+    "valor": "10,71",
+    "rotulo": "Preço de subscrição por cota"
+   },
+   {
+    "valor": "50 milhões",
+    "rotulo": "Número total de novas cotas"
+   },
+   {
+    "valor": "1,76 bilhões",
+    "rotulo": "Patrimônio líquido do ALZR11"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 530,5 milhões",
+  "porQueImporta": "A captação de recursos é essencial para a expansão de ativos do FII, impactando sua performance no mercado e atraindo o interesse dos investidores.",
+  "impactoMercado": "O sucesso da oferta pode influenciar a liquidez e a percepção do mercado sobre o ALZR11, podendo afetar o preço das cotas no futuro.",
+  "entenda": "Um Fundo Imobiliário (FII) permite que investidores se tornem cotistas e dividam lucros provenientes de ativos imobiliários, como aluguéis e vendas.",
+  "observar": "Fique atento ao andamento da oferta e à resposta do mercado em relação à demanda pelas novas cotas do fundo.",
+  "publico": [
+   "Investidores",
+   "Aposentados",
+   "Empresários"
+  ],
+  "angulo": "Esse movimento mostra a importância de compreender como as ofertas de novos papéis funcionam e o papel dos FIIs no mercado financeiro.",
+  "gancho": "*ALZR11* capta R$ 530,5 milhões!",
+  "ideias": [
+   "Entenda a nova emissão do ALZR11!",
+   "FII ALZR11 busca expansão com nova oferta.",
+   "O que significa a captação de R$ 530,5 milhões?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "FIIs",
+  "icone": "moeda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/fundo-imobiliario-alzr11-vai-ao-mercado-em-busca-de-ate-r-5305-milhoes-veja-os-detalhes-igdl/",
+  "publicadoEm": "2026-10-23T14:28:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-20"
+ },
+ {
+  "titulo": "Mercado de canetas emagrecedoras deve triplicar até 2035",
+  "resumo": "O mercado de canetas emagrecedoras pode crescer significativamente, alcançando um valor de US$ 22 bilhões até 2035.",
+  "fatos": [
+   "O mercado de canetas emagrecedoras está em expansão.",
+   "Prevê-se que seu valor atinja US$ 22 bilhões até 2035.",
+   "O crescimento é de até três vezes o tamanho atual."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "US$ 22 bilhões",
+  "porQueImporta": "Esse crescimento reflete tendências de saúde e bem-estar, que podem impactar setores relacionados.",
+  "impactoMercado": "A ascensão deste mercado pode gerar oportunidades para empresas que atuam em nichos de saúde e estética.",
+  "entenda": "Canetas emagrecedoras são produtos que prometem ajudar na perda de peso e no bem-estar.",
+  "observar": "Acompanhe novas inovações e regulações neste segmento de produtos.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "O crescimento do mercado de canetas emagrecedoras pode incentivar investidores a entender mais sobre saúde e bem-estar.",
+  "gancho": "*Crescimento* do mercado de canetas *emagrecedoras*",
+  "ideias": [
+   "Oportunidades em Saúde: Canetas emagrecedoras",
+   "Expansão do Mercado de Produtos emagrecedores",
+   "Canetas Emagrecedoras: Uma Tendência a Acompanhar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "G1",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "url": "https://www.google.com/search?q=Mercado+de+canetas+emagrecedoras+pode+triplicar+at%C3%A9+2035+e+chegar+a+US%24+22+bilh%C3%B5es+G1",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-23T13:51:25-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-21"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-low-will-5-year-treasury-yield-get-before-2027",
+  "titulo": "Mercado de previsões vê 62.5% de chance de *rendimentos abaixo de 4.70%* até 2027",
+  "resumo": "Apostadores esperam que os rendimentos dos títulos do Tesouro de 5 anos diminuam nos próximos meses.",
+  "probs": [
+   {
+    "opcao": "Abaixo de 4.70%",
+    "prob": 62.5
+   },
+   {
+    "opcao": "Abaixo de 4.65%",
+    "prob": 58.5
+   },
+   {
+    "opcao": "Abaixo de 4.60%",
+    "prob": 50.5
+   },
+   {
+    "opcao": "Abaixo de 4.55%",
+    "prob": 49.5
+   }
+  ],
+  "prazo": "2026-12-31",
+  "volume24h": "US$ 59 mil",
+  "fatos": [
+   "Abaixo de 4.70%: 62,5%",
+   "Abaixo de 4.65%: 58,5%",
+   "Abaixo de 4.60%: 50,5%",
+   "Abaixo de 4.55%: 49,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "62,5%",
+    "rotulo": "Abaixo de 4.70%"
+   },
+   {
+    "valor": "58,5%",
+    "rotulo": "Abaixo de 4.65%"
+   },
+   {
+    "valor": "50,5%",
+    "rotulo": "Abaixo de 4.60%"
+   },
+   {
+    "valor": "49,5%",
+    "rotulo": "Abaixo de 4.55%"
+   }
+  ],
+  "destaque": "62,5%",
+  "gancho": "*Expectativa de queda* nos rendimentos",
+  "entenda": "Os rendimentos dos títulos do Tesouro influenciam as taxas de juros e, portanto, a economia como um todo.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-low-will-5-year-treasury-yield-get-before-2027",
+  "publicadoEm": "2026-10-23T16:32:53-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-23T16:32:53-03:00",
+  "data": "2026-10-23",
+  "status": "nova",
+  "id": "2026-10-23-p2"
+ },
+ {
   "titulo": "Bradesco projeta aumento na inadimplência do crédito",
   "resumo": "O CEO do Bradesco alerta para um aumento da inadimplência em todo o sistema financeiro, mesmo com lucros recordes. Ações do banco caem com a notícia.",
   "fatos": [
