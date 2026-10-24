@@ -1,5 +1,1378 @@
 [
  {
+  "titulo": "Pesquisa mostra disputa acirrada entre Flávio e Lula",
+  "resumo": "Flávio Bolsonaro tem 49,9% dos votos totais e Lula, 48,4%. A diferença é de apenas 1,6 ponto percentual, com Lula mostrando leve recuperação na reta final.",
+  "fatos": [
+   "Flávio Bolsonaro possui 50,8% e Lula 49,2% nos votos válidos do segundo turno.",
+   "A pesquisa AtlasIntel/Bloomberg foi realizada com 4.990 pessoas entre 18 e 23 de outubro.",
+   "A margem de erro é de 1 ponto percentual, permitindo sobreposição entre candidatos.",
+   "A aprovação do governo Lula subiu para 48%, enquanto a desaprovação caiu para 51%.",
+   "A corrida presidencial está se estreitando conforme os candidatos se mobilizam nos últimos compromissos eleitorais."
+  ],
+  "numeros": [
+   {
+    "valor": "49,9",
+    "rotulo": "Votos totais de Flávio Bolsonaro"
+   },
+   {
+    "valor": "48,4",
+    "rotulo": "Votos totais de Lula"
+   },
+   {
+    "valor": "1,6",
+    "rotulo": "Pontos percentuais de diferença"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Aprovação do governo Lula",
+    "antes": "45%",
+    "depois": "48%"
+   },
+   {
+    "item": "Desaprovação do governo Lula",
+    "antes": "53%",
+    "depois": "51%"
+   }
+  ],
+  "destaque": "1,6 ponto percentual",
+  "porQueImporta": "Esse cenário eleitoral pode impactar a confiança do investidor, uma vez que instabilidades políticas geralmente afetam o mercado.",
+  "impactoMercado": "Mudanças na condução da política econômica podem influenciar decisões de investimento e a percepção de risco de ativos pelo mercado.",
+  "entenda": "As eleições podem afetar o mercado financeiro, pois diferentes administrações têm impactos variados sobre políticas econômicas, que podem influenciar a bolsa e a moeda.",
+  "observar": "Acompanhe a evolução das pesquisas até a votação e a repercussão da participação do eleitorado nas próximas eleições.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender o cenário político é fundamental para se posicionar corretamente no mercado financeiro.",
+  "gancho": "Disputa acirrada: *Flávio* vs *Lula*",
+  "ideias": [
+   "Flávio e Lula: quem lidera a corrida?",
+   "Impacto das eleições no mercado financeiro",
+   "Análise das intenções de voto na reta final"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/flavio-tem-499-e-lula-484-na-ultima-atlasintel-antes-das-urnas/",
+  "publicadoEm": "2026-10-24T19:30:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-26"
+ },
+ {
+  "titulo": "Flávio Bolsonaro lidera pesquisa a um dia do 2º turno",
+  "resumo": "Levantamento mostra Flávio Bolsonaro à frente de Lula com 50,8% a 49,2% dos votos válidos. Vantagem do candidato do PL diminuiu para 1,6 ponto percentual.",
+  "fatos": [
+   "Flávio Bolsonaro (PL) tem 50,8% dos votos válidos, enquanto Lula (PT) possui 49,2%.",
+   "A diferença entre os candidatos é de 1,6 ponto percentual, empatados tecnicamente pela margem de erro de 1 ponto.",
+   "Na pesquisa anterior, Flávio tinha 51,1% e Lula 48,9%.",
+   "A votação total, incluindo brancos e nulos, mostra Flávio com 49,9% e Lula com 48,4%.",
+   "A pesquisa entrevistou 4.990 pessoas entre 18 e 23 de outubro de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "50,8%",
+    "rotulo": "Votos válidos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "49,2%",
+    "rotulo": "Votos válidos de Lula"
+   },
+   {
+    "valor": "1,6",
+    "rotulo": "Diferença percentual entre candidatos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Votos válidos de Flávio",
+    "antes": "51,1%",
+    "depois": "50,8%"
+   },
+   {
+    "item": "Votos válidos de Lula",
+    "antes": "48,9%",
+    "depois": "49,2%"
+   }
+  ],
+  "destaque": "1,6",
+  "porQueImporta": "Essas informações são importantes para investidores, pois a instabilidade política pode impactar o mercado em diferentes setores e ativos financeiros.",
+  "impactoMercado": "O clima eleitoral pode afetar o desempenho da Bolsa e de ativos, dado que expectativas em relação ao governo costumam influenciar decisões de investidores.",
+  "entenda": "Votos válidos são aqueles que consideram apenas os votos que não foram brancos ou nulos, refletindo a real intenção de voto.",
+  "observar": "Acompanhe a evolução das pesquisas e possíveis reações do mercado após o resultado das eleições.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como eleições impactam o mercado é fundamental para investidores que buscam se preparar para mudanças econômicas.",
+  "gancho": "Pesquisa mostra *empate técnico* na corrida presidencial",
+  "ideias": [
+   "Como o cenário eleitoral pode impactar sua carteira de investimentos?",
+   "O que significa estar em empate técnico nas eleições?",
+   "Entenda a influência das eleições no mercado financeiro."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Exame",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://exame.com/brasil/pesquisa-atlasintel-flavio-bolsonaro-tem-508-e-lula-492-na-vespera-do-2o-turno/",
+  "publicadoEm": "2026-10-24T16:30:07-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-27"
+ },
+ {
+  "titulo": "Pesquisa Datafolha indica Flávio Bolsonaro com 51% e Lula com 49%",
+  "resumo": "A nova pesquisa mostra Flávio Bolsonaro com 51% e Lula com 49% dos votos válidos. Ambos candidatos seguem tecnicamente empatados dentro da margem de erro.",
+  "fatos": [
+   "A pesquisa Datafolha divulgada em 24 de outubro mostra Flávio Bolsonaro (PL) com 51% e Lula (PT) com 49% dos votos válidos.",
+   "A diferença de dois pontos percentuais é considerada empate técnico, dada a margem de erro de dois pontos.",
+   "Entre eleitores com alta propensão a votar, Bolsonaro tem 52% contra 48% de Lula.",
+   "O levantamento ouviu 4.050 pessoas entre 23 e 24 de outubro de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "51",
+    "rotulo": "Flávio Bolsonaro votos válidos"
+   },
+   {
+    "valor": "49",
+    "rotulo": "Lula votos válidos"
+   },
+   {
+    "valor": "2",
+    "rotulo": "pontos% diferença"
+   },
+   {
+    "valor": "4.050",
+    "rotulo": "pessoas entrevistadas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio Bolsonaro",
+    "antes": "50%",
+    "depois": "51%"
+   },
+   {
+    "item": "Lula",
+    "antes": "50%",
+    "depois": "49%"
+   }
+  ],
+  "destaque": "51%",
+  "porQueImporta": "Compreender a dinâmica eleitoral é crucial para investidores, pois mudanças políticas podem impactar o ambiente econômico.",
+  "impactoMercado": "O resultado das eleições pode influenciar a confiança dos investidores e a performance do mercado financeiro brasileiro.",
+  "entenda": "As pesquisas de intenção de voto ajudam a prever o comportamento do eleitorado e o potencial resultado das eleições.",
+  "observar": "Acompanhe os próximos levantamentos e como a movimentação política pode afetar o mercado financeiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Analisar pesquisas eleitorais pode ajudar a entender os efeitos de decisões políticas no mercado financeiro, um componente importante para quem opera.",
+  "gancho": "Eleição 2026: *Bolsonaro* e *Lula* empatados!",
+  "ideias": [
+   "Os impactos das eleições no mercado financeiro",
+   "Entenda o que as pesquisas eleitorais significam",
+   "A importância do voto e seus reflexos econômicos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://exame.com/brasil/pesquisa-datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos/",
+  "publicadoEm": "2026-10-24T15:38:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-28"
+ },
+ {
+  "titulo": "Datafolha: Flávio e Lula em empate técnico",
+  "resumo": "A última pesquisa Datafolha mostra Flávio Bolsonaro com 51% e Lula com 49% dos votos válidos, configurando um empate técnico. A probabilidade de comparecimento revelou novos dados.",
+  "fatos": [
+   "Flávio Bolsonaro aparece com 51% e Lula com 49% dos votos válidos.",
+   "A diferença de 2 pontos percentuais está dentro da margem de erro.",
+   "Flávio tem 52% entre eleitores de alta propensão a votar; Lula, 48%.",
+   "Entre os eleitores de baixa ou média propensão, Lula tem 52% e Flávio, 48%.",
+   "A pesquisa Datafolha entrevistou 4.050 eleitores nos dias 23 e 24 de outubro."
+  ],
+  "numeros": [
+   {
+    "valor": "51",
+    "rotulo": "percentual de Flávio Bolsonaro"
+   },
+   {
+    "valor": "49",
+    "rotulo": "percentual de Lula"
+   },
+   {
+    "valor": "2",
+    "rotulo": "pontos percentuais de diferença"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "votos válidos de Flávio",
+    "antes": "52",
+    "depois": "51"
+   },
+   {
+    "item": "votos válidos de Lula",
+    "antes": "48",
+    "depois": "49"
+   }
+  ],
+  "destaque": "51%",
+  "porQueImporta": "Essa pesquisa pode influenciar decisões dos investidores que avaliam o cenário político e suas implicações na economia.",
+  "impactoMercado": "Mudanças nas preferências eleitorais podem impactar a confiança no mercado e o comportamento dos ativos.",
+  "entenda": "A margem de erro é um intervalo que define a precisão de uma pesquisa, indicando o quanto os resultados podem variar.",
+  "observar": "Acompanhe a mobilização dos candidatos e as taxas de comparecimento nas eleições.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender o cenário político ajuda a tomar decisões mais informadas sobre investimentos e operações no mercado.",
+  "gancho": "*Empate técnico* nas eleições!",
+  "ideias": [
+   "Como a pesquisa pode afetar o mercado?",
+   "Entenda o que significa empate técnico!",
+   "O que observar nas eleições deste domingo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/datafolha-final-flavio-51-lula-49-em-votos-validos-empate-tecnico-permanece/",
+  "publicadoEm": "2026-10-24T18:42:26-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-29"
+ },
+ {
+  "titulo": "Pesquisas mostram Flávio Bolsonaro à frente de Lula",
+  "resumo": "As últimas pesquisas indicam uma disputa acirrada entre Flávio Bolsonaro e Lula, com Flávio à frente, mas dentro da margem de erro. Confira os detalhes das intenções de voto e rejeições.",
+  "fatos": [
+   "Segundo o Datafolha, Flávio Bolsonaro tem 51% e Lula 49% dos votos válidos.",
+   "Na pesquisa BTG Pactual/Nexus, Flávio aparece com 50,5% e Lula com 49,5%.",
+   "No primeiro turno, Flávio obteve 47,03% e Lula 45,16% dos votos válidos.",
+   "A rejeição a Lula é de 49,1%, enquanto a de Flávio é de 46,5%.",
+   "A avaliação positiva do governo federal é de 34,8%, com 16,1% considerando ótima."
+  ],
+  "numeros": [
+   {
+    "valor": "51",
+    "rotulo": "Votos válidos de Flávio Bolsonaro no Datafolha"
+   },
+   {
+    "valor": "49",
+    "rotulo": "Votos válidos de Lula no Datafolha"
+   },
+   {
+    "valor": "50,5",
+    "rotulo": "Votos válidos de Flávio no BTG Pactual/Nexus"
+   },
+   {
+    "valor": "49,5",
+    "rotulo": "Votos válidos de Lula no BTG Pactual/Nexus"
+   },
+   {
+    "valor": "34,8",
+    "rotulo": "Avaliação positiva do governo federal"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio Bolsonaro - Datafolha",
+    "antes": "50",
+    "depois": "51"
+   },
+   {
+    "item": "Lula - Datafolha",
+    "antes": "50",
+    "depois": "49"
+   },
+   {
+    "item": "Flávio Bolsonaro - BTG Pactual/Nexus",
+    "antes": "50,3",
+    "depois": "50,5"
+   },
+   {
+    "item": "Lula - BTG Pactual/Nexus",
+    "antes": "49,7",
+    "depois": "49,5"
+   }
+  ],
+  "destaque": "51%",
+  "porQueImporta": "Essas pesquisas influenciam diretamente a percepção dos investidores sobre a estabilidade política e econômica do país, fatores essenciais para a tomada de decisões no mercado.",
+  "impactoMercado": "Mudanças nas avaliações eleitorais podem impactar a confiança do investidor, resultando em volatilidade nas ações e no câmbio, especialmente durante períodos eleitorais.",
+  "entenda": "Ver o que é um 'empate técnico' é importante para compreender como pesquisas eleitorais podem não refletir uma diferença clara entre candidatos.",
+  "observar": "Acompanhe as reações do mercado após o resultado da eleição, especialmente no comportamento das ações e na estabilidade do câmbio.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender as implicações das notícias eleitorais é essencial para quem opera no mercado financeiro, mostrando como a política afeta a economia.",
+  "gancho": "Eleições impactam o *mercado financeiro*?",
+  "ideias": [
+   "Disputa acirrada: o que isso significa?",
+   "Eleições e o mercado: como se preparar?",
+   "Bolsonaro e Lula: quem influi mais no mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/pesquisas-btg-pactual-nexus-e-datafolha-mostram-empate-tecnico-na-vespera-do-2o-turno/",
+  "publicadoEm": "2026-10-24T19:03:57-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-30"
+ },
+ {
+  "titulo": "Empate técnico entre Flávio Bolsonaro e Lula no 2º turno",
+  "resumo": "A pesquisa Futura revela um cenário de empate técnico com Flávio Bolsonaro marcando 50,1% e Lula, 49,9% dos votos válidos. Mudanças nas intenções de voto foram registradas em relação à pesquisa anterior.",
+  "fatos": [
+   "A pesquisa Futura indica Flávio Bolsonaro com 50,1% e Lula com 49,9%, um empate técnico.",
+   "A diferença de 0,2 ponto percentual está dentro da margem de erro de 2,2 pontos.",
+   "Bolsonaro caiu de 51,5% e Lula subiu de 48,9% na comparação com a pesquisa anterior.",
+   "Nos votos totais, Bolsonaro tem 48,2% e Lula 47,9%.",
+   "A pesquisa entrevistou 2.000 eleitores entre 23 e 24 de outubro de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "50,1",
+    "rotulo": "percentual de votos válidos de Bolsonaro"
+   },
+   {
+    "valor": "49,9",
+    "rotulo": "percentual de votos válidos de Lula"
+   },
+   {
+    "valor": "2,2",
+    "rotulo": "margem de erro da pesquisa"
+   },
+   {
+    "valor": "1,6",
+    "rotulo": "percentual de indecisos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Votos válidos - Bolsonaro",
+    "antes": "51,5",
+    "depois": "50,1"
+   },
+   {
+    "item": "Votos válidos - Lula",
+    "antes": "48,9",
+    "depois": "49,9"
+   }
+  ],
+  "destaque": "50,1%",
+  "porQueImporta": "Esse empate técnico pode influenciar a confiança do mercado em relação a políticas econômicas, dependendo de quem vencer as eleições.",
+  "impactoMercado": "Mudanças nas intenções de voto podem gerar volatilidade nos ativos financeiros, refletindo incertezas políticas futuras.",
+  "entenda": "O empate técnico significa que a diferença entre os candidatos é tão pequena que não é possível definir um vencedor com certeza.",
+  "observar": "Acompanhar as próximas pesquisas para identificar tendências e possíveis impactos no mercado financeiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender o impacto das eleições no mercado financeiro é crucial para quem deseja operar com inteligência e estratégia.",
+  "gancho": "Eleições 2026: *Bolsonaro* e *Lula* em empate técnico!",
+  "ideias": [
+   "Como o empate técnico afeta os mercados?",
+   "O que significa o cenário eleitoral para os investidores?",
+   "Entenda a pesquisa Futura e suas implicações!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://exame.com/brasil/pesquisa-futura-flavio-bolsonaro-tem-501-e-lula-499-no-2o-turno/",
+  "publicadoEm": "2026-10-24T17:35:19-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-31"
+ },
+ {
+  "titulo": "Pesquisa mostra Flávio com 50,5% e Lula 49,5% na véspera do segundo turno",
+  "resumo": "Flávio Bolsonaro lidera por 1 ponto percentual, dentro da margem de erro de 2,2. No modelo que prevê 21% de abstenção, ele chega a 52,4% dos votos válidos.",
+  "fatos": [
+   "Flávio Bolsonaro (PL) tem 50,5% dos votos válidos, enquanto Lula (PT) possui 49,5%.",
+   "A diferença de 1 ponto está dentro da margem de erro, que é de 2,2 pontos.",
+   "No modelo que exclui 21% de abstenção do primeiro turno, Flávio atinge 52,4% dos votos válidos.",
+   "Entre os que compareceram ao primeiro turno, Flávio tem 51,2%, e entre os que não foram, Lula lidera com 53,2%.",
+   "A pesquisa foi realizada com 2.000 eleitores e tem um nível de confiança de 95%."
+  ],
+  "numeros": [
+   {
+    "valor": "50,5",
+    "rotulo": "votos válidos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "49,5",
+    "rotulo": "votos válidos de Lula"
+   },
+   {
+    "valor": "2,2",
+    "rotulo": "margem de erro da pesquisa"
+   },
+   {
+    "valor": "21",
+    "rotulo": "percentual de abstenção do primeiro turno"
+   },
+   {
+    "valor": "2.000",
+    "rotulo": "número de eleitores entrevistados"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "50,5% x 49,5%",
+  "porQueImporta": "As pesquisas eleitorais podem influenciar o sentimento do mercado, especialmente nas vésperas das eleições, refletindo as expectativas dos investidores sobre a estabilidade política.",
+  "impactoMercado": "Mudanças na liderança das pesquisas podem afetar a confiança do investidor e a volatilidade do mercado, principalmente em setores sensíveis a políticas fiscais e monetárias.",
+  "entenda": "Pesquisas eleitorais medem a intenção de voto dos eleitores e ajudam a prever possíveis resultados, refletindo o cenário político que pode influenciar a economia.",
+  "observar": "Fique atento para próximos resultados das pesquisas e as reações do mercado ao novo cenário político pós-eleição.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as pesquisas eleitorais ajuda a interpretar o cenário econômico e as decisões de investimento em tempos de incerteza política.",
+  "gancho": "*Eleições 2026*: Flávio e Lula em disputa acirrada!",
+  "ideias": [
+   "Como as eleições influenciam o mercado financeiro?",
+   "Entenda a importância das pesquisas eleitorais.",
+   "O que esperar do mercado após as eleições?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Bloomberg Línea",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.bloomberglinea.com.br/brasil/btgnexus-flavio-tem-505-e-lula-495-dos-votos-validos-na-vespera-do-segundo-turno/",
+  "publicadoEm": "2026-10-24T18:09:04-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-32"
+ },
+ {
+  "titulo": "Empate técnico entre Flávio e Lula às vésperas do 2º turno",
+  "resumo": "Pesquisa CNT/MDA mostra Flávio Bolsonaro com 46,3% e Lula com 45%, configurando empate técnico a um dia da votação. Indecisos e votos nulos somam 8,7%.",
+  "fatos": [
+   "Divulgada em 24 de outubro, a pesquisa CNT/MDA mostra Flávio Bolsonaro com 46,3% das intenções de voto e Lula com 45%.",
+   "A margem de erro é de 2,2 pontos percentuais, configurando um empate técnico.",
+   "5,8% dos eleitores pretendem anular o voto ou deixá-lo em branco, enquanto 2,9% estão indecisos.",
+   "No levantamento anterior, Flávio tinha 46,8% e Lula 45,9%; ambos tiveram queda nas intenções.",
+   "Considerando apenas os votos válidos, Flávio aparece com 50,7% e Lula com 49,3%, ainda em empate técnico."
+  ],
+  "numeros": [
+   {
+    "valor": "46,3%",
+    "rotulo": "Intenções de voto para Flávio Bolsonaro"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Intenções de voto para Lula"
+   },
+   {
+    "valor": "8,7%",
+    "rotulo": "Votos nulos e em branco"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio Bolsonaro",
+    "antes": "46,8%",
+    "depois": "46,3%"
+   },
+   {
+    "item": "Lula",
+    "antes": "45,9%",
+    "depois": "45%"
+   }
+  ],
+  "destaque": "46,3%",
+  "porQueImporta": "Essas informações são cruciais para investidores, pois a instabilidade política pode afetar o mercado financeiro.",
+  "impactoMercado": "O resultado das eleições pode influenciar a confiança dos investidores e a volatilidade no mercado.",
+  "entenda": "O que é um empate técnico? É quando a diferença nas intenções de voto entre candidatos está dentro da margem de erro da pesquisa.",
+  "observar": "Fique atento ao resultado das eleições e seus impactos no mercado financeiro.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as nuances políticas pode ajudar investidores a se prepararem para as mudanças no mercado.",
+  "gancho": "*Empate técnico* nas eleições para o 2º turno!",
+  "ideias": [
+   "Eleições 2026: O que esperar do resultado?",
+   "Empate técnico: Como isso pode afetar o mercado?",
+   "Análise da pesquisa CNT/MDA: Flávio e Lula em disputa acirrada"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://bpmoney.com.br/politica/cnt-mda-flavio-463-lula-45-empate-tecnico-segundo-turno/",
+  "publicadoEm": "2026-10-24T15:00:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-33"
+ },
+ {
+  "titulo": "Pesquisa mostra empate técnico entre Flávio e Lula",
+  "resumo": "A pesquisa Quaest revela um empate técnico entre Flávio Bolsonaro e Lula, com Flávio em 51% e Lula em 49% dos votos válidos. Este é um destaque na véspera do segundo turno.",
+  "fatos": [
+   "Flávio Bolsonaro tem 51% dos votos válidos, enquanto Lula aparece com 49%.",
+   "Nos votos totais, Flávio está com 46% e Lula com 45%.",
+   "92% dos entrevistados que escolheram um candidato afirmam que a decisão é definitiva.",
+   "A aprovação do governo Lula chega a 48%, superando a desaprovação de 45%.",
+   "A pesquisa ouviu 3.702 eleitores entre 23 e 24 de outubro de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "51",
+    "rotulo": "votos válidos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "49",
+    "rotulo": "votos válidos de Lula"
+   },
+   {
+    "valor": "46",
+    "rotulo": "votos de Flávio total"
+   },
+   {
+    "valor": "45",
+    "rotulo": "votos de Lula total"
+   },
+   {
+    "valor": "48",
+    "rotulo": "aprovação do governo Lula"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "51%",
+  "porQueImporta": "Esses números indicam um cenário incerto na política, que pode impactar a confiança dos investidores e a percepção de risco no mercado financeiro.",
+  "impactoMercado": "Uma disputa acirrada pode gerar volatilidade nos mercados, afetando ações e investimentos à medida que os investidores reagem a possíveis resultados.",
+  "entenda": "Votos válidos representam a soma das intenções de voto excluindo brancos, nulos e indecisos, importante para entender a trajetória de uma eleição.",
+  "observar": "Acompanhe as tendências de aprovação dos candidatos e como isso pode influenciar a confiança do mercado nas políticas futuras.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como a política influencia os mercados é fundamental para investidores, especialmente em períodos eleitorais, e a Trader School oferece conhecimento nessa área.",
+  "gancho": "*Empate técnico* entre Flávio Bolsonaro e Lula",
+  "ideias": [
+   "Como a política influencia o mercado financeiro?",
+   "Flávio e Lula: o que os números dizem?",
+   "Entenda a importância dos votos válidos"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://exame.com/brasil/pesquisa-quaest-na-vespera-do-2o-turno-flavio-bolsonaro-tem-51-e-lula-49/",
+  "publicadoEm": "2026-10-24T16:09:39-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-34"
+ },
+ {
+  "titulo": "Pesquisa CNT/MDA mostra Flávio à frente de Lula",
+  "resumo": "Na última pesquisa antes do 2º turno, Flávio aparece numericamente à frente de Lula, segundo dados do instituto CNT/MDA.",
+  "fatos": [
+   "A pesquisa foi divulgada pelo instituto CNT/MDA.",
+   "Flávio está numericamente à frente de Lula.",
+   "Este é o último levantamento antes do 2º turno."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Mudanças nas intenções de voto podem influenciar a confiança do investidor e o desempenho do mercado.",
+  "impactoMercado": "Resultados eleitorais podem impactar a volatilidade e as decisões de investimento na bolsa de valores.",
+  "entenda": "A pesquisa eleitoral influencia as expectativas dos investidores e pode refletir na performance das ações.",
+  "observar": "Acompanhe as reações do mercado após a votação e possíveis declarações dos candidatos.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Entender as pesquisas pode ajudar investidores a se prepararem para flutuações de mercado.",
+  "gancho": "*Eleições* e *mercado* em debate!",
+  "ideias": [
+   "Como as eleições influenciam o mercado financeiro?",
+   "Entenda o impacto das pesquisas eleitorais nos investimentos.",
+   "O que a última pesquisa diz sobre o futuro econômico?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "TradeMap",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.google.com/search?q=Na+%C3%BAltima+pesquisa+do+instituto+antes+do+2%C2%BA+turno%2C+CNT%2FMDA+mostra+Fl%C3%A1vio+numericamente+%C3%A0+frente+de+Lula+TradeMap",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T11:43:03-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-35"
+ },
+ {
+  "titulo": "Pesquisa Datafolha mostra cenário eleitoral para o segundo turno",
+  "resumo": "O Datafolha revela as intenções de voto para Lula e Flávio, considerando a probabilidade de comparecimento. A disputa está acirrada e pode ser influenciada pela abstenção.",
+  "fatos": [
+   "Entre os eleitores com alta propensão a votar, Flávio tem 52% e Lula 48%.",
+   "Os eleitores com menor probabilidade de comparecimento favorecem Lula com 52% contra 48% de Flávio.",
+   "A margem de erro da pesquisa é de dois pontos percentuais, com 95% de confiança.",
+   "O levantamento foi realizado com 4.050 eleitores nos dias 23 e 24 de outubro.",
+   "Flávio apareceu com 51% e Lula com 49% no resultado geral da pesquisa."
+  ],
+  "numeros": [],
+  "comparativo": [
+   {
+    "item": "Diferença de votos válidos",
+    "antes": "52% Flávio - 48% Lula",
+    "depois": "51% Flávio - 49% Lula"
+   }
+  ],
+  "destaque": "",
+  "porQueImporta": "Entender a dinâmica da intenção de voto ajuda o investidor a perceber como as eleições podem impactar a economia e o mercado financeiro.",
+  "impactoMercado": "A incerteza política pode afetar a confiança dos investidores e a volatilidade do mercado na véspera da votação.",
+  "entenda": "O Datafolha é uma pesquisa de opinião que busca entender as intenções de votação e a propensão dos eleitores em participar da eleição.",
+  "observar": "Acompanhe a evolução das intenções de voto e a mobilização do eleitorado até o dia da votação.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Analisar as pesquisas e tendências ajuda a entender a influência das eleições no mercado financeiro, essencial para quem investe.",
+  "gancho": "*Eleições e Mercado*: O que esperar?",
+  "ideias": [
+   "Como as eleições afetam o mercado financeiro?",
+   "Entenda a importância da mobilização eleitoral.",
+   "O que a pesquisa Datafolha revela sobre os eleitores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/datafolha-lula-lidera-entre-menos-propensos-a-votar-flavio-entre-os-mais-propensos/",
+  "publicadoEm": "2026-10-24T18:54:48-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-36"
+ },
+ {
+  "titulo": "Concorrência acirrada entre Flávio e Lula nas eleições",
+  "resumo": "Em pesquisa da Quaest, Flávio Bolsonaro tem 51% dos votos válidos, enquanto Lula tem 49%. A escolha do voto é definitiva para 92% dos eleitores.",
+  "fatos": [
+   "Flávio Bolsonaro aparece com 51% e Lula com 49% dos votos válidos.",
+   "Nos votos totais, Flávio tem 46% e Lula 45%.",
+   "A pesquisa indica um empate técnico, dentro da margem de erro de 2%.",
+   "92% dos eleitores afirmam que sua decisão de voto é definitiva.",
+   "A Quaest ouviu 3.702 eleitores."
+  ],
+  "numeros": [
+   {
+    "valor": "3.702",
+    "rotulo": "número de eleitores ouvidos"
+   },
+   {
+    "valor": "92%",
+    "rotulo": "eleitores com voto definitivo"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "margem de erro da pesquisa"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio",
+    "antes": "45%",
+    "depois": "46%"
+   },
+   {
+    "item": "Lula",
+    "antes": "44%",
+    "depois": "45%"
+   },
+   {
+    "item": "Brancos e nulos",
+    "antes": "9%",
+    "depois": "8%"
+   },
+   {
+    "item": "Indecisos",
+    "antes": "2%",
+    "depois": "1%"
+   }
+  ],
+  "destaque": "51%",
+  "porQueImporta": "Essas informações são cruciais para entender a dinâmica eleitoral e como ela pode influenciar o mercado, especialmente com a proximidade das eleições.",
+  "impactoMercado": "A incerteza política pode afetar a confiança dos investidores, resultando em volatilidade no mercado financeiro, especialmente em períodos eleitorais.",
+  "entenda": "O que é uma pesquisa de intenção de voto e como ela pode prever resultados eleitorais. A margem de erro indica a precisão do levantamento.",
+  "observar": "Se os índices de comparecimento aumentarem ou se as intenções de voto mudarem nos últimos momentos e como isso pode impactar os resultados.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as eleições é essencial para quem deseja investir com segurança em um contexto político dinâmico.",
+  "gancho": "Eleições: *Flávio e Lula em disputa acirrada*",
+  "ideias": [
+   "Flávio e Lula: quem está à frente na corrida?",
+   "Intenção de voto: o que os números dizem?",
+   "Levantamento da Quaest pode influenciar o mercado?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/na-vespera-da-eleicao-quaest-mostra-flavio-46-e-lula-45/",
+  "publicadoEm": "2026-10-24T19:21:07-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-37"
+ },
+ {
+  "titulo": "Pesquisas mostram Flávio à frente de Lula na véspera da eleição",
+  "resumo": "A véspera do segundo turno revela Flávio Bolsonaro à frente de Lula nas pesquisas, mas com diferenças muito pequenas e dentro da margem de erro.",
+  "fatos": [
+   "Flávio lidera com 51% no Datafolha e 50,8% na AtlasIntel.",
+   "Lula aparece com 49% segundo Datafolha, 49% na Quaest e 48% na Gerp.",
+   "As diferenças variam de 1,4 a 4 pontos percentuais nas pesquisas.",
+   "Flávio tem 46% dos votos totais, enquanto Lula tem 45% na AtlasIntel.",
+   "92% dos eleitores afirmam que sua escolha é definitiva."
+  ],
+  "numeros": [
+   {
+    "valor": "52%",
+    "rotulo": "Flávio na Gerp"
+   },
+   {
+    "valor": "48%",
+    "rotulo": "Lula na Gerp"
+   },
+   {
+    "valor": "51%",
+    "rotulo": "Flávio no Datafolha"
+   },
+   {
+    "valor": "49%",
+    "rotulo": "Lula no Datafolha"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "51%",
+  "porQueImporta": "As pesquisas indicam uma disputa acirrada, o que pode influenciar estratégias de campanha e expectativas dos investidores sobre a estabilidade política.",
+  "impactoMercado": "A proximidade das intenções de voto pode refletir incertezas no mercado, afetando ativos como ações e câmbio. O mercado pode reagir conforme a definição do novo governo.",
+  "entenda": "Pesquisas eleitorais medem a intenção de voto de eleitores, sendo uma ferramenta importante para entender tendências políticas que afetam o mercado.",
+  "observar": "Acompanhe as reações do mercado após a divulgação do resultado das eleições e a formação do novo governo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Entender como as eleições impactam o mercado financeiro é essencial para operar com conhecimento e segurança.",
+  "gancho": "Pesquisas influenciam *mercado* e *eleição*",
+  "ideias": [
+   "Como as pesquisas eleitorais afetam o mercado?",
+   "Afinal, Flávio ou Lula: quem deve ganhar?",
+   "Entenda as últimas pesquisas antes da eleição"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-x-flavio-o-que-dizem-as-ultimas-pesquisas-na-vespera-da-eleicao/",
+  "publicadoEm": "2026-10-24T19:54:26-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-38"
+ },
+ {
+  "titulo": "Santos x Bahia: jogo do Brasileirão hoje às 21h",
+  "resumo": "Santos e Bahia se enfrentam no Brasileirão 2026, na Vila Belmiro, às 21h deste sábado. O Santos busca melhorar sua posição no campeonato.",
+  "fatos": [
+   "A partida é válida pela 32ª rodada do Brasileirão 2026.",
+   "O Santos é o atual 8º colocado com 45 pontos.",
+   "O Bahia está em 7º lugar, com 49 pontos.",
+   "O Santos venceu seu último jogo contra o Fluminense por 2 a 1.",
+   "O Bahia perdeu para o Flamengo por 3 a 0 na rodada anterior."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A performance de times como Santos e Bahia pode influenciar na confiança dos investidores no mercado esportivo e patrocínios associados.",
+  "impactoMercado": "O desempenho dos clubes no campeonato pode afetar valores de ações de empresas associadas, bem como a demanda por transmissões e produtos relacionados ao futebol.",
+  "entenda": "O Campeonato Brasileiro é uma das principais ligas de futebol do país, atraindo milhões de fãs e grandes investimentos.",
+  "observar": "Acompanhe os resultados e o desempenho dos times, que podem impactar o mercado relacionado ao futebol.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A importância dos esportes e eventos ao vivo para o mercado financeiro pode ser percebida por aqueles que desejam entender mais sobre investimentos",
+  "gancho": "*Santos x Bahia*: onde assistir hoje",
+  "ideias": [
+   "Tudo sobre Santos x Bahia no Brasileirão",
+   "Como resultados esportivos afetam o mercado",
+   "Santos e Bahia: oportunidades além do campo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/esportes/santos-bahia-onde-assistir-brasileirao-2026/",
+  "publicadoEm": "2026-10-24T18:45:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-39"
+ },
+ {
+  "titulo": "Celina Leão lidera pesquisa para o 2º turno no DF",
+  "resumo": "A vice-governadora Celina Leão está numericamente à frente de Leandro Grass nas pesquisas para o governo do Distrito Federal, segundo dados recentes.",
+  "fatos": [
+   "Celina Leão tem 53% das intenções de voto, enquanto Leandro Grass registra 37%.",
+   "Nos votos válidos, Celina tem 59% e Grass 41%.",
+   "A pesquisa foi realizada pela Real Time Big Data, que ouviu 1.600 eleitores.",
+   "No primeiro turno, Celina obteve 49,93% dos votos válidos e Grass, 34,47%.",
+   "A margem de erro das pesquisas é de 2 pontos percentuais."
+  ],
+  "numeros": [
+   {
+    "valor": "59",
+    "rotulo": "votos válidos para Celina Leão"
+   },
+   {
+    "valor": "41",
+    "rotulo": "votos válidos para Leandro Grass"
+   },
+   {
+    "valor": "53",
+    "rotulo": "intenção de voto de Celina"
+   },
+   {
+    "valor": "37",
+    "rotulo": "intenção de voto de Grass"
+   },
+   {
+    "valor": "1.600",
+    "rotulo": "eleitores entrevistados"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "votos válidos Celina",
+    "antes": "60",
+    "depois": "59"
+   },
+   {
+    "item": "votos válidos Grass",
+    "antes": "40",
+    "depois": "41"
+   }
+  ],
+  "destaque": "59%",
+  "porQueImporta": "Essa informação é relevante pois pode impactar a confiança dos investidores em ações ligadas ao governo do Distrito Federal.",
+  "impactoMercado": "Mudanças no governo local podem afetar políticas econômicas e decisões de investimento na região.",
+  "entenda": "A pesquisa eleitoral é uma ferramenta que mede a intenção de voto da população, importante para entender o cenário político antes das eleições.",
+  "observar": "Fique atento às próximas pesquisas que podem indicar alteração no cenário eleitoral.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como as eleições podem afetar o mercado é crucial para quem deseja operar com segurança e conhecimento.",
+  "gancho": "*Eleições no DF* em destaque!",
+  "ideias": [
+   "Impacto das eleições no mercado financeiro",
+   "Celina Leão: a favorita no DF?",
+   "Análise das pesquisas eleitorais recentes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-distrito-federal/",
+  "publicadoEm": "2026-10-24T18:01:46-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-40"
+ },
+ {
+  "titulo": "Inmet prevê novembro quente e seco no Rio",
+  "resumo": "Segundo o Inmet, Rio de Janeiro terá temperaturas acima da média e chuvas abaixo do normal em novembro. Expectativa é de desconforto térmico e ondas de calor.",
+  "fatos": [
+   "Previsão de chuvas abaixo da média, entre 10mm e 50mm no Rio de Janeiro.",
+   "Temperaturas devem ficar entre 1,5ºC e 2ºC acima da média histórica.",
+   "No trimestre, expectativa de temperaturas acima da média em grande parte do Brasil.",
+   "Em outubro, a temperatura média máxima foi de 27,2ºC no estado.",
+   "A região teve volumes significativos de chuva, com acumulados superiores a 200mm em algumas áreas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como as condições climáticas podem afetar mercados de commodities e setores econômicos relacionados à agricultura e energia.",
+  "impactoMercado": "Mudanças climáticas podem influenciar na oferta de produtos agrícolas e energia, afetando seus preços e a dinâmica de mercado.",
+  "entenda": "As previsões meteorológicas podem impactar o fornecimento e custo de commodities, influenciando a economia e os investimentos.",
+  "observar": "Acompanhe as previsões climáticas e seus impactos nos setores afetados, como agricultura e energia.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A previsão do clima pode ajudar investidores e empresários a entenderem melhor os potenciais riscos e oportunidades no mercado.",
+  "gancho": "*Clima* pode afetar *mercados*!",
+  "ideias": [
+   "O que esperar do clima em novembro?",
+   "Impacto das chuvas na economia",
+   "Como o clima influencia os investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/brasil/inmet-preve-que-rio-tera-novembro-mais-quente-e-com-menos-chuvas-do-que-a-media/",
+  "publicadoEm": "2026-10-24T18:00:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-41"
+ },
+ {
+  "titulo": "Pesquisa Gerp mostra Flávio com 52% e Lula 48%",
+  "resumo": "Flávio Bolsonaro lidera com 52% dos votos válidos, enquanto Lula tem 48%, conforme pesquisa Gerp a um dia da votação. A diferença é considerada empate técnico.",
+  "fatos": [
+   "Flávio Bolsonaro aparece com 52% dos votos válidos e Lula com 48%.",
+   "A diferença de quatro pontos é dentro da margem de erro de dois pontos.",
+   "Nos votos totais, Flávio tem 49% e Lula 46%.",
+   "Na comparação com a pesquisa anterior, Flávio recua um ponto e Lula avança um.",
+   "A Gerp ouviu 2.400 eleitores entre os dias 22 e 24 de outubro."
+  ],
+  "numeros": [
+   {
+    "valor": "52",
+    "rotulo": "porcentagem de votos válidos para Flávio"
+   },
+   {
+    "valor": "48",
+    "rotulo": "porcentagem de votos válidos para Lula"
+   },
+   {
+    "valor": "4",
+    "rotulo": "pontos porcentuais de diferença"
+   },
+   {
+    "valor": "2",
+    "rotulo": "pontos de margem de erro"
+   },
+   {
+    "valor": "2400",
+    "rotulo": "número de eleitores entrevistados"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio",
+    "antes": "53",
+    "depois": "52"
+   },
+   {
+    "item": "Lula",
+    "antes": "47",
+    "depois": "48"
+   },
+   {
+    "item": "Flávio total",
+    "antes": "50",
+    "depois": "49"
+   },
+   {
+    "item": "Lula total",
+    "antes": "45",
+    "depois": "46"
+   }
+  ],
+  "destaque": "52%",
+  "porQueImporta": "Essas pesquisas influenciam o sentimento dos investidores devido à incerteza política, o que pode afetar o mercado financeiro.",
+  "impactoMercado": "Um resultado apertado nas eleições pode gerar volatilidade no mercado, afetando tanto ações quanto a confiança dos investidores.",
+  "entenda": "O que é uma pesquisa eleitoral: um levantamento da opinião pública que ajuda a prever resultados de votações, com margem de erro que pode alterar a interpretação dos dados.",
+  "observar": "Acompanhe a mobilização das bases eleitorais e a taxa de abstenção no dia da votação.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como as eleições impactam o mercado é crucial para investidores que buscam decisões informadas.",
+  "gancho": "*Eleições* e *mercado*: o que esperar?",
+  "ideias": [
+   "Como a política afeta seus investimentos",
+   "Entenda as implicações das eleições no mercado",
+   "Eleições e volatilidade: como se preparar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.infomoney.com.br/politica/na-vespera-do-2o-turno-gerp-mostra-49-para-flavio-contra-46-de-lula/",
+  "publicadoEm": "2026-10-24T18:13:58-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-42"
+ },
+ {
+  "titulo": "Casas Bahia (BHIA3) procura R$ 300 milhões para operação",
+  "resumo": "A varejista Casas Bahia busca um empréstimo de até R$ 300 milhões para manter suas atividades durante a recuperação judicial, enquanto tenta levantar até R$ 1 bilhão no total.",
+  "fatos": [
+   "A Casas Bahia negocia um empréstimo de até R$ 300 milhões para garantir a continuidade das operações durante a recuperação judicial.",
+   "O financiamento será obtido por meio de um grande banco credor que já faz parte da lista de credores da empresa.",
+   "A companhia tenta captar entre R$ 200 milhões e R$ 300 milhões na primeira etapa e visa um total de R$ 1 bilhão.",
+   "A autorização judicial para prosseguir com a recuperação foi concedida recentemente, o que deve acelerar as negociações.",
+   "O empréstimo pode ajudar a preservar as operações enquanto a empresa reestrutura cerca de R$ 17,3 bilhões em dívidas."
+  ],
+  "numeros": [
+   {
+    "valor": "300.000.000",
+    "rotulo": "valor do empréstimo buscado"
+   },
+   {
+    "valor": "1.000.000.000",
+    "rotulo": "valor total de captação planejado"
+   },
+   {
+    "valor": "17.300.000.000",
+    "rotulo": "dívidas a serem reestruturadas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 300 milhões",
+  "porQueImporta": "Essa busca por financiamento é crucial para a liquidez da empresa e para a recuperação de suas operações em um cenário financeiro desafiador.",
+  "impactoMercado": "Mudanças na estrutura financeira da Casas Bahia podem afetar a confiança dos investidores e o desempenho de ações do setor de varejo no mercado.",
+  "entenda": "A recuperação judicial é um mecanismo que permite que empresas em dificuldades financeiras reestruturem suas dívidas e continuem a operar.",
+  "observar": "Fique de olho nas próximas notícias sobre a finalização do acordo de empréstimo e o andamento da recuperação judicial.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como a recuperação judicial afeta as operações de uma empresa é importante para quem deseja investir de forma consciente.",
+  "gancho": "Empresas em *recuperação judicial*",
+  "ideias": [
+   "Como funciona a recuperação judicial?",
+   "Casas Bahia: o que esperar do mercado?",
+   "Entenda o impacto do crédito em empresas"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://bpmoney.com.br/mercado/casas-bahia-bhia3-busca-ate-r-300-milhoes-para-operar/",
+  "publicadoEm": "2026-10-24T15:25:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-43"
+ },
+ {
+  "titulo": "Raízen (RAIZ4) e eleições agitam o mercado financeiro",
+  "resumo": "A bolsa foi afetada por pesquisas eleitorais, com incertezas sobre a Raízen (RAIZ4) e balanços de grandes empresas em destaque. O cenário está em constante mudança.",
+  "fatos": [
+   "A bolsa brasileira viu alta de 1,60%, alcançando 208.370,77 pontos em meio a pesquisas eleitorais.",
+   "Flávio Bolsonaro possui 48% e Lula 45% das intenções de voto, com empate técnico entre os candidatos.",
+   "Raízen está em fase de implementação de recuperação extrajudicial, com assembleia marcada para 30 de outubro.",
+   "Bradesco reportou lucro líquido de R$ 7,1 bilhões, alta de 14,6% em relação ao ano passado.",
+   "A temporada de balanços do terceiro trimestre começou em 20 de outubro, revelando resultados das empresas."
+  ],
+  "numeros": [
+   {
+    "valor": "208.370,77",
+    "rotulo": "Ibovespa alcançou pontos"
+   },
+   {
+    "valor": "48%",
+    "rotulo": "Intenções de voto de Flávio Bolsonaro"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Intenções de voto de Lula"
+   },
+   {
+    "valor": "R$ 7,1 bilhões",
+    "rotulo": "Lucro do Bradesco no trimestre"
+   },
+   {
+    "valor": "+14,6%",
+    "rotulo": "Alta do lucro do Bradesco em relação ao ano passado"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,60%",
+  "porQueImporta": "Os resultados das empresas e as mudanças políticas impactam diretamente as decisões de investimentos e o desempenho da bolsa de valores.",
+  "impactoMercado": "Os novos dados eleitorais e balanços podem gerar volatilidade e mudanças nas expectativas dos investidores em relação às ações.",
+  "entenda": "As pesquisas eleitorais podem influenciar a confiança dos investidores, alterando o valor das ações e a performance do mercado.",
+  "observar": "Acompanhe as próximas pesquisas eleitorais e os resultados financeiros das empresas no cenário volátil das eleições.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender as relações entre eleições e mercado é crucial para a formação de estratégias de investimento e para conhecer mais sobre a dinâmica do mercado.",
+  "gancho": "*Eleições* e *Raízen* no radar do mercado",
+  "ideias": [
+   "Impacto das eleições no seu investimento",
+   "Raízen (RAIZ4): o que esperar?",
+   "Resultados do Bradesco e o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://www.seudinheiro.com/2026/mercados/duvidas-sobre-a-raizen-raiz4-bolsa-de-olho-nas-eleicoes-e-balancos-no-radar-veja-as-materias-mais-lidas-da-semana-cbcb/",
+  "publicadoEm": "2026-10-24T15:45:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-44"
+ },
+ {
+  "titulo": "Pesquisa aponta empate técnico entre Flávio Bolsonaro e Lula",
+  "resumo": "Em nova pesquisa, Flávio Bolsonaro tem 52% dos votos válidos e Lula alcança 48%. Ambos estão tecnicamente empatados, com oscilações dentro da margem de erro.",
+  "fatos": [
+   "Flávio Bolsonaro atinge 52% e Lula 48% dos votos válidos.",
+   "Os candidatos estão tecnicamente empatados, com margem de erro de 2 pontos percentuais.",
+   "Bolsonaro tinha 53% na pesquisa anterior, enquanto Lula subiu de 47% para 48%.",
+   "Na pesquisa espontânea, Flávio tem 47% e Lula 44%.",
+   "A pesquisa ouviu 2.400 pessoas entre 22 e 24 de outubro de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "52",
+    "rotulo": "Votos válidos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "48",
+    "rotulo": "Votos válidos de Lula"
+   },
+   {
+    "valor": "2",
+    "rotulo": "Margem de erro da pesquisa"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio Bolsonaro",
+    "antes": "53",
+    "depois": "52"
+   },
+   {
+    "item": "Lula",
+    "antes": "47",
+    "depois": "48"
+   }
+  ],
+  "destaque": "52",
+  "porQueImporta": "As eleições podem impactar a confiança do investidor e a estabilidade do mercado dependendo do resultado e das propostas dos candidatos.",
+  "impactoMercado": "Com a corrida eleitoral acirrada, o cenário político poderá influenciar a volatilidade da bolsa e das cotações dependendo das esperanças de mudanças econômicas.",
+  "entenda": "A pesquisa eleitoral é uma ferramenta que mede a intenção de voto, ajudando a prever o comportamento do eleitor e suas possíveis influências nas decisões de investimento.",
+  "observar": "Acompanhe as próximas pesquisas e declarações dos candidatos que podem indicar mudanças nas percepções dos eleitores.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A corrida presidencial pode influenciar o mercado financeiro, levando investidores a buscarem informações sobre os candidatos e suas propostas.",
+  "gancho": "*Empate* entre Flávio e *Lula* na pesquisa",
+  "ideias": [
+   "Análise da pesquisa Gerp: o que isso significa?",
+   "Impactos da corrida eleitoral no mercado financeiro",
+   "Intenção de voto e o cenário econômico: o que esperar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://exame.com/brasil/pesquisa-gerp-para-presidente-flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos/",
+  "publicadoEm": "2026-10-24T15:00:46-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-45"
+ },
+ {
+  "titulo": "Corrida eleitoral: Flávio Bolsonaro e Lula em empate técnico",
+  "resumo": "Pesquisas eleitorais mostram Flávio Bolsonaro na liderança numérica em disputa com Lula. O segundo turno se aproxima e novos levantamentos estão previstos.",
+  "fatos": [
+   "Flávio Bolsonaro tem 50,7% e Lula 49,3% nas intenções de voto válidas.",
+   "A oscilação de Flávio foi de 50,5% para 50,7% e de Lula de 49,5% para 49,3%.",
+   "Pesquisas indicam uma margem de erro permitindo empate técnico entre os candidatos.",
+   "No Datafolha, Flávio aparece com 51% e Lula com 49% dos votos válidos.",
+   "A abstenção estimada é de 21% levando a variações nos votos válidos."
+  ],
+  "numeros": [
+   {
+    "valor": "50,7%",
+    "rotulo": "Intenções de voto de Flávio Bolsonaro"
+   },
+   {
+    "valor": "49,3%",
+    "rotulo": "Intenções de voto de Lula"
+   },
+   {
+    "valor": "21%",
+    "rotulo": "Abstenção estimada dos eleitores"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio Bolsonaro",
+    "antes": "50,5%",
+    "depois": "50,7%"
+   },
+   {
+    "item": "Lula",
+    "antes": "49,5%",
+    "depois": "49,3%"
+   }
+  ],
+  "destaque": "50,7%",
+  "porQueImporta": "Entender as pesquisas pode ajudar investidores a avaliar o impacto da política no mercado, especialmente em momentos eleitorais.",
+  "impactoMercado": "Mudanças nas intenções de voto podem alterar a confiança dos investidores e influenciar decisões na Bolsa e em outros ativos.",
+  "entenda": "As intenções de voto válidas são aquelas que não incluem votos em branco ou nulos, sendo essenciais para entender a probabilidade de uma vitória nas eleições.",
+  "observar": "Acompanhe os próximos levantamentos para entender como as oscilações nas intenções de voto podem impactar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender as dinâmicas eleitorais é vital para entender o ambiente econômico e de investimentos, estimulando o interesse em aprender mais.",
+  "gancho": "*Eleições*: Flávio ou Lula? Veja os números.",
+  "ideias": [
+   "Eleições 2026: O que dizem as últimas pesquisas?",
+   "Desempenho dos candidatos: Entenda as variações!",
+   "Empate técnico: O que isso significa para o mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:42:13-03:00",
+  "url": "https://exame.com/brasil/pesquisas-para-presidente-hoje-veja-os-levantamentos-divulgados-neste-sabado/",
+  "publicadoEm": "2026-10-24T14:40:55-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-46"
+ },
+ {
   "titulo": "Bolsa de Nova York fecha em queda geral por alta do petróleo",
   "resumo": "Wall Street fechou em queda nesta sexta-feira, afetada pelos temores do conflito entre EUA e Irã e pela alta nos preços do petróleo, que superaram US$ 110 por barril.",
   "fatos": [
@@ -6161,53 +7534,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-october-2026",
-  "titulo": "Mercado de previsões vê 65% de chance do Ethereum subir *para 2,400* dólares em outubro.",
-  "resumo": "Essa é uma probabilidade calculada por apostas, e não uma previsão concreta.",
+  "titulo": "Mercado vê 80,5% de chance de Ethereum atingir *2.400* em outubro",
+  "resumo": "A avaliação sugere um forte movimento para o preço do Ethereum no próximo mês, segundo os apostadores.",
   "probs": [
    {
-    "opcao": "↑ 2,400",
-    "prob": 65.0
+    "opcao": "↑ 2.400",
+    "prob": 80.5
    },
    {
-    "opcao": "↓ 2,200",
-    "prob": 44.5
+    "opcao": "↑ 2.500",
+    "prob": 42.0
    },
    {
-    "opcao": "↑ 2,500",
-    "prob": 30.5
+    "opcao": "↓ 2.200",
+    "prob": 32.5
    },
    {
-    "opcao": "↓ 2,100",
-    "prob": 20.5
+    "opcao": "↑ 2.600",
+    "prob": 17.5
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 122 mil",
+  "volume24h": "US$ 139 mil",
   "fatos": [
-   "↑ 2,400: 65,0%",
-   "↓ 2,200: 44,5%",
-   "↑ 2,500: 30,5%",
-   "↓ 2,100: 20,5%"
+   "↑ 2.400: 80,5%",
+   "↑ 2.500: 42,0%",
+   "↓ 2.200: 32,5%",
+   "↑ 2.600: 17,5%"
   ],
   "numeros": [
    {
-    "valor": "65,0%",
-    "rotulo": "↑ 2,400"
+    "valor": "80,5%",
+    "rotulo": "↑ 2.400"
    },
    {
-    "valor": "44,5%",
-    "rotulo": "↓ 2,200"
+    "valor": "42,0%",
+    "rotulo": "↑ 2.500"
    },
    {
-    "valor": "30,5%",
-    "rotulo": "↑ 2,500"
+    "valor": "32,5%",
+    "rotulo": "↓ 2.200"
    },
    {
-    "valor": "20,5%",
-    "rotulo": "↓ 2,100"
+    "valor": "17,5%",
+    "rotulo": "↑ 2.600"
    }
   ],
-  "destaque": "65,0%",
+  "destaque": "80,5%",
   "gancho": "*Incerteza entre cripto* investidores",
   "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
   "categoria": "Previsões",
@@ -6222,7 +7595,7 @@
   "data": "2026-10-22",
   "status": "atualizada",
   "id": "2026-10-22-p1",
-  "atualizadoEm": "2026-10-24T15:21:47-03:00"
+  "atualizadoEm": "2026-10-24T20:42:13-03:00"
  },
  {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
@@ -12853,12 +14226,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "59,5%",
+  "destaque": "68,5%",
   "fatos": [
-   "↑ 82,500: 59,5%",
-   "↓ 77,500: 45,5%",
-   "↑ 85,000: 25,5%",
-   "↓ 75,000: 19,5%"
+   "↑ 82.500: 68,5%",
+   "↓ 77.500: 36,5%",
+   "↑ 85.000: 32,5%",
+   "↓ 75.000: 14,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -12869,50 +14242,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↑ 82,500",
-    "prob": 59.5
+    "opcao": "↑ 82.500",
+    "prob": 68.5
    },
    {
-    "opcao": "↓ 77,500",
-    "prob": 45.5
+    "opcao": "↓ 77.500",
+    "prob": 36.5
    },
    {
-    "opcao": "↑ 85,000",
-    "prob": 25.5
+    "opcao": "↑ 85.000",
+    "prob": 32.5
    },
    {
-    "opcao": "↓ 75,000",
-    "prob": 19.5
+    "opcao": "↓ 75.000",
+    "prob": 14.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Essas probabilidades são baseadas nas apostas do mercado e não devem ser interpretadas como previsões seguras.",
+  "resumo": "Os investidores estimam que o preço do Bitcoin pode se aproximar desse patamar ao final de outubro.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 59.5% de chance de Bitcoin subir *para 82,500* dólares em outubro.",
+  "titulo": "Probabilidades de 68,5% de que Bitcoin atinja *82.500* em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 642 mil",
+  "volume24h": "US$ 690 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "59,5%",
-    "rotulo": "↑ 82,500"
+    "valor": "68,5%",
+    "rotulo": "↑ 82.500"
    },
    {
-    "valor": "45,5%",
-    "rotulo": "↓ 77,500"
+    "valor": "36,5%",
+    "rotulo": "↓ 77.500"
    },
    {
-    "valor": "25,5%",
-    "rotulo": "↑ 85,000"
+    "valor": "32,5%",
+    "rotulo": "↑ 85.000"
    },
    {
-    "valor": "19,5%",
-    "rotulo": "↓ 75,000"
+    "valor": "14,5%",
+    "rotulo": "↓ 75.000"
    }
   ],
-  "atualizadoEm": "2026-10-24T15:21:47-03:00"
+  "atualizadoEm": "2026-10-24T20:42:13-03:00"
  },
  {
   "categoria": "Comportamento do investidor",
@@ -12964,11 +14337,11 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "71,5%",
+  "destaque": "76,5%",
   "fatos": [
-   "Aumento de 25 bps: 71,5%",
-   "Nenhuma mudança: 24,0%",
-   "Aumento de 50+ bps: 2,9%",
+   "Aumento de 25 bps: 76,5%",
+   "Sem alteração: 20,5%",
+   "Aumento de 50+ bps: 2,6%",
    "Redução de 25 bps: 0,7%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
@@ -12981,15 +14354,15 @@
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 71.5
+    "prob": 76.5
    },
    {
-    "opcao": "Nenhuma mudança",
-    "prob": 24.0
+    "opcao": "Sem alteração",
+    "prob": 20.5
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 2.9
+    "prob": 2.6
    },
    {
     "opcao": "Redução de 25 bps",
@@ -12997,25 +14370,25 @@
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Investidores acreditam que o Fed possa aumentar as taxas de juros na reunião de dezembro.",
+  "resumo": "Indicações de aumento nas taxas de juros no final do ano, com forte apoio dos apostadores.",
   "slug": "fed-decision-in-december-20260729232808632",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado vê 71.5% de chance de aumento de 25 bps no Fed em dezembro",
+  "titulo": "Mercado vê 76,5% de chance de aumento de 25 bps nas taxas do Fed em dezembro",
   "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-  "volume24h": "US$ 171 mil",
+  "volume24h": "US$ 124 mil",
   "id": "2026-10-19-p2",
   "numeros": [
    {
-    "valor": "71,5%",
+    "valor": "76,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "24,0%",
-    "rotulo": "Nenhuma mudança"
+    "valor": "20,5%",
+    "rotulo": "Sem alteração"
    },
    {
-    "valor": "2,9%",
+    "valor": "2,6%",
     "rotulo": "Aumento de 50+ bps"
    },
    {
@@ -13023,7 +14396,7 @@
     "rotulo": "Redução de 25 bps"
    }
   ],
-  "atualizadoEm": "2026-10-22T16:30:55-03:00"
+  "atualizadoEm": "2026-10-24T20:42:13-03:00"
  },
  {
   "categoria": "Global",
