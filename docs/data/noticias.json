@@ -1,5 +1,418 @@
 [
  {
+  "titulo": "Expectativa de lucros com trade eleitoral no 2º turno",
+  "resumo": "O mercado de opções no Brasil tem mostrado grandes movimentações à medida que se aproxima o 2º turno das eleições; entenda o impacto disso nas negociações.",
+  "fatos": [
+   "O mercado de opções na B3 registrou um volume médio diário de R$ 1,4 bilhão, crescimento de 79% em relação a 2025.",
+   "Contratos com vencimento semanal saltaram de R$ 50 milhões em 2025 para R$ 106 milhões em 2023.",
+   "Analistas informam que, em uma semana, traders conseguiram lucros de 161%, 302% e até 355%.",
+   "O Ibovespa valorizou 92,03% em cinco anos, enquanto a carteira de opções entregou um retorno médio de 126,42% em sete dias.",
+   "Mudanças na política fiscal podem impactar o Ibovespa, com potenciais variações de 12% a 16% nos ativos."
+  ],
+  "numeros": [
+   {
+    "valor": "1,4 bilhões",
+    "rotulo": "volume médio diário no mercado de opções"
+   },
+   {
+    "valor": "79%",
+    "rotulo": "crescimento em relação a 2025"
+   },
+   {
+    "valor": "161%",
+    "rotulo": "lucro em uma das operações"
+   },
+   {
+    "valor": "92,03%",
+    "rotulo": "valorização do Ibovespa em 5 anos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 1,4 bilhões",
+  "porQueImporta": "Os movimentos no mercado de opções refletem a incerteza política e podem influenciar decisões de investimento e o desempenho de ativos no curto prazo.",
+  "impactoMercado": "A expectativa de que o novo governo trate do ajuste fiscal pode alterar a trajetória do Ibovespa e criar oportunidades de lucro nas opções.",
+  "entenda": "O que são opções: contratos que conferem ao comprador o direito, mas não a obrigação, de comprar ou vender um ativo a um preço específico até uma data limite.",
+  "observar": "Acompanhe as declarações do vencedor das eleições e suas primeiras ações, pois isso influenciará o comportamento do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o movimento das opções no período eleitoral pode ajudar investidores a se prepararem melhor para as oscilações do mercado.",
+  "gancho": "*Eleições* e *Lucros* no Mercado de Opções",
+  "ideias": [
+   "Como se preparar para o 2º turno?",
+   "Rali eleitoral: o que esperar do mercado?",
+   "Mercado de opções: oportunidades para investidores"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/rali-eleitoral-2o-turno-pode-liberar-nova-onda-de-lucros-no-mercado-de-opcoes-veja-como-se-posicionar-lbrdis626/",
+  "publicadoEm": "2026-10-24T10:00:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-01"
+ },
+ {
+  "titulo": "Banco Central altera regras para contratos de crédito",
+  "resumo": "Novas resoluções do Banco Central buscam proteger consumidores e reduzir o endividamento excessivo com medidas que entram em vigor em 2027.",
+  "fatos": [
+   "O Banco Central aprovou três resoluções que fortalecem a proteção dos consumidores ao contratar crédito.",
+   "Serão implementadas simulações de custos e um painel que acompanhará dívidas a partir de julho de 2027.",
+   "As novas regras exigem consentimento prévio de clientes em situação de vulnerabilidade e proíbem ofertas não solicitadas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas novas regras visam proporcionar maior controle e transparência nas operações de crédito, ajudando a evitar o endividamento excessivo.",
+  "impactoMercado": "Alterações nas regras podem levar as instituições financeiras a serem mais cuidadosas nas ofertas de crédito, o que impacta como os consumidores se endividam.",
+  "entenda": "O painel de dívidas consolidadas permitirá que os consumidores verifiquem suas operações de crédito, melhorando a gestão financeira pessoal.",
+  "observar": "Fique atento ao início da vigência das novas regras em março e julho de 2027 e a como as instituições se adaptarão.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Compreender as mudanças no crédito é vital para quem deseja operar consciente no mercado financeiro e na gestão de suas finanças pessoais.",
+  "gancho": "Novas regras de *crédito* e *proteção*",
+  "ideias": [
+   "Entenda as novas regras de crédito",
+   "Como evitar o endividamento com as novas normas?",
+   "O que muda para o consumidor com o novo painel de dívidas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "url": "https://www.seudinheiro.com/2026/economia/bc-aprova-novas-regras-para-ofertas-de-credito-e-cria-protecao-contra-o-endividamento-excessivo-cbcb/",
+  "publicadoEm": "2026-10-24T08:59:47-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-02"
+ },
+ {
+  "titulo": "Magazine Luiza brilha, WEG despenca e Ibovespa cai levemente",
+  "resumo": "O Ibovespa teve queda de 0,17% na semana, enquanto Magazine Luiza (MGLU3) subiu 14%. O dólar terminou a R$ 4,9931 com desvalorização de 1,58% na semana.",
+  "fatos": [
+   "O índice Ibovespa encerrou a semana a 205.082,56 pontos, com queda de 0,17%.",
+   "Magazine Luiza (MGLU3) subiu 14% durante a semana.",
+   "WEG (WEGE3) foi a pior ação, com lucro líquido de R$ 1,66 bilhão, abaixo do esperado.",
+   "O dólar à vista fechou a R$ 4,9931, representando desvalorização de 1,58%.",
+   "O IPCA-15 subiu 0,32% em outubro, com alta acumulada anual de 4,62%."
+  ],
+  "numeros": [
+   {
+    "valor": "205.082",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "14%",
+    "rotulo": "valorização da Magazine Luiza"
+   },
+   {
+    "valor": "1,66 bi",
+    "rotulo": "lucro líquido da WEG"
+   },
+   {
+    "valor": "R$ 4,9931",
+    "rotulo": "cotação do dólar"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "votos válidos de Flávio Bolsonaro",
+    "antes": "51%",
+    "depois": "50%"
+   },
+   {
+    "item": "votos válidos de Lula",
+    "antes": "49%",
+    "depois": "50%"
+   },
+   {
+    "item": "IPCA-15",
+    "antes": "0,70%",
+    "depois": "0,32%"
+   }
+  ],
+  "destaque": "14%",
+  "porQueImporta": "Entender as variações das ações e do dólar é crucial para investidores e traders, especialmente em períodos de incerteza política e econômica.",
+  "impactoMercado": "Mudanças nas eleições podem influenciar decisões de investimento e a direção do mercado, afetando tanto ações quanto o câmbio.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, refletindo o desempenho das ações mais negociadas.",
+  "observar": "Acompanhe as movimentações das ações nas próximas semanas, especialmente em relação às novas eleições e a divulgação de balanços financeiros.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essas movimentações reforçam a importância de estar informado sobre o mercado, especialmente em períodos eleitorais, e descobertas da faculdade de mercado financeiro.",
+  "gancho": "*Magazine Luiza* brilha *mesmo em queda*",
+  "ideias": [
+   "Ibovespa cai, mas Magazine Luiza dispara: entenda!",
+   "Por que WEG trouxe resultados negativos?",
+   "O que esperar da próxima semana no mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-43-lils-2/",
+  "publicadoEm": "2026-10-24T07:20:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-03"
+ },
+ {
+  "titulo": "Oncoclínicas apresenta plano para renegociar R$ 5,7 bilhões em dívidas",
+  "resumo": "A Oncoclínicas avança em sua reestruturação financeira com um novo plano de recuperação, que precisa da adesão dos credores para prosseguir.",
+  "fatos": [
+   "A Oncoclínicas aprovou uma nova versão de seu plano de recuperação extrajudicial.",
+   "O plano abrange cerca de R$ 5,7 bilhões em dívidas quirografárias.",
+   "Na versão anterior, o valor era de R$ 5,1 bilhões.",
+   "O plano deve ser homologado judicialmente após a adesão dos credores.",
+   "A Oncoclínicas é observada no mercado devido à possibilidade de uma OPA bilionária."
+  ],
+  "numeros": [
+   {
+    "valor": "5,7 bilhões",
+    "rotulo": "Valor das dívidas a serem renegociadas"
+   },
+   {
+    "valor": "5,1 bilhões",
+    "rotulo": "Valor anterior das dívidas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dívidas quirografárias",
+    "antes": "R$ 5,1 bilhões",
+    "depois": "R$ 5,7 bilhões"
+   }
+  ],
+  "destaque": "R$ 5,7 bilhões",
+  "porQueImporta": "A reestruturação financeira da empresa pode impactar a confiança dos investidores e a estabilidade do setor de saúde.",
+  "impactoMercado": "O progresso na reestruturação pode atrair novos investidores e impactar o desempenho das suas ações no mercado.",
+  "entenda": "Dívidas quirografárias são aquelas que não possuem garantias, representando maior risco tanto para credores quanto para a empresa devedora.",
+  "observar": "Fique atento à adesão dos credores e as decisões judiciais relacionadas ao plano de recuperação.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Compreender como empresas lidam com reestruturações financeiras é essencial para investidores e aqueles que desejam conhecer melhor como o mercado opera.",
+  "gancho": "*Oncoclínicas* avança em *reestruturação financeira*",
+  "ideias": [
+   "Novo plano da Oncoclínicas e suas implicações",
+   "Como a dívida de R$ 5,7 bilhões impacta o mercado",
+   "Entenda as dívidas quirografárias na prática"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/oncoclinicas-avanca-em-reestruturacao-e-apresenta-novo-plano-para-renegociar-r-57-bilhoes-em-dividas-rnda/",
+  "publicadoEm": "2026-10-23T19:43:08-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-04"
+ },
+ {
+  "titulo": "Dólar fecha abaixo de R$ 5 antes do segundo turno",
+  "resumo": "O dólar voltou a cair, encerrando a R$ 4,9931 no último pregão antes do segundo turno das eleições. O movimento reflete o aumento do apetite ao risco dos investidores.",
+  "fatos": [
+   "Nesta sexta-feira (23), o dólar fechou a R$ 4,9931, com queda de 0,92%.",
+   "A queda acumulada na semana foi de 1,58% em relação ao real.",
+   "Os investidores estão apostando na vitória de Flávio Bolsonaro, que lidera em pesquisas com 51,3% das intenções de votos válidos."
+  ],
+  "numeros": [
+   {
+    "valor": "4,9931",
+    "rotulo": "Cotação do dólar no fechamento"
+   },
+   {
+    "valor": "1,58%",
+    "rotulo": "Queda acumulada na semana"
+   },
+   {
+    "valor": "51,3%",
+    "rotulo": "Intenções de voto de Flávio Bolsonaro"
+   },
+   {
+    "valor": "48,7%",
+    "rotulo": "Intenções de voto de Luiz Inácio Lula da Silva"
+   },
+   {
+    "valor": "2,6",
+    "rotulo": "Vantagem de Flávio sobre Lula"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 4,9931",
+  "porQueImporta": "A análise do comportamento do dólar pode ajudar investidores a compreenderem os impactos das eleições no mercado financeiro e nas operações de câmbio.",
+  "impactoMercado": "O desempenho do dólar é relevante para investidores, pois pode afetar decisões de investimento em ações e renda fixa, especialmente com o cenário eleitoral.",
+  "entenda": "O dólar é a moeda oficial dos Estados Unidos e sua cotação é influenciada por fatores econômicos, políticos e pela expectativa dos investidores em relação a eventos futuros, como eleições.",
+  "observar": "Fique de olho nas novas pesquisas eleitorais e como elas influenciam o apetite ao risco do mercado nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender como fatores políticos afetam a economia é crucial para decisões informadas no mercado financeiro.",
+  "gancho": "*Dólar em queda* antes do segundo turno!",
+  "ideias": [
+   "O que a queda do dólar significa?",
+   "Como as eleições afetam o mercado?",
+   "Prepare-se para o impacto do câmbio nas suas operações!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-23-10-26-lils/",
+  "publicadoEm": "2026-10-23T17:07:19-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-05"
+ },
+ {
+  "titulo": "Cautela de investidores cresce antes do 2º turno",
+  "resumo": "A euforia inicial com a candidatura de Flávio Bolsonaro se transforma em cautela entre os investidores, à medida que se aproxima o segundo turno das eleições.",
+  "fatos": [
+   "Inicialmente, os investidores demonstraram otimismo com Flávio Bolsonaro.",
+   "Com a proximidade do segundo turno, esse sentimento se transforma em cautela.",
+   "As incertezas políticas podem impactar o mercado financeiro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender o impacto das eleições no comportamento do mercado é crucial para quem investe.",
+  "impactoMercado": "A incerteza política pode influenciar a volatilidade do mercado e a tomada de decisões dos investidores.",
+  "entenda": "Cautela no mercado pode ser um indicativo de uma análise mais crítica sobre os riscos envolvidos na economia durante períodos eleitorais.",
+  "observar": "Fique atento às declarações dos candidatos e às reações do mercado financeiro nas próximas semanas.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "A mudança de sentimento no mercado mostra como a política influencia as decisões sobre investimentos.",
+  "gancho": "*Eleições* geram *cautela* no mercado",
+  "ideias": [
+   "Como as eleições afetam o mercado?",
+   "Cautela de investidores: o que esperar?",
+   "Impacto das eleições no cenário financeiro"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "url": "https://www.google.com/search?q=Euforia+de+investidores+com+Fl%C3%A1vio+Bolsonaro+d%C3%A1+lugar+a+cautela+%C3%A0s+v%C3%A9speras+do+2%C2%BA+turno+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-23T23:00:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-06"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-october-19-25-2026",
+  "titulo": "Mercado de previsões vê 52.5% de chance de Bitcoin *abaixo de 80.000* em outubro",
+  "resumo": "Os apostadores indicam uma probabilidade maior para um preço do Bitcoin abaixo de 80 mil dólares durante o período mencionado.",
+  "probs": [
+   {
+    "opcao": "↓ 80,000",
+    "prob": 52.5
+   },
+   {
+    "opcao": "↑ 82,000",
+    "prob": 21.0
+   },
+   {
+    "opcao": "↓ 78,000",
+    "prob": 6.9
+   },
+   {
+    "opcao": "↑ 84,000",
+    "prob": 2.1
+   }
+  ],
+  "prazo": "2026-10-26",
+  "volume24h": "US$ 385 mil",
+  "fatos": [
+   "↓ 80,000: 52,5%",
+   "↑ 82,000: 21,0%",
+   "↓ 78,000: 6,9%",
+   "↑ 84,000: 2,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "52,5%",
+    "rotulo": "↓ 80,000"
+   },
+   {
+    "valor": "21,0%",
+    "rotulo": "↑ 82,000"
+   },
+   {
+    "valor": "6,9%",
+    "rotulo": "↓ 78,000"
+   },
+   {
+    "valor": "2,1%",
+    "rotulo": "↑ 84,000"
+   }
+  ],
+  "destaque": "52,5%",
+  "gancho": "*Previsões* para o Bitcoin?",
+  "entenda": "As flutuações do preço do Bitcoin são afetadas por vários fatores, incluindo o sentimento do mercado e decisões de investidores.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-october-19-25-2026",
+  "publicadoEm": "2026-10-24T10:36:56-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-24T10:36:56-03:00",
+  "data": "2026-10-24",
+  "status": "nova",
+  "id": "2026-10-24-p1"
+ },
+ {
   "titulo": "Banco Central aprova novas regras de crédito em 2027",
   "resumo": "O Banco Central estabeleceu novas diretrizes para proteger consumidores em contratos de crédito, com regras começando a valer em 2027. As medidas visam aumentar a transparência e controle sobre ofertas de empréstimos.",
   "fatos": [
@@ -11520,29 +11933,6 @@
   "atualizadoEm": "2026-10-23T11:28:02-03:00"
  },
  {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "+12%",
-  "fatos": [
-   "A estimativa de moagem 2026/27 caiu 12,4 milhões de toneladas, para 613,5 milhões.",
-   "A produção de açúcar foi cortada em cerca de 1,5 milhão de toneladas.",
-   "A produção de etanol foi reduzida em cerca de 800 milhões de litros.",
-   "O contrato de açúcar para março de 2027 subiu cerca de 12% em um mês."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Açúcar* pode subir mais?",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 14,
-  "publicadoEm": "2026-10-16T16:13:00-03:00",
-  "resumo": "A casa reduziu as projeções de moagem e produção de açúcar no Centro-Sul após excesso de chuva e avalia que o mercado ainda subestima o aperto.",
-  "status": "nova",
-  "titulo": "XP corta estimativa de safra de cana e vê aperto na oferta de açúcar",
-  "url": "https://www.moneytimes.com.br/acucar-pode-subir-mais-xp-ve-mercado-subestimando-aperto-na-oferta-brasileira-pads/",
-  "id": "2026-10-16-31"
- },
- {
   "categoria": "Comportamento do investidor",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-18",
@@ -11652,30 +12042,6 @@
    }
   ],
   "atualizadoEm": "2026-10-22T16:30:55-03:00"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "44h → 40h",
-  "fatos": [
-   "A emenda foi promulgada em 16 de outubro e garante dois dias de descanso remunerado por semana.",
-   "A jornada máxima cai de 44 para 40 horas de forma gradual, sem redução de salário.",
-   "Segundo Durigan, de 68% a 70% dos empregos já estão fora da escala 6x1.",
-   "O limite de crédito para pequenos negócios já subiu de R$ 250 mil para R$ 500 mil.",
-   "Não foi anunciada desoneração da folha ou compensação direta aos empregadores."
-  ],
-  "fonte": "Agência Brasil, InfoMoney",
-  "gancho": "*6x1* acaba: e as *empresas*?",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-16T18:36:00-03:00",
-  "resumo": "A emenda que reduz a jornada máxima para 40 horas sem corte de salário entrou em vigor, e o ministro da Fazenda disse estudar linhas de crédito e capacitação para empresas.",
-  "status": "nova",
-  "titulo": "Fim da escala 6x1 é promulgado e governo estuda crédito a empresas afetadas",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-preve-credito-empresas-afetadas-por-fim-da-6x1-diz-durigan",
-  "id": "2026-10-16-30"
  },
  {
   "categoria": "Global",
@@ -11790,30 +12156,6 @@
   "atualizadoEm": "2026-10-22T11:41:47-03:00"
  },
  {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "-2,15%",
-  "fatos": [
-   "Nasdaq fechou em queda de 2,15%, aos 26.140 pontos.",
-   "S&P 500 caiu 1,09%, aos 7.659 pontos; Dow Jones recuou 0,34%.",
-   "O VIX fechou em 20,15 pontos, alta de 21,93%, maior nível desde 10 de junho.",
-   "A CoreWeave despencou 11,91% com temor de endividamento para expandir infraestrutura de IA.",
-   "Pela ferramenta do CME, o mercado via 86,1% de chance de alta de juros nos EUA em dezembro."
-  ],
-  "fonte": "Money Times (Estadão Conteúdo)",
-  "gancho": "*Nasdaq* tem pior semana desde *junho*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 4,
-  "publicadoEm": "2026-10-16T17:06:00-03:00",
-  "resumo": "Bolsas americanas fecharam a sexta em queda, lideradas pelas empresas de tecnologia ligadas à inteligência artificial, e o índice do medo VIX subiu ao maior nível desde junho.",
-  "status": "nova",
-  "titulo": "Nasdaq cai 2,15% e tem a pior semana desde junho com receio sobre IA",
-  "url": "https://www.moneytimes.com.br/wall-street-16-10-26-lils/",
-  "id": "2026-10-16-29"
- },
- {
   "categoria": "Commodities",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
@@ -11885,434 +12227,5 @@
   "titulo": "Raízen marca assembleia para 30 de outubro e prevê forte diluição de acionistas",
   "url": "https://www.seudinheiro.com/2026/empresas/raizen-raiz4-recuperacao-extrajudicial-avancou-mas-credores-estao-longe-de-saber-quanto-vao-recuperar-no-fim-do-processo-diz-bb-mlim/",
   "id": "2026-10-17-03"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-16T11:20:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "R$ 8,60",
-  "fatos": [
-   "O Goldman cortou o preço-alvo da Usiminas de R$ 10 para R$ 8,60 e manteve compra.",
-   "Para a CSN, o alvo caiu de R$ 4,30 para R$ 4,00, com recomendação de venda.",
-   "A Gerdau teve o alvo elevado de R$ 27 para R$ 29, com recomendação neutra.",
-   "O banco projeta queda de 31% no Ebitda trimestral da CSN e alta de 10% no da Gerdau.",
-   "O Morgan Stanley vê a Usiminas entre as mais expostas à compressão de margens."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Siderúrgicas* sob pressão",
-  "icone": "queda",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-16T10:19:00-03:00",
-  "resumo": "Banco reduziu estimativas e preços-alvo de siderúrgicas citando custos altos e demanda fraca; Morgan Stanley também prevê margens pressionadas, com Gerdau como exceção.",
-  "status": "nova",
-  "titulo": "Goldman corta projeções de Usiminas e CSN antes dos balanços do 3º trimestre",
-  "url": "https://www.infomoney.com.br/mercados/goldman-corta-projecoes-de-usiminas-e-csn-antes-do-3t-morgan-ve-margens-sob-pressao/",
-  "id": "2026-10-16-25"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-16T11:20:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "-€ 6,8 bi",
-  "fatos": [
-   "O déficit ajustado foi de € 6,8 bilhões em agosto.",
-   "Em julho, havia superávit revisado de € 1,4 bilhão.",
-   "As exportações caíram 1,2% e as importações subiram 2,0% no mês.",
-   "Sem ajuste sazonal, o déficit foi de € 16,1 bilhões, ante € 1,7 bilhão um ano antes."
-  ],
-  "fonte": "InfoMoney (Estadão Conteúdo)",
-  "gancho": "*Europa* importa mais que exporta",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-16T07:48:00-03:00",
-  "resumo": "Exportações caíram e importações subiram, e a balança comercial ajustada do bloco saiu de superávit em julho para déficit em agosto, segundo a Eurostat.",
-  "status": "nova",
-  "titulo": "Zona do euro passa a déficit comercial de € 6,8 bilhões em agosto",
-  "url": "https://www.infomoney.com.br/economia/zona-do-euro-balanca-comercial-passa-a-deficit-ajustado-de-68-bi-de-euros-em-agosto/",
-  "id": "2026-10-16-28"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "12 réus",
-  "fatos": [
-   "A 6ª Vara Federal Criminal do Rio aceitou a denúncia do MPF.",
-   "A denúncia foi apresentada em 2025 e só agora foi recebida.",
-   "O processo corre em segredo de Justiça.",
-   "A Americanas diz ser vítima de fraude dos ex-executivos e que não viu a decisão."
-  ],
-  "fonte": "Money Times (Reuters)",
-  "gancho": "*Americanas*: ex-executivos viram réus",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-16T06:17:00-03:00",
-  "resumo": "A Justiça Federal no Rio aceitou denúncia do MPF contra 12 ex-executivos acusados de envolvimento na fraude contábil que levou a Americanas à recuperação judicial.",
-  "status": "nova",
-  "titulo": "Justiça do Rio torna réus 12 ex-executivos da Americanas",
-  "url": "https://www.moneytimes.com.br/justica-do-rj-torna-reus-12-ex-executivos-da-americanas-amer3-fets/",
-  "id": "2026-10-16-17"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "2.230 m",
-  "fatos": [
-   "O poço 3-SAN-6D-RN fica no campo de Sanhaçu, Bacia Potiguar (RN).",
-   "Atingiu profundidade final de 2.230 metros.",
-   "O reservatório principal estava saturado de gás.",
-   "A empresa fará estudos para medir o tamanho da acumulação."
-  ],
-  "fonte": "InfoMoney, Valor",
-  "gancho": "*Brava* acha gás em terra",
-  "icone": "raio",
-  "impacto": "medio",
-  "ordem": 12,
-  "publicadoEm": "2026-10-16T08:00:00-03:00",
-  "resumo": "A Brava Energia comunicou à ANP a descoberta de hidrocarbonetos no seu primeiro poço exploratório em terra, no campo de Sanhaçu, no Rio Grande do Norte.",
-  "status": "nova",
-  "titulo": "Brava Energia encontra gás em poço terrestre na Bacia Potiguar",
-  "url": "https://www.infomoney.com.br/mercados/brava-energia-brav3-identifica-hidrocarbonetos-em-poco-exploratorio-onshore/",
-  "id": "2026-10-16-20"
- },
- {
-  "categoria": "Day trade",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "203.980",
-  "fatos": [
-   "O Ibovespa oscilou entre 203.110 e 206.520 pontos na quinta.",
-   "O suporte diário citado é 203.980; abaixo dele, o próximo alvo é 199.354.",
-   "A resistência no gráfico de 60 minutos fica em 207.300 e depois no recorde de 209.713.",
-   "O minidólar de novembro subiu 1% na quinta, a 5.116,5 pontos.",
-   "O analista não faz recomendação e pede cautela."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "Os *níveis* do dia",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-16T07:04:00-03:00",
-  "resumo": "Análise técnica aponta os níveis que o mercado observa no índice e no minidólar depois da sequência de baixas da bolsa.",
-  "status": "nova",
-  "titulo": "Day trade: Ibovespa tem suporte em 203.980 pontos após três quedas",
-  "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-16102026/",
-  "id": "2026-10-16-16"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "8ª",
-  "fatos": [
-   "O FMI projeta PIB de US$ 2,796 trilhões para o Brasil em 2027, o 8º do mundo.",
-   "A Itália ficaria em 9º, com US$ 2,772 trilhões, e a Rússia em 10º.",
-   "Em 2026, o Brasil deve seguir em 10º, com cerca de US$ 2,65 trilhões.",
-   "O fundo prevê crescimento de 2,2% em 2026 e 1,9% em 2027.",
-   "O país passaria de US$ 3 trilhões de PIB em 2029."
-  ],
-  "fonte": "CNN Brasil, Poder360",
-  "gancho": "Brasil volta ao *top 8*",
-  "icone": "globo",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-16T07:16:00-03:00",
-  "resumo": "Projeções do FMI indicam que o PIB brasileiro chegará a cerca de US$ 2,8 trilhões em 2027, superando Itália e Rússia no ranking mundial.",
-  "status": "nova",
-  "titulo": "FMI projeta Brasil de volta ao posto de 8ª maior economia em 2027",
-  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fmi-brasil-deve-se-voltar-a-8a-posicao-de-maior-economia-do-mundo-em-2027/",
-  "id": "2026-10-16-10"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "+0,3%",
-  "fatos": [
-   "O IBC-Br subiu 0,30% em agosto ante julho, com ajuste sazonal.",
-   "Economistas consultados pela Reuters esperavam alta de 0,3%.",
-   "No trimestre até agosto, o índice caiu 0,6% frente ao trimestre até maio.",
-   "Em 12 meses, a alta é de 1,6%, abaixo dos meses anteriores.",
-   "O ASA manteve projeção de PIB de -0,2% no 3º trimestre."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Prévia do PIB* sobe, trimestre cai",
-  "icone": "grafico",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-16T09:02:00-03:00",
-  "resumo": "O IBC-Br, indicador do Banco Central visto como prévia do PIB, avançou 0,3% em agosto, exatamente como o mercado esperava, mas a atividade perde fôlego no trimestre.",
-  "status": "nova",
-  "titulo": "Prévia do PIB sobe 0,3% em agosto, mas trimestre mostra queda de 0,6%",
-  "url": "https://www.infomoney.com.br/economia/ibc-br-previa-do-pib-agosto-2026/",
-  "id": "2026-10-16-09"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "PETR4",
-  "fatos": [
-   "O banco atribui a preferência a fundamentos sólidos e petróleo acima do esperado.",
-   "Desde setembro, conflitos envolvendo Irã e Rússia mantêm o petróleo caro.",
-   "O mercado elevou estimativas de geração de caixa da Petrobras.",
-   "Entre as independentes, PRIO3 é a favorita; Brava aguarda clareza estratégica.",
-   "Em distribuidoras, a visão é construtiva, mas o apetite esfriou após altas de 2026."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Petrobras* concentra as apostas",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-16T08:50:00-03:00",
-  "resumo": "Relatório do JPMorgan após reuniões com clientes no Brasil mostra convicção no setor de óleo e gás concentrada na Petrobras, com PRIO como júnior preferida.",
-  "status": "nova",
-  "titulo": "JPMorgan: investidor brasileiro concentra aposta do petróleo na Petrobras",
-  "url": "https://www.infomoney.com.br/mercados/petrobras-petr3petr4-volta-ao-radar-do-investidor-local-com-petroleo-e-eleicoes/",
-  "id": "2026-10-16-13"
- },
- {
-  "atualizadoEm": "2026-10-19T06:52:00-03:00",
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "+0,54%",
-  "fatos": [
-   "O Ibovespa fechou a sexta em alta de 0,54%, aos 205.430 pontos.",
-   "Na semana, o índice recuou 1,74%.",
-   "PETR4 subiu 3,28% e a Petrobras atingiu valor de mercado recorde de R$ 819,9 bilhões.",
-   "Magazine Luiza liderou as altas, com 6,93%, e CSN liderou as quedas, com -3,51%.",
-   "O dólar à vista caiu 0,26%, a R$ 5,0735, mas subiu 1,77% na semana."
-  ],
-  "fonte": "Money Times, InfoMoney, Bora Investir (B3)",
-  "gancho": "Bolsa *reage* após 3 quedas",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-16T10:23:00-03:00",
-  "resumo": "A bolsa interrompeu três quedas seguidas puxada pela disparada do petróleo, enquanto o dólar caiu a R$ 5,07, mas acumulou alta de 1,77% na semana.",
-  "status": "atualizada",
-  "titulo": "Ibovespa fecha em alta de 0,54% com Petrobras, mas cai 1,74% na semana",
-  "url": "https://www.moneytimes.com.br/ibovespa-16-10-26-lils/",
-  "id": "2026-10-16-12"
- },
- {
-  "categoria": "FIIs",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "30,7%",
-  "fatos": [
-   "A varejista pagou R$ 2,93 milhões, com multa, pelo galpão de Contagem (MG).",
-   "Ainda deve R$ 1,43 milhão pelo imóvel de São José dos Pinhais (PR).",
-   "A Casas Bahia responde por cerca de 30,7% da receita contratada do HSLG11.",
-   "A empresa está em recuperação judicial desde 16 de agosto.",
-   "O IFIX fechou a quinta em 3.956 pontos, alta de 0,06%."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Inquilino* em crise no FII",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-16T07:41:00-03:00",
-  "resumo": "O fundo HSLG11 informou que a Casas Bahia quitou o aluguel de um galpão em Minas, mas continua inadimplente em outro no Paraná, alvo de ação de despejo.",
-  "status": "nova",
-  "titulo": "Casas Bahia paga aluguel a FII, mas segue devendo em outro galpão",
-  "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-paga-aluguel-a-fundo-imobiliario-mas-segue-inadimplente-com-outro-imovel-ifix-sobe-igdl/",
-  "id": "2026-10-16-15"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "+3%",
-  "fatos": [
-   "O carro foi apresentado na quinta à noite em base de testes da SpaceX no Texas.",
-   "Na demonstração, fez uma volta completa no ar e pousou nas quatro rodas.",
-   "Elon Musk disse que a produção deve começar em 2028.",
-   "As ações subiram mais de 3% no after-market.",
-   "Os futuros do Dow Jones subiam cerca de 0,1% no início da manhã."
-  ],
-  "fonte": "Yahoo Finance",
-  "gancho": "*Tesla* aposta no carro que voa",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-16T06:12:00-03:00",
-  "resumo": "As ações da Tesla avançaram após a demonstração do novo Roadster, com tecnologia inspirada na SpaceX; a produção só deve começar em 2028.",
-  "status": "nova",
-  "titulo": "Tesla sobe no pré-mercado após mostrar novo Roadster que salta",
-  "url": "https://uk.finance.yahoo.com/news/wall-street-futures-gain-warsh-091219180.html",
-  "id": "2026-10-16-18"
- },
- {
-  "atualizadoEm": "2026-10-19T06:52:00-03:00",
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-16T10:45:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "US$ 109,86",
-  "fatos": [
-   "O Brent para dezembro fechou em alta de 3,72%, a US$ 109,86 o barril.",
-   "Na semana, o Brent acumulou alta de 4,9%.",
-   "O WTI subiu 2,61%, a US$ 99,02, com ganho semanal de 7,8%.",
-   "A refinaria russa de Ryazan parou uma unidade após ataque de drone.",
-   "O ING diz que a incerteza do conflito segue sustentando os preços."
-  ],
-  "fonte": "Money Times (Reuters, Estadão Conteúdo)",
-  "gancho": "*Petróleo* fecha semana em alta",
-  "icone": "raio",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-16T04:37:00-03:00",
-  "resumo": "O petróleo acelerou à tarde com ataque a refinaria russa e tensões no Mar Vermelho e em Ormuz, fechando a semana com ganhos fortes.",
-  "status": "atualizada",
-  "titulo": "Brent salta 3,7% na sexta, a US$ 109,86, e sobe 4,9% na semana",
-  "url": "https://www.moneytimes.com.br/petroleo-16-10-26-lils/",
-  "id": "2026-10-16-14"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-16T10:40:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "0,000083%",
-  "fatos": [
-   "A Credipaiva é a cooperativa de crédito dos empregados do Centro Universitário Newton Paiva.",
-   "É uma cooperativa pequena, do tipo capital e empréstimo, no segmento S5 da regulação.",
-   "O motivo citado pelo BC foi grave violação das normas e descumprimento de suas determinações.",
-   "Em dezembro de 2025 ela tinha cerca de 0,000083% dos ativos do sistema financeiro.",
-   "Os bens dos ex-administradores ficam indisponíveis e o BC seguirá apurando responsabilidades."
-  ],
-  "fonte": "InfoMoney (Estadão Conteúdo)",
-  "gancho": "BC fecha *cooperativa* de crédito",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 2,
-  "publicadoEm": "2026-10-16T08:43:42-03:00",
-  "resumo": "O BC liquidou uma pequena cooperativa de crédito por violação grave de normas e descumprimento de determinações da autoridade.",
-  "status": "nova",
-  "titulo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva",
-  "url": "https://www.infomoney.com.br/mercados/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/",
-  "id": "2026-10-16-22"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "-11%",
-  "fatos": [
-   "O índice de Jacarta caiu mais de 11%, a pior sessão desde janeiro de 1998.",
-   "A MSCI citou estruturas acionárias opacas e suspeita de negociação coordenada.",
-   "O índice já acumulava queda de mais de 30% no ano, o pior do mundo.",
-   "Estrangeiros venderam US$ 4,7 bilhões líquidos em ações indonésias em 2026.",
-   "A MSCI ouvirá o mercado até abril de 2027 e decide no fim de junho de 2027."
-  ],
-  "fonte": "Investing.com",
-  "gancho": "*MSCI* derruba a *Indonésia*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-16T00:44:00-03:00",
-  "resumo": "A MSCI sugeriu reclassificar a Indonésia como mercado isolado por falta de transparência, e o índice de Jacarta teve a maior queda diária desde 1998.",
-  "status": "nova",
-  "titulo": "Bolsa da Indonésia despenca 11% após MSCI propor tirar país dos emergentes",
-  "url": "https://br.investing.com/news/stock-market-news/bolsas-asiaticas-se-recuperam-com-alta-das-fabricantes-de-chips-indonesia-despenca-2093418",
-  "id": "2026-10-16-01"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "US$ 82 mil",
-  "fatos": [
-   "O bitcoin era cotado a US$ 81.963, alta de 0,55% em 24 horas.",
-   "Na quinta, os ETFs à vista tiveram entrada líquida de só US$ 5,06 milhões.",
-   "Na quarta, as saídas somaram US$ 261,5 milhões.",
-   "Em outubro, os ETFs acumulam saída líquida de US$ 539,8 milhões."
-  ],
-  "fonte": "CryptoTicker",
-  "gancho": "*ETFs de bitcoin* travados",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-16T03:26:00-03:00",
-  "resumo": "A criptomoeda opera em faixa estreita e os ETFs à vista dos EUA tiveram fluxo praticamente zero na quinta, após saídas fortes na quarta.",
-  "status": "nova",
-  "titulo": "Bitcoin fica perto de US$ 82 mil com entrada quase nula nos ETFs",
-  "url": "https://cryptoticker.io/en/bitcoin-price-etf-inflows-standstill-october-16-2026/",
-  "id": "2026-10-16-06"
- },
- {
-  "categoria": "Agenda",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "+0,3% previsto",
-  "fatos": [
-   "O IBC-Br de agosto sai às 9h; a projeção citada pela InfoMoney é de alta de 0,3% no mês.",
-   "O IPC-S da FGV sai às 8h.",
-   "Às 10h15 saem a produção industrial e o uso da capacidade dos EUA.",
-   "Na quinta, o Ibovespa caiu 1,06%, a 204.324 pontos."
-  ],
-  "fonte": "Money Times, InfoMoney",
-  "gancho": "*Prévia do PIB* no radar",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-16T06:30:00-03:00",
-  "resumo": "O mercado acompanha a prévia do PIB do Banco Central e dados de atividade americanos, depois de três quedas seguidas do Ibovespa.",
-  "status": "nova",
-  "titulo": "IBC-Br e produção industrial dos EUA movem a agenda desta sexta",
-  "url": "https://www.moneytimes.com.br/ibc-br-do-brasil-e-producao-industrial-dos-eua-movimentam-a-agenda-economica-desta-sexta-feira-mlem/",
-  "id": "2026-10-16-08"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "-14,46% na semana",
-  "fatos": [
-   "O Kospi subiu 2,05%, a 5.668 pontos, depois de cair 7,6% na véspera.",
-   "Na semana, o Kospi recuou 14,46%, a maior queda semanal desde outubro de 2008.",
-   "O Nikkei avançou 1,39%, mas perdeu 5,37% na semana.",
-   "Samsung subiu 2,6% e a Kioxia, 3,8%.",
-   "Hang Seng ganhou 0,52% e Xangai, 0,24%."
-  ],
-  "fonte": "Estadão Conteúdo (DGABC), TradingKey",
-  "gancho": "*Kospi* tem pior semana desde *2008*",
-  "icone": "grafico",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-16T05:42:00-03:00",
-  "resumo": "As bolsas asiáticas recuperaram parte das perdas com alívio nas ações de chips, mas o índice sul-coreano acumulou tombo de mais de 14% na semana.",
-  "status": "nova",
-  "titulo": "Kospi sobe 2%, mas fecha a pior semana desde outubro de 2008",
-  "url": "https://www.dgabc.com.br/Noticia/4353036/bolsas-da-asia-sobem-com-wall-street-e-alivio-apos-liquidacao-de-acoes-de-tecnologia",
-  "id": "2026-10-16-03"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-16T07:05:00-03:00",
-  "data": "2026-10-16",
-  "destaque": "",
-  "fatos": [
-   "Warsh falou nas reuniões anuais do FMI e do Banco Mundial, em Bangkok.",
-   "Disse que não antecipa decisões das reuniões do Fed.",
-   "Afirmou que a IA eleva a demanda agora e que os ganhos de produtividade virão depois, num caminho 'muito acidentado'.",
-   "Segundo a Reuters, o mercado espera que o Fed espere até dezembro para subir os juros de novo."
-  ],
-  "fonte": "Reuters (via Investing.com)",
-  "gancho": "*Warsh* em silêncio sobre *juros*",
-  "horaEstimada": true,
-  "icone": "escudo",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-16T00:57:00-03:00",
-  "resumo": "Em Bangkok, o presidente do Fed evitou indicar a decisão de outubro e disse que os investimentos em IA aumentam a demanda e a inflação no curto prazo.",
-  "status": "nova",
-  "titulo": "Warsh não sinaliza próxima alta do Fed e diz que IA pressiona inflação",
-  "url": "https://investing.com/news/economy-news/feds-warsh-gives-no-hint-on-october-policy-decision-4953046",
-  "id": "2026-10-16-02"
  }
 ]
