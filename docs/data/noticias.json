@@ -1,5 +1,681 @@
 [
  {
+  "titulo": "Banco Central aprova novas regras de crédito em 2027",
+  "resumo": "O Banco Central estabeleceu novas diretrizes para proteger consumidores em contratos de crédito, com regras começando a valer em 2027. As medidas visam aumentar a transparência e controle sobre ofertas de empréstimos.",
+  "fatos": [
+   "Novas regras do BC buscam proteger consumidores ao oferecer crédito.",
+   "As medidas incluem um painel para consulta de dívidas, a ser lançado em julho de 2027.",
+   "Ofertas ativas de crédito devem contar com autorização prévia dos clientes em situações vulneráveis.",
+   "Mudanças trazem previsões para evitar o superendividamento e oferecer simulações de custos antes das contratações.",
+   "Instituições precisam tornar a comunicação sobre crédito mais clara e transparente."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas novas regras são essenciais para garantir que os consumidores estejam mais bem informados sobre suas dívidas e opções de crédito, reduzindo riscos de endividamento.",
+  "impactoMercado": "As novas diretrizes podem mudar a forma como as instituições financeiras interagem com os consumidores, exigindo mais clareza e responsabilidade nas ofertas de crédito.",
+  "entenda": "O superendividamento ocorre quando o consumidor acumula dívidas excessivas, comprometendo sua capacidade de pagar compromissos financeiros.",
+  "observar": "É importante acompanhar a implementação dessas regras e como as instituições se adaptarão às novas exigências.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A discussão sobre proteção ao consumidor no mercado de crédito é vital para quem deseja entender melhor as dinâmicas de financiamento e débito.",
+  "gancho": "Novas regras de *crédito* a partir de 2027!",
+  "ideias": [
+   "Entenda as novas regras de crédito do BC!",
+   "Como a nova regulamentação vai te impactar?",
+   "Saiba mais sobre superendividamento e medidas de proteção!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "escudo",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito",
+  "publicadoEm": "2026-10-23T19:31:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-22"
+ },
+ {
+  "titulo": "Dólar cai para menos de R$ 5 antes das eleições",
+  "resumo": "O dólar fechou abaixo de R$ 5, recuando 1,58% na semana, enquanto o petróleo atinge patamar alto por tensões no Oriente Médio. O mercado se ajusta antes do segundo turno das eleições.",
+  "fatos": [
+   "O dólar comercial encerrou a sessão em queda de 0,92%, cotado a R$ 4,993.",
+   "Na semana, a moeda acumulou desvalorização de 1,58%.",
+   "O Ibovespa subiu 0,47%, fechando a 205.082,56 pontos.",
+   "O petróleo Brent subiu 3,13%, atingindo US$ 116,72 por barril.",
+   "Em outubro, a bolsa registra valorização de 10,06%."
+  ],
+  "numeros": [
+   {
+    "valor": "4,993",
+    "rotulo": "cotação do dólar comercial"
+   },
+   {
+    "valor": "205.082,56",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "116,72",
+    "rotulo": "preço do petróleo Brent"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "dólar",
+    "antes": "R$ 5,07",
+    "depois": "R$ 4,993"
+   },
+   {
+    "item": "petróleo Brent",
+    "antes": "US$ 113,07",
+    "depois": "US$ 116,72"
+   }
+  ],
+  "destaque": "R$ 4,993",
+  "porQueImporta": "A queda do dólar pode influenciar custos de importação e impactar as decisões de investimento de empresas e investidores.",
+  "impactoMercado": "Com a incerteza das eleições, a volatilidade pode aumentar, afetando as cotações de ativos no Brasil e no exterior.",
+  "entenda": "O dólar comercial é a taxa de câmbio mais utilizada para transações do dia a dia no Brasil e reflete a força da moeda brasileira em relação ao dólar americano.",
+  "observar": "Acompanhe as movimentações do mercado após o segundo turno das eleições e como isso pode impactar o dólar e a bolsa.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as oscilações do dólar e do petróleo ajuda a perceber como eventos geopolíticos afetam o mercado financeiro.",
+  "gancho": "*Dólar* e *Petróleo* em questão!",
+  "ideias": [
+   "Como a queda do dólar afeta seus investimentos?",
+   "Relação entre eleições e mercado: o que observar?",
+   "Entenda a alta do petróleo e suas consequências"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "grafico",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana",
+  "publicadoEm": "2026-10-23T19:02:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-23"
+ },
+ {
+  "titulo": "Ibovespa fecha em alta com eleição em foco",
+  "resumo": "Ibovespa teve leve alta amid expectativas eleitorais. Dólar fechou abaixo de R$ 5, enquanto a inflação mostra sinais de desaceleração.",
+  "fatos": [
+   "O Ibovespa encerrou o dia com alta, impulsionado pela expectativa de vitória de Flávio Bolsonaro.",
+   "O índice acumulou queda de 0,17% na semana, mas subiu no último pregão antes da eleição.",
+   "O dólar à vista terminou a R$ 4,9931, com queda de 0,92% no dia e 1,58% na semana.",
+   "A prévia da inflação, o IPCA-15, subiu 0,32% em outubro, acumulando 4,62% em 12 meses.",
+   "As ações da Petrobras e Vale tiveram desempenho positivo, enquanto Vibra Energia liderou as perdas."
+  ],
+  "numeros": [
+   {
+    "valor": "205.082,56",
+    "rotulo": "Ibovespa no fechamento do dia"
+   },
+   {
+    "valor": "4,9931",
+    "rotulo": "Dólar ao final do pregão"
+   },
+   {
+    "valor": "0,32%",
+    "rotulo": "Alta do IPCA-15 em outubro"
+   },
+   {
+    "valor": "4,62%",
+    "rotulo": "IPCA acumulado em 12 meses"
+   },
+   {
+    "valor": "13,5%",
+    "rotulo": "Participação da Petrobras no IBOV"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,32%",
+  "porQueImporta": "Esses movimentos mostram como o mercado se comporta sob influências políticas e eleitorais, fator crucial para investidores e traders.",
+  "impactoMercado": "Mudanças no panorama eleitoral podem influenciar a confiança do investidor e os preços dos ativos na bolsa de valores.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas na B3.",
+  "observar": "Acompanhe as reações do mercado após o resultado das eleições e as decisões de política monetária do Fed.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto das eleições no mercado é essencial para quem opera ou deseja começar a investir.",
+  "gancho": "*Eleição* e *Mercado*: Impacto no Ibovespa",
+  "ideias": [
+   "Eleições e seu efeito no mercado",
+   "Como o Ibovespa reagiu às eleições?",
+   "Expectativas para o dólar pós-eleições"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-23-10-26-lils/",
+  "publicadoEm": "2026-10-23T17:37:08-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-24"
+ },
+ {
+  "titulo": "Ibovespa B3 sobe com IPCA-15 abaixo do esperado",
+  "resumo": "O Ibovespa fechou em alta de 0,47% nesta sexta-feira, impulsionado por um IPCA-15 abaixo do esperado e alta do petróleo, enquanto o dólar caiu para R$ 4,99.",
+  "fatos": [
+   "O Ibovespa B3 fechou em alta de 0,47%, atingindo 205.082,56 pontos.",
+   "O IPCA-15 de outubro foi de 0,32%, menos da metade do valor anterior de 0,7%.",
+   "O acumulado em 12 meses do IPCA-15 é de 4,62%.",
+   "O volume negociado na B3 foi de R$ 43,5 bilhões.",
+   "O dólar comercial caiu 0,90%, terminando o dia a R$ 4,99."
+  ],
+  "numeros": [
+   {
+    "valor": "205.082,56",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "4,99",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "0,32%",
+    "rotulo": "inflação do IPCA-15"
+   },
+   {
+    "valor": "43,5 bilhões",
+    "rotulo": "volume negociado na B3"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "0,7%",
+    "depois": "0,32%"
+   }
+  ],
+  "destaque": "205.082,56 pontos",
+  "porQueImporta": "A melhora na inflação pode influenciar políticas monetárias, enquanto a alta do petróleo afeta setores como energia, impactando decisões dos investidores.",
+  "impactoMercado": "O aumento da confiança em relação a um IPCA mais baixo pode trazer maior interesse nos ativos de risco, porém a cautela persiste com as eleições se aproximando.",
+  "entenda": "O IPCA-15 é um indicador da inflação, sendo importante para entender a dinâmica de preços que impacta a economia e as decisões de investimento.",
+  "observar": "Fique atento às movimentações no mercado após o resultado das eleições e a continuidade da alta do petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como indicadores como o IPCA e fatores globais como o petróleo afetam o mercado é essencial para quem opera na B3 e deseja fazer investimentos mais informados.",
+  "gancho": "Como o *IPCA* afeta o *mercado*?",
+  "ideias": [
+   "Por que o IPCA-15 impacta o Ibovespa?",
+   "Dólar em queda: o que isso significa?",
+   "O petróleo e suas influências no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/mercado/com-ipca-15-abaixo-ibovespa-b3-sobe-047-antes-da-eleicao-dolar-cai-a-r-499/",
+  "publicadoEm": "2026-10-23T18:15:45-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-25"
+ },
+ {
+  "titulo": "Ibovespa pode subir mais de 5% após eleição, diz Citi",
+  "resumo": "Levantamento do Citi indica que vitória de Flávio Bolsonaro no segundo turno pode impulsionar Ibovespa e real. Expectativas contrastam com cenário negativo caso Lula vença.",
+  "fatos": [
+   "O Citi entrevistou 73 investidores institucionais sobre expectativas pós-eleitorais.",
+   "49,3% acreditam que o Ibovespa subirá mais de 5% se Flávio Bolsonaro vencer.",
+   "88% projetam uma valorização do real em pelo menos 2% frente ao dólar.",
+   "97% apostam em novas quedas nas taxas de juros futuras, com 68% esperando recuo superior a 50 pontos-base.",
+   "79,5% esperam queda superior a 5% no Ibovespa se Lula for reeleito."
+  ],
+  "numeros": [
+   {
+    "valor": "73",
+    "rotulo": "investidores entrevistados pelo Citi"
+   },
+   {
+    "valor": "49,3%",
+    "rotulo": "expectativa de alta no Ibovespa"
+   },
+   {
+    "valor": "88%",
+    "rotulo": "projeta valorização do real"
+   },
+   {
+    "valor": "97%",
+    "rotulo": "apostas em queda de juros futuros"
+   },
+   {
+    "valor": "79,5%",
+    "rotulo": "projeta queda no Ibovespa com Lula"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "49,3%",
+  "porQueImporta": "A análise das expectativas eleitorais ajuda investidores a compreenderem riscos e oportunidades no mercado financeiro, essenciais para a formulação de estratégias de investimento.",
+  "impactoMercado": "Os cenários eleitorais podem impactar a percepção de risco e a volatilidade no mercado, influenciando decisões de investidores e padrões de negociação.",
+  "entenda": "O Ibovespa é o índice que mede o desempenho das ações negociadas na B3 e é um indicador importante das expectativas do mercado financeiro brasileiro.",
+  "observar": "Preste atenção nas reações do mercado depois do segundo turno e na evolução das expectativas econômicas e políticas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender a influência das eleições nos mercados ajuda a navegar por essas mudanças e a ter uma visão mais clara sobre as oportunidades de investimento.",
+  "gancho": "Expectativas de *alta* para o *Ibovespa*!",
+  "ideias": [
+   "Como as eleições podem mudar o seu investimento",
+   "Expectativas do mercado após o segundo turno",
+   "O que esperar do Ibovespa com a eleição?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://bpmoney.com.br/mercado/ibovespa-expectativas-mercado-segundo-turno-pesquisa-citi/",
+  "publicadoEm": "2026-10-23T18:30:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-26"
+ },
+ {
+  "titulo": "Ibovespa avança com pesquisa favorável a Flávio Bolsonaro",
+  "resumo": "O Ibovespa fechou em alta de 0,47%, enquanto o dólar encerrou abaixo de R$ 5. Expectativas eleitorais e queda na inflação impulsionaram os mercados antes do segundo turno.",
+  "fatos": [
+   "O Ibovespa subiu 0,47%, fechando a 205.082,56 pontos, após oscilar entre 203.428,00 e 205.757,04 pontos.",
+   "O dólar à vista caiu 0,90%, cotado a R$ 4,993, o que representa uma desvalorização de 1,57% na semana.",
+   "O IPCA-15, prévia da inflação, aumentou 0,32% em outubro, abaixo da expectativa de 0,43%.",
+   "A pesquisa Veritá indicou 51,3% para Flávio Bolsonaro e 48,7% para Lula, ampliando a vantagem do candidato do PL.",
+   "O volume financeiro na B3 foi de R$ 30,7 bilhões, com 46 ações em alta dentre as 76 do índice."
+  ],
+  "numeros": [
+   {
+    "valor": "205.082,56",
+    "rotulo": "pontos do Ibovespa"
+   },
+   {
+    "valor": "4,993",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "0,32%",
+    "rotulo": "alta do IPCA-15"
+   },
+   {
+    "valor": "51,3%",
+    "rotulo": "votos válidos para Flávio"
+   },
+   {
+    "valor": "48,7%",
+    "rotulo": "votos válidos para Lula"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA-15",
+    "antes": "0,70%",
+    "depois": "0,32%"
+   }
+  ],
+  "destaque": "205.082,56",
+  "porQueImporta": "As expectativas eleitorais influenciam diretamente os movimentos do mercado, afetando a confiança dos investidores e as decisões de investimento.",
+  "impactoMercado": "O cenário eleitoral pode gerar volatilidade no Ibovespa e no dólar, refletindo incertezas sobre o futuro da política econômica do Brasil.",
+  "entenda": "O Ibovespa é o principal índice da B3, representando a performance das ações mais negociadas do Brasil. Movimentos no índice refletem a confiança do mercado na economia.",
+  "observar": "Acompanhar a volatilidade do Ibovespa e do dólar à medida que se aproxima o segundo turno das eleições pode indicar tendências futuras do mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as repercussões das eleições no mercado ajuda novos investidores a se prepararem para decisões de investimento mais informadas.",
+  "gancho": "*Ibovespa* e *eleições*: impacto imediato!",
+  "ideias": [
+   "Como as eleições afetam o Ibovespa?",
+   "O que esperar do dólar após o 2º turno?",
+   "Análise do impacto da inflação no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://exame.com/invest/mercados/ibovespa-sobe-com-perspetiva-de-vitoria-de-flavio-e-dolar-fecha-abaixo-de-r-5-antes-do-2o-turno/",
+  "publicadoEm": "2026-10-23T14:33:43-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-27"
+ },
+ {
+  "titulo": "Ibovespa mostra alta antes da eleição, mas cai na semana",
+  "resumo": "O Ibovespa fechou em alta na sexta-feira, impulsionado por apostas eleitorais, mas acumula queda na semana devido à cautela dos investidores. Expectativas de volatilidade aumentam.",
+  "fatos": [
+   "O Ibovespa subiu 0,47%, encerrando a 205.082,56 pontos.",
+   "Na semana, o índice acumulou decréscimo de 0,17%.",
+   "O volume financeiro no pregão foi de R$ 45,52 bilhões.",
+   "66,67% dos participantes esperam alta do índice na próxima semana.",
+   "O primeiro turno resultou em alta de 7,7% para o Ibovespa."
+  ],
+  "numeros": [
+   {
+    "valor": "205.082,56",
+    "rotulo": "Ibovespa ao final da sexta-feira"
+   },
+   {
+    "valor": "0,47%",
+    "rotulo": "Alta na sexta-feira"
+   },
+   {
+    "valor": "0,17%",
+    "rotulo": "Queda na semana"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Votos válidos",
+    "antes": "51%",
+    "depois": "50%"
+   }
+  ],
+  "destaque": "205.082,56",
+  "porQueImporta": "O cenário eleitoral influencia diretamente os movimentos da bolsa, impactando as decisões de investidores e traders que precisam estar atentos a essas mudanças.",
+  "impactoMercado": "A volatilidade pode ser esperada no mercado, com movimentos bruscos de compra e venda, conforme os resultados eleitorais e as pesquisas se desenrolam.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, que reflete a performance das ações mais líquidas e é um termômetro da confiança dos investidores na economia.",
+  "observar": "Acompanhe os resultados do debate entre candidatos e as novas pesquisas eleitorais que serão divulgadas, pois podem afetar as expectativas do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia ilustra como a política pode impactar a bolsa, incentivando o público a entender melhor o mercado financeiro e a importância de uma educação sólida na área.",
+  "gancho": "*Ibovespa* em alta antes da eleição",
+  "ideias": [
+   "Como a política afeta sua renda na Bolsa?",
+   "O que esperar do Ibovespa neste pós-eleição?",
+   "Dicas para investir em tempos de volatilidade"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://www.infomoney.com.br/mercados/calmaria-antes-da-turbulencia-por-que-ibovespa-opera-estavel-na-sessao-pre-2o-turno/",
+  "publicadoEm": "2026-10-23T17:55:06-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-28"
+ },
+ {
+  "titulo": "EUA alteram tarifas sobre produtos canadenses",
+  "resumo": "Mudanças na lista de tarifas impõem novos impostos sobre itens canadenses a partir de 30 de outubro, refletindo tensões comerciais entre os países.",
+  "fatos": [
+   "Os EUA adicionaram válvulas, carpetes e resíduos à lista de produtos canadenses sujeitos a tarifas de 50%.",
+   "Item como chapas de madeira compensada e máquinas foram removidos da lista.",
+   "As tarifas começaram em agosto de 2026 após falhas nas negociações comerciais.",
+   "As empresas do setor ferroviário reportaram um aumento no tráfego de 3,7% este ano.",
+   "A decisão pode influenciar as eleições de meio de mandato em novembro."
+  ],
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "tarifa sobre produtos canadenses"
+   },
+   {
+    "valor": "3,7%",
+    "rotulo": "aumento de tráfego ferroviário"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "50%",
+  "porQueImporta": "As alterações tarifárias podem impactar custos e preços de produtos, afetando comércio e economia americana e canadense.",
+  "impactoMercado": "As mudanças tarifárias são um reflexo das tensões comerciais, o que pode afetar setores específicos do mercado e investidores envolvidos.",
+  "entenda": "As tarifas são impostos que podem aumentar os preços de importações, impactando a competitividade de empresas e economias de países envolvidos.",
+  "observar": "Fique atento a possíveis novas mudanças nas tarifas e a reações do mercado e das empresas afetadas.",
+  "publico": [
+   "Empresários",
+   "Investidores"
+  ],
+  "angulo": "Essa atualização sobre tarifas evidencia as complexidades das relações comerciais e a importância de entender o impacto no mercado.",
+  "gancho": "Mudanças nas *tarifas comerciais* dos EUA",
+  "ideias": [
+   "Como tarifas comerciais afetam o mercado?",
+   "Entenda o impacto das mudanças tarifárias",
+   "O que a alteração nas tarifas significa para o comércio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://www.infomoney.com.br/mundo/eua-fazem-mudancas-em-lista-de-produtos-canadenses-sujeitos-a-tarifas-de-50/",
+  "publicadoEm": "2026-10-23T20:06:35-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-29"
+ },
+ {
+  "titulo": "Goldman Sachs vê potencial de alta para o real",
+  "resumo": "O real pode valorizar após o segundo turno, mas o Goldman Sachs apontou riscos em meio à disputa acirrada entre Flávio Bolsonaro e Lula. Volatilidade no câmbio pode aumentar.",
+  "fatos": [
+   "O real ganhou cerca de 4% frente ao dólar após o primeiro turno das eleições.",
+   "A diferença entre os candidatos caiu para uma faixa de zero a 2,5 pontos percentuais.",
+   "A volatilidade implícita do real aumentou com a disputa acirrada.",
+   "O Goldman Sachs alerta sobre a deterioração das contas públicas nos últimos meses."
+  ],
+  "numeros": [
+   {
+    "valor": "4%",
+    "rotulo": "valorização do real após 1º turno"
+   },
+   {
+    "valor": "2,5",
+    "rotulo": "diferença entre candidatos em pontos percentuais"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "4%",
+  "porQueImporta": "Entender como as eleições influenciam a moeda é fundamental para investidores que buscam proteger seus ativos e compreender as oscilações do câmbio.",
+  "impactoMercado": "A incerteza política pode causar oscilações no câmbio e nos ativos brasileiros, afetando planos de investimentos e estratégias de proteção cambial.",
+  "entenda": "O câmbio é a relação de troca entre duas moedas. A valorização ou desvalorização do real impacta os preços de importações e exportações, além de influenciar a inflação.",
+  "observar": "Acompanhar a formação da equipe econômica e os primeiros sinais sobre a política fiscal após as eleições será crucial para a estabilidade do real.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A volatilidade do câmbio exige atenção e conhecimento. Entender esses movimentos pode ajudar a navegar as incertezas do mercado, especialmente em períodos eleitorais.",
+  "gancho": "O real pode *valorizar* ou *desvalorizar*?",
+  "ideias": [
+   "Eleições e suas influências no câmbio",
+   "Como o mercado reage à política?",
+   "O que esperar do real após as eleições?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://bpmoney.com.br/mercado/cambio/real-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/",
+  "publicadoEm": "2026-10-23T18:00:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-30"
+ },
+ {
+  "titulo": "Petróleo sobe 3% com tensões entre EUA e Irã",
+  "resumo": "Os preços do petróleo subiram nesta sexta-feira, com o Brent em seu maior nível desde abril, impulsionado por renovadas tensões no Oriente Médio.",
+  "fatos": [
+   "O petróleo Brent subiu 3,13%, fechando a US$ 116,72 por barril.",
+   "Na semana, o Brent avançou 6,24%.",
+   "O petróleo WTI para dezembro teve alta de 3,82%, a US$ 103,27 por barril.",
+   "O Irã ameaçou retaliar contra ataques dos EUA e Israel.",
+   "O Departamento de Energia dos EUA autorizou a liberação de estoques para estabilizar o mercado."
+  ],
+  "numeros": [
+   {
+    "valor": "116,72",
+    "rotulo": "Preço do barril Brent"
+   },
+   {
+    "valor": "+3%",
+    "rotulo": "Alta do Brent hoje"
+   },
+   {
+    "valor": "103,27",
+    "rotulo": "Preço do barril WTI"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "116,72",
+  "porQueImporta": "A alta do petróleo influencia diversos setores da economia, afetando preços de combustíveis e custos de operação para empresas, o que é importante para investidores.",
+  "impactoMercado": "Com a escalada das tensões, o mercado pode experimentar volatilidade, afetando investimentos em energia e commodities.",
+  "entenda": "O petróleo Brent é um dos principais benchmarks de preços de petróleo e reflete a pressão da oferta e demanda no mercado global.",
+  "observar": "Fique atento a novas atualizações sobre conflitos no Oriente Médio e suas repercussões nos preços do petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o comportamento do mercado de petróleo em função de conflitos geopolíticos é crucial para quem investe nesse setor.",
+  "gancho": "*Petróleo* em alta com *tensões* internacionais",
+  "ideias": [
+   "O impacto das tensões geopolíticas no petróleo",
+   "Por que o Brent está em alta?",
+   "Como conflitos afetam a economia global"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "url": "https://www.moneytimes.com.br/petroleo-23-10-26-lils/",
+  "publicadoEm": "2026-10-23T16:38:59-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-31"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-high-will-10-year-treasury-yield-go-before-2027",
+  "titulo": "Mercado vê 39,5% de chance de rendimento de 10 anos a 5,3% antes de 2027.",
+  "resumo": "Expectativas sobre os rendimentos de títulos a longo prazo refletem incertezas econômicas.",
+  "probs": [
+   {
+    "opcao": "5.3%",
+    "prob": 39.5
+   },
+   {
+    "opcao": "5.4%",
+    "prob": 23.5
+   },
+   {
+    "opcao": "5.5%",
+    "prob": 10.9
+   },
+   {
+    "opcao": "5.7%",
+    "prob": 5.1
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 31 mil",
+  "fatos": [
+   "5.3%: 39,5%",
+   "5.4%: 23,5%",
+   "5.5%: 10,9%",
+   "5.7%: 5,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "39,5%",
+    "rotulo": "5.3%"
+   },
+   {
+    "valor": "23,5%",
+    "rotulo": "5.4%"
+   },
+   {
+    "valor": "10,9%",
+    "rotulo": "5.5%"
+   },
+   {
+    "valor": "5,1%",
+    "rotulo": "5.7%"
+   }
+  ],
+  "destaque": "39,5%",
+  "gancho": "*Expectativa* de alta moderada",
+  "entenda": "Os rendimentos dos títulos de longo prazo são influenciados pelas expectativas de crescimento e inflação.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-high-will-10-year-treasury-yield-go-before-2027",
+  "publicadoEm": "2026-10-23T21:00:20-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-23T21:00:20-03:00",
+  "data": "2026-10-23",
+  "status": "nova",
+  "id": "2026-10-23-p3"
+ },
+ {
   "titulo": "Goldman Sachs prevê reajuste de 50% no diesel da Petrobras",
   "resumo": "O Goldman Sachs alerta para um possível reajuste de 50% no preço do diesel da Petrobras após as eleições, devido a defasagem em relação ao mercado internacional.",
   "fatos": [
@@ -602,16 +1278,16 @@
  {
   "tipo": "sinal",
   "slug": "how-low-will-5-year-treasury-yield-get-before-2027",
-  "titulo": "Mercado de previsões vê 62.5% de chance de *rendimentos abaixo de 4.70%* até 2027",
-  "resumo": "Apostadores esperam que os rendimentos dos títulos do Tesouro de 5 anos diminuam nos próximos meses.",
+  "titulo": "Mercado prevê 74,5% de chance de rendimento abaixo de 4,70% para títulos a 5 anos.",
+  "resumo": "Expectativas de queda nos rendimentos dos títulos são um sinal de confiança econômica.",
   "probs": [
    {
     "opcao": "Abaixo de 4.70%",
-    "prob": 62.5
+    "prob": 74.5
    },
    {
     "opcao": "Abaixo de 4.65%",
-    "prob": 58.5
+    "prob": 57.5
    },
    {
     "opcao": "Abaixo de 4.60%",
@@ -619,24 +1295,24 @@
    },
    {
     "opcao": "Abaixo de 4.55%",
-    "prob": 49.5
+    "prob": 38.5
    }
   ],
   "prazo": "2026-12-31",
-  "volume24h": "US$ 59 mil",
+  "volume24h": "US$ 55 mil",
   "fatos": [
-   "Abaixo de 4.70%: 62,5%",
-   "Abaixo de 4.65%: 58,5%",
+   "Abaixo de 4.70%: 74,5%",
+   "Abaixo de 4.65%: 57,5%",
    "Abaixo de 4.60%: 50,5%",
-   "Abaixo de 4.55%: 49,5%"
+   "Abaixo de 4.55%: 38,5%"
   ],
   "numeros": [
    {
-    "valor": "62,5%",
+    "valor": "74,5%",
     "rotulo": "Abaixo de 4.70%"
    },
    {
-    "valor": "58,5%",
+    "valor": "57,5%",
     "rotulo": "Abaixo de 4.65%"
    },
    {
@@ -644,11 +1320,11 @@
     "rotulo": "Abaixo de 4.60%"
    },
    {
-    "valor": "49,5%",
+    "valor": "38,5%",
     "rotulo": "Abaixo de 4.55%"
    }
   ],
-  "destaque": "62,5%",
+  "destaque": "74,5%",
   "gancho": "*Expectativa de queda* nos rendimentos",
   "entenda": "Os rendimentos dos títulos do Tesouro influenciam as taxas de juros e, portanto, a economia como um todo.",
   "categoria": "Previsões",
@@ -661,8 +1337,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-10-23T16:32:53-03:00",
   "data": "2026-10-23",
-  "status": "nova",
-  "id": "2026-10-23-p2"
+  "status": "atualizada",
+  "id": "2026-10-23-p2",
+  "atualizadoEm": "2026-10-23T21:00:20-03:00"
  },
  {
   "titulo": "Bradesco projeta aumento na inadimplência do crédito",
