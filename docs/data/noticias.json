@@ -1,5 +1,986 @@
 [
  {
+  "titulo": "Bolsa de Nova York fecha em queda geral por alta do petróleo",
+  "resumo": "Wall Street fechou em queda nesta sexta-feira, afetada pelos temores do conflito entre EUA e Irã e pela alta nos preços do petróleo, que superaram US$ 110 por barril.",
+  "fatos": [
+   "As bolsas de Nova York apresentaram queda generalizada devido à alta do petróleo.",
+   "Os preços do petróleo ultrapassaram os US$ 110 por barril.",
+   "O contrato do Brent para dezembro subiu 3,13%, terminando a US$ 116,72.",
+   "A probabilidade do Federal Reserve manter os juros inalterados é de 90,6% para a próxima reunião.",
+   "CSN (CSNA3) liderou os ganhos na bolsa, com alta de 12%."
+  ],
+  "numeros": [
+   {
+    "valor": "110",
+    "rotulo": "Petróleo acima de US$ por barril"
+   },
+   {
+    "valor": "3,13%",
+    "rotulo": "Alta do Brent para dezembro"
+   },
+   {
+    "valor": "90,6%",
+    "rotulo": "Chance do Fed manter juros"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Probabilidade de manutenção dos juros",
+    "antes": "94,5%",
+    "depois": "90,6%"
+   }
+  ],
+  "destaque": "US$ 110",
+  "porQueImporta": "Os investidores precisam estar atentos às oscilações do petróleo, pois isso pode impactar diretamente os preços de ações e a inflação.",
+  "impactoMercado": "A queda da bolsa pode indicar incerteza no mercado, e a alta do petróleo pode afetar os custos de produção das empresas.",
+  "entenda": "O Brent é um tipo de petróleo utilizado como referência nos mercados internacionais, influenciando direta e indiretamente diversos setores da economia.",
+  "observar": "Acompanhe os desdobramentos do conflito no Oriente Médio e o comportamento dos preços do petróleo nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa queda nas bolsas e a alta do petróleo evidenciam a volatilidade do mercado, importante para entender a dinâmica das operações financeiras.",
+  "gancho": "*Bolsa em queda* e *alta do petróleo*!",
+  "ideias": [
+   "Como o petróleo afeta o mercado?",
+   "Cenário atual da Bolsa de Nova York",
+   "Impactos do petróleo nos investimentos"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Commodities",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-alta-do-petroleo-davs/",
+  "publicadoEm": "2026-10-23T17:46:03-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-07"
+ },
+ {
+  "titulo": "Azul busca até R$ 2 bilhões para combustível",
+  "resumo": "A companhia aérea Azul procurou um financiamento de até R$ 2 bilhões. O valor será utilizado para pagar combustíveis.",
+  "fatos": [
+   "A Azul está em busca de um financiamento que pode chegar a até R$ 2 bilhões.",
+   "Os recursos serão destinados ao pagamento de combustível.",
+   "Essa medida reflete a necessidade de melhorar a liquidez da companhia."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "R$ 2 bilhões",
+  "porQueImporta": "Esse financiamento pode ajudar a companhia a garantir operações mesmo diante de desafios financeiros.",
+  "impactoMercado": "Investidores devem observar como esse financiamento afetará a performance e a saúde financeira da Azul.",
+  "entenda": "O financiamento pode ser uma estratégia para manter a operação, essencial para a sustentabilidade das empresas aéreas.",
+  "observar": "Acompanhe a utilização dos recursos e o impacto nas finanças da empresa nos próximos meses.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia mostra como as empresas precisam se adaptar e buscar recursos para se manterem no mercado em tempos difíceis.",
+  "gancho": "*Financiamento* crucial para *Azul*",
+  "ideias": [
+   "Financiamento ajuda Azul a manter operações",
+   "Como o financiamento impacta a Azul?",
+   "Azul e a busca por liquidez no mercado"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "moeda",
+  "fonte": "CNN Brasil",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.google.com/search?q=Azul+toma+financiamento+de+at%C3%A9+R%24+2+bilh%C3%B5es+para+pagar+combust%C3%ADvel+CNN+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T10:48:35-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-08"
+ },
+ {
+  "titulo": "Probabilidade de Flávio Bolsonaro cai 10% na Eurasia",
+  "resumo": "A Eurasia Group ajustou a probabilidade de vitória de Flávio Bolsonaro, refletindo mudanças nas pesquisas. Entenda os impactos e o cenário político.",
+  "fatos": [
+   "A probabilidade de vitória de Flávio Bolsonaro caiu de 70% para 60%.",
+   "A diferença média nas pesquisas é agora de 1,9 ponto percentual, ante 2,6 pontos em 21 de outubro.",
+   "A consultoria observa que Lula pode estar superestimado em cerca de 1 ponto percentual.",
+   "Flávio precisa apenas manter sua posição, enquanto Lula busca uma vitória clara no debate.",
+   "As últimas campanhas e propostas do PT ajudaram a aumentar a aprovação de Lula."
+  ],
+  "numeros": [
+   {
+    "valor": "60%",
+    "rotulo": "probabilidade de vitória de Flávio Bolsonaro"
+   },
+   {
+    "valor": "70%",
+    "rotulo": "caiu de 70% para 60%"
+   },
+   {
+    "valor": "1,9",
+    "rotulo": "diferença média em pontos percentuais"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "60%",
+  "porQueImporta": "Essas mudanças nas probabilidades podem influenciar o sentimento do mercado ao se aproximar das eleições.",
+  "impactoMercado": "O resultado das eleições pode afetar a confiança dos investidores e a movimentação das ações na bolsa.",
+  "entenda": "A porcentagem de probabilidade em eleições reflete a expectativa de vitória de candidatos, impactando decisões políticas e econômicas.",
+  "observar": "Acompanhar os desdobramentos do debate e a reação do público pode ser crucial nos dias finais da campanha.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Analisar a relação entre política e mercado é essencial para entender como as eleições podem impactar nossos investimentos.",
+  "gancho": "*Eleições* afetam *mercado*",
+  "ideias": [
+   "Como as eleições influenciam o mercado?",
+   "Entenda as probabilidades nas eleições!",
+   "O que os investidores devem observar nas eleições?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/probabilidade-de-vitoria-de-flavio-bolsonaro-cai-10-segundo-eurasia-o-que-mudou-apsa/",
+  "publicadoEm": "2026-10-23T19:05:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-09"
+ },
+ {
+  "titulo": "Flávio Bolsonaro descarta privatização da Petrobras",
+  "resumo": "Embora o presidente do Senado Flávio Bolsonaro tenha descartado a privatização da Petrobras, o mercado ainda aguarda a venda de ativos da empresa.",
+  "fatos": [
+   "Flávio Bolsonaro está à frente do Senado e comentou sobre a Petrobras.",
+   "A privatização da estatal não é uma opção considerada pelo senador.",
+   "Ainda assim, investidores estão atentos à possível venda de ativos da empresa."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A posição do governo sobre a Petrobras pode afetar a confiança dos investidores e as estratégias de investimento no setor de petróleo e gás.",
+  "impactoMercado": "O mercado pode reagir com volatilidade, dependendo das decisões futuras sobre ativos da Petrobras e do clima político.",
+  "entenda": "A Petrobras é uma das maiores empresas do Brasil e atua no setor de petróleo e gás, sendo um indicador importante da economia nacional.",
+  "observar": "Preste atenção a futuras declarações do governo sobre a estatal e mudanças nas políticas que podem impactar o setor.",
+  "publico": [
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender as movimentações políticas ajuda a decifrar como o mercado reage a mudanças nas diretrizes governamentais.",
+  "gancho": "*Petrobras*: rumo de venda de ativos?",
+  "ideias": [
+   "Política e Petrobras: o que esperar agora?",
+   "Impactos da posição sobre privatização da Petrobras",
+   "O que a venda de ativos da Petrobras significa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.google.com/search?q=Fl%C3%A1vio+descarta+privatizar+Petrobras%2C+mas+mercado+espera+venda+de+ativos+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T15:00:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-10"
+ },
+ {
+  "titulo": "CVM prioriza mercado preditivo e tokenização no Brasil",
+  "resumo": "A CVM foca em regulamentar mercados preditivos, avançar com a tokenização e implementar IA na supervisão do setor. Essas ações visam modernizar a autarquia e melhorar a fiscalização.",
+  "fatos": [
+   "O presidente da CVM, Otto Lobo, anunciou que três prioridades guiarão a autarquia nos próximos meses.",
+   "As prioridades incluem a regulamentação do mercado preditivo e o avanço da tokenização do mercado de capitais.",
+   "A CVM já testa tecnologias para ativos digitais e busca modernizar a supervisão com o uso de inteligência artificial.",
+   "Mercados preditivos operam com contratos baseados em probabilidade de eventos futuros, como eleições e indicadores econômicos.",
+   "A tokenização pode reduzir o valor mínimo de entrada em fundos de US$ 1.000 para cerca de US$ 20, melhorando a acessibilidade."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "US$ 20",
+  "porQueImporta": "Essas inovações podem facilitar o acesso ao mercado de capitais e transformar a maneira como investimentos são realizados e fiscalizados.",
+  "impactoMercado": "Mudanças nas regulamentações podem trazer mais segurança e eficiência ao mercado, atraindo novos investidores e impulsionando a inovação.",
+  "entenda": "O mercado preditivo permite que investidores especulem sobre eventos futuros, oferecendo novas oportunidades e riscos no investimento.",
+  "observar": "Acompanhe as próximas discussões e regulamentações da CVM sobre mercados preditivos e tokenização para entender como isso impacta suas decisões de investimento.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como a modernização da CVM pode abrir portas para novos formatos de investimento e trazer inovações ao mercado.",
+  "gancho": "*Inovações* na CVM: O futuro do mercado!",
+  "ideias": [
+   "CVM e o futuro do mercado preditivo",
+   "Tokenização: Revolução no mercado financeiro",
+   "Como a inteligência artificial impacta a supervisão do mercado"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.moneytimes.com.br/cvm-coloca-mercado-preditivo-tokenizacao-e-ia-entre-prioridades-da-autarquia-para-os-proximos-meses-mlim/",
+  "publicadoEm": "2026-10-23T17:48:06-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-11"
+ },
+ {
+  "titulo": "Bolsonaro e Lula empatam em intenções de voto",
+  "resumo": "Flávio Bolsonaro e Lula da Silva chegam ao segundo turno da eleição presidencial em empate técnico. Pesquisa CNT/MDA mostra Flávio com 46,3% e Lula com 45%.",
+  "fatos": [
+   "Flávio Bolsonaro tem 46,3% e Lula tem 45% das intenções de voto.",
+   "A diferença entre os candidatos aumentou de 0,9 para 1,3 ponto percentual.",
+   "Os votos válidos mostram Flávio com 50,7% e Lula com 49,3%.",
+   "A pesquisa ouviu 2.032 pessoas entre quarta e sexta-feira.",
+   "A margem de erro é de 2,2 pontos percentuais."
+  ],
+  "numeros": [
+   {
+    "valor": "46,3%",
+    "rotulo": "Intenções de voto de Flávio Bolsonaro"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Intenções de voto de Lula"
+   },
+   {
+    "valor": "50,7%",
+    "rotulo": "Votos válidos para Flávio"
+   },
+   {
+    "valor": "49,3%",
+    "rotulo": "Votos válidos para Lula"
+   },
+   {
+    "valor": "2,2",
+    "rotulo": "Margem de erro da pesquisa"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Flávio Bolsonaro",
+    "antes": "46,8%",
+    "depois": "46,3%"
+   },
+   {
+    "item": "Lula",
+    "antes": "45,9%",
+    "depois": "45%"
+   },
+   {
+    "item": "Votos válidos Flávio",
+    "antes": "50,5%",
+    "depois": "50,7%"
+   },
+   {
+    "item": "Votos válidos Lula",
+    "antes": "49,5%",
+    "depois": "49,3%"
+   }
+  ],
+  "destaque": "1,3 ponto percentual",
+  "porQueImporta": "As eleições impactam diretamente a economia e a confiança do investidor, já que a política fiscal e monetária é influenciada pelos governos eleitos.",
+  "impactoMercado": "A proximidade das eleições pode trazer volatilidade ao mercado, à medida que investidores reavaliam suas estratégias dependendo do resultado.",
+  "entenda": "Empate técnico significa que a diferença entre candidatos está dentro da margem de erro da pesquisa, o que torna o resultado incerto.",
+  "observar": "Acompanhe como as últimas pesquisas podem influenciar a percepção do mercado até a data da eleição.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender as eleições e seus impactos é crucial para investidores que buscam se posicionar em tempo de incertezas políticas.",
+  "gancho": "*Eleições e mercado*: o que esperar?",
+  "ideias": [
+   "Efecto das eleições no mercado financeiro",
+   "Como as eleições podem afetar seus investimentos",
+   "A importância do cenário político na economia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/flavio-e-lula-chegam-a-eleicao-separados-por-13-ponto-aponta-cnt-mda/",
+  "publicadoEm": "2026-10-24T13:30:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-12"
+ },
+ {
+  "titulo": "Debate entre Lula e Flávio aborda juros e dívida pública",
+  "resumo": "No último debate antes do segundo turno, Lula e Flávio discutiram propostas sobre gastos públicos, juros e dívidas. Ambos apresentaram promessas de reajuste do salário mínimo.",
+  "fatos": [
+   "Os candidatos divergem sobre a responsabilidade dos juros e da dívida pública.",
+   "Lula atribuiu a indevida ao crescimento econômico, enquanto Flávio falou dos gastos públicos.",
+   "A taxa Selic está em 13,75% ao ano, segundo Flávio, resultado de um governo gastador.",
+   "A dívida pública é estimada em R$ 11 trilhões, gerando quase R$ 1 trilhão anuais em juros.",
+   "Ambos prometeram aumentar o salário mínimo acima da inflação."
+  ],
+  "numeros": [
+   {
+    "valor": "13,75",
+    "rotulo": "Taxa Selic atual ao ano"
+   },
+   {
+    "valor": "R$ 11 trilhões",
+    "rotulo": "Dívida pública mencionada"
+   },
+   {
+    "valor": "R$ 1 trilhão",
+    "rotulo": "Custo anual em juros da dívida"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "13,75",
+  "porQueImporta": "Discussões sobre juros e dívidas influenciam decisões políticas que afetam a economia, impactando o mercado e os investimentos.",
+  "impactoMercado": "Decisões futuras sobre política monetária e gastos podem impactar a confiança dos investidores e o desempenho da Bolsa.",
+  "entenda": "A taxa Selic é a taxa básica de juros da economia, influenciando empréstimos e investimentos, crucial para a inflação e crescimento.",
+  "observar": "Fique atento às propostas dos candidatos sobre política monetária e como isso pode afetar as expectativas do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender as discussões políticas ajuda o investidor a analisar ações e decisões econômicas que podem afetar seus investimentos.",
+  "gancho": "*Debate* revela visões sobre *juros* e *dívidas*",
+  "ideias": [
+   "Juros e dívida: o que disseram Lula e Flávio?",
+   "O impacto da política econômica nas eleições",
+   "Como as promessas eleitorais afetam o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Bloomberg Línea",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.bloomberglinea.com.br/brasil/lula-e-flavio-divergem-sobre-juros-divida-e-impostos-no-ultimo-debate-antes-da-eleicao/",
+  "publicadoEm": "2026-10-24T01:05:18-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-13"
+ },
+ {
+  "titulo": "Dólar cai abaixo de R$ 5 e bolsa fecha em alta",
+  "resumo": "O Dólar caiu e a bolsa teve alta antes do 2º turno das eleições. Essa oscilação pode impactar o mercado financeiro.",
+  "fatos": [
+   "O Dólar recuou e ficou abaixo de R$ 5.",
+   "A bolsa de valores teve um fechamento positivo.",
+   "Esse movimento no mercado ocorreu antes do 2º turno das eleições."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Flutuações no câmbio e na bolsa podem refletir a confiança dos investidores no cenário eleitoral.",
+  "impactoMercado": "Essas movimentações podem indicar como o mercado está se posicionando frente ao resultado das eleições.",
+  "entenda": "O câmbio é a relação entre duas moedas, e a variação do Dólar pode influenciar a economia e o mercado acionário.",
+  "observar": "Acompanhe as curvas de câmbio e os resultados do 2º turno das eleições.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como as eleições afetam o mercado pode ajudar a tomar decisões mais informadas.",
+  "gancho": "*Dólar* cai e *bolsa* sobe?",
+  "ideias": [
+   "Dólar abaixo de R$ 5: o que isso significa?",
+   "Bolsa fecha em alta: o impacto das eleições",
+   "Como o cenário político afeta o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "bra1.com.br",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+cai+abaixo+de+R%24+5+e+bolsa+fecha+em+alta+antes+do+2%C2%BA+turno+bra1.com.br",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T08:16:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-14"
+ },
+ {
+  "titulo": "Onda de calor atinge 85% do globo por 367 dias",
+  "resumo": "A maior onda de calor da década afetou 85% da Terra por quase um ano, mudando a forma como vemos as catástrofes climáticas.",
+  "fatos": [
+   "Esta onda de calor durou 367 dias, alastrando-se pelas latitudes polares.",
+   "Ao longo das décadas, a frequência das 'tempestades de calor' aumentou de cinco por ano na década de 1960 para 102 atualmente.",
+   "Ela causou temperaturas extremas em regiões como as Filipinas, onde alcançou 38°C.",
+   "Durante a onda, mais de 10.000 mortes adicionais foram registradas na Europa devido ao calor extremo.",
+   "O evento também contribuiu para desastres como incêndios florestais em Louisiana e rompimentos de barragens na Líbia."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "85% do globo",
+  "porQueImporta": "O aumento de ondas de calor impacta diretamente a vida humana e pode provocar crises de saúde, sociais e econômicas.",
+  "impactoMercado": "As mudanças climáticas e desastres naturais podem afetar a economia global, desestabilizando mercados e setores como agricultura e seguros.",
+  "entenda": "Uma 'tempestade de calor' é definida como uma onda de calor abrangendo uma grande área com temperaturas extremas por um período prolongado.",
+  "observar": "Fique atento a novos relatórios sobre os impactos climáticos e como eles afetam economias locais e globais.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Entender como as mudanças climáticas afetam o mercado é essencial para investidores conscientes e que buscam por informações relevantes.",
+  "gancho": "*Onda de calor* impacta *economia global*!",
+  "ideias": [
+   "O que a onda de calor significa para o seu bolso?",
+   "Mudanças climáticas: por que você deve se preocupar?",
+   "Como a temperatura afeta o mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.infomoney.com.br/mundo/a-maior-onda-de-calor-ja-registrada-varreu-85-do-globo-por-367-dias-saiba-mais/",
+  "publicadoEm": "2026-10-24T13:38:10-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-15"
+ },
+ {
+  "titulo": "Flávio Bolsonaro faz motociata e critica PT em BH",
+  "resumo": "A motociata reuniu apoiadores em Belo Horizonte na reta final da campanha. Flávio promete parceria com Minas Gerais se eleito.",
+  "fatos": [
+   "Flávio Bolsonaro participou de motociata em Belo Horizonte, mobilizando apoiadores.",
+   "O evento ocorreu na Praça do Papa e seguiu até a Praça da Liberdade.",
+   "Durante a manifestação, músicas e palavras de ordem foram direcionadas ao PT.",
+   "Flávio obteve 48,30% dos votos no primeiro turno, contra 41,39% de Lula."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "48,30%",
+  "porQueImporta": "A mobilização em BH mostra o engajamento dos apoiadores na reta final da campanha, refletindo o clima eleitoral.",
+  "impactoMercado": "A relação entre política e economia pode influenciar decisões de investimentos e a confiança do mercado.",
+  "entenda": "As motociatas são eventos políticos que visam mobilizar e engajar apoiadores para aumentar a visibilidade do candidato.",
+  "observar": "Fique atento ao desdobramento das campanhas nas redes sociais e possíveis reações do mercado às eleições.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as mobilizações eleitorais ajuda a compreender o cenário político que impacta os mercados financeiros.",
+  "gancho": "*Mobilização* dos eleitores e *impactos* no mercado",
+  "ideias": [
+   "Bolsonaro em BH: movimentos que influenciam o mercado",
+   "Ato político e sua importância para investidores",
+   "Como políticas afetam investimentos: cenário atual"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://exame.com/brasil/flavio-bolsonaro-participa-de-motociata-em-bh-e-faz-criticas-ao-pt-na-reta-final-da-campanha/",
+  "publicadoEm": "2026-10-24T10:35:24-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-16"
+ },
+ {
+  "titulo": "Avaliação de Lula empata com a de Bolsonaro na CNT/MDA",
+  "resumo": "Pesquisa CNT/MDA mostra que avaliação positiva de Lula subiu para 37,9% e a negativa recuou para 38,4% na reta final para o segundo turno.",
+  "fatos": [
+   "A avaliação positiva de Lula foi de 37,9%, enquanto a negativa foi de 38,4%.",
+   "Os índices mudaram ao longo de outubro; positiva subiu 2,6 pontos e negativa caiu 2,8 pontos.",
+   "O levantamento entrevistou 2.032 pessoas em 140 municípios.",
+   "A margem de erro da pesquisa é de 2,2 pontos percentuais.",
+   "Lula apresenta desaprovação pessoal de 48,8% e aprovação de 47,6%."
+  ],
+  "numeros": [
+   {
+    "valor": "37,9%",
+    "rotulo": "Avaliação positiva de Lula"
+   },
+   {
+    "valor": "38,4%",
+    "rotulo": "Avaliação negativa de Lula"
+   },
+   {
+    "valor": "2,6",
+    "rotulo": "Pontos percentuais de alta na positiva"
+   },
+   {
+    "valor": "2,8",
+    "rotulo": "Pontos percentuais de queda na negativa"
+   },
+   {
+    "valor": "2.032",
+    "rotulo": "Pessoas entrevistadas na pesquisa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "37,9%",
+  "porQueImporta": "A avaliação do governo pode influenciar a confiança do investidor e o clima econômico, especialmente em períodos eleitorais.",
+  "impactoMercado": "Mudanças na percepção do governo podem afetar a estabilidade política e, consequentemente, o mercado financeiro.",
+  "entenda": "A avaliação do governo é uma medida de como a população vê a gestão atual e pode impactar a popularidade do presidente e a governabilidade.",
+  "observar": "Acompanhe as próximas pesquisas e declarações do governo, que podem influenciar a confiança do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender a avaliação do governo é essencial para entender como fatores políticos afetam o mercado financeiro.",
+  "gancho": "Avaliação de *Lula* e *Bolsonaro* em 2026",
+  "ideias": [
+   "Avaliação do governo: o que muda?",
+   "Lula vs Bolsonaro: resultados em comparação",
+   "Como a política afeta o mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://exame.com/brasil/cnt-mda-lula-chega-ao-2o-turno-melhor-que-jair-mas-com-avaliacao-negativa-e-positiva-empatadas/",
+  "publicadoEm": "2026-10-24T09:45:38-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-17"
+ },
+ {
+  "titulo": "Rogério Marinho: o ‘enigma’ que preocupa a Faria Lima",
+  "resumo": "A incerteza sobre o futuro político de Rogério Marinho afeta o mercado financeiro e investidores. O tema gera alerta nas discussões na Faria Lima.",
+  "fatos": [
+   "A situação política de Rogério Marinho está sendo monitorada de perto.",
+   "O cenário gera incerteza no mercado financeiro.",
+   "Investidores discutem as possíveis implicações dessa incerteza."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Mudanças no cenário político podem influenciar decisões econômicas, afetando investimentos e a confiança do mercado.",
+  "impactoMercado": "A incerteza política pode levar a volatilidade nos mercados, impactando a maneira como investidores atuam.",
+  "entenda": "A Faria Lima é um importante centro financeiro em São Paulo, onde muitas decisões de investimento são discutidas.",
+  "observar": "Fique atento às próximas movimentações políticas e como elas podem impactar o mercado.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Entender essas dinâmicas políticas é essencial para quem deseja navegar no mercado financeiro.",
+  "gancho": "O ‘enigma’ no mercado financeiro",
+  "ideias": [
+   "Como Rogério Marinho afeta suas ações?",
+   "O que a política tem a ver com o mercado?",
+   "Incertezas políticas: como se preparar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.google.com/search?q=O+%E2%80%98enigma%E2%80%99+Rog%C3%A9rio+Marinho+no+radar+da+Faria+Lima+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T07:01:53-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-18"
+ },
+ {
+  "titulo": "Aniversário de Manaus: lugares e passeios históricos",
+  "resumo": "Neste aniversário de Manaus, descubra opções de locais e passeios históricos que valorizam a cultura da cidade.",
+  "fatos": [
+   "Manaus é rica em história e cultura.",
+   "Os turistas podem explorar diversos pontos históricos.",
+   "Passeios oferecem uma experiência única na cidade."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Conhecer a história de locais pode enriquecer a experiência de viagem e o entendimento cultural.",
+  "impactoMercado": "O turismo pode impactar positivamente a economia local e gerar oportunidades de investimento em serviços e infraestrutura.",
+  "entenda": "A valorização do turismo histórico pode impulsionar o desenvolvimento econômico e, consequentemente, o mercado local.",
+  "observar": "Acompanhar novos anúncios de eventos e atrações turísticas na cidade pode ser interessante.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Mergulhe na cultura e história de Manaus e descubra oportunidades de investimento em turismo e infraestrutura.",
+  "gancho": "*Aniversário de Manaus*: conheça a cidade",
+  "ideias": [
+   "Explore a rica história de Manaus",
+   "Descubra pontos turísticos imperdíveis",
+   "Investindo em turismo: oportunidades em Manaus"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "G1",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.google.com/search?q=Anivers%C3%A1rio+de+Manaus%3A+descubra+lugares+hist%C3%B3ricos+e+passeios+para+fazer+na+cidade+G1",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T05:00:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-19"
+ },
+ {
+  "titulo": "L’Occitane e Moça lançam cosméticos sabor pudim",
+  "resumo": "Uma nova linha de cosméticos inspirada em pudim foi lançada pela L’Occitane em parceria com a Moça, reforçando a tendência de 'foodification' no setor de beleza.",
+  "fatos": [
+   "A coleção Pudimcare inclui hidratante, sabonete, creme para mãos e spray perfumado.",
+   "Os produtos possuem notas de caramelo, baunilha e leite condensado.",
+   "Os preços variam entre R$ 59,99 e R$ 119,99.",
+   "Produtos de beleza inspirados em alimentos representaram 3,5% das vendas do setor em 2023."
+  ],
+  "numeros": [
+   {
+    "valor": "3,5%",
+    "rotulo": "percentual das vendas de cosméticos inspirados em alimentos"
+   },
+   {
+    "valor": "R$ 59,99",
+    "rotulo": "preço mínimo da nova linha"
+   },
+   {
+    "valor": "R$ 119,99",
+    "rotulo": "preço máximo da nova linha"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "3,5%",
+  "porQueImporta": "Essa parceria destaca o crescente mercado de cosméticos com inspirações alimentares, refletindo tendências de consumo que podem impactar investidores no setor.",
+  "impactoMercado": "O lançamento pode acentuar a concorrência entre marcas de beleza, refletindo uma tendência que atrai consumidores e afeta as vendas no setor.",
+  "entenda": "O conceito de 'foodification' no setor de beleza refere-se à integração de elementos gastrônomicos, gerando produtos com apelo sensorial associado à comida.",
+  "observar": "Acompanhe as vendas da nova linha e possíveis reações de outras marcas às tendências de 'foodification'.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Descubra como inovações como a Pudimcare revelam as dinâmicas do mercado, oferecendo mais informações para quem deseja entender o setor.",
+  "gancho": "*Lançamento* de cosméticos inspirados em *pudim*!",
+  "ideias": [
+   "Cosméticos com sabor: nova tendência?",
+   "Pudim nos cosméticos: como isso afeta o mercado?",
+   "L’Occitane e Moça: união saborosa no setor de beleza"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.infomoney.com.br/consumo/loccitane-e-moca-lancam-linha-de-cosmeticos-inspirada-em-pudim/",
+  "publicadoEm": "2026-10-24T14:30:28-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-20"
+ },
+ {
+  "titulo": "Guindaste cai em monotrilho e afeta trens em SP",
+  "resumo": "Um guindaste caiu sobre um trem em São Paulo, provocando interrupções na circulação da Linha 15-Prata do monotrilho e acionando ônibus para atender passageiros.",
+  "fatos": [
+   "O acidente ocorreu entre as estações Oratório e São Lucas, no sábado, 24 de outubro.",
+   "A linha ficou desenergizada e a circulação de trens foi limitada entre São Lucas e Jardim Colonial.",
+   "Entre Vila Prudente e São Lucas, os passageiros estão sendo atendidos por ônibus do sistema PAESE.",
+   "O operador do guindaste ficou ferido, e a Companhia de Engenharia de Tráfego (CET) interditou parte da avenida Luiz Ignácio de Anhaia Mello."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Interrupções no transporte público podem afetar a mobilidade urbana e, consequentemente, a dinâmica econômica da região.",
+  "impactoMercado": "Mudanças na circulação de trens podem criar transtornos para trabalhadores e comerciantes locais, impactando no fluxo de clientes e nas operações comerciais.",
+  "entenda": "O monotrilho é um sistema de transporte elevado que utiliza trens leves, sendo uma alternativa ao transporte convencional em áreas urbanas.",
+  "observar": "Acompanhar a normalização das operações da linha e o desempenho do sistema de ônibus do PAESE para entender como a situação evolui.",
+  "publico": [
+   "Aposentados",
+   "CLT",
+   "Empresários"
+  ],
+  "angulo": "Um acidente como esse ilustra a importância de um transporte público bem gerido para a economia e o cotidiano dos cidadãos.",
+  "gancho": "*Acidente* altera *trens* em SP",
+  "ideias": [
+   "Impacto do acidente no transporte público",
+   "Como a operação do monotrilho é afetada",
+   "Estratégias de transporte alternativo em situações de emergência"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "relogio",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://exame.com/brasil/guindaste-cai-em-monotrilho-e-atinge-trem-em-sao-paulo/",
+  "publicadoEm": "2026-10-24T09:38:51-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-21"
+ },
+ {
+  "titulo": "Impacto das eleições nos IPOs e dívidas no Brasil",
+  "resumo": "Bruno Di Giacomo, da Nero Capital, analisa como as eleições podem influenciar investimentos no Brasil, destacando riscos de títulos com juros elevados.",
+  "fatos": [
+   "As eleições presidenciais podem impactar a disposição dos investidores para aplicar no Brasil.",
+   "O cenário político deve estar alinhado à previsibilidade econômica para estimular novas captações.",
+   "A última abertura de capital (IPO) na Bolsa foi em maio de 2026, com a Compass.",
+   "A taxa básica de juros elevada torna mais caro tomar empréstimos e emitir dívidas.",
+   "O endividamento crescente faz com que empresas busquem captar recursos por meio de ações, evitando mais dívidas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como o cenário político pode influenciar a captação de recursos é fundamental para investidores e empresas em busca de crescimento.",
+  "impactoMercado": "Mudanças nas eleições podem abrir espaço para movimentações na Bolsa e nas emissões de dívidas, afetando a dinâmica do mercado financeiro.",
+  "entenda": "Um IPO (Oferta Pública Inicial) é quando uma empresa oferece ações ao público pela primeira vez, permitindo que investidores se tornem sócios.",
+  "observar": "Acompanhe sinais de previsibilidade econômica e fiscal que possam facilitar novas emissões e IPOs.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esta análise ajuda a entender como eventos políticos impactam oportunidades de investimentos no mercado financeiro.",
+  "gancho": "*Eleições* e *Investimentos*: O que esperar?",
+  "ideias": [
+   "Como as eleições podem afetar sua renda fixa?",
+   "Implicações das eleições nos IPOs brasileiros.",
+   "Investir em um cenário político instável: o que considerar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/eleicoes-presidenciais-podem-destravar-ipos-e-novas-emissoes-de-divida-no-brasil-ceo-da-nero-capital-responde-cbcb/",
+  "publicadoEm": "2026-10-23T18:56:08-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-22"
+ },
+ {
+  "titulo": "Mega-Sena sorteia R$ 230 milhões neste sábado",
+  "resumo": "Ainda dá tempo de apostar na Mega-Sena, que pode entregar um prêmio de R$ 230 milhões neste sábado.",
+  "fatos": [
+   "A Mega-Sena realizará o sorteio neste sábado.",
+   "O prêmio é estimado em R$ 230 milhões.",
+   "Ainda há tempo para realizar apostas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "R$ 230 milhões",
+  "porQueImporta": "Os prêmios da Mega-Sena podem impactar a economia local com aumento no consumo e na movimentação de recursos.",
+  "impactoMercado": "A possibilidade de ganhar prêmios grandes pode levar a um aumento nas apostas, o que movimenta o mercado de loterias.",
+  "entenda": "A Mega-Sena é uma das loterias mais populares do Brasil, onde apostas podem gerar grandes prêmios aos ganhadores.",
+  "observar": "Acompanhe as vendas de apostas e o número de ganhadores após o sorteio.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Entender a Mega-Sena ajuda a conhecer mais sobre apostas e a movimentação do mercado de loterias.",
+  "gancho": "*Mega-Sena*: sorteio de *R$ 230 milhões*!",
+  "ideias": [
+   "Como funciona a Mega-Sena?",
+   "Prêmios da Mega-Sena impactam a economia!",
+   "Aposte com responsabilidade na Mega-Sena!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "BHAZ",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://www.google.com/search?q=Mega-Sena+sorteia+R%24+230+milh%C3%B5es+neste+s%C3%A1bado%3B+ainda+d%C3%A1+tempo+de+apostar+BHAZ",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T10:37:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-23"
+ },
+ {
+  "titulo": "Balanços do 3º trimestre das empresas do Ibovespa",
+  "resumo": "A divulgação dos resultados começa em 26 de outubro e se intensifica até 11 de novembro, com grandes bancos e empresas importantes do índice.",
+  "fatos": [
+   "A temporada de resultados do 3º trimestre de 2026 inicia em 26 de outubro.",
+   "Gerdau e Metalúrgica Gerdau divulgam seus balanços no dia 26.",
+   "Resultados importantes incluem Santander em 28 de outubro, Itaú em 3 de novembro.",
+   "Vale apresenta balanço no dia 29 de outubro e Petrobras no dia 10 de novembro.",
+   "Entram na lista seguradoras como BB Seguridade em 3 de novembro e Porto em 5 de novembro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Os balanços trimestrais são fundamentais para entender a saúde financeira das empresas e influenciam decisões de investimento.",
+  "impactoMercado": "Os resultados podem afetar o desempenho das ações das empresas e, consequentemente, o índice Ibovespa.",
+  "entenda": "Os balanços trimestrais mostram o desempenho financeiro das empresas em um período específico, auxiliando investidores a tomarem decisões.",
+  "observar": "Acompanhe os resultados divulgados e suas avaliações pelo mercado para entender as reações das ações.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender os balanços é vital para quem deseja operar no mercado e analisar empresas de forma crítica.",
+  "gancho": "*Balanços* do Ibovespa: veja datas importantes!",
+  "ideias": [
+   "Datas dos balanços: o que você precisa saber",
+   "Como os resultados trimestrais afetam seus investimentos?",
+   "Balanços das grandes empresas: fique por dentro!"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/empresas/calendario-de-divulgacao-dos-balancos-do-3o-trimestre-das-empresas-do-ibovespa-b3/",
+  "publicadoEm": "2026-10-23T18:45:17-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-24"
+ },
+ {
+  "titulo": "Remessas globais de PCs registram queda de 21% no terceiro trimestre",
+  "resumo": "O mercado global de PCs encolheu, com remessas caindo para 57 milhões de unidades. Fatores como preços altos de componentes e adiamentos de compras contribuíram para a retração.",
+  "fatos": [
+   "As remessas de PCs caíram 21% no terceiro trimestre de 2026, totalizando 57 milhões de unidades.",
+   "Essa queda é comparada ao trimestre anterior, que teve uma retração de 13,8%.",
+   "A Lenovo lidera o mercado com 15 milhões de unidades e uma participação de 26,3%.",
+   "A Counterpoint prevê uma nova queda de 27% nas remessas no quarto trimestre de 2026.",
+   "Os preços dos componentes de memória devem aumentar entre 10% a 20% no próximo trimestre."
+  ],
+  "numeros": [
+   {
+    "valor": "57 milhões",
+    "rotulo": "remessas globais de PCs no 3T de 2026"
+   },
+   {
+    "valor": "-21%",
+    "rotulo": "queda anual"
+   },
+   {
+    "valor": "15 milhões",
+    "rotulo": "unidades da Lenovo"
+   },
+   {
+    "valor": "26,3%",
+    "rotulo": "participação da Lenovo"
+   },
+   {
+    "valor": "-27%",
+    "rotulo": "queda prevista no 4T de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "queda trimestral",
+    "antes": "13,8%",
+    "depois": "21%"
+   }
+  ],
+  "destaque": "-21%",
+  "porQueImporta": "Esses dados são importantes para investidores que acompanham a indústria de tecnologia e buscam entender as tendências de mercado que podem afetar o desempenho das empresas.",
+  "impactoMercado": "A contínua queda nas remessas pode afetar as ações de empresas envolvidas, como a Lenovo, Apple e outras que dependem do mercado de PCs, além de indicar uma tendência negativa no setor.",
+  "entenda": "Remessas de PCs referem-se ao número de unidades enviadas ao mercado, uma métrica que indica a saúde do setor, mas não necessariamente reflete as vendas ao consumidor final.",
+  "observar": "Fique atento aos próximos relatórios trimestrais e às projeções de preços de componentes, pois isso pode afetar a oferta e a demanda no mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa notícia traz uma oportunidade para investidores entenderem os fundamentos do mercado de tecnologia e como as mudanças influenciam as empresas do setor.",
+  "gancho": "*Queda* nas remessas de PCs em 2026",
+  "ideias": [
+   "2026: A queda nas remessas de PCs",
+   "Impacto das remessas de PCs no mercado",
+   "Por que a queda nas remessas importa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:21:47-03:00",
+  "url": "https://exame.com/tecnologia/remessas-globais-de-pcs-caem-21-no-terceiro-trimestre/",
+  "publicadoEm": "2026-10-24T10:11:04-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-25"
+ },
+ {
   "titulo": "Expectativa de lucros com trade eleitoral no 2º turno",
   "resumo": "O mercado de opções no Brasil tem mostrado grandes movimentações à medida que se aproxima o 2º turno das eleições; entenda o impacto disso nas negociações.",
   "fatos": [
@@ -5180,53 +6161,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-october-2026",
-  "titulo": "Mercado de previsões vê 53,5% de chance de Ethereum *abaixo de 2.300* em outubro",
-  "resumo": "Expectativa predominante sugere que o preço do Ethereum pode recuar, refletindo incerteza no mercado de criptoativos.",
+  "titulo": "Mercado de previsões vê 65% de chance do Ethereum subir *para 2,400* dólares em outubro.",
+  "resumo": "Essa é uma probabilidade calculada por apostas, e não uma previsão concreta.",
   "probs": [
    {
-    "opcao": "↓ 2,300",
-    "prob": 53.5
-   },
-   {
-    "opcao": "↑ 2,600",
-    "prob": 28.5
+    "opcao": "↑ 2,400",
+    "prob": 65.0
    },
    {
     "opcao": "↓ 2,200",
-    "prob": 25.5
+    "prob": 44.5
+   },
+   {
+    "opcao": "↑ 2,500",
+    "prob": 30.5
    },
    {
     "opcao": "↓ 2,100",
-    "prob": 13.5
+    "prob": 20.5
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 130 mil",
+  "volume24h": "US$ 122 mil",
   "fatos": [
-   "↓ 2,300: 53,5%",
-   "↑ 2,600: 28,5%",
-   "↓ 2,200: 25,5%",
-   "↓ 2,100: 13,5%"
+   "↑ 2,400: 65,0%",
+   "↓ 2,200: 44,5%",
+   "↑ 2,500: 30,5%",
+   "↓ 2,100: 20,5%"
   ],
   "numeros": [
    {
-    "valor": "53,5%",
-    "rotulo": "↓ 2,300"
+    "valor": "65,0%",
+    "rotulo": "↑ 2,400"
    },
    {
-    "valor": "28,5%",
-    "rotulo": "↑ 2,600"
-   },
-   {
-    "valor": "25,5%",
+    "valor": "44,5%",
     "rotulo": "↓ 2,200"
    },
    {
-    "valor": "13,5%",
+    "valor": "30,5%",
+    "rotulo": "↑ 2,500"
+   },
+   {
+    "valor": "20,5%",
     "rotulo": "↓ 2,100"
    }
   ],
-  "destaque": "53,5%",
+  "destaque": "65,0%",
   "gancho": "*Incerteza entre cripto* investidores",
   "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
   "categoria": "Previsões",
@@ -5239,8 +6220,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-10-22T11:41:47-03:00",
   "data": "2026-10-22",
-  "status": "nova",
-  "id": "2026-10-22-p1"
+  "status": "atualizada",
+  "id": "2026-10-22-p1",
+  "atualizadoEm": "2026-10-24T15:21:47-03:00"
  },
  {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
@@ -11871,12 +12853,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "76,0%",
+  "destaque": "59,5%",
   "fatos": [
-   "↑ 82,500: 76,0%",
-   "↓ 80,000: 71,0%",
-   "↑ 85,000: 37,5%",
-   "↓ 77,500: 33,5%"
+   "↑ 82,500: 59,5%",
+   "↓ 77,500: 45,5%",
+   "↑ 85,000: 25,5%",
+   "↓ 75,000: 19,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -11888,49 +12870,49 @@
   "probs": [
    {
     "opcao": "↑ 82,500",
-    "prob": 76.0
-   },
-   {
-    "opcao": "↓ 80,000",
-    "prob": 71.0
-   },
-   {
-    "opcao": "↑ 85,000",
-    "prob": 37.5
+    "prob": 59.5
    },
    {
     "opcao": "↓ 77,500",
-    "prob": 33.5
+    "prob": 45.5
+   },
+   {
+    "opcao": "↑ 85,000",
+    "prob": 25.5
+   },
+   {
+    "opcao": "↓ 75,000",
+    "prob": 19.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Apostadores acreditam que existe uma probabilidade de 76% para que o Bitcoin atinja 82,500 até o final do mês. Essa é uma análise de mercado e não uma previsão oficial.",
+  "resumo": "Essas probabilidades são baseadas nas apostas do mercado e não devem ser interpretadas como previsões seguras.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 76% de chance de *Bitcoin a 82,500* em outubro",
+  "titulo": "Mercado de previsões vê 59.5% de chance de Bitcoin subir *para 82,500* dólares em outubro.",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 215 mil",
+  "volume24h": "US$ 642 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "76,0%",
+    "valor": "59,5%",
     "rotulo": "↑ 82,500"
    },
    {
-    "valor": "71,0%",
-    "rotulo": "↓ 80,000"
+    "valor": "45,5%",
+    "rotulo": "↓ 77,500"
    },
    {
-    "valor": "37,5%",
+    "valor": "25,5%",
     "rotulo": "↑ 85,000"
    },
    {
-    "valor": "33,5%",
-    "rotulo": "↓ 77,500"
+    "valor": "19,5%",
+    "rotulo": "↓ 75,000"
    }
   ],
-  "atualizadoEm": "2026-10-23T11:28:02-03:00"
+  "atualizadoEm": "2026-10-24T15:21:47-03:00"
  },
  {
   "categoria": "Comportamento do investidor",

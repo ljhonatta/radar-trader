@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-24T10:36:56-03:00",
-  "novas": 7,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-10-24T15:21:47-03:00",
+  "novas": 19,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "7 nova(s): Eleições e Lucros no Mercado de Opções; Novas regras de crédito e proteção; Magazine Luiza brilha mesmo em queda.",
+  "mensagem": "19 nova(s) e 2 atualizada(s): Bolsa em queda e alta do petróleo!; Financiamento crucial para Azul; Eleições afetam mercado.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-24T15:21:47-03:00",
    "2026-10-24T10:36:56-03:00",
    "2026-10-23T21:00:20-03:00",
    "2026-10-23T16:32:53-03:00",
@@ -20,8 +21,7 @@
    "2026-10-21T21:12:40-03:00",
    "2026-10-21T16:37:34-03:00",
    "2026-10-21T11:41:23-03:00",
-   "2026-10-20T21:18:27-03:00",
-   "2026-10-20T21:16:52-03:00"
+   "2026-10-20T21:18:27-03:00"
   ],
   "modelo": "gpt-4o-mini"
  },
@@ -48,14 +48,14 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,6 mil",
-    "var": "-1,21%"
+    "v": "US$ 80,3 mil",
+    "var": "-1,53%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.624",
-    "var": "-0,52%"
+    "var": "-0,47%"
    },
    {
     "k": "NDX",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 10h",
+  "hora": "sáb 15h",
   "data": "2026-10-24",
-  "atualizadoEm": "2026-10-24T10:36:56-03:00",
+  "atualizadoEm": "2026-10-24T15:21:47-03:00",
   "ibov": "205.083",
   "ibovVar": "+0,47%",
   "dolar": "R$ 4,97",
   "dolarVar": "",
-  "btc": "US$ 80,6 mil"
+  "btc": "US$ 80,3 mil"
  }
 }
