@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-25T10:55:57-03:00",
-  "novas": 11,
+  "ultimaColeta": "2026-10-25T15:33:21-03:00",
+  "novas": 21,
   "atualizadas": 1,
   "status": "ok",
-  "mensagem": "11 nova(s) e 1 atualizada(s): Eleições e mercado: o que esperar?; Ibovespa e dólar em alta e baixa!; Investimento estrangeiro na Bolsa brasileira.",
+  "mensagem": "21 nova(s) e 1 atualizada(s): Eleições e mercado: o que esperar?; Eleições e Bolsa: impacto a vista!; Decisão de Juros e Emprego Impactam Mercados.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-25T15:33:21-03:00",
    "2026-10-25T10:55:57-03:00",
    "2026-10-24T20:42:13-03:00",
    "2026-10-24T15:21:47-03:00",
@@ -20,8 +21,7 @@
    "2026-10-22T21:10:06-03:00",
    "2026-10-22T16:30:55-03:00",
    "2026-10-22T11:41:47-03:00",
-   "2026-10-21T21:12:40-03:00",
-   "2026-10-21T16:37:34-03:00"
+   "2026-10-21T21:12:40-03:00"
   ],
   "modelo": "gpt-4o-mini"
  },
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,3 mil",
-    "var": "-0,41%"
+    "v": "US$ 80,6 mil",
+    "var": "+0,38%"
    },
    {
     "k": "SPX",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 10h",
+  "hora": "dom 15h",
   "data": "2026-10-25",
-  "atualizadoEm": "2026-10-25T10:55:57-03:00",
+  "atualizadoEm": "2026-10-25T15:33:21-03:00",
   "ibov": "205.083",
   "ibovVar": "+0,47%",
   "dolar": "R$ 4,97",
   "dolarVar": "",
-  "btc": "US$ 80,3 mil"
+  "btc": "US$ 80,6 mil"
  }
 }
