@@ -1,5 +1,595 @@
 [
  {
+  "titulo": "Eleição e seu impacto no mercado financeiro",
+  "resumo": "Goldman Sachs analisa os fatores que podem afetar o mercado após as eleições, focando na margem de vitória e aceitação do resultado.",
+  "fatos": [
+   "O Goldman Sachs aponta que a margem de vitória nas eleições pode influenciar a estabilidade do mercado.",
+   "A aceitação do resultado eleitoral também é um ponto crítico para a confiança dos investidores.",
+   "Mudanças na política econômica podem ocorrer com um resultado eleitoral que não seja amplamente aceito."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender a relação entre eleições e mercado ajuda investidores a se prepararem para possíveis mudanças na economia.",
+  "impactoMercado": "Os mercados podem reagir a incertezas políticas, e uma aceitação conturbada pode gerar volatilidade.",
+  "entenda": "Margem de vitória se refere à diferença de votos entre os candidatos, enquanto a aceitação do resultado é a disposição dos candidatos e dos eleitores em reconhecer a vitória.",
+  "observar": "Fique atento à aceitação dos resultados eleitorais e possíveis reações do mercado nos dias seguintes.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Compreender como a política influencia o mercado é essencial para quem busca ter sucesso financeiro.",
+  "gancho": "*Eleições* e *mercado*: o que esperar?",
+  "ideias": [
+   "Como a eleição pode afetar seus investimentos?",
+   "Margem de vitória: impacto no mercado!",
+   "O que a aceitação eleitoral significa para os investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.google.com/search?q=Margem+de+vit%C3%B3ria+e+aceita%C3%A7%C3%A3o+do+resultado%3A+o+que+pode+influenciar+o+mercado+ap%C3%B3s+a+elei%C3%A7%C3%A3o%2C+segundo+Goldman+Sachs+Money+Times",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T09:07:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-01"
+ },
+ {
+  "titulo": "Ibovespa sobe 6,9% e dólar cai 4,4% na eleição",
+  "resumo": "O Ibovespa registrou uma alta de 6,9% e o dólar teve uma queda de 4,4% entre os dois turnos da eleição.",
+  "fatos": [
+   "O Ibovespa teve um desempenho positivo, subindo 6,9%.",
+   "O dólar apresentou uma desvalorização de 4,4%.",
+   "Essas mudanças ocorreram entre os dois turnos da eleição."
+  ],
+  "numeros": [
+   {
+    "valor": "6,9%",
+    "rotulo": "alta do Ibovespa"
+   },
+   {
+    "valor": "4,4%",
+    "rotulo": "queda do dólar"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "As oscilações na bolsa e no câmbio indicam como o mercado pode reagir a eventos políticos importantes, influenciando decisões de investimento.",
+  "impactoMercado": "Essas mudanças podem afetar a confiança dos investidores e a volatilidade do mercado, refletindo o clima político.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores de São Paulo, refletindo o desempenho das ações mais negociadas.",
+  "observar": "Fique atento às próximas novidades políticas e como elas podem influenciar a economia e os mercados.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender a dinâmica do mercado em períodos eleitorais é fundamental para quem deseja operar com consciência e estratégia.",
+  "gancho": "*Ibovespa* e *dólar* em alta e baixa!",
+  "ideias": [
+   "Impactos da eleição no Ibovespa",
+   "Dólar em movimento: o que esperar?",
+   "Como eventos políticos afetam o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "TV Sim Brasil",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+sobe+6%2C9%25+e+d%C3%B3lar+cai+4%2C4%25+entre+os+dois+turnos+da+elei%C3%A7%C3%A3o+TV+Sim+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T02:43:34-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-02"
+ },
+ {
+  "titulo": "Estrangeiro investe R$ 21 bilhões na Bolsa brasileira",
+  "resumo": "Investidores estrangeiros injetaram R$ 21 bilhões na Bolsa do Brasil antes do segundo turno das eleições. Essa movimentação pode impactar o mercado financeiro local.",
+  "fatos": [
+   "Investidores estrangeiros aportaram R$ 21 bilhões na Bolsa brasileira.",
+   "A injeção de capital ocorreu na véspera do segundo turno das eleições.",
+   "Esse movimento pode influenciar a dinâmica do mercado financeiro nacional."
+  ],
+  "numeros": [
+   {
+    "valor": "21.000.000.000",
+    "rotulo": "montante investido por estrangeiros"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 21 bilhões",
+  "porQueImporta": "O investimento estrangeiro na Bolsa pode sinalizar confiança no mercado local, o que é importante para a estabilidade e crescimento econômico.",
+  "impactoMercado": "A entrada de capital pode trazer maior liquidez e volatilidade ao mercado, além de influenciar as decisões de investimento dos participantes.",
+  "entenda": "O investimento estrangeiro é crucial para a Bolsa, pois traz capital e pode fortalecer a economia local.",
+  "observar": "Fique atento às movimentações do mercado após as eleições e como elas são impactadas pelo fluxo de capital.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Esse movimento destaca a importância dos fatores externos no mercado brasileiro e a relevância de entender essas dinâmicas.",
+  "gancho": "*Investimento estrangeiro* na *Bolsa brasileira*",
+  "ideias": [
+   "O que significa a entrada de R$ 21 bilhões?",
+   "Impactos do investimento estrangeiro na Bolsa",
+   "Por que investidores estrangeiros escolhem o Brasil?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "moeda",
+  "fonte": "TV Sim Brasil",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.google.com/search?q=Estrangeiro+p%C3%B5e+R%24+21+bi+na+Bolsa+brasileira+na+v%C3%A9spera+do+2%C2%BA+turno+TV+Sim+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T21:00:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-25-03"
+ },
+ {
+  "titulo": "Dividendos: Bradsaúde (SAUD3) e mais 3 empresas têm data",
+  "resumo": "A semana promete ser agitada com o pagamento de dividendos pela Bradsaúde (SAUD3) e outras três empresas. Acompanhe as datas e saiba como isso impacta seus investimentos.",
+  "fatos": [
+   "A Bradsaúde (SAUD3) é uma das empresas que vai pagar dividendos esta semana.",
+   "Além da Bradsaúde, mais três companhias também divulgarão pagamentos de dividendos.",
+   "Esses pagamentos são importantes para os investidores que buscam renda passiva."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Os dividendos são uma forma de retorno financeiro para os investidores, contribuindo para a rentabilidade do portfólio.",
+  "impactoMercado": "O pagamento de dividendos pode influenciar o preço das ações, além de atrair investidores em busca de rendimento.",
+  "entenda": "Dividendos são parcelas do lucro de uma empresa distribuídas aos acionistas, representando uma fonte de renda.",
+  "observar": "Fique atento às datas de pagamento e o impacto no preço das ações das empresas envolvidas.",
+  "publico": [
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Saber sobre dividendos é crucial para quem busca entender como obter renda com ações e conhecer mais sobre os mercados.",
+  "gancho": "*Dividendos* das empresas esta semana!",
+  "ideias": [
+   "Companhias que pagam dividendos",
+   "O que são dividendos?",
+   "Importância dos dividendos para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Dividendos",
+  "icone": "moeda",
+  "fonte": "Investidor10",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.google.com/search?q=Dividendos%3A+Bradsa%C3%BAde+%28SAUD3%29+e+mais+3+empresas+t%C3%AAm+data+com+na+semana+Investidor10",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T08:01:23-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-04"
+ },
+ {
+  "titulo": "Lula e Flávio Bolsonaro impactam ações na Bolsa",
+  "resumo": "O Daycoval analisa como a disputa política entre Lula e Flávio Bolsonaro pode afetar a Bolsa de Valores. Acompanhe as ações que podem ser impactadas.",
+  "fatos": [
+   "A disputa política entre Lula e Flávio Bolsonaro gera incertezas no mercado.",
+   "O Daycoval indicou quais ações podem se beneficiar ou sofrer com essa situação.",
+   "Movimentos políticos sempre influenciam o humor dos investidores."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como a política impacta as ações é fundamental para investidores que buscam oportunidades e proteção em suas carteiras.",
+  "impactoMercado": "As oscilações políticas podem criar volatilidade nas ações, afetando decisões de compra e venda dos investidores.",
+  "entenda": "Disputas políticas frequentemente geram incerteza no mercado, influenciando o comportamento das ações.",
+  "observar": "Fique atento à evolução dos debates políticos e como eles moldam as expectativas do mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender o efeito da política nas finanças ajuda a tomar decisões mais informadas na hora de operar.",
+  "gancho": "*Política* e *Ações* em foco!",
+  "ideias": [
+   "Como a política afeta suas ações?",
+   "Acompanhe o impacto da disputa entre Lula e Flávio!",
+   "Ações em evidência: o que esperar da Bolsa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.google.com/search?q=Lula+x+Fl%C3%A1vio+Bolsonaro%3A+Daycoval+aponta+quais+a%C3%A7%C3%B5es+podem+sair+vencedoras+na+Bolsa+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T01:29:38-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-05"
+ },
+ {
+  "titulo": "Pesquisa mostra Flávio Bolsonaro e Lula próximos no 2º turno",
+  "resumo": "A pesquisa AtlasIntel/Bloomberg revela que Flávio Bolsonaro tem 50,8% e Lula 49,2% dos votos válidos, com margem de erro que sobrepõe os resultados.",
+  "fatos": [
+   "Flávio Bolsonaro registra 50,8% dos votos válidos e Lula 49,2%.",
+   "A diferença entre os candidatos é de 1,6 ponto percentual.",
+   "No total de votos, Bolsonaro tem 49,9% e Lula 48,4%.",
+   "A pesquisa aponta uma leve redução na diferença ao longo de outubro.",
+   "A aprovação do governo Lula subiu para 48%, e a reprovação caiu para 51%."
+  ],
+  "numeros": [],
+  "comparativo": [
+   {
+    "item": "Aprovação do governo Lula",
+    "antes": "45%",
+    "depois": "48%"
+   },
+   {
+    "item": "Reprovação do governo Lula",
+    "antes": "53%",
+    "depois": "51%"
+   }
+  ],
+  "destaque": "50,8%",
+  "porQueImporta": "As intenções de voto e a aprovação do governo refletem a percepção do eleitorado sobre a atual gestão e influenciam as decisões de quem investe no mercado.",
+  "impactoMercado": "Mudanças nas intenções de voto podem afetar a confiança dos investidores, uma vez que o resultado das eleições influencia a política econômica e as reformas.",
+  "entenda": "O que são votos válidos? São aqueles considerados aptos para a contabilização, excluindo brancos e nulos, fundamentais para determinar o vencedor de uma eleição.",
+  "observar": "Fique atento às próximas pesquisas e debates, que podem alterar a dinâmica eleitoral e as expectativas do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender as variações nas intenções de voto pode ajudar investidores a analisar o ambiente político e como ele afeta o mercado financeiro.",
+  "gancho": "*Pesquisa* revela tendência *eleitoral* acirrada",
+  "ideias": [
+   "Flávio Bolsonaro e Lula: Quem vence?",
+   "Entenda os votos válidos na eleição",
+   "Impactos das eleições no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://bpmoney.com.br/politica/flavio-499-lula-484-ultima-atlasintel-antes-urnas/",
+  "publicadoEm": "2026-10-25T08:00:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-06"
+ },
+ {
+  "titulo": "Eleições: Lula pode impactar Bolsa em queda significativa",
+  "resumo": "A vitória de Lula nas eleições é percebida como um fator que pode levar a uma queda acentuada na Bolsa. A expectativa é de que essa diminuição supere 5%.",
+  "fatos": [
+   "A vitória de Lula é vista como negativa para o mercado.",
+   "Analistas projetam que a Bolsa pode cair mais de 5%.",
+   "O resultado eleitoral pode trazer incertezas econômicas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como cenários políticos influenciam o mercado ajuda investidores a tomarem decisões mais informadas.",
+  "impactoMercado": "Mudanças na presidência podem gerar volatilidade na Bolsa, impactando ações de diferentes setores.",
+  "entenda": "A Bolsa de Valores reflete a confiança investidores têm na economia e nas políticas do governo.",
+  "observar": "Fique atento às reações do mercado após a divulgação do resultado das eleições.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia exemplifica a relação entre política e mercado, estimulando a curiosidade sobre a dinâmica financeira.",
+  "gancho": "*Impacto eleitoral* na *Bolsa*?",
+  "ideias": [
+   "Como eleições afetam a Bolsa?",
+   "Análise do impacto de Lula na economia",
+   "Expectativas do mercado pós-eleição"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Times Brasil | CNBC",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.google.com/search?q=Vit%C3%B3ria+de+Lula+na+elei%C3%A7%C3%A3o+pode+derrubar+Bolsa+em+mais+de+5%25+Times+Brasil+%7C+CNBC",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T21:53:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-25-07"
+ },
+ {
+  "titulo": "Resultado das eleições no exterior: horários e dados importantes",
+  "resumo": "A votação no exterior acaba às 21h deste domingo, 25, e os resultados podem ser consultados por boletins de urna. A apuração oficial começa às 17h, horário de Brasília.",
+  "fatos": [
+   "O eleitorado brasileiro no exterior cresceu cerca de 31% em relação a 2022.",
+   "A votação acontece das 8h às 17h conforme o horário local de cada país.",
+   "Nos EUA, as seções da Costa Leste encerram às 18h e da Costa Oeste às 21h.",
+   "Os resultados locais podem ser consultados após o encerramento das seções eleitorais.",
+   "Na Alemanha, Espanha e França, a votação termina às 13h, pelo horário de Brasília."
+  ],
+  "numeros": [
+   {
+    "valor": "31%",
+    "rotulo": "crescimento do eleitorado no exterior"
+   },
+   {
+    "valor": "697.000",
+    "rotulo": "eleitores em 2022"
+   },
+   {
+    "valor": "265.411",
+    "rotulo": "eleitores nos EUA"
+   },
+   {
+    "valor": "134.801",
+    "rotulo": "eleitores em Portugal"
+   },
+   {
+    "valor": "88.370",
+    "rotulo": "eleitores no Japão"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "265.411",
+  "porQueImporta": "O crescimento do eleitorado no exterior pode influenciar os resultados das eleições e, consequentemente, decisões políticas que impactam o mercado financeiro.",
+  "impactoMercado": "A apuração das eleições pode afetar a confiança do investidor e a economia, gerando volatilidade no mercado dependendo do resultado.",
+  "entenda": "O voto no exterior permite que brasileiros que vivem fora do país participem diretamente do processo eleitoral, influenciando a política nacional.",
+  "observar": "Acompanhe os resultados parciais à medida que os boletins de urna são divulgados, podendo indicar tendências antes da apuração oficial.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto das eleições no mercado financeiro ajuda a formar investidores mais conscientes e informados sobre como política e economia estão interligadas.",
+  "gancho": "*Eleições* no exterior: como acompanhar?",
+  "ideias": [
+   "Como o voto no exterior pode influenciar o mercado?",
+   "Entenda o crescimento do eleitorado brasileiro fora do país",
+   "A importância da apuração eleitoral para o investidor"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://exame.com/brasil/votacao-para-presidente-no-exterior-que-horas-sai-o-resultado-dos-eua-e-europa/",
+  "publicadoEm": "2026-10-25T05:38:02-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-08"
+ },
+ {
+  "titulo": "4Intelligence: Flávio Bolsonaro lidera eleições com 82% de chance",
+  "resumo": "Pesquisas apontam que Flávio Bolsonaro tem 82% de chance de vencer a eleição presidencial, com 51,4% dos votos totais, enquanto Lula possui 48,6%.",
+  "fatos": [
+   "Flávio Bolsonaro conta com 82% de chance de se eleger presidente segundo a 4Intelligence.",
+   "Nas intenções de voto, Bolsonaro tem 51,4% e Lula 48,6%.",
+   "Bolsonaro venceu o primeiro turno por 2,2 milhões de votos.",
+   "Para Lula vencer, a taxa de não voto precisaria cair para 25,6%.",
+   "Historicamente, o porcentual de não voto tende a aumentar do primeiro para o segundo turno."
+  ],
+  "numeros": [
+   {
+    "valor": "82",
+    "rotulo": "chance de vitória de Flávio Bolsonaro"
+   },
+   {
+    "valor": "51,4%",
+    "rotulo": "votos para Flávio Bolsonaro"
+   },
+   {
+    "valor": "48,6%",
+    "rotulo": "votos para Lula"
+   },
+   {
+    "valor": "2,4 milhões",
+    "rotulo": "votos a mais de Bolsonaro"
+   },
+   {
+    "valor": "25,6%",
+    "rotulo": "nova taxa de não voto necessária"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "82%",
+  "porQueImporta": "A possibilidade de vitória de um candidato pode impactar o mercado financeiro, influenciando decisões de investimento.",
+  "impactoMercado": "Mudanças na liderança política podem afetar economia, taxas de juros e cenário fiscal, impactando investidores.",
+  "entenda": "As eleições têm grande importância no cenário econômico, pois mudanças de governo podem acarretar alterações nas políticas econômicas.",
+  "observar": "Acompanhe a evolução das pesquisas e o comportamento do eleitorado até o dia da eleição.",
+  "publico": [
+   "CLT"
+  ],
+  "angulo": "Compreender os processos eleitorais ajuda a entender como mudanças políticas influenciam o mercado financeiro.",
+  "gancho": "*Eleições* e *Mercado*: O que esperar?",
+  "ideias": [
+   "Como as eleições afetam o mercado?",
+   "Entenda a importância da taxa de não voto!",
+   "Eleições e suas consequências financeiras."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.infomoney.com.br/politica/4intelligence-flavio-tem-82-de-chance-de-se-eleger-presidente/",
+  "publicadoEm": "2026-10-25T10:28:02-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-09"
+ },
+ {
+  "titulo": "Flávio Bolsonaro vence Lula na votação da Malásia",
+  "resumo": "Flávio Bolsonaro reverteu resultado do 1º turno e foi o mais votado na Malásia, onde apenas 170 eleitores participam da eleição. Lula teve queda no número de votos.",
+  "fatos": [
+   "Na Malásia, Flávio Bolsonaro recebeu 44 votos, enquanto Lula conseguiu 41.",
+   "O total de eleitores aptos a votar no país é de 170.",
+   "No 1º turno, Lula teve 44 votos e Flávio apenas 27.",
+   "A abstenção nesta votação foi de 81 eleitores, com quatro votos nulos."
+  ],
+  "numeros": [
+   {
+    "valor": "51,8%",
+    "rotulo": "Porcentagem de votos válidos de Flávio"
+   },
+   {
+    "valor": "48,2%",
+    "rotulo": "Porcentagem de votos válidos de Lula"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Votos Flávio",
+    "antes": "27",
+    "depois": "44"
+   },
+   {
+    "item": "Votos Lula",
+    "antes": "44",
+    "depois": "41"
+   }
+  ],
+  "destaque": "",
+  "porQueImporta": "Resultados de eleições podem influenciar o sentimento do mercado em relação ao futuro político e econômico do país, afetando a confiança dos investidores.",
+  "impactoMercado": "Mudanças na liderança política podem impactar políticas econômicas, o que pode refletir no comportamento do mercado financeiro.",
+  "entenda": "A votação no exterior pode refletir a dispersão de apoio entre os eleitores brasileiros no exterior e a influência dos resultados nas eleições internas.",
+  "observar": "Acompanhar os próximos resultados em outros países pode oferecer insights sobre a tendência do quadro eleitoral brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como as eleições influenciam o mercado é crucial para investidores que buscam se preparar para possíveis mudanças econômicas.",
+  "gancho": "Resultados eleitorais e seu impacto",
+  "ideias": [
+   "Eleições no exterior e mercado financeiro",
+   "Votos válidos: Flávio e Lula na Malásia",
+   "Como o voto no exterior pode mudar a política"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "url": "https://www.infomoney.com.br/politica/voto-no-exterior-flavio-inverte-resultado-e-fica-na-frente-de-lula-na-malasia/",
+  "publicadoEm": "2026-10-25T10:37:14-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-10"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-on-october-25-2026",
+  "titulo": "Mercado de previsões vê 67.0% de chance de Bitcoin abaixo de $80,000 em 25 de outubro",
+  "resumo": "Apostadores acreditam que o preço do Bitcoin tende a recuar nas datas próximas.",
+  "probs": [
+   {
+    "opcao": "↓ 80,000",
+    "prob": 67.0
+   },
+   {
+    "opcao": "↑ 81,000",
+    "prob": 56.5
+   },
+   {
+    "opcao": "↓ 79,000",
+    "prob": 19.0
+   },
+   {
+    "opcao": "↑ 82,000",
+    "prob": 13.5
+   }
+  ],
+  "prazo": "2026-10-26",
+  "volume24h": "US$ 96 mil",
+  "fatos": [
+   "↓ 80,000: 67,0%",
+   "↑ 81,000: 56,5%",
+   "↓ 79,000: 19,0%",
+   "↑ 82,000: 13,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "67,0%",
+    "rotulo": "↓ 80,000"
+   },
+   {
+    "valor": "56,5%",
+    "rotulo": "↑ 81,000"
+   },
+   {
+    "valor": "19,0%",
+    "rotulo": "↓ 79,000"
+   },
+   {
+    "valor": "13,5%",
+    "rotulo": "↑ 82,000"
+   }
+  ],
+  "destaque": "67,0%",
+  "gancho": "*Queda* esperada no preço do Bitcoin",
+  "entenda": "As flutuações de preço do Bitcoin são influenciadas por fatores como oferta, demanda e sentimento do mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-october-25-2026",
+  "publicadoEm": "2026-10-25T10:55:57-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-25T10:55:57-03:00",
+  "data": "2026-10-25",
+  "status": "nova",
+  "id": "2026-10-25-p1"
+ },
+ {
   "titulo": "Pesquisa mostra disputa acirrada entre Flávio e Lula",
   "resumo": "Flávio Bolsonaro tem 49,9% dos votos totais e Lula, 48,4%. A diferença é de apenas 1,6 ponto percentual, com Lula mostrando leve recuperação na reta final.",
   "fatos": [
@@ -9185,63 +9775,6 @@
   "id": "2026-10-21-41"
  },
  {
-  "tipo": "sinal",
-  "slug": "bank-of-russia-decision-in-october-20260724021538830",
-  "titulo": "Mercado de previsões vê 87.0% de chance de nenhuma alteração na taxa do Banco da Rússia em outubro",
-  "resumo": "A maioria dos apostadores acredita que não haverá mudança na política monetária da Rússia na próxima reunião.",
-  "probs": [
-   {
-    "opcao": "Sem alteração",
-    "prob": 87.0
-   },
-   {
-    "opcao": "Redução",
-    "prob": 11.5
-   },
-   {
-    "opcao": "Aumento",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2026-10-24",
-  "volume24h": "US$ 102 mil",
-  "fatos": [
-   "Sem alteração: 87,0%",
-   "Redução: 11,5%",
-   "Aumento: 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "87,0%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "11,5%",
-    "rotulo": "Redução"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Aumento"
-   }
-  ],
-  "destaque": "87,0%",
-  "gancho": "*Expectativa* do Banco da Rússia",
-  "entenda": "A política monetária da Rússia influencia a economia local e internacional, afetando câmbio e inflação, e é monitorada por investidores em todo o mundo.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bank-of-russia-decision-in-october-20260724021538830",
-  "publicadoEm": "2026-10-21T16:37:34-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-21T16:37:34-03:00",
-  "data": "2026-10-21",
-  "status": "atualizada",
-  "id": "2026-10-21-p2",
-  "atualizadoEm": "2026-10-21T21:12:40-03:00"
- },
- {
   "titulo": "Recuperação judicial do Grupo Casas Bahia é aprovada",
   "resumo": "A Justiça de SP aprovou a recuperação judicial do Grupo Casas Bahia, que possui dívidas de R$ 17,3 bilhões, sendo R$ 16,4 bilhões sem garantias reais.",
   "fatos": [
@@ -14174,30 +14707,6 @@
   "id": "2026-10-19-05"
  },
  {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-17",
-  "destaque": "R$ 19,1 bi",
-  "fatos": [
-   "Até 14 de outubro, o saldo estrangeiro na B3 foi de R$ 19,1 bilhões.",
-   "O pregão seguinte ao primeiro turno teve entrada de R$ 10,1 bilhões, a maior da história da bolsa.",
-   "No ano, o fluxo estrangeiro soma R$ 45,2 bilhões.",
-   "Institucionais retiraram R$ 7,9 bilhões e pessoas físicas, R$ 6,5 bilhões no mês.",
-   "Estrangeiros responderam por 63,2% dos negócios da B3 em outubro, nova máxima."
-  ],
-  "fonte": "Seu Dinheiro (dados XP)",
-  "gancho": "*Gringo* compra, *brasileiro* vende",
-  "icone": "moeda",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-17T12:11:00-03:00",
-  "resumo": "Investidores de fora compraram ações brasileiras em ritmo recorde após o primeiro turno, enquanto pessoas físicas e institucionais locais venderam, segundo levantamento da XP.",
-  "status": "nova",
-  "titulo": "Estrangeiros aplicam R$ 19,1 bilhões na B3 em outubro, maior fluxo do ano",
-  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/estrangeiros-despejam-r-19-bilhoes-na-bolsa-em-outubro-mlim/",
-  "id": "2026-10-17-01"
- },
- {
   "categoria": "Juros",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
@@ -14226,12 +14735,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "68,5%",
+  "destaque": "59,0%",
   "fatos": [
-   "↑ 82.500: 68,5%",
-   "↓ 77.500: 36,5%",
-   "↑ 85.000: 32,5%",
-   "↓ 75.000: 14,5%"
+   "↑ 82,500: 59,0%",
+   "↓ 77,500: 43,5%",
+   "↑ 85,000: 24,5%",
+   "↓ 75,000: 17,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -14242,50 +14751,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↑ 82.500",
-    "prob": 68.5
+    "opcao": "↑ 82,500",
+    "prob": 59.0
    },
    {
-    "opcao": "↓ 77.500",
-    "prob": 36.5
+    "opcao": "↓ 77,500",
+    "prob": 43.5
    },
    {
-    "opcao": "↑ 85.000",
-    "prob": 32.5
+    "opcao": "↑ 85,000",
+    "prob": 24.5
    },
    {
-    "opcao": "↓ 75.000",
-    "prob": 14.5
+    "opcao": "↓ 75,000",
+    "prob": 17.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os investidores estimam que o preço do Bitcoin pode se aproximar desse patamar ao final de outubro.",
+  "resumo": "Apostadores estão otimistas sobre o preço do Bitcoin, prevendo uma potencial alta significativa.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Probabilidades de 68,5% de que Bitcoin atinja *82.500* em outubro",
+  "titulo": "Mercado de previsões vê 59.0% de chance de Bitcoin superar $82,500 em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 690 mil",
+  "volume24h": "US$ 774 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "68,5%",
-    "rotulo": "↑ 82.500"
+    "valor": "59,0%",
+    "rotulo": "↑ 82,500"
    },
    {
-    "valor": "36,5%",
-    "rotulo": "↓ 77.500"
+    "valor": "43,5%",
+    "rotulo": "↓ 77,500"
    },
    {
-    "valor": "32,5%",
-    "rotulo": "↑ 85.000"
+    "valor": "24,5%",
+    "rotulo": "↑ 85,000"
    },
    {
-    "valor": "14,5%",
-    "rotulo": "↓ 75.000"
+    "valor": "17,5%",
+    "rotulo": "↓ 75,000"
    }
   ],
-  "atualizadoEm": "2026-10-24T20:42:13-03:00"
+  "atualizadoEm": "2026-10-25T10:55:57-03:00"
  },
  {
   "categoria": "Comportamento do investidor",
@@ -14534,53 +15043,5 @@
   "titulo": "Petróleo recua de máxima em cinco meses após EUA suspenderem sanções à Rússia",
   "url": "https://www.moneytimes.com.br/petroleo-recua-de-maxima-em-cinco-meses-apos-suspensao-de-sancoes-dos-eua-a-russia-fets/",
   "id": "2026-10-19-01"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-17",
-  "destaque": "16/11",
-  "fatos": [
-   "O fundo Shine I assume o controle da Braskem, comprado de Novonor e NSP Investimentos.",
-   "Após a OPA, terá 50,11% do capital votante e 34,33% do capital total.",
-   "A liquidação do leilão está prevista para 21 de outubro.",
-   "O pagamento não é em dinheiro: cada ação vira duas debêntures OSPI12 e uma OSPI22.",
-   "Quem quiser continuar acionista não precisa fazer nada."
-  ],
-  "fonte": "Seu Dinheiro",
-  "gancho": "*Braskem*: prazo até *16/11*",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 11,
-  "publicadoEm": "2026-10-17T11:01:00-03:00",
-  "resumo": "Após o leilão da OPA ligada à troca de controle, donos de ações ordinárias ganham nova janela para vender nas mesmas condições; preferencialistas ficam de fora.",
-  "status": "nova",
-  "titulo": "Braskem: acionista de BRKM3 tem até 16 de novembro para vender na oferta",
-  "url": "https://www.seudinheiro.com/2026/empresas/tem-acoes-da-braskem-nova-oferta-da-controladora-permite-venda-dos-papeis-mas-nem-todo-acionista-pode-participar-entenda-mlim/",
-  "id": "2026-10-17-02"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-17",
-  "destaque": "R$ 35 bi",
-  "fatos": [
-   "A AGE de 30 de outubro vota aumento de capital autorizado, nova classe de preferenciais e units para converter dívida em ações.",
-   "A proposta prevê redução de capital de até R$ 35 bilhões com entrega de papéis da Raízen Energia.",
-   "A operação separa a distribuição de combustíveis da produção de energia e açúcar.",
-   "Fitch dá nota C(bra) e a S&P classifica a empresa em default seletivo.",
-   "O BB vê o cenário adverso, mas menos negativo que uma recuperação judicial."
-  ],
-  "fonte": "Seu Dinheiro",
-  "gancho": "*Raízen*: credores viram *sócios*",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 12,
-  "publicadoEm": "2026-10-17T15:02:00-03:00",
-  "resumo": "A recuperação extrajudicial avança para a execução, mas o BB Investimentos diz que credores ainda não sabem quanto vão recuperar no fim do processo.",
-  "status": "nova",
-  "titulo": "Raízen marca assembleia para 30 de outubro e prevê forte diluição de acionistas",
-  "url": "https://www.seudinheiro.com/2026/empresas/raizen-raiz4-recuperacao-extrajudicial-avancou-mas-credores-estao-longe-de-saber-quanto-vao-recuperar-no-fim-do-processo-diz-bb-mlim/",
-  "id": "2026-10-17-03"
  }
 ]
