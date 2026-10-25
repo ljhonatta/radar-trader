@@ -1,5 +1,561 @@
 [
  {
+  "titulo": "A incerteza eleitoral e seu impacto nos mercados",
+  "resumo": "A extensão do horário de votação adiciona incerteza e pode levar a maior cautela entre investidores, afetando a bolsa, o dólar e os juros.",
+  "fatos": [
+   "O horário de votação foi estendido de 17h para 19h, aumentando a incerteza.",
+   "Matheus Spiess destacou a complexidade do cenário político, com impactos diretos nos ativos brasileiros.",
+   "A imprevisibilidade pode elevar a aversão ao risco e impactar a bolsa de valores.",
+   "O ETF EWZ, que acompanha ações brasileiras, perdeu força devido às incertezas jurídicas.",
+   "A análise dos investidores sobre a política fiscal e a trajetória dos juros pode ficar adiada."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como a incerteza política pode afetar as decisões dos investidores ajuda a navegar em momentos de volatilidade.",
+  "impactoMercado": "A falta de previsibilidade no processo eleitoral pode elevar a aversão ao risco, impactando a bolsa, câmbio e juros futuros.",
+  "entenda": "As eleições podem influenciar muito o mercado, pois o resultado definido permite que investidores avaliem as propostas econômicas do vencedor.",
+  "observar": "Fique atento à evolução da apuração e como isso pode mudar a percepção de risco dos investidores.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Este cenário desencadeia um maior interesse pelo entendimento do funcionamento do mercado financeiro, o que pode levar os investidores a conhecê-lo melhor.",
+  "gancho": "Incertezas eleitorais impactam *mercados financeiros*",
+  "ideias": [
+   "Como a incerteza política afeta seus investimentos?",
+   "Entenda a relação entre eleições e volatilidade do mercado",
+   "Bolsa e dólar sob pressão: o que vem a seguir?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/eleicoes-vao-pressionar-bolsa-dolar-e-juros-como-a-incerteza-na-apuracao-pode-afetar-os-mercados-segundo-spiess-davs/",
+  "publicadoEm": "2026-10-25T18:56:31-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-32"
+ },
+ {
+  "titulo": "Desvalorização do Real em meio a eleições acirradas",
+  "resumo": "A instabilidade na apuração presidencial impacta negativamente a cotação do Real. Expectativas eleitorais podem influenciar a confiança do investidor.",
+  "fatos": [
+   "A apuração presidencial está sendo marcada por disputas acirradas.",
+   "Essa situação traz incertezas para o mercado financeiro.",
+   "O Real se desvaloriza com o clima tenso das eleições."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A desvalorização da moeda pode impactar investimentos e a economia como um todo, afetando a inflação e a confiança do consumidor.",
+  "impactoMercado": "Mudanças na cotação do Real podem influenciar decisões de investimento e a percepção de risco no mercado acionário.",
+  "entenda": "Um clima de incerteza política pode levar a volatilidade nas cotações de moedas, já que investidores buscam segurança em cenários previsíveis.",
+  "observar": "Acompanhe as próximas atualizações da apuração e suas repercussões no mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Este cenário torna essencial entender as influências políticas no mercado, essenciais para uma boa formação em finanças.",
+  "gancho": "Eleições e *desvalorização do Real*",
+  "ideias": [
+   "Como as eleições impactam nosso bolso",
+   "O que a desvalorização do Real significa?",
+   "Dicas para investir em tempos de incerteza política"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.google.com/search?q=Real+se+desvaloriza+com+apura%C3%A7%C3%A3o+presidencial+acirrada+-+25%2F10%2F2026+-+Economia+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T19:57:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-33"
+ },
+ {
+  "titulo": "TSE suspende apuração após STF prorrogar votação até as 19h",
+  "resumo": "A prorrogação da votação foi impulsionada por problemas de transporte público. Lula aparece com 57,66% dos votos na primeira parcial, que considerou apenas 0,25% das seções.",
+  "fatos": [
+   "O TSE interrompeu a divulgação dos resultados do segundo turno das eleições após o STF ampliar o horário de votação até às 19h.",
+   "Cristiano Zanin, do STF, decidiu pela prorrogação após relatos de dificuldades no transporte público.",
+   "A primeira parcial da apuração, divulgada às 17h06, mostrava Lula com 57,66% dos votos e Flávio Bolsonaro com 42,34%.",
+   "A parcial considerava apenas 1.225 das 499.248 seções eleitorais do país.",
+   "A prorrogação do horário se aplica a todo o Brasil, não somente onde houve problemas de transporte."
+  ],
+  "numeros": [
+   {
+    "valor": "57,66",
+    "rotulo": "percentual de votos de Lula na primeira parcial"
+   },
+   {
+    "valor": "42,34",
+    "rotulo": "percentual de votos de Flávio Bolsonaro na primeira parcial"
+   },
+   {
+    "valor": "1.225",
+    "rotulo": "número de seções contabilizadas na parcial"
+   },
+   {
+    "valor": "499.248",
+    "rotulo": "total de seções eleitorais no Brasil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "57,66%",
+  "porQueImporta": "A prorrogação do horário de votação pode afetar a dinâmica eleitoral e influenciar os resultados finais, especialmente em disputas apertadas como a entre Lula e Flávio Bolsonaro.",
+  "impactoMercado": "Alterações na apuração podem gerar volatilidade no mercado, especialmente entre ativos que refletem as perspectivas políticas e econômicas do país.",
+  "entenda": "O TSE é responsável pela organização das eleições no Brasil, garantindo a justiça e a transparência nas apurações dos votos.",
+  "observar": "Acompanhe se haverá divulgação de novos resultados após o horário estendido de votação e como isso pode afetar as decisões de investimento.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender os impactos políticos nas eleições ajuda investidores a avaliar riscos e oportunidades no mercado financeiro.",
+  "gancho": "Eleições e *mercado financeiro*",
+  "ideias": [
+   "Impactos das eleições no mercado financeiro",
+   "Como a prorrogação afeta a apuração eleitoral?",
+   "Por que acompanhar os resultados eleitorais?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://bpmoney.com.br/politica/tse-pausa-divulgacao-segundo-turno-decisao-zanin/",
+  "publicadoEm": "2026-10-25T18:20:16-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-34"
+ },
+ {
+  "titulo": "Lula retoma liderança com 50,15% dos votos válidos",
+  "resumo": "Luiz Inácio Lula da Silva lidera a apuração do 2º turno das eleições 2026 com 50,15%. Flávio Bolsonaro fica com 49,85%, em um cenário acirrado.",
+  "fatos": [
+   "Lula tem 50,15% dos votos válidos, enquanto Flávio Bolsonaro possui 49,85% em 51,35% das urnas apuradas.",
+   "Antes, Flávio Bolsonaro liderava com 14.155.217 votos, e Lula tinha 13.891.205 votos.",
+   "Um pedido foi feito para prorrogar o horário de votação devido a problemas de acesso.",
+   "Denúncias de crimes eleitorais estão sendo apuradas pela Polícia Federal."
+  ],
+  "numeros": [
+   {
+    "valor": "50,15",
+    "rotulo": "porcentagem de votos de Lula"
+   },
+   {
+    "valor": "49,85",
+    "rotulo": "porcentagem de votos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "14.155.217",
+    "rotulo": "votos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "13.891.205",
+    "rotulo": "votos de Lula"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "50,15%",
+  "porQueImporta": "Esses resultados impactam a forma como os investidores percebem a estabilidade política, o que pode influenciar o mercado financeiro.",
+  "impactoMercado": "A volatilidade no mercado pode aumentar à medida que os resultados eleitorais afetam as expectativas sobre políticas fiscais e monetárias futuras.",
+  "entenda": "Em um contexto eleitoral, a apuração de votos é crucial, pois decide quem liderará o governo e pode impactar economicamente o país.",
+  "observar": "Acompanhe os resultados das apurações e como as decisões judiciais podem afetar o processo eleitoral e a resposta do mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender as apurações eleitorais é fundamental para entender a relação entre política e mercado financeiro.",
+  "gancho": "Eleições 2026: *Lula* em liderança!",
+  "ideias": [
+   "Como a política afeta seus investimentos?",
+   "Eleições e o comportamento do mercado financeiro",
+   "Resultados eleitorais: o que esperar para o futuro econômico?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://exame.com/brasil/lula-tem-5005-dos-votos-e-retoma-lideranca-em-apuracao/",
+  "publicadoEm": "2026-10-25T17:27:03-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-35"
+ },
+ {
+  "titulo": "Brinquedos de *Star Wars* superam US$ 700 milhões em vendas",
+  "resumo": "Os brinquedos da franquia *Star Wars* continuam a ser um grande sucesso, alcançando vendas que ultrapassam US$ 700 milhões.",
+  "fatos": [
+   "Os produtos da franquia *Star Wars* têm um apelo significativo no mercado.",
+   "A popularidade dos brinquedos é impulsionada por lançamentos da série.",
+   "As vendas refletem o forte engajamento dos fãs na cultura pop."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "US$ 700 milhões",
+  "porQueImporta": "Essas vendas destacam a força de franquias icônicas, que podem impactar ações de empresas envolvidas na produção.",
+  "impactoMercado": "O sucesso de vendas de brinquedos pode influenciar expectativas sobre o desempenho financeiro de empresas do setor.",
+  "entenda": "O mercado de brinquedos é afetado por tendências culturais e lançamentos de entretenimento, como filmes e séries.",
+  "observar": "Fique atento às próximas novidades da franquia e como isso pode afetar o mercado de brinquedos.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como produtos derivados de filmes impactam o mercado e como isso se relaciona com oportunidades de investimento.",
+  "gancho": "*Star Wars*: vendas impressionantes!",
+  "ideias": [
+   "O impacto de franquias no mercado",
+   "Como o sucesso de brinquedos movimenta ações",
+   "Tendências do setor de brinquedos em 2023"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "globo",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.google.com/search?q=Brinquedos+de+Star+Wars+geram+mais+de+US%24+700+milh%C3%B5es+em+vendas+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T16:38:12-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-36"
+ },
+ {
+  "titulo": "Agenda dos indicadores que agitam as bolsas hoje",
+  "resumo": "Os investidores devem ficar atentos à agenda econômica com indicadores importantes que podem influenciar o mercado financeiro nesta segunda-feira.",
+  "fatos": [
+   "A agenda inclui dados que afetam a movimentação das bolsas.",
+   "Esses indicadores são cruciais para tomada de decisão dos investidores.",
+   "O acompanhamento desses dados ajuda a entender melhor as tendências de mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A análise de indicadores econômicos é essencial para investidores, pois fornece informações que podem impactar as operações na bolsa.",
+  "impactoMercado": "Mudanças nos indicadores econômicos podem provocar volatilidade nas ações e influenciar decisões de compra e venda.",
+  "entenda": "Indicadores econômicos, como PIB, inflação e taxa de desemprego, são dados que ajudam a avaliar a saúde da economia e a direcionar investimentos.",
+  "observar": "Fique atento às reações do mercado após a divulgação dos indicadores e como isso pode afetar suas operações.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender a agenda econômica é um passo importante para quem busca se aprofundar no mercado financeiro",
+  "gancho": "Atenção aos *indicadores econômicos*!",
+  "ideias": [
+   "O que esperar dos indicadores de hoje?",
+   "Entenda a importância da agenda econômica",
+   "Como os dados influenciam o mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Agenda",
+  "icone": "relogio",
+  "fonte": "ADVFN",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.google.com/search?q=Farol+econ%C3%B4mico%3A+Agenda+dos+indicadores+que+movimentam+as+bolsas+nesta+segunda-feira+%2826%2F10%2F2026%29+ADVFN",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T20:00:34-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-37"
+ },
+ {
+  "titulo": "Implicações da prorrogação da votação nas eleições 2026",
+  "resumo": "A prorrogação da votação pelo STF criou desafios para a Justiça Eleitoral, com seções fechadas e eleitores confusos. Isso impacta a percepção da estabilidade política.",
+  "fatos": [
+   "O STF prorrogou o horário de votação até as 19h, mas muitas seções já estavam fechadas.",
+   "A decisão gerou confusão nas operações eleitorais e dificuldades no deslocamento de eleitores.",
+   "Tribunais Regionais Eleitorais aguardam instruções sobre como proceder devido à extensão.",
+   "Em Santa Catarina, a maioria das seções estava encerrada antes da comunicação oficial do STF.",
+   "No Distrito Federal, técnicos relataram que não era possível religar a urna após a emissão do boletim."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Esse imbróglio pode afetar a confiança dos investidores e a percepção de estabilidade política, influenciando as decisões de mercado.",
+  "impactoMercado": "A incerteza política pode provocar volatilidade nos ativos financeiros, refletindo a confiança do investidor na governança e nas eleições.",
+  "entenda": "A prorrogação do horário de votação destaca a comunicação entre instituições e a importância da ordem nas eleições para evitar crises.",
+  "observar": "Fique atento a novas orientações do TSE e possíveis repercussões na confiança do investidor após as eleições.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A situação retrata a importância da clareza nas decisões políticas e como isso afeta a confiança do investidor em momentos de indefinição.",
+  "gancho": "Eleições e *Impacto no Mercado*",
+  "ideias": [
+   "Como a política interfere no mercado financeiro",
+   "A importância da estabilidade política nas eleições",
+   "O que a transferência de horário nas eleições ensina sobre comunicação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/urnas-fechadas-votacao-prorrogada-o-impasse-que-marcou-o-2o-turno-das-eleicoes-2026-miql/",
+  "publicadoEm": "2026-10-25T19:01:55-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-38"
+ },
+ {
+  "titulo": "Apuração de votos do Sudeste em tempo real",
+  "resumo": "Votação do Sudeste está em andamento. Flávio Bolsonaro lidera em São Paulo, Rio de Janeiro e Espírito Santo, enquanto em Minas Gerais a disputa é acirrada.",
+  "fatos": [
+   "Até às 19h46, apenas 1% das urnas em São Paulo foram apuradas.",
+   "Flávio Bolsonaro lidera com 62,16% em São Paulo, enquanto Lula tem 37,50%.",
+   "No Rio de Janeiro, 0,27% das urnas foram apuradas, com Bolsonaro na frente com 59,7%.",
+   "No Espírito Santo, 20% das urnas já foram apuradas, com Bolsonaro com 57,52% dos votos.",
+   "Em Minas Gerais, com 12% das urnas apuradas, Bolsonaro tem 50,07% e Lula 49,93%."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A apuração de votos pode influenciar a confiança do investidor no cenário político e econômico, impactando decisões financeiras.",
+  "impactoMercado": "Eleições altamente disputadas podem gerar volatilidade no mercado, afetando ações e a percepção de risco dos investidores.",
+  "entenda": "A apuração de votos é o processo de contabilização das cédulas em uma eleição, importante para determinar os resultados oficiais.",
+  "observar": "Acompanhe os resultados eleitorais e suas possíveis implicações para o mercado nas próximas semanas.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entenda como o resultado das eleições pode afetar o mercado financeiro e as oportunidades de investimento, especialmente em momentos de transição política.",
+  "gancho": "*Apuração de Votos* em tempo real!",
+  "ideias": [
+   "Como a apuração afeta o mercado?",
+   "Resultados eleitorais e suas consequências",
+   "O papel da política nas decisões de investimento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "relogio",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://exame.com/brasil/como-esta-a-votacao-no-sudeste-acompanhe-em-tempo-real/",
+  "publicadoEm": "2026-10-25T16:59:16-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-39"
+ },
+ {
+  "titulo": "Inflação oficial apresenta queda significativa em outubro",
+  "resumo": "A prévia da inflação oficial teve uma redução pela metade, alcançando 0,32% em outubro. Essa queda pode impactar as expectativas econômicas no Brasil.",
+  "fatos": [
+   "A prévia da inflação oficial caiu pela metade.",
+   "O índice fechou outubro em 0,32%.",
+   "Essa taxa indica uma desaceleração em relação ao que era esperado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "0,32%",
+  "porQueImporta": "Entender a inflação é crucial para investidores, pois ela afeta o poder de compra e as decisões de política monetária.",
+  "impactoMercado": "Com a inflação em queda, investidores podem esperar por ações do Banco Central que podem influenciar taxas de juros e investimentos.",
+  "entenda": "A inflação é o aumento generalizado dos preços, e sua prévia indica a tendência econômica em curto prazo.",
+  "observar": "Acompanhe as próximas divulgações sobre a inflação e as decisões do Banco Central para entender melhor o impacto no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia ajuda a compreender as mudanças na economia, essencial para quem quer investir e entender o funcionamento do mercado.",
+  "gancho": "Queda da *inflação* em outubro!",
+  "ideias": [
+   "Como a inflação influencia seus investimentos?",
+   "Entenda o que significa a prévia da inflação.",
+   "Por que a queda da inflação importa para você?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Inflação",
+  "icone": "globo",
+  "fonte": "Em Tempo Notícias",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.google.com/search?q=Pr%C3%A9via+da+infla%C3%A7%C3%A3o+oficial+cai+pela+metade+e+fecha+outubro+em+0%2C32%25+Em+Tempo+Not%C3%ADcias",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T18:00:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-40"
+ },
+ {
+  "titulo": "Prorrogação da votação traz incertezas nas urnas eletrônicas",
+  "resumo": "Decisão do STF estende a votação, mas não esclarece como reabrir urnas. Algumas seções ficam sem alternativa para votos.",
+  "fatos": [
+   "A votação do segundo turno foi prorrogada até as 19h por decisão do ministro Cristiano Zanin do STF.",
+   "Urnas já desligadas não podem ser reabertas para novos votos.",
+   "Eleitores na fila até as 17h podem votar, mas não há possibilidade de cédulas de papel.",
+   "Algumas escolas estão com portões fechados, complicando o acesso aos locais de votação.",
+   "Especialistas afirmam que a situação é inédita e suas consequências ainda são desconhecidas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como a prorrogação afeta a votação é crucial para quem acompanha a política e seu impacto no mercado.",
+  "impactoMercado": "As incertezas eleitorais podem influenciar a confiança do investidor e a volatilidade no mercado financeiro.",
+  "entenda": "O que são urnas eletrônicas e seu funcionamento: são dispositivos que garantem a segurança e agilidade na contagem dos votos durante as eleições.",
+  "observar": "Acompanhe como a Justiça Eleitoral vai resolver a questão das urnas e possíveis repercussões nos resultados.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A dificuldade de reabertura das urnas mostra a complexidade do sistema eleitoral e a necessidade de esclarecer os procedimentos, refletindo no interesse do público pela política.",
+  "gancho": "*Prorrogação* da votação: o que significa?",
+  "ideias": [
+   "O que acontece com as urnas após a prorrogação?",
+   "Como a política pode impactar o mercado financeiro?",
+   "Entenda o papel do STF nas votações!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/urnas-podem-ser-reabertas-para-cumprir-decisao-de-prorrogar-votacao-veja-o-que-acontece-ccgg/",
+  "publicadoEm": "2026-10-25T18:12:09-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-41"
+ },
+ {
+  "titulo": "Eleições 2026: resultados ao vivo",
+  "resumo": "Acompanhe os resultados das Eleições 2026 em tempo real e entenda como isso pode impactar o mercado financeiro.",
+  "fatos": [
+   "Os resultados das Eleições 2026 estão sendo apurados em tempo real.",
+   "As eleições podem influenciar decisões econômicas e políticas no país.",
+   "Investidores devem ficar atentos ao desfecho das eleições e seus possíveis efeitos no mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Resultados eleitorais podem impactar políticas econômicas, afetando investimentos em diversas áreas.",
+  "impactoMercado": "Mudanças no cenário político podem gerar volatilidade no mercado, afetando ações e investimentos.",
+  "entenda": "As eleições são um momento crucial que pode gerar incertezas e mudanças nas diretrizes econômicas do país.",
+  "observar": "Acompanhe os resultados e as declarações pós-eleitorais para entender as possíveis consequências.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender os resultados das eleições pode ajudar a preparar estratégias de investimento mais robustas.",
+  "gancho": "*Eleições 2026*: resultados em tempo real",
+  "ideias": [
+   "Como as eleições podem impactar o mercado?",
+   "Eleições 2026: o que esperar do mercado financeiro?",
+   "A importância de acompanhar as eleições para seus investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "G1",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "url": "https://www.google.com/search?q=Apura%C3%A7%C3%A3o+das+Elei%C3%A7%C3%B5es+2026%3A+acompanhe+os+resultados+em+tempo+real+G1",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T11:03:05-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-42"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "us-recession-by-end-of-2026",
+  "titulo": "Mercado de previsões vê 90% de chance de não haver recessão nos EUA até o final de 2026.",
+  "resumo": "Predomínio da visão otimista entre apostadores sobre a economia dos EUA.",
+  "probs": [
+   {
+    "opcao": "Não",
+    "prob": 90.0
+   },
+   {
+    "opcao": "Sim",
+    "prob": 10.0
+   }
+  ],
+  "prazo": "2026-12-31",
+  "volume24h": "US$ 24 mil",
+  "fatos": [
+   "Não: 90,0%",
+   "Sim: 10,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "90,0%",
+    "rotulo": "Não"
+   },
+   {
+    "valor": "10,0%",
+    "rotulo": "Sim"
+   }
+  ],
+  "destaque": "90,0%",
+  "gancho": "*Otimismo* sobre economia dos EUA",
+  "entenda": "A expectativa de recessão é uma preocupação constante no mercado, com implicações para investimentos e consumo. As probabilidades refletem a confiança dos apostadores.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+  "publicadoEm": "2026-10-25T20:32:33-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-25T20:32:33-03:00",
+  "data": "2026-10-25",
+  "status": "nova",
+  "id": "2026-10-25-p2"
+ },
+ {
   "titulo": "Eleições apertadas e o alerta para investidores, diz Goldman Sachs",
   "resumo": "O Goldman Sachs alerta que uma eleição com diferença mínima entre candidatos pode gerar incertezas no mercado. A formação do governo será crucial após os resultados.",
   "fatos": [

@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-25T15:33:21-03:00",
-  "novas": 21,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-10-25T20:32:33-03:00",
+  "novas": 12,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "21 nova(s) e 1 atualizada(s): Eleições e mercado: o que esperar?; Eleições e Bolsa: impacto a vista!; Decisão de Juros e Emprego Impactam Mercados.",
+  "mensagem": "12 nova(s): Incertezas eleitorais impactam mercados financeiros; Eleições e desvalorização do Real; Eleições e mercado financeiro.",
   "falhas": [
    "Acionista (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-25T20:32:33-03:00",
    "2026-10-25T15:33:21-03:00",
    "2026-10-25T10:55:57-03:00",
    "2026-10-24T20:42:13-03:00",
@@ -20,8 +21,7 @@
    "2026-10-23T11:28:02-03:00",
    "2026-10-22T21:10:06-03:00",
    "2026-10-22T16:30:55-03:00",
-   "2026-10-22T11:41:47-03:00",
-   "2026-10-21T21:12:40-03:00"
+   "2026-10-22T11:41:47-03:00"
   ],
   "modelo": "gpt-4o-mini"
  },
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,6 mil",
-    "var": "+0,38%"
+    "v": "US$ 79,9 mil",
+    "var": "-0,91%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 116,91",
-    "var": "+3,30%"
+    "v": "US$ 115,86",
+    "var": "-0,74%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.010,00",
-    "var": "-1,24%"
+    "v": "US$ 4.008,80",
+    "var": "+0,02%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 15h",
+  "hora": "dom 20h",
   "data": "2026-10-25",
-  "atualizadoEm": "2026-10-25T15:33:21-03:00",
+  "atualizadoEm": "2026-10-25T20:32:33-03:00",
   "ibov": "205.083",
   "ibovVar": "+0,47%",
   "dolar": "R$ 4,97",
   "dolarVar": "",
-  "btc": "US$ 80,6 mil"
+  "btc": "US$ 79,9 mil"
  }
 }
