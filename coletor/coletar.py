@@ -272,14 +272,19 @@ def triagem(candidatos, recentes):
     ja = "\n".join(f"{d['id']} | {d['titulo']}" for d in recentes) or "(nenhuma)"
     sistema = (f"Você é o editor-chefe do 'Radar Trader'. {PERFIL}\n{REGRAS}\n"
                f"Temas aceitos: {', '.join(CATEGORIAS)}. Descarte fofoca corporativa sem impacto, loterias, lifestyle, "
-               "finanças pessoais genéricas e matérias patrocinadas. Priorize o que mexe com bolsa, dólar, juros, "
+               "finanças pessoais genéricas, entretenimento e streaming (séries, filmes, celebridades) e matérias patrocinadas (Blue Studio, publieditorial). Priorize o que mexe com bolsa, dólar, juros, "
                "inflação e grandes empresas e o que ajuda a educar quem opera. Responda em JSON.")
     usuario = (f"Notícias candidatas:\n{lista}\n\nNotícias já gravadas nos últimos dias (não repita a mesma história):\n{ja}\n\n"
-               'Devolva {"escolhidas":[{"i":<número>,"impacto":"alto|medio","ordem":<1 = melhor para conteúdo>,'
+               "ANTES de escolher, agrupe as candidatas por HISTÓRIA: matérias de veículos diferentes sobre o mesmo "
+               "acontecimento e a mesma causa no mesmo dia são UMA história (ex.: 'dólar dispara', 'Bolsa aciona circuit "
+               "breaker' e 'Ibovespa futuro despenca' pela mesma razão). Só separe quando o fato principal for outro "
+               "(ex.: 'Tesouro cancela leilões' é outra história). "
+               'Devolva {"escolhidas":[{"i":<número da candidata principal, a mais completa e confiável>,'
+               '"extras":[<até 2 números de OUTRAS candidatas da MESMA história, de outros veículos, para completar a ficha>],'
+               '"impacto":"alto|medio","ordem":<1 = melhor para conteúdo>,'
                '"atualiza":"<id da notícia já gravada se for a MESMA história com FATO NOVO, senão null>"}]}. '
-               f"No máximo {MAX_NOTICIAS} itens e no máximo {MAX_ALTO} com impacto alto. Mesma história sem fato novo: "
-               "não inclua. Quando duas candidatas forem a mesma história, escolha a de fonte mais confiável. "
-               "Lista vazia se nada servir.")
+               f"No máximo {MAX_NOTICIAS} histórias e no máximo {MAX_ALTO} com impacto alto. Mesma história já gravada "
+               "sem fato novo: não inclua. Lista vazia se nada servir.")
     r = ia(sistema, usuario)
     saida, vistos = [], set()
     for e in r.get("escolhidas", []):
@@ -289,7 +294,16 @@ def triagem(candidatos, recentes):
             continue
         if 0 <= i < len(candidatos) and i not in vistos:
             vistos.add(i)
-            saida.append({"c": candidatos[i], "impacto": "alto" if e.get("impacto") == "alto" else "medio",
+            extras = []
+            for j in (e.get("extras") or [])[:2]:
+                try:
+                    j = int(j)
+                except Exception:
+                    continue
+                if 0 <= j < len(candidatos) and j != i and j not in vistos:
+                    vistos.add(j)
+                    extras.append(candidatos[j])
+            saida.append({"c": candidatos[i], "extras": extras, "impacto": "alto" if e.get("impacto") == "alto" else "medio",
                           "ordem": int(e.get("ordem") or 99), "atualiza": e.get("atualiza") or None})
     saida.sort(key=lambda x: (x["impacto"] != "alto", x["ordem"]))
     altos = 0
@@ -341,7 +355,8 @@ def escrever(c, texto):
                "deixe a lista vazia se não houver (comparativo só quando o texto traz o valor anterior e o novo). "
                "Responda em JSON exatamente com estas chaves: " + json.dumps(MODELO_DOC, ensure_ascii=False))
     usuario = (f"Veículo: {c['fonte']}\nTítulo: {c['titulo']}\nResumo do feed: {c['resumo']}\n"
-               f"Texto da matéria: {texto or '(indisponível: use só o título e o resumo, com no máximo 3 fatos e sem números que não estejam neles)'}")
+               f"Texto da matéria (pode trazer outras coberturas da mesma história; junte as informações, sem repetir): "
+               f"{texto or '(indisponível: use só o título e o resumo, com no máximo 3 fatos e sem números que não estejam neles)'}")
     return ia(sistema, usuario, MODELO_ESCRITA)
 
 
@@ -391,7 +406,7 @@ def validar(d, esc, coleta):
         "formatos": [f for f in (d.get("formatos") or []) if f in FORMATOS] or ["Carrossel"],
         "categoria": d.get("categoria") if d.get("categoria") in CATEGORIAS else "Economia",
         "icone": d.get("icone") if d.get("icone") in ICONES else "grafico",
-        "fonte": fonte, "impacto": esc["impacto"], "ordem": esc["ordem"],
+        "fonte": fonte + "".join(f"; {f}" for f in esc.get("fontesExtras", []) if f != fonte), "impacto": esc["impacto"], "ordem": esc["ordem"],
         "status": "nova", "coletadoEm": iso(coleta),
     }
     if c["direto"] and c["url"]:
@@ -653,7 +668,16 @@ def main():
         nn = max([int(n["id"].rsplit("-", 1)[1]) for n in noticias if re.fullmatch(rf"{hoje}-\d+", n["id"])] or [0])
         textos = {}
         with ThreadPoolExecutor(6) as ex:
-            for esc, txt in zip(escolhidas, ex.map(lambda e: preparar(e["c"]), escolhidas)):
+            def juntar(e):
+                """Texto da matéria principal + até 2 de outros veículos sobre a mesma história."""
+                partes = [preparar(e["c"])]
+                for x in e.get("extras", []):
+                    t = preparar(x)
+                    if len(t) > 500:
+                        partes.append(f"\n\n[Outra cobertura: {x['fonte']}] " + t[:6000])
+                        e.setdefault("fontesExtras", []).append(x["fonte"])
+                return "".join(partes)
+            for esc, txt in zip(escolhidas, ex.map(juntar, escolhidas)):
                 textos[id(esc)] = txt
                 esc["tam"] = len(txt)
         completos = sum(1 for e in escolhidas if e.get("tam", 0) > 800)
