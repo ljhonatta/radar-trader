@@ -73,6 +73,7 @@ details.ficha .cmpt td{padding:3px 10px 3px 0;border-bottom:1px solid var(--line
 .sl .ps>div{display:flex;flex-direction:column;gap:6px;min-width:0}
 .sl .ps b{font-size:calc(38px * var(--k) * var(--t));color:var(--s-txt);line-height:1.15}
 .sl .ps>div span{font-size:calc(30px * var(--k) * var(--t));color:var(--s-sub);line-height:1.35}
+.sl .ps>div span.so{font-size:calc(34px * var(--k) * var(--t));color:var(--s-txt)}
 </style>'''
 troca('.sl .guide .crop{position:absolute;top:0;bottom:0;border-left:4px solid rgba(255,230,60,.9);border-right:4px solid rgba(255,230,60,.9)}\n</style>',
       '.sl .guide .crop{position:absolute;top:0;bottom:0;border-left:4px solid rgba(255,230,60,.9);border-right:4px solid rgba(255,230,60,.9)}' + CSS)
@@ -94,6 +95,9 @@ troca('''    <div class="panel">
 
 # ---------- constantes ----------
 troca('''  conclusao:{nome:"Conclusão"''', '''  comparativo:{nome:"Antes × depois",arq:"antes-depois",ia:"tabela antes × depois em 'linhas' [{item, antes, depois}] (2 a 4 linhas, só valores do material; se o material não trouxer valor anterior e novo, deixe 'linhas' vazio e use 'numeros' com 2 a 3 números e titulo 'Em números'); titulo até 6 palavras; texto vazio; natureza fato"},
+  detalhes:{nome:"Os detalhes",arq:"detalhes",ia:"3 a 4 detalhes concretos da notícia em 'passos' [{t: vazio, d: até 22 palavras com número, nome ou data}] (quem, quanto, quando, como); titulo até 6 palavras; texto vazio; natureza fato"},
+  declaracoes:{nome:"O que disseram",arq:"declaracoes",ia:"até 3 declarações da notícia em 'passos' [{t: nome e cargo de quem falou, d: paráfrase até 25 palavras}], só quem está no material; titulo até 6 palavras; texto vazio; natureza fato"},
+  cronologia:{nome:"Linha do tempo",arq:"linha-do-tempo",ia:"2 a 4 marcos em ordem em 'passos' [{t: data ou momento, d: o que aconteceu até 15 palavras}], só do material; titulo até 6 palavras; texto vazio; natureza fato"},
   passos:{nome:"Passo a passo",arq:"passos",ia:"3 passos educativos em 'passos' [{t: até 4 palavras, d: até 14 palavras}] sobre como quem opera ou investe pode acompanhar esse tipo de notícia com método (sem recomendar compra ou venda, sem prometer ganho); titulo até 7 palavras com 1 palavra entre *asteriscos*; texto vazio; natureza contexto"},
   conclusao:{nome:"Conclusão"''')
 troca('''  8:["capa","aconteceu","numeros","importa","impacto","contexto","cenarios","conclusao"]
@@ -140,6 +144,12 @@ function fichaHTML(n){
   const L=a=>Array.isArray(a)&&a.length?`<ul>${a.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:"";
   const corpo=bl("Fatos",L(n.fatos))
     +bl("Antes × depois",Array.isArray(n.comparativo)&&n.comparativo.length?`<table class="cmpt">${n.comparativo.map(r=>`<tr><td>${esc(r.item)}</td><td>${esc(r.antes)}</td><td>→ <b>${esc(r.depois)}</b></td></tr>`).join("")}</table>`:"")
+    +bl("Explicação",(n.explicacao||[]).map(x=>`<p style="margin:0 0 6px">${esc(x)}</p>`).join(""))
+    +bl("Detalhes",L(n.detalhes))
+    +bl("O que disseram",(n.declaracoes||[]).length?`<ul>${n.declaracoes.map(x=>`<li><b>${esc(x.quem)}:</b> ${esc(x.oque)}</li>`).join("")}</ul>`:"")
+    +bl("Linha do tempo",(n.cronologia||[]).length?`<ul>${n.cronologia.map(x=>`<li><b>${esc(x.quando)}:</b> ${esc(x.oque)}</li>`).join("")}</ul>`:"")
+    +bl("Glossário",(n.glossario||[]).length?`<ul>${n.glossario.map(x=>`<li><b>${esc(x.termo)}:</b> ${esc(x.significado)}</li>`).join("")}</ul>`:"")
+    +bl("Pergunta para os comentários",esc(n.pergunta||""))
     +bl("Por que importa",esc(n.porQueImporta||""))+bl("Impacto no mercado",esc(n.impactoMercado||""))+bl("Entenda",esc(n.entenda||""))
     +bl("O que observar",esc(n.observar||""))+bl("Ângulo para o perfil",esc(n.angulo||""))+bl("Ideias de post",L(n.ideias))
     +bl("Para quem e formato",esc([...(n.publico||[]),...(n.formatos||[])].join(" · ")));
@@ -166,7 +176,16 @@ function icon3d(name,p){const I=ICONES[name]||ICONES.grafico;const l=p.a2,m=p.a,
 const ICO_MAP={grafico:"grafico",seta:"grafico",queda:"queda",moeda:"dinheiro",raio:"alerta",escudo:"escudo",alvo:"alvo",foguete:"foguete",globo:"lupa",relogio:"relogio",cadeado:"escudo"};
 function icoDe(d,s){const P={numeros:"grafico",importa:"alvo",impacto:/^-|queda|▼/i.test(d.noticia?.destaque||"")?"queda":"grafico",contexto:"lupa",cenarios:"relogio",comparativo:"calendario",passos:"foguete"};return P[s.papel]||ICO_MAP[d.noticia?.icone]||"grafico";}
 function cmpHTML(rows){return `<div class="cmp"><div class="ch"><span></span><span>Antes</span><span>Depois</span></div>${rows.slice(0,4).map(r=>`<div class="cr"><span>${esc(r.item)}</span><span>${esc(r.antes)}</span><b>${esc(r.depois)}</b></div>`).join("")}</div>`;}
-function passosHTML(list){return `<div class="pss">${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div><b>${esc(p.t)}</b>${p.d?`<span>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
+function passosHTML(list){return `<div class="pss">${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div>${p.t?`<b>${esc(p.t)}</b>`:""}${p.d?`<span${p.t?"":` class="so"`}>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
+const LISTA=new Set(["passos","detalhes","declaracoes","cronologia"]);
+function planoDe(d,n){const nw=d?.noticia||{};
+  const tem={detalhes:(nw.detalhes||[]).length>=2,numeros:!nw.numeros||(nw.numeros||[]).length>=2,comparativo:(nw.comparativo||[]).length>0,
+    declaracoes:(nw.declaracoes||[]).length>0,cronologia:(nw.cronologia||[]).length>=2};
+  const prio=["aconteceu","detalhes","importa","numeros","impacto","declaracoes","comparativo","contexto","cronologia","cenarios","passos"].filter(p=>tem[p]!==false);
+  const ORD=["aconteceu","detalhes","numeros","comparativo","cronologia","declaracoes","importa","impacto","contexto","cenarios","passos"];
+  const mid=prio.slice(0,Math.max(1,n-2));return ["capa",...ORD.filter(p=>mid.includes(p)),"conclusao"];}
+function proximoEstilo(){const ks=Object.keys(KITS);const i=((prefs.kitN??-1)+1)%ks.length;prefs.kitN=i;savePrefs();
+  const K=KITS[ks[i]];const e=estiloDe({estilo:prefs.estilo||{}});const o={...e,...K,el:{...e.el,...(K.el||{})}};delete o.nome;delete o.d;return o;}
 function tickHTML(d){const it=(d.placar||[]).slice(0,6);if(!it.length)return "";
   return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"} ${esc(String(x.var).replace(/^[+-]/,""))}</i>`:""}</span>`}).join("")}</div>`;}
 const hand=()=>''')
@@ -179,7 +198,7 @@ troca('''  const lr=`<div class="lr"><span class="nat ${s.natureza||"fato"}">${N
       '''  const lr=`<div class="lr"><span class="nat ${s.natureza||"fato"}">${NAT[s.natureza||"fato"]||"FATO"}</span><span class="rot">${esc(s.rotulo||PAPEIS[s.papel]?.nome||"")}</span>${es.el.icone?`<span class="ico3d" style="width:${Math.round(124*k)}px;height:${Math.round(118*k)}px">${icon3d(icoDe(d,s),p)}</span>`:""}</div>`;
   const tick=es.el.ticker&&!last?tickHTML(d):"";''')
 troca('    const tx0=s.texto?`<div class="txt">${esc(s.texto)}</div>`:"";\n    const txt=isN?nums+tx0:tx0;',
-      '    const tx0=s.texto?`<div class="txt">${esc(s.texto)}</div>`:"";\n    const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):s.papel==="passos"&&s.passos?.length?passosHTML(s.passos):"";\n    const txt=(isN?nums+tx0:tx0)+extra;')
+      '    const tx0=s.texto?`<div class="txt">${esc(s.texto)}</div>`:"";\n    const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):LISTA.has(s.papel)&&s.passos?.length?passosHTML(s.passos):"";\n    const txt=(isN?nums+tx0:tx0)+extra;')
 troca('''${s.texto?`<div class="txt qtxt">${esc(s.texto)}</div>`:""}${numsB}''', '''${s.texto?`<div class="txt qtxt">${esc(s.texto)}</div>`:""}${numsB}${extra}''')
 troca('<div class="frame">${s.papel==="marca"?"":hd}', '<div class="frame">${s.papel==="marca"?"":tick+hd}')
 
@@ -201,38 +220,57 @@ troca('setEstilo(e=>{const off=e.marcaLay==="off";Object.assign(e,K);',
 troca('const EL={linhas:"Linhas de fundo",', 'const EL={ticker:"Faixa de cotações",icone:"Ícones 3D",linhas:"Linhas de fundo",')
 troca('$("segN").innerHTML=[3,4,5,6,7,8].map(', '$("segN").innerHTML=[3,4,5,6,7,8,9,10].map(')
 
+# ---------- planos de slides montados conforme o que a notícia tem ----------
+troca('function localSlides(d,n){return withMarca(d,PLANOS[n].map(','function localSlides(d,n){return withMarca(d,planoDe(d,n).map(')
+troca('  const plano=PLANOS[n],f=FORMATOS[d.formato];','  const plano=planoDe(d,n),f=FORMATOS[d.formato];')
+troca('    const plano=PLANOS[n];if(!r||','    const plano=planoDe(deck,n);if(!r||')
+troca('  return withMarca(deck,PLANOS[n].map(','  return withMarca(deck,planoDe(deck,n).map(')
+troca('const nConteudo=d=>conteudo(d).length;','const nConteudo=d=>{const c=conteudo(d).length;return c>=3&&c<=10?c:prefs.n;};')
+troca('texto até 40 palavras','texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas)',4)
+troca('texto até 42 palavras','texto de 35 a 55 palavras',1)
+# cada carrossel novo usa um modelo diferente
+troca('estilo:JSON.parse(JSON.stringify(brandOf(prefs.handle).estilo||prefs.estilo||ESTILO0))','estilo:proximoEstilo()')
+troca('  showTab("editor");renderEditor();gerar();','  showTab("editor");renderEditor();gerar().then(()=>{const k=kitDe(estiloDe(deck));if(k&&!$("genStatus").classList.contains("err"))setStatus("genStatus",$("genStatus").textContent+` Modelo: ${KITS[k].nome} (cada carrossel novo vem num modelo diferente; troque acima se quiser).`,"ok");});')
+
 # ---------- carrossel com os dados da ficha ----------
 troca('gancho:news.gancho||""},',
-      'gancho:news.gancho||"",numeros:news.numeros||[],comparativo:news.comparativo||[],porQueImporta:news.porQueImporta||"",impactoMercado:news.impactoMercado||"",entenda:news.entenda||"",observar:news.observar||"",angulo:news.angulo||"",ideias:news.ideias||[],icone:news.icone||""},')
+      'gancho:news.gancho||"",numeros:news.numeros||[],comparativo:news.comparativo||[],porQueImporta:news.porQueImporta||"",impactoMercado:news.impactoMercado||"",entenda:news.entenda||"",observar:news.observar||"",angulo:news.angulo||"",ideias:news.ideias||[],icone:news.icone||"",explicacao:news.explicacao||[],detalhes:news.detalhes||[],declaracoes:news.declaracoes||[],cronologia:news.cronologia||[],glossario:news.glossario||[],pergunta:news.pergunta||""},')
 troca('criadoEm:new Date().toISOString()};\n}\nfunction criar', 'criadoEm:new Date().toISOString(),placar:(PLACAR?.itens||[]).slice(0,8)};\n}\nfunction criar')
 troca('  const nums=f.map(x=>{', '  const nums=nw.numeros?.length?nw.numeros.map(x=>({valor:x.valor,rotulo:x.rotulo})):f.map(x=>{')
 troca('titulo:"Por que isso importa",texto:"Notícias assim', 'titulo:"Por que isso importa",texto:nw.porQueImporta||"Notícias assim')
 troca('titulo:"O que muda para o investidor",texto:"Movimentos', 'titulo:"O que muda para o investidor",texto:nw.impactoMercado||"Movimentos')
 troca('texto:EDU[nw.categoria]||EDU._', 'texto:nw.entenda||EDU[nw.categoria]||EDU._')
 troca('titulo:"O que observar a seguir",texto:"Os próximos', 'titulo:"O que observar a seguir",texto:nw.observar||"Os próximos')
-troca('    default:{const r=String(nw.resumo', '''    case "comparativo":return {...base,titulo:nw.comparativo?.length?"Antes *×* depois":"Em números",rotulo:nw.comparativo?.length?"":"Em números",linhas:(nw.comparativo||[]).slice(0,4),numeros:nw.comparativo?.length?[]:nums.slice(0,3)};
+troca('    default:{const r=String(nw.resumo', '''    case "detalhes":return {...base,titulo:"Os *detalhes*",passos:(nw.detalhes||[]).slice(0,4).map(x=>({t:"",d:x}))};
+    case "declaracoes":return {...base,titulo:"O que *disseram*",passos:(nw.declaracoes||[]).slice(0,3).map(x=>({t:x.quem,d:x.oque}))};
+    case "cronologia":return {...base,titulo:"Linha do *tempo*",passos:(nw.cronologia||[]).slice(0,4).map(x=>({t:x.quando,d:x.oque}))};
+    case "comparativo":return {...base,titulo:nw.comparativo?.length?"Antes *×* depois":"Em números",rotulo:nw.comparativo?.length?"":"Em números",linhas:(nw.comparativo||[]).slice(0,4),numeros:nw.comparativo?.length?[]:nums.slice(0,3)};
     case "passos":return {...base,natureza:"contexto",titulo:"Como acompanhar *com método*",passos:[{t:"Entenda o fato",d:"Leia a notícia na fonte e separe fato de opinião."},{t:"Veja o contexto",d:"Compare com juros, dólar e o humor do mercado no dia."},{t:"Tenha um plano",d:"Defina o risco antes de agir. Impulso não é estratégia."}],fonte:""};
     default:{const r=String(nw.resumo''')
 troca('${nw.resumo}\\n\\n${(nw.fatos||[]).slice(0,3)', '${nw.resumo}\\n\\n${nw.porQueImporta?"Por que importa: "+nw.porQueImporta+"\\n\\n":""}${(nw.fatos||[]).slice(0,3)')
-troca('categoria:nw.categoria,...(nw.tipo', 'categoria:nw.categoria,numeros:nw.numeros,comparativo:nw.comparativo,porQueImporta:nw.porQueImporta,impactoMercado:nw.impactoMercado,entenda:nw.entenda,observar:nw.observar,angulo:nw.angulo,...(nw.tipo')
+troca('categoria:nw.categoria,...(nw.tipo', 'categoria:nw.categoria,explicacao:nw.explicacao,detalhes:nw.detalhes,declaracoes:nw.declaracoes,cronologia:nw.cronologia,glossario:nw.glossario,numeros:nw.numeros,comparativo:nw.comparativo,porQueImporta:nw.porQueImporta,impactoMercado:nw.impactoMercado,entenda:nw.entenda,observar:nw.observar,angulo:nw.angulo,pergunta:nw.pergunta,...(nw.tipo')
 troca('"numeros":[{"valor":"...","rotulo":"..."}],"fonte":"..."}],"legenda"', '"numeros":[{"valor":"...","rotulo":"..."}],"linhas":[{"item":"...","antes":"...","depois":"..."}],"passos":[{"t":"...","d":"..."}],"fonte":"..."}],"legenda"')
 troca('"numeros":[{"valor":"...","rotulo":"..."}],"fonte":"..."}`,{signal', '"numeros":[{"valor":"...","rotulo":"..."}],"linhas":[{"item":"...","antes":"...","depois":"..."}],"passos":[{"t":"...","d":"..."}],"fonte":"..."}`,{signal')
 troca('fonte:String(x?.fonte||"")};', 'fonte:String(x?.fonte||""),linhas:Array.isArray(x?.linhas)?x.linhas.filter(r=>r&&r.antes).slice(0,4).map(r=>({item:String(r.item||""),antes:String(r.antes),depois:String(r.depois||"")})):[],passos:Array.isArray(x?.passos)?x.passos.filter(r=>r&&r.t).slice(0,4).map(r=>({t:String(r.t),d:String(r.d||"")})):[]};')
-troca('ESTRUTURA (campo "papel" de cada slide, nesta ordem)', 'Use os campos porQueImporta, impactoMercado, entenda e observar do material como base dos slides correspondentes, melhorando a redação.\nESTRUTURA (campo "papel" de cada slide, nesta ordem)')
+troca('ESTRUTURA (campo "papel" de cada slide, nesta ordem)', 'Use TODO o material: explicacao, detalhes, declaracoes, cronologia, numeros, porQueImporta, impactoMercado, entenda e observar são a base dos slides correspondentes. Cada slide precisa trazer informação concreta desta notícia (nome, número, data, causa, consequência); é proibido texto genérico que serviria para qualquer notícia. Na legenda, explique a notícia em 2 a 3 parágrafos com os dados reais e termine com a pergunta do material.\nESTRUTURA (campo "papel" de cada slide, nesta ordem)')
 
 # editor: campo de números vira linhas (antes×depois) ou passos conforme o slide
 troca('''  $("f-nums").hidden=capa||last;$("e-nums").value=(s.numeros||[]).map(r=>`${r.valor}; ${r.rotulo}`).join("\\n");''',
       '''  $("f-nums").hidden=capa||last;
   const lblN=$("f-nums").querySelector("label");
-  if(s.papel==="comparativo"&&(s.linhas||[]).length||s.papel==="passos"){lblN.textContent=s.papel==="passos"?"Passos (título; descrição)":"Antes × depois (item; antes; depois)";$("e-nums").value=s.papel==="passos"?(s.passos||[]).map(r=>`${r.t}; ${r.d}`).join("\\n"):(s.linhas||[]).map(r=>`${r.item}; ${r.antes}; ${r.depois}`).join("\\n");}
+  if(s.papel==="comparativo"&&(s.linhas||[]).length||LISTA.has(s.papel)){lblN.textContent=LISTA.has(s.papel)?"Passos (título; descrição)":"Antes × depois (item; antes; depois)";$("e-nums").value=LISTA.has(s.papel)?(s.passos||[]).map(r=>`${r.t}; ${r.d}`).join("\\n"):(s.linhas||[]).map(r=>`${r.item}; ${r.antes}; ${r.depois}`).join("\\n");}
   else{lblN.textContent="Números (valor; descrição)";$("e-nums").value=(s.numeros||[]).map(r=>`${r.valor}; ${r.rotulo}`).join("\\n");}''')
 troca('''  Object.assign(s,{natureza:$("e-nat").value,rotulo:$("e-rot").value,titulo:$("e-tit").value,texto:$("e-txt").value,fonte:$("e-fonte").value,
     numeros:$("e-nums").value.split("\\n").map(l=>l.split(";")).filter(r=>r[0]&&r[0].trim()).map(r=>({valor:r[0].trim(),rotulo:(r.slice(1).join(";")||"").trim()}))});''',
       '''  const rows=$("e-nums").value.split("\\n").map(l=>l.split(";")).filter(r=>r[0]&&r[0].trim());
   Object.assign(s,{natureza:$("e-nat").value,rotulo:$("e-rot").value,titulo:$("e-tit").value,texto:$("e-txt").value,fonte:$("e-fonte").value});
-  if(s.papel==="passos")s.passos=rows.map(r=>({t:r[0].trim(),d:(r.slice(1).join(";")||"").trim()}));
+  if(LISTA.has(s.papel))s.passos=rows.map(r=>({t:r[0].trim(),d:(r.slice(1).join(";")||"").trim()}));
   else if(s.papel==="comparativo"&&(s.linhas||[]).length)s.linhas=rows.map(r=>({item:r[0].trim(),antes:(r[1]||"").trim(),depois:(r.slice(2).join(";")||"").trim()}));
   else s.numeros=rows.map(r=>({valor:r[0].trim(),rotulo:(r.slice(1).join(";")||"").trim()}));''')
+
+troca('case "aconteceu":return {...base,titulo:plain(nw.titulo),texto:nw.resumo,','case "aconteceu":return {...base,titulo:plain(nw.titulo),texto:(nw.explicacao||[])[0]||nw.resumo,')
+troca('texto:nw.porQueImporta||"Notícias assim','texto:[nw.porQueImporta,(nw.explicacao||[])[2]].filter(Boolean).join(" ")||"Notícias assim')
+troca('${nw.resumo}\\n\\n${nw.porQueImporta?','${(nw.explicacao||[]).length?nw.explicacao.slice(0,3).join("\\n\\n"):nw.resumo}\\n\\n${(nw.detalhes||[]).length?nw.detalhes.slice(0,4).map(x=>"▪️ "+x).join("\\n")+"\\n\\n":""}${nw.pergunta?nw.pergunta+"\\n\\n":""}${nw.porQueImporta?')
 
 # ---------- IA: sem chave usa a ficha ----------
 troca('  if(!sample){deck.slides=localSlides(deck,n);deck.legenda=localLegenda(deck);setStatus("genStatus",db?"Gerado pelo modelo padrão (IA indisponível aqui). Edite os textos se quiser.":"Prévia local.");afterGen();return;}',

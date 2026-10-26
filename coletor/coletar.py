@@ -26,13 +26,16 @@ ARQ_FONTES = os.path.join(RAIZ, "coletor", "fontes.json")
 
 API_KEY = os.environ.get("OPENAI_API_KEY", "").strip()
 MODELO = os.environ.get("OPENAI_MODEL", "").strip() or "gpt-4o-mini"
+# modelo que escreve a ficha completa (mais caprichado); se a conta não tiver, cai no MODELO
+MODELO_ESCRITA = os.environ.get("OPENAI_MODEL_ESCRITA", "").strip() or "gpt-4.1-mini"
 MANUAL = os.environ.get("MANUAL", "false").lower() == "true"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"}
 
 MAX_NOTICIAS = 22      # por coleta
 MAX_ALTO = 5           # destaques por coleta
 MAX_SINAIS = 5
-MAX_CANDIDATOS = 140
+MAX_CANDIDATOS = 220
+MAX_POR_FONTE = 18
 DIAS_GUARDAR = 7
 
 CATEGORIAS = ["Bolsa", "Câmbio", "Juros", "Inflação", "Economia", "Global", "Empresas", "Commodities",
@@ -150,14 +153,17 @@ def coletar(fontes, inicio, falhas):
                 veiculo = (e.get("source") or {}).get("title", "")
                 if veiculo and titulo.endswith(" - " + veiculo):
                     titulo = titulo[: -len(veiculo) - 3]
-                itens.append({"titulo": titulo, "url": "", "fonte": veiculo or "Google Notícias",
+                itens.append({"titulo": titulo, "url": "", "gnews": e.get("link", ""), "fonte": veiculo or "Google Notícias",
                               "resumo": "", "publicado": dt, "direto": False})
         except Exception as ex:
             falhas.append(f"Google Notícias '{q}' ({type(ex).__name__})")
-    vistos, unicos = set(), []
+    vistos, unicos, por_fonte = set(), [], {}
     for it in sorted(itens, key=lambda i: (not i["direto"], -i["publicado"].timestamp())):
         k = norm(it["titulo"])[:70]
         if not k or k in vistos or (it["url"] and it["url"] in vistos):
+            continue
+        por_fonte[it["fonte"]] = por_fonte.get(it["fonte"], 0) + 1
+        if por_fonte[it["fonte"]] > MAX_POR_FONTE:
             continue
         vistos.add(k)
         if it["url"]:
@@ -166,33 +172,95 @@ def coletar(fontes, inicio, falhas):
     return unicos[:MAX_CANDIDATOS]
 
 
+def extrair(html):
+    """Pega o corpo da matéria: primeiro o articleBody do JSON-LD, depois o maior bloco de parágrafos."""
+    sopa = BeautifulSoup(html, "html.parser")
+    cands = []
+    for sc in sopa.find_all("script", type="application/ld+json"):
+        try:
+            d = json.loads(sc.string or "")
+            for x in (d if isinstance(d, list) else d.get("@graph", [d])):
+                if isinstance(x, dict) and x.get("articleBody"):
+                    cands.append(BeautifulSoup(x["articleBody"], "html.parser").get_text(" "))
+        except Exception:
+            pass
+    for t in sopa(["script", "style", "nav", "footer", "header", "aside", "form", "figure"]):
+        t.decompose()
+    for sel in ["article", "[itemprop=articleBody]", ".article-body", ".entry-content", ".post-content", ".content-text", "main"]:
+        for el in sopa.select(sel):
+            ps = [p.get_text(" ", strip=True) for p in el.find_all(["p", "li", "h2"])]
+            cands.append(" ".join(p for p in ps if len(p) > 30))
+    ps = [p.get_text(" ", strip=True) for p in sopa.find_all("p")]
+    cands.append(" ".join(p for p in ps if len(p) > 40))
+    melhor = max(cands, key=len) if cands else ""
+    corta_em = re.search(r"(Leia também|Leia mais|Veja também|Assine|Newsletter|Receba as notícias)", melhor)
+    if corta_em and corta_em.start() > 1500:
+        melhor = melhor[:corta_em.start()]
+    return re.sub(r"\s+", " ", melhor).strip()
+
+
 def texto_materia(url):
     try:
         r = requests.get(url, headers=UA, timeout=25)
         r.raise_for_status()
-        sopa = BeautifulSoup(r.text, "html.parser")
-        for t in sopa(["script", "style", "nav", "footer", "header", "aside", "form"]):
-            t.decompose()
-        ps = [p.get_text(" ", strip=True) for p in sopa.find_all("p")]
-        txt = " ".join(p for p in ps if len(p) > 40)
-        return re.sub(r"\s+", " ", txt)[:8000]
+        return extrair(r.text)[:12000]
     except Exception:
         return ""
 
 
+def link_google(gurl):
+    """Abre o link do Google Notícias e devolve o endereço real da matéria (ou vazio)."""
+    try:
+        m = re.search(r"/articles/([^?]+)", gurl or "")
+        if not m:
+            return ""
+        gid = m.group(1)
+        h = requests.get(f"https://news.google.com/articles/{gid}", headers=UA, timeout=20).text
+        sg = re.search(r'data-n-a-sg="([^"]+)"', h)
+        ts = re.search(r'data-n-a-ts="([^"]+)"', h)
+        if not (sg and ts):
+            return ""
+        req = [["Fbv4je", f'["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],'
+                f'"X","X",1,[1,1,1],1,1,null,0,0,null,0],"{gid}",{ts.group(1)},"{sg.group(1)}"]']]
+        r = requests.post("https://news.google.com/_/DotsSplashUi/data/batchexecute",
+                          headers={**UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+                          data="f.req=" + quote_plus(json.dumps([req])), timeout=20)
+        j = json.loads(r.text.split("\n\n")[1])[:-2]
+        url = json.loads(j[0][2])[1]
+        return url if url.startswith("http") else ""
+    except Exception:
+        return ""
+
+
+def preparar(c):
+    """Garante link real e texto completo da matéria para a IA escrever com conteúdo de verdade."""
+    if not c["direto"] and c.get("gnews"):
+        real = link_google(c["gnews"])
+        if real:
+            c["url"], c["direto"] = real, True
+    return texto_materia(c["url"]) if c["direto"] and c["url"] else ""
+
+
 # ---------------- IA ----------------
-def ia(sistema, usuario):
+ESCRITA_OK = [True]
+
+
+def ia(sistema, usuario, modelo=None):
+    modelo = modelo or MODELO
     for tentativa in range(3):
         r = requests.post(
             "https://api.openai.com/v1/chat/completions",
             headers={"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"},
-            json={"model": MODELO, "response_format": {"type": "json_object"},
+            json={"model": modelo, "response_format": {"type": "json_object"},
                   "messages": [{"role": "system", "content": sistema}, {"role": "user", "content": usuario}]},
             timeout=150,
         )
         if r.status_code == 429 or r.status_code >= 500:
             time.sleep(10 * (tentativa + 1))
             continue
+        if r.status_code in (400, 403, 404) and modelo != MODELO and "model" in r.text:
+            ESCRITA_OK[0] = False
+            return ia(sistema, usuario, MODELO)
         if r.status_code != 200:
             raise RuntimeError(f"OpenAI {r.status_code}: {r.text[:300]}")
         return json.loads(r.json()["choices"][0]["message"]["content"])
@@ -234,17 +302,25 @@ def triagem(candidatos, recentes):
 
 
 MODELO_DOC = {
-    "titulo": "até 14 palavras, jornalístico", "resumo": "1 a 2 frases, até 35 palavras",
-    "fatos": ["3 a 6 frases curtas com fatos e números que estão na fonte"],
-    "numeros": [{"valor": "só números da fonte, curto, ex: 205.079 ou +7% ou R$ 5,05", "rotulo": "até 9 palavras"}],
+    "titulo": "até 14 palavras, jornalístico, com o fato principal", "resumo": "2 frases, até 45 palavras, com o principal número ou nome",
+    "explicacao": ["3 a 4 parágrafos curtos (cada um 30 a 55 palavras) explicando a notícia de forma didática, na ordem: o que aconteceu "
+                   "(com números, nomes e datas da matéria); por que aconteceu (causas citadas na matéria); o que isso significa; "
+                   "o que vem agora. Use os detalhes concretos da matéria, nada genérico"],
+    "fatos": ["5 a 10 frases curtas, cada uma com um fato concreto da matéria (número, nome, data, valor, percentual)"],
+    "detalhes": ["4 a 7 pontos de detalhe da matéria que um leitor curioso quer saber: quem, quanto, quando, onde, como, comparação com antes, contexto citado"],
+    "declaracoes": [{"quem": "nome e cargo de quem falou, como está na matéria", "oque": "paráfrase curta (até 25 palavras) do que disse"}],
+    "cronologia": [{"quando": "data ou momento citado", "oque": "o que aconteceu, até 15 palavras"}],
+    "numeros": [{"valor": "só números da fonte, curto, ex: 205.079 ou +7% ou R$ 5,05", "rotulo": "até 10 palavras explicando o número"}],
     "comparativo": [{"item": "ex: Selic", "antes": "valor anterior da fonte", "depois": "valor novo da fonte"}],
     "destaque": "o número principal, curto, ou vazio",
-    "porQueImporta": "até 40 palavras: por que isso importa para quem investe ou opera",
-    "impactoMercado": "até 40 palavras: o que pode mudar para o mercado e para o investidor, sem prever preço",
-    "entenda": "até 40 palavras: conceito educativo para iniciante ligado à notícia (ex: o que é o Ibovespa, o que são juros futuros)",
-    "observar": "até 35 palavras: o que acompanhar a seguir, em linguagem condicional",
+    "porQueImporta": "45 a 65 palavras: por que isso importa para quem investe ou opera, ligando aos fatos da matéria",
+    "impactoMercado": "45 a 65 palavras: o que pode mudar para o mercado e para o investidor (setores, ativos, juros, dólar citados), sem prever preço",
+    "entenda": "45 a 65 palavras: explique para iniciante o conceito central da notícia (ex: o que é o Ibovespa, juros futuros, recuperação judicial, circuit breaker)",
+    "glossario": [{"termo": "termo técnico da matéria", "significado": "até 20 palavras, simples"}],
+    "observar": "35 a 55 palavras: próximos eventos, datas e dados citados para acompanhar, em linguagem condicional",
+    "pergunta": "pergunta curta para engajar os seguidores nos comentários, ligada à notícia",
     "publico": ["da lista"],
-    "angulo": "até 35 palavras: como a notícia vira conteúdo que leva a pessoa a querer entender o mercado e conhecer a faculdade, sem prometer ganhos",
+    "angulo": "até 40 palavras: como a notícia vira conteúdo que leva a pessoa a querer entender o mercado e conhecer a faculdade, sem prometer ganhos",
     "gancho": "título de capa até 9 palavras com 1 a 3 palavras-chave entre *asteriscos*",
     "ideias": ["3 títulos curtos de posts diferentes sobre a notícia"],
     "formatos": ["entre Carrossel, Reels, Stories"],
@@ -255,14 +331,18 @@ MODELO_DOC = {
 
 
 def escrever(c, texto):
-    sistema = (f"Você escreve fichas de notícia para virar carrossel de Instagram. {PERFIL}\n{REGRAS}\n"
+    sistema = (f"Você é um jornalista de mercado financeiro que escreve fichas completas de notícia para virar carrossel "
+               f"educativo de Instagram. {PERFIL}\n{REGRAS}\n"
+               "Seja ESPECÍFICO e COMPLETO: aproveite ao máximo o texto da matéria (nomes, cargos, empresas, valores, "
+               "percentuais, datas, causas, comparações, próximos passos). Nada de frase genérica que serviria para "
+               "qualquer notícia. Se o texto for curto, escreva menos, mas nunca invente.\n"
                f"Categorias permitidas: {', '.join(CATEGORIAS)}. Públicos permitidos: {', '.join(PUBLICOS)}. "
-               "Os campos 'numeros', 'comparativo' e 'destaque' só levam números que estão no texto; deixe a lista "
-               "vazia se não houver (comparativo só quando o texto traz o valor anterior e o novo). "
+               "Os campos 'numeros', 'comparativo', 'destaque', 'declaracoes' e 'cronologia' só levam o que está no texto; "
+               "deixe a lista vazia se não houver (comparativo só quando o texto traz o valor anterior e o novo). "
                "Responda em JSON exatamente com estas chaves: " + json.dumps(MODELO_DOC, ensure_ascii=False))
     usuario = (f"Veículo: {c['fonte']}\nTítulo: {c['titulo']}\nResumo do feed: {c['resumo']}\n"
                f"Texto da matéria: {texto or '(indisponível: use só o título e o resumo, com no máximo 3 fatos e sem números que não estejam neles)'}")
-    return ia(sistema, usuario)
+    return ia(sistema, usuario, MODELO_ESCRITA)
 
 
 def atualizar(doc, c, texto):
@@ -283,19 +363,28 @@ def validar(d, esc, coleta):
     c = esc["c"]
     if not d or d.get("suficiente") is False:
         return None
-    fatos = lista_str(d.get("fatos"), 6)
+    fatos = lista_str(d.get("fatos"), 10)
     if len(fatos) < 2:
         return None
     fonte = c["fonte"] if c["direto"] else (c["fonte"] or d.get("fonte") or "")
     doc = {
-        "titulo": corta(d.get("titulo") or c["titulo"], 16), "resumo": corta(d.get("resumo"), 40), "fatos": fatos,
+        "titulo": corta(d.get("titulo") or c["titulo"], 16), "resumo": corta(d.get("resumo"), 50), "fatos": fatos,
+        "explicacao": [corta(x, 70) for x in lista_str(d.get("explicacao"), 4)],
+        "detalhes": [corta(x, 35) for x in lista_str(d.get("detalhes"), 7)],
+        "declaracoes": [{"quem": corta(x.get("quem"), 10), "oque": corta(x.get("oque"), 30)}
+                        for x in (d.get("declaracoes") or []) if isinstance(x, dict) and x.get("quem") and x.get("oque")][:3],
+        "cronologia": [{"quando": corta(x.get("quando"), 6), "oque": corta(x.get("oque"), 18)}
+                       for x in (d.get("cronologia") or []) if isinstance(x, dict) and x.get("quando") and x.get("oque")][:5],
+        "glossario": [{"termo": corta(x.get("termo"), 5), "significado": corta(x.get("significado"), 24)}
+                      for x in (d.get("glossario") or []) if isinstance(x, dict) and x.get("termo") and x.get("significado")][:3],
+        "pergunta": corta(d.get("pergunta"), 20), "tamanhoTexto": esc.get("tam", 0),
         "numeros": [{"valor": str(n.get("valor", "")), "rotulo": str(n.get("rotulo", ""))}
-                    for n in (d.get("numeros") or []) if isinstance(n, dict) and n.get("valor")][:5],
+                    for n in (d.get("numeros") or []) if isinstance(n, dict) and n.get("valor")][:6],
         "comparativo": [{"item": str(n.get("item", "")), "antes": str(n.get("antes", "")), "depois": str(n.get("depois", ""))}
                         for n in (d.get("comparativo") or []) if isinstance(n, dict) and n.get("antes") and n.get("depois")][:4],
         "destaque": corta(d.get("destaque"), 3),
-        "porQueImporta": corta(d.get("porQueImporta"), 45), "impactoMercado": corta(d.get("impactoMercado"), 45),
-        "entenda": corta(d.get("entenda"), 45), "observar": corta(d.get("observar"), 40),
+        "porQueImporta": corta(d.get("porQueImporta"), 70), "impactoMercado": corta(d.get("impactoMercado"), 70),
+        "entenda": corta(d.get("entenda"), 70), "observar": corta(d.get("observar"), 60),
         "publico": [p for p in (d.get("publico") or []) if p in PUBLICOS] or ["Investidores"],
         "angulo": corta(d.get("angulo"), 40), "gancho": corta(d.get("gancho"), 10),
         "ideias": lista_str(d.get("ideias"), 3),
@@ -537,7 +626,7 @@ def main():
     meta = ler_json(ARQ_META, {})
     fontes = ler_json(ARQ_FONTES, {})
     m = meta.get("coleta", {})
-    falhas, novas, atualizadas, status, msg = [], 0, 0, "ok", ""
+    falhas, novas, atualizadas, status, msg, completos = [], 0, 0, "ok", "", 0
 
     try:
         meta["placar"] = placar(coleta, meta.get("placar"), falhas)
@@ -564,8 +653,11 @@ def main():
         nn = max([int(n["id"].rsplit("-", 1)[1]) for n in noticias if re.fullmatch(rf"{hoje}-\d+", n["id"])] or [0])
         textos = {}
         with ThreadPoolExecutor(6) as ex:
-            for esc, txt in zip(escolhidas, ex.map(lambda e: texto_materia(e["c"]["url"]) if e["c"]["direto"] and e["c"]["url"] else "", escolhidas)):
+            for esc, txt in zip(escolhidas, ex.map(lambda e: preparar(e["c"]), escolhidas)):
                 textos[id(esc)] = txt
+                esc["tam"] = len(txt)
+        completos = sum(1 for e in escolhidas if e.get("tam", 0) > 800)
+        print("textos completos:", completos, "de", len(escolhidas))
 
         def trabalhar(esc):
             txt = textos.get(id(esc), "")
@@ -627,7 +719,8 @@ def main():
 
     hist = [iso(coleta)] + [h for h in m.get("historico", []) if h != iso(coleta)]
     meta["coleta"] = {"ultimaColeta": iso(coleta), "novas": novas, "atualizadas": atualizadas, "status": status,
-                      "mensagem": msg, "falhas": falhas[:15], "manual": MANUAL, "historico": hist[:12], "modelo": MODELO}
+                      "mensagem": msg, "falhas": falhas[:15], "manual": MANUAL, "historico": hist[:12], "modelo": MODELO,
+                      "modeloEscrita": MODELO_ESCRITA if ESCRITA_OK[0] else MODELO, "textosCompletos": completos}
     print(f"{status}: {msg}")
     limite = (coleta - timedelta(days=DIAS_GUARDAR)).strftime("%Y-%m-%d")
     noticias = [n for n in noticias if str(n.get("data", hoje)) >= limite

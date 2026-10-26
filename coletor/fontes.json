@@ -1,21 +1,110 @@
 {
   "_comentario": "Fontes do Radar Trader. 'feeds' são RSS lidos direto. 'buscas' viram buscas no Google Notícias (últimas 24h), para os sites que bloqueiam leitura direta. Pode adicionar ou tirar à vontade.",
   "feeds": [
-    {"nome": "Money Times", "url": "https://www.moneytimes.com.br/mercados/feed/", "reserva": "https://www.moneytimes.com.br/feed/"},
-    {"nome": "Bora Investir (B3)", "url": "https://borainvestir.b3.com.br/feed/"},
-    {"nome": "Agência Brasil Economia", "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml"},
-    {"nome": "InfoMoney", "url": "https://www.infomoney.com.br/feed/"},
-    {"nome": "Exame", "url": "https://exame.com/feed/"},
-    {"nome": "Bloomberg Línea", "url": "https://www.bloomberglinea.com.br/arc/outboundfeeds/rss/?outputType=xml"},
-    {"nome": "BP Money", "url": "https://bpmoney.com.br/feed/"},
-    {"nome": "Acionista", "url": "https://acionista.com.br/feed/"},
-    {"nome": "Seu Dinheiro", "url": "https://www.seudinheiro.com/feed/"}
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercados/feed/",
+      "reserva": "https://www.moneytimes.com.br/feed/"
+    },
+    {
+      "nome": "Bora Investir (B3)",
+      "url": "https://borainvestir.b3.com.br/feed/"
+    },
+    {
+      "nome": "Agência Brasil Economia",
+      "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/feed/"
+    },
+    {
+      "nome": "Exame",
+      "url": "https://exame.com/feed/"
+    },
+    {
+      "nome": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com.br/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "nome": "BP Money",
+      "url": "https://bpmoney.com.br/feed/"
+    },
+    {
+      "nome": "Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/feed/"
+    },
+    {
+      "nome": "G1 Economia",
+      "url": "https://g1.globo.com/rss/g1/economia/"
+    },
+    {
+      "nome": "Valor Econômico",
+      "url": "https://valor.globo.com/rss/valor"
+    },
+    {
+      "nome": "Estadão Economia",
+      "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/"
+    },
+    {
+      "nome": "E-Investidor",
+      "url": "https://einvestidor.estadao.com.br/feed/"
+    },
+    {
+      "nome": "Exame Invest",
+      "url": "https://exame.com/invest/feed/"
+    },
+    {
+      "nome": "InvestNews",
+      "url": "https://investnews.com.br/feed/"
+    },
+    {
+      "nome": "Suno Notícias",
+      "url": "https://www.suno.com.br/noticias/feed/"
+    },
+    {
+      "nome": "Brazil Journal",
+      "url": "https://braziljournal.com/feed/"
+    },
+    {
+      "nome": "Times Brasil",
+      "url": "https://timesbrasil.com.br/feed/"
+    },
+    {
+      "nome": "Monitor Mercantil",
+      "url": "https://monitormercantil.com.br/feed/"
+    },
+    {
+      "nome": "Livecoins (cripto)",
+      "url": "https://livecoins.com.br/feed/"
+    },
+    {
+      "nome": "Folha Mercado",
+      "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml"
+    }
   ],
   "buscas": [
-    "Ibovespa fechamento", "dólar hoje real", "Copom Selic", "Boletim Focus", "IPCA inflação IBGE",
-    "juros futuros DI", "B3 bolsa", "Banco Central Galípolo", "Fed juros Powell", "petróleo Brent",
-    "Valor Econômico mercado", "Folha mercado bolsa", "G1 economia mercado", "Reuters Brasil mercado", "CNN Brasil economia", "E-Investidor Estadão",
-    "CVM regulação", "Tesouro Direto", "dividendos ações", "fundos imobiliários FIIs", "bitcoin ETF"
+    "Ibovespa fechamento",
+    "dólar hoje real",
+    "Copom Selic",
+    "Boletim Focus",
+    "IPCA inflação IBGE",
+    "juros futuros DI",
+    "B3 bolsa",
+    "Banco Central Galípolo",
+    "Fed juros Powell",
+    "petróleo Brent",
+    "Reuters Brasil mercado",
+    "CNN Brasil economia",
+    "CVM regulação",
+    "Tesouro Direto",
+    "dividendos ações",
+    "fundos imobiliários FIIs",
+    "bitcoin ETF",
+    "Reuters Brasil economia",
+    "CNN Brasil mercado",
+    "UOL economia bolsa",
+    "balanço trimestral resultado lucro"
   ],
   "polymarket": [
     "https://gamma-api.polymarket.com/events?closed=false&tag_slug=economy&order=volume24hr&ascending=false&limit=15",

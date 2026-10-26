@@ -329,6 +329,7 @@ details.ficha .cmpt td{padding:3px 10px 3px 0;border-bottom:1px solid var(--line
 .sl .ps>div{display:flex;flex-direction:column;gap:6px;min-width:0}
 .sl .ps b{font-size:calc(38px * var(--k) * var(--t));color:var(--s-txt);line-height:1.15}
 .sl .ps>div span{font-size:calc(30px * var(--k) * var(--t));color:var(--s-sub);line-height:1.35}
+.sl .ps>div span.so{font-size:calc(34px * var(--k) * var(--t));color:var(--s-txt)}
 /* encaixe 2.0: tudo encolhe junto com o texto (--t) e nada atravessa a margem */
 .sl .main,.sl .main *{overflow-wrap:break-word;hyphens:manual}
 .sl .main>*{max-width:100%}
@@ -578,13 +579,16 @@ const PALETAS={
 };
 const PAPEIS={
   capa:{nome:"Capa",arq:"capa",ia:"título forte e curioso, sem sensacionalismo (até 11 palavras, 1 ou 2 palavras-chave entre *asteriscos*); texto = linha de apoio de até 16 palavras; rotulo = assunto em até 2 palavras"},
-  aconteceu:{nome:"O que aconteceu",arq:"o-que-aconteceu",ia:"o fato principal, objetivo e confirmado; titulo até 8 palavras; texto até 40 palavras; natureza fato"},
+  aconteceu:{nome:"O que aconteceu",arq:"o-que-aconteceu",ia:"o fato principal, objetivo e confirmado; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza fato"},
   numeros:{nome:"Fatos e números",arq:"numeros",ia:"2 a 4 números do material em 'numeros' [{valor, rotulo}] (valor curto, ex. '209.067'; rotulo até 9 palavras); titulo até 7 palavras; texto vazio ou 1 frase; natureza fato"},
-  importa:{nome:"Por que importa",arq:"por-que-importa",ia:"por que essa notícia importa para quem investe ou opera; titulo até 8 palavras; texto até 40 palavras; natureza analise"},
-  impacto:{nome:"Impacto no mercado",arq:"impacto",ia:"o que pode mudar para o mercado e para o investidor, sem prever preço; titulo até 8 palavras; texto até 40 palavras; natureza analise"},
-  contexto:{nome:"Entenda",arq:"contexto",ia:"conceito educativo para iniciante ligado à notícia (ex.: o que é o Ibovespa, o que são juros futuros); titulo até 8 palavras; texto até 42 palavras; natureza contexto"},
-  cenarios:{nome:"O que observar",arq:"o-que-observar",ia:"o que acompanhar a seguir, com linguagem condicional; titulo até 8 palavras; texto até 40 palavras; natureza cenario"},
+  importa:{nome:"Por que importa",arq:"por-que-importa",ia:"por que essa notícia importa para quem investe ou opera; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza analise"},
+  impacto:{nome:"Impacto no mercado",arq:"impacto",ia:"o que pode mudar para o mercado e para o investidor, sem prever preço; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza analise"},
+  contexto:{nome:"Entenda",arq:"contexto",ia:"conceito educativo para iniciante ligado à notícia (ex.: o que é o Ibovespa, o que são juros futuros); titulo até 8 palavras; texto de 35 a 55 palavras; natureza contexto"},
+  cenarios:{nome:"O que observar",arq:"o-que-observar",ia:"o que acompanhar a seguir, com linguagem condicional; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza cenario"},
   comparativo:{nome:"Antes × depois",arq:"antes-depois",ia:"tabela antes × depois em 'linhas' [{item, antes, depois}] (2 a 4 linhas, só valores do material; se o material não trouxer valor anterior e novo, deixe 'linhas' vazio e use 'numeros' com 2 a 3 números e titulo 'Em números'); titulo até 6 palavras; texto vazio; natureza fato"},
+  detalhes:{nome:"Os detalhes",arq:"detalhes",ia:"3 a 4 detalhes concretos da notícia em 'passos' [{t: vazio, d: até 22 palavras com número, nome ou data}] (quem, quanto, quando, como); titulo até 6 palavras; texto vazio; natureza fato"},
+  declaracoes:{nome:"O que disseram",arq:"declaracoes",ia:"até 3 declarações da notícia em 'passos' [{t: nome e cargo de quem falou, d: paráfrase até 25 palavras}], só quem está no material; titulo até 6 palavras; texto vazio; natureza fato"},
+  cronologia:{nome:"Linha do tempo",arq:"linha-do-tempo",ia:"2 a 4 marcos em ordem em 'passos' [{t: data ou momento, d: o que aconteceu até 15 palavras}], só do material; titulo até 6 palavras; texto vazio; natureza fato"},
   passos:{nome:"Passo a passo",arq:"passos",ia:"3 passos educativos em 'passos' [{t: até 4 palavras, d: até 14 palavras}] sobre como quem opera ou investe pode acompanhar esse tipo de notícia com método (sem recomendar compra ou venda, sem prometer ganho); titulo até 7 palavras com 1 palavra entre *asteriscos*; texto vazio; natureza contexto"},
   conclusao:{nome:"Conclusão",arq:"conclusao",ia:"fechamento que SEMPRE retoma a notícia: titulo = frase de conclusão sobre a notícia (até 9 palavras, 1 palavra-chave entre *asteriscos*); texto (até 40 palavras) = 1 frase curta com o ponto principal da notícia + convite para tocar em Seguir e acompanhar o perfil como um portal de notícias do mercado. NÃO mencione link da bio nem comente TRADER: isso vai no slide seguinte, da faculdade."},
   marca:{nome:"Slide da faculdade",arq:"faculdade",ia:""}
@@ -674,6 +678,12 @@ function fichaHTML(n){
   const L=a=>Array.isArray(a)&&a.length?`<ul>${a.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:"";
   const corpo=bl("Fatos",L(n.fatos))
     +bl("Antes × depois",Array.isArray(n.comparativo)&&n.comparativo.length?`<table class="cmpt">${n.comparativo.map(r=>`<tr><td>${esc(r.item)}</td><td>${esc(r.antes)}</td><td>→ <b>${esc(r.depois)}</b></td></tr>`).join("")}</table>`:"")
+    +bl("Explicação",(n.explicacao||[]).map(x=>`<p style="margin:0 0 6px">${esc(x)}</p>`).join(""))
+    +bl("Detalhes",L(n.detalhes))
+    +bl("O que disseram",(n.declaracoes||[]).length?`<ul>${n.declaracoes.map(x=>`<li><b>${esc(x.quem)}:</b> ${esc(x.oque)}</li>`).join("")}</ul>`:"")
+    +bl("Linha do tempo",(n.cronologia||[]).length?`<ul>${n.cronologia.map(x=>`<li><b>${esc(x.quando)}:</b> ${esc(x.oque)}</li>`).join("")}</ul>`:"")
+    +bl("Glossário",(n.glossario||[]).length?`<ul>${n.glossario.map(x=>`<li><b>${esc(x.termo)}:</b> ${esc(x.significado)}</li>`).join("")}</ul>`:"")
+    +bl("Pergunta para os comentários",esc(n.pergunta||""))
     +bl("Por que importa",esc(n.porQueImporta||""))+bl("Impacto no mercado",esc(n.impactoMercado||""))+bl("Entenda",esc(n.entenda||""))
     +bl("O que observar",esc(n.observar||""))+bl("Ângulo para o perfil",esc(n.angulo||""))+bl("Ideias de post",L(n.ideias))
     +bl("Para quem e formato",esc([...(n.publico||[]),...(n.formatos||[])].join(" · ")));
@@ -871,7 +881,16 @@ function icon3d(name,p){const I=ICONES[name]||ICONES.grafico;const l=p.a2,m=p.a,
 const ICO_MAP={grafico:"grafico",seta:"grafico",queda:"queda",moeda:"dinheiro",raio:"alerta",escudo:"escudo",alvo:"alvo",foguete:"foguete",globo:"lupa",relogio:"relogio",cadeado:"escudo"};
 function icoDe(d,s){const P={numeros:"grafico",importa:"alvo",impacto:/^-|queda|▼/i.test(d.noticia?.destaque||"")?"queda":"grafico",contexto:"lupa",cenarios:"relogio",comparativo:"calendario",passos:"foguete"};return P[s.papel]||ICO_MAP[d.noticia?.icone]||"grafico";}
 function cmpHTML(rows){return `<div class="cmp"><div class="ch"><span></span><span>Antes</span><span>Depois</span></div>${rows.slice(0,4).map(r=>`<div class="cr"><span>${esc(r.item)}</span><span>${esc(r.antes)}</span><b>${esc(r.depois)}</b></div>`).join("")}</div>`;}
-function passosHTML(list){return `<div class="pss">${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div><b>${esc(p.t)}</b>${p.d?`<span>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
+function passosHTML(list){return `<div class="pss">${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div>${p.t?`<b>${esc(p.t)}</b>`:""}${p.d?`<span${p.t?"":` class="so"`}>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
+const LISTA=new Set(["passos","detalhes","declaracoes","cronologia"]);
+function planoDe(d,n){const nw=d?.noticia||{};
+  const tem={detalhes:(nw.detalhes||[]).length>=2,numeros:!nw.numeros||(nw.numeros||[]).length>=2,comparativo:(nw.comparativo||[]).length>0,
+    declaracoes:(nw.declaracoes||[]).length>0,cronologia:(nw.cronologia||[]).length>=2};
+  const prio=["aconteceu","detalhes","importa","numeros","impacto","declaracoes","comparativo","contexto","cronologia","cenarios","passos"].filter(p=>tem[p]!==false);
+  const ORD=["aconteceu","detalhes","numeros","comparativo","cronologia","declaracoes","importa","impacto","contexto","cenarios","passos"];
+  const mid=prio.slice(0,Math.max(1,n-2));return ["capa",...ORD.filter(p=>mid.includes(p)),"conclusao"];}
+function proximoEstilo(){const ks=Object.keys(KITS);const i=((prefs.kitN??-1)+1)%ks.length;prefs.kitN=i;savePrefs();
+  const K=KITS[ks[i]];const e=estiloDe({estilo:prefs.estilo||{}});const o={...e,...K,el:{...e.el,...(K.el||{})}};delete o.nome;delete o.d;return o;}
 function tickHTML(d){const it=(d.placar||[]).slice(0,4);if(!it.length)return "";
   return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"} ${esc(String(x.var).replace(/^[+-]/,""))}</i>`:""}</span>`}).join("")}</div>`;}
 const hand=()=>`<svg class="hand" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"><path d="M44 18c0-7 12-7 12 0v38l4-2c0-7 12-7 12 0v4c0-7 12-7 12 0v4c0-7 12-7 12 0v26c0 16-12 28-28 28H62c-10 0-18-6-22-14L24 74c-4-6 4-12 10-8l10 10V18z" fill="#fff" stroke="#111" stroke-width="5" stroke-linejoin="round"/></svg>`;
@@ -1015,7 +1034,7 @@ function slideHTML(d,s,i,opt={}){
     const nl=s.numeros||[];
     const nums=isN?(nl.length?numsHTML(hasImg?nl.slice(0,2):nl,!hasImg&&!["card","lateral"].includes(es.conteudo)):""):(!hasImg&&nl.length?numsHTML(nl.slice(0,3),false):"");
     const tx0=s.texto?`<div class="txt">${esc(s.texto)}</div>`:"";
-    const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):s.papel==="passos"&&s.passos?.length?passosHTML(s.passos):"";
+    const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):LISTA.has(s.papel)&&s.passos?.length?passosHTML(s.passos):"";
     const txt=(isN?nums+tx0:tx0)+extra;
     const numsB=isN?"":nums;
     if(es.conteudo==="titulo"){
@@ -1056,15 +1075,15 @@ function autofit(el){
 /* ================= EDITOR ================= */
 function newDeck(news){
   return {id:db?db.collection("carrosseis").doc().id:"local"+Date.now(),noticiaId:news.id,
-    noticia:{titulo:news.titulo,resumo:news.resumo,fonte:news.fonte,url:news.url||"",urlBusca:!!news.urlBusca,tipo:news.tipo||"",probs:news.probs||[],prazo:news.prazo||"",publicadoEm:nTime(news),categoria:news.categoria||"",fatos:news.fatos||[],destaque:news.destaque||"",gancho:news.gancho||"",numeros:news.numeros||[],comparativo:news.comparativo||[],porQueImporta:news.porQueImporta||"",impactoMercado:news.impactoMercado||"",entenda:news.entenda||"",observar:news.observar||"",angulo:news.angulo||"",ideias:news.ideias||[],icone:news.icone||""},
+    noticia:{titulo:news.titulo,resumo:news.resumo,fonte:news.fonte,url:news.url||"",urlBusca:!!news.urlBusca,tipo:news.tipo||"",probs:news.probs||[],prazo:news.prazo||"",publicadoEm:nTime(news),categoria:news.categoria||"",fatos:news.fatos||[],destaque:news.destaque||"",gancho:news.gancho||"",numeros:news.numeros||[],comparativo:news.comparativo||[],porQueImporta:news.porQueImporta||"",impactoMercado:news.impactoMercado||"",entenda:news.entenda||"",observar:news.observar||"",angulo:news.angulo||"",ideias:news.ideias||[],icone:news.icone||"",explicacao:news.explicacao||[],detalhes:news.detalhes||[],declaracoes:news.declaracoes||[],cronologia:news.cronologia||[],glossario:news.glossario||[],pergunta:news.pergunta||""},
     handle:atH(prefs.handle)||atH(perfisOrd()[0]?.handle)||"@seuperfil",formato:prefs.formato,paleta:brandOf(prefs.handle).paleta||prefs.paleta,slides:[],legenda:"",imagens:[],
-    marca:{logoPos:"esq",logoTam:1,fotoCapa:false},estilo:JSON.parse(JSON.stringify(brandOf(prefs.handle).estilo||prefs.estilo||ESTILO0)),criadoEm:new Date().toISOString(),placar:(PLACAR?.itens||[]).slice(0,8)};
+    marca:{logoPos:"esq",logoTam:1,fotoCapa:false},estilo:proximoEstilo(),criadoEm:new Date().toISOString(),placar:(PLACAR?.itens||[]).slice(0,8)};
 }
 function criar(id){
   const n=NEWS.find(x=>x.id===id);if(!n)return;
   deck=newDeck(n);cur=0;prefs.draft=deck.id;savePrefs();
   deck.slides=localSlides(deck,prefs.n);deck.legenda=localLegenda(deck);
-  showTab("editor");renderEditor();gerar();
+  showTab("editor");renderEditor();gerar().then(()=>{const k=kitDe(estiloDe(deck));if(k&&!$("genStatus").classList.contains("err"))setStatus("genStatus",$("genStatus").textContent+` Modelo: ${KITS[k].nome} (cada carrossel novo vem num modelo diferente; troque acima se quiser).`,"ok");});
 }
 function showTab(k){
   document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===k)));
@@ -1118,7 +1137,7 @@ function fillEditor(){
   $("e-tit").value=s.titulo||"";$("e-txt").value=s.texto||"";
   $("f-nums").hidden=capa||last;
   const lblN=$("f-nums").querySelector("label");
-  if(s.papel==="comparativo"&&(s.linhas||[]).length||s.papel==="passos"){lblN.textContent=s.papel==="passos"?"Passos (título; descrição)":"Antes × depois (item; antes; depois)";$("e-nums").value=s.papel==="passos"?(s.passos||[]).map(r=>`${r.t}; ${r.d}`).join("\n"):(s.linhas||[]).map(r=>`${r.item}; ${r.antes}; ${r.depois}`).join("\n");}
+  if(s.papel==="comparativo"&&(s.linhas||[]).length||LISTA.has(s.papel)){lblN.textContent=LISTA.has(s.papel)?"Passos (título; descrição)":"Antes × depois (item; antes; depois)";$("e-nums").value=LISTA.has(s.papel)?(s.passos||[]).map(r=>`${r.t}; ${r.d}`).join("\n"):(s.linhas||[]).map(r=>`${r.item}; ${r.antes}; ${r.depois}`).join("\n");}
   else{lblN.textContent="Números (valor; descrição)";$("e-nums").value=(s.numeros||[]).map(r=>`${r.valor}; ${r.rotulo}`).join("\n");}
   $("f-fonte").hidden=capa||last;$("e-fonte").value=s.fonte||"";
   $("f-img").hidden=last;
@@ -1139,7 +1158,7 @@ function onEdit(){
   const s=deck.slides[cur];if(!s)return;
   const rows=$("e-nums").value.split("\n").map(l=>l.split(";")).filter(r=>r[0]&&r[0].trim());
   Object.assign(s,{natureza:$("e-nat").value,rotulo:$("e-rot").value,titulo:$("e-tit").value,texto:$("e-txt").value,fonte:$("e-fonte").value});
-  if(s.papel==="passos")s.passos=rows.map(r=>({t:r[0].trim(),d:(r.slice(1).join(";")||"").trim()}));
+  if(LISTA.has(s.papel))s.passos=rows.map(r=>({t:r[0].trim(),d:(r.slice(1).join(";")||"").trim()}));
   else if(s.papel==="comparativo"&&(s.linhas||[]).length)s.linhas=rows.map(r=>({item:r[0].trim(),antes:(r[1]||"").trim(),depois:(r.slice(2).join(";")||"").trim()}));
   else s.numeros=rows.map(r=>({valor:r[0].trim(),rotulo:(r.slice(1).join(";")||"").trim()}));
   changed();
@@ -1154,13 +1173,16 @@ function localSlide(d,papel){
   const base={papel,natureza:"fato",rotulo:"",titulo:"",texto:"",numeros:[],fonte:nw.fonte};
   switch(papel){
     case "capa":return {...base,rotulo:nw.categoria,titulo:nw.gancho||nw.titulo,texto:nw.gancho?nw.titulo:"",fonte:""};
-    case "aconteceu":return {...base,titulo:plain(nw.titulo),texto:nw.resumo,numeros:d.slides&&d.slides.length<=3?nums.slice(0,2):[]};
+    case "aconteceu":return {...base,titulo:plain(nw.titulo),texto:(nw.explicacao||[])[0]||nw.resumo,numeros:d.slides&&d.slides.length<=3?nums.slice(0,2):[]};
     case "numeros":if(nw.tipo==="sinal"&&nw.probs?.length)return {...base,titulo:"O que os apostadores precificam",numeros:nw.probs.slice(0,4).map(x=>({valor:String(x.prob).replace(".",",")+"%",rotulo:x.opcao})),texto:"Probabilidade de mercado de previsões, não é pesquisa nem certeza."};
       return {...base,titulo:"Os números do dia",numeros:nums.length?nums.slice(0,4):(nw.destaque?[{valor:nw.destaque,rotulo:plain(nw.titulo).slice(0,60)}]:[]),texto:nums.length?"":nw.resumo};
-    case "importa":return {...base,natureza:"analise",titulo:"Por que isso importa",texto:nw.porQueImporta||"Notícias assim mudam o humor do mercado e o preço dos ativos no curto prazo. Para quem investe, o ponto é entender o movimento antes de reagir a ele.",fonte:""};
+    case "importa":return {...base,natureza:"analise",titulo:"Por que isso importa",texto:[nw.porQueImporta,(nw.explicacao||[])[2]].filter(Boolean).join(" ")||"Notícias assim mudam o humor do mercado e o preço dos ativos no curto prazo. Para quem investe, o ponto é entender o movimento antes de reagir a ele.",fonte:""};
     case "impacto":return {...base,natureza:"analise",titulo:"O que muda para o investidor",texto:nw.impactoMercado||"Movimentos fortes aumentam a volatilidade. Para quem opera, é hora de revisar o risco e esperar confirmação, não de entrar no impulso.",fonte:""};
     case "contexto":return {...base,natureza:"contexto",titulo:"Entenda o conceito",texto:nw.entenda||EDU[nw.categoria]||EDU._,fonte:""};
     case "cenarios":return {...base,natureza:"cenario",titulo:"O que observar a seguir",texto:nw.observar||"Os próximos dados e o comportamento do preço vão mostrar se o movimento se sustenta. Acompanhar com método evita conclusões apressadas.",fonte:""};
+    case "detalhes":return {...base,titulo:"Os *detalhes*",passos:(nw.detalhes||[]).slice(0,4).map(x=>({t:"",d:x}))};
+    case "declaracoes":return {...base,titulo:"O que *disseram*",passos:(nw.declaracoes||[]).slice(0,3).map(x=>({t:x.quem,d:x.oque}))};
+    case "cronologia":return {...base,titulo:"Linha do *tempo*",passos:(nw.cronologia||[]).slice(0,4).map(x=>({t:x.quando,d:x.oque}))};
     case "comparativo":return {...base,titulo:nw.comparativo?.length?"Antes *×* depois":"Em números",rotulo:nw.comparativo?.length?"":"Em números",linhas:(nw.comparativo||[]).slice(0,4),numeros:nw.comparativo?.length?[]:nums.slice(0,3)};
     case "passos":return {...base,natureza:"contexto",titulo:"Como acompanhar *com método*",passos:[{t:"Entenda o fato",d:"Leia a notícia na fonte e separe fato de opinião."},{t:"Veja o contexto",d:"Compare com juros, dólar e o humor do mercado no dia."},{t:"Tenha um plano",d:"Defina o risco antes de agir. Impulso não é estratégia."}],fonte:""};
     default:{const r=String(nw.resumo||"").split(/(?<=[.!?])\s/)[0];
@@ -1168,12 +1190,12 @@ function localSlide(d,papel){
   }
 }
 const conteudo=d=>(d?.slides||[]).filter(x=>x.papel!=="marca");
-const nConteudo=d=>conteudo(d).length;
+const nConteudo=d=>{const c=conteudo(d).length;return c>=3&&c<=10?c:prefs.n;};
 function withMarca(d,list){const old=(d.slides||[]).find(x=>x.papel==="marca");const out=list.filter(x=>x.papel!=="marca");if(estiloDe(d).marcaLay!=="off")out.push(old?{...old}:{papel:"marca",titulo:"",texto:""});return out;}
-function localSlides(d,n){return withMarca(d,PLANOS[n].map(p=>localSlide({...d,slides:{length:n}},p)));}
+function localSlides(d,n){return withMarca(d,planoDe(d,n).map(p=>localSlide({...d,slides:{length:n}},p)));}
 function localLegenda(d){
   const nw=d.noticia;
-  return `${plain(nw.gancho||nw.titulo)}\n\n${nw.resumo}\n\n${nw.porQueImporta?"Por que importa: "+nw.porQueImporta+"\n\n":""}${(nw.fatos||[]).slice(0,3).map(x=>"• "+x).join("\n")}${(nw.fatos||[]).length?"\n\n":""}Fonte: ${nw.fonte}${nw.url?" ("+nw.url+")":""}\n\nContinue acompanhando o ${d.handle} para mais notícias e conteúdos sobre o mercado financeiro.\n\nSe quiser conhecer mais sobre o mercado financeiro e o mundo do trader, clique no link da bio ou comente TRADER aqui embaixo.\n\nConteúdo informativo, não é recomendação de investimento.\n\n#mercadofinanceiro #ibovespa #trader #investimentos #bolsadevalores #economia`;
+  return `${plain(nw.gancho||nw.titulo)}\n\n${(nw.explicacao||[]).length?nw.explicacao.slice(0,3).join("\n\n"):nw.resumo}\n\n${(nw.detalhes||[]).length?nw.detalhes.slice(0,4).map(x=>"▪️ "+x).join("\n")+"\n\n":""}${nw.pergunta?nw.pergunta+"\n\n":""}${nw.porQueImporta?"Por que importa: "+nw.porQueImporta+"\n\n":""}${(nw.fatos||[]).slice(0,3).map(x=>"• "+x).join("\n")}${(nw.fatos||[]).length?"\n\n":""}Fonte: ${nw.fonte}${nw.url?" ("+nw.url+")":""}\n\nContinue acompanhando o ${d.handle} para mais notícias e conteúdos sobre o mercado financeiro.\n\nSe quiser conhecer mais sobre o mercado financeiro e o mundo do trader, clique no link da bio ou comente TRADER aqui embaixo.\n\nConteúdo informativo, não é recomendação de investimento.\n\n#mercadofinanceiro #ibovespa #trader #investimentos #bolsadevalores #economia`;
 }
 
 /* ---------- geração com IA ---------- */
@@ -1181,7 +1203,7 @@ function material(d){
   const nw=d.noticia;
   const imgs=d.imagens.filter(x=>x.analise).map((x,j)=>({imagem:j+1,descricao:x.analise.descricao,dados:x.analise.dados,confere:x.analise.confere}));
   return `NOTÍCIA (única fonte confiável deste carrossel):
-${JSON.stringify({titulo:nw.titulo,resumo:nw.resumo,fatos:nw.fatos||[],destaque:nw.destaque,fonte:nw.fonte,url:nw.url,publicadaEm:fmtDT(nw.publicadoEm),categoria:nw.categoria,numeros:nw.numeros,comparativo:nw.comparativo,porQueImporta:nw.porQueImporta,impactoMercado:nw.impactoMercado,entenda:nw.entenda,observar:nw.observar,angulo:nw.angulo,...(nw.tipo==="sinal"?{tipo:"sinal de mercado de previsões",probabilidades:nw.probs,encerra:nw.prazo}:{})})}
+${JSON.stringify({titulo:nw.titulo,resumo:nw.resumo,fatos:nw.fatos||[],destaque:nw.destaque,fonte:nw.fonte,url:nw.url,publicadaEm:fmtDT(nw.publicadoEm),categoria:nw.categoria,explicacao:nw.explicacao,detalhes:nw.detalhes,declaracoes:nw.declaracoes,cronologia:nw.cronologia,glossario:nw.glossario,numeros:nw.numeros,comparativo:nw.comparativo,porQueImporta:nw.porQueImporta,impactoMercado:nw.impactoMercado,entenda:nw.entenda,observar:nw.observar,angulo:nw.angulo,pergunta:nw.pergunta,...(nw.tipo==="sinal"?{tipo:"sinal de mercado de previsões",probabilidades:nw.probs,encerra:nw.prazo}:{})})}
 PLACAR DO ÚLTIMO FECHAMENTO (use só se tiver relação direta com a notícia): ${JSON.stringify(PLACAR||{})}
 ${imgs.length?`IMAGENS ENVIADAS PELO USUÁRIO (material complementar NÃO verificado; use um número delas só se for compatível com a notícia, e atribua a fonte como "print enviado"): ${JSON.stringify(imgs)}`:""}`;
 }
@@ -1195,12 +1217,12 @@ const REGRAS=`REGRAS:
 - Não repita a mesma informação em dois slides.
 - Se o material for um SINAL DE MERCADO DE PREVISÕES (Polymarket): apresente as probabilidades como "o que os apostadores estão precificando", nunca como pesquisa, previsão oficial ou certeza; explique que é um termômetro de expectativa; não incentive apostas nem indique a plataforma (ela é bloqueada no Brasil); nunca trate de eleições, candidatos ou política; no slide de números, use as probabilidades como números.`;
 function promptDeck(d,n,reaproveitar){
-  const plano=PLANOS[n],f=FORMATOS[d.formato];
+  const plano=planoDe(d,n),f=FORMATOS[d.formato];
   return `Você é editor de conteúdo de mercado financeiro para Instagram, em português do Brasil. Monte um carrossel de ${n} slides para o perfil ${d.handle}.
 ${material(d)}
 ${REGRAS}
 ${f.palavras<1?"- Formato quadrado: corte os textos em cerca de 20%.":""}
-Use os campos porQueImporta, impactoMercado, entenda e observar do material como base dos slides correspondentes, melhorando a redação.
+Use TODO o material: explicacao, detalhes, declaracoes, cronologia, numeros, porQueImporta, impactoMercado, entenda e observar são a base dos slides correspondentes. Cada slide precisa trazer informação concreta desta notícia (nome, número, data, causa, consequência); é proibido texto genérico que serviria para qualquer notícia. Na legenda, explique a notícia em 2 a 3 parágrafos com os dados reais e termine com a pergunta do material.
 ESTRUTURA (campo "papel" de cada slide, nesta ordem): ${JSON.stringify(plano)}
 ${plano.map(p=>`- ${p}: ${PAPEIS[p].ia}`).join("\n")}
 ${n===3?'- Com 3 slides, o slide "aconteceu" também traz até 2 números principais no campo "numeros".':""}
@@ -1223,7 +1245,7 @@ async function gerar(reaproveitar){
   ctl=new AbortController();setBusy(true,"Gerando o carrossel…<br>leva de 20 a 60 segundos");setStatus("genStatus","");
   try{
     const r=await sample.json(promptDeck(deck,n,reaproveitar?.slides),{signal:ctl.signal,cache:false});
-    const plano=PLANOS[n];if(!r||!Array.isArray(r.slides))throw{code:"invalid_json"};
+    const plano=planoDe(deck,n);if(!r||!Array.isArray(r.slides))throw{code:"invalid_json"};
     const keepImg=Object.fromEntries(deck.slides.filter(s=>s.img).map(s=>[s.papel,s.img]));
     deck.slides=withMarca(deck,plano.map((p,ix)=>{const x=r.slides.find(s=>s.papel===p)||r.slides[ix];const s=cleanSlide(x,p);if(keepImg[p])s.img=keepImg[p];return s;}));
     deck.legenda=String(r.legenda||"")+(Array.isArray(r.hashtags)&&r.hashtags.length?"\n\n"+r.hashtags.map(h=>"#"+String(h).replace(/^#/,"")).join(" "):"");
@@ -1237,7 +1259,7 @@ async function gerar(reaproveitar){
 }
 function afterGen(){$("legenda").value=deck.legenda||"";renderEditor();scheduleSave();invalidateExport();}
 function reorgLocal(old,n){
-  return withMarca(deck,PLANOS[n].map(p=>{const s=old.find(x=>x.papel===p);return s?JSON.parse(JSON.stringify(s)):localSlide({...deck,slides:{length:n}},p);}));
+  return withMarca(deck,planoDe(deck,n).map(p=>{const s=old.find(x=>x.papel===p);return s?JSON.parse(JSON.stringify(s)):localSlide({...deck,slides:{length:n}},p);}));
 }
 async function setCount(n){
   if(!deck||n===nConteudo(deck)||busyGen)return;prefs.n=n;savePrefs();
