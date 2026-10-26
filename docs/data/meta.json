@@ -1,16 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-26T09:01:19-03:00",
-  "novas": 22,
+  "ultimaColeta": "2026-10-26T10:16:32-03:00",
+  "novas": 21,
   "atualizadas": 1,
   "status": "ok",
-  "mensagem": "22 nova(s) e 1 atualizada(s): Impactos da vitória de Lula no mercado; Impacto no mercado após vitória de Lula; Eleições e mercados em movimento!.",
+  "mensagem": "21 nova(s) e 1 atualizada(s): Entenda o que é circuit breaker; Dólar dispara após eleições!; Expectativas de queda na Bolsa e dólar em alta.",
   "falhas": [
-   "Sem cotação confiável: Selic meta, IPCA 12 meses",
    "Acionista (HTTPError)"
   ],
   "manual": true,
   "historico": [
+   "2026-10-26T10:16:32-03:00",
    "2026-10-26T09:01:19-03:00",
    "2026-10-26T08:58:32-03:00",
    "2026-10-25T22:23:08-03:00",
@@ -21,8 +21,7 @@
    "2026-10-24T20:42:13-03:00",
    "2026-10-24T15:21:47-03:00",
    "2026-10-24T10:36:56-03:00",
-   "2026-10-23T21:00:20-03:00",
-   "2026-10-23T16:32:53-03:00"
+   "2026-10-23T21:00:20-03:00"
   ],
   "modelo": "gpt-4o-mini"
  },
@@ -38,25 +37,25 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 4,98",
-    "var": "+0,23%"
+    "var": "+0,28%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 5,57",
-    "var": "-0,22%"
+    "var": "-0,28%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,3 mil",
-    "var": "-0,19%"
+    "v": "US$ 80,1 mil",
+    "var": "-0,33%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.624",
-    "var": "-0,52%"
+    "var": "+0,00%"
    },
    {
     "k": "NDX",
@@ -67,24 +66,36 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 115,01",
-    "var": "-1,47%"
+    "v": "US$ 115,19",
+    "var": "-1,31%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.031,90",
-    "var": "+0,60%"
+    "v": "US$ 4.030,20",
+    "var": "+0,56%"
+   },
+   {
+    "k": "SELIC",
+    "nome": "Selic meta",
+    "v": "13,75%",
+    "var": ""
+   },
+   {
+    "k": "IPCA",
+    "nome": "IPCA 12 meses",
+    "v": "4,58%",
+    "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "seg 9h",
+  "obs": "Parcial do pregão",
+  "hora": "seg 10h",
   "data": "2026-10-26",
-  "atualizadoEm": "2026-10-26T09:01:19-03:00",
+  "atualizadoEm": "2026-10-26T10:16:32-03:00",
   "ibov": "205.083",
   "ibovVar": "+0,47%",
   "dolar": "R$ 4,98",
-  "dolarVar": "+0,23%",
-  "btc": "US$ 80,3 mil"
+  "dolarVar": "+0,28%",
+  "btc": "US$ 80,1 mil"
  }
 }

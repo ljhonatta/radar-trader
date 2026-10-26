@@ -1,5 +1,1108 @@
 [
  {
+  "titulo": "B3 aciona *circuit breaker* por queda forte",
+  "resumo": "A B3 suspendeu as negociações de diversos ativos por 30 minutos devido ao acionamento do *circuit breaker*, um mecanismo para quedas acentuadas do mercado.",
+  "fatos": [
+   "A B3 acionou o *circuit breaker* em resposta a uma queda acentuada.",
+   "As negociações de ativos à vista, renda fixa privada e opções estão suspensas por 30 minutos.",
+   "Os leilões das negociações serão retomados entre 10h30 e 10h35.",
+   "O *circuit breaker* foi criado em 1997 e já foi acionado 23 vezes."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "30 minutos",
+  "porQueImporta": "O acionamento do *circuit breaker* indica volatilidade intensa, alertando investidores sobre momentos de maior risco no mercado.",
+  "impactoMercado": "A suspensão temporária das negociações pode acentuar a cautela dos investidores e gerar efeitos nas decidões de compra e venda.",
+  "entenda": "O *circuit breaker* é um mecanismo que interrompe temporariamente as negociações para evitar perdas excessivas em momentos de forte volatilidade.",
+  "observar": "Acompanhe a reação do mercado após a reabertura das negociações e possíveis ações da B3.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o funcionamento do *circuit breaker* pode ajudar investidores a gerenciar riscos e tomar decisões mais informadas durante crises de mercado.",
+  "gancho": "Entenda o que é *circuit breaker*",
+  "ideias": [
+   "O que significa o acionamento do *circuit breaker*?",
+   "Como o *circuit breaker* influencia suas decisões?",
+   "Por que a B3 usa o *circuit breaker*?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/mercado/b3-aciona-circuit-breaker/",
+  "publicadoEm": "2026-10-26T10:13:33-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-43"
+ },
+ {
+  "titulo": "Dólar dispara 12% após reeleição de Lula",
+  "resumo": "O dólar à vista sobe 12,25%, alcançando R$ 5,605, devido a preocupações com a política fiscal após a reeleição de Lula.",
+  "fatos": [
+   "O dólar à vista opera com alta de 12,25%, cotado a R$ 5,605.",
+   "O dólar futuro para novembro cresce 12,78%, alcançando R$ 5,610.",
+   "Analistas indicam que o resultado eleitoral impactou a percepção de risco do mercado.",
+   "A vitória de Lula pode acarretar mudanças nas expectativas fiscais.",
+   "Mercado espera semana cautelosa com Ibovespa pressionado e juros futuros em alta."
+  ],
+  "numeros": [
+   {
+    "valor": "12,25%",
+    "rotulo": "alta do dólar à vista"
+   },
+   {
+    "valor": "R$ 5,605",
+    "rotulo": "cotação do dólar à vista"
+   },
+   {
+    "valor": "12,78%",
+    "rotulo": "alta do dólar futuro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "12,25%",
+  "porQueImporta": "Essa alta do dólar pode impactar o custo de importações e a inflação, afetando diretamente o poder de compra dos consumidores e a estratégia de investimento.",
+  "impactoMercado": "A reeleição pode gerar incertezas que afetam a estabilidade econômica, levando a um cenário de cautela no mercado.",
+  "entenda": "O dólar à vista é a cotação do dólar em transações realizadas no momento, enquanto o dólar futuro é um contrato que estabelece a compra ou venda desse dólar em uma data futura.",
+  "observar": "Fique atento a novas declarações do governo sobre a política fiscal e o comportamento do Congresso.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender a volatilidade do dólar após as eleições é essencial para quem deseja investir de forma consciente e pode gerar interesse na formação em mercado financeiro.",
+  "gancho": "*Dólar* dispara *após eleições*!",
+  "ideias": [
+   "Por que o dólar subiu tanto?",
+   "Eleições e impacto no mercado financeiro",
+   "Como a reeleição de Lula afeta sua carteira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/",
+  "publicadoEm": "2026-10-26T09:37:35-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-44"
+ },
+ {
+  "titulo": "Morgan Stanley prevê queda da Bolsa e dólar em R$ 5,60",
+  "resumo": "Após a reeleição de Lula, o Morgan Stanley projeta forte correção nos ativos brasileiros, com riscos para a política fiscal e dólar em alta.",
+  "fatos": [
+   "Morgan Stanley alerta para uma correção significativa nos mercados brasileiros devido à reeleição de Lula.",
+   "Expectativa de dólar em R$ 5,60, podendo chegar a R$ 6,00 em cenário adverso.",
+   "Ibovespa pode recuar até 30%, indo a cerca de 130 mil pontos até 2027.",
+   "Cenário desafiador inclui juros elevados e desaceleração econômica.",
+   "O risco fiscal aumenta com compromissos eleitorais e rigidez orçamentária."
+  ],
+  "numeros": [
+   {
+    "valor": "260",
+    "rotulo": "pontos-base na curva de juros estimados pelo Morgan Stanley"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "previsão de queda do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,60",
+    "rotulo": "previsão do dólar"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "178 mil pontos",
+    "depois": "130 mil pontos"
+   }
+  ],
+  "destaque": "R$ 5,60",
+  "porQueImporta": "Essas previsões afetam expectativas de investidores que podem ajustar suas estratégias diante da incerteza fiscal e da nova política econômica.",
+  "impactoMercado": "O déficit potencial pode pressionar a renda variável e o câmbio, impactando decisões de investimento e trazendo volatilidade ao mercado.",
+  "entenda": "A volatilidade do câmbio e a correção da bolsa são reflexos das expectativas de estabilidade fiscal, que influenciam a confiança dos investidores.",
+  "observar": "Fique atento aos próximos anúncios sobre a equipe econômica e possíveis ajustes fiscais que podem impactar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A notícia ilustra a importância de compreender o cenário econômico e suas implicações para quem quer operar na B3.",
+  "gancho": "Expectativas de *queda* na *Bolsa* e *dólar* em alta",
+  "ideias": [
+   "Entenda como a política fiscal influencia o mercado.",
+   "O que esperar do dólar após a reeleição de Lula?",
+   "Desafios para o Ibovespa: O que o futuro reserva?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.infomoney.com.br/mercados/morgan-stanley-ve-dolar-ate-r-560-e-queda-de-30-da-bolsa-apos-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-26T09:57:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-45"
+ },
+ {
+  "titulo": "B3 suspende negociações após reeleição de Lula",
+  "resumo": "B3 acionou o circuit breaker e suspendeu as negociações no pregão por 30 minutos após a reeleição de Lula.",
+  "fatos": [
+   "A medida foi adotada devido à forte volatilidade no mercado.",
+   "As negociações foram paralisadas por um período de 30 minutos.",
+   "Esta ação está em linha com os mecanismos de proteção da B3."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como a reeleição de líderes pode afetar o mercado financeiro é essencial para investidores e traders.",
+  "impactoMercado": "Movimentos bruscos no mercado após eleições podem gerar incertezas e volatilidade para investidores.",
+  "entenda": "O circuit breaker é um mecanismo que suspende temporariamente as negociações para evitar perdas excessivas.",
+  "observar": "Acompanhe como os mercados reagem após a suspensão das negociações e os próximos passos do governo.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A situação ilustra a dinâmica entre política e mercado, estimulando um entendimento mais profundo sobre operações na B3.",
+  "gancho": "*Circuit breaker* na B3: o que significa?",
+  "ideias": [
+   "Entenda o que é o circuit breaker",
+   "O impacto da política no mercado financeiro",
+   "Como as eleições afetam a B3"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "TradeMap",
+  "impacto": "alto",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.google.com/search?q=B3+aciona+circuit+breaker+e+suspende+negocia%C3%A7%C3%B5es+por+30+minutos+ap%C3%B3s+reelei%C3%A7%C3%A3o+de+Lula+TradeMap",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T10:04:30-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-46"
+ },
+ {
+  "titulo": "B3 aumenta limite de oscilação do dólar futuro para 8,4%",
+  "resumo": "A B3 ampliou o limite de oscilação dos contratos futuros de dólar de 6% para 8,4% apenas para hoje, permitindo maior movimento nas cotações.",
+  "fatos": [
+   "A B3 aumentou o limite superior de oscilação dos contratos futuros de dólar de 6% para 8,4%.",
+   "Essa alteração é válida apenas para o pregão regular de hoje, 26 de outubro de 2026.",
+   "A medida se aplica a todos os vencimentos dos contratos, incluindo os minicontratos de dólar.",
+   "Com a mudança, a margem de oscilação superior aumentou em 40%, passando de 6% para 8,4%.",
+   "Não houve alterações nos limites inferiores de oscilação dos contratos."
+  ],
+  "numeros": [
+   {
+    "valor": "8,4%",
+    "rotulo": "Novo limite de oscilação dos contratos"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "Limite anterior de oscilação"
+   },
+   {
+    "valor": "+40%",
+    "rotulo": "Aumento da margem de oscilação"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Limite de oscilação",
+    "antes": "6%",
+    "depois": "8,4%"
+   }
+  ],
+  "destaque": "8,4%",
+  "porQueImporta": "Investidores e empresas se beneficiam de maior flexibilidade nas operações de contratos futuros, permitindo estratégias de hedge e especulação.",
+  "impactoMercado": "Um limite de oscilação maior pode resultar em oscilações mais acentuadas no preço do dólar, impactando a volatilidade do mercado financeiro.",
+  "entenda": "Contratos futuros de dólar permitem que investidores especulem ou se protejam contra variações na cotação da moeda americana.",
+  "observar": "Fique atento às reações do mercado após essa mudança e às possíveis alterações em futuros limites de oscilação.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender as variações de limite no mercado de dólar pode ajudar a aprimorar as estratégias de investimento e a compreensão das operações na B3.",
+  "gancho": "Limite de *oscilações* do dólar *aumentou*!",
+  "ideias": [
+   "Como impacta o dólar a nova regra da B3?",
+   "Entenda os contratos futuros de dólar!",
+   "O que muda com a oscilação do dólar futuro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://bpmoney.com.br/economia/b3-amplia-limite-de-oscilacao-do-dolar-futuro-de-6-para-84-nesta-segunda-feira-26/",
+  "publicadoEm": "2026-10-26T09:25:07-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-47"
+ },
+ {
+  "titulo": "B3 aumenta limite de queda do Ibovespa para 20%",
+  "resumo": "A B3 ampliou o limite de oscilação dos contratos futuros de Ibovespa para 20%, buscando gerenciar os riscos em meio à volatilidade pós-eleitoral.",
+  "fatos": [
+   "A B3 aumentou os limites de oscilação diária dos contratos futuros de Ibovespa de 15% para 20%.",
+   "A alteração entrou em vigor às 9h30 desta segunda-feira (26).",
+   "Essa mudança permite quedas maiores antes de atingir os limites operacionais.",
+   "Os novos limites se aplicam a todos os vencimentos dos contratos de índice cheio e mini índice.",
+   "As instituições financeiras alertaram para a possibilidade de forte movimentação nos ativos brasileiros após as eleições."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "20%",
+  "porQueImporta": "Entender as mudanças nos limites de queda é crucial para investidores e traders, pois impacta a forma como operam em momentos de volatilidade.",
+  "impactoMercado": "A medida busca evitar distorções e permite uma negociação mais fluida ainda em momentos de estresse no mercado.",
+  "entenda": "Os limites de oscilação são mecanismos da bolsa que ajudam a controlar a volatilidade e a proteger investidores durante períodos de incerteza.",
+  "observar": "Fique atento aos movimentos do mercado local e ao potencial acionamento de circuit breakers nos próximos dias.",
+  "publico": [
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender essas alterações é essencial para operar com segurança em mercados voláteis, além de incentivar o conhecimento do mercado financeiro.",
+  "gancho": "*B3* sobe limite de queda para *20%*!",
+  "ideias": [
+   "Limite de queda do Ibovespa: O que muda?",
+   "Entenda os impactos da nova regra da B3",
+   "Volatilidade pós-eleições: O que esperar?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.infomoney.com.br/mercados/b3-amplia-limite-de-queda-dos-contratos-futuros-do-ibovespa-para-20-apos-eleicao/",
+  "publicadoEm": "2026-10-26T09:19:49-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-48"
+ },
+ {
+  "titulo": "Economistas ajustam previsões para inflação e PIB",
+  "resumo": "Economistas estão revisando para baixo suas estimativas de inflação, crescimento do PIB e cotação do dólar para este ano, refletindo tendências recentes da economia.",
+  "fatos": [
+   "As previsões de inflação para o ano estão em queda.",
+   "O crescimento do PIB também foi ajustado para baixo.",
+   "As expectativas para a cotação do dólar foram reduzidas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas revisões podem impactar decisões de investimento, influenciando a confiança dos investidores e estratégias no mercado.",
+  "impactoMercado": "Mudanças nas previsões econômicas podem afetar a volatilidade do mercado e a forma como os investidores posicionam seus ativos.",
+  "entenda": "A inflação é o aumento generalizado dos preços, enquanto o PIB mede a atividade econômica de um país. Essas variáveis são fundamentais para entender a saúde econômica.",
+  "observar": "Acompanhe as próximas divulgações de dados econômicos que possam influenciar essas previsões.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender esses ajustes nas previsões é essencial para quem deseja interpretar o mercado e se preparar para oportunidades.",
+  "gancho": "*Economia* em revisão: investimentos sob nova luz",
+  "ideias": [
+   "Impactos das previsões econômicas",
+   "Entenda como a inflação afeta seus investimentos",
+   "O papel do PIB na sua estratégia de investimento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.google.com/search?q=Economistas+reduzem+previs%C3%A3o+de+infla%C3%A7%C3%A3o%2C+PIB+e+d%C3%B3lar+neste+ano+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T09:27:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-49"
+ },
+ {
+  "titulo": "Dólar sobe 8,65% após reeleição de Lula",
+  "resumo": "O dólar abriu em alta, cotado a R$ 5,425, após a reeleição de Lula, contrariando expectativas do mercado. Especialistas projetam uma possível queda para R$ 5,20 a R$ 5,30.",
+  "fatos": [
+   "O dólar começou o pregão a R$ 5,425, representando uma alta de 8,65%.",
+   "Após o primeiro turno, o dólar havia caído mais de 4% com a liderança de Flávio Bolsonaro.",
+   "Lula recebeu 51,79% dos votos válidos, contra 48,21% de Flávio.",
+   "A expectativa era de que a reeleição trouxesse um ajuste fiscal mais moderado.",
+   "Com a alta do dólar, investidores esperam um retorno à faixa de R$ 5,20 a R$ 5,30."
+  ],
+  "numeros": [
+   {
+    "valor": "5,425",
+    "rotulo": "Cotação do dólar após reeleição"
+   },
+   {
+    "valor": "51,79%",
+    "rotulo": "Votos válidos de Lula"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "Votos válidos de Flávio"
+   },
+   {
+    "valor": "8,65%",
+    "rotulo": "Alta do dólar hoje"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "8,65%",
+  "porQueImporta": "A alta do dólar pode refletir a instabilidade econômica e influenciar decisões de investimento, afetando principalmente aqueles que operam no câmbio.",
+  "impactoMercado": "A movimentação do dólar pode gerar flutuações no mercado de ações e nos juros futuros, refletindo novas expectativas sobre a política fiscal e econômica.",
+  "entenda": "O dólar comercial é usado em transações de grandes volumes no mercado de câmbio, enquanto o dólar turismo é adquirido em menor escala para viagens.",
+  "observar": "Fique atento aos próximos movimentos do mercado e como eles podem se consolidar após a reeleição, observando juros e bolsa.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia ilustra a relação entre política e economia, mostrando como eventos eleitorais influenciam o câmbio e as oportunidades de aprendizado na faculdade.",
+  "gancho": "*Dólar em alta* após *reeleição de Lula*",
+  "ideias": [
+   "Impactos da reeleição de Lula no câmbio",
+   "Como o dólar influencia o mercado financeiro",
+   "Entenda a relação entre política e economia"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://exame.com/invest/mercados/dolar-abre-em-alta-de-mais-de-8-apos-reeleicao-de-lula-e-vai-a-quase-r-6/",
+  "publicadoEm": "2026-10-26T06:05:51-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-50"
+ },
+ {
+  "titulo": "Ibovespa futuro despenca 15% após reeleição de Lula",
+  "resumo": "Após a confirmação da reeleição de Luiz Inácio Lula da Silva, o Ibovespa futuro caiu 15%, enquanto os juros disparam, refletindo incertezas sobre a economia.",
+  "fatos": [
+   "O contrato Ibovespa futuro foi negociado a 177.215 pontos, uma queda de 30.880 pontos desde a última sexta-feira.",
+   "A taxa do DI para janeiro de 2033 aumentou 1,93 ponto percentual, atingindo 14,58% ao ano.",
+   "O ETF EWZ recuou mais de 25% no pré-mercado, caindo para US$ 31,82.",
+   "Investidores preveem que ações expostas à economia doméstica podem cair mais de 30%.",
+   "Uma eventual intervenção do Banco Central ainda é discutida após a queda acentuada."
+  ],
+  "numeros": [
+   {
+    "valor": "177.215",
+    "rotulo": "pontos do Ibovespa futuro"
+   },
+   {
+    "valor": "14,58%",
+    "rotulo": "taxa do DI para janeiro de 2033"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "recuperação do ETF EWZ"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "15%",
+  "porQueImporta": "Essa queda no Ibovespa e o aumento dos juros podem indicar um ambiente mais arriscado para investidores, afetando decisões de compra e venda.",
+  "impactoMercado": "As incertezas políticas podem levar a um aumento nas taxas de juros, impactando o crédito e atraindo investidores para a renda fixa em detrimento das ações.",
+  "entenda": "Os juros futuros refletem a expectativa do mercado sobre a política monetária e fiscal, influenciando o custo do crédito e a atratividade de diferentes investimentos.",
+  "observar": "Fique atento aos próximos pregões e possíveis intervenções do Banco Central, além da reação de ações relacionadas à economia local.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa situação do mercado ressalta a importância de entender os impactos de eventos políticos e como eles influenciam as expectativas dos investidores.",
+  "gancho": "*Ibovespa* desaba e *juros* subiram!",
+  "ideias": [
+   "Como a reeleição de Lula pode afetar seus investimentos?",
+   "Entenda a relação entre política e mercado financeiro!",
+   "O que significa a alta dos juros para sua estratégia de investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://exame.com/invest/mercados/ibovespa-futuro-desaba-15-e-juros-disparam-apos-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-26T06:12:18-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-51"
+ },
+ {
+  "titulo": "Ibovespa futuro cai 15% após eleição de Lula",
+  "resumo": "O Ibovespa futuro apresentou uma queda significativa na abertura dos pregões após a vitória de Lula nas eleições, impactando o sentimento do investidor no mercado acionário.",
+  "fatos": [
+   "Após a eleição de Lula, o Ibovespa futuro desabou quase 15% na abertura.",
+   "A vitória do presidente eleito gerou expectativas de mudanças nas políticas econômicas.",
+   "Esse movimento sinaliza uma reação imediata do mercado à nova administração."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "quase 15%",
+  "porQueImporta": "A queda no Ibovespa futuro reflete a reação dos investidores às incertezas políticas e econômicas trazidas pela nova administração.",
+  "impactoMercado": "Essa movimentação pode levar a uma maior volatilidade no mercado de ações, afetando a confiança de investidores.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores brasileira, refletindo a performance das ações mais negociadas.",
+  "observar": "Fique atento às reações do mercado em relação às propostas de Lula ao longo dos próximos dias.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender os impactos das eleições no mercado é fundamental para quem quer investir com mais segurança e conhecimento.",
+  "gancho": "Impacto da *eleição* no *mercado*",
+  "ideias": [
+   "O que a queda do Ibovespa revela?",
+   "Eleições e mercado: como se proteger?",
+   "Reação do Ibovespa: entender para investir"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.google.com/search?q=Ibovespa+futuro+desaba+quase+15%25+na+abertura+ap%C3%B3s+elei%C3%A7%C3%A3o+de+Lula+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T09:18:44-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-52"
+ },
+ {
+  "titulo": "Ibovespa futuro cai 15% com reeleição de Lula",
+  "resumo": "Após a reeleição de Lula, o Ibovespa futuro despencou quase 15%, levando à suspensão das negociações. O mercado começou a precificar a mudança política de forma abrupta.",
+  "fatos": [
+   "O Ibovespa futuro (INDFUT) caiu 14,84%, chegando a 177.215 pontos.",
+   "As negociações foram suspensas após a queda.",
+   "A B3 ajustou o limite inferior de negociação dos contratos futuros de -10% para -15%.",
+   "Lula obteve 51,79% dos votos, enquanto Flávio Bolsonaro teve 48,21%.",
+   "O iShares MSCI Brazil (EWZ) caiu mais de 30% no pré-mercado."
+  ],
+  "numeros": [
+   {
+    "valor": "14,84%",
+    "rotulo": "queda do Ibovespa futuro"
+   },
+   {
+    "valor": "177.215",
+    "rotulo": "pontos do Ibovespa futuro"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "queda do iShares MSCI Brazil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "14,84%",
+  "porQueImporta": "O resultado da eleição trouxe incertezas que podem impactar o desempenho dos ativos brasileiros e mudar a percepção de risco entre os investidores.",
+  "impactoMercado": "A reeleição de Lula pode gerar reavaliações nas carteiras de investimentos, afetando ações e fundos ligados ao Brasil, principalmente em um momento de volatilidade.",
+  "entenda": "O Ibovespa futuro é um contrato financeiro que permite negociar a expectativa de performance do índice Ibovespa no futuro, refletindo a confiança dos investidores na economia.",
+  "observar": "Fique atento às reações do mercado nas próximas semanas e aos ajustes nas carteiras de investimento baseados na nova configuração política.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como a política afeta o mercado ajuda investidores a tomarem decisões mais informadas e a conhecerem a dinâmica do ambiente financeiro.",
+  "gancho": "Queda de *15%* no Ibovespa futuro",
+  "ideias": [
+   "Mercado reage à eleição: o que fazer?",
+   "Entenda a queda do Ibovespa futuro",
+   "Eleições e mercado: como isso afeta você?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-futuro-despenca-quase-15-com-reeleicao-de-lula-lils/",
+  "publicadoEm": "2026-10-26T09:07:25-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-53"
+ },
+ {
+  "titulo": "Ibovespa tem circuit breaker após reeleição de Lula",
+  "resumo": "O Ibovespa sofreu forte queda, acionando circuit breaker e suspendendo negociações por 30 minutos. O mercado aguarda novas tentativas de negociação e reações dos investidores.",
+  "fatos": [
+   "As negociações do Ibovespa foram suspensas por 30 minutos após cair 10%.",
+   "Se a queda atingir 15%, as negociações ficarão paradas por uma hora.",
+   "A queda do Ibovespa futuro chegou a 14,84%, com negociação suspensa rapidamente.",
+   "O dólar abriu com alta de 8,64%, alcançando R$ 5,4247, e bateu máxima de 12,25% a R$ 5,6047.",
+   "O mercado reflete incerteza após a reeleição de Lula, com expectativas de volatilidade."
+  ],
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "Limite de queda para circuit breaker"
+   },
+   {
+    "valor": "8,64%",
+    "rotulo": "Alta inicial do dólar"
+   },
+   {
+    "valor": "12,25%",
+    "rotulo": "Máxima do dólar durante o pregão"
+   },
+   {
+    "valor": "14,84%",
+    "rotulo": "Queda do Ibovespa futuro"
+   },
+   {
+    "valor": "R$ 5,6047",
+    "rotulo": "Máxima do dólar"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "10%",
+  "porQueImporta": "Essas oscilações mostram como eventos políticos afetam a confiança do investidor e a volatilidade do mercado, influenciando decisões de compra e venda.",
+  "impactoMercado": "Esperam-se movimentos de venda intensa no curto prazo, com investidores ajustando suas posições após o resultado eleitoral, o que pode criar oportunidades futuras.",
+  "entenda": "Circuit breaker é um mecanismo de proteção que suspende temporarily negociações na bolsa quando ocorre uma queda significativa em um índice, evitando pânico excessivo.",
+  "observar": "Fique atento ao desempenho do Ibovespa e ao comportamento do dólar nas próximas sessões, especialmente se novas quedas ocorrerem.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A notícia ilustra como os eventos políticos impactam o mercado, despertando a curiosidade em entender melhor suas dinâmicas e a importância da educação financeira.",
+  "gancho": "*Ibovespa* e *circuit breaker*: entenda a relação!",
+  "ideias": [
+   "Circuit breaker: o que você precisa saber?",
+   "Como a política impacta o mercado financeiro",
+   "O que significa a forte alta do dólar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/",
+  "publicadoEm": "2026-10-26T06:47:50-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-54"
+ },
+ {
+  "titulo": "Dólar sobe 8,7%, alcançando R$ 5,43",
+  "resumo": "Após a reeleição de Lula, o dólar iniciou o dia em alta de 8,7%, impactando o mercado financeiro.",
+  "fatos": [
+   "O dólar abriu em alta de 8,7%.",
+   "Atualmente, a moeda está cotada a R$ 5,43.",
+   "Esse movimento foi influenciado pela reeleição de Lula."
+  ],
+  "numeros": [
+   {
+    "valor": "5,43",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "8,7%",
+    "rotulo": "alta do dólar"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,43",
+  "porQueImporta": "A alta do dólar pode afetar o custo de importações e influenciar a inflação, impactando a economia como um todo.",
+  "impactoMercado": "Esse tipo de movimento pode gerar volatilidade no mercado e exigir atenção dos investidores às políticas econômicas.",
+  "entenda": "O dólar é a moeda dos Estados Unidos e sua valorização pode indicar mudanças na confiança dos investidores na economia brasileira.",
+  "observar": "Acompanhar como o mercado reagirá a novos anúncios e políticas do governo pode fornecer previsões sobre a continuidade dessa tendência.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Este movimento no câmbio mostra como eventos políticos impactam diretamente o mercado financeiro.",
+  "gancho": "*Dólar* em alta após *reeleição*",
+  "ideias": [
+   "O impacto da reeleição de Lula no câmbio",
+   "Como a alta do dólar afeta sua carteira",
+   "Entendendo a oscilação do dólar após eleições"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+abre+em+alta+de+8%2C7%25%2C+a+R%24+5%2C43%2C+ap%C3%B3s+reelei%C3%A7%C3%A3o+de+Lula+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T09:21:55-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-55"
+ },
+ {
+  "titulo": "Dólar dispara 12% após reeleição de Lula",
+  "resumo": "Após a reeleição de Luiz Inácio Lula da Silva, o dólar disparou no mercado, superando R$ 5,60. O movimento é esperado pelo mercado e reflete tensões fiscais.",
+  "fatos": [
+   "Na abertura desta segunda-feira (26), o dólar subiu 8,64%, atingindo R$ 5,4247.",
+   "Logo após, a moeda chegou a R$ 5,6047, com alta de 12,25%.",
+   "Na sexta-feira (23), o dólar foi encerrado a R$ 4,9931.",
+   "A B3 elevou o limite superior de negociação dos contratos futuros de dólar de 6% para 12%.",
+   "Chris Turner, do ING, comentou sobre a vulnerabilidade do Brasil devido ao déficit orçamentário."
+  ],
+  "numeros": [
+   {
+    "valor": "8,64%",
+    "rotulo": "alta na abertura do dólar"
+   },
+   {
+    "valor": "12,25%",
+    "rotulo": "alta máxima do dólar"
+   },
+   {
+    "valor": "R$ 5,4247",
+    "rotulo": "dólar na abertura"
+   },
+   {
+    "valor": "R$ 5,6047",
+    "rotulo": "máxima do dólar"
+   },
+   {
+    "valor": "R$ 4,9931",
+    "rotulo": "dólar na sexta-feira"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar",
+    "antes": "R$ 4,9931",
+    "depois": "R$ 5,6047"
+   }
+  ],
+  "destaque": "12,25%",
+  "porQueImporta": "A alta do dólar impacta diretamente no custo de importações e pode afetar a inflação, o que é importante para investidores e operadores.",
+  "impactoMercado": "O aumento da moeda pode gerar tensão no mercado, especialmente em ações e no setor de importação.",
+  "entenda": "O que é câmbio: refere-se à troca de moedas entre países e ao valor de uma moeda em relação a outra.",
+  "observar": "Acompanhe possíveis intervenções do Banco Central e o desenvolvimento da política fiscal do novo governo.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender esses movimentos cambiais é essencial para qualquer trader e o conhecimento pode ser ampliado na nossa faculdade.",
+  "gancho": "Impacto da *eleição* no *dólar*",
+  "ideias": [
+   "Dólar em alta: o que isso significa?",
+   "Como a reeleição de Lula afeta sua carteira?",
+   "Entenda o impacto da política no câmbio"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-abertura-26-10-26-lils/",
+  "publicadoEm": "2026-10-26T09:16:09-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-56"
+ },
+ {
+  "titulo": "TSE refuta afirmação de Flávio sobre fiscais do PL",
+  "resumo": "O TSE declarou falsa a afirmação de Flávio Bolsonaro sobre a expulsão de fiscais do PL, ressaltando que dois representantes do partido acompanharam a apuração das eleições.",
+  "fatos": [
+   "O TSE classificou como falsa a acusação de Flávio Bolsonaro sobre a expulsão de fiscais do PL.",
+   "Dois representantes do PL estiveram presentes durante a totalização dos votos, com registros e filmagens que comprovam o acesso.",
+   "A sala-cofre do TSE não é aberta à visitação, mas outras áreas permitiram a fiscalização do processo eleitoral.",
+   "Flávio Bolsonaro afirmou que não reconheceria o resultado das eleições, que reelegeram Lula."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essa informação é relevante para investidores, pois desinformação sobre a integridade do processo eleitoral pode impactar a estabilidade política e, consequentemente, econômica do país.",
+  "impactoMercado": "Questões políticas como essa podem afetar a confiança dos investidores na governabilidade e na continuidade das políticas econômicas, gerando volatilidade no mercado.",
+  "entenda": "A apuração das eleições é um processo crucial para a democracia, onde a fiscalização ajuda a garantir a transparência e a legitimidade dos resultados.",
+  "observar": "Acompanhar possíveis reações do mercado e declarações adicionais de figuras políticas pode fornecer insights sobre a confiança do investidor.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as implicações do cenário político é fundamental para quem deseja operar no mercado financeiro de forma informada.",
+  "gancho": "*TSE* desmente *Flávio Bolsonaro*",
+  "ideias": [
+   "TSE desfaz mitos sobre a apuração eleitoral",
+   "Flávio Bolsonaro e a verdade sobre os fiscais do PL",
+   "O que o TSE confirmou sobre a totalização dos votos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://exame.com/brasil/tse-diz-ser-falsa-acusacao-de-flavio-sobre-expulsao-de-fiscais-do-pl/",
+  "publicadoEm": "2026-10-26T06:46:18-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-57"
+ },
+ {
+  "titulo": "Gavekal recomenda compra de ativos no Brasil após vitória de Lula",
+  "resumo": "Apesar da forte queda dos ativos brasileiros, Gavekal vê oportunidade de compra. Análise é baseada em fundamentos econômicos sólidos do Brasil.",
+  "fatos": [
+   "Após a vitória de Lula, o ETF EWZ caiu 20% no after hours e 30% no pré-mercado.",
+   "O dólar subiu 8%, cotado a R$ 5,50, e os juros futuros devem disparar.",
+   "A Gavekal sugere que a compra de ativos brasileiros seria uma maneira de 'investir na baixa'.",
+   "O mercado está ajustando as expectativas com relação a ajustes fiscais sob a nova administração."
+  ],
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "queda do ETF EWZ no pré-mercado"
+   },
+   {
+    "valor": "8%",
+    "rotulo": "alta do dólar ante o real"
+   },
+   {
+    "valor": "R$ 5,50",
+    "rotulo": "cotação do dólar hoje"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "30%",
+  "porQueImporta": "Essa análise pode ajudar investidores a entenderem como aproveitar momentos de correção no mercado e identificar oportunidades futuras.",
+  "impactoMercado": "A expectativa de novas pressões sobre juros e inflação pode complicar a recuperação dos ativos brasileiros no curto prazo.",
+  "entenda": "Investir em ativos em correção pode ser uma estratégia arriscada, mas pode oferecer valorização no longo prazo se os fundamentos permanecerem sólidos.",
+  "observar": "Fique atento à resposta do mercado nas próximas semanas, especialmente em relação ao desempenho da B3 e dos ativos de risco.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta recomendação da Gavekal pode incentivar novos investidores a estudar e operar ativos brasileiros, especialmente em momentos de volatilidade.",
+  "gancho": "*Queda* de *30%*: Oportunidade de compra?",
+  "ideias": [
+   "Por que investir agora no Brasil?",
+   "30% de queda no EWZ: O que fazer?",
+   "Oportunidade de compra: Entenda as recomendações da Gavekal"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/gavekal-importante-casa-de-analise-gringa-recomenda-compra-de-ativos-no-brasil-apos-vitoria-de-lula-acoes-caem-30-la-fora-julw/",
+  "publicadoEm": "2026-10-26T10:01:38-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-58"
+ },
+ {
+  "titulo": "Cartões de crédito do BTG ajudam na construção de patrimônio",
+  "resumo": "BTG Pactual oferece cartões de crédito com benefícios adaptáveis, focando na construção de patrimônio pessoal e na liberdade de escolha de serviços.",
+  "fatos": [
+   "BTG Pactual disponibiliza cartões de crédito Gold e Platinum para diferentes perfis.",
+   "Os cartões ajudam na construção de patrimônio e oferecem benefícios como IOF zero em compras internacionais.",
+   "O cartão Gold pode ser adquirido sem anuidade e requer investimento a partir de R$ 3 mil.",
+   "O cartão Platinum tem mensalidade de partir de R$ 10 e vantagens personalizáveis.",
+   "Ambos os cartões oferecem acesso ao Programa de Fidelidade BTG Pactual."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as opções de cartões de crédito pode ajudar na escolha de produtos que promovam melhor gestão financeira e construção de patrimônio.",
+  "impactoMercado": "A escolha correta de um cartão pode influenciar positivamente a jornada financeira e o investimento pessoal no longo prazo.",
+  "entenda": "Cartões de crédito podem ser uma ferramenta estratégica na construção de patrimônio, oferecendo benefícios e crédito conforme as necessidades do usuário.",
+  "observar": "Acompanhe novas opções e promoções de cartões de crédito que possam surgir, além da performance dos produtos do BTG Pactual.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa notícia ajuda a entender como a escolha do cartão de crédito pode contribuir para a educação financeira e o patrimônio.",
+  "gancho": "*Cartões de Crédito* para *Construção Patrimonial*",
+  "ideias": [
+   "Como escolher o cartão de crédito certo?",
+   "Benefícios dos cartões BTG Pactual",
+   "A importância do cartão de crédito na construção de patrimônio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "moeda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.seudinheiro.com/2026/financas-pessoais/escolher-o-cartao-de-credito-certo-tambem-faz-parte-da-construcao-de-patrimonio-confira-as-solucoes-do-btg-pactual-lbrdjm044/",
+  "publicadoEm": "2026-10-26T10:00:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-59"
+ },
+ {
+  "titulo": "BC deve agir para estabilidade financeira em turbulência",
+  "resumo": "O Banco Central deve atuar para manter a estabilidade financeira em meio a turbulências no mercado. O foco permanece na busca por uma âncora econômica sólida.",
+  "fatos": [
+   "O Banco Central enfrenta um cenário de incertezas no mercado.",
+   "A expectativa é que a autoridade monetária tome medidas para garantir a estabilidade.",
+   "Mercados esperam uma âncora econômica confiável para o futuro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Medidas do Banco Central podem influenciar a confiança do investidor e a saúde da economia.",
+  "impactoMercado": "Decisões do BC podem afetar o comportamento do mercado e a estratégia dos investidores.",
+  "entenda": "O Banco Central é responsável por controlar a inflação e assegurar a estabilidade financeira.",
+  "observar": "Acompanhe as decisões do Banco Central e suas repercussões no mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender como o BC opera ajuda investidores a navegar em momentos de incerteza.",
+  "gancho": "*Estabilidade financeira* em foco",
+  "ideias": [
+   "Como o BC garante a estabilidade financeira?",
+   "Impacto da política do BC no mercado",
+   "O que pode mudar com decisões do BC?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.google.com/search?q=An%C3%A1lise%3A+BC+deve+agir+para+assegurar+estabilidade+financeira+em+meio+a+turbul%C3%AAncia+enquanto+mercado+aguarda+%C3%A2ncora+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T09:18:01-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-60"
+ },
+ {
+  "titulo": "Itaú investe R$ 2,925 bilhões em NeoSpace",
+  "resumo": "O Itaú Unibanco adquire a startup de inteligência artificial NeoSpace para ampliar suas operações. A transação visa desenvolver novas soluções financeiras no setor.",
+  "fatos": [
+   "Itaú Unibanco desembolsará R$ 2,925 bilhões para comprar a NeoSpace.",
+   "O pagamento será feito em parcela única e o restante ao longo de cinco anos.",
+   "A aquisição ainda precisa da aprovação de órgãos reguladores como o Cade e o Banco Central.",
+   "A NeoSpace continuará operando de forma autônoma com seu próprio CEO, Bruno Pierobon.",
+   "A startup é especializada em inteligência artificial para identificação de padrões em grandes volumes de dados."
+  ],
+  "numeros": [
+   {
+    "valor": "2,925 bilhões",
+    "rotulo": "valor da aquisição em reais"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 2,925 bilhões",
+  "porQueImporta": "A aquisição pode impulsionar inovações no setor financeiro, beneficiando clientes com novas tecnologias.",
+  "impactoMercado": "Essa movimentação pode levar a um maior investimento em tecnologias financeiras, destacando a importância da inovação no mercado.",
+  "entenda": "Inteligência artificial no setor financeiro refere-se ao uso de algoritmos e tecnologias para otimizar serviços e identificar padrões.",
+  "observar": "Acompanhe as aprovações regulatórias e o desenvolvimento da plataforma de inteligência artificial do Itaú.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A aquisição do Itaú nos conecta com o futuro da tecnologia no setor financeiro, mostrando a importância da inovação.",
+  "gancho": "*Itaú* investe em *inteligência artificial*",
+  "ideias": [
+   "Itaú e NeoSpace: uma nova era para os serviços financeiros",
+   "Como a IA está revolucionando o mercado bancário",
+   "O que a aquisição da NeoSpace significa para você"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "raio",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/itau-itub4-desembolsa-2925-bilhoes-para-fortalecer-operacao-inteligencia-artificial-lmrs/",
+  "publicadoEm": "2026-10-26T09:12:57-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-61"
+ },
+ {
+  "titulo": "Expectativas de queda no Ibovespa e dólar após reeleição de Lula",
+  "resumo": "Mercados financeiros podem reagir negativamente à reeleição de Lula, com projeções de queda no Ibovespa e no dólar. Especialista estima uma abertura volátil.",
+  "fatos": [
+   "Após a reeleição de Lula, o Ibovespa pode cair entre 5% e 9%.",
+   "O dólar pode se valorizar, alcançando entre R$ 5,30 e R$ 5,50.",
+   "Projeção de acionamento de circuit breaker é considerada.",
+   "Expectativa de pressão sobre os juros futuros é destacada.",
+   "Investidores podem revisar projeções para setores vulneráveis, como bancos e varejo."
+  ],
+  "numeros": [
+   {
+    "valor": "5%",
+    "rotulo": "queda no Ibovespa, mínimo estimado"
+   },
+   {
+    "valor": "9%",
+    "rotulo": "queda no Ibovespa, máximo estimado"
+   },
+   {
+    "valor": "R$ 5,50",
+    "rotulo": "previsão máxima para o dólar"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "até 9%",
+  "porQueImporta": "Entender essas previsões ajuda investidores a se prepararem para a volatilidade do mercado que pode impactar seus ativos e estratégias.",
+  "impactoMercado": "A reação negativa pode levar a uma abertura volátil e pressionar setores específicos da Bolsa, influenciando estratégias de investimento.",
+  "entenda": "Conhecer a importância do Ibovespa é fundamental, pois ele indica o desempenho geral do mercado de ações no Brasil.",
+  "observar": "Acompanhe as próximas notícias sobre políticas e ações do governo que podem afetar a confiança do mercado e os ativos.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A reação do mercado às eleições e suas implicações ajudam a entender as dinâmicas que afetam o ambiente financeiro.",
+  "gancho": "*Ibovespa em queda* e *dólar a R$ 5,50*",
+  "ideias": [
+   "O que esperar do Ibovespa após a reeleição?",
+   "Como a vitória de Lula impacta o dólar?",
+   "Os riscos de volatilidade no mercado de ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://bpmoney.com.br/economia/ibovespa-pode-cair-ate-9-e-dolar-chegar-a-r-550-apos-vitoria-de-lula-diz-especialista/",
+  "publicadoEm": "2026-10-26T09:56:31-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-62"
+ },
+ {
+  "titulo": "Lula discute big techs, segurança e educação após reeleição",
+  "resumo": "Com a reeleição, Lula destaca diálogo com o Congresso e prioridades como educação e segurança. Ele defende regulação das big techs e o tratamento igualitário dos crimes digitais.",
+  "fatos": [
+   "Lula afirmou que governará para 215 milhões de brasileiros, buscando diálogo com o Congresso mesmo com a oposição crescendo.",
+   "Ele destacou a importância da educação, segurança e a regulação das big techs em seu novo mandato.",
+   "O presidente criticou a 'intromissão das plataformas digitais' nas eleições e defendeu que crimes digitais devem ser tratados como crimes reais."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "As propostas de Lula impactam a relação entre tecnologia e legislação, refletindo diretamente no ambiente de negócios e na segurança cibernética.",
+  "impactoMercado": "Se as regulamentações forem implementadas, podem afetar o funcionamento das grandes plataformas digitais e a dinâmica de setores que dependem delas.",
+  "entenda": "Big techs são as grandes empresas de tecnologia que dominam o mercado digital, como Google, Facebook e Amazon, e sua regulação tem implicações na economia e privacidade.",
+  "observar": "Acompanhe como o diálogo de Lula com o Congresso se desenvolverá e se suas propostas de regulação das big techs serão aceitas.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Esse debate sobre tecnologia e governo é crucial para entender as mudanças que podem ocorrer no mercado em virtude da interação entre política e tecnologia.",
+  "gancho": "*Regulação* das *big techs* em pauta",
+  "ideias": [
+   "Lula e o futuro das big techs",
+   "Como a regulação pode impactar empresas",
+   "Educação e tecnologia: prioridades de Lula"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Política monetária",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:16:32-03:00",
+  "url": "https://bpmoney.com.br/politica/lula-discurso-reeleicao-big-techs-seguranca-educacao-congresso/",
+  "publicadoEm": "2026-10-26T08:58:44-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-63"
+ },
+ {
   "titulo": "Mercados em Queda Após Vitória de Lula",
   "resumo": "Ativos brasileiros caem após a reeleição de Lula, enquanto o Itaú compra startup de inteligência artificial. Expectativas políticas influenciam o desempenho do mercado.",
   "fatos": [
@@ -20480,12 +21583,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "56,5%",
+  "destaque": "51,0%",
   "fatos": [
-   "↑ 82,500: 56,5%",
-   "↓ 77,500: 37,5%",
-   "↑ 85,000: 21,5%",
-   "↓ 75,000: 14,5%"
+   "↑ 82.500: 51,0%",
+   "↓ 77.500: 43,5%",
+   "↑ 85.000: 19,5%",
+   "↓ 75.000: 15,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -20496,50 +21599,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↑ 82,500",
-    "prob": 56.5
+    "opcao": "↑ 82.500",
+    "prob": 51.0
    },
    {
-    "opcao": "↓ 77,500",
-    "prob": 37.5
+    "opcao": "↓ 77.500",
+    "prob": 43.5
    },
    {
-    "opcao": "↑ 85,000",
-    "prob": 21.5
+    "opcao": "↑ 85.000",
+    "prob": 19.5
    },
    {
-    "opcao": "↓ 75,000",
-    "prob": 14.5
+    "opcao": "↓ 75.000",
+    "prob": 15.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores acreditam que o Bitcoin pode alcançar um valor significativo no curto prazo.",
+  "resumo": "Os apostadores têm uma forte expectativa de valorização do Bitcoin.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 56.5% de chance de que o preço do Bitcoin atinja 82,500 em outubro.",
+  "titulo": "Mercado de previsões vê 51.0% de chance de Bitcoin atingir 82.500 dólares em outubro de 2026",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 455 mil",
+  "volume24h": "US$ 464 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "56,5%",
-    "rotulo": "↑ 82,500"
+    "valor": "51,0%",
+    "rotulo": "↑ 82.500"
    },
    {
-    "valor": "37,5%",
-    "rotulo": "↓ 77,500"
+    "valor": "43,5%",
+    "rotulo": "↓ 77.500"
    },
    {
-    "valor": "21,5%",
-    "rotulo": "↑ 85,000"
+    "valor": "19,5%",
+    "rotulo": "↑ 85.000"
    },
    {
-    "valor": "14,5%",
-    "rotulo": "↓ 75,000"
+    "valor": "15,5%",
+    "rotulo": "↓ 75.000"
    }
   ],
-  "atualizadoEm": "2026-10-26T08:58:32-03:00"
+  "atualizadoEm": "2026-10-26T10:16:32-03:00"
  },
  {
   "categoria": "Previsões",
