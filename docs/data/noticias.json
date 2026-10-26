@@ -1,5 +1,2186 @@
 [
  {
+  "titulo": "Circuit breaker suspende pregão após reeleição de Lula em 2026",
+  "resumo": "No primeiro dia após o segundo turno de 2026, o Ibovespa teve negociações suspensas pelo circuit breaker, acionado após queda de 10%. A reeleição de Lula surpreendeu o mercado, impactando fortemente os ativos.",
+  "fatos": [
+   "Data do acionamento do circuit breaker: 26 de junho de 2026",
+   "Queda do Ibovespa que acionou o mecanismo: 10%",
+   "Tempo da pausa padrão ao acionar o circuit breaker: 30 minutos",
+   "Última vez que o circuit breaker foi usado no Ibovespa: 18 de março de 2020",
+   "Percentual dos votos de Lula: 51,79%",
+   "Percentual dos votos de Flávio Bolsonaro: 48,21%",
+   "Diferença de votos entre Lula e Bolsonaro: mais de 4,3 milhões",
+   "Limite de queda do Ibovespa futuro alterado para 15% em caráter excepcional",
+   "Queda do ETF EWZ em Nova York: quase 30% na manhã após eleição"
+  ],
+  "explicacao": [
+   "No dia 26 de junho de 2026, o primeiro pregão após o segundo turno das eleições presidenciais, o Ibovespa teve suas negociações interrompidas pela ativação do circuito breaker após uma queda de 10%. A suspensão ocorreu antes mesmo da abertura oficial do pregão, às 10h.",
+   "O acionamento do mecanismo ocorreu devido à vitória do presidente Luiz Inácio Lula da Silva, que recebeu 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro. O resultado contrariou expectativas do mercado, que apostava na vitória de Bolsonaro, causando forte instabilidade.",
+   "O circuit breaker foi criado para conter quedas abruptas, pausando as negociações por 30 minutos para que operadores possam equilibrar oferta e demanda. Caso a queda persista, existem gatilhos para pausas maiores ou encerramento antecipado do pregão.",
+   "Com a instabilidade registrada, a B3 ajustou em caráter excepcional o limite de queda do mercado futuro de Ibovespa de 10% para 15%. Esse evento quebra um período sem acionamentos desde março de 2020, no início da pandemia."
+  ],
+  "detalhes": [
+   "Circuit breaker é acionado quando o Ibovespa cai 10% no mercado à vista",
+   "O mecanismo interrompe negociações para evitar pânico e estabilizar o mercado",
+   "Se a queda atinge 15%, a pausa dura uma hora; a 20%, o pregão pode ser encerrado",
+   "A votação teve 100% das urnas apuradas com Lula eleito para mais um mandato",
+   "O mercado apostava em vitória de Bolsonaro com vantagem no primeiro turno",
+   "Queda dos ADRs de empresas brasileiras e do ETF EWZ indicam reação internacional",
+   "Circuit breaker visa evitar movimentos ainda maiores de venda devastadora no curto prazo"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26 de junho de 2026",
+    "oque": "Circuit breaker acionado em pregão após eleição presidencial"
+   },
+   {
+    "quando": "18 de março de 2020",
+    "oque": "Última ativação do circuit breaker no Ibovespa, no início da pandemia"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Suspensão temporária das negociações após queda forte no mercado"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da bolsa brasileira, referência para ações"
+   },
+   {
+    "termo": "ETF",
+    "significado": "Fundo que replica o desempenho de um índice ou cesta de ativos"
+   }
+  ],
+  "pergunta": "Você já presenciou um circuit breaker na bolsa? Como reagiu?",
+  "tamanhoTexto": 2560,
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "Queda no Ibovespa para acionar circuit breaker"
+   },
+   {
+    "valor": "30 minutos",
+    "rotulo": "Duração da pausa no pregão após acionamento"
+   },
+   {
+    "valor": "51,79%",
+    "rotulo": "Votos válidos recebidos por Lula"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "Votos válidos recebidos por Flávio Bolsonaro"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "Limite alterado para queda do Ibovespa futuro nesta segunda"
+   },
+   {
+    "valor": "4,3 milhões",
+    "rotulo": "Votos que separaram Lula e Bolsonaro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "10% de queda",
+  "porQueImporta": "O acionamento do circuit breaker indica forte aversão ao risco após evento político importante, gerando volatilidade elevada. Para investidores e traders, isso significa a necessidade de cautela e atenção às oscilações causadas por notícias políticas inesperadas.",
+  "impactoMercado": "A suspensão do pregão e o aumento excepcional do limite no mercado futuro refletem o impacto direto das eleições no mercado acionário e derivativos. Setores mais sensíveis à política e ativos como ADRs e ETFs podem sofrer maior volatilidade e ajustes de posição.",
+  "entenda": "Circuit breaker é um mecanismo que pausa negociações quando há quedas rápidas e expressivas no mercado, evitando vendas precipitadas e pânico. Permitindo uma pausa, operadores podem avaliar melhor o cenário e equilibrar oferta e demanda, dando estabilidade temporária ao mercado.",
+  "observar": "Acompanhe os próximos pregões para verificar se o mercado estabiliza após essa pausa. Fique atento às pautas políticas e balanços que podem influenciar a volatilidade nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o funcionamento do circuit breaker ajuda operadores e investidores a lidar melhor com momentos de crise, ampliando o conhecimento fundamental para quem quer operar de forma consciente e segura na bolsa brasileira.",
+  "gancho": "*Circuit breaker*: botão do pânico na bolsa",
+  "ideias": [
+   "O que é e como funciona o circuit breaker na bolsa?",
+   "Impacto da eleição de 2026 no Ibovespa e acionamento do circuito breaker",
+   "Como o circuit breaker evita derrocadas no mercado acionário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://www.seudinheiro.com/2026/mercados/circuit-breaker-o-que-e-botao-do-panico-da-bolsa-acionado-apos-a-reeleicao-de-lula-lmrs/",
+  "publicadoEm": "2026-10-26T10:48:54-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-64"
+ },
+ {
+  "titulo": "Bolsa aciona circuit breaker e dólar sobe 11% após vitória de Lula",
+  "resumo": "Vitória surpreendente de Lula contra Flávio Bolsonaro derruba ativos e faz dólar subir 11%. Ibovespa futuro cai quase 20% e juros futuros disparam, com paralisação de negociações na bolsa.",
+  "fatos": [
+   "Vitória de Lula sobre Flávio Bolsonaro no segundo turno de 2026.",
+   "Dólar sobe 11%, maior alta diária desde 15 de janeiro de 1999.",
+   "Ibovespa futuro recua quase 20% após resultado eleitoral.",
+   "Negociações na bolsa foram interrompidas por 30 minutos, acionando circuit breaker.",
+   "Juros futuros disparam e enfrentam limites de oscilação na B3.",
+   "Lula venceu em todos os estados no segundo turno das eleições de 2026.",
+   "Reação do mercado contrariou expectativas predominantes antes da eleição."
+  ],
+  "explicacao": [
+   "Após a vitória inesperada do petista Lula sobre Flávio Bolsonaro no segundo turno das Eleições de 2026, o mercado financeiro brasileiro reagiu de forma negativa, com o Ibovespa futuro recuando quase 20% e o dólar subindo 11% na maior alta diária desde janeiro de 1999.",
+   "Essa reação foi motivada pelas contrariedades em relação às expectativas do mercado, o que levou a B3 a interromper as negociações de ações, derivativos e títulos privados por 30 minutos, ativando o mecanismo conhecido como circuit breaker para conter a volatilidade extrema.",
+   "Além disso, os juros futuros sofreram forte correção para cima e enfrentam dificuldades para operar em função de sucessivos limites de oscilação definidos pela bolsa, o que demonstra a incerteza dos investidores sobre o cenário político e seus impactos econômicos.",
+   "Com Lula tendo vencido em todos os estados no segundo turno, a instabilidade no mercado pode persistir, indicando que investidores e operadores devem acompanhar de perto os próximos desdobramentos políticos e econômicos para ajustar suas estratégias."
+  ],
+  "detalhes": [
+   "Eleição realizada em 2026, com segundo turno entre Lula e Flávio Bolsonaro.",
+   "Circuit breaker é mecanismo para interromper negociações em caso de queda brusca.",
+   "Dólar subiu 11%, nível de alta diária não visto desde 1999.",
+   "Ibovespa futuro teve queda de quase 20%, impactando fundos e investidores.",
+   "Juros futuros experimentaram forte pressão de alta e oscilações que desafiaram limites da B3.",
+   "Lula conseguiu votos em todos os estados no segundo turno, consolidando a vitória.",
+   "Movimento do mercado ocorreu em reação imediata ao resultado eleitoral surpreendente."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "2026, segundo turno",
+    "oque": "Lula vence eleição presidencial contra Flávio Bolsonaro"
+   },
+   {
+    "quando": "pós-eleição 2026",
+    "oque": "Mercado reage com forte queda no Ibovespa e alta do dólar"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Parada temporária nas negociações para conter quedas bruscas no mercado."
+   },
+   {
+    "termo": "Ibovespa futuro",
+    "significado": "Contrato que reflete a expectativa do índice Bovespa para uma data futura."
+   }
+  ],
+  "pergunta": "Como você acha que a eleição de Lula vai impactar seus investimentos?",
+  "tamanhoTexto": 1164,
+  "numeros": [
+   {
+    "valor": "11%",
+    "rotulo": "alta do dólar após resultado da eleição"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "queda do Ibovespa futuro após vitória de Lula"
+   },
+   {
+    "valor": "30 minutos",
+    "rotulo": "tempo de interrupção das negociações pela B3"
+   },
+   {
+    "valor": "1999",
+    "rotulo": "ano da última alta diária de dólar próxima a 11%"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "11% alta do",
+  "porQueImporta": "Essa forte reação do mercado indica grande incerteza política e econômica após a eleição de Lula, afetando os preços de ativos importantes e destacando a importância de monitoramento constante para investidores.",
+  "impactoMercado": "A alta do dólar e queda do Ibovespa podem pressionar setores exportadores e importadores, bem como influenciar os juros futuros, tornando volatilidade e cautela essenciais para operadores e investidores.",
+  "entenda": "Circuit breaker é um mecanismo de segurança que para temporariamente as negociações na bolsa para evitar quedas excessivas que desestabilizam o mercado e permitem ajustes saudáveis.",
+  "observar": "Fique atento aos desdobramentos políticos e às próximas sessões da bolsa, pois a volatilidade pode continuar dependendo de anúncios e mudanças econômicas após a eleição.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia mostra como eventos políticos surpreendentes podem gerar grandes oscilações no mercado, despertando o interesse em entender as regras do jogo financeiro e a importância de conhecimento para operar com segurança.",
+  "gancho": "*Circuit breaker*: choque e reação",
+  "ideias": [
+   "O que é circuit breaker e como ele protege seu investimento",
+   "Por que o dólar disparou após a eleição de 2026",
+   "Entendendo o impacto político no mercado financeiro brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "raio",
+  "fonte": "Valor Econômico",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+  "publicadoEm": "2026-10-26T10:42:32-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-65"
+ },
+ {
+  "titulo": "Taxas de DIs disparam mais de 200 pontos e mercado rejeita cortes na Selic",
+  "resumo": "Taxas de Depósito Interfinanceiro (DIs) subiram mais de 200 pontos-base após reeleição de Lula. Mercado zera expectativas de cortes na taxa básica Selic, com curva mostrando incertezas fiscais.",
+  "fatos": [
+   "Taxa de DI para jan/2029 subiu 244 pontos-base, a 15,030%",
+   "Taxa de DI para jan/2035 avançou 272 pontos-base, a 15,375%",
+   "Taxa de DI para jan/2027 subiu 43 pontos-base, a 13,898%",
+   "Reeleição de Lula surpreendeu e desagradou mercado",
+   "Capital Economics previu alta de 200 pontos-base caso Lula fosse reeleito",
+   "Presidente Lula teve 51,79% dos votos válidos com mais de 100% apurado",
+   "Flávio Bolsonaro teve 48,21%, cerca de 4,3 milhões de votos a menos",
+   "Mercado via Flávio como mais alinhado a ajuste fiscal agressivo",
+   "B3 permitiu alterações nos limites de oscilação para o pregão da segunda (26)",
+   "Curva de juros zerou probabilidade de cortes na Selic pelo Copom"
+  ],
+  "explicacao": [
+   "Nesta segunda-feira (26), a curva de juros futuros reagiu forte à reeleição de Luiz Inácio Lula da Silva (PT), com as taxas de DI subindo acima de 200 pontos-base, refletindo preocupação do mercado com as finanças públicas.",
+   "O movimento ocorreu após leilões com oscilações máximas permitidas e reajustes nos limites da B3, levando a disparadas, como a taxa para janeiro de 2029 que saltou de 12,595% para 15,030%.",
+   "O cenário indica que o mercado abandonou a possibilidade de cortes na Selic pelo Banco Central, sinalizando uma revisão nas expectativas para a política monetária diante das incertezas apresentadas.",
+   "Próximos passos incluem monitorar os desdobramentos fiscais do governo e a resposta do Banco Central na condução da Selic, além da evolução das negociações econômicas para conter a volatilidade."
+  ],
+  "detalhes": [
+   "As taxas de DI refletem o custo do dinheiro entre bancos e indicam a expectativa de juros básicos futuros.",
+   "A disparada aconteceu em meio a leilões que atingiram os limites máximos de oscilação permitidos pela bolsa B3.",
+   "A curva mais longa, como para 2035, apresentou elevações ainda maiores que a de médio prazo.",
+   "A diferença entre Lula e Flávio Bolsonaro foi maior que no primeiro turno, invertendo a vantagem inicial do adversário.",
+   "Analistas consideravam que Flávio Bolsonaro traria maior rigor fiscal para conter despesas públicas.",
+   "Reação do mercado incluiu também queda forte no câmbio e Ibovespa, mostrando impacto amplo.",
+   "Os investidores ajustam portfólios diante da expectativa de menos espaço para cortes nos juros Selic."
+  ],
+  "declaracoes": [
+   {
+    "quem": "William Jackson, economista-chefe da Capital Economics",
+    "oque": "Previa alta de cerca de 200 pontos-base nos rendimentos após reeleição de Lula e posicionamento do mercado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de setembro de 2026",
+    "oque": "Taxas de DI disparam mais de 200 pontos-base após reeleição de Lula"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "taxa básica de juros definida pelo Banco Central para controlar a economia"
+   },
+   {
+    "termo": "curva de juros futuros",
+    "significado": "gráfico que mostra as expectativas para as taxas de juros em diferentes prazos"
+   },
+   {
+    "termo": "taxas de DI",
+    "significado": "juros cobrados em empréstimos entre bancos no curto prazo"
+   }
+  ],
+  "pergunta": "Como você acha que a alta nas taxas de DI vai afetar seus investimentos?",
+  "tamanhoTexto": 4106,
+  "numeros": [
+   {
+    "valor": "244 pontos-base",
+    "rotulo": "alta na taxa de DI para janeiro de 2029"
+   },
+   {
+    "valor": "15,030%",
+    "rotulo": "taxa de DI para janeiro de 2029"
+   },
+   {
+    "valor": "272 pontos-base",
+    "rotulo": "alta na taxa de DI para janeiro de 2035"
+   },
+   {
+    "valor": "15,375%",
+    "rotulo": "taxa de DI para janeiro de 2035"
+   },
+   {
+    "valor": "51,79%",
+    "rotulo": "percentual de votos válidos de Lula"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "percentual de votos válidos de Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Taxas de DI",
+  "porQueImporta": "O aumento nas taxas de DI e o fim das expectativas de corte na Selic sinalizam maior custo do dinheiro e mais incertezas fiscais, afetando a decisão de investimento e estratégias de traders e investidores no Brasil.",
+  "impactoMercado": "A alta nos juros futuros e a rejeição aos cortes de Selic podem pressionar ações e câmbio, impactando setores sensíveis a juros e crédito, como bancos e consumo, além de alterar o risco percebido pelo mercado financeiro.",
+  "entenda": "As taxas de Depósito Interfinanceiro (DIs) indicam o preço do dinheiro entre bancos para prazos variados, funcionando como referência para os juros futuros. Quando essas taxas sobem muito, o mercado espera juros mais altos, influenciando investimentos e crédito.",
+  "observar": "Acompanhe os próximos comunicados do Banco Central e os dados fiscais do governo, pois podem influenciar a trajetória dos juros e do dólar nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto eleitoral na curva de juros e na Selic ajuda a compreender os riscos e oportunidades do mercado financeiro, mostrando a importância de acompanhar notícias e estudar estratégias financeiras.",
+  "gancho": "*DIs* disparam com reeleição de *Lula*",
+  "ideias": [
+   "Por que as taxas de DI subiram mais de 200 pontos?",
+   "O que a reeleição de Lula significa para a Selic?",
+   "Como a curva de juros futuros reage às eleições presidenciais"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://www.moneytimes.com.br/taxas-dis-disparam-mais-200-pontos-base-mercado-zera-probabilidade-cortes-selic-lils/",
+  "publicadoEm": "2026-10-26T10:36:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-66"
+ },
+ {
+  "titulo": "Dólar dispara 11% e Bolsa aciona circuit breaker após vitória de Lula",
+  "resumo": "Após vitória de Lula no segundo turno, dólar sobe 11,77% a R$ 5,584 e Bolsa brasileira usa circuit breaker. Juros futuros também disparam refletindo reação negativa do mercado.",
+  "fatos": [
+   "Vitória de Lula (PT) no segundo turno contra Flávio Bolsonaro (PL) confirmada em 26/10/2026.",
+   "Dólar subiu 11,77%, cotado a R$ 5,584 por volta das 10h14.",
+   "Taxa DI para jan/2027 subiu 42 pontos-base, para 13,889%.",
+   "Taxa DI para jan/2031 aumentou 260 pontos-base, para 15,250%.",
+   "Ibovespa futuro recuou quase 20%, acionando circuit breaker.",
+   "Limite de queda do Ibovespa futuro foi ampliado a 20%.",
+   "ETF EWZ caiu mais de 26% no pré-mercado em Nova York.",
+   "ADRs de Itaú e Bradesco recuaram 28% e 25% respectivamente.",
+   "Desde agosto, dólar caiu 2% e Bolsa teve alta de 15,3%.",
+   "Expectativa pós-primeiro turno era de vitória de Flávio Bolsonaro."
+  ],
+  "explicacao": [
+   "Na manhã do dia 26 de outubro de 2026, após confirmar a vitória de Lula contra Flávio Bolsonaro no segundo turno das eleições presidenciais, o mercado brasileiro reagiu com forte estresse. O dólar subiu 11,77%, chegando a R$ 5,584, enquanto a Bolsa acionou o mecanismo de circuit breaker devido a quedas acentuadas.",
+   "Essa reação ocorre porque o mercado antecipava a vitória de Flávio Bolsonaro, cuja presidência era associada a expectativas de ajuste fiscal mais rigoroso. Com Lula, cresce o temor de menor controle das contas públicas, elevação do prêmio de risco e aumento das taxas de juros, afetando ativos como ações e câmbio.",
+   "O movimento dos juros futuros também foi expressivo: a taxa para janeiro de 2027 subiu para 13,889% e para 2031 alcançou 15,250%. A volatilidade do Ibovespa futuro levou o limite de queda a ser ampliado a até 20%, sinalizando a magnitude da instabilidade nessas primeiras horas do pregão.",
+   "Para os próximos dias, especialistas esperam continuidade na venda de ações, maior desvalorização do real e possível cautela do Banco Central, que pode evitar cortes de juros mais agressivos para controlar a pressão inflacionária e os prêmios de risco no mercado."
+  ],
+  "detalhes": [
+   "A reação do mercado foi imediata após o resultado do segundo turno na manhã de 26/10/2026.",
+   "Circuit breaker interrompe negociações temporariamente após queda de 10% no Ibovespa.",
+   "Dólar retomou patamares de janeiro de 2026, quando chegou a R$ 5,48.",
+   "Expectativa de ajuste fiscal rigoroso aumentou ativos após o primeiro turno, revertida com vitória de Lula.",
+   "BTG Pactual prevê queda acentuada da Bolsa e desvalorização de até 15% do real nas próximas semanas.",
+   "Analistas estimam que juros mais altos podem encarecer crédito e pressionar lucros empresariais.",
+   "Pesquisa Citibank indicou que 80% dos gestores esperavam queda superior a 5% no Ibovespa com vitória de Lula."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analistas do BTG Pactual",
+    "oque": "Taxas de juros mais altas e moeda mais fraca podem manter o BC menos propenso a cortes agressivos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026 pela manhã",
+    "oque": "Vitória de Lula confirmada no segundo turno das eleições presidenciais."
+   },
+   {
+    "quando": "26/10/2026 às 10h14",
+    "oque": "Dólar sobe 11,77% e Bolsa aciona mecanismo de circuit breaker."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Interrupção temporária da Bolsa para evitar quedas abruptas."
+   },
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxas de juros esperadas para datas futuras no mercado."
+   },
+   {
+    "termo": "Ibovespa futuro",
+    "significado": "Contrato que permite apostar na direção do índice Ibovespa."
+   }
+  ],
+  "pergunta": "Você já sabia que o circuit breaker é um mecanismo de proteção da Bolsa?",
+  "tamanhoTexto": 8878,
+  "numeros": [
+   {
+    "valor": "11,77%",
+    "rotulo": "alta do dólar em um dia após resultado eleitoral"
+   },
+   {
+    "valor": "R$ 5,584",
+    "rotulo": "cotação do dólar no horário de alta máxima"
+   },
+   {
+    "valor": "13,889%",
+    "rotulo": "taxa DI para janeiro de 2027"
+   },
+   {
+    "valor": "15,250%",
+    "rotulo": "taxa DI para janeiro de 2031"
+   },
+   {
+    "valor": "26%",
+    "rotulo": "queda do ETF EWZ no pré-mercado nos EUA"
+   },
+   {
+    "valor": "19,97%",
+    "rotulo": "queda do Ibovespa futuro que ativou o circuit breaker"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "cotação do dólar",
+    "antes": "R$ 5,001 (fechamento anterior)",
+    "depois": "R$ 5,584 (pico após resultado)"
+   },
+   {
+    "item": "Ibovespa",
+    "antes": "206.911 pontos (pós primeiro turno)",
+    "depois": "166.855 pontos (Ibovespa futuro após vitória de Lula)"
+   }
+  ],
+  "destaque": "11,77% de alta",
+  "porQueImporta": "Essa alta expressiva do dólar e a queda da Bolsa após as eleições refletem o impacto político nas expectativas econômicas. Para quem investe, entender essa volatilidade ajuda a analisar riscos, proteger patrimônio e acompanhar o cenário econômico diante das incertezas políticas.",
+  "impactoMercado": "A desvalorização do real e a elevação dos juros futuros podem afetar setores sensíveis a crédito e custo financeiro, influenciando ações e câmbio. O acionamento do circuit breaker indica alta volatilidade, que pode sinalizar maior cautela no mercado de ações brasileiro nos próximos dias.",
+  "entenda": "Circuit breaker é um mecanismo da Bolsa que interrompe temporariamente negociações para evitar quedas muito rápidas e desorganizadas. Juros futuros refletem expectativa de taxas para o futuro e afetam preços de ativos. A valorização ou queda do dólar influencia custos e investimentos no Brasil.",
+  "observar": "Acompanhe os próximos pregões para ver como o Banco Central responderá aos movimentos dos juros e câmbio e observe dados econômicos que podem influenciar os mercados nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicamos como o resultado das eleições pode afetar o mercado financeiro na prática, mostrando reações imediatas em câmbio, juros e Bolsa para quem quer aprender e se preparar com entendimento de mercado real.",
+  "gancho": "*Dólar* dispara e *Bolsa* para",
+  "ideias": [
+   "Como o circuit breaker protege a Bolsa nas quedas abruptas?",
+   "Entenda o impacto da eleição na alta do dólar e juros futuros",
+   "Por que a vitória de Lula assustou o mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "raio",
+  "fonte": "Folha Mercado",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-de-mais-de-8-apos-vitoria-de-lula-juros-futuros-disparam.shtml",
+  "publicadoEm": "2026-10-26T09:14:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-67"
+ },
+ {
+  "titulo": "Dólar dispara 12,25% a R$ 5,60 após vitória de Lula nas eleições",
+  "resumo": "Dólar à vista abriu em alta de 12,25%, atingindo R$ 5,60 na B3, devido à reeleição de Lula. No mercado offshore, moeda batou R$ 5,70, o maior volume negociado fora do horário doméstico.",
+  "fatos": [
+   "Dólar à vista registrou alta de 12,25%, cotado a R$ 5,6048.",
+   "Limite máximo de trava de negociação da B3 atingido em R$ 5,60.",
+   "Dólar chegou a R$ 5,70 no mercado offshore.",
+   "B3 ampliou limite de oscilação para contratos futuros de dólar de 6% para 8,4%.",
+   "Volume nocional negociado em contratos futuros de real no mercado offshore foi de US$ 2,5 bilhões na manhã.",
+   "Volume médio diário da plataforma offshore é de US$ 800 milhões.",
+   "Recorde histórico anterior de volume no CME era US$ 3,6 bilhões, em 28 de setembro de 2026.",
+   "Euro valorizou 12,22%, cotado a R$ 6,2722.",
+   "Índice DXY avançou 0,05%, aos 101,865 pontos.",
+   "Real foi a pior moeda entre as 33 mais líquidas no dia."
+  ],
+  "explicacao": [
+   "Na manhã de segunda-feira, 26 de outubro de 2026, o dólar à vista subiu 12,25%, chegando a R$ 5,60 na B3, atingindo o limite máximo de trava de negociação após a vitória de Luiz Inácio Lula da Silva (PT) nas eleições.",
+   "Essa valorização ocorreu principalmente em reação ao resultado eleitoral, que contrariou as expectativas do mercado, gerando forte nervosismo e impacto nas negociações cambiais e nos ativos brasileiros.",
+   "A B3 ampliou os limites de oscilação diária dos contratos futuros de dólar de 6% para 8,4%, mas a alta da moeda no mercado offshore chegou a R$ 5,70, superando o limite do mercado doméstico, com volume recorde de US$ 2,5 bilhões negociados até o momento.",
+   "A expectativa é de que as oscilações continuem a influenciar o mercado financeiro, com possíveis impactos na bolsa, juros e câmbio nas próximas sessões."
+  ],
+  "detalhes": [
+   "A alta ocorreu logo após a confirmação da vitória e reeleição do presidente Luiz Inácio Lula da Silva (PT).",
+   "O limite de trava no mercado à vista da B3 impacta diretamente a negociação e a formação de preço.",
+   "O mercado offshore funciona fora do horário e das regras brasileiras, onde o dólar atingiu preço maior que no mercado doméstico.",
+   "O volume recorde fora do horário doméstico mostra o impacto intenso da notícia nas expectativas globais.",
+   "A B3 ampliou os limites de oscilação para contratos futuros para tentar acomodar a volatilidade maior.",
+   "O euro também teve alta expressiva, acompanhando a desvalorização do real.",
+   "O índice DXY mede a força do dólar em relação a seis moedas desenvolvidas e mostrou leve alta."
+  ],
+  "declaracoes": [
+   {
+    "quem": "gestor com acesso ao CME",
+    "oque": "Confirmou que o dólar atingiu R$ 5,70 no mercado offshore durante a manhã."
+   },
+   {
+    "quem": "plataforma offshore",
+    "oque": "Registrou US$ 2,5 bilhões negociados em contratos futuros de real nesta manhã, três vezes o volume médio diário."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026, 09h36",
+    "oque": "Dólar abre em forte alta, perto da trava de R$ 5,60."
+   },
+   {
+    "quando": "26/10/2026, 10h05",
+    "oque": "Dólar travado com alta de 12,25% a R$ 5,6048 na B3."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Trava de negociação",
+    "significado": "Limite diário máximo para variação de preço no mercado à vista."
+   },
+   {
+    "termo": "Mercado offshore",
+    "significado": "Negociações financeiras realizadas fora do país, sem as mesmas regras do mercado local."
+   },
+   {
+    "termo": "Índice DXY",
+    "significado": "Mede a força do dólar contra seis moedas principais."
+   }
+  ],
+  "pergunta": "Você achou que o câmbio vai continuar volátil após as eleições?",
+  "tamanhoTexto": 3238,
+  "numeros": [
+   {
+    "valor": "12,25%",
+    "rotulo": "alta do dólar à vista na B3"
+   },
+   {
+    "valor": "R$ 5,60",
+    "rotulo": "preço máximo com trava na B3"
+   },
+   {
+    "valor": "R$ 5,70",
+    "rotulo": "preço do dólar no mercado offshore"
+   },
+   {
+    "valor": "8,4%",
+    "rotulo": "limite de oscilação ampliado na B3 para futuros"
+   },
+   {
+    "valor": "US$ 2,5 bilhões",
+    "rotulo": "volume negociado em contratos futuros offshore"
+   },
+   {
+    "valor": "US$ 800 milhões",
+    "rotulo": "volume médio diário da plataforma no ano"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "12,25% de alta",
+  "porQueImporta": "Essa alta abrupta do dólar reflete aversão ao risco pós-eleitoral, gerando volatilidade que influencia diretamente investimentos, câmbio e custos de importação, afetando todos que operam ou investem em ativos brasileiros.",
+  "impactoMercado": "A alta do dólar pode pressionar ativos locais, juros e causar ajustes na bolsa. Setores dependentes do câmbio e renda fixa estão sujeitos à volatilidade crescente, impactando estratégias de trading e investimentos.",
+  "entenda": "Dólar à vista é a moeda americana negociada para entrega imediata no Brasil. A trava de negociação limita a alta diária para evitar extremos de volatilidade, mas o mercado offshore, fora do Brasil, negocia livremente, influenciando a cotação global.",
+  "observar": "Acompanhe a movimentação do dólar nas próximas sessões e eventuais novas decisões da B3 sobre limites para oscilações, além da resposta do mercado à política econômica do governo reeleito.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explorar como a vitória eleitoral repercute no câmbio e no mercado ajuda o seguidor a entender volatilidade, limites de trava e operação que influenciam seu dia a dia no mercado financeiro.",
+  "gancho": "*Dólar* dispara após *Lula*",
+  "ideias": [
+   "Como a eleição de Lula impacta o dólar e você",
+   "O que é trava de negociação no câmbio?",
+   "Por que o dólar bateu R$ 5,70 no mercado offshore?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/10/26/dolar-dispara-865percent-a-r-542-bate-em-trava-no-exterior-vai-a-r-560-apos-vitoria-de-lula.ghtml",
+  "publicadoEm": "2026-10-26T09:36:03-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-68"
+ },
+ {
+  "titulo": "Ibovespa Futuro despenca quase 15% após reeleição de Lula",
+  "resumo": "Ibovespa Futuro cai 14,84% abrindo a semana após resultado da eleição presidencial. Juros futuros para 2031 e 2033 sobem para 14,46% e 14,58% ao ano respectivamente.",
+  "fatos": [
+   "Ibovespa Futuro (INDZ26) caiu de 208.095 para 177.215 pontos na manhã de 26/10/2026.",
+   "Queda de aproximadamente 14,84% no índice futuro registra forte pressão de venda.",
+   "Foram realizados 15 negócios no mercado futuro até pouco depois das 9h, com volume financeiro de R$ 350,89 milhões.",
+   "Não havia ofertas de compra registradas no livro de negociações momento da abertura do mercado.",
+   "Taxas de juros futuros para 2031 atingiram 14,46% ao ano.",
+   "Taxas de juros futuros para 2033 chegaram a 14,58% ao ano.",
+   "Lula foi reeleito presidente do Brasil em 25 de outubro de 2026.",
+   "Dólar subiu 8%, chegando a R$ 5,42 após resultado do segundo turno."
+  ],
+  "explicacao": [
+   "Na manhã de 26 de outubro de 2026, o Ibovespa Futuro com vencimento em dezembro (INDZ26) abriu a semana com forte queda de aproximadamente 14,84%, caindo dos 208.095 pontos na sexta-feira (23) para 177.215 pontos. Essa reação foi imediata após a confirmação da reeleição de Luiz Inácio Lula da Silva para presidente.",
+   "Esse movimento negativo no mercado reflete a apreensão dos investidores diante da continuidade do governo Lula, considerada um cenário que pode elevar incertezas e instabilidade econômica. Além disso, a pressão de venda foi tão intensa que houve momentos sem oferta de compra no livro de negociações, evidenciando cautela.",
+   "Ao mesmo tempo, os juros futuros para prazos longos tiveram disparos, com taxas para 2031 e 2033 chegando a 14,46% e 14,58% ao ano. Esse aumento indica maior percepção de risco e estimativa de custos mais elevados no financiamento do governo e da economia a longo prazo.",
+   "Os próximos passos no mercado devem acompanhar o desenrolar das políticas econômicas do governo reeleito e reações dos investidores, além de possíveis eventos fiscais ou mudanças na agenda econômica que possam dar mais clareza e segurança ao mercado financeiro brasileiro."
+  ],
+  "detalhes": [
+   "Ibovespa Futuro usado para medir expectativa da bolsa para o curto prazo (vencimento dezembro 2026).",
+   "O mercado acionário reage rapidamente a eleições presidenciais por incertezas em política econômica.",
+   "Eleição ocorreu em 25 de outubro de 2026 e resultado confirmado no mesmo dia.",
+   "Volume financeiro de R$ 350,89 milhões em transações nesse período inicial é relativamente baixo, indicando cautela.",
+   "Forte pressão de venda gera ausência de ofertas de compra no livro, mostrando sentimento negativo.",
+   "Juros futuros mais altos indicam maior risco percebido pelo mercado para o governo brasileiro no longo prazo.",
+   "A valorização do dólar influencia custos de importação e dívidas em moeda estrangeira para empresas brasileiras."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26/10/2026, 9h05",
+    "oque": "Ibovespa Futuro cai 14,84% após reeleição de Lula"
+   },
+   {
+    "quando": "23/10/2026",
+    "oque": "Ibovespa fechou último pregão antes das eleições em 208.095 pontos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa Futuro",
+    "significado": "Contrato que reflete expectativa futura da bolsa de valores"
+   },
+   {
+    "termo": "Circuit breaker",
+    "significado": "Interrupção temporária de negociações para conter quedas fortes"
+   },
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxas projetadas para empréstimos em datas futuras"
+   }
+  ],
+  "pergunta": "Como você acha que a reeleição de Lula vai influenciar o mercado financeiro?",
+  "tamanhoTexto": 1639,
+  "numeros": [
+   {
+    "valor": "177.215",
+    "rotulo": "Ibovespa Futuro em 26/10/2026 às 9h05"
+   },
+   {
+    "valor": "208.095",
+    "rotulo": "Ibovespa Futuro no fechamento de 23/10/2026"
+   },
+   {
+    "valor": "-14,84%",
+    "rotulo": "Queda percentual do Ibovespa Futuro na abertura do dia"
+   },
+   {
+    "valor": "R$ 350,89 milhões",
+    "rotulo": "Volume financeiro em negócios realizados até 9h"
+   },
+   {
+    "valor": "14,46%",
+    "rotulo": "Taxa de juros futuro para 2031"
+   },
+   {
+    "valor": "14,58%",
+    "rotulo": "Taxa de juros futuro para 2033"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "-14,84%",
+  "porQueImporta": "A forte queda do Ibovespa Futuro e o aumento dos juros refletem mudanças no sentimento do mercado após a reeleição de Lula, afetando decisões de investidores e traders. Esse cenário indica ajustes no risco do país, essencial para quem atua com ações, juros e câmbio.",
+  "impactoMercado": "Setores sensíveis a política econômica podem sofrer volatilidade, enquanto a valorização do dólar e disparada dos juros futuros indicam custo maior de capital. Investidores devem monitorar cenário econômico e possível instabilidade para ajustar suas estratégias.",
+  "entenda": "O Ibovespa Futuro é um contrato que antecipa o posicionamento do mercado sobre o índice, refletindo expectativas de alta ou queda. Juros futuros indicam quanto o mercado cobra para emprestar dinheiro no futuro; alta nesses juros sinaliza maior risco ou inflação esperada.",
+  "observar": "Ficar atento a anúncios do governo Lula e dados econômicos nas próximas semanas, que podem influenciar volatilidade do Ibovespa e movimentação dos juros futuros.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esta notícia traduz o impacto imediato das eleições sobre o mercado e permite entender o funcionamento do mercado futuro, juros e bolsa, convidando a estudar e se preparar para diferentes cenários financeiros.",
+  "gancho": "*Ibovespa* e juros em choque",
+  "ideias": [
+   "Por que o Ibovespa Futuro despenca após eleições?",
+   "Como os juros futuros refletem o risco político?",
+   "O que significa alta do dólar depois das eleições?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://timesbrasil.com.br/investimentos/ibovespa-futuro-despenca-quase-15-apos-reeleicao-de-lula-juros-de-longo-prazo-disparam/",
+  "publicadoEm": "2026-10-26T09:30:42-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-69"
+ },
+ {
+  "titulo": "Juros futuros sobem forte após reeleição de Lula e alcançam limites da B3",
+  "resumo": "Após a vitória inesperada de Lula nas eleições de 2026, os juros futuros subiram com forte pressão e bateram os limites de oscilação da B3, provocando cancelamento de leilões do Tesouro.",
+  "fatos": [
+   "Reeleição de Luiz Inácio Lula da Silva (PT) em 25 de outubro de 2026.",
+   "Juros futuros tiveram altas expressivas em 26 de outubro de 2026.",
+   "Taxa do DI janeiro de 2027 subiu para 13,89%.",
+   "Taxa do DI janeiro de 2028 avançou para 14,915%.",
+   "Taxa do DI janeiro de 2029 alcançou 15,03%.",
+   "Taxa do DI janeiro de 2031 subiu para 15,25%.",
+   "B3 ampliou limites de oscilação duas vezes no dia 26/10/2026.",
+   "Cancelamento dos leilões de NTN-B, LTN e NTN-F pelo Tesouro Nacional.",
+   "Negociações de ações, derivativos e renda fixa privada foram suspensas por 30 minutos."
+  ],
+  "explicacao": [
+   "Na manhã de 26 de outubro de 2026, os contratos futuros de juros operaram com alta expressiva após a reeleição do presidente Luiz Inácio Lula da Silva (PT), contrariando a expectativa do mercado, que apostava na vitória de Flávio Bolsonaro (PL-RJ).",
+   "Como reflexo da surpresa eleitoral, as taxas dos contratos DI para janeiro de 2027 a 2031 tiveram alta significativa, chegando a superar 15% em alguns vencimentos, e as oscilações atingiram os limites definidos pela B3, que precisou ampliar esses limites duas vezes no pregão.",
+   "Esse movimento causou instabilidade nos mercados, com as negociações de ações, derivativos e títulos de renda fixa privada sendo interrompidas por 30 minutos, além do cancelamento dos leilões de NTN-B, LTN e NTN-F previstos para aquela semana pelo Tesouro Nacional.",
+   "O cenário agora exige acompanhamento atento, já que a turbulência nos juros futuros reflete a incerteza implícita no mercado diante da continuidade do governo Lula, fenômeno que traz repercussões diretas para as taxas de financiamento e investimentos no Brasil."
+  ],
+  "detalhes": [
+   "A surpresa ocorreu porque o mercado esperava vitória de Flávio Bolsonaro (PL-RJ).",
+   "Os limites de oscilação da B3 são mecanismos para controlar volatilidade extrema.",
+   "As taxas do DI indicam o custo do dinheiro para empréstimos de curto e longo prazo.",
+   "O cancelamento dos leilões afetou principalmente papéis indexados à inflação (NTN-B) e outros títulos públicos.",
+   "A interrupção das negociações aconteceu em meio à forte reação negativa dos investidores.",
+   "O mercado reage rapidamente às mudanças políticas que afetam o cenário econômico e fiscal.",
+   "Essa alta nos juros futuros pode representar maior custo para financiamento público e privado."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "25/10/2026",
+    "oque": "Reeleição de Lula surpreende mercado."
+   },
+   {
+    "quando": "26/10/2026, 09h50",
+    "oque": "Juros futuros atingem altos níveis e limites da B3."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "DI",
+    "significado": "Contrato de Depósito Interfinanceiro, indicador de taxa de juros no Brasil."
+   },
+   {
+    "termo": "Limite de oscilação",
+    "significado": "Valor máximo de variação permitida para ativos em bolsa no pregão."
+   },
+   {
+    "termo": "Leilão do Tesouro",
+    "significado": "Venda de títulos públicos para financiar o governo."
+   }
+  ],
+  "pergunta": "Como você espera que a reeleição de Lula impacte os juros e os investimentos?",
+  "tamanhoTexto": 2278,
+  "numeros": [
+   {
+    "valor": "13,89%",
+    "rotulo": "DI janeiro de 2027 às 09h50"
+   },
+   {
+    "valor": "14,915%",
+    "rotulo": "DI janeiro de 2028 às 09h50"
+   },
+   {
+    "valor": "15,03%",
+    "rotulo": "DI janeiro de 2029 às 09h50"
+   },
+   {
+    "valor": "15,25%",
+    "rotulo": "DI janeiro de 2031 às 09h50"
+   },
+   {
+    "valor": "30 minutos",
+    "rotulo": "Suspensão das negociações em bolsa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Juros futuros até",
+  "porQueImporta": "Essa alta representa a reação imediata do mercado financeiro às surpresas eleitorais, impactando diretamente o custo do dinheiro no Brasil, além de indicar que o ambiente político pode influenciar taxas de financiamento e risco percebido pelos investidores.",
+  "impactoMercado": "A pressão nos juros futuros tende a aumentar os custos para emissão de dívida pública e privada, pode afetar setores sensíveis a crédito e influenciar o comportamento da Bolsa, além de elevar a atenção para o risco político no próximo governo.",
+  "entenda": "Juros futuros são contratos que indicam expectativas para o custo do dinheiro no futuro. Quando subindo forte, indicam maior risco e custo para empréstimos, impactando investimentos e financiamentos no país.",
+  "observar": "Acompanhe os próximos leilões do Tesouro e movimentos nas taxas de juros para entender a estabilidade do mercado após essas eleições.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia exemplifica como eventos políticos podem causar volatilidade nos juros e abrem caminho para aprender como entender o impacto político no mercado financeiro.",
+  "gancho": "*Juros* sob pressão pós-eleições",
+  "ideias": [
+   "Por que a vitória de Lula mexeu nos juros futuros?",
+   "Entenda o que são limites de oscilação da B3",
+   "Como as eleições influenciam os juros e sua carteira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/10/26/juros-futuros-saltam-apos-vitoria-de-lula-e-batem-limites-de-oscilacao.ghtml",
+  "publicadoEm": "2026-10-26T09:58:52-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-70"
+ },
+ {
+  "titulo": "Quarta temporada de 'Lupin' lidera Netflix mundial em 2026",
+  "resumo": "Estreada em 23/10, a 4ª temporada de 'Lupin' alcançou 100% no Rotten Tomatoes e topo na Netflix global.",
+  "fatos": [
+   "Quarta temporada de 'Lupin' estreou em 23 de outubro de 2026.",
+   "A série alcançou 100% de aprovação no Rotten Tomatoes com cinco críticas contabilizadas.",
+   "A terceira temporada também registrou 100% de aprovação no mesmo site.",
+   "Ocupou o primeiro lugar no Top 10 de séries mais assistidas da Netflix segundo o FlixPatrol.",
+   "A quarta temporada chegou após mais de três anos desde a última, lançada em 2023.",
+   "O protagonista Assane Diop está preso e precisa provar sua inocência diante de crimes cometidos por um impostor.",
+   "Omar Sy declarou que gostaria de continuar interpretando Assane Diop pelo resto da vida.",
+   "O ator revelou que quer ver o personagem equilibrando vida criminosa e papel de pai."
+  ],
+  "explicacao": [
+   "A série francesa 'Lupin', estrelada por Omar Sy, lançou sua quarta temporada em 23 de outubro de 2026. O novo ciclo rapidamente chegou ao topo do ranking mundial da Netflix, ganhando destaque nas plataformas de avaliação.",
+   "Esse sucesso é atribuído à combinação de elementos clássicos da série, como mistérios complexos, planos ousados e reviravoltas, além da continuidade da história pessoal do protagonista Assane Diop, que busca provar sua inocência após ser falsamente acusado.",
+   "O reconhecimento na crítica é confirmado pela pontuação de 100% no Rotten Tomatoes, que até o momento contabilizou cinco análises, refletindo a aprovação dos especialistas e repetindo o feito da terceira temporada.",
+   "Embora a Netflix ainda não tenha anunciado uma continuação oficial, Omar Sy já expressou desejo em entrevistas públicas de manter o personagem, reforçando a possibilidade de novas temporadas."
+  ],
+  "detalhes": [
+   "A série é produzida na França e lidera o ranking global da Netflix.",
+   "Assane Diop usa disfarces e inteligência para enganar seus adversários.",
+   "A trama da quarta temporada se passa quatro anos após os eventos anteriores.",
+   "Assane está preso e enfrenta um criminoso que usa o nome Lupin para roubar museus.",
+   "O Rotten Tomatoes considera as críticas de profissionais de cinema e televisão.",
+   "O FlixPatrol é uma plataforma que acompanha rankings de visualizações em serviços de streaming.",
+   "Não há confirmação oficial da Netflix sobre novas temporadas após a quarta."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Omar Sy, ator principal",
+    "oque": "Gostaria de continuar interpretando Assane Diop pelo resto da vida."
+   },
+   {
+    "quem": "Omar Sy, ator principal",
+    "oque": "Quer ver Assane equilibrando a vida de criminoso com seu papel de pai."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de outubro de 2026",
+    "oque": "Estreia da quarta temporada de 'Lupin'."
+   },
+   {
+    "quando": "2023",
+    "oque": "Lançamento da terceira temporada de 'Lupin'."
+   },
+   {
+    "quando": "24 de outubro de 2026",
+    "oque": "Entrevista de Omar Sy ao Radio Times."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Assane Diop",
+    "significado": "Personagem principal da série 'Lupin', um ladrão habilidoso e protagonista."
+   },
+   {
+    "termo": "Rotten Tomatoes",
+    "significado": "Site que compila avaliações de críticos para filmes e séries."
+   },
+   {
+    "termo": "FlixPatrol",
+    "significado": "Plataforma que monitora rankings de visualizações em serviços de streaming."
+   }
+  ],
+  "pergunta": "Você já assistiu 'Lupin'? O que mais gosta na série?",
+  "tamanhoTexto": 2916,
+  "numeros": [
+   {
+    "valor": "100%",
+    "rotulo": "Aprovação crítica no Rotten Tomatoes para as temporadas 3 e 4"
+   },
+   {
+    "valor": "5",
+    "rotulo": "Número de críticas consideradas no Rotten Tomatoes da 4ª temporada"
+   },
+   {
+    "valor": "3 anos",
+    "rotulo": "Intervalo entre a 3ª e a 4ª temporada"
+   },
+   {
+    "valor": "23/10/2026",
+    "rotulo": "Data de estreia da 4ª temporada"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "100% de aprovação",
+  "porQueImporta": "Para quem consome conteúdo streaming e se interessa por séries estrangeiras, o sucesso de 'Lupin' destaca tendências de audiência e valoriza produções internacionais, além de mostrar o impacto de estratégias narrativas envolvendo mistério e aventura.",
+  "impactoMercado": "Liderar o ranking mundial da Netflix reforça a força das séries francesas e pode influenciar investimentos da plataforma em produções europeias, afetando setores ligados a entretenimento, direitos de exibição e marketing digital.",
+  "entenda": "Rotten Tomatoes é uma plataforma que reúne críticas especializadas, apontando a aprovação geral dos lançamentos. Netflix Top 10 mostra as séries mais assistidas mundialmente, indicativo de popularidade e sucesso comercial em streaming.",
+  "observar": "Fique atento para possíveis anúncios da Netflix sobre a 5ª temporada de 'Lupin' e acompanhe novas avaliações no Rotten Tomatoes para atualizar o cenário da série.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia mostra como séries populares e bem avaliadas moldam o consumo digital e o interesse do público, conectando entretenimento com tendências de mercado e oportunidades para entender a dinâmica das plataformas de streaming.",
+  "gancho": "*Lupin* domina Netflix mundial",
+  "ideias": [
+   "Como *Lupin* conquistou 100% no Rotten Tomatoes?",
+   "Quarta temporada de *Lupin*: mistério e estratégia para fãs",
+   "Impacto do sucesso de *Lupin* no mercado de streaming"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://exame.com/pop/nova-temporada-de-lupin-conquista-a-critica-e-chega-ao-topo-da-netflix-mundial/",
+  "publicadoEm": "2026-10-26T07:39:51-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-71"
+ },
+ {
+  "titulo": "Tesouro cancela leilões de prefixados e IPCA+ após reeleição de Lula",
+  "resumo": "Tesouro Nacional cancelou leilões de NTN-B e prefixados marcados para 27 e 29/10. Leilão de LFTs permanece e segue regras normais.",
+  "fatos": [
+   "Leilão de NTN-B (IPCA+) cancelado em 27 de outubro;",
+   "Leilão de prefixados (LTN e NTN-F) cancelado em 29 de outubro;",
+   "Leilão de LFT (Tesouro Selic) confirmado para 27 de outubro;",
+   "Anúncio feito no primeiro pregão após reeleição de Lula, em 26 de outubro de 2026;",
+   "Mercado espera forte alta dos juros futuros após eleição;",
+   "Tesouro continuará monitorando condições de mercado;",
+   "Leilões tradicionais vendem títulos para instituições financeiras, não para pessoas físicas;",
+   "Tesouro Direto, plataforma para pessoas físicas, não foi afetado pelo cancelamento;",
+   "Taxa do Tesouro Prefixado 2032 caiu de 14,15% para 12,89% entre 2 e 23 de outubro;",
+   "Taxa do Tesouro IPCA+ 2050 caiu de IPCA + 7,06% para IPCA + 6,42% no mesmo período."
+  ],
+  "explicacao": [
+   "Após a confirmação da reeleição do presidente Lula, o Tesouro Nacional anunciou, em 26 de outubro, o cancelamento dos leilões de títulos prefixados e atrelados à inflação previstos para esta semana. O leilão de NTN-B, corrigido pelo IPCA, e o leilão de prefixados foram suspensos.",
+   "A decisão ocorre num momento em que o mercado financeiro espera forte alta nas taxas de juros futuros e volatilidade maior nos títulos públicos, o que tende a dificultar a venda desses papéis. Somente o leilão das Letras Financeiras do Tesouro (LFT), vinculadas à Selic, segue confirmado.",
+   "O Tesouro cancelou os leilões tradicionais, usados para vender títulos da dívida a instituições financeiras, para evitar ofertar ativos em um cenário de alta volátil de juros. Isso não afeta a venda desses títulos ao público por meio do Tesouro Direto, que segue normalmente.",
+   "O Tesouro informou que continuará monitorando o mercado para garantir o funcionamento adequado do mercado de títulos públicos. O movimento reflete cautela frente à provável reversão das taxas de juros, que subiram após o primeiro turno da eleição."
+  ],
+  "detalhes": [
+   "O cancelamento dos leilões ocorreu no dia 26 de outubro de 2026, na manhã da segunda-feira;",
+   "O leilão da NTN-B seria realizado na terça-feira, 27 de outubro;",
+   "O leilão de títulos prefixados estava previsto para quinta-feira, 29 de outubro;",
+   "As LFTs, atreladas à taxa Selic, têm menor oscilação de preço e foram mantidas no cronograma;",
+   "O leilão tradicional não afeta o Tesouro Direto para pessoas físicas, que segue normalmente;",
+   "O movimento ocorre após o primeiro turno das eleições, com expectativa de alta dos juros futuros;",
+   "O Tesouro atua para evitar vender papéis em momento de volatilidade e alta nas taxas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Tesouro Nacional",
+    "oque": "Continuará monitorando o mercado para garantir bom funcionamento dos títulos públicos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Tesouro anuncia cancelamento dos leilões de NTN-B e prefixados"
+   },
+   {
+    "quando": "27/10/2026",
+    "oque": "Leilão de NTN-B previsto, mas cancelado"
+   },
+   {
+    "quando": "29/10/2026",
+    "oque": "Leilão de prefixados previsto, mas cancelado"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "NTN-B",
+    "significado": "Título público corrigido pelo índice de inflação IPCA"
+   },
+   {
+    "termo": "Prefixados",
+    "significado": "Títulos com juros fixos definidos no momento da compra"
+   },
+   {
+    "termo": "LFT",
+    "significado": "Título público atrelado à taxa Selic, com menor risco de volatilidade"
+   }
+  ],
+  "pergunta": "Você já conhece a diferença entre títulos prefixados, IPCA+ e Selic?",
+  "tamanhoTexto": 2678,
+  "numeros": [
+   {
+    "valor": "14,15%",
+    "rotulo": "Taxa do Tesouro Prefixado 2032 em 2 de outubro"
+   },
+   {
+    "valor": "12,89%",
+    "rotulo": "Taxa do Tesouro Prefixado 2032 em 23 de outubro"
+   },
+   {
+    "valor": "IPCA + 7,06%",
+    "rotulo": "Taxa do Tesouro IPCA+ 2050 em 2 de outubro"
+   },
+   {
+    "valor": "IPCA + 6,42%",
+    "rotulo": "Taxa do Tesouro IPCA+ 2050 em 23 de outubro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Cancelamento dos leilões",
+  "porQueImporta": "Essa decisão do Tesouro é importante pois oferece segurança e evita vender títulos numa fase de alta abrupta dos juros. Para investidores, significa que o mercado de renda fixa pode ter mais volatilidade e precificação mais cautelosa diante da conjuntura política e econômica.",
+  "impactoMercado": "Com o cancelamento dos leilões, a oferta de títulos prefixados e atrelados ao IPCA será limitada, podendo pressionar os preços e as taxas dessas aplicações. A continuidade do leilão de LFTs mostra preferência por papéis vinculados à taxa básica, que têm menor risco de oscilação.",
+  "entenda": "Leilões tradicionais são vendas de títulos do governo feitas para grandes instituições financeiras, diferentes do Tesouro Direto para pessoas físicas. Quando o Tesouro cancela leilões, evita entrar no mercado num momento de alta instabilidade de preços e juros, protegendo sua capacidade de captação.",
+  "observar": "Acompanhe a divulgação das condições do leilão de LFT, os próximos movimentos do mercado de juros e possíveis novos anúncios do Tesouro durante a semana.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entenda como a política influencia diretamente o mercado de títulos públicos e como o Tesouro age para proteger a oferta na volatilidade, mostrando a importância de conhecimento para operar e investir melhor.",
+  "gancho": "*Tesouro* cancela leilões *após eleição*",
+  "ideias": [
+   "Por que o Tesouro cancela leilões em momentos de alta dos juros?",
+   "Diferenças entre NTN-B, prefixados e LFT: o que você deve saber",
+   "Como reações políticas impactam o mercado de títulos públicos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://www.infomoney.com.br/onde-investir/apos-vitoria-de-lula-tesouro-cancela-leiloes-de-prefixados-e-ipca-da-semana/",
+  "publicadoEm": "2026-10-26T10:22:26-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-72"
+ },
+ {
+  "titulo": "Dólar dispara a R$ 5,42 e circuit breaker suspende negociações na Bolsa",
+  "resumo": "Após vitória inesperada de Lula, dólar sobe 12,2% e Ibovespa cai mais de 10%, acionando circuit breaker. Tesouro cancela leilões diante da forte volatilidade no mercado.",
+  "fatos": [
+   "O dólar comercial abriu com alta de 8,65%, a R$ 5,42, em 26/10/2026.",
+   "Após interrupções, dólar chegou a R$ 5,60, alta de 12,2% no mesmo dia.",
+   "Ibovespa caiu mais de 10%, ativando o circuit breaker na Bolsa.",
+   "Circuit breaker no câmbio aciona com variações acima de 8,4%; B3 ampliou limite para 12%.",
+   "Tesouro Nacional cancelou leilões de NTN-B e prefixados, mantendo apenas leilão de LFTs.",
+   "ETF brasileiro em Nova York caiu 27% no pré-mercado; ETF no Japão recuou 15%.",
+   "XP e Itaú Unibanco despencaram mais de 26% nas negociações internacionais.",
+   "Lula teve 51,79% dos votos; Flávio Bolsonaro obteve 48,21%.",
+   "Taxa de câmbio antes da eleição estava em R$ 4,99.",
+   "Segundo a corretora Monte Bravo, Ibovespa poderia cair 11% na primeira hora."
+  ],
+  "explicacao": [
+   "Na manhã de 26 de outubro de 2026, os mercados financeiros brasileiros reagiram à inesperada vitória do presidente Lula nas eleições contra Flávio Bolsonaro. O dólar comercial disparou 12,2%, chegando a R$ 5,60, enquanto o Ibovespa, principal índice da Bolsa, caiu mais de 10%.",
+   "Esses movimentos bruscos acionaram o circuit breaker no câmbio e na Bolsa, mecanismo que suspende temporariamente as negociações para evitar pânico e dar tempo para análise dos investidores. A B3 ampliou o limite do circuit breaker para 12% no câmbio para tentar conter as oscilações.",
+   "A volatilidade também afetou o mercado de títulos públicos; por isso, o Tesouro Nacional cancelou os leilões de NTN-B e títulos prefixados previstos para os próximos dias, mantendo apenas os títulos atrelados à Selic. No exterior, fundos e ações de empresas brasileiras caíram fortemente.",
+   "Especialistas projetam que, após esse choque inicial, o mercado deve acompanhar as decisões econômicas do governo Lula, como a política fiscal e o controle dos gastos públicos, para avaliar o potencial de recuperação ou pressão futura sobre a Bolsa e o câmbio."
+  ],
+  "detalhes": [
+   "A vitória de Lula nas eleições presidenciais ocorreu em 25 de outubro de 2026.",
+   "Circuit breaker paralisa negociações para evitar pânico e oscilações extremas no mercado.",
+   "O mercado de juros também acionou circuit breaker devido à forte volatilidade.",
+   "O cancelamento dos leilões de títulos públicos foi informado após as 9h30 do dia 26.",
+   "Movimentos de queda no mercado geralmente envolvem pânico e decisões emocionais dos investidores.",
+   "No primeiro turno, Bolsonaro liderou, influenciando mercados a apostarem em cortes de juros.",
+   "Especialistas destacam que Lula terá restrições para expandir gastos públicos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Simon Quijano-Evans, estrategista sênior da Macro Hive",
+    "oque": "O dólar pode subir inicialmente para R$ 5,20, mas o real deve se recuperar gradualmente."
+   },
+   {
+    "quem": "Gustavo Sung, economista-chefe da Suno Research",
+    "oque": "É preciso observar como o governo Lula se organizará para 2027 para entender o mercado."
+   },
+   {
+    "quem": "Bruno Funchal, CEO da Bradesco Asset Management",
+    "oque": "Será um dia duro, o mercado vai reprecificar todas as promessas da campanha."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Dólar abre em alta e circuito breaker é acionado no câmbio e na Bolsa."
+   },
+   {
+    "quando": "9h30 de 26/10/2026",
+    "oque": "Tesouro cancela leilões de NTN-B e títulos prefixados."
+   },
+   {
+    "quando": "25/10/2026",
+    "oque": "Lula vence a eleição presidencial com 51,79% dos votos."
+   },
+   {
+    "quando": "Início de janeiro de 2023",
+    "oque": "Lula inicia terceiro mandato presidencial no Brasil."
+   },
+   {
+    "quando": "15/01/1999",
+    "oque": "Referência histórica: maior alta do dólar em dia no câmbio flutuante (11,1%)."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Suspensão temporária das negociações para evitar pânico no mercado."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da Bolsa de Valores de São Paulo."
+   },
+   {
+    "termo": "NTN-B",
+    "significado": "Título público indexado à inflação brasileiro."
+   }
+  ],
+  "pergunta": "Como você acha que a política econômica do novo governo influenciará o mercado financeiro?",
+  "tamanhoTexto": 10708,
+  "numeros": [
+   {
+    "valor": "5,60",
+    "rotulo": "máxima do dólar em 26/10/2026 após alta de 12,2%"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "queda do Ibovespa que acionou circuit breaker"
+   },
+   {
+    "valor": "27%",
+    "rotulo": "queda do ETF brasileiro em Nova York no pré-mercado"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "limite de variação para suspensão por uma hora no Ibovespa"
+   },
+   {
+    "valor": "51,79%",
+    "rotulo": "percentual dos votos obtidos por Lula no segundo turno"
+   },
+   {
+    "valor": "8,4%",
+    "rotulo": "limite para acionamento do circuit breaker no câmbio"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar comercial",
+    "antes": "R$ 4,99",
+    "depois": "R$ 5,60"
+   },
+   {
+    "item": "Ibovespa",
+    "antes": "níveis pré-eleição (não informado)",
+    "depois": "queda acima de 10%"
+   }
+  ],
+  "destaque": "Dólar alcança R$",
+  "porQueImporta": "A disparada do dólar e a queda da Bolsa refletem o choque imediato do mercado diante da vitória inesperada de Lula. Esses movimentos impactam custos de importação, expectativas de inflação e confiança dos investidores, essenciais para quem opera, pois influenciam volatilidade e riscos das posições financeiras.",
+  "impactoMercado": "Setores importadores e exportadores podem ser afetados pela valorização do dólar. A volatilidade elevada aumenta o custo de hedge e a incerteza para ativos domésticos. Corretores e traders precisam estar atentos aos circuit breakers que limitam negociações, enquanto investidores acompanham o ambiente político que definirá política fiscal e juros.",
+  "entenda": "O circuit breaker é um mecanismo de segurança que suspende temporariamente negociações quando os preços oscilam demais, evitando vendas ou compras precipitadas. A cotação do dólar afeta preço de produtos importados e investimentos estrangeiros. O Ibovespa representa as ações mais negociadas da Bolsa, sensitive a notícias políticas e econômicas.",
+  "observar": "Fique atento às declarações do ministério da Fazenda e custos fiscais anunciados, próximos leilões de títulos públicos e comportamento do Ibovespa e dólar nas semanas após a decisão eleitoral.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esta notícia revela como eventos políticos inesperados podem gerar volatilidade intensa, oferecendo oportunidades para aprender a lidar com riscos do mercado e conhecer estratégias para operar com segurança, incentivando a formação em mercado financeiro.",
+  "gancho": "*Dólar* dispara e *circuit breaker* aciona",
+  "ideias": [
+   "O que é circuit breaker e por que foi acionado?",
+   "Impacto da eleição de Lula na cotação do dólar e na Bolsa",
+   "Como o mercado reage a surpresas políticas: lições para traders"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "O GLOBO",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/bolsa-e-dolar-nesta-segunda-feira-mercados-reagem-a-reeleicao-de-lula.ghtml",
+  "publicadoEm": "2026-10-26T09:50:56-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-73"
+ },
+ {
+  "titulo": "Reeleição de Lula intensifica foco do mercado no ajuste fiscal e credibilidade",
+  "resumo": "A reeleição de Lula para um quarto mandato reacende preocupações fiscais e a necessidade de ajuste para conter a disparada do dólar e a alta dos juros.",
+  "fatos": [
+   "Lula foi reeleito para seu quarto mandato presidencial.",
+   "Especialistas afirmam que o arcabouço fiscal 'já está meio morto' e necessita revisão urgente.",
+   "O câmbio pode oscilar entre R$ 5,50 e R$ 6,00 ao dólar em 2026 e 2027.",
+   "A disparada do dólar pode forçar o Banco Central a elevar a taxa básica de juros.",
+   "Economistas destacam a necessidade de reconstruir a confiança do mercado.",
+   "O ambiente internacional apresenta juros elevados e choques de energia.",
+   "O Congresso eleito também influencia as expectativas fiscais para 2027.",
+   "O endividamento público cresceu durante o terceiro mandato de Lula.",
+   "A equipe econômica e o Banco Central terão papel central na percepção do mercado."
+  ],
+  "explicacao": [
+   "Luiz Inácio Lula da Silva foi reeleito para um quarto mandato, trazendo o tema fiscal para o centro das atenções do mercado financeiro em 2027. Economistas reforçam a necessidade de reconstruir confiança e ajustar as regras fiscais para evitar deterioração financeira.",
+   "Segundo especialistas, o arcabouço fiscal vigente está fragilizado e precisa de revisão urgente para suportar a dinâmica da dívida pública, que deve pressionar mais no próximo ano, em um contexto externo adverso com juros altos e choques globais.",
+   "A volatilidade no câmbio e a possível alta na taxa básica de juros refletem o receio do mercado sobre o endividamento crescente e as incertezas fiscais, enquanto investidores aguardam sinais claros de credibilidade na equipe econômica e no Banco Central.",
+   "O mercado agora acompanha a composição do novo ministério e a definição de metas para o arcabouço fiscal, fundamentais para estabelecer a confiança necessária e evitar que a alta do dólar provoque uma recessão econômica."
+  ],
+  "detalhes": [
+   "Reeleição de Lula para o quarto mandato ocorreu em 2022.",
+   "O arcabouço fiscal é o conjunto de regras que orienta a política de gastos e endividamento público.",
+   "O aumento dos juros no exterior pressiona a economia brasileira.",
+   "A volatilidade do câmbio implica variações significativas no preço do dólar em reais.",
+   "O Banco Central pode responder elevando a taxa Selic para conter a inflação.",
+   "Especialistas Monica de Bolle (Peterson Institute) e Marcela Kawauti (Lifetime) comentaram o cenário.",
+   "O mercado aguarda sinais da nova equipe econômica para formar expectativa de confiança."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Monica de Bolle, economista do Peterson Institute",
+    "oque": "O arcabouço fiscal já está meio morto e precisa de revisão urgente para evitar piora."
+   },
+   {
+    "quem": "Marcela Kawauti, economista-chefe da Lifetime",
+    "oque": "O mercado volta a olhar o fiscal com preocupação, prevendo impacto no câmbio."
+   },
+   {
+    "quem": "Gustavo Sung, da Suno Research",
+    "oque": "Projeta um ajuste fiscal moderado no próximo mandato."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2022",
+    "oque": "Reeleição de Lula confirmada para o 4º mandato."
+   },
+   {
+    "quando": "2026-2027",
+    "oque": "Previsão de câmbio entre R$ 5,50 e R$ 6,00 diante do cenário fiscal."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Arcabouço fiscal",
+    "significado": "Regras que guiam gastos e endividamento do governo"
+   },
+   {
+    "termo": "Taxa Selic",
+    "significado": "Juro básico definido pelo Banco Central"
+   },
+   {
+    "termo": "Câmbio",
+    "significado": "Valor de uma moeda em relação a outra"
+   }
+  ],
+  "pergunta": "Como você acha que a equipe econômica pode restabelecer a confiança do mercado?",
+  "tamanhoTexto": 2439,
+  "numeros": [
+   {
+    "valor": "4",
+    "rotulo": "mandatos presidenciais de Lula"
+   },
+   {
+    "valor": "R$ 5,50 a R$ 6,00",
+    "rotulo": "estimativa para o dólar em 2026-2027"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Revisão urgente do",
+  "porQueImporta": "O foco do mercado no ajuste fiscal e na credibilidade econômica é crucial para investidores porque impacta diretamente juros, câmbio e risco de crédito, influenciando decisões sobre ações, renda fixa e proteção contra volatilidade.",
+  "impactoMercado": "A preocupação com o arcabouço fiscal e a necessidade de ajustes podem aumentar a volatilidade do dólar e da taxa Selic, afetando setores sensíveis a juros e câmbio, como exportação e bancos, além da confiança geral dos investidores no Brasil.",
+  "entenda": "O arcabouço fiscal é o conjunto de regras que controla gastos públicos e endividamento, determinando a saúde das contas do governo. Quando essas regras são frágeis, aumenta o risco de crise econômica, afetando câmbio, juros e investimentos.",
+  "observar": "Acompanhe a definição da equipe econômica, decisões do Congresso e reuniões do Banco Central para sinais de ajuste fiscal e impacto no câmbio até 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT",
+   "Aposentados",
+   "Empresários"
+  ],
+  "angulo": "Explique como a confiança fiscal influencia juros, dólar e investimentos, mostrando a importância de entender a política econômica para quem quer sucesso no mercado.",
+  "gancho": "*Fiscal* e *Confiança* para 2027",
+  "ideias": [
+   "O que o novo mandato de Lula significa para o dólar?",
+   "Por que o arcabouço fiscal precisa ser revisado agora?",
+   "Como decisões econômicas afetam o seu bolso em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://www.estadao.com.br/economia/reeleicao-lula-mercado-fiscal-nomes-sinais-credibilidade/",
+  "publicadoEm": "2026-10-26T08:40:44-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-74"
+ },
+ {
+  "titulo": "ETF de ações brasileiras cai mais de 27% no exterior com vitória de Lula",
+  "resumo": "Após a reeleição de Lula, o ETF EWZ caiu até 27,37% no pré-mercado de NY. Petrobras recuou 13,26% e Vale, 3,30% em ADRs.",
+  "fatos": [
+   "O ETF EWZ caiu até 27,37% no pré-mercado em Nova York em 26 de junho.",
+   "ADRs da Petrobras recuaram 13,26% no mesmo período.",
+   "ADRs da Vale tiveram queda de 3,30%.",
+   "ADRs do Itaú e Bradesco caíram 26,54% e 28,50%, respectivamente.",
+   "Lula venceu o segundo turno contra Flávio Bolsonaro com margem de 3,5 pontos percentuais, quase 4,4 milhões de votos.",
+   "Pesquisas indicavam vantagem de 1 a 2 pontos para o oposicionista antes do resultado.",
+   "Após o primeiro turno, os juros longos caíram mais de 2 pontos percentuais e o Ibovespa subiu quase 8%.",
+   "Dívida pública é de 83% do PIB e está em crescimento.",
+   "No governo Lula anterior, PIB cresceu em média 3% ao ano, triplo do período 2010-2022."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 26 de junho, o ETF EWZ, que representa ações brasileiras na bolsa de Nova York, sofreu uma queda de até 27,37% no pré-mercado, acompanhando desvalorizações fortes de Petrobras, Vale e bancos como Itaú e Bradesco.",
+   "Essas quedas ocorreram devido à vitória inesperada de Lula no segundo turno, contrariando a expectativa do mercado que apostava na vitória de Flávio Bolsonaro e na promessa de ajuste fiscal para reduzir o risco dos ativos brasileiros.",
+   "O resultado traz incertezas sobre a política econômica, elevando prêmios de risco, o dólar e os juros de longo prazo, gerando potencial para liquidações e interrupção das negociações via circuit breaker na bolsa brasileira.",
+   "O cenário futuro dependerá da sinalização do governo Lula em relação ao equilíbrio fiscal, crescimento do PIB e estabilidade institucional, além da dinâmica da oposição no Congresso para definir a trajetória econômica e das taxas de juros."
+  ],
+  "detalhes": [
+   "EWZ é um fundo passivo que acompanha ações brasileiras negociado em Nova York.",
+   "Circuit breaker pode ser acionado na B3 com quedas fortes para evitar pânico no mercado.",
+   "O ajuste fiscal prometido pelo candidato Flávio Bolsonaro gerava queda do prêmio de risco antes da eleição.",
+   "Tesouro IPCA+ estava entre 7,5% e 8% ao ano antes da volatilidade da reta final da eleição.",
+   "Tesouro Prefixado superava 14% ao ano antes da subida do candidato da oposição.",
+   "Ibovespa oscilava entre 170 mil e 177 mil pontos até julho, antes da reviravolta política.",
+   "O dólar estava próximo de R$ 5,20 antes do aumento da tensão após o segundo turno."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Daniel Utsch, gestor da Nero Capital",
+    "oque": "O mercado não tem ideologia, quer crescimento, estabilidade e política coerente."
+   },
+   {
+    "quem": "William Castro Alves, estrategista-chefe da Avenue",
+    "oque": "Estamos vendo uma queda nas ações brasileiras e alta do dólar, com expectativa de juros maiores."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de junho à noite",
+    "oque": "EWZ caiu quase 20% no overnight trading em Nova York."
+   },
+   {
+    "quando": "26 de junho, 5h40 Brasília",
+    "oque": "EWZ caiu 27,37% no pré-mercado de Nova York."
+   },
+   {
+    "quando": "26 de junho, 7h40 Brasília",
+    "oque": "EWZ mantinha queda de 26,14% no pré-mercado."
+   },
+   {
+    "quando": "5 de junho",
+    "oque": "Ibovespa subiu quase 8% após primeiro turno da eleição."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "ETF",
+    "significado": "Fundo que replica um índice com várias ações."
+   },
+   {
+    "termo": "ADRs",
+    "significado": "Recibos de ações brasileiras negociados em bolsas no exterior."
+   },
+   {
+    "termo": "Circuit breaker",
+    "significado": "Suspensão automática das negociações para evitar pânico."
+   }
+  ],
+  "pergunta": "Como você avalia a reação do mercado após a reeleição de Lula?",
+  "tamanhoTexto": 5181,
+  "numeros": [
+   {
+    "valor": "27,37%",
+    "rotulo": "queda do ETF EWZ no pré-mercado"
+   },
+   {
+    "valor": "13,26%",
+    "rotulo": "queda dos ADRs da Petrobras"
+   },
+   {
+    "valor": "3,30%",
+    "rotulo": "queda dos ADRs da Vale"
+   },
+   {
+    "valor": "26,54%",
+    "rotulo": "queda dos ADRs do Itaú"
+   },
+   {
+    "valor": "28,50%",
+    "rotulo": "queda dos ADRs do Bradesco"
+   },
+   {
+    "valor": "3,5 pontos percentuais",
+    "rotulo": "margem de vitória de Lula no segundo turno"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Tesouro IPCA+",
+    "antes": "7,5% a 8% ao ano",
+    "depois": "queda após primeiro turno, tendência de aumento após segundo turno"
+   },
+   {
+    "item": "Tesouro Prefixado",
+    "antes": "acima de 14% ao ano",
+    "depois": "queda após primeiro turno, mas possível alta após segundo turno"
+   },
+   {
+    "item": "Ibovespa",
+    "antes": "170 mil a 177 mil pontos",
+    "depois": "subiu quase 8% após primeiro turno; expectativa de queda após segundo turno"
+   },
+   {
+    "item": "Dólar",
+    "antes": "cerca R$ 5,20",
+    "depois": "tendência de alta após segundo turno"
+   }
+  ],
+  "destaque": "27,37%",
+  "porQueImporta": "Essa queda abrupta do ETF EWZ e o recuo de grandes ADRs refletem o aumento da incerteza política e econômica pós-eleição, impactando prêmios de risco, juros, dólar e o ambiente para investimentos no Brasil.",
+  "impactoMercado": "Investidores devem ficar atentos à volatilidade e ao aumento dos juros e dólar, o que afeta ações, renda fixa e câmbio. O ajuste fiscal e sinais do governo Lula serão cruciais para a estabilidade futura.",
+  "entenda": "O ETF EWZ é um fundo que reúne várias ações brasileiras, permitindo investimento fácil no exterior. ADRs são recibos que facilitam a negociação dessas ações fora do Brasil. Circuit breaker interrompe negociações para evitar quedas extremas.",
+  "observar": "Nos próximos dias, fique atento à movimentação do Ibovespa, das taxas de juros de longo prazo e do dólar, principalmente em resposta a eventuais declarações e medidas do governo Lula.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostra como mudanças políticas impactam os mercados, despertando interesse para entender riscos, ativos e decisões econômicas, incentivando conhecer a faculdade para aprender o mercado financeiro.",
+  "gancho": "*Eleições* e queda do *ETF* brasileiro",
+  "ideias": [
+   "O que é o ETF EWZ e sua alta volatilidade após eleições",
+   "Como a vitória de Lula impacta ações e dólar",
+   "O que esperar dos juros e bolsa com o novo governo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://investnews.com.br/investimentos/etf-de-acoes-brasileiras-cai-19/",
+  "publicadoEm": "2026-10-25T21:58:30-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-26-75"
+ },
+ {
+  "titulo": "BTG prevê queda de 17% no Ibovespa com reeleição de Lula e dólar até 15% mais",
+  "resumo": "BTG Pactual projeta recuo do Ibovespa para 170 mil pontos e desvalorização do real entre 10% e 15% após vitória de Lula em 2026.",
+  "fatos": [
+   "Lula foi reeleito em 25 de outubro de 2026 com 51,79% dos votos.",
+   "Flávio Bolsonaro obteve 48,21% dos votos válidos na eleição presidencial.",
+   "BTG projeta queda de 17% do Ibovespa, para aproximadamente 170 mil pontos.",
+   "Ibovespa fechou em 205 mil pontos antes da eleição.",
+   "BTG estima desvalorização do real entre 10% e 15%.",
+   "Taxa real longa deve subir para mais de 8%, acima da média histórica recente.",
+   "Boletim Focus prevê Selic em 12% no final de 2027, redução de 1,75 ponto percentual.",
+   "PL elegeu 19 senadores e 121 deputados na eleição de 2026.",
+   "Algumas ações de exportadoras e empresas com caixa forte subiram antes da eleição.",
+   "No primeiro mandato Lula, juros reais ficaram em torno de 6,65%; agora podem superar 8%."
+  ],
+  "explicacao": [
+   "No domingo, 25 de outubro de 2026, Luiz Inácio Lula da Silva foi reeleito presidente do Brasil com 51,79% dos votos válidos, superando Flávio Bolsonaro, que teve 48,21%. Isso marcou uma virada em relação ao primeiro turno.",
+   "O BTG Pactual avaliou que essa vitória pode gerar uma queda de 17% no Ibovespa nas próximas semanas, de 205 mil para cerca de 170 mil pontos, e um dólar até 15% mais valioso frente ao real, elevando perdas medidas em dólar para cerca de 30%.",
+   "O banco justifica a expectativa pela provável elevação dos juros reais longos para acima de 8%, enfraquecimento do real e menor espaço para cortes na Selic, pela percepção de maior incerteza fiscal e política no novo mandato.",
+   "Agora, o foco está na definição da política fiscal e da equipe econômica do governo Lula, que poderão influenciar a manutenção ou reversão dessas projeções para os juros, câmbio e bolsa, além da negociação no Congresso."
+  ],
+  "detalhes": [
+   "Lula alcançou 51,79% dos votos válidos no segundo turno em 25/10/2026.",
+   "BTG projeta Ibovespa de 170 mil pontos frente a 205 mil pontos atuais.",
+   "Juro real longo dos títulos NTN-B pode superar 8% em breve, nível maior que em governos recentes.",
+   "Desvalorização do real pode chegar a 15%, com dólar acima de R$ 5,20 a R$ 5,30.",
+   "PL e Frente Aliada ocupam maioria no Senado (40 senadores) e na Câmara (40% dos deputados).",
+   "Empresas menos endividadas são vistas como mais resistentes a juros altos.",
+   "Foco nas ações das exportadoras e das que têm caixa sólido para segurar valor."
+  ],
+  "declaracoes": [
+   {
+    "quem": "BTG Pactual - relatório assinado por Carlos Sequeira e outros",
+    "oque": "A vitória de Lula deve levar juros reais longos acima de 8% e limitar cortes da Selic."
+   },
+   {
+    "quem": "Assessoria do BTG",
+    "oque": "Depois da reeleição de Lula, mercado pode enfrentar circuit breaker; abertura de segunda pode ser pior momento para zerar posições."
+   },
+   {
+    "quem": "Gestor não identificado citado na matéria",
+    "oque": "Ações podem cair até 30% e o fundo ficou muito longe do piso atual."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de outubro de 2026",
+    "oque": "Lula é reeleito presidente do Brasil com 51,79% dos votos."
+   },
+   {
+    "quando": "23 de outubro de 2026 (último",
+    "oque": "Ibovespa fechou em alta, dólar caiu pela expectativa de vitória de Bolsonaro."
+   },
+   {
+    "quando": "26 de outubro de 2026 (manhã)",
+    "oque": "BTG divulga relatório projetando quedas no Ibovespa e desvalorização do real."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Juro real longo",
+    "significado": "Taxa dos títulos públicos corrigidos pela inflação, indica custo de capital."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da bolsa brasileira, reflete desempenho das ações mais negociadas."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira definida pelo Banco Central."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da reeleição de Lula nos seus investimentos?",
+  "tamanhoTexto": 6130,
+  "numeros": [
+   {
+    "valor": "51,79%",
+    "rotulo": "percentual de votos válidos para Lula"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "percentual de votos válidos para Flávio Bolsonaro"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "queda prevista no Ibovespa"
+   },
+   {
+    "valor": "170.000",
+    "rotulo": "pontuação esperada do Ibovespa após queda"
+   },
+   {
+    "valor": "205.000",
+    "rotulo": "pontuação do Ibovespa antes da eleição"
+   },
+   {
+    "valor": "10% a 15%",
+    "rotulo": "queda prevista do real em relação ao dólar"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "juro real longo",
+    "antes": "6,7%",
+    "depois": ">8%"
+   },
+   {
+    "item": "Ibovespa",
+    "antes": "205 mil pontos",
+    "depois": "170 mil pontos (estimativa)"
+   },
+   {
+    "item": "real frente ao dólar",
+    "antes": "cerca de R$ 4,99",
+    "depois": "projeta-se R$ 5,20 a R$ 5,30"
+   }
+  ],
+  "destaque": "17% queda no",
+  "porQueImporta": "Essa projeção indica maior volatilidade e desafios para o mercado acionário e câmbio no Brasil, impactando decisões de investidores e traders que precisam considerar cenários de juros altos, dólar desvalorizado e incertezas fiscais.",
+  "impactoMercado": "Setores ligados ao consumo doméstico podem sofrer mais, enquanto exportadoras e empresas com caixa forte tendem a resistir melhor, influenciando escolhas em renda variável e precificação dos ativos financeiros brasileiros.",
+  "entenda": "O juro real longo é a taxa dos títulos públicos corrigidos pela inflação, funcionando como custo de capital para empresas. Se subir, encarece empréstimos e investimentos, afetando os preços das ações e moedas, como o real frente ao dólar.",
+  "observar": "Acompanhe a formação da equipe econômica e anúncios fiscais em Brasília, pois definirão o rumo dos juros e do câmbio, podendo alterar as condições previstas para o Ibovespa e dólar nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esta notícia explica de forma clara como eventos políticos influenciam juros, câmbio e bolsa, mostrando para o público como acompanhar essas relações na escola de mercado financeiro.",
+  "gancho": "*Lula*, Ibovespa e *dólar* em queda",
+  "ideias": [
+   "O que a reeleição de Lula significa para o Ibovespa?",
+   "Como a vitória de Lula afeta o dólar e os juros longos?",
+   "Quais ações podem proteger seu bolso com juros altos e real fraco?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://exame.com/invest/mercados/vitoria-de-lula-pode-tirar-17-do-ibovespa-e-encarecer-dolar-em-ate-15-diz-btg/",
+  "publicadoEm": "2026-10-26T06:50:36-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-76"
+ },
+ {
+  "titulo": "Vitória de Lula pressiona títulos brasileiros em dólar no exterior",
+  "resumo": "Após a eleição surpreendente de Lula, títulos brasileiros em dólar caíram em Londres, com aumento no rendimento dos papéis a 6,44%. O mercado espera reprecificação ampla na abertura local.",
+  "fatos": [
+   "Luiz Inácio Lula da Silva venceu um quarto mandato presidencial inesperadamente.",
+   "Títulos brasileiros em dólar com vencimento em 2037 subiram 19 pontos-base, para 6,44%.",
+   "Investidores precificam risco político após resultado surpreendente na eleição.",
+   "Simon Quijano-Evans prevê dólar podendo subir para R$ 5,20 após eleição.",
+   "Mercado acionário brasileiro liderou ganhos globais antes do segundo turno.",
+   "Índice MSCI de mercados emergentes ficou praticamente estável após recuo inicial.",
+   "Moedas de mercados emergentes e ações globais registraram poucas mudanças.",
+   "Petróleo Brent caiu 1,9%, para US$ 114,56 por barril durante o período.",
+   "Rendimento dos títulos do Tesouro americano de 10 anos manteve-se em 4,99%."
+  ],
+  "explicacao": [
+   "Na eleição presidencial brasileira, Luiz Inácio Lula da Silva venceu um quarto mandato de forma inesperada, contrariando as expectativas que davam vitória a Bolsonaro. Isso impactou diretamente os ativos brasileiros, especialmente os títulos da dívida em dólar negociados em Londres.",
+   "Os papéis com vencimento em 2037 registraram alta de 19 pontos-base no rendimento, chegando a 6,44%, refletindo a aversão dos investidores a riscos políticos e possíveis mudanças nas políticas econômicas.",
+   "A destinação inicial negativa vem da incerteza sobre a postura fiscal do novo governo, apesar do estrategista Simon Quijano-Evans destacar que a capacidade de Lula para políticas fiscais expansivas será provavelmente limitada, e os juros reais elevados no Brasil ajudarão a estabilizar o real no médio prazo.",
+   "Na abertura dos mercados locais, espera-se uma reprecificação mais ampla dos ativos brasileiros, com o dólar podendo subir para cerca de R$ 5,20 inicialmente, antes de uma possível recuperação gradual do real."
+  ],
+  "detalhes": [
+   "Os títulos da dívida brasileira denominados em dólares foram negociados em Londres.",
+   "O aumento do rendimento reflete maior custo para o Brasil tomar dinheiro emprestado no exterior.",
+   "A valorização do dólar frente ao real deve ser sentida na abertura do mercado local.",
+   "O diferencial de juros entre Brasil e Fed é um fator que pode sustentar o real.",
+   "As expectativas para políticas fiscais do governo Lula são de restrição, limitando impacto negativo.",
+   "Antes das eleições, o mercado apostava na vitória de Bolsonaro, impulsionando ativos brasileiros.",
+   "O mercado global mostrou pouca reação nos ativos de outros países em desenvolvimento na mesma data."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Simon Quijano-Evans, estrategista sênior da Macro Hive",
+    "oque": "Esperamos que o dólar suba para R$ 5,20 inicialmente, mas o real se recupere depois."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "após o segundo turno das eleições",
+    "oque": "Lula é declarado vencedor, surpreendendo mercado e investidores."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Títulos da dívida",
+    "significado": "Títulos que o governo emite para captar recursos de investidores."
+   },
+   {
+    "termo": "Pontos-base",
+    "significado": "Unidade para medir variação em taxas de juros; 1 ponto-base = 0,01%."
+   },
+   {
+    "termo": "Dólar/Real",
+    "significado": "Cotação da moeda americana em relação ao real brasileiro."
+   }
+  ],
+  "pergunta": "Como você acha que a vitória de Lula pode impactar o mercado financeiro brasileiro?",
+  "tamanhoTexto": 3997,
+  "numeros": [
+   {
+    "valor": "6,44%",
+    "rotulo": "rendimento dos títulos brasileiros em dólar com vencimento em 2037"
+   },
+   {
+    "valor": "19 pontos-base",
+    "rotulo": "alta no rendimento dos títulos com vencimento em 2037"
+   },
+   {
+    "valor": "R$ 5,20",
+    "rotulo": "cotação projetada do dólar frente ao real após a eleição"
+   },
+   {
+    "valor": "1,9%",
+    "rotulo": "queda do preço do petróleo Brent na mesma data"
+   },
+   {
+    "valor": "4,99%",
+    "rotulo": "rendimento dos títulos do Tesouro americano de dez anos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "6,44% rendimento dos",
+  "porQueImporta": "Para quem opera ou investe, mudanças políticas inesperadas como a vitória de Lula afetam o custo do crédito do país e a cotação do real, impactando renda fixa e câmbio. Entender essa sensibilidade ajuda a acompanhar riscos e oportunidades nos ativos brasileiros.",
+  "impactoMercado": "Títulos de dívida em dólar podem sofrer pressão, aumentando os custos para o governo. O real tende à desvalorização inicial, afetando investimentos em câmbio e ações, especialmente setores com maior exposição externa. Juros altos no Brasil podem moderar desvalorizações no médio prazo.",
+  "entenda": "Títulos de dívida são empréstimos do governo a investidores. Quando o risco político aumenta, investidores pedem juros maiores, elevando o rendimento desses títulos. A variação do dólar frente ao real afeta a rentabilidade em moeda local, impactando investimentos para brasileiros e estrangeiros.",
+  "observar": "Acompanhe a abertura dos mercados brasileiros para avaliar ajustes dos preços dos ativos após a eleição e fique atento às decisões do Banco Central sobre política monetária diante do cenário político.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Notícias políticas influenciam fortemente a percepção de risco no investimento. Entender essas reações prepara o investidor para lidar com volatilidade e mudanças de cenário, reforçando a importância de conhecimento em finanças e mercado.",
+  "gancho": "*Eleições*, *Mercado*, *Dólar*",
+  "ideias": [
+   "Como eleição de Lula impacta dólar e títulos brasileiros",
+   "O que muda para o mercado com Lula no quarto mandato",
+   "Entenda a reação dos títulos e câmbio à vitória de Lula"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://investnews.com.br/investimentos/vitoria-de-lula-surpreende-mercado-e-pressiona-titulos-brasileiros-no-exterior/",
+  "publicadoEm": "2026-10-26T09:01:08-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-77"
+ },
+ {
+  "titulo": "B3 aciona circuit breaker após reeleição de Lula, a primeira desde 2020",
+  "resumo": "Na manhã de 26/10/2026, a B3 suspendeu negociações por 30 minutos com circuit breaker após forte queda na bolsa. Foi a primeira interrupção desde março de 2020, refletindo reação extrema à reeleição de Lula (PT).",
+  "fatos": [
+   "Circuit breaker acionado na B3 em 26/out/2026, primeiro desde março de 2020",
+   "Suspensão das negociações dura 30 minutos com possível reativação se a queda chegar a 15%",
+   "No pregão noturno de NY, 20 ações brasileiras e ADRs operavam no vermelho, inclusive PagSeguro com queda de 19,49%",
+   "Ibovespa subiu quase 7% entre os dois turnos das eleições, superando 200 mil pontos, mas devolveu após o resultado",
+   "Circuit breaker foi criado nos EUA após Black Monday de 1987 e adotado na B3 em 1997",
+   "Desde 1997 foram 23 acionamentos do mecanismo, sendo o último em março de 2020 com seis paralisações em 10 dias",
+   "Taxa do DI de janeiro de 2033 subiu 1,93 ponto percentual a 14,58% ao ano na reação pós-eleição",
+   "O EWZ, fundo de ações brasileiras nos EUA, recuava 19,61% em pregão noturno",
+   "Ibovespa fechou em queda de 14,78% em 12 de março de 2020, maior queda próxima atual",
+   "Presença do mecanismo visa reduzir volatilidade extrema e evitar decisões precipitadas"
+  ],
+  "explicacao": [
+   "Na segunda-feira, 26 de outubro de 2026, a B3 acionou o mecanismo de circuit breaker logo no início do pregão para conter queda acentuada na bolsa, suspending negociação por 30 minutos. A reabertura ocorre entre 10h30 e 10h35.",
+   "O disparo do circuito está ligado à forte volatilidade após a confirmação da reeleição do presidente Lula, que causou queda nas ações brasileiras também nos mercados internacionais com perdas em ativos como PagSeguro (-19,49%) e fundo EWZ (-19,61%).",
+   "O circuit breaker funciona em três níveis, com paradas temporárias para evitar pânico e minimizar decisões precipitadas. Essa foi a primeira vez que a bolsa chegou ao segundo estágio desde março de 2020.",
+   "Esse evento sinaliza um momento de maior incerteza para investidores e pode influenciar expectativas sobre juros altos e a valorização do dólar. A próxima movimentação do mercado dependerá da resposta econômica e política às condições atuais."
+  ],
+  "detalhes": [
+   "Circuit breaker suspende negociação de ações, derivativos e títulos de renda fixa privada na B3",
+   "Parada inicial é 30 minutos; o segundo estágio suspende por 1 hora, terceiro estágio pode durar tempo indefinido",
+   "Circuit breaker não pode ser acionado nos 30 minutos finais do pregão",
+   "O mecanismo tem três níveis, baseados nos percentuais de queda do Ibovespa: 10%, 15% e 20%",
+   "Entre 4 e 26 de outubro de 2026, Ibovespa teve alta prévia de quase 7%",
+   "Evento anterior com múltiplas paralisações foi em março de 2020, no início da pandemia",
+   "Historicamente, circuit breaker já foi usado em crises asiática (1997), Rússia (1998), crise financeira global (2008) e episódio Joesley Day (2017)"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Alfredo Menezes, CEO da Armor Capital",
+    "oque": "A bolsa vai devolver tudo e mais um pouco após reeleição de Lula"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Circuit breaker acionado após abertura do pregão na B3"
+   },
+   {
+    "quando": "Março de 2020",
+    "oque": "Última vez que circuit breaker foi acionado, seis vezes em 10 dias"
+   },
+   {
+    "quando": "4 de outubro de 2026",
+    "oque": "Primeiro turno das eleições com Flávio Bolsonaro à frente"
+   },
+   {
+    "quando": "Entre 4 e 26 de outubro",
+    "oque": "Ibovespa subiu quase 7% entre os dois turnos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Parada temporária nas negociações para conter quedas bruscas na bolsa"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da bolsa brasileira, referência para o mercado acionário"
+   },
+   {
+    "termo": "ADR",
+    "significado": "Ação de empresa estrangeira negociada em bolsa dos EUA"
+   }
+  ],
+  "pergunta": "Você já tinha ouvido falar do circuit breaker na bolsa?",
+  "tamanhoTexto": 5203,
+  "numeros": [
+   {
+    "valor": "30",
+    "rotulo": "minutos de suspensão inicial do circuit breaker"
+   },
+   {
+    "valor": "15",
+    "rotulo": "percentual para segundo estágio do circuit breaker"
+   },
+   {
+    "valor": "20",
+    "rotulo": "percentual para terceiro estágio do circuit breaker"
+   },
+   {
+    "valor": "19,49",
+    "rotulo": "queda da PagSeguro no pregão noturno de NY (%)"
+   },
+   {
+    "valor": "19,61",
+    "rotulo": "queda do fundo EWZ no pregão noturno de NY (%)"
+   },
+   {
+    "valor": "7",
+    "rotulo": "percentual de alta do Ibovespa entre os turnos eleitorais"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Circuit breaker acionado",
+  "porQueImporta": "O acionamento do circuit breaker significa uma reação forte e imediata do mercado à reeleição de Lula, aumentando a volatilidade e sinalizando incertezas econômicas e políticas relevantes para investidores e traders no curto e médio prazo.",
+  "impactoMercado": "A paralisação pode afetar o ritmo de negociação de ações, derivativos e renda fixa privada, além de influenciar os juros futuros e a percepção sobre o real e dólar, obrigando investidores a reavaliarem suas exposições e riscos.",
+  "entenda": "Circuit breaker é um mecanismo de segurança que interrompe temporariamente negociações na bolsa diante de quedas muito rápidas para evitar pânico e permitir que investidores reajustem estratégias sem pressa.",
+  "observar": "Fique atento ao desdobramento do mercado e indicadores econômicos após a reabertura da B3 e às próximas decisões de política monetária que podem afetar o humor do investidor.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A notícia explica um evento técnico do mercado acionário que afeta diretamente o modo como ordens são processadas em momentos de crise, despertando o interesse para entender os mecanismos de proteção e volatilidade da B3.",
+  "gancho": "*Circuit breaker* na B3 após eleição",
+  "ideias": [
+   "O que é circuit breaker e como funciona?",
+   "Impacto da eleição na bolsa brasileira",
+   "Histórico do circuit breaker na B3"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "raio",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://exame.com/invest/mercados/b3-aciona-circuit-breaker-pela-primeira-vez-desde-2020-apos-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-26T07:21:44-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-78"
+ },
+ {
+  "titulo": "Boletim Focus indica alta da inflação para 2027",
+  "resumo": "Boletim Focus mostra que a inflação para 2027 segue em alta. Relatório divulgado em 26 de outubro de 2026 confirma tendência.",
+  "fatos": [
+   "Boletim Focus divulgado em 26/10/2026",
+   "Inflação de 2027 permanece em trajetória de alta",
+   "Relatório é uma referência para expectativas econômicas"
+  ],
+  "explicacao": [
+   "O Boletim Focus, divulgado no dia 26 de outubro de 2026, aponta que a inflação prevista para o ano de 2027 está em trajetória de alta. Esse relatório é uma referência importante para o mercado financeiro brasileiro.",
+   "Essa tendência de alta na inflação pode estar relacionada às expectativas dos analistas sobre fatores econômicos que afetam preços e índices no país, refletindo incertezas sobre a conjuntura econômica futura.",
+   "Esse cenário traz desafios para investidores e traders, que precisam acompanhar as projeções para adequar suas estratégias de acordo com possíveis impactos nos juros e ativos financeiros.",
+   "O próximo passo é observar as atualizações do Boletim Focus nas semanas seguintes, para entender se essa alta se confirma ou se há mudanças nas expectativas do mercado."
+  ],
+  "detalhes": [
+   "Boletim Focus é semanal e divulgado pelo Banco Central",
+   "Relatório compila previsões de analistas do mercado financeiro",
+   "Trajetória indica aumento das previsões de inflação para 2027",
+   "Data exata da divulgação foi 26 de outubro de 2026"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Divulgação do Boletim Focus com alta de inflação para 2027"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Boletim Focus",
+    "significado": "Relatório semanal com previsões econômicas do mercado financeiro"
+   },
+   {
+    "termo": "Inflação",
+    "significado": "Aumento generalizado dos preços de bens e serviços"
+   }
+  ],
+  "pergunta": "Como você acha que a alta da inflação em 2027 pode impactar seus investimentos?",
+  "tamanhoTexto": 0,
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "alta da inflação",
+  "porQueImporta": "A previsão de alta na inflação para 2027 afeta as decisões de investidores, pois influencia taxas de juros e rentabilidade dos ativos, aumentando a necessidade de atenção às expectativas econômicas.",
+  "impactoMercado": "Uma inflação pressionada pode levar o Banco Central a ajustar a política monetária, impactando juros futuros, câmbio e setores sensíveis a custos e crédito, exigindo adaptação das estratégias dos investidores.",
+  "entenda": "O Boletim Focus reúne previsões de analistas sobre economia brasileira, como inflação e juros. A inflação é a elevação dos preços ao consumidor, e sua expectativa afeta decisões de investimento e política monetária.",
+  "observar": "Acompanhe os próximos Boletins Focus para verificar se as expectativas inflacionárias para 2027 se mantêm ou mudam, e os próximos sinais do Banco Central sobre política de juros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar o Boletim Focus e suas projeções ajuda o seguidor a entender o cenário macroeconômico útil para decisões no mercado e mostra a importância de estudar economia com a faculdade especialista.",
+  "gancho": "*Inflação* em alta para 2027",
+  "ideias": [
+   "O que é o Boletim Focus e por que ele importa?",
+   "Como a inflação prevista para 2027 afeta seu dinheiro?",
+   "Alta da inflação e o que esperar do Banco Central"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "grafico",
+  "fonte": "XP Investimentos",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://conteudos.xpi.com.br/economia/boletim-focus-inflacao-de-2027-continua-em-trajetoria-de-alta-26-10-2026/",
+  "publicadoEm": "2026-10-26T10:17:27-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-79"
+ },
+ {
+  "titulo": "BC exige autorização para ofertas de crédito no PIX e reforça controle",
+  "resumo": "Banco Central definiu que empréstimos via PIX só serão ofertados com consentimento prévio do cliente, com medidas que entram em vigor em 2027.",
+  "fatos": [
+   "Novas regras foram anunciadas em 26 de junho de 2023 pelo Banco Central.",
+   "Ofertas de empréstimos no PIX precisarão de autorização prévia e específica do cliente.",
+   "Haverá intervalo mínimo de 24 horas após habilitação para a primeira oferta.",
+   "Medida visa reforçar responsabilidades das instituições financeiras.",
+   "Norma para consentimento prévio entra em vigor em 1º de julho de 2027.",
+   "Mecanismo para bloqueio de propagandas e ofertas ativas exigido a partir de 31 de março de 2027.",
+   "Para clientes vulneráveis, ofertas de crédito só podem melhorar condições financeiras, sem novos recursos.",
+   "Instituições deverão disponibilizar simuladores de crédito e painéis com dívidas consolidadas.",
+   "Painel inicialmente contempla operações internas, depois inclui SCR e Open Finance."
+  ],
+  "explicacao": [
+   "O Banco Central anunciou novas regras para ofertas de crédito no PIX, o sistema de transferências em tempo real. As instituições financeiras precisarão de autorização prévia e específica do usuário para fazer ofertas de empréstimo, com um intervalo mínimo de 24 horas entre a habilitação e a primeira oferta.",
+   "Essa medida visa aumentar a proteção dos clientes, especialmente os mais vulneráveis financeiramente, reforçando responsabilidades das instituições no processo de oferta e concessão de crédito. As ofertas para clientes com risco de endividamento só poderão ser para melhorar suas condições financeiras, sem oferecer recursos adicionais.",
+   "Além disso, as instituições deverão criar mecanismos para que os clientes bloqueiem propagandas e ofertas ativas de crédito, assim como fornecer simuladores e painéis que mostram as dívidas consolidadas, o que amplia transparência sobre o endividamento e riscos financeiros.",
+   "As novas regras entram em vigor em datas diferentes: em 31 de março de 2027, para bloqueio de ofertas ativas, e em 1º de julho de 2027, para consentimento prévio em empréstimos pelo PIX e painel de dívidas consolidadas. O painel inicialmente mostrará dados da própria instituição e futuramente incluirá dados externos."
+  ],
+  "detalhes": [
+   "Quem: Banco Central regulando instituições financeiras que operam no PIX.",
+   "Quanto: Não há números sobre valores, foco é no controle das ofertas.",
+   "Quando: Anúncio em 26/06/2023; bloqueio de ofertas vigora em 31/03/2027; autorização para ofertas em 01/07/2027.",
+   "Onde: Sistema de transferências PIX, plataforma nacional de pagamentos.",
+   "Como: Consentimento prévio específico, intervalo mínimo de 24 horas e limites para ofertas a clientes em vulnerabilidade.",
+   "Comparação: Medidas ampliam controle existente, adicionando painéis transparentes e simulações.",
+   "Contexto: Medidas fortalecem proteção contra o endividamento excessivo e aumentam transparência no crédito."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Banco Central",
+    "oque": "Novas regras reforçam proteção, transparência e responsabilidade das instituições nas ofertas de crédito no PIX."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de junho de 2023",
+    "oque": "Banco Central anuncia novas regras para ofertas de crédito no PIX."
+   },
+   {
+    "quando": "31 de março de 2027",
+    "oque": "Entrada em vigor da norma para bloqueio de propagandas e ofertas ativas."
+   },
+   {
+    "quando": "1º de julho de 2027",
+    "oque": "Entrada em vigor do consentimento prévio e painel de dívidas consolidadas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PIX",
+    "significado": "Sistema de transferências em tempo real entre contas bancárias."
+   },
+   {
+    "termo": "Consentimento prévio",
+    "significado": "Autorização dada antecipadamente para determinada ação."
+   },
+   {
+    "termo": "Painel de dívidas consolidadas",
+    "significado": "Resumo das operações de crédito do cliente em uma ou várias instituições."
+   }
+  ],
+  "pergunta": "Você já recebeu ofertas de crédito pelo PIX? Como se sentiu?",
+  "tamanhoTexto": 3407,
+  "numeros": [
+   {
+    "valor": "24 horas",
+    "rotulo": "intervalo mínimo entre habilitação e primeira oferta"
+   },
+   {
+    "valor": "31/03/2027",
+    "rotulo": "data para bloqueio de propagandas e ofertas ativas"
+   },
+   {
+    "valor": "01/07/2027",
+    "rotulo": "data para consentimento prévio e painel de dívidas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Consentimento prévio para",
+  "porQueImporta": "Essas regras são fundamentais para garantir que você tenha controle sobre quando e como recebe ofertas de empréstimos no PIX, protegendo contra decisões precipitadas que podem acarretar endividamento. Isso reforça a transparência e segurança no uso do sistema financeiro digital.",
+  "impactoMercado": "Com regras mais rígidas para oferta de crédito no PIX, instituições terão que adaptar seus processos, possivelmente reduzindo ofertas automáticas. Setores ligados a crédito e fintechs precisarão ajustar suas estratégias para respeitar consentimentos e oferecer maior transparência.",
+  "entenda": "O PIX é um sistema de transferências e pagamentos instantâneos. Ofertas de crédito são propostas feitas pelos bancos para empréstimo. O Banco Central exige autorização específica para que essas ofertas sejam feitas, dando mais controle e proteção ao usuário.",
+  "observar": "Acompanhe o andamento das normas até a implementação em 2027 e as práticas das instituições financeiras quanto aos novos painéis e mecanismos de bloqueio no PIX.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar as novidades do Banco Central sobre o PIX ajuda a entender os impactos das regulações no cotidiano financeiro, incentivando o aprendizado e o uso consciente do mercado digital.",
+  "gancho": "*PIX* e *crédito*: novas regras",
+  "ideias": [
+   "Como o BC vai mudar o PIX para oferta de crédito",
+   "Por que você vai precisar autorizar ofertas no PIX",
+   "Painel de dívidas: entenda a novidade no controle do crédito"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "cadeado",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://g1.globo.com/economia/pix/noticia/2026/10/26/oferta-de-credito-no-pix-dependera-de-autorizacao-previa-do-cliente-defina-banco-central.ghtml",
+  "publicadoEm": "2026-10-26T09:58:41-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-80"
+ },
+ {
+  "titulo": "INSS inicia pagamento da folha de outubro nesta segunda-feira, 26",
+  "resumo": "Beneficiários com final de benefício 1 e renda de até um salário mínimo recebem hoje. Pagamentos para outros finais vão até 9 de novembro.",
+  "fatos": [
+   "Pagamento começou em 26 de outubro para beneficiários com final 1 e renda até um salário mínimo.",
+   "Número final do benefício usado para cronograma, não considera o dígito após o traço.",
+   "Pagamentos para finais 2 a 0 se estendem até 9 de novembro.",
+   "Beneficiários com renda acima de R$ 1.621 recebem entre 3 e 9 de novembro.",
+   "Piso previdenciário em 2026 é R$ 1.621; teto é R$ 8.475,55.",
+   "Reajuste dos benefícios acima do salário mínimo foi de 3,90% em janeiro de 2026.",
+   "Consulta disponível pelo site e aplicativo Meu INSS, com login pela conta Gov.br.",
+   "Central telefônica 135 funciona de segunda a sábado, das 7h às 22h."
+  ],
+  "explicacao": [
+   "O INSS começou nesta segunda-feira, 26 de outubro de 2026, o pagamento dos benefícios da folha de outubro para segurados com final 1 no número do benefício, que recebem até um salário mínimo.",
+   "A data de pagamento é definida pelo último número do benefício, desconsiderando o dígito verificador após o traço. Os beneficiários com rendas acima de R$ 1.621 recebem entre 3 e 9 de novembro.",
+   "Os pagamentos da folha de outubro para quem ganha até R$ 1.621 ocorrerão entre 26 de outubro e 9 de novembro, já os que têm benefícios acima desse valor receberam em datas separadas conforme o cronograma.",
+   "Os beneficiários podem consultar datas e valores pelo site e aplicativo Meu INSS, acessando via conta Gov.br, ou pela Central 135 para quem tem dificuldades com canais digitais."
+  ],
+  "detalhes": [
+   "O INSS define a data com base no último número antes do traço no cartão do benefício.",
+   "Mesmo com o mesmo número final, beneficiários com valores diferentes recebem em datas distintas.",
+   "Os pagamentos correspondem à competência de outubro, mesmo que ocorram em novembro.",
+   "O salário mínimo nacional define o limite para o calendário de pagamentos.",
+   "Os benefícios têm regras específicas no cálculo variando conforme tipo e histórico de contribuições.",
+   "Consulta das informações é feita por canais digitais oficiais do próprio INSS.",
+   "A central telefônica oferece suporte para beneficiários sem acesso digital."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Pagamento iniciado para beneficiários com final 1 e renda até um salário mínimo."
+   },
+   {
+    "quando": "27 de outubro a 9 de",
+    "oque": "Pagamentos para demais beneficiários com renda até R$ 1.621."
+   },
+   {
+    "quando": "3 a 9 de novembro de",
+    "oque": "Pagamentos para beneficiários com renda acima de R$ 1.621."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Benefício INSS",
+    "significado": "Pagamento mensal a aposentados, pensionistas ou segurados pelo INSS."
+   },
+   {
+    "termo": "Número final do benefício",
+    "significado": "Último dígito antes do traço no cartão de benefício, usado para definir datas."
+   },
+   {
+    "termo": "Piso previdenciário",
+    "significado": "Valor mínimo pago pelo INSS, que em 2026 é R$ 1.621."
+   }
+  ],
+  "pergunta": "Você já sabe a data do seu pagamento do INSS este mês?",
+  "tamanhoTexto": 3454,
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "final do benefício que recebe em 26/10"
+   },
+   {
+    "valor": "R$ 1.621",
+    "rotulo": "limite do piso previdenciário em 2026"
+   },
+   {
+    "valor": "R$ 8.475,55",
+    "rotulo": "teto do Regime Geral de Previdência Social em 2026"
+   },
+   {
+    "valor": "3,9%",
+    "rotulo": "reajuste dos benefícios acima do salário mínimo"
+   },
+   {
+    "valor": "26 de outubro a 9 de novembro",
+    "rotulo": "período do pagamento para até um salário mínimo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "26 de outubro",
+  "porQueImporta": "Esse calendário é essencial para quem depende dos benefícios do INSS, pois esclarece quando o dinheiro estará disponível, permitindo melhor planejamento financeiro pessoal e evitando confusões quanto ao recebimento.",
+  "impactoMercado": "Os pagamentos do INSS influenciam o consumo das famílias brasileiras e podem impactar setores como varejo e serviços, principalmente no final do mês, afetando também indicadores econômicos ligados à renda.",
+  "entenda": "O INSS paga mensalmente benefícios a aposentados e pensionistas seguindo um cronograma que considera o número final do benefício e o valor recebido, separando quem ganha até um salário mínimo dos demais para organizar os pagamentos.",
+  "observar": "Acompanhe o calendário oficial do INSS e consulte seu benefício pelo Meu INSS. Em caso de dúvidas, use a Central 135, especialmente se não tiver acesso digital.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Explicamos o cronograma do INSS para ajudar quem recebe entender quando vai ter acesso ao dinheiro e como consultar a data certa, apoiando o controle financeiro pessoal.",
+  "gancho": "*INSS* paga outubro hoje",
+  "ideias": [
+   "Como consultar a data do seu benefício INSS em 2026",
+   "Cronograma de pagamentos do INSS: quem recebe e quando",
+   "Diferenças de pagamento do INSS conforme valor do benefício"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "relogio",
+  "fonte": "Exame Invest",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:51:33-03:00",
+  "url": "https://exame.com/invest/minhas-financas/inss-comeca-folha-de-outubro-nesta-segunda-26-veja-quem-recebe/",
+  "publicadoEm": "2026-10-26T02:00:35-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-81"
+ },
+ {
   "titulo": "B3 aciona *circuit breaker* por queda forte",
   "resumo": "A B3 suspendeu as negociações de diversos ativos por 30 minutos devido ao acionamento do *circuit breaker*, um mecanismo para quedas acentuadas do mercado.",
   "fatos": [

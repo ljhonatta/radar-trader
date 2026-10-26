@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-26T10:16:32-03:00",
-  "novas": 21,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-10-26T10:51:33-03:00",
+  "novas": 18,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "21 nova(s) e 1 atualizada(s): Entenda o que é circuit breaker; Dólar dispara após eleições!; Expectativas de queda na Bolsa e dólar em alta.",
+  "mensagem": "18 nova(s): Circuit breaker: botão do pânico na bolsa; Circuit breaker: choque e reação; DIs disparam com reeleição de Lula.",
   "falhas": [
-   "Acionista (HTTPError)"
+   "Monitor Mercantil (HTTPError)"
   ],
   "manual": true,
   "historico": [
+   "2026-10-26T10:51:33-03:00",
    "2026-10-26T10:16:32-03:00",
    "2026-10-26T09:01:19-03:00",
    "2026-10-26T08:58:32-03:00",
@@ -20,10 +21,11 @@
    "2026-10-25T10:55:57-03:00",
    "2026-10-24T20:42:13-03:00",
    "2026-10-24T15:21:47-03:00",
-   "2026-10-24T10:36:56-03:00",
-   "2026-10-23T21:00:20-03:00"
+   "2026-10-24T10:36:56-03:00"
   ],
-  "modelo": "gpt-4o-mini"
+  "modelo": "gpt-4o-mini",
+  "modeloEscrita": "gpt-4.1-mini",
+  "textosCompletos": 17
  },
  "placar": {
   "itens": [
@@ -37,43 +39,43 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 4,98",
-    "var": "+0,28%"
+    "var": "+0,23%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 5,57",
-    "var": "-0,28%"
+    "v": "R$ 5,56",
+    "var": "+0,45%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,1 mil",
-    "var": "-0,33%"
+    "v": "US$ 79,6 mil",
+    "var": "-0,84%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.624",
-    "var": "+0,00%"
+    "v": "7.660",
+    "var": "+0,47%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "28.958",
-    "var": "-0,00%"
+    "v": "29.110",
+    "var": "+0,53%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 115,19",
-    "var": "-1,31%"
+    "v": "US$ 115,28",
+    "var": "-1,23%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.030,20",
-    "var": "+0,56%"
+    "v": "US$ 4.015,80",
+    "var": "+0,20%"
    },
    {
     "k": "SELIC",
@@ -91,11 +93,11 @@
   "obs": "Parcial do pregão",
   "hora": "seg 10h",
   "data": "2026-10-26",
-  "atualizadoEm": "2026-10-26T10:16:32-03:00",
+  "atualizadoEm": "2026-10-26T10:51:33-03:00",
   "ibov": "205.083",
   "ibovVar": "+0,47%",
   "dolar": "R$ 4,98",
-  "dolarVar": "+0,28%",
-  "btc": "US$ 80,1 mil"
+  "dolarVar": "+0,23%",
+  "btc": "US$ 79,6 mil"
  }
 }
