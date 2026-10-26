@@ -639,7 +639,12 @@ def placar(coleta, antigo, falhas):
         try:
             itens.append({"k": k, "nome": nome, "v": br(sgs(serie), 2) + "%", "var": ""})
         except Exception:
-            faltou.append(nome)
+            # Selic e IPCA só mudam em reunião do Copom / divulgação do IBGE: mantém o último valor conhecido
+            velho = next((i for i in (antigo or {}).get("itens", []) if i.get("k") == k), None)
+            if velho:
+                itens.append(velho)
+            else:
+                faltou.append(nome)
     if faltou:
         falhas.append("Sem cotação confiável: " + ", ".join(faltou))
     if not itens:
