@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-26T12:22:08-03:00",
-  "novas": 11,
+  "ultimaColeta": "2026-10-26T13:19:21-03:00",
+  "novas": 8,
   "atualizadas": 1,
   "status": "ok",
-  "mensagem": "11 nova(s) e 1 atualizada(s): Volatilidade Pós-Eleições 2026; Ações em queda: circuit breaker acionado; Risco fiscal e governabilidade pós-eleições.",
+  "mensagem": "8 nova(s) e 1 atualizada(s): Recuperação da Ri Happy aceita; Electrum corrige falha grave; El Niño e alta nos custos da banana.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-26T13:19:21-03:00",
    "2026-10-26T12:22:08-03:00",
    "2026-10-26T11:07:10-03:00",
    "2026-10-26T10:51:33-03:00",
@@ -18,62 +19,61 @@
    "2026-10-25T22:20:40-03:00",
    "2026-10-25T20:32:33-03:00",
    "2026-10-25T15:33:21-03:00",
-   "2026-10-25T10:55:57-03:00",
-   "2026-10-24T20:42:13-03:00"
+   "2026-10-25T10:55:57-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 21
+  "textosCompletos": 19
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "173.215",
-    "var": "-15,54%"
+    "v": "174.960",
+    "var": "-14,69%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,43",
-    "var": "+9,31%"
+    "v": "R$ 5,44",
+    "var": "+9,51%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 5,57",
-    "var": "+0,50%"
+    "v": "R$ 5,62",
+    "var": "+0,62%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,5 mil",
-    "var": "-0,04%"
+    "v": "US$ 80,1 mil",
+    "var": "-0,54%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.699",
-    "var": "+0,99%"
+    "v": "7.680",
+    "var": "+0,73%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "29.379",
-    "var": "+1,46%"
+    "v": "29.315",
+    "var": "+1,23%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 115,04",
-    "var": "-1,44%"
+    "v": "US$ 117,02",
+    "var": "+0,26%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.037,50",
-    "var": "+0,74%"
+    "v": "US$ 4.033,50",
+    "var": "+0,64%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Parcial do pregão",
-  "hora": "seg 12h",
+  "hora": "seg 13h",
   "data": "2026-10-26",
-  "atualizadoEm": "2026-10-26T12:22:08-03:00",
-  "ibov": "173.215",
-  "ibovVar": "-15,54%",
-  "dolar": "R$ 5,43",
-  "dolarVar": "+9,31%",
-  "btc": "US$ 80,5 mil"
+  "atualizadoEm": "2026-10-26T13:19:21-03:00",
+  "ibov": "174.960",
+  "ibovVar": "-14,69%",
+  "dolar": "R$ 5,44",
+  "dolarVar": "+9,51%",
+  "btc": "US$ 80,1 mil"
  }
 }
