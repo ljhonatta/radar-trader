@@ -1,5 +1,366 @@
 [
  {
+  "titulo": "Trump questiona eleição no Brasil, mas elogia Lula e descarta intervenções",
+  "resumo": "Presidente dos EUA, Donald Trump, declarou suspeitas sem provas sobre eleição brasileira, mas destacou boa relação com Lula. Declarações vieram após confirmação da vitória do petista em outubro de 2026.",
+  "fatos": [
+   "Trump declarou suspeitas sobre eleição do Brasil em 26/10/2026, sem apresentar provas.",
+   "Lula foi reeleito presidente do Brasil no segundo turno em 25/10/2026.",
+   "Trump disse gostar de Lula e que se dá bem com ele.",
+   "Nenhuma manifestação oficial dos EUA reconheceu formalmente o resultado até 26/10/2026.",
+   "Economista Arnaldo Lima defende agenda de previsibilidade para conter volatilidade pós-eleição.",
+   "Taxa do Tesouro Prefixado 2032 chegou a 15,78% no mesmo dia, superando salto de março de 2020.",
+   "Fitch Ratings apontou incertezas fiscais após reeleição e possível dificuldade para estabilizar dívida pública.",
+   "A Fitch alertou sobre gastos sociais e dura negociações com um Congresso mais independente.",
+   "Nomeações próximas ao centro político são vistas como caminho para estabilidade fiscal.",
+   "Mercado aguarda definições sobre reformas e composição da equipe econômica de Lula."
+  ],
+  "explicacao": [
+   "Donald Trump, presidente dos Estados Unidos, afirmou neste 26 de outubro de 2026 que a eleição presidencial no Brasil 'parecia mais uma eleição fraudulenta', sem apresentar provas. Ele fez o comentário após a confirmação da vitória do presidente Luiz Inácio Lula da Silva no segundo turno.",
+   "Apesar da crítica ao processo eleitoral, Trump destacou sua boa relação com Lula, afirmando que gosta do petista e se dá bem com ele. Questionado sobre eventual intervenção, Trump respondeu que não está concorrendo no Brasil, mas nos EUA.",
+   "Essas declarações ocorrem em um momento de incertezas e análises do mercado financeiro brasileiro sobre o governo reeleito de Lula, que enfrenta expectativas de definição clara de uma agenda fiscal. Analistas apontam a necessidade de previsibilidade para conter volatilidade.",
+   "A agência Fitch Ratings manifestou preocupações sobre a estabilidade fiscal do Brasil, destacando a falta de clareza sobre as medidas econômicas de Lula, o que pode dificultar a estabilização da dívida pública. Acompanhamento da equipe econômica é esperado para próximos passos."
+  ],
+  "detalhes": [
+   "Declarações de Trump ocorreram em entrevista a jornalistas em 26/10/2026.",
+   "Lula venceu o segundo turno em 25/10/2026, mantendo a presidência para o quarto mandato.",
+   "Arnaldo Lima é líder de Relações com Investidores da Polo Capital e economista.",
+   "Fitch divulgou análise na mesma data, 26/10/2026, destacando riscos fiscais.",
+   "Lima sugere Geraldo Alckmin para ministérios-chave e Rodrigo Pacheco para Supremo.",
+   "Taxa do Tesouro prefixado atingiu 15,78% no mesmo dia, com forte reação do mercado.",
+   "Fitch enfatizou que continuidade das políticas fiscais é incerta e depende de ações futuras."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "A eleição brasileira parecia mais uma fraude, mas gosto e me dou bem com Lula."
+   },
+   {
+    "quem": "Arnaldo Lima, economista e líder de Relações com Investidores da",
+    "oque": "Mercado espera agenda de previsibilidade para conter a volatilidade após a eleição."
+   },
+   {
+    "quem": "Fitch Ratings, agência de classificação de risco",
+    "oque": "Reeleição de Lula aumenta incertezas fiscais e dificulta estabilização da dívida pública."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de outubro de 2026",
+    "oque": "Lula vence segundo turno da eleição presidencial no Brasil."
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Trump comenta resultado eleitoral e questiona eleição no Brasil."
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Fitch Ratings publica análise sobre riscos fiscais pós-eleição no Brasil."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "arcabouço fiscal",
+    "significado": "Conjunto de regras que buscam controlar gastos e dívida pública."
+   },
+   {
+    "termo": "Tesouro Prefixado 2032",
+    "significado": "Título público com taxa fixa, vencimento em 2032."
+   },
+   {
+    "termo": "circuit breaker",
+    "significado": "Mecanismo que interrompe negociações para conter quedas bruscas no mercado."
+   }
+  ],
+  "pergunta": "Como a dúvida de Trump sobre a eleição pode influenciar o mercado brasileiro?",
+  "tamanhoTexto": 8844,
+  "numeros": [
+   {
+    "valor": "15,78%",
+    "rotulo": "taxa do Tesouro Prefixado 2032 alcançada em 26/10/2026"
+   },
+   {
+    "valor": "93%",
+    "rotulo": "percentual do orçamento brasileiro que é despesa obrigatória"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "projeção de aposentadorias do quadro da União na próxima década"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "taxa Tesouro Prefixado 2032",
+    "antes": "menor que 15,78%, valor inferior pré-26/10/2026",
+    "depois": "15,78% em 26/10/2026, maior que em março de 2020"
+   }
+  ],
+  "destaque": "15,78% taxa do",
+  "porQueImporta": "As declarações de Trump e a avaliação da Fitch influenciam a percepção de risco político e fiscal no Brasil, fatores que alteram as expectativas de investidores. Com o cenário de incerteza fiscal, a busca por sinais de previsibilidade do governo reeleito é crucial para a estabilidade financeira e decisões de aportes.",
+  "impactoMercado": "O questionamento internacional da eleição, aliado a dúvidas sobre a agenda fiscal de Lula, pode influenciar volatilidade no mercado financeiro, especialmente em títulos públicos e ações brasileiras. Sinais claros na definição dos ministérios e das reformas são essenciais para conter oscilações em juros e dólar.",
+  "entenda": "O arcabouço fiscal é o conjunto de regras para controlar gastos e equilibrar contas públicas. A estabilidade fiscal reduz o risco de endividamento excessivo, dando confiança a investidores. As taxas dos títulos públicos, como o Tesouro Prefixado, refletem essa confiança: quanto maior o risco, maior a taxa requerida.",
+  "observar": "Nas próximas semanas, fique atento à composição da equipe econômica de Lula e comunicações oficiais do governo e agências como Fitch, que indicarão o rumo da política fiscal e possíveis impactos no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esta notícia mostra a importância de entender a ligação entre política, votos e mercado financeiro, tema essencial para quem quer atuar no mercado e compreender os riscos e oportunidades.",
+  "gancho": "*Eleições* Brasil: Trump e Mercado",
+  "ideias": [
+   "O que significam as dúvidas de Trump sobre a eleição brasileira?",
+   "Como a reeleição de Lula afeta o mercado e as finanças públicas?",
+   "Fitch avalia riscos fiscais e o impacto para investidores em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "globo",
+  "fonte": "InfoMoney; BP Money",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:45:39-03:00",
+  "url": "https://www.infomoney.com.br/mundo/trump-questiona-eleicao-no-brasil-mas-diz-gosto-do-lula-me-dou-bem-com-ele/",
+  "publicadoEm": "2026-10-26T16:49:02-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-120"
+ },
+ {
+  "titulo": "Morre Yasuo Fukuda, ex-premiê japonês focado na China",
+  "resumo": "Yasuo Fukuda, ex-primeiro-ministro do Japão entre 2007-2008, morreu aos 90 anos. Ele buscou aproximar o Japão da China, seguindo legado de seu pai Takeo Fukuda.",
+  "fatos": [
+   "Yasuo Fukuda morreu aos 90 anos em 26 de outubro de 2026.",
+   "Foi primeiro-ministro do Japão de 2007 a 2008.",
+   "Ingressou no Parlamento japonês em 1990, ocupando a cadeira de seu pai Takeo Fukuda.",
+   "Iniciou carreira ministerial em 2000 como secretário-chefe de Gabinete.",
+   "Atuou como principal porta-voz do governo sob o primeiro-ministro Yoshiro Mori.",
+   "Especialista em diplomacia, priorizou relações com países asiáticos.",
+   "Seguiu orientação de seu pai para estreitar laços com a China."
+  ],
+  "explicacao": [
+   "Yasuo Fukuda, que governou o Japão de 2007 a 2008, faleceu aos 90 anos, conforme comunicado das autoridades em 26 de outubro de 2026. Ele ingressou no Parlamento em 1990, substituindo seu pai Takeo Fukuda, também ex-premiê.",
+   "Fukuda iniciou sua trajetória ministerial em 2000 como secretário-chefe de Gabinete, responsável por ser o principal porta-voz do governo, atuando junto ao primeiro-ministro Yoshiro Mori. Tornou-se conhecido como especialista em diplomacia.",
+   "Sua carreira foi marcada pela valorização das relações asiáticas, especialmente com a China, alinhada ao esforço de seu pai para fortalecer os vínculos políticos e econômicos entre Tóquio e Pequim.",
+   "Com sua morte, o Japão perde um importante diplomata que buscou suavizar as relações regionais. O legado de Fukuda reforça a importância da política externa para a estabilidade e desenvolvimento da economia japonesa."
+  ],
+  "detalhes": [
+   "Yasuo Fukuda assumiu o Parlamento em 1990, substituindo seu pai, ex-premiê.",
+   "Foi secretário-chefe de Gabinete em 2000, cargo de grande influência.",
+   "Governou o Japão durante um período de divisões no Parlamento entre 2007 e 2008.",
+   "Fortaleceu a política externa japonesa focada na Ásia, especialmente com a China.",
+   "Seu pai, Takeo Fukuda, também trabalhou para a aproximação entre Japão e China.",
+   "Fukuda tinha reputação de ser um diplomata experiente e com bom humor.",
+   "Sua atuação ocorreu em um contexto de tensões regionais na Ásia Oriental."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "1990",
+    "oque": "Yasuo Fukuda assume a cadeira no Parlamento do Japão."
+   },
+   {
+    "quando": "2000",
+    "oque": "Início no cargo de secretário-chefe de Gabinete."
+   },
+   {
+    "quando": "2007-2008",
+    "oque": "Período em que foi primeiro-ministro do Japão."
+   },
+   {
+    "quando": "26/10/2026",
+    "oque": "Morte de Yasuo Fukuda aos 90 anos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Primeiro-ministro",
+    "significado": "Chefe de governo responsável por administrar o país."
+   },
+   {
+    "termo": "Secretário-chefe de Gabinete",
+    "significado": "Principal porta-voz e coordenador das ações do governo."
+   },
+   {
+    "termo": "Diplomacia",
+    "significado": "Gestão das relações internacionais entre países."
+   }
+  ],
+  "pergunta": "Você sabia da importância de Yasuo Fukuda na relação Japão-China?",
+  "tamanhoTexto": 7511,
+  "numeros": [
+   {
+    "valor": "90",
+    "rotulo": "idade de Yasuo Fukuda ao falecer"
+   },
+   {
+    "valor": "1990",
+    "rotulo": "ano em que entrou no Parlamento japonês"
+   },
+   {
+    "valor": "2000",
+    "rotulo": "ano em que virou secretário-chefe de Gabinete"
+   },
+   {
+    "valor": "2007-2008",
+    "rotulo": "período em que foi primeiro-ministro do Japão"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "90 anos -",
+  "porQueImporta": "O falecimento de Yasuo Fukuda marca a perda de uma figura-chave na diplomacia japonesa que buscou a aproximação com a China, um tema relevante para quem investe em ativos asiáticos e acompanha a estabilidade geopolítica da região.",
+  "impactoMercado": "Fukuda era um símbolo da política japonesa de conciliação com a China, fator que influencia parcerias econômicas e o ambiente de negócios na Ásia. Investidores que operam com ativos internacionais devem monitorar como o Japão dará sequência a essa estratégia.",
+  "entenda": "O primeiro-ministro é o chefe do governo do Japão, responsável por dirigir políticas internas e externas. O secretário-chefe de Gabinete é quem comunica as decisões do governo. Diplomacia é a arte de conduzir relações internacionais para a cooperação entre países.",
+  "observar": "Fique atento a futuras declarações do governo japonês sobre continuidade das políticas externas em relação à China, especialmente em setores econômicos e comerciais.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender a carreira de Yasuo Fukuda ajuda a compreender a importância da diplomacia e do debate político para os investimentos globais, tema central na faculdade de mercado financeiro e day trade.",
+  "gancho": "*Diplomacia* & *Mercado* japonês",
+  "ideias": [
+   "Carreira de Yasuo Fukuda: do Parlamento à diplomacia",
+   "Como a relação Japão-China impacta investimentos asiáticos",
+   "O papel do primeiro-ministro na política econômica japonesa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "globo",
+  "fonte": "Times Brasil; Valor Econômico; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:45:39-03:00",
+  "url": "https://timesbrasil.com.br/mundo/morre-yasuo-fukuda-ex-premie-japones-que-buscou-estreitar-lacos-com-a-china/",
+  "publicadoEm": "2026-10-26T16:24:47-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-121"
+ },
+ {
+  "titulo": "Foundation alerta sobre e-mails de phishing enviados do seu domínio oficial",
+  "resumo": "Foundation, fabricante das carteiras Passport, identificou mais de 23 mil tentativas de phishing em seu nome. Invasão foi causada por chaves de API na Cloudflare; dados pessoais antigos podem ter sido expostos.",
+  "fatos": [
+   "Foundation identificou 23 mil tentativas de envio de e-mails de phishing em seu nome.",
+   "Phishing foi enviado a partir do domínio oficial da Foundation.",
+   "O problema originou-se de chaves de API comprometidas na Cloudflare.",
+   "As chaves de API comprometidas já foram revogadas.",
+   "A empresa investiga possível vazamento de dados pessoais antigos de clientes.",
+   "Os fundos nas carteiras Passport não foram comprometidos.",
+   "Usuários foram alertados para não inserir a frase de recuperação em sites.",
+   "A migração do banco de dados em maio preservou dados antigos acessíveis.",
+   "O domínio malicioso usado para phishing foi derrubado.",
+   "Foundation continua investigando o caso para entender a extensão dos danos."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 26, a Foundation, que fabrica carteiras de hardware para criptomoedas chamadas Passport, alertou sobre e-mails falsos de phishing enviados a partir do seu domínio oficial. Foram detectadas mais de 23 mil tentativas de mensagens falsas aos usuários.",
+   "O ataque foi possível devido ao comprometimento de chaves de API na Cloudflare, que já foram revogadas. Além das mensagens, registros antigos de clientes armazenados em sistemas antigos podem ter sido acessados, expondo dados pessoais.",
+   "Apesar do vazamento e dos e-mails fraudulentos, a empresa garantiu que os fundos nas carteiras Passport permanecem seguros e o hardware não foi comprometido. A recomendação é nunca inserir a frase de recuperação em sites.",
+   "A Foundation segue investigando o incidente, inclusive a exposição possível de dados de pedidos feitos desde maio via Shopify, decorrente de migração de sistemas. A segurança reforçada e as orientações visam proteger os usuários."
+  ],
+  "detalhes": [
+   "A Foundation é fabricante das carteiras de hardware para criptomoeda Passport.",
+   "O incidente foi revelado na segunda-feira, 26 de setembro de 2026.",
+   "Mais de 23 mil tentativas de e-mails falsos foram detectadas e rastreadas.",
+   "Chaves de API comprometidas na Cloudflare permitiram o envio das mensagens falsas.",
+   "Dados pessoais antigos estavam armazenados em registros não excluídos corretamente.",
+   "O problema está relacionado à migração de sistema do WooCommerce para Shopify feita em maio.",
+   "A empresa já revogou as chaves comprometidas e derrubou domínios maliciosos usados nos ataques."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Foundation, fabricante das carteiras Passport",
+    "oque": "Os fundos nas carteiras Passport estão seguros e o hardware não foi comprometido."
+   },
+   {
+    "quem": "Foundation",
+    "oque": "Clientes nunca devem inserir sua frase de recuperação em sites ou compartilhar com terceiros."
+   },
+   {
+    "quem": "Foundation",
+    "oque": "Rastreamos a origem do problema até chaves de API comprometidas na Cloudflare, já revogadas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de setembro de 2026",
+    "oque": "Foundation alerta que conta de e-mail pode ser ponto crítico de falha na segurança digital."
+   },
+   {
+    "quando": "26 de setembro de 2026",
+    "oque": "Foundation identifica e alerta sobre mais de 23 mil tentativas de phishing usando seu domínio."
+   },
+   {
+    "quando": "Maio de 2026",
+    "oque": "Migração do banco de dados da Foundation do WooCommerce para Shopify, registrando dados antigos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Phishing",
+    "significado": "Golpe que usa mensagens falsas para roubar dados ou senhas."
+   },
+   {
+    "termo": "Chaves de API",
+    "significado": "Códigos que autorizam acesso a sistemas e serviços online."
+   },
+   {
+    "termo": "Carteira hardware",
+    "significado": "Dispositivo físico que armazena criptomoedas offline."
+   }
+  ],
+  "pergunta": "Você sabia que e-mails oficiais podem ser usados para phishing? Como você se protege?",
+  "tamanhoTexto": 14653,
+  "numeros": [
+   {
+    "valor": "23.000",
+    "rotulo": "tentativas de envio de e-mails falsos pela Foundation"
+   },
+   {
+    "valor": "maio de 2026",
+    "rotulo": "data da migração do sistema responsável por dados antigos expostos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "23 mil tentativas",
+  "porQueImporta": "Ataques como este evidenciam vulnerabilidades em empresas de carteiras de cripto e reforçam a importância da cautela ao lidar com e-mails e dados pessoais para evitar golpes e perdas financeiras virtuais.",
+  "impactoMercado": "O incidente pode afetar a confiança dos investidores e usuários em carteiras de hardware. A segurança é fundamental no mercado cripto, e vazamentos ou golpes prejudicam a reputação das empresas e a adoção do segmento.",
+  "entenda": "Phishing é um golpe digital que usa e-mails falsos para enganar clientes e roubar dados sensíveis como senhas e frases de recuperação de carteiras digitais, essenciais para controlar criptomoedas.",
+  "observar": "Acompanhe novas atualizações da Foundation sobre as investigações e possíveis ações para restaurar a segurança, além de recomendações para proteção dos usuários nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "Esta notícia destaca a importância da segurança digital no mundo cripto e incentiva o aprendizado sobre riscos e proteção, mostrando o valor de uma formação sólida no mercado financeiro.",
+  "gancho": "*phishing* em carteira Passport",
+  "ideias": [
+   "O que é phishing e como identificar e-mails falsos da Foundation",
+   "Como a segurança das carteiras Passport foi protegida após ataque",
+   "Por que você nunca deve compartilhar sua frase de recuperação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "escudo",
+  "fonte": "Livecoins (cripto); InvestNews; Money Times",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:45:39-03:00",
+  "url": "https://livecoins.com.br/foundation-fabricante-das-carteiras-passport-faz-alerta-sobre-e-mails-de-phishing-enviados-de-seu-dominio-oficial/",
+  "publicadoEm": "2026-10-26T14:12:03-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-122"
+ },
+ {
   "titulo": "Justiça aceita recuperação extrajudicial da Ri Happy com proteção patrimonial",
   "resumo": "A Justiça de São Paulo aceitou o pedido de recuperação extrajudicial da Ri Happy, que acumula R$ 827,4 milhões em dívidas. A juíza concedeu proteção patrimonial por 180 dias contra cobranças dos credores.",
   "fatos": [
@@ -20113,53 +20474,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-october-2026",
-  "titulo": "Mercado de previsões vê 65.5% de chance de Ethereum ultrapassar 2,400 em outubro.",
-  "resumo": "Expectativa otimista para o Ethereum, refletindo confiança entre apostadores sobre o desempenho da criptomoeda.",
+  "titulo": "Mercado de previsões vê 95.5% de chance de Ethereum a *menos* de $2,300 em outubro",
+  "resumo": "Os apostadores estão bastante confiantes de que o preço do Ethereum não ultrapassará $2,300 em outubro.",
   "probs": [
    {
-    "opcao": "Subir para 2,400",
-    "prob": 65.5
+    "opcao": "↓ $2,300",
+    "prob": 95.5
    },
    {
-    "opcao": "Cair para 2,200",
-    "prob": 34.5
+    "opcao": "↑ $2,400",
+    "prob": 50.0
    },
    {
-    "opcao": "Subir para 2,500",
-    "prob": 26.5
+    "opcao": "↓ $2,200",
+    "prob": 41.5
    },
    {
-    "opcao": "Cair para 2,100",
-    "prob": 13.5
+    "opcao": "↑ $2,500",
+    "prob": 19.5
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 123 mil",
+  "volume24h": "US$ 134 mil",
   "fatos": [
-   "Subir para 2,400: 65,5%",
-   "Cair para 2,200: 34,5%",
-   "Subir para 2,500: 26,5%",
-   "Cair para 2,100: 13,5%"
+   "↓ $2,300: 95,5%",
+   "↑ $2,400: 50,0%",
+   "↓ $2,200: 41,5%",
+   "↑ $2,500: 19,5%"
   ],
   "numeros": [
    {
-    "valor": "65,5%",
-    "rotulo": "Subir para 2,400"
+    "valor": "95,5%",
+    "rotulo": "↓ $2,300"
    },
    {
-    "valor": "34,5%",
-    "rotulo": "Cair para 2,200"
+    "valor": "50,0%",
+    "rotulo": "↑ $2,400"
    },
    {
-    "valor": "26,5%",
-    "rotulo": "Subir para 2,500"
+    "valor": "41,5%",
+    "rotulo": "↓ $2,200"
    },
    {
-    "valor": "13,5%",
-    "rotulo": "Cair para 2,100"
+    "valor": "19,5%",
+    "rotulo": "↑ $2,500"
    }
   ],
-  "destaque": "65,5%",
+  "destaque": "95,5%",
   "gancho": "*Incerteza entre cripto* investidores",
   "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
   "categoria": "Previsões",
@@ -20174,7 +20535,7 @@
   "data": "2026-10-22",
   "status": "atualizada",
   "id": "2026-10-22-p1",
-  "atualizadoEm": "2026-10-26T09:01:19-03:00"
+  "atualizadoEm": "2026-10-26T17:45:39-03:00"
  },
  {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
@@ -26584,12 +26945,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "95,0%",
+  "destaque": "46,0%",
   "fatos": [
-   "↓ 80,000: 95,0%",
-   "↑ 82,500: 52,5%",
-   "↓ 77,500: 40,5%",
-   "↑ 85,000: 18,5%"
+   "↓ $77,500: 46,0%",
+   "↑ $82,500: 44,5%",
+   "↓ $75,000: 16,5%",
+   "↑ $85,000: 15,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -26600,50 +26961,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↓ 80,000",
-    "prob": 95.0
+    "opcao": "↓ $77,500",
+    "prob": 46.0
    },
    {
-    "opcao": "↑ 82,500",
-    "prob": 52.5
+    "opcao": "↑ $82,500",
+    "prob": 44.5
    },
    {
-    "opcao": "↓ 77,500",
-    "prob": 40.5
+    "opcao": "↓ $75,000",
+    "prob": 16.5
    },
    {
-    "opcao": "↑ 85,000",
-    "prob": 18.5
+    "opcao": "↑ $85,000",
+    "prob": 15.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Expectativas do mercado são de uma desvalorização do Bitcoin, conforme indicado pelos apostadores.",
+  "resumo": "Os apostadores veem uma ligeira vantagem para a queda do Bitcoin, com quase metade acreditando que ficará abaixo de $77,500.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 95% de chance de Bitcoin abaixo de *80.000* em outubro",
+  "titulo": "Mercado de previsões vê 46.0% de chance de Bitcoin a *menos* de $77,500 em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 532 mil",
+  "volume24h": "US$ 597 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "95,0%",
-    "rotulo": "↓ 80,000"
+    "valor": "46,0%",
+    "rotulo": "↓ $77,500"
    },
    {
-    "valor": "52,5%",
-    "rotulo": "↑ 82,500"
+    "valor": "44,5%",
+    "rotulo": "↑ $82,500"
    },
    {
-    "valor": "40,5%",
-    "rotulo": "↓ 77,500"
+    "valor": "16,5%",
+    "rotulo": "↓ $75,000"
    },
    {
-    "valor": "18,5%",
-    "rotulo": "↑ 85,000"
+    "valor": "15,5%",
+    "rotulo": "↑ $85,000"
    }
   ],
-  "atualizadoEm": "2026-10-26T13:19:21-03:00"
+  "atualizadoEm": "2026-10-26T17:45:39-03:00"
  },
  {
   "categoria": "Previsões",
