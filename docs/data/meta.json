@@ -1,15 +1,17 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-26T08:58:32-03:00",
-  "novas": 21,
+  "ultimaColeta": "2026-10-26T09:01:19-03:00",
+  "novas": 22,
   "atualizadas": 1,
   "status": "ok",
-  "mensagem": "21 nova(s) e 1 atualizada(s): Dólar deve subir 6% após Lula; Reeleição de Lula: Volatilidade à vista!; Alterações na B3: o que isso significa?.",
+  "mensagem": "22 nova(s) e 1 atualizada(s): Impactos da vitória de Lula no mercado; Impacto no mercado após vitória de Lula; Eleições e mercados em movimento!.",
   "falhas": [
+   "Sem cotação confiável: Selic meta, IPCA 12 meses",
    "Acionista (HTTPError)"
   ],
   "manual": true,
   "historico": [
+   "2026-10-26T09:01:19-03:00",
    "2026-10-26T08:58:32-03:00",
    "2026-10-25T22:23:08-03:00",
    "2026-10-25T22:20:40-03:00",
@@ -20,8 +22,7 @@
    "2026-10-24T15:21:47-03:00",
    "2026-10-24T10:36:56-03:00",
    "2026-10-23T21:00:20-03:00",
-   "2026-10-23T16:32:53-03:00",
-   "2026-10-23T11:28:02-03:00"
+   "2026-10-23T16:32:53-03:00"
   ],
   "modelo": "gpt-4o-mini"
  },
@@ -37,19 +38,19 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 4,98",
-    "var": "+0,27%"
+    "var": "+0,23%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 5,57",
-    "var": "+0,62%"
+    "var": "-0,22%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,4 mil",
-    "var": "-0,16%"
+    "v": "US$ 80,3 mil",
+    "var": "-0,19%"
    },
    {
     "k": "SPX",
@@ -66,36 +67,24 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 115,20",
-    "var": "-1,30%"
+    "v": "US$ 115,01",
+    "var": "-1,47%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.030,00",
-    "var": "+0,55%"
-   },
-   {
-    "k": "SELIC",
-    "nome": "Selic meta",
-    "v": "13,75%",
-    "var": ""
-   },
-   {
-    "k": "IPCA",
-    "nome": "IPCA 12 meses",
-    "v": "4,58%",
-    "var": ""
+    "v": "US$ 4.031,90",
+    "var": "+0,60%"
    }
   ],
   "obs": "Fechamento",
-  "hora": "seg 8h",
+  "hora": "seg 9h",
   "data": "2026-10-26",
-  "atualizadoEm": "2026-10-26T08:58:32-03:00",
+  "atualizadoEm": "2026-10-26T09:01:19-03:00",
   "ibov": "205.083",
   "ibovVar": "+0,47%",
   "dolar": "R$ 4,98",
-  "dolarVar": "+0,27%",
-  "btc": "US$ 80,4 mil"
+  "dolarVar": "+0,23%",
+  "btc": "US$ 80,3 mil"
  }
 }

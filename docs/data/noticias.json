@@ -1,5 +1,1089 @@
 [
  {
+  "titulo": "Mercados em Queda Após Vitória de Lula",
+  "resumo": "Ativos brasileiros caem após a reeleição de Lula, enquanto o Itaú compra startup de inteligência artificial. Expectativas políticas influenciam o desempenho do mercado.",
+  "fatos": [
+   "Após a reeleição de Lula, o Brasil viu forte queda nos ativos, com reavaliação por investidores devido ao resultado eleitoral inesperado.",
+   "O déficit em transações correntes foi de US$5,1 bilhões em setembro, com investimentos diretos alcançando US$11,3 bilhões.",
+   "O Itaú Unibanco adquiriu a NeoSpace A.I. Technologies por R$2,9 bilhões, visando fortalecer suas operações de inteligência artificial.",
+   "A reeleição de Lula gerou reações tanto no Brasil quanto no exterior, com analistas rebaixando a recomendação do real e de títulos públicos."
+  ],
+  "numeros": [
+   {
+    "valor": "US$ 5,100 bilhões",
+    "rotulo": "Déficit em transações correntes de setembro"
+   },
+   {
+    "valor": "US$ 11,294 bilhões",
+    "rotulo": "Investimentos diretos no Brasil em setembro"
+   },
+   {
+    "valor": "R$ 2,925 bilhões",
+    "rotulo": "Valor da compra da NeoSpace pelo Itaú"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 5,100 bilhões",
+  "porQueImporta": "A reeleição de Lula pode impactar a confiança dos investidores, influenciando o fluxo de capital e a valorização do real.",
+  "impactoMercado": "Mudanças nas expectativas sobre política econômica podem gerar volatilidade, sendo importante acompanhar a reação dos mercados nos dias seguintes.",
+  "entenda": "O déficit em transações correntes reflete a diferença entre o que o país importa e o que exporta, um indicador importante da saúde econômica.",
+  "observar": "Acompanhe a reação do mercado e a formação do novo governo, pois isso pode trazer alterações significativas nas expectativas econômicas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia esclarece como eventos políticos influenciam os mercados e destaca a importância de entender as movimentações econômicas.",
+  "gancho": "Impactos da *vitória de Lula* no *mercado*",
+  "ideias": [
+   "Lula e o impacto nas *ações* brasileiras",
+   "O que esperar do *mercado* após a reeleição?",
+   "Entendendo o *déficit*- Transações correntes no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+  "publicadoEm": "2026-10-26T08:47:54-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-21"
+ },
+ {
+  "titulo": "Ações brasileiras despencam após vitória de Lula",
+  "resumo": "Após a vitória de Luiz Inácio Lula da Silva, ações de empresas brasileiras listadas nos EUA desvalorizam. O impacto no mercado é expressivo, refletindo incertezas fiscais.",
+  "fatos": [
+   "As ações da Petrobras caíram 20% na pré-abertura nos EUA.",
+   "Itaú Unibanco registrou uma queda de 28,5% e Banco Bradesco, 26,8%.",
+   "A empresa Mercado Livre viu sua valorização despencar 10,3%.",
+   "O ETF iShares MSCI Brasil (EWZ) sofreu uma queda de 26%.",
+   "Analistas acreditam que as reformas esperadas não se concretizarão com essa vitória."
+  ],
+  "numeros": [
+   {
+    "valor": "20%",
+    "rotulo": "Queda das ações da Petrobras"
+   },
+   {
+    "valor": "28,5%",
+    "rotulo": "Queda do Itaú Unibanco"
+   },
+   {
+    "valor": "26,8%",
+    "rotulo": "Queda do Banco Bradesco"
+   },
+   {
+    "valor": "24%",
+    "rotulo": "Queda do Nubank"
+   },
+   {
+    "valor": "26%",
+    "rotulo": "Queda do ETF iShares MSCI Brasil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "20%",
+  "porQueImporta": "A queda acentuada das ações indica a percepção do mercado sobre a instabilidade que as novas políticas podem trazer, afetando a confiança dos investidores.",
+  "impactoMercado": "As incertezas tributárias e fiscais podem levar a ajustes na precificação dos ativos, impactando o desempenho do mercado brasileiro a curto e médio prazos.",
+  "entenda": "O Ibovespa é o índice que mede o desempenho das ações mais negociadas na B3 e serve como referência para investidores sobre a saúde econômica do Brasil.",
+  "observar": "Fique atento ao comportamento do mercado nas próximas semanas, especialmente as reações a novas medidas do governo e ao cenário fiscal.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A notícias suscita reflexões sobre a trajetória das ações e a importância de compreender o cenário econômico, convidando os leitores a aprofundar seu conhecimento no mercado.",
+  "gancho": "*Impacto no mercado* após vitória de Lula",
+  "ideias": [
+   "Queda das ações: O que isso significa?",
+   "Resultado das eleições e o mercado financeiro",
+   "Entenda a repercussão da vitória de Lula nos negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.moneytimes.com.br/adrs-de-empresas-brasileiras-despencam-apos-vitoria-de-lula-igdl/",
+  "publicadoEm": "2026-10-26T07:36:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-22"
+ },
+ {
+  "titulo": "Reeleição de Lula impacta diretamente os mercados brasileiros",
+  "resumo": "A reeleição de Lula gera expectativa de forte queda do Ibovespa e alta nos juros. As intervenções do Banco Central podem ser necessárias.",
+  "fatos": [
+   "A reeleição de Lula foi confirmada no domingo, 25, e deve pressionar os mercados nesta segunda-feira, 26.",
+   "Participantes do mercado esperam uma queda expressiva do Ibovespa após o resultado eleitoral.",
+   "Existem riscos de acionamento do circuit breaker devido a potenciais quedas acentuadas.",
+   "Na última sessão antes da eleição, o Ibovespa fechou em 205.082,56 pontos, com alta de 0,47%."
+  ],
+  "numeros": [
+   {
+    "valor": "205.082",
+    "rotulo": "Ibovespa antes das eleições"
+   },
+   {
+    "valor": "0,47%",
+    "rotulo": "Alta do Ibovespa na última sessão"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "queda expressiva do",
+  "porQueImporta": "A reeleição pode provocar movimentações bruscas nos ativos, afetando a confiança dos investidores e a volatilidade do mercado.",
+  "impactoMercado": "Podemos ver ajustes significativos nos preços de ativos, influenciados pela expectativa de mudanças na política econômica e fiscal.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo a performance das ações mais negociadas do mercado.",
+  "observar": "Acompanhe a reação do mercado nos próximos dias, especialmente os dados econômicos que serão divulgados.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esta notícia mostra como eventos políticos impactam o mercado financeiro, essencial para quem deseja entender mais sobre investimentos.",
+  "gancho": "Eleições e *mercados* em movimento!",
+  "ideias": [
+   "Impactos da eleição no *Ibovespa*",
+   "O que esperar dos *juros* após a reeleição?",
+   "Análise dos impactos da *política* econômica"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://exame.com/invest/mercados/reeleicao-de-lula-focus-e-divida-publica-o-que-move-os-mercados/",
+  "publicadoEm": "2026-10-26T02:30:05-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-23"
+ },
+ {
+  "titulo": "Mercado revisa projeções para inflação e PIB em 2026",
+  "resumo": "O mercado financeiro diminuiu suas estimativas para a inflação e o PIB em 2026, refletindo uma expectativa de desaceleração econômica.",
+  "fatos": [
+   "As projeções foram apresentadas na pesquisa Focus, realizada pelo Banco Central.",
+   "A revisão ocorre em meio a um cenário de incertezas econômicas.",
+   "Expectativas do mercado podem impactar decisões de políticas monetárias."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A revisão das expectativas pode influenciar a confiança dos investidores e o comportamento do mercado.",
+  "impactoMercado": "Mudanças nas projeções de inflação e PIB podem levar o Banco Central a alterar sua política monetária, afetando os juros e a economia.",
+  "entenda": "A pesquisa Focus é um boletim semanal que coleta expectativas do mercado sobre indicadores econômicos, como inflação e crescimento do PIB.",
+  "observar": "Acompanhe futuras pesquisas do Focus e as reações do Banco Central às mudanças das expectativas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender as revisões do mercado pode ajudar a tomar decisões informadas sobre investimentos e o cenário econômico.",
+  "gancho": "*Expectativas* do Mercado em *Mudança*",
+  "ideias": [
+   "O que a revisão do Focus indica para 2026?",
+   "Impactos da diminuição das projeções econômicas",
+   "Como a inflação pode afetar seu investimento?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Inflação",
+  "icone": "raio",
+  "fonte": "Revista Oeste",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Focus%3A+mercado+reduz+estimativas+para+infla%C3%A7%C3%A3o+e+PIB+em+2026+Revista+Oeste",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:39:35-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-24"
+ },
+ {
+  "titulo": "J.P. Morgan prevê 'circuit breaker' na bolsa",
+  "resumo": "A J.P. Morgan cortou suas recomendações para o real e juros, prevendo um acionamento de 'circuit breaker' na bolsa. O cenário econômico pode influenciar os investimentos.",
+  "fatos": [
+   "A J.P. Morgan cortou suas recomendações para o real e juros.",
+   "A expectativa é de acionamento de 'circuit breaker' na bolsa.",
+   "O cenário econômico atual está afetando as previsões do mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas mudanças nas recomendações são importantes, pois podem indicar um aumento na volatilidade do mercado e impactar decisões de investimento.",
+  "impactoMercado": "A expectativa de um 'circuit breaker' indica que a bolsa pode passar por grandes oscilações, o que pode afetar diretamente os investidores.",
+  "entenda": "O 'circuit breaker' é um mecanismo que suspende as negociações em uma bolsa quando há quedas acentuadas nos preços das ações, visando evitar pânico no mercado.",
+  "observar": "Acompanhe se as previsões se concretizam e como isso afeta a confiança dos investidores no curto prazo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa análise do J.P. Morgan proporciona uma visão crítica das dinâmicas atuais do mercado, incentivando o aprendizado sobre como operar nesses cenários.",
+  "gancho": "Expectativa de *circuit breaker* na bolsa",
+  "ideias": [
+   "Entenda o que é o 'circuit breaker'",
+   "Recomendações do J.P. Morgan: o que isso significa?",
+   "Impactos da volatilidade do mercado na sua carteira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Valor Econômico",
+  "impacto": "alto",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=J.P.+Morgan+espera+acionamento+de+%E2%80%98circuit+breaker%E2%80%99+na+bolsa+e+corta+recomenda%C3%A7%C3%A3o+para+real+e+juros+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:46:13-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-25"
+ },
+ {
+  "titulo": "B3 amplia limite de queda do Ibovespa futuro para 15%",
+  "resumo": "A B3 anunciou a ampliação do limite de queda do Ibovespa futuro após os resultados das eleições. A medida busca aumentar a volatilidade e a proteção dos investidores.",
+  "fatos": [
+   "O Ibovespa futuro poderá cair até 15% em um único dia.",
+   "A mudança foi implementada após os resultados eleitorais que impactaram o mercado.",
+   "A nova regra visa oferecer maior proteção aos investidores em momentos de alta volatilidade."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "15%",
+  "porQueImporta": "Essa mudança é relevante para investidores, pois pode impactar a forma como eles gerenciam riscos em situações de alta volatilidade no mercado.",
+  "impactoMercado": "A nova regra pode resultar em movimentos mais intensos no Ibovespa futuro, afetando a tomada de decisão dos operadores e investidores.",
+  "entenda": "O limite de queda é um mecanismo para controlar a volatilidade do mercado e proteger investidores de perdas severas em dias de grande movimentação.",
+  "observar": "Fique atento às reações do mercado e às próximas decisões da B3 em relação a limites de negociação.",
+  "publico": [
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Aprender sobre limites de queda ajuda a entender melhor a dinâmica do mercado e o papel da B3 na proteção dos investidores.",
+  "gancho": "*Limite de queda* do Ibovespa aumenta!",
+  "ideias": [
+   "O que muda com o novo limite de queda?",
+   "Entenda o impacto do limite no Ibovespa futuro",
+   "Por que o limite de queda é importante para investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=B3+amplia+limite+de+queda+do+Ibovespa+futuro+para+15%25+ap%C3%B3s+resultado+eleitoral+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:32:26-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-26"
+ },
+ {
+  "titulo": "Ricardo Nunes foca em educação e deixa varejo",
+  "resumo": "Ricardo Nunes, fundador da Ricardo Eletro, não pretende retornar ao varejo e agora lidera o Grupo R1, focando em educação empresarial. Ele alerta sobre os desafios do setor diante de juros altos e concorrência.",
+  "fatos": [
+   "Ricardo Nunes comandou 1.100 lojas da Ricardo Eletro, que chegou a faturar R$ 12 bilhões.",
+   "Ele fundou o Grupo R1 em 2022, que já conta com 130 funcionários e 560 empresas ativas.",
+   "Nunes afirma que o crescimento do Grupo R1 tem sido de 80% a 100% ao ano desde 2021.",
+   "A Ricardo Eletro entrou em recuperação judicial em 2020 e teve falência decretada em 2026.",
+   "Nunes atribui parte das dificuldades da antiga varejista à nova administração e à pandemia."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A transição de Nunes mostra como o mercado varejista enfrenta desafios e a importância da educação empresarial na adaptação a novas realidades.",
+  "impactoMercado": "A visão de Nunes sobre o varejo reflete preocupações gerais do setor, o que pode afetar planos de expansão de outros negócios.",
+  "entenda": "Educação empresarial é fundamental para ajudar empreendedores a desenvolverem suas habilidades de gestão e adaptarem suas empresas às mudanças do mercado.",
+  "observar": "Acompanhe a evolução do Grupo R1 e reações de outros varejistas às dificuldades do setor nos próximos meses.",
+  "publico": [
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "A trajetória de Nunes é um exemplo de adaptação às mudanças do mercado, relevante para quem deseja entender o ambiente empresarial atual.",
+  "gancho": "*Desafios* do varejo e nova *aposta* de Nunes",
+  "ideias": [
+   "O futuro do varejo segundo Ricardo Nunes",
+   "Grupo R1: a nova fase de Nunes",
+   "Evolução do mercado: lições de Nunes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://exame.com/negocios/varejo-nunca-mais-apos-comandar-1-100-lojas-fundador-da-ricardo-eletro-tem-uma-nova-aposta/",
+  "publicadoEm": "2026-10-26T04:01:04-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-27"
+ },
+ {
+  "titulo": "ADRs de empresas brasileiras caem até 30% após vitória de Lula",
+  "resumo": "As ADRs de empresas brasileiras, como Petrobras e Itaú, enfrentam forte queda após a vitória de Lula nas eleições. O impacto é significativo para o mercado e investidores.",
+  "fatos": [
+   "As ADRs de diversas empresas brasileiras caíram drasticamente.",
+   "Petrobras e Itaú foram algumas das mais afetadas com perdas significativas.",
+   "A vitória de Lula desencadeou incertezas e reações negativas no mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A queda nas ADRs pode refletir a percepção de risco e instabilidade no mercado, o que pode afetar decisões de investimento.",
+  "impactoMercado": "Esse movimento pode levar a uma volatilidade maior no mercado financeiro e alterar a confiança dos investidores em ações brasileiras.",
+  "entenda": "ADRs (American Depositary Receipts) são certificados que representam ações de empresas estrangeiras negociadas em mercados americanos.",
+  "observar": "Acompanhe as reações do mercado e mudanças nas ADRs das empresas brasileiras nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender como resultados eleitorais impactam o mercado ajuda investidores a se prepararem para incertezas.",
+  "gancho": "*ADRs* em queda: o que esperar?",
+  "ideias": [
+   "Impactos da vitória de Lula no mercado",
+   "Como as eleições afetam seus investimentos?",
+   "O que são ADRs e por que importam?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Petrobras%2C+Ita%C3%BA+e+mais%3A+ADRs+de+empresas+brasileiras+despencam+at%C3%A9+30%25+ap%C3%B3s+vit%C3%B3ria+de+Lula+Money+Times",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:41:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-28"
+ },
+ {
+  "titulo": "Bradesco e Itaú caem na pré-abertura de NY",
+  "resumo": "Bradesco e Itaú registraram quedas expressivas na pré-abertura de Nova York, enquanto a Petrobras também enfrenta uma grande desvalorização.",
+  "fatos": [
+   "Os papéis do Bradesco e Itaú desabaram quase 30% na pré-abertura da bolsa de Nova York.",
+   "A Petrobras também apresentou uma queda significativa de 23%.",
+   "Esses resultados refletem a instabilidade do mercado financeiro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A queda acentuada das ações pode gerar perda de confiança entre os investidores e impactar o mercado financeiro nacional.",
+  "impactoMercado": "Movimentos negativos nas ações de grandes instituições como Bradesco, Itaú e Petrobras podem afetar o desempenho da B3 e a confiança dos investidores.",
+  "entenda": "A pré-abertura é o período em que as ações são negociadas antes da abertura oficial da bolsa, refletindo a confiança do mercado.",
+  "observar": "Fique atento a novos dados econômicos e reações do mercado que possam trazer novas informações sobre os bancos e a Petrobras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender as oscilações das grandes empresas ajuda a decifrar tendências do mercado financeiro e a se preparar para operações mais eficazes.",
+  "gancho": "*Quedas dramáticas* no mercado financeiro",
+  "ideias": [
+   "Entenda por que Bradesco e Itaú caíram",
+   "O que significa a queda da Petrobras?",
+   "Impactos da pré-abertura no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Bradesco+e+Ita%C3%BA+desabam+quase+30%25+na+pr%C3%A9-abertura+de+NY%3B+Petrobras+cai+23%25+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:45:41-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-29"
+ },
+ {
+  "titulo": "Dólar futuro sobe após vitória de Lula, ETF do Ibovespa cai",
+  "resumo": "O dólar futuro alcançou R$ 5,58 e o ETF do Ibovespa registrou queda de 27% após a eleição. Movimentos refletem as reações do mercado ao novo governo.",
+  "fatos": [
+   "O dólar futuro alcançou R$ 5,58.",
+   "O ETF do Ibovespa caiu 27%.",
+   "Essas movimentações são reações do mercado ao resultado da eleição presidencial."
+  ],
+  "numeros": [
+   {
+    "valor": "5,58",
+    "rotulo": "Valor do dólar futuro"
+   },
+   {
+    "valor": "27%",
+    "rotulo": "Queda do ETF do Ibovespa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,58",
+  "porQueImporta": "Esses movimentos podem impactar investidores e traders, afetando decisões sobre compras e vendas de ativos.",
+  "impactoMercado": "As reações do mercado a mudanças políticas podem criar volatilidade, afetando o desempenho de ativos financeiros.",
+  "entenda": "O dólar futuro é um contrato que representa a expectativa da moeda norte-americana e está sujeito a flutuações de acordo com eventos econômicos e políticos.",
+  "observar": "Acompanhe a evolução do dólar e como os ativos do Ibovespa se comportam nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esses eventos mostram a importância de entender as dinâmicas do mercado financeiro e como elas afetam os investimentos.",
+  "gancho": "*Dólar*, *Ibovespa* e a nova política",
+  "ideias": [
+   "Impacto direto da vitória de Lula no dólar",
+   "O que a alta do dólar significa para investidores?",
+   "Entenda a queda do ETF do Ibovespa"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=D%C3%B3lar+futuro+sobe+a+R%24+5%2C58+e+ETF+do+Ibovespa+cai+27%25+ap%C3%B3s+vit%C3%B3ria+de+Lula+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:14:43-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-30"
+ },
+ {
+  "titulo": "Ibovespa sob risco de queda após reeleição de Lula",
+  "resumo": "O mercado financeito pode enfrentar turbulências após a reeleição de Lula, preocupando investidores e day traders.",
+  "fatos": [
+   "A reeleição de Lula pode impactar a confiança do mercado.",
+   "Analistas preveem uma possível instabilidade no Ibovespa.",
+   "Os investidores devem estar atentos ao comportamento da bolsa nos próximos dias."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender como eventos políticos influenciam o mercado é essencial para formular estratégias de investimento.",
+  "impactoMercado": "A instabilidade pode levar a uma alta volatilidade nos ativos, afetando decisivamente as operações de day trade.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores brasileira, refletindo a performance das ações mais negociadas.",
+  "observar": "Acompanhe os efeitos de declarações políticas e decisões econômicas do novo governo.",
+  "publico": [
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender as relações entre política e mercado ajuda investidores a se prepararem para flutuações.",
+  "gancho": "*Ibovespa* em *risco* de queda?",
+  "ideias": [
+   "Impacto da reeleição de Lula no mercado",
+   "O que esperar do Ibovespa após a eleição?",
+   "Day trade e volatilidade: como se preparar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Day+Trade+hoje+%2826%29%3A+Ibovespa+sob+risco+de+forte+queda+ap%C3%B3s+reelei%C3%A7%C3%A3o+de+Lulaa+InfoMoney",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:03:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-31"
+ },
+ {
+  "titulo": "Líderes mundiais reagem à reeleição de Lula",
+  "resumo": "Após a vitória de Luiz Inácio Lula da Silva, líderes de diversos países se pronunciaram, elogiando o processo democrático brasileiro e expressando a importância da continuidade das relações bilaterais.",
+  "fatos": [
+   "Líderes do Chile, Paraguai, Bolívia, Uruguai e Peru reagiram à reeleição de Lula.",
+   "O governo chileno destacou a jornada eleitoral e parabenizou Lula.",
+   "O presidente do Paraguai, Santiago Peña, afirmou que Brasil e Paraguai compartilham uma agenda comum.",
+   "A presidenta do México, Claudia Sheinbaum, celebrou a vitória como expressão da vontade popular.",
+   "Os presidentes dos EUA e da Argentina não comentaram sobre a vitória até o momento da publicação."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as reações internacionais é fundamental, pois pode influenciar as relações comerciais e políticas do Brasil, refletindo no ambiente de negócios.",
+  "impactoMercado": "As reações de líderes mundiais podem impactar a imagem do Brasil no exterior, afetando a confiança de investidores e a estabilidade econômica.",
+  "entenda": "A reeleição de um presidente pode afetar a política econômica e as relações internacionais do país, influenciando decisões de investimento.",
+  "observar": "Acompanhar as próximas declarações de líderes internacionais e como isso pode afetar a confiança do mercado em relação ao Brasil.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A repercussão internacional da vitória de Lula pode motivar novas discussões sobre investimento no Brasil e a importância de estar informado sobre o cenário político.",
+  "gancho": "*Reeleição* de Lula e suas *consequências*",
+  "ideias": [
+   "Efeitos da política no mercado financeiro",
+   "Reações internacionais que moldam o Brasil",
+   "O que a reeleição de Lula significa para investidores"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/reeleicao-de-lula-repercute-no-exterior-veja-o-que-disseram-os-lideres-mundiais-davs/",
+  "publicadoEm": "2026-10-25T23:30:32-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-26-32"
+ },
+ {
+  "titulo": "Flávio Bolsonaro é derrotado nas eleições, incertezas se instauram",
+  "resumo": "Flávio Bolsonaro não foi eleito presidente, recebendo 48,21% dos votos. Seu irmão, Eduardo, sugere que Flávio pode deixar o Brasil em caso de derrota.",
+  "fatos": [
+   "Flávio Bolsonaro obteve 59.826.041 votos, equivalendo a 48,21%.",
+   "Luiz Inácio Lula da Silva foi reeleito com 64.256.232 votos, ou 51,79%.",
+   "Eduardo Bolsonaro defendeu publicamente a saída do irmão em caso de derrota.",
+   "Ele questionou a segurança da urna eletrônica e criticou decisões do STF.",
+   "O Brasil utiliza a urna eletrônica desde 1996, sem comprovação de fraudes."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "48,21%",
+  "porQueImporta": "A análise de eventos políticos, como eleições, pode influenciar a confiança do investidor no mercado e na economia do país.",
+  "impactoMercado": "A instabilidade política pode afetar os mercados, principalmente se houver incertezas sobre a governabilidade e a aprovação de medidas econômicas.",
+  "entenda": "As urnas eletrônicas são utilizadas no Brasil para garantir a agilidade e segurança no processo eleitoral, sendo auditadas após as eleições.",
+  "observar": "Fique atento às reações políticas e possíveis ações judiciais relacionadas ao resultado das eleições.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto de eventos políticos sobre o mercado é crucial para investidores e futuros traders, despertando interesse em saber mais sobre como o mercado funciona.",
+  "gancho": "*Eleições* e suas *consequências* no mercado",
+  "ideias": [
+   "Eleições: como influenciam seu investimento",
+   "Política e mercado: o que observar",
+   "O papel da confiança no sistema eleitoral"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://exame.com/brasil/flavio-pode-deixar-o-brasil-apos-derrota-nas-urnas-relembre-discurso-de-eduardo-bolsonaro/",
+  "publicadoEm": "2026-10-26T03:00:39-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-33"
+ },
+ {
+  "titulo": "Confiança do consumidor cresce após cinco quedas",
+  "resumo": "O Índice de Confiança do Consumidor da FGV subiu para 84,7 em outubro, após cinco quedas. O aumento é impulsionado pelas expectativas, mas a situação atual ainda é negativa.",
+  "fatos": [
+   "O Índice de Confiança do Consumidor (ICC) alcançou 84,7 pontos em outubro, alta de 0,5 ponto em relação a setembro.",
+   "O Índice de Expectativas (IE) teve alta de 2,8 pontos, chegando a 88 pontos.",
+   "O Índice de Situação Atual (ISA) caiu 2,6 pontos, para 81,4, o menor nível desde março de 2025.",
+   "A melhora nas expectativas não compensou a percepção negativa sobre a situação atual dos consumidores.",
+   "Problemas como alto endividamento e inadimplência limitam a confiança do consumidor."
+  ],
+  "numeros": [
+   {
+    "valor": "84,7",
+    "rotulo": "Índice de Confiança do Consumidor em outubro"
+   },
+   {
+    "valor": "2,8",
+    "rotulo": "Alta do Índice de Expectativas"
+   },
+   {
+    "valor": "81,4",
+    "rotulo": "Índice de Situação Atual"
+   },
+   {
+    "valor": "0,5",
+    "rotulo": "Alta em relação a setembro"
+   },
+   {
+    "valor": "2,6",
+    "rotulo": "Queda do Índice de Situação Atual"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Índice de Confiança do Consumidor",
+    "antes": "84,2",
+    "depois": "84,7"
+   },
+   {
+    "item": "Índice de Expectativas",
+    "antes": "85,2",
+    "depois": "88,0"
+   },
+   {
+    "item": "Índice de Situação Atual",
+    "antes": "84,0",
+    "depois": "81,4"
+   }
+  ],
+  "destaque": "84,7",
+  "porQueImporta": "Entender a confiança do consumidor é crucial, pois ela influencia o consumo e, consequentemente, a economia.",
+  "impactoMercado": "O aumento da confiança pode indicar uma recuperação econômica, mas os problemas financeiros ainda podem limitar o crescimento.",
+  "entenda": "O Índice de Confiança do Consumidor mede a percepção do consumidor sobre a economia, sendo um indicador importante para o mercado.",
+  "observar": "Acompanhar os próximos indicadores de confiança e a evolução do endividamento das famílias pode trazer insights sobre o consumo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Compreender a confiança do consumidor ajuda a entender as dinâmicas do mercado e os ciclos econômicos.",
+  "gancho": "*Confiança do Consumidor* em alta!",
+  "ideias": [
+   "O que a confiança do consumidor diz sobre a economia?",
+   "Como o endividamento afeta a confiança do consumidor?",
+   "Expectativas do consumidor: o que esperar para novembro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.infomoney.com.br/economia/confianca-do-consumidor-cresce-em-outubro-apos-cinco-quedas-seguidas-diz-fgv/",
+  "publicadoEm": "2026-10-26T08:52:19-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-34"
+ },
+ {
+  "titulo": "Phantom Blade Zero oferece combate incrível, mas carece de acessibilidade",
+  "resumo": "O jogo Phantom Blade Zero é visualmente atraente e apresenta um sistema de combate extraordinário, mas deixa a desejar em termos de acessibilidade.",
+  "fatos": [
+   "Phantom Blade Zero impressiona com sua beleza gráfica.",
+   "O sistema de combate é elogiado por sua qualidade.",
+   "No entanto, o jogo não prioriza a acessibilidade para todos os usuários."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Acessibilidade é crucial para garantir que todos possam desfrutar dos jogos, afetando o engajamento e a base de jogadores.",
+  "impactoMercado": "Um jogo que não considera a acessibilidade pode limitar seu sucesso no mercado, reduzindo a audiência potencial.",
+  "entenda": "Acessibilidade em jogos refere-se a como eles podem ser adaptados para atender a uma variedade de jogadores, inclusive aqueles com deficiências.",
+  "observar": "Acompanhe as atualizações sobre acessibilidade em jogos futuros e como a indústria responde a críticas.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender a importância da acessibilidade nos jogos é fundamental para os desenvolvedores e jogadores.",
+  "gancho": "Acessibilidade em *Phantom Blade Zero*",
+  "ideias": [
+   "Phantom Blade Zero: Combate e Beleza",
+   "Acessibilidade em Jogos: Um Desafio",
+   "Análise do Phantom Blade Zero"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "foguete",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Phantom+Blade+Zero+%C3%A9+bonito+e+tem+combate+extraordin%C3%A1rio%2C+mas+deixa+a+acessibilidade+de+lado+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:15:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-35"
+ },
+ {
+  "titulo": "Ações brasileiras caem no exterior após vitória de Lula",
+  "resumo": "As ações brasileiras enfrentaram forte queda no exterior após a vitória de Lula nas eleições, refletindo preocupações do mercado.",
+  "fatos": [
+   "O resultado das eleições gerou um temor entre investidores internacionais.",
+   "A queda nas ações chegou a até 27%.",
+   "Esse cenário indica uma possível volatilidade futura no mercado brasileiro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "até 27%",
+  "porQueImporta": "As movimentações no mercado podem impactar investidores locais e internacionais, refletindo um clima de incerteza econômica.",
+  "impactoMercado": "A volatilidade pode afetar decisões de investimento e confiança no mercado brasileiro, criando um ambiente de precaução.",
+  "entenda": "A volatilidade no mercado refere-se a flutuações acentuadas nos preços dos ativos, que podem se intensificar em momentos de incerteza política.",
+  "observar": "Acompanhe os próximos desdobramentos políticos e a resposta do mercado às novas políticas econômicas.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esse cenário ressalta a importância de entender as influências políticas nas ações, algo que aprofundamos na Trader School.",
+  "gancho": "*Ações despencam* após vitória de Lula",
+  "ideias": [
+   "O que a queda das ações significa?",
+   "Cenário econômico brasileiro após eleições",
+   "Como a política afeta seus investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "O GLOBO",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Ap%C3%B3s+vit%C3%B3ria+de+Lula%2C+a%C3%A7%C3%B5es+brasileiras+despencam+no+exterior%2C+com+queda+de+at%C3%A9+27%25+O+GLOBO",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:29:56-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-36"
+ },
+ {
+  "titulo": "Impactos da reeleição de Lula no seu bolso",
+  "resumo": "A reeleição de Lula pode trazer mudanças no salário mínimo, impostos e condições de crédito, afetando o orçamento familiar. A execução das propostas dependerá da economia.",
+  "fatos": [
+   "A dívida pública chegou a R$ 11,1 trilhões, 82,9% do PIB.",
+   "A proposta orçamentária para 2027 prevê salário mínimo de R$ 1.741.",
+   "Em janeiro de 2026, 21,9 milhões de benefícios do INSS eram de até um salário mínimo.",
+   "Aumento real do piso pode impactar R$ 15,6 bilhões nas contas públicas.",
+   "Fitch projeta a Selic em 11,75% no fim de 2027."
+  ],
+  "numeros": [
+   {
+    "valor": "1.621",
+    "rotulo": "salário mínimo atual"
+   },
+   {
+    "valor": "1.741",
+    "rotulo": "salário mínimo proposto para 2027"
+   },
+   {
+    "valor": "11,1 trilhões",
+    "rotulo": "dívida pública"
+   },
+   {
+    "valor": "82,9%",
+    "rotulo": "dívida pública em relação ao PIB"
+   },
+   {
+    "valor": "15,6 bilhões",
+    "rotulo": "impacto do ganho real nas contas públicas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Selic",
+    "antes": "não informado",
+    "depois": "11,75%"
+   }
+  ],
+  "destaque": "R$ 1.741",
+  "porQueImporta": "Essas mudanças podem afetar diretamente o poder de compra das famílias e as condições de crédito, impactando o dia a dia de muitos brasileiros.",
+  "impactoMercado": "As propostas podem afetar a dinâmica do mercado de crédito e o ambiente econômico, influenciando decisões de investimento e gastos das famílias.",
+  "entenda": "O salário mínimo é o valor base que os trabalhadores devem receber, e seus reajustes impactam diretamente diversas políticas sociais e econômicas.",
+  "observar": "Acompanhe as decisões do novo governo e como elas afetam a inflação e o emprego nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender as propostas do governo é essencial para tomar decisões mais informadas sobre investimentos e finanças pessoais.",
+  "gancho": "Como a reeleição de Lula afeta seu *bolso*?",
+  "ideias": [
+   "O que muda com a reeleição de Lula?",
+   "Impactos diretos no salário e impostos",
+   "Como a economia pode se comportar?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://exame.com/invest/minhas-financas/o-que-muda-no-seu-bolso-com-a-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-26T02:00:23-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-37"
+ },
+ {
+  "titulo": "Mercado reduz previsões de inflação e PIB para 2023",
+  "resumo": "Estimativas para inflação e crescimento do PIB foram baixadas pelo mercado financeiro. O cenário econômico se mostra desafiador neste ano.",
+  "fatos": [
+   "O mercado financeiro reavaliou suas projeções para a inflação e crescimento do PIB.",
+   "As novas estimativas indicam uma visão mais conservadora para a economia em 2023.",
+   "A baixa nas expectativas reflete um ambiente econômico desafiador."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Mudanças nas previsões de inflação e PIB impactam as decisões de investimento e a confiança do mercado.",
+  "impactoMercado": "Revisões para baixo nas estimativas podem influenciar a política monetária e a atividade econômica.",
+  "entenda": "O PIB representa a soma de todos os bens e serviços produzidos em um país, e a inflação reflete o aumento dos preços.",
+  "observar": "Fique atento a novas atualizações sobre a economia e as decisões do Banco Central.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender como as expectativas econômicas afetam o mercado ajuda a tomar decisões mais informadas.",
+  "gancho": "*Inflação* e *PIB* em foco!",
+  "ideias": [
+   "O que a baixa da inflação significa?",
+   "Entenda a revisão do PIB em 2023",
+   "Como a inflação afeta seu investimento?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "G1",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Mercado+financeiro+baixa+estimativa+de+infla%C3%A7%C3%A3o+e+de+alta+do+PIB+neste+ano+G1",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:34:42-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-38"
+ },
+ {
+  "titulo": "Reeleição de Lula pode impactar ações e real",
+  "resumo": "Investidores prevêem uma queda nas ações brasileiras e no valor do real após a reeleição de Lula, refletindo preocupações com o desempenho econômico.",
+  "fatos": [
+   "A reeleição de Lula gera apreensão entre investidores.",
+   "Expectativas indicam uma possível desvalorização das ações brasileiras.",
+   "Há também uma previsão de queda no valor do real após os resultados eleitorais."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A reeleição de um presidente pode trazer incertezas que afetam o mercado, influenciando decisões de investimentos.",
+  "impactoMercado": "Investidores podem ajustar suas carteiras, levando a oscilações nos preços das ações e no câmbio.",
+  "entenda": "A valorização ou desvalorização do real pode influenciar o custo de importações e exportações, afetando a economia.",
+  "observar": "Fique atento às respostas do mercado em relação a mudanças de governo.",
+  "publico": [
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra a relação entre política e mercado, importante para quem busca entender os impactos econômicos.",
+  "gancho": "*Eleição* e *mercado*: o que esperar?",
+  "ideias": [
+   "Como a eleição afeta o mercado?",
+   "Queda do real: o que isso significa?",
+   "Expectativas do mercado pós-eleição"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Investidores+esperam+queda+das+a%C3%A7%C3%B5es+brasileiras+e+do+real+ap%C3%B3s+reelei%C3%A7%C3%A3o+de+Lula+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T06:41:28-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-39"
+ },
+ {
+  "titulo": "Eduardo Bolsonaro critica eleições e pede apoio internacional",
+  "resumo": "O ex-deputado Eduardo Bolsonaro alegou sem provas que a eleição de Lula foi fraudada e pediu pressão internacional para não reconhecer o resultado.",
+  "fatos": [
+   "Eduardo Bolsonaro lançou um vídeo em inglês acusando a eleição de fraude.",
+   "Ele pediu que a comunidade internacional não reconheça a reeleição de Lula.",
+   "O ex-deputado não apresentou evidências que comprovem fraude eleitoral.",
+   "Lula foi reeleito com 51,74% dos votos contra 48,26% de Flávio Bolsonaro.",
+   "Eduardo questionou o aumento dos votos de Lula entre os turnos como 'estatisticamente impossível'.",
+   "A decisão do TSE de estender o horário de votação gerou críticas de ambos os lados."
+  ],
+  "numeros": [
+   {
+    "valor": "51,74%",
+    "rotulo": "Votos para Lula na reeleição"
+   },
+   {
+    "valor": "48,26%",
+    "rotulo": "Votos para Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Esse tema gera incertezas políticas, que podem impactar a confiança do investidor no Brasil e afetar o mercado financeiro.",
+  "impactoMercado": "Possíveis instabilidades políticas e sociais podem influenciar a volatilidade do mercado e a percepção de risco dos investidores.",
+  "entenda": "A legitimidade das eleições é crucial para a estabilidade política, que por sua vez afeta o ambiente de negócios e investimentos.",
+  "observar": "Acompanhe as reações do mercado e possíveis desdobramentos legais sobre as alegações feitas por Eduardo Bolsonaro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender esses eventos políticos pode ajudar a navegar em um cenário financeiro complexo e incerto.",
+  "gancho": "*Eleições *e fraudes: o impacto no mercado",
+  "ideias": [
+   "Eleições e mercado: o que saber",
+   "Como a política pode influenciar seus investimentos",
+   "Eduardo Bolsonaro e a corrida presidencial: implicações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://bpmoney.com.br/politica/eduardo-bolsonaro-video-ingles-eleicao-fraudada-pressao-internacional/",
+  "publicadoEm": "2026-10-26T08:55:32-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-40"
+ },
+ {
+  "titulo": "Futuros dos EUA operam mistos com aversão ao risco",
+  "resumo": "Futuros das bolsas dos EUA apresentam tendência mista. O recuo nos preços do petróleo e a repercussão da eleição no Brasil influenciam o mercado.",
+  "fatos": [
+   "Os futuros das bolsas americanas estão com desempenho misto.",
+   "Houve uma queda recente nos preços do petróleo.",
+   "A repercussão das eleições no Brasil está impactando os mercados financeiros."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender essas oscilações pode ajudar investidores a tomar decisões mais informadas durante períodos de incerteza.",
+  "impactoMercado": "Mudanças nas bolsas americanas e nos preços do petróleo podem influenciar as operações locais, afetando o sentimento do investidor.",
+  "entenda": "Os futuros são contratos que permitem negociar ativos com entrega futura, refletindo as expectativas do mercado.",
+  "observar": "Fique atento às reações dos mercados internacionais e como elas podem impactar o mercado brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa movimentação sinaliza a importância de estar atualizado sobre os eventos que influenciam o mercado financeiro.",
+  "gancho": "*Eleições* e *petróleo* impactam o mercado!",
+  "ideias": [
+   "Eleição no Brasil e seu efeito no mercado",
+   "Petróleo em queda: o que isso significa?",
+   "Como os futuros dos EUA afetam o Brasil?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "grafico",
+  "fonte": "ADVFN",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.google.com/search?q=Futuros+dos+EUA+operam+mistos%2C+petr%C3%B3leo+recua+e+elei%C3%A7%C3%A3o+no+Brasil+repercute+ADVFN",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:24:56-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-41"
+ },
+ {
+  "titulo": "Novo foco de Doença de Newcastle é identificado em SC",
+  "resumo": "Um novo caso de Doença de Newcastle foi encontrado em avícola em Santa Catarina, com medidas de controle já em andamento. O governo já havia reportado um foco anterior na região.",
+  "fatos": [
+   "O novo foco foi identificado em Coronel Freitas (SC).",
+   "A detecção ocorreu durante ações de vigilância sanitária.",
+   "Medidas de controle já estão em andamento.",
+   "Um foco anterior foi encontrado em perus na mesma região.",
+   "O surto já causou restrições por parte de alguns países importadores de produtos avícolas brasileiros."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Investidores em empresas do setor avícola precisam estar atentos a surtos, que podem impactar a exportação e, consequentemente, a receita dessas empresas.",
+  "impactoMercado": "A continuidade das restrições pode afetar o desempenho de ações de empresas do setor avícola e suas operações internacionais.",
+  "entenda": "A Doença de Newcastle é uma infecção viral que afeta aves, podendo causar grandes perdas no setor avícola, incluindo a restrição de exportações.",
+  "observar": "Acompanhe ações do governo na contenção do surto e possíveis restrições de importação de produtos avícolas.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esse caso revela a importância da vigilância sanitária no setor avícola, um tema essencial para quem deseja entender o mercado e seu funcionamento.",
+  "gancho": "*Nova* identificação de *Doença de Newcastle*",
+  "ideias": [
+   "Impacto do surto de Doença de Newcastle no setor",
+   "O que os surtos de doenças em aves significam?",
+   "Como surtos afetam o mercado avícola"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T09:01:19-03:00",
+  "url": "https://www.infomoney.com.br/economia/novo-foco-de-doenca-de-newcastle-e-identificado-em-santa-catarina-diz-ministerio/",
+  "publicadoEm": "2026-10-26T08:41:57-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-42"
+ },
+ {
   "titulo": "Dólar pode subir 6% após vitória de Lula",
   "resumo": "A reeleição de Lula deve provocar fortes perdas no mercado, com expectativa de circuit breaker na bolsa e dólar acima de R$ 5,30.",
   "fatos": [
@@ -12925,53 +14009,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-october-2026",
-  "titulo": "Mercado vê 80,5% de chance de Ethereum atingir *2.400* em outubro",
-  "resumo": "A avaliação sugere um forte movimento para o preço do Ethereum no próximo mês, segundo os apostadores.",
+  "titulo": "Mercado de previsões vê 65.5% de chance de Ethereum ultrapassar 2,400 em outubro.",
+  "resumo": "Expectativa otimista para o Ethereum, refletindo confiança entre apostadores sobre o desempenho da criptomoeda.",
   "probs": [
    {
-    "opcao": "↑ 2.400",
-    "prob": 80.5
+    "opcao": "Subir para 2,400",
+    "prob": 65.5
    },
    {
-    "opcao": "↑ 2.500",
-    "prob": 42.0
+    "opcao": "Cair para 2,200",
+    "prob": 34.5
    },
    {
-    "opcao": "↓ 2.200",
-    "prob": 32.5
+    "opcao": "Subir para 2,500",
+    "prob": 26.5
    },
    {
-    "opcao": "↑ 2.600",
-    "prob": 17.5
+    "opcao": "Cair para 2,100",
+    "prob": 13.5
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 139 mil",
+  "volume24h": "US$ 123 mil",
   "fatos": [
-   "↑ 2.400: 80,5%",
-   "↑ 2.500: 42,0%",
-   "↓ 2.200: 32,5%",
-   "↑ 2.600: 17,5%"
+   "Subir para 2,400: 65,5%",
+   "Cair para 2,200: 34,5%",
+   "Subir para 2,500: 26,5%",
+   "Cair para 2,100: 13,5%"
   ],
   "numeros": [
    {
-    "valor": "80,5%",
-    "rotulo": "↑ 2.400"
+    "valor": "65,5%",
+    "rotulo": "Subir para 2,400"
    },
    {
-    "valor": "42,0%",
-    "rotulo": "↑ 2.500"
+    "valor": "34,5%",
+    "rotulo": "Cair para 2,200"
    },
    {
-    "valor": "32,5%",
-    "rotulo": "↓ 2.200"
+    "valor": "26,5%",
+    "rotulo": "Subir para 2,500"
    },
    {
-    "valor": "17,5%",
-    "rotulo": "↑ 2.600"
+    "valor": "13,5%",
+    "rotulo": "Cair para 2,100"
    }
   ],
-  "destaque": "80,5%",
+  "destaque": "65,5%",
   "gancho": "*Incerteza entre cripto* investidores",
   "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
   "categoria": "Previsões",
@@ -12986,7 +14070,7 @@
   "data": "2026-10-22",
   "status": "atualizada",
   "id": "2026-10-22-p1",
-  "atualizadoEm": "2026-10-24T20:42:13-03:00"
+  "atualizadoEm": "2026-10-26T09:01:19-03:00"
  },
  {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
