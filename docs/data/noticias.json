@@ -1,5 +1,1275 @@
 [
  {
+  "titulo": "Circuit breaker é acionado após forte queda do Ibovespa pós-eleições 2026",
+  "resumo": "Ibovespa caiu quase 15% e dólar abriu a R$ 5,42 na manhã após eleição presidencial. B3 interrompeu negociações com circuit breaker para conter volatilidade.",
+  "fatos": [
+   "Dólar abriu a R$ 5,42 na primeira manhã pós-eleições, alta de 8,6% na abertura.",
+   "Ibovespa futuro caiu até 15%, levando ao acionamento do circuit breaker.",
+   "B3 suspendeu negociações por 30 minutos após queda de 10% no Ibovespa.",
+   "Último acionamento do circuit breaker na B3 foi em 18 de março de 2020.",
+   "Presidente Lula foi reeleito com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro.",
+   "No primeiro turno, Flávio Bolsonaro liderava com 47,03% contra 45,16% de Lula.",
+   "Limite de queda do Ibovespa futuro foi ampliado excepcionalmente de 10% para 15% nesta segunda.",
+   "Projeto de lei orçamentária de 2027 prevê superávit primário de R$ 73,2 bilhões.",
+   "Fed pode anunciar nova alta de juros americanos entre as próximas decisões.",
+   "Copom decidirá a taxa Selic em 3 e 4 de novembro, atualmente em 13,75%."
+  ],
+  "explicacao": [
+   "No primeiro pregão após o segundo turno das eleições presidenciais de 2026, o Ibovespa sofreu forte queda, chegando a quase 15%, com o dólar abrindo em R$ 5,42, alta de 8,6%. Em resposta, a B3 acionou o circuit breaker, interrompendo as negociações por 30 minutos para evitar desordem.",
+   "Essa oscilação ocorreu porque o mercado havia precificado uma possível mudança na orientação fiscal que não se confirmou com a reeleição do presidente Lula, contrariando as expectativas que davam vantagem a Flávio Bolsonaro. Investidores reajustaram suas apostas, provocando volatilidade.",
+   "O circuit breaker funciona como uma pausa obrigatória para que investidores possam avaliar o cenário sem decisões precipitadas, prevenindo quedas descontroladas. A B3 tem níveis progressivos de suspensão, acionados em quedas de 10%, 15% e 20% do índice.",
+   "O próximo foco do mercado está nas decisões do Fed (Federal Reserve) sobre juros neste mês, na próxima reunião do Copom em 4 de novembro e na tramitação do Orçamento de 2027 pelo Congresso, elementos que vão gerar nova informação relevante para precificação."
+  ],
+  "detalhes": [
+   "Circuit breaker interrompe temporariamente negociações para evitar descontrole no preço das ações.",
+   "Após o segundo turno, o Ibovespa recuou quase 15%, ficando em torno de 177 mil pontos, contra mais de 200 mil pontos três semanas antes.",
+   "A alta do dólar pressiona a inflação, o que pode afetar as metas do Copom para IPCA em 2026 e 2027.",
+   "A expectativa do mercado antes das eleições considerava possível mudança na política fiscal, que não se concretizou.",
+   "B3 estabelece três níveis de suspensão: 10%, 15% e 20% de queda do Ibovespa.",
+   "As decisões do Fed, Copom e Legislativo sobre Orçamento são as próximas datas-chave para orientar o mercado.",
+   "Circuit breaker foi ativado em crises anteriores, como pandemia e crises financeiras internacionais."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Daniel Abrahão, especialista em finanças",
+    "oque": "O preço da bolsa mistura aposta desfeita e informação nova; só a segunda conta para o futuro."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Circuit breaker acionado após queda de 10% no Ibovespa na abertura."
+   },
+   {
+    "quando": "18 de março de 2020",
+    "oque": "Último acionamento do circuit breaker na B3."
+   },
+   {
+    "quando": "3 e 4 de novembro de",
+    "oque": "Próxima decisão do Copom sobre taxa Selic."
+   },
+   {
+    "quando": "26 de outubro de 2026 (manhã)",
+    "oque": "Ibovespa caiu quase 15% e dólar abriu em R$ 5,42."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Pausa automática nas negociações para conter queda brusca das ações"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da Bolsa de Valores do Brasil"
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira"
+   }
+  ],
+  "pergunta": "Você já incluiu a possível volatilidade eleitoral na sua estratégia de investimento?",
+  "tamanhoTexto": 18430,
+  "numeros": [
+   {
+    "valor": "15%",
+    "rotulo": "Queda máxima do Ibovespa na abertura após eleição"
+   },
+   {
+    "valor": "8,6%",
+    "rotulo": "Alta na abertura do dólar frente ao real"
+   },
+   {
+    "valor": "51,79%",
+    "rotulo": "Percentual dos votos de Lula no segundo turno"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "Percentual dos votos de Flávio Bolsonaro no segundo turno"
+   },
+   {
+    "valor": "R$ 5,42",
+    "rotulo": "Cotação de abertura do dólar no pregão após eleições"
+   },
+   {
+    "valor": "R$ 73,2 bilhões",
+    "rotulo": "Meta de superávit primário prevista para 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "mais de 200 mil pontos",
+    "depois": "caiu para cerca de 177 mil pontos"
+   },
+   {
+    "item": "Dólar",
+    "antes": "R$ 5,00",
+    "depois": "R$ 5,42"
+   }
+  ],
+  "destaque": "15% queda do",
+  "porQueImporta": "A forte volatilidade pós-eleições mostra como expectativas políticas afetam o mercado financeiro. Investidores precisam entender que oscilações iniciais refletem ajustes de cenários, e decisões futuras do Fed, Copom e Orçamento definirão melhor o rumo dos ativos e da inflação, essenciais para gerenciar riscos.",
+  "impactoMercado": "As quedas e alta do dólar aumentam a pressão sobre setores sensíveis ao câmbio e juros. O acionamento do circuit breaker sinaliza cautela e pode elevar a liquidez em ativos considerados seguros. A proximidade das decisões do Fed e Copom traz incerteza que provavelmente continuará movimentando Bolsa, dólar e juros.",
+  "entenda": "O circuit breaker é um mecanismo usado pela Bolsa para pausar negociações temporariamente quando o mercado sofre quedas abruptas, evitando vendas em pânico e descontrole dos preços. Após eleições, os preços ajustam rapidamente as probabilidades de cenários políticos, influenciando o comportamento da bolsa e do dólar.",
+  "observar": "Fique atento às decisões do Fed em breve, reunião do Copom em 4 de novembro e o andamento do Orçamento 2027 no Congresso, que trarão informações novas para o mercado se ajustar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos como o resultado das eleições impactou o mercado financeiro, o funcionamento do circuit breaker e o que esperar das próximas decisões econômicas, ajudando a entender riscos e oportunidades sem prometer ganhos.",
+  "gancho": "*Volatilidade* Pós-Eleições 2026",
+  "ideias": [
+   "O que é o circuit breaker e por que ele foi acionado após as eleições?",
+   "Como o resultado eleitoral influencia dólar e Ibovespa?",
+   "Principais datas para ficar de olho após o segundo turno de 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "BP Money; Suno Notícias; Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://bpmoney.com.br/bpm-escuta/errar-a-eleicao-nao-e-o-mesmo-que-errar-a-carteira/",
+  "publicadoEm": "2026-10-26T12:06:31-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-101"
+ },
+ {
+  "titulo": "Ações de varejistas despencam até 50% após circuit breaker no Ibovespa",
+  "resumo": "Após reeleição de Lula, ações de C&A caíram 43%, Renner 37% e Assaí 40%. Circuit breaker foi acionado na B3 e mostrou forte queda no setor varejista.",
+  "fatos": [
+   "Ibovespa caiu 17% no dia da reeleição de Lula.",
+   "Circuit breaker da B3 foi acionado três minutos após a abertura.",
+   "Às 11h15, Ibovespa caiu 16,41%, aos 171 mil pontos.",
+   "C&A (CEAB3) recuou 43,28%, cotada a R$ 7,85.",
+   "Renner (LREN3) caiu 37,11%, cotada a R$ 9,17.",
+   "Assaí (ASAI3) desvalorizou 40,51%, cotada a R$ 8,21.",
+   "Riachuelo (RIAA3) caiu 42,94%, cotada a R$ 6,59.",
+   "Raia Drogasil (RD Saúde) caiu 27,81%, cotada a R$ 14,64.",
+   "Magazine Luiza (MGLU3) caiu 54,06%, cotada a R$ 5,83."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 26 de outubro de 2026, o Ibovespa acionou o circuit breaker pouco depois da abertura devido a uma queda expressiva de 17%. Às 11h15, o índice estava em queda de 16,41%, aos 171 mil pontos, afetando principalmente o setor de varejo.",
+   "O declínio ocorreu após a confirmação da vitória de Luiz Inácio Lula da Silva nas eleições presidenciais, que gerou incertezas sobre a política fiscal. Isso fez o mercado esperar juros mais altos por mais tempo, prejudicando empresas sensíveis ao cenário econômico.",
+   "No setor de varejo de moda, as ações da C&A (CEAB3) recuaram 43,28%, Renner (LREN3) caiu 37,11% e Riachuelo (RIAA3) teve baixa de 42,94%. No segmento alimentar, Assaí (ASAI3) caiu 40,51%. As farmácias Raia Drogasil (RD Saúde) registraram queda de 27,81%.",
+   "Esse movimento reflete um estudo do mercado sobre o impacto fiscal do novo governo e uma realização de lucros após fortes ganhos anteriores. Agora, investidores devem monitorar as políticas econômicas do próximo governo e os próximos dados da B3 para reajustar estratégias."
+  ],
+  "detalhes": [
+   "Circuit breaker é um mecanismo que interrompe as negociações para evitar pânicos.",
+   "Quedas ocorreram logo após confirmação da vitória do presidente Lula em 26/10/2026.",
+   "Varejistas de moda e alimentícias foram os mais afetados no Ibovespa.",
+   "Expectativa do mercado é que política fiscal mais expansionista pressiona juros.",
+   "Magazine Luiza perdeu ganhos que tinha acumulado em outubro, com queda acima de 50%.",
+   "Ações de empresas sensíveis a juros elevados sofrem mais com esse cenário.",
+   "O dólar disparou 11%, chegando a mais de R$ 5,50 no mesmo dia."
+  ],
+  "declaracoes": [
+   {
+    "quem": "André Shiokawa, gestor de portfólio da Asset1",
+    "oque": "O pregão deve ter acionamento massivo de stop-loss, causando forte queda nas ações."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026, pouco após abertura",
+    "oque": "Ibovespa acionou circuit breaker com queda superior a 17%."
+   },
+   {
+    "quando": "26/10/2026, às 11h15",
+    "oque": "Ibovespa estava em queda de 16,41%, aos 171 mil pontos."
+   },
+   {
+    "quando": "26/10/2026, às 11h40",
+    "oque": "Principais ações do varejo sofreram quedas expressivas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Mecanismo que pausa negociações na bolsa para evitar quedas abruptas."
+   },
+   {
+    "termo": "Stop-loss",
+    "significado": "Ordem automática para vender ação ao atingir preço determinado, limitando perdas."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da Bolsa de Valores de São Paulo (B3)."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da política nas ações de varejo?",
+  "tamanhoTexto": 10926,
+  "numeros": [
+   {
+    "valor": "17%",
+    "rotulo": "queda do Ibovespa no dia do circuit breaker"
+   },
+   {
+    "valor": "43,28%",
+    "rotulo": "queda das ações da C&A (CEAB3)"
+   },
+   {
+    "valor": "37,11%",
+    "rotulo": "queda das ações da Renner (LREN3)"
+   },
+   {
+    "valor": "40,51%",
+    "rotulo": "queda das ações do Assaí (ASAI3)"
+   },
+   {
+    "valor": "27,81%",
+    "rotulo": "queda das ações da Raia Drogasil (RD Saúde)"
+   },
+   {
+    "valor": "54,06%",
+    "rotulo": "queda das ações do Magazine Luiza (MGLU3)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Quedas de até",
+  "porQueImporta": "Grandes quedas nas ações de varejistas mostram como decisões políticas e eleições influenciam o mercado, especialmente setores sensíveis a juros e políticas fiscais. Isso afeta diretamente investidores que precisam entender riscos e volatilidade em momentos de incerteza política.",
+  "impactoMercado": "A forte volatilidade pós-eleição pode afetar o desempenho de setores como varejo, consumo e financeiros, influenciando estratégias de venda e proteção de carteira. Além disso, o dólar em alta pode beneficiar setores exportadores e empresas com dívidas em moeda estrangeira.",
+  "entenda": "Circuit breaker é uma pausa nas negociações na bolsa para evitar pânico e quedas abruptas. Ele é acionado quando o índice cai muito rapidamente, como no caso de hoje após a definição da eleição, dando tempo para o mercado digerir notícias e evitar decisões precipitadas.",
+  "observar": "Fique atento a dados econômicos e discursos do governo após a eleição, pois podem influenciar juros e reações do mercado. Próximos pregões podem mostrar continuidade ou reversão desse movimento.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia educa sobre os efeitos imediatos de eleições no mercado de ações, especialmente sobre o acionamento do circuit breaker e a influência política na volatilidade. Isso gera interesse pelo estudo dos mecanismos de proteção e análise do ambiente econômico.",
+  "gancho": "*Ações* em queda: *circuit breaker* acionado",
+  "ideias": [
+   "Entenda o que é circuit breaker na bolsa de valores",
+   "Por que as ações de varejo caíram após eleição presidencial?",
+   "Como a política influencia o mercado de ações no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Times Brasil; Seu Dinheiro; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/varejistas-brasileiras-derretem-no-day-after-ca-cai-50-renner-37-assai-perde-40-e-raia-drogasil-28/",
+  "publicadoEm": "2026-10-26T11:54:54-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-102"
+ },
+ {
+  "titulo": "Goldman alerta para maior risco fiscal e desafios de governabilidade com Lula",
+  "resumo": "Goldman Sachs destaca que Orçamento de 2027, ministro da Fazenda e relação com Congresso serão decisivos para ativos brasileiros após eleição de Lula.",
+  "fatos": [
+   "Relatório divulgado em 26/10/2026 pelo Goldman Sachs.",
+   "Focus na política fiscal, equipe econômica e governabilidade pós-eleições.",
+   "Orçamento de 2027, enviado em agosto, ainda não aprovado e precisará ser ajustado.",
+   "Nomeação do novo ministro da Fazenda é vista como chave para a reação dos mercados.",
+   "Partido de Flávio Bolsonaro é maior força no Congresso, podendo dificultar a aprovação de medidas.",
+   "Expansão recente de gastos anuncia maior prêmio fiscal para ativos brasileiros.",
+   "Futuros na CME indicam reação maior que em eleições recentes.",
+   "Possibilidade de contestação prolongada da eleição por Flávio Bolsonaro pode afetar sentimento no curto prazo."
+  ],
+  "explicacao": [
+   "Após o impacto inicial da vitória de Luiz Inácio Lula da Silva no segundo turno, o foco do mercado financeiro deve mudar para política fiscal, equipe econômica e governabilidade, segundo análise do Goldman Sachs em relatório de 26 de outubro de 2026.",
+   "O banco aponta que os investidores devem incorporar um maior prêmio pelo risco fiscal nos ativos brasileiros, em razão da expansão recente de gastos anunciada e das incertezas sobre a condução das contas públicas pelo novo governo.",
+   "A definição do ministro da Fazenda será um dos principais pontos a observar, pois esse comando econômico influenciará a percepção do mercado, assim como a aprovação do Orçamento de 2027, que ainda precisa ser ajustado e aprovado pelo Congresso.",
+   "Além disso, o cenário político traz desafios adicionais, já que o partido de Flávio Bolsonaro saiu fortalecido no Legislativo, o que pode aumentar atritos e dificultar a governabilidade fiscal do governo Lula."
+  ],
+  "detalhes": [
+   "Análise do banco feita logo após a confirmação da vitória de Lula no segundo turno.",
+   "Orçamento de 2027 passou ao Congresso no fim de agosto e deve ser modificado para acomodar novas medidas fiscais.",
+   "A eleição trouxe um cenário legislativo com o maior partido sendo o de Flávio Bolsonaro.",
+   "O relatório cita eleições anteriores, como a de 2002, para ilustrar possíveis mudanças na percepção do mercado.",
+   "Contestação eleitoral por parte de Flávio Bolsonaro envolve questionamento sobre o horário da votação.",
+   "Investidores monitoram particularmente a consolidação das contas públicas para definição do comportamento do real e da curva de juros.",
+   "Governabilidade será essencial para a implementação da agenda econômica do novo governo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Goldman Sachs",
+    "oque": "Maior prêmio fiscal deve ser incorporado diante da expansão de gastos e incertezas fiscais."
+   },
+   {
+    "quem": "Goldman Sachs",
+    "oque": "Definição do ministro da Fazenda será fundamental para percepção dos investidores."
+   },
+   {
+    "quem": "Goldman Sachs",
+    "oque": "Relação entre Executivo e Legislativo pode prejudicar governabilidade e aprovação de medidas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Goldman Sachs divulga relatório após vitória de Lula no segundo turno."
+   },
+   {
+    "quando": "Fim de agosto de 2026",
+    "oque": "Envio do Orçamento de 2027 ao Congresso."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Prêmio fiscal",
+    "significado": "Custo extra por risco na gestão das contas públicas."
+   },
+   {
+    "termo": "Orçamento",
+    "significado": "Plano oficial das receitas e despesas do governo para o ano seguinte."
+   },
+   {
+    "termo": "Governabilidade",
+    "significado": "Capacidade do governo de aprovar políticas no Congresso."
+   }
+  ],
+  "pergunta": "Como você acha que o risco fiscal com Lula pode afetar seus investimentos?",
+  "tamanhoTexto": 3771,
+  "numeros": [
+   {
+    "valor": "2027",
+    "rotulo": "ano do orçamento federal em análise"
+   },
+   {
+    "valor": "26/10/2026",
+    "rotulo": "data do relatório divulgada pelo Goldman Sachs"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "maior prêmio fiscal",
+  "porQueImporta": "Essa análise do Goldman Sachs é importante pois mostra que o mercado está atento à gestão fiscal e à governabilidade do governo Lula, elementos que impactam diretamente a confiança dos investidores e o comportamento dos ativos brasileiros.",
+  "impactoMercado": "Os desafios fiscais e políticos podem influenciar a volatilidade do real, curva de juros e mercado de ações, exigindo atenção dos investidores quanto ao risco e à política econômica futura do país.",
+  "entenda": "Prêmio fiscal é o custo extra que investidores pedem para comprar ativos devido ao risco de o governo gastar mais ou não conseguir equilibrar as contas, afetando juros e moeda. Governabilidade é a capacidade do governo de aprovar leis, essencial para aplicar sua política econômica.",
+  "observar": "Fique atento à definição do ministro da Fazenda, aprovação do Orçamento de 2027 até o fim do ano, e possíveis tensões entre Executivo e Legislativo para impacto nos ativos brasileiros.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos de forma simples os riscos fiscais e políticos que o mercado enfrenta com a vitória de Lula, ajudando você a entender o impacto no Brasil e preparar suas estratégias financeiras.",
+  "gancho": "Risco *fiscal* e *governabilidade* pós-eleições",
+  "ideias": [
+   "O que o risco fiscal com Lula significa para o real e juros?",
+   "Por que a escolha do ministro da Fazenda importa para o mercado?",
+   "Como a relação Congresso x Executivo afeta a economia brasileira?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://www.infomoney.com.br/mercados/goldman-risco-fiscal-lula-governabilidade/",
+  "publicadoEm": "2026-10-26T11:51:34-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-103"
+ },
+ {
+  "titulo": "Fed deve manter juros nos EUA, mas pausa pode acabar rápido",
+  "resumo": "O Federal Reserve deve manter a taxa entre 3,75% e 4%, mas investidores esperam alta em breve devido à inflação e economia forte.",
+  "fatos": [
+   "Taxa de juros do Fed está entre 3,75% e 4% atualmente.",
+   "Reunião do Fed prevista para os dias 27 e 28 de outubro de 2026.",
+   "Taxa de desemprego dos EUA está em 4,2%.",
+   "Rendimentos dos Treasuries de 10 anos atingiram máximas próximas a 25 anos.",
+   "Crescimento econômico acelerou no último trimestre, com avanço de consumo e investimentos em IA.",
+   "Probabilidade de 90% dos contratos futuros indicam manutenção da taxa na próxima reunião.",
+   "Kevin Warsh é o chair do Fed mencionado na matéria.",
+   "John Williams (presidente do Fed de Nova York) e Philip Jefferson (vice-presidente do Fed) sinalizaram espera por mais dados."
+  ],
+  "explicacao": [
+   "Nesta semana, o Federal Reserve indica que deve manter as taxas de juros de curto prazo estáveis entre 3,75% e 4%, sem novo aumento imediato. A decisão está prevista para os dias 27 e 28 de outubro de 2026.",
+   "A pausa ocorre por receio do aumento acelerado dos rendimentos dos títulos do Tesouro americano, que pode frear a economia mais do que o desejado, embora a inflação continue acelerada e o crescimento econômico dos EUA tenha ganhado força recentemente.",
+   "O mercado percebe que a situação da economia – com taxa de desemprego estável em 4,2% e ganhos puxados por consumo e investimento em inteligência artificial – demanda atenção, e por isso a pausa nos juros pode ser curta.",
+   "Com os dados econômicos esperançosos, é possível que o Fed retome o ciclo de alta dos juros em breve, conforme indicam economistas e autoridades, a partir da análise dos próximos relatórios que detalham inflação e economia."
+  ],
+  "detalhes": [
+   "O Fed opta pela pausa para evitar impacto excessivo com rendimentos altos dos títulos americanos.",
+   "Inflação acelerada no último mês, expansão para além dos preços dos combustíveis.",
+   "Gastos sólidos do consumidor e investimentos empresariais motivados pela demanda por IA impulsionam a economia.",
+   "Pedidos semanais de auxílio-desemprego estão nos níveis mais baixos da história recente.",
+   "Economista-chefe Kathy Bostjancic acredita que dados apoiam aumento das taxas.",
+   "Alta recente nos rendimentos dos Treasuries assustou formuladores da política monetária.",
+   "Mercado reagiu reduzindo fortemente apostas de alta de juros para próxima reunião."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Kathy Bostjancic, economista-chefe da Nationwide",
+    "oque": "Dados recentes mostram economia forte, mercado consumidor sólido e inflação piorando, apoiando aumento da taxa."
+   },
+   {
+    "quem": "José Williams, presidente do Fed de Nova York",
+    "oque": "Sinalizou disposição em aguardar mais dados antes de decidir por aumento de juros."
+   },
+   {
+    "quem": "Philip Jefferson, vice-presidente do Fed",
+    "oque": "Indicou que a decisão de manter juros reflete cautela após alta dos rendimentos dos Treasuries."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Setembro de 2026",
+    "oque": "Fed fez aumento da taxa de juros, que causou alta nos rendimentos dos Treasuries."
+   },
+   {
+    "quando": "Último mês antes de outubro de",
+    "oque": "Inflação acelerou nos EUA, incluindo além dos preços dos combustíveis."
+   },
+   {
+    "quando": "27 e 28 de outubro de",
+    "oque": "Próxima reunião do Fed para decidir sobre taxa de juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos Estados Unidos, define política monetária e juros."
+   },
+   {
+    "termo": "Treasuries",
+    "significado": "Títulos públicos de dívida emitidos pelo governo americano."
+   },
+   {
+    "termo": "Taxa de juros de curto",
+    "significado": "Juros definidos pelo Fed usados para empréstimos rápidos e créditos."
+   }
+  ],
+  "pergunta": "Você acha que o Fed vai aumentar os juros ainda este ano?",
+  "tamanhoTexto": 6082,
+  "numeros": [
+   {
+    "valor": "3,75% a 4%",
+    "rotulo": "Faixa atual da taxa de juros do Fed"
+   },
+   {
+    "valor": "4,2%",
+    "rotulo": "Taxa de desemprego nos EUA"
+   },
+   {
+    "valor": "90%",
+    "rotulo": "Probabilidade de manutenção da taxa no próximo encontro do Fed"
+   },
+   {
+    "valor": "27 e 28 de outubro de 2026",
+    "rotulo": "Data da reunião do Fed"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Taxa de juros",
+  "porQueImporta": "Para quem investe ou opera, entender o movimento do Fed é crucial, pois a política de juros afeta o custo do dinheiro, os investimentos em ações, renda fixa e o dólar. A possível curta pausa indica que o mercado pode ter volatilidade e ajustes futuros nas taxas.",
+  "impactoMercado": "Manter os juros estáveis por agora pode fortalecer o mercado acionário e diminuir a pressão sobre o dólar, mas a expectativa de aumento futuro pode gerar maior volatilidade nos setores sensíveis a crédito e bancos, influenciando decisões de investidores e traders.",
+  "entenda": "O Federal Reserve é o banco central dos EUA e define a taxa básica de juros para controlar a inflação e o crescimento econômico. Quando a inflação aumenta, o Fed eleva os juros para esfriar a economia, reduzindo o consumo e investimentos. Um ciclo de alta ou pausa afeta mercados globais.",
+  "observar": "Fique atento aos relatórios de inflação e crescimento econômico dos EUA após a reunião do Fed, que podem sinalizar o próximo movimento do banco central sobre os juros.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos como a decisão do Fed impacta juros, inflação e investimentos, preparando o seguidor para entender ciclos econômicos e atuar com mais conhecimento no mercado financeiro.",
+  "gancho": "*Juros* em pausa, mas alta vem?",
+  "ideias": [
+   "Entenda por que o Fed vai pausar juros agora",
+   "Como a inflação e o Fed afetam seus investimentos",
+   "Por que a pausa do Fed pode não durar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/fed-deve-manter-juros-nos-eua-mas-pausa-pode-durar-pouco.shtml",
+  "publicadoEm": "2026-10-26T11:15:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-104"
+ },
+ {
+  "titulo": "Suzano, Embraer e mais ações sobem pós eleição presidencial",
+  "resumo": "Após reeleição de Lula, Ibovespa cai 16,44%, mas Suzano, Embraer e Vale sobem. Ações ligadas ao dólar em alta.",
+  "fatos": [
+   "Ibovespa caiu 16,44% em 26/10/2026.",
+   "Índice estava em 171.367 pontos por volta das 11h40.",
+   "Suzano (SUZB3) subiu 8,82%.",
+   "Klabin (KLBN11) avançou 0,99%.",
+   "Embraer (EMBJ3) valorizou 6,93%.",
+   "Vale (VALE3) teve alta de 5,78%.",
+   "WEG (WEGE3) subiu 6,72%.",
+   "Mercado reagiu à forte alta do dólar após eleição.",
+   "Reeleição de Lula gerou temor de deterioração fiscal.",
+   "Interrupção negociações atingiu vários segmentos do mercado."
+  ],
+  "explicacao": [
+   "Na sessão após a vitória de Lula na eleição presidencial de 2026, o Ibovespa recuou 16,44%, aos 171.367 pontos, porém seis ações se destacaram pela valorização positiva.",
+   "O motivo principal da alta dessas ações foi a forte valorização do dólar, influenciada por temores de deterioração fiscal com o novo governo, o que favorece empresas com receitas em moeda estrangeira.",
+   "Empresas como Suzano e Klabin, do setor de celulose, Embraer, com vendas internacionais, Vale na mineração e WEG na indústria elétrica tiveram ganhos ligados à exposição cambial.",
+   "Isso mostra como o câmbio impacta o mercado acionário, especialmente para companhias com receitas em dólar. Agora, o mercado buscará entender o impacto das políticas do governo Lula na economia e nas empresas."
+  ],
+  "detalhes": [
+   "Data: 26 de outubro de 2026, primeira sessão após eleição presidencial.",
+   "Local: Bolsas brasileiras, Ibovespa índice de referência.",
+   "Quem subiu: Suzano, Klabin, Embraer, Vale, Bradespar, WEG.",
+   "Setores: papel e celulose, aviação, mineração, equipamentos elétricos.",
+   "Por quê: valorização do dólar favoreceu receitas em moeda estrangeira.",
+   "Contexto: mercado reagiu com queda geral, mas algumas ações resistiram.",
+   "Comparação: diferente do primeiro turno, reação mais forte do real e do mercado."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Ibovespa recua 16,44% após eleição presidencial"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede o desempenho das ações mais negociadas na B3."
+   },
+   {
+    "termo": "Valorização cambial",
+    "significado": "Aumento do valor do dólar em relação ao real."
+   },
+   {
+    "termo": "Receitas em moeda estrangeira",
+    "significado": "Renda obtida por empresas em dólares ou outras moedas."
+   }
+  ],
+  "pergunta": "Você entende como o dólar afeta as ações exportadoras na bolsa?",
+  "tamanhoTexto": 1747,
+  "numeros": [
+   {
+    "valor": "16,44%",
+    "rotulo": "queda do Ibovespa na sessão"
+   },
+   {
+    "valor": "171.367",
+    "rotulo": "pontos do Ibovespa às 11h40"
+   },
+   {
+    "valor": "8,82%",
+    "rotulo": "alta das ações da Suzano"
+   },
+   {
+    "valor": "6,93%",
+    "rotulo": "alta das ações da Embraer"
+   },
+   {
+    "valor": "5,78%",
+    "rotulo": "alta das ações da Vale"
+   },
+   {
+    "valor": "6,72%",
+    "rotulo": "alta das ações da WEG"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "16,44% queda Ibovespa",
+  "porQueImporta": "A valorização do dólar e a percepção de risco fiscal influenciam fortemente o mercado de ações, especialmente as empresas exportadoras. Entender esse impacto ajuda investidores a avaliar melhor seus riscos e oportunidades após eleições presidenciais.",
+  "impactoMercado": "Com a alta do dólar, setores ligados a exportação e receita em moeda estrangeira tendem a se valorizar, enquanto a bolsa geral pode enfrentar queda. Investidores precisam acompanhar variáveis cambiais e políticas para ajustar suas estratégias.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, que mede o desempenho das ações mais negociadas. Uma alta do dólar pode beneficiar empresas que ganham em moeda estrangeira, aumentando seus resultados em reais e impactando seus preços na bolsa.",
+  "observar": "Acompanhe próximas reuniões políticas e dados fiscais, pois podem gerar novas oscilações no dólar e na Bolsa, especialmente nas empresas exportadoras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostrar como eventos políticos impactam o mercado e os ativos exportadores ajuda o público a entender variações e a importância da análise de câmbio na faculdade.",
+  "gancho": "*Bolsa* e *Dólar* pós-eleição",
+  "ideias": [
+   "Como as eleições influenciam o dólar e a bolsa?",
+   "Por que Suzano e Embraer subiram com a alta do dólar?",
+   "Ibovespa cai, mas algumas ações surfam na alta cambial"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://www.infomoney.com.br/mercados/suzano-embraer-e-mais-quais-acoes-sobem-apos-as-eleicoes-presidenciais-vitoria-lula/",
+  "publicadoEm": "2026-10-26T12:07:31-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-105"
+ },
+ {
+  "titulo": "Verizon supera lucro, decepciona na receita e fecha acordo com Amazon",
+  "resumo": "No 3º trimestre de 2026, Verizon teve lucro de US$ 5,2 bi, alta de 5%. Receita ficou abaixo da expectativa e anúncio inclui parceria com Amazon.",
+  "fatos": [
+   "Lucro líquido do terceiro trimestre de 2026: US$ 5,2 bilhões",
+   "Alta do lucro líquido de 5% em relação ao ano anterior",
+   "Lucro ajustado por ação de US$ 1,31, acima da projeção de US$ 1,27",
+   "Receita operacional total de US$ 34,3 bilhões, crescimento de 1,5%",
+   "Receita ficou abaixo da expectativa de US$ 34,7 bilhões",
+   "Crescimento de 2,9% na receita de serviços de mobilidade e banda larga",
+   "Queda de 9% na receita com equipamentos",
+   "Saldo líquido de 406 mil novas conexões móveis pós-pagas no trimestre",
+   "Projeção de mercado para conexões pós-pagas era de 195,3 mil",
+   "Anúncio de um novo acordo entre Verizon e Amazon"
+  ],
+  "explicacao": [
+   "A Verizon divulgou seu balanço do terceiro trimestre de 2026 mostrando lucro líquido de US$ 5,2 bilhões, aumento de 5% em relação ao ano anterior. O lucro ajustado por ação foi de US$ 1,31, superando as projeções de US$ 1,27 feitas por analistas da FactSet.",
+   "Apesar do lucro elevado, a receita operacional total de US$ 34,3 bilhões cresceu apenas 1,5%, ficando abaixo da expectativa de US$ 34,7 bilhões. O crescimento nas receitas de serviços de mobilidade e banda larga, de 2,9%, foi parcialmente compensado pela queda de 9% na receita com equipamentos.",
+   "Essa queda na receita de equipamentos se deveu a menos trocas de aparelhos e à estratégia da Verizon de reduzir os subsídios para dispositivos eletrônicos. A empresa também teve saldo líquido de 406 mil novas conexões móveis pós-pagas, o melhor em cinco anos para o terceiro trimestre, superando a projeção de 195,3 mil.",
+   "Além dos resultados financeiros, a Verizon anunciou um novo acordo com a Amazon, que pode abrir novas oportunidades de negócios, reforçando sua atuação em serviços digitais. O mercado acompanhará os próximos trimestres para avaliar o impacto dessas medidas."
+  ],
+  "detalhes": [
+   "O relatório corresponde ao terceiro trimestre de 2026",
+   "A queda na receita de equipamentos foi influenciada por redução de subsídios",
+   "O número de novas conexões móveis pós-pagas foi o melhor em cinco anos",
+   "Analistas consultados pela FactSet foram a base das projeções usadas",
+   "O acordo com Amazon foi anunciado junto com os resultados trimestrais",
+   "Lucro por ação é uma métrica usada para comparar desempenho ajustado",
+   "Receita de serviços se refere a planos de mobilidade e internet banda larga"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Verizon reporta lucro e receita trimestral com resultados mistos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro ajustado por ação",
+    "significado": "Lucro por ação com ajustes para melhor comparabilidade"
+   },
+   {
+    "termo": "Receita operacional",
+    "significado": "Total de vendas da empresa antes de deduzir despesas"
+   },
+   {
+    "termo": "Conexões pós-pagas",
+    "significado": "Clientes que pagam mensalidades para serviços de telecom"
+   }
+  ],
+  "pergunta": "Você já usa serviços da Verizon ou Amazon na sua casa ou celular?",
+  "tamanhoTexto": 1735,
+  "numeros": [
+   {
+    "valor": "5,2 bilhões",
+    "rotulo": "lucro líquido em dólares no 3º trimestre de 2026"
+   },
+   {
+    "valor": "1,31",
+    "rotulo": "lucro ajustado por ação em dólares"
+   },
+   {
+    "valor": "34,3 bilhões",
+    "rotulo": "receita operacional total em dólares"
+   },
+   {
+    "valor": "406 mil",
+    "rotulo": "novas conexões móveis pós-pagas líquidas"
+   },
+   {
+    "valor": "2,9%",
+    "rotulo": "crescimento da receita de serviços de mobilidade e banda larga"
+   },
+   {
+    "valor": "9%",
+    "rotulo": "queda da receita com equipamentos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "não informado numericamente, mas inferior a US$ 5,2 bilhões",
+    "depois": "US$ 5,2 bilhões"
+   },
+   {
+    "item": "Projeção de conexões pós-pagas",
+    "antes": "195,3 mil",
+    "depois": "406 mil"
+   }
+  ],
+  "destaque": "US$ 5,2 bilhões",
+  "porQueImporta": "O lucro líquido acima do esperado mostra a força da Verizon mesmo com desafios na receita de equipamentos, o que influencia a percepção dos investidores sobre a saúde financeira e estratégia da empresa, impactando o valor das ações.",
+  "impactoMercado": "A receita menor do que a esperada pode preocupar em setores ligados a equipamentos, mas a alta nas conexões pós-pagas e parceria com a Amazon sinalizam potencial crescimento nos serviços digitais e banda larga, áreas cada vez mais valorizadas.",
+  "entenda": "Lucro líquido representa o ganho da empresa após todos os custos. Receita operacional é o total gerado antes das despesas. O saldo líquido de conexões pós-pagas indica o quanto a base de clientes está crescendo, essencial para operadoras de telecom.",
+  "observar": "Acompanhe os próximos resultados trimestrais da Verizon e anúncios sobre o acordo com a Amazon para avaliar evolução da receita e impacto da nova parceria.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos os resultados da Verizon para quem quer entender como lucros, receitas e parcerias influenciam o desempenho no mercado, aproximando conceitos financeiros para iniciantes e traders.",
+  "gancho": "*Verizon* lucra e fecha parceria",
+  "ideias": [
+   "Como a Verizon cresce em meio a desafios financeiros?",
+   "Entenda o impacto do acordo Verizon e Amazon",
+   "O que dizem os números do último trimestre da Verizon?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/verizon-supera-projecao-de-lucro-decepciona-com-receita-e-anuncia-novo-acordo-com-a-amazon/",
+  "publicadoEm": "2026-10-26T11:59:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-106"
+ },
+ {
+  "titulo": "Demanda por cripto no exterior cai 49% em setembro, diz BC",
+  "resumo": "Investimentos em criptoativos no exterior somaram US$ 843 milhões em setembro, queda de 48,95% em 1 ano. Dados do Banco Central indicam forte retração na compra, especialmente de stablecoins.",
+  "fatos": [
+   "Demanda por criptoativos no exterior ficou em US$ 843 milhões em setembro de 2026.",
+   "Queda de 48,95% em relação a setembro de 2025, que somou US$ 1,651 bilhão.",
+   "Banco Central é a fonte dos dados oficiais sobre investimentos em cripto no exterior.",
+   "Stablecoins foram o principal tipo de criptoativos que tiveram redução na demanda.",
+   "Queda reflete menos investimentos nesse segmento comparado ao ano anterior."
+  ],
+  "explicacao": [
+   "Em setembro de 2026, a demanda por criptoativos no exterior totalizou US$ 843 milhões, segundo dados publicados pelo Banco Central (BC). Isso representa uma queda de 48,95% em relação ao mesmo mês do ano anterior, quando os investimentos somaram US$ 1,651 bilhão.",
+   "A principal categoria afetada foi a dos stablecoins, moedas digitais com valor atrelado a ativos estáveis, que compõem a maioria dos investimentos mencionados. Essa queda pode refletir menor apetite por risco ou ajustes regulatórios e de mercado no setor de cripto.",
+   "Essa redução significa que investidores e operadores estão menos interessados em alocar recursos em criptoativos no exterior, impactando a liquidez e o fluxo de capital neste mercado. O cenário reforça a volatilidade característica das criptomoedas.",
+   "Com a demanda em queda, os próximos meses podem trazer mais análises sobre o comportamento dos investidores, ajustes nas estratégias de alocação em criptoativos e possíveis impactos nas políticas regulatórias que influenciam o mercado digital."
+  ],
+  "detalhes": [
+   "Dados divulgados em 26 de outubro de 2026 pelo Banco Central.",
+   "Comparação feita entre os meses de setembro de 2025 e 2026.",
+   "Investimentos referem-se a ativos digitais adquiridos fora do Brasil.",
+   "Stablecoins compõem a maior parte desses ativos, impactando a queda geral.",
+   "Contexto envolve interesse dos investidores por ativos digitais e seu comportamento.",
+   "Banco Central acompanha esses números para entender fluxo de capital em cripto.",
+   "Setor de criptoativos continua volátil e sujeito a oscilações bruscas de demanda."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "setembro de 2025",
+    "oque": "Demanda por cripto no exterior foi de US$ 1,651 bilhão"
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "Demanda caiu para US$ 843 milhões, segundo BC"
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Banco Central divulgou dados oficiais sobre criptoativos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Stablecoins",
+    "significado": "Criptoativos com valor estável, ligados a moedas tradicionais, como o dólar."
+   }
+  ],
+  "pergunta": "Você já investiu em stablecoins ou outros criptoativos? Como avalia essa queda?",
+  "tamanhoTexto": 1974,
+  "numeros": [
+   {
+    "valor": "843 milhões",
+    "rotulo": "Investimento em criptoativos em setembro de 2026 (US$)"
+   },
+   {
+    "valor": "1,651 bilhão",
+    "rotulo": "Investimento em criptoativos em setembro de 2025 (US$)"
+   },
+   {
+    "valor": "48,95%",
+    "rotulo": "Queda da demanda de setembro de 2026 contra 2025"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Demanda por cripto no exterior",
+    "antes": "US$ 1,651 bilhão em setembro de 2025",
+    "depois": "US$ 843 milhões em setembro de 2026"
+   }
+  ],
+  "destaque": "48,95% queda na",
+  "porQueImporta": "A queda expressiva na demanda por criptoativos no exterior reflete mudança no comportamento dos investidores que pode influenciar a liquidez e o interesse pelo mercado digital, importante para quem opera e investe com foco em cripto.",
+  "impactoMercado": "A redução da demanda tem potencial para impactar diretamente o volume negociado de criptomoedas e pode acelerar ajustes em estratégias de investimento e na leitura do risco do setor, afetando especialmente ativos como stablecoins.",
+  "entenda": "Esse dado mostra a variação no volume de dinheiro investido em criptoativos fora do Brasil. Criptoativos são moedas digitais, como o Bitcoin e stablecoins, e sua demanda pode oscilar muito conforme a confiança do investidor e o cenário macroeconômico.",
+  "observar": "Fique atento às próximas atualizações do Banco Central sobre criptoativos e às decisões regulatórias que podem influenciar a demanda e o mercado de moedas digitais.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicamos a queda na demanda por cripto para ajudar operadores e iniciantes a entenderem os movimentos do mercado digital e como isso afeta suas decisões e estratégias.",
+  "gancho": "*Cripto* em queda no exterior",
+  "ideias": [
+   "Por que a demanda por cripto ativos caiu quase 50%?",
+   "O que a queda da demanda por stablecoins significa para investidores?",
+   "Como o Banco Central monitora investimentos em criptomoedas no exterior?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/10/26/demanda-por-criptoativos-no-exterior-cai-49percent-em-setembro-ante-mesmo-mes-em-2025-diz-bc.ghtml",
+  "publicadoEm": "2026-10-26T11:47:06-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-107"
+ },
+ {
+  "titulo": "Temporada de balanços: Vale, Ambev e Santander divulgam resultados",
+  "resumo": "Entre 26 e 30 de outubro, Vale, Ambev, Gerdau e Santander divulgam resultados do 3T26. Mercado acompanha lucro, receita, margens e endividamento das maiores empresas da Bolsa.",
+  "fatos": [
+   "A temporada de balanços do 3T26 ocorre entre 26 e 30 de outubro.",
+   "Gerdau (GGBR4) e Metalúrgica Gerdau (GOAU4) abrem a semana com balanços após o pregão de segunda-feira (26).",
+   "Hypera (HYPE3) divulga seus resultados na terça-feira (27) após o mercado.",
+   "Santander Brasil (SANB11) e Klabin (KLBN11) divulgam resultados na quarta-feira (28) antes da abertura da Bolsa.",
+   "Ambev (ABEV3) e Multiplan (MULT3) apresentam balanços na quinta-feira (29), Ambev antes da abertura, Multiplan após o fechamento.",
+   "Vale (VALE3) divulga resultados na quinta-feira (29) após o pregão, com teleconferência na sexta (30) às 11h.",
+   "Resultados abrangem setores como siderurgia, mineração, serviços financeiros, tecnologia, infraestrutura e papel e embalagens.",
+   "Mercado foca evolução de lucro, receita, margens e endividamento das empresas.",
+   "Vale passará a apresentar informações operacionais e financeiras num único relatório a partir deste trimestre."
+  ],
+  "explicacao": [
+   "Nesta semana, entre os dias 26 e 30 de outubro, grandes empresas da Bolsa brasileira, como Vale (VALE3), Ambev (ABEV3), Gerdau (GGBR4) e Santander Brasil (SANB11), apresentam seus balanços financeiros do terceiro trimestre de 2026.",
+   "A divulgação acontece em momentos variados, após o fechamento ou antes da abertura do mercado, e os investidores estão atentos à evolução dos lucros, receitas, margens operacionais e níveis de endividamento.",
+   "A Vale, por exemplo, vai reunir em um único relatório seus dados operacionais e financeiros, facilitando a análise de produção, venda, preço e desempenho financeiro num mesmo documento, com teleconferência marcada para sexta-feira (30).",
+   "Outras empresas como Hypera, Klabin, Intelbras, Motiva, Multiplan, Usiminas e Irani também divulgarão seus números, completando uma agenda diversificada de setores que impactam o mercado e as decisões dos investidores."
+  ],
+  "detalhes": [
+   "Quem divulga: Vale, Ambev, Gerdau, Metalúrgica Gerdau, Santander Brasil, Hypera, Klabin, Intelbras, Motiva, Multiplan, Usiminas e Irani.",
+   "Quando: entre 26 e 30 de outubro de 2026.",
+   "Como: divulgações ocorrem tanto antes da abertura quanto após o fechamento do mercado.",
+   "Destaque da Vale: unificação dos dados operacionais e financeiros em um único relatório trimestral.",
+   "Setores envolvidos: siderurgia, mineração, saúde, financeiro, tecnologia, infraestrutura, papel e embalagens.",
+   "Teleconferências: programadas para esclarecimentos e detalhes, como a da Vale na sexta-feira (30) às 11h Brasília.",
+   "Pontos de atenção: margens operacionais, geração de caixa, inadimplência, carteira de crédito e desempenho comercial."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26 de outubro",
+    "oque": "Gerdau e Metalúrgica Gerdau divulgam balanços após o pregão"
+   },
+   {
+    "quando": "27 de outubro",
+    "oque": "Hypera divulga resultados após o fechamento do mercado"
+   },
+   {
+    "quando": "28 de outubro",
+    "oque": "Santander Brasil e Klabin divulgam resultados antes da abertura da Bolsa"
+   },
+   {
+    "quando": "29 de outubro",
+    "oque": "Ambev e Multiplan divulgam resultados, Ambev antes e Multiplan depois do pregão"
+   },
+   {
+    "quando": "29 e 30 de outubro",
+    "oque": "Vale divulga resultados após fechamento e realiza teleconferência na sexta-feira"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Balanço trimestral",
+    "significado": "Relatório financeiro que detalha desempenho a cada três meses."
+   },
+   {
+    "termo": "Teleconferência",
+    "significado": "Reunião online para discutir resultados com investidores."
+   },
+   {
+    "termo": "Margem operacional",
+    "significado": "Porcentagem de lucro das vendas descontando custos operacionais."
+   }
+  ],
+  "pergunta": "Qual balanço você acha que terá maior impacto nesta temporada?",
+  "tamanhoTexto": 4516,
+  "numeros": [
+   {
+    "valor": "26 a 30 de outubro",
+    "rotulo": "Período da temporada de balanços 3T26"
+   },
+   {
+    "valor": "11h, 30 de outubro",
+    "rotulo": "Teleconferência da Vale com investidores"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "26 a 30",
+  "porQueImporta": "A temporada de balanços é crucial para investidores acompanharem a saúde financeira e operação das maiores empresas da Bolsa, permitindo decisões informadas com base nos lucros, receitas e perspectivas para os próximos trimestres.",
+  "impactoMercado": "Resultados sólidos ou fracos podem influenciar a cotação das ações, renovar a confiança no setor, afetar expectativas de dividendos e impactar o panorama econômico, especialmente em commodities, serviços financeiros e bens de consumo.",
+  "entenda": "Balanços trimestrais são relatórios que mostram o desempenho financeiro e operacional das empresas, como lucro, receita e dívidas, essenciais para investidores analisarem resultados e fazer escolhas com base em dados atuais e estratégias futuras.",
+  "observar": "Fique atento aos próximos balanços que podem trazer atualizações sobre estratégias de empresas e mudanças nos indicadores financeiros até o final da semana.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostramos quem divulga balanços e o que observar nos indicadores, para que o seguidor entenda melhor as informações financeiras que movimentam o mercado.",
+  "gancho": "*Balanços* semana: VALE, ABEV e mais",
+  "ideias": [
+   "Agenda completa dos balanços do 3T26",
+   "Destaques dos resultados de Vale e Ambev",
+   "Como interpretar balanços divulgados essa semana"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Suno Notícias",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://www.suno.com.br/noticias/balancos-do-3t26-quem-divulga-esta-semana/",
+  "publicadoEm": "2026-10-26T11:55:07-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-108"
+ },
+ {
+  "titulo": "Reeleição de Lula deve levar a reajuste gradual na Petrobras",
+  "resumo": "Presidente da Abicom espera que após eleição a Petrobras ajuste preços dos combustíveis lentamente. Conselho da estatal discute defasagem alta nos preços, especialmente do diesel.",
+  "fatos": [
+   "Reunião do Conselho da Petrobras para discutir defasagem dos preços em 26 de junho.",
+   "Defasagem do diesel chegou a R$ 3,53 por litro, ultrapassando a subvenção de R$ 3,52.",
+   "Diversas camadas de subsídios para diesel e desoneração na gasolina.",
+   "Preços defasados explicados pelo contexto eleitoral passado.",
+   "Ibovespa caiu 16,8% após paralisação de negociações em contexto de reeleição.",
+   "Abicom defende reajuste lento e gradual dos combustíveis."
+  ],
+  "explicacao": [
+   "A reeleição do presidente Lula traz a expectativa de que a Petrobras realize ajustes graduais nos preços dos combustíveis, para corrigir a defasagem em relação aos valores internacionais, especialmente do diesel, que superou R$ 3,53 o litro em defasagem.",
+   "A defasagem nos preços ocorreu devido a várias camadas de subsídios, principalmente em momentos eleitorais, que mantiveram os preços da gasolina e do diesel artificialmente baixos, pressionando as contas da estatal.",
+   "O presidente da Abicom destaca que, para equilibrar o setor, o governo deverá considerar a arrecadação de impostos e royalties para reduzir as subvenções e permitir que a Petrobras tenha preços mais racionais.",
+   "Nesta segunda-feira (26), o Conselho de Administração da Petrobras debate justamente essa defasagem insustentável, indicando que o processo de elevação dos preços será gradual para evitar impactos abruptos no consumidor."
+  ],
+  "detalhes": [
+   "A defasagem indica que o preço dos combustíveis está abaixo do custo real internacional.",
+   "O diesel é o combustível com maior descompasso, superando a subvenção financeira até então garantida.",
+   "O governo arrecada impostos e royalties que podem ser usados para reduzir subsídios.",
+   "O aumento nos preços será gradual para evitar impactos fortes no consumidor.",
+   "O contexto eleitoral anterior motivou a manutenção dos preços baixos.",
+   "A reunião do Conselho da Petrobras marca o momento oficial de análise do problema.",
+   "Abicom representa importadores brasileiros de combustíveis e seu presidente é Araújo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "presidente da Associação Brasileira dos Importadores de Combustíveis (Abicom)",
+    "oque": "O sistema de preços está muito desarrumado e será necessária uma correção lenta e gradual."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de junho de 2023",
+    "oque": "Reunião do Conselho da Petrobras para discutir defasagem nos preços dos combustíveis."
+   },
+   {
+    "quando": "Semana anterior à reunião",
+    "oque": "Defasagem do diesel ultrapassou R$ 3,53 o litro."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Defasagem de preços",
+    "significado": "Diferença entre preço cobrado e custo real internacional do combustível."
+   },
+   {
+    "termo": "Subvenção",
+    "significado": "Ajuda financeira do governo para reduzir preços ao consumidor."
+   },
+   {
+    "termo": "Diesel",
+    "significado": "Combustível para veículos pesados, sofre forte impacto em preços e subsídios."
+   }
+  ],
+  "pergunta": "Como você acha que o reajuste gradual dos combustíveis vai impactar seu bolso?",
+  "tamanhoTexto": 2522,
+  "numeros": [
+   {
+    "valor": "3,53",
+    "rotulo": "defasagem do diesel por litro em reais"
+   },
+   {
+    "valor": "3,52",
+    "rotulo": "valor da subvenção ao diesel por litro em reais"
+   },
+   {
+    "valor": "16,8%",
+    "rotulo": "queda do Ibovespa após paralisação de negociações"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "reajuste gradual nos",
+  "porQueImporta": "A arrumação gradual dos preços da Petrobras impacta o custo do combustível para consumidores e empresas. Essa correção é importante para evitar desequilíbrios fiscais e pressões inflacionárias, influenciando taxas de juros e a estabilidade econômica.",
+  "impactoMercado": "O reajuste gradual pode afetar ações da Petrobras e setores relacionados ao petróleo e gás, além de influenciar decisões do Banco Central sobre juros devido a possíveis efeitos inflacionários com o aumento do preço dos combustíveis.",
+  "entenda": "Defasagem nos preços dos combustíveis ocorre quando o valor cobrado está abaixo do custo internacional, gerando prejuízo para a empresa estatal. Subsídios e desonerações são usados para manter preços baixos, mas podem desequilibrar as contas públicas e forçar ajustes futuros.",
+  "observar": "Acompanhe possíveis decisões do Conselho da Petrobras nos próximos dias e anúncios do governo sobre alterações nos subsídios e impostos do setor de combustíveis.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Analisar a perspectiva de ajustes nos preços da Petrobras ajuda investidores e interessados a entenderem os impactos econômicos e setoriais após eleições, relacionando política e mercado financeiro de forma simples.",
+  "gancho": "*Reajuste* gradual Petrobras",
+  "ideias": [
+   "Entenda por que os preços da Petrobras estão defasados",
+   "O que muda para a economia com reajuste gradual dos combustíveis",
+   "Como a eleição influencia os preços do diesel e gasolina"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://www.estadao.com.br/economia/reeleicao-lula-petrobras-arrumar-casa-reajuste-gradual/",
+  "publicadoEm": "2026-10-26T10:06:35-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-109"
+ },
+ {
+  "titulo": "Tesouro anuncia leilão de recompra de até 15 milhões de NTN-F",
+  "resumo": "Tesouro Nacional planeja leilão de recompra de 15 milhões de NTN-F com três vencimentos em 2031, 2033 e 2037, ocorrido nesta segunda-feira entre 11h15 e 11h45.",
+  "fatos": [
+   "Leilão de recompra de NTN-F anunciado pelo Tesouro em 26/10/2026.",
+   "Total de até 15 milhões de títulos a serem recomprados.",
+   "Leilão ocorreu entre 11h15 e 11h45, resultado divulgado a partir das 12h.",
+   "NTN-F recompradas com vencimentos em 2031, 2033 e 2037, 5 milhões para cada vencimento.",
+   "Luis Felipe Vital comentou que a recompra indica controle do excesso de vendas no mercado.",
+   "O Tesouro evita vender títulos nos níveis atuais, segundo especialistas."
+  ],
+  "explicacao": [
+   "Nesta segunda-feira, 26 de outubro de 2026, o Tesouro Nacional anunciou um leilão extraordinário para recomprar até 15 milhões de Notas do Tesouro Nacional série F (NTN-F). O leilão aconteceu entre 11h15 e 11h45, com resultado divulgado a partir do meio-dia.",
+   "A recompra envolve três vencimentos diferentes: 5 milhões de NTN-F com vencimento em 01/01/2031, 5 milhões em 01/01/2033 e 5 milhões em 01/01/2037. O objetivo é aproveitar a oportunidade para reduzir o estoque de títulos que estão sendo vendidos no mercado.",
+   "Segundo Luis Felipe Vital, chefe de estratégia macro e de dívida pública da Warren Investimentos, a ação indica que o Tesouro está tentando controlar o excesso de fluxo de vendas de títulos públicos, sem que isso implique em vender esses papéis a preços atuais.",
+   "Esse tipo de leilão pode ajudar a melhorar a liquidez e a estabilidade do mercado de títulos públicos. O próximo passo será acompanhar os resultados do leilão e observar se o Tesouro fará novas recompras ou ajustes na política de gestão da dívida."
+  ],
+  "detalhes": [
+   "Quem: Tesouro Nacional, órgão responsável pela gestão da dívida pública.",
+   "Quanto: até 15 milhões de NTN-F podem ser recompradas.",
+   "Quando: leilão realizado na manhã de 26 de outubro de 2026, das 11h15 às 11h45.",
+   "Onde: mercado de títulos públicos brasileiros.",
+   "Como: leilão extraordinário para recompras, resultado divulgado uma hora após o término.",
+   "Comparação: foco em três séries distintas com vencimentos entre 2031 e 2037.",
+   "Contexto: ação para conter excesso de fluxo vendedora, buscando equilibrar o mercado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luis Felipe Vital, chefe de estratégia macro e de dívida",
+    "oque": "Tesouro está visando reduzir o excesso de vendas, não vender títulos nos preços atuais."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026, 11h15 a 11h45",
+    "oque": "Realização do leilão extraordinário de recompra das NTN-F."
+   },
+   {
+    "quando": "26/10/2026, a partir das 12h",
+    "oque": "Divulgação do resultado do leilão."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "NTN-F",
+    "significado": "Notas do Tesouro Nacional prefixadas com pagamento no vencimento."
+   },
+   {
+    "termo": "Leilão de recompra",
+    "significado": "Operação onde o Tesouro compra de volta títulos antes do vencimento."
+   }
+  ],
+  "pergunta": "Você já sabia como funciona a recompra de títulos pelo Tesouro?",
+  "tamanhoTexto": 2024,
+  "numeros": [
+   {
+    "valor": "15 milhões",
+    "rotulo": "Quantidade total máxima de NTN-F para recompra"
+   },
+   {
+    "valor": "5 milhões",
+    "rotulo": "Quantidade máxima para cada vencimento de NTN-F"
+   },
+   {
+    "valor": "11h15-11h45",
+    "rotulo": "Período do leilão extraordinário"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "15 milhões de",
+  "porQueImporta": "Essa recompra mostra como o Tesouro administra o estoque da dívida pública para estabilizar o mercado, evitando que o excesso de vendas desvalorize títulos, o que impacta diretamente rendimentos e custos para o governo e investidores.",
+  "impactoMercado": "A recompra pode aumentar a demanda por títulos públicos e reduzir volatilidade, favorecendo investidores que negociam NTN-F e influenciando as taxas de juros e a percepção de risco da dívida brasileira.",
+  "entenda": "NTN-F são títulos públicos do Tesouro emitidos com remuneração prefixada; recompra é uma operação para que o Tesouro compre seus títulos de volta antes do vencimento, controlando oferta e preço no mercado.",
+  "observar": "Fique atento aos próximos leilões e anúncios do Tesouro para acompanhar ajustes na gestão da dívida e os impactos nos rendimentos dos títulos públicos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostrar como o Tesouro gerencia a dívida pública ajuda o investidor a entender decisões que impactam preços e rendimentos dos títulos públicos e a importância da gestão financeira do país.",
+  "gancho": "*Tesouro* recompra NTN-F hoje",
+  "ideias": [
+   "O que é leilão de recompra do Tesouro?",
+   "Como a recompra de NTN-F afeta investidores?",
+   "Entenda os vencimentos na recompra das NTN-F"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/10/26/tesouro-intervm-no-mercado-e-anuncia-leilo-de-recompra-de-ntn-f.ghtml",
+  "publicadoEm": "2026-10-26T11:42:30-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-110"
+ },
+ {
+  "titulo": "Lula amplia votos no 2º turno e reduz vantagem de Flávio em 13 estados e DF",
+  "resumo": "Lula somou mais 10 milhões de votos no segundo turno, reduzindo a vantagem de Flávio Bolsonaro em 13 estados e no Distrito Federal.",
+  "fatos": [
+   "Lula cresceu cerca de 10,5 milhões de votos entre os turnos.",
+   "Flávio Bolsonaro aumentou sua votação em 3,8 milhões no segundo turno.",
+   "Minas Gerais foi o único estado que mudou de Flávio para Lula.",
+   "No Nordeste, Lula adicionou quase 3 milhões de votos.",
+   "Flávio perdeu votos em seis estados do Norte e Nordeste, totalizando aproximadamente 52,7 mil votos.",
+   "Em São Paulo, Lula reduziu a distância de Flávio de 13,7 para 7,7 pontos percentuais.",
+   "No Rio de Janeiro, a vantagem de Flávio caiu de 13,6 para 6,2 pontos percentuais.",
+   "Goias teve aumento percentual de votos para ambos os candidatos, Flávio (53,60% a 59,66%) e Lula (31,06% a 40,34%).",
+   "Lula atingiu 75,88% dos votos válidos no Piauí, o maior percentual regional.",
+   "No Amapá, a margem entre os candidatos passou de 225 votos no primeiro turno para 24 mil no segundo."
+  ],
+  "explicacao": [
+   "No segundo turno das eleições, Lula conseguiu um aumento significativo de votos, saindo de 53,72 milhões para mais de 64,2 milhões, um crescimento de cerca de 19%. Já Flávio Bolsonaro teve um acréscimo menor, indo de 55,96 milhões para 59,8 milhões, um aumento de cerca de 7%.",
+   "Esse crescimento maior de Lula ocorreu principalmente porque ele conquistou votos que estavam dispersos entre outros candidatos no primeiro turno, especialmente em estados onde Flávio já tinha boa base ou em regiões dominadas pelo petista, como o Nordeste.",
+   "A única mudança de estado que Flávio perdeu foi Minas Gerais, onde, apesar de ganhar no primeiro turno, foi superado por Lula no segundo. Em todos os 14 estados onde Flávio venceu, sua vantagem percentual diminuiu, com grandes reduções em São Paulo e Rio de Janeiro.",
+   "Agora, o cenário mostra um cenário de disputa apertada, mas com Lula ampliando sua votação no Nordeste e em grandes colégios eleitorais, o que influencia diretamente a configuração das eleições presidenciais e pode indicar padrões para futuras eleições."
+  ],
+  "detalhes": [
+   "Flávio Bolsonaro venceu no primeiro turno em Minas Gerais por 589 mil votos, mas perdeu no segundo turno por cerca de 100 mil votos.",
+   "Lula aumentou sua votação em 1,14 milhão em Minas Gerais entre os turnos.",
+   "Em São Paulo, Flávio somou 14,14 milhões, enquanto Lula subiu para 12,12 milhões de votos.",
+   "No Nordeste, apesar de Flávio perder percentual dos votos válidos, ele somou 397 mil votos a mais em números absolutos.",
+   "O maior ganho em votos de Lula na região Nordeste foi na Bahia, com 820 mil votos a mais.",
+   "O resultado mostra uma redistribuição dos votos entre os candidatos, e não uma grande perda de apoio para Flávio.",
+   "Estados como Rondônia e Roraima mantiveram alta votação para Flávio Bolsonaro, com percentuais superiores a 69% e 72%, respectivamente."
+  ],
+  "declaracoes": [],
+  "cronologia": [],
+  "glossario": [
+   {
+    "termo": "Eleição em 2º turno",
+    "significado": "Decisão entre os dois candidatos mais votados no primeiro turno"
+   },
+   {
+    "termo": "Colégio eleitoral",
+    "significado": "Conjunto de eleitores de um estado ou região"
+   },
+   {
+    "termo": "Votos válidos",
+    "significado": "Total de votos considerados válidos excluindo brancos e nulos"
+   }
+  ],
+  "pergunta": "Onde você acha que a votação de Lula cresceu mais no segundo turno?",
+  "tamanhoTexto": 4753,
+  "numeros": [
+   {
+    "valor": "64,2 milhões",
+    "rotulo": "votos de Lula no 2º turno"
+   },
+   {
+    "valor": "59,8 milhões",
+    "rotulo": "votos de Flávio Bolsonaro no 2º turno"
+   },
+   {
+    "valor": "53,72 milhões",
+    "rotulo": "votos de Lula no 1º turno"
+   },
+   {
+    "valor": "55,96 milhões",
+    "rotulo": "votos de Flávio Bolsonaro no 1º turno"
+   },
+   {
+    "valor": "589 mil",
+    "rotulo": "vantagem de Flávio em MG no 1º turno"
+   },
+   {
+    "valor": "100 mil",
+    "rotulo": "vantagem de Lula em MG no 2º turno"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "10 milhões de",
+  "porQueImporta": "A evolução dos votos entre os turnos mostra onde os candidatos conseguiram ampliar suas bases eleitorais, impactando diretamente a configuração futura do cenário político e, por extensão, as expectativas e estratégias dos investidores em setores afetados pelas políticas dos candidatos.",
+  "impactoMercado": "A consolidação da votação de Lula em regiões estratégicas como o Nordeste e o aumento de sua competitividade em grandes estados como São Paulo pode alterar percepções sobre políticas econômicas, afetando setores regulados, commodities e programas sociais que influenciam o mercado.",
+  "entenda": "O segundo turno é a etapa decisiva das eleições no Brasil, onde os dois candidatos mais votados no primeiro turno disputam o voto da maioria. Os eleitores que apoiaram candidatos eliminados redistribuem seus votos, impactando o resultado final.",
+  "observar": "Acompanhe a apuração detalhada dos votos por estado nas próximas eleições e observe os padrões de migração de eleitores entre candidaturas para entender a dinâmica eleitoral.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Analisar o desempenho dos candidatos nos estados ensina como o mercado político influencia o financeiro, despertando interesse pela faculdade e cursos de mercado financeiro que explicam essas relações.",
+  "gancho": "*Lula* amplia votação no *2º turno*",
+  "ideias": [
+   "Como Lula ganhou votos no 2º turno: análise por estado",
+   "O que a votação em Minas Gerais diz sobre a disputa presidencial",
+   "Entenda a dinâmica de votos entre Lula e Flávio Bolsonaro no 2º turno"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Bloomberg Línea",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:22:08-03:00",
+  "url": "https://www.bloomberglinea.com.br/brasil/lula-teve-10-milhoes-de-votos-a-mais-no-2-turno-e-reduziu-vantagem-de-flavio-em-14-estados/",
+  "publicadoEm": "2026-10-25T23:02:17-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-26-111"
+ },
+ {
   "titulo": "Ibovespa aciona circuit breaker e dólar dispara após vitória de Lula",
   "resumo": "B3 suspende negociações pela primeira vez desde 2020 após queda de 10% do Ibovespa. O dólar supera R$ 5,60 e juros futuros sobem forte na reação à reeleição de Lula em 26/10/2026.",
   "fatos": [
@@ -24337,12 +25607,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "51,0%",
+  "destaque": "60,5%",
   "fatos": [
-   "↑ 82.500: 51,0%",
-   "↓ 77.500: 43,5%",
-   "↑ 85.000: 19,5%",
-   "↓ 75.000: 15,5%"
+   "↑ 82,500: 60,5%",
+   "↓ 77,500: 35,0%",
+   "↑ 85,000: 23,5%",
+   "↓ 75,000: 13,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -24353,50 +25623,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↑ 82.500",
-    "prob": 51.0
+    "opcao": "↑ 82,500",
+    "prob": 60.5
    },
    {
-    "opcao": "↓ 77.500",
-    "prob": 43.5
+    "opcao": "↓ 77,500",
+    "prob": 35.0
    },
    {
-    "opcao": "↑ 85.000",
-    "prob": 19.5
+    "opcao": "↑ 85,000",
+    "prob": 23.5
    },
    {
-    "opcao": "↓ 75.000",
-    "prob": 15.5
+    "opcao": "↓ 75,000",
+    "prob": 13.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores têm uma forte expectativa de valorização do Bitcoin.",
+  "resumo": "A previsão do mercado indica uma expectativa positiva para o preço do Bitcoin até o fim de outubro de 2026.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 51.0% de chance de Bitcoin atingir 82.500 dólares em outubro de 2026",
+  "titulo": "Mercado de previsões vê 60.5% de chance de que o preço do Bitcoin atingirá 82,500 dólares em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 464 mil",
+  "volume24h": "US$ 515 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "51,0%",
-    "rotulo": "↑ 82.500"
+    "valor": "60,5%",
+    "rotulo": "↑ 82,500"
    },
    {
-    "valor": "43,5%",
-    "rotulo": "↓ 77.500"
+    "valor": "35,0%",
+    "rotulo": "↓ 77,500"
    },
    {
-    "valor": "19,5%",
-    "rotulo": "↑ 85.000"
+    "valor": "23,5%",
+    "rotulo": "↑ 85,000"
    },
    {
-    "valor": "15,5%",
-    "rotulo": "↓ 75.000"
+    "valor": "13,5%",
+    "rotulo": "↓ 75,000"
    }
   ],
-  "atualizadoEm": "2026-10-26T10:16:32-03:00"
+  "atualizadoEm": "2026-10-26T12:22:08-03:00"
  },
  {
   "categoria": "Previsões",
