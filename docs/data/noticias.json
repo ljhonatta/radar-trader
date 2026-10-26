@@ -1,5 +1,1080 @@
 [
  {
+  "titulo": "Real despenca com reeleição de Lula à Presidência",
+  "resumo": "O real cai mais de 11% no mercado futuro após a reeleição do presidente Lula, refletindo incertezas econômicas. Especialistas esperam volatilidade e aumento do dólar.",
+  "fatos": [
+   "O real caiu mais de 11% no mercado futuro da CME, em Chicago, com a reeleição de Lula.",
+   "O contrato do real para novembro teve queda de 10,59% em 70,3 mil negociações.",
+   "O dólar implícito para segunda-feira (26) deve iniciar em R$ 5,50.",
+   "Especialistas falam em abertura do dólar à vista acima de R$ 5,30.",
+   "Volatilidade no câmbio e na curva de juros futuros é esperada, com estresse em títulos públicos."
+  ],
+  "numeros": [
+   {
+    "valor": "11%",
+    "rotulo": "queda do real no mercado futuro"
+   },
+   {
+    "valor": "R$ 5,50",
+    "rotulo": "dólar implícito para segunda-feira"
+   },
+   {
+    "valor": "R$ 5,30",
+    "rotulo": "dólar à vista em abertura de pregão"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "11%",
+  "porQueImporta": "A flutuação do real afeta diretamente importações e exportações, impactando a inflação e a economia como um todo.",
+  "impactoMercado": "A expectativa de aumento do dólar pode provocar reações em diferentes setores da economia, além de afetar a confiança dos investidores.",
+  "entenda": "O mercado futuro é onde contratos são negociados para compra e venda de um ativo a um preço acordado para entrega em uma data futura.",
+  "observar": "Fique atento às intervenções do Banco Central e ao comportamento do câmbio e dos juros nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Compreender a relação entre política e mercado é essencial para investidores que desejam se posicionar de maneira estratégica.",
+  "gancho": "*Dólar* e *Real*: Entenda os impactos!",
+  "ideias": [
+   "Como a política influencia o câmbio?",
+   "Impactos da reeleição de Lula no mercado financeiro",
+   "Dicas para lidar com a volatilidade do câmbio"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.moneytimes.com.br/real-despenca-mais-de-11-no-mercado-futuro-com-reeleicao-de-lula-pt-a-presidencia/",
+  "publicadoEm": "2026-10-25T22:13:22-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-43"
+ },
+ {
+  "titulo": "Bradesco BBI ajusta as ações brasileiras para neutro",
+  "resumo": "Após grande valorização em outubro, Bradesco BBI reduziu a exposição em ações brasileiras, sugerindo uma postura mais defensiva e priorizando empresas exportadoras e reguladas.",
+  "fatos": [
+   "O MSCI Brazil subiu cerca de 13% em outubro, superando outros mercados globais.",
+   "O Bradesco BBI cortou a recomendação de ações brasileiras de overweight para neutra.",
+   "As ações estão agora a 9,3 vezes o lucro esperado, apenas 7% abaixo da média histórica.",
+   "A expectativa de crescimento do PIB brasileiro foi revista para 1,0% em 2027.",
+   "O banco passou a priorizar empresas como Sabesp e JBS em vez de ações beneficiais ao movimento de queda dos juros."
+  ],
+  "numeros": [
+   {
+    "valor": "1,0%",
+    "rotulo": "crescimento do PIB previsto para 2027"
+   },
+   {
+    "valor": "9,3",
+    "rotulo": "múltiplo de lucro esperado"
+   },
+   {
+    "valor": "83,6% para 88,2%",
+    "rotulo": "dívida bruta em relação ao PIB"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "crescimento do PIB",
+    "antes": "1,7%",
+    "depois": "1,0%"
+   },
+   {
+    "item": "desconto de ações",
+    "antes": "20%",
+    "depois": "7%"
+   }
+  ],
+  "destaque": "13%",
+  "porQueImporta": "A mudança de postura do Bradesco BBI pode indicar um ambiente mais cauteloso, impactando decisões de investimento do mercado.",
+  "impactoMercado": "A preferência por ações defensivas sugere uma busca por estabilidade em um cenário macroeconômico desafiador.",
+  "entenda": "O MSCI Brazil é um índice que mede o desempenho das ações brasileiras, e seu múltiplo indica como essas ações estão avaliadas em relação aos lucros esperados.",
+  "observar": "É importante acompanhar as próximas movimentações do Bradesco BBI e a evolução da confiança dos investidores no cenário econômico.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Analisar ajustes de estratégia e entender o impacto da economia nos investimentos é essencial para quem quer aprender mais sobre o mercado.",
+  "gancho": "*Ações Brasileiras* são o foco agora",
+  "ideias": [
+   "Por que o Bradesco BBI mudou sua recomendação?",
+   "MSCI Brazil: O que essa alta significa?",
+   "Estratégias defensivas em ações: O que observar?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.infomoney.com.br/mercados/bradesco-bbi-reduz-exposicao-a-acoes-do-brasil-para-neutra-e-realiza-lucros/",
+  "publicadoEm": "2026-10-25T21:57:59-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-44"
+ },
+ {
+  "titulo": "ETF brasileiro EWZ cai quase 20% após reeleição de Lula",
+  "resumo": "Após a confirmação da reeleição de Lula, o ETF EWZ apresenta queda de quase 20%, impactando as ações brasileiras no exterior.",
+  "fatos": [
+   "O EWZ, principal ETF brasileiro nos EUA, caiu 18,53%, negociado a US$ 34,69.",
+   "As ADRs da Petrobras também registraram quedas: PBR caiu 11,96%, a US$ 23,15, e PBR-A caiu 10,33%, a US$ 21,10.",
+   "A Vale teve uma queda de 4,19% nos seus ADRs, enquanto o Itaú desabou 13,65%.",
+   "A vitória de Lula não era esperada pelo mercado que contava com uma possível mudança de agenda.",
+   "O economista-chefe da Suno Research projeta volatilidade intensa no câmbio e juros futuros."
+  ],
+  "numeros": [
+   {
+    "valor": "18,53%",
+    "rotulo": "queda do ETF EWZ"
+   },
+   {
+    "valor": "11,96%",
+    "rotulo": "queda das ADRs da Petrobras PBR"
+   },
+   {
+    "valor": "10,33%",
+    "rotulo": "queda das ADRs da Petrobras PBR-A"
+   },
+   {
+    "valor": "4,19%",
+    "rotulo": "queda das ADRs da Vale"
+   },
+   {
+    "valor": "13,65%",
+    "rotulo": "queda das ações do Itaú"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "18,53%",
+  "porQueImporta": "A queda significativa do ETF e dos ADRs reflete a incerteza do mercado diante da política interna e a preferência dos investidores.",
+  "impactoMercado": "Esse cenário pode resultar em volatilidade nas próximas semanas, afetando o câmbio e a curva de juros, impactando as decisões dos investidores.",
+  "entenda": "O ETF EWZ permite que investidores internacionais compitam com ações de empresas brasileiras de forma mais fácil, refletindo a confiança do mercado na economia brasileira.",
+  "observar": "Fique atento ao comportamento do EWZ e das ações das empresas brasileiras negociadas no exterior, principalmente nos primeiros dias após a reeleição.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender a reação do mercado a eventos políticos é crucial para quem quer operar e investir no Brasil, especialmente em um ambiente volátil.",
+  "gancho": "*Queda* do *EWZ*: O que isso significa?",
+  "ideias": [
+   "Como a reeleição de Lula afeta seus investimentos?",
+   "Entenda as implicações da queda do EWZ!",
+   "O que está acontecendo com as ADRs brasileiras após as eleições?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.infomoney.com.br/mercados/etf-do-brasil-no-exterior-ewz-cai-quase-20-no-aftermarket-com-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-25T21:20:27-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-45"
+ },
+ {
+  "titulo": "Ações brasileiras caem após vitória de Lula",
+  "resumo": "Após a vitória de Lula, as ações de empresas brasileiras enfrentaram forte queda nas negociações em Nova York.",
+  "fatos": [
+   "A vitória do presidente eleito Lula impactou negativamente as ações brasileiras.",
+   "Investidores demonstraram preocupação com as políticas econômicas anunciadas.",
+   "As perdas foram especialmente sentidas em empresas listadas na Bolsa de Nova York."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Esse cenário é crucial, pois reflete a percepção do mercado sobre a gestão econômica do novo governo.",
+  "impactoMercado": "A dinâmica do mercado pode se tornar volátil com mudanças nas políticas que afetam os lucros das empresas.",
+  "entenda": "O mercado acionário reflete a confiança dos investidores nas empresas e na economia; alterações no governo podem influenciar isso.",
+  "observar": "Acompanhe as reações do mercado às primeiras medidas do novo governo e como os investidores ajustam suas expectativas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender como eventos políticos afetam o mercado é fundamental para quem busca operar com responsabilidade.",
+  "gancho": "Impacto da vitória de *Lula* no *mercado*",
+  "ideias": [
+   "O que a vitória de Lula significa para o mercado?",
+   "Queda das ações: o que isso indica?",
+   "Como eventos políticos afetam seus investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "VEJA",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Com+vit%C3%B3ria+de+Lula%2C+a%C3%A7%C3%B5es+de+empresas+brasileiras+derretem+em+Nova+York+VEJA",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:53:14-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-46"
+ },
+ {
+  "titulo": "Real despenca frente ao dólar após reeleição de Lula",
+  "resumo": "A reeleição de Lula impactou a cotação do real frente ao dólar, resultando em uma queda significativa da moeda brasileira. Análise do mercado financeiro mostra os efeitos dessa decisão.",
+  "fatos": [
+   "A reeleição de Lula gerou instabilidade no mercado financeiro.",
+   "O real teve desvalorização significativa frente ao dólar.",
+   "Investidores estão em atenção com as políticas econômicas do novo governo."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender a relação entre política e mercado ajuda investidores a tomar decisões conscientes em tempos de incerteza.",
+  "impactoMercado": "A queda do real pode influenciar prices de commodities e investimentos externos, refletindo na economia nacional.",
+  "entenda": "A desvalorização da moeda pode impactar o poder de compra e a inflação, afetando os investimentos e a economia geral.",
+  "observar": "Acompanhar como as políticas econômicas do novo governo afetarão o câmbio e a confiança dos investidores será crucial.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia ilustra como mudanças políticas afetam o mercado, convidando a entender mais sobre estratégias de investimento.",
+  "gancho": "*Desvalorização do real* e *política econômica*",
+  "ideias": [
+   "O que a reeleição de Lula significa para o câmbio?",
+   "Como a política influencia o mercado financeiro?",
+   "Impactos da desvalorização do real nos investimentos."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Real+despenca+frente+ao+d%C3%B3lar+ap%C3%B3s+reelei%C3%A7%C3%A3o+de+Lula+CNN+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:59:02-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-47"
+ },
+ {
+  "titulo": "EWZ cai 20% com reeleição de Lula",
+  "resumo": "A ação EWZ sofreu uma queda acentuada após a reeleição de Lula, enquanto os contratos de real também apresentaram forte desvalorização.",
+  "fatos": [
+   "A ação EWZ despencou cerca de 20% após o anúncio da reeleição de Lula.",
+   "Os contratos de real também enfrentaram uma forte derrocada.",
+   "A eleição parece ter impacto negativo sobre a confiança do mercado."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "-20%",
+  "porQueImporta": "Entender essas movimentações é crucial para investidores que buscam se proteger ou conferir novas oportunidades em tempos de incerteza política.",
+  "impactoMercado": "As quedas acentuadas podem indicar uma reação adversa dos investidores às políticas esperadas, afetando o mercado e a confiança geral.",
+  "entenda": "O EWZ é um fundo que representa ações brasileiras listadas nos EUA, e suas variações refletem a percepção do mercado sobre o Brasil.",
+  "observar": "Acompanhe os desdobramentos do governo Lula e como as políticas afetam a economia e o mercado financeiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Essa queda serve como exemplo de como a política impacta o mercado financeiro, mostrando a importância de entender esses movimentos.",
+  "gancho": "*EWZ* desaba com *Lula* reeleito!",
+  "ideias": [
+   "O que a queda do EWZ significa?",
+   "Como a reeleição de Lula impacta o mercado?",
+   "Contratos de real derretem: entenda os motivos."
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=EWZ+desaba+20%25+e+contratos+de+real+derretem+com+Lula+reeleito+presidente+Exame",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:45:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-48"
+ },
+ {
+  "titulo": "ETF EWZ do Brasil cai 19% pós-reeleição de Lula",
+  "resumo": "O ETF EWZ, representativo do Brasil em Nova York, sofreu uma queda significativa após a reeleição de Lula. Esse movimento reflete as preocupações do mercado.",
+  "fatos": [
+   "O EWZ é o principal ETF brasileiro negociado em NY.",
+   "Após a reeleição de Lula, o ETF caiu mais de 19%.",
+   "Esse desempenho leva o mercado a refletir sobre incertezas políticas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "mais de 19%",
+  "porQueImporta": "A queda do ETF impacta a percepção dos investidores sobre a economia brasileira e a governabilidade do novo governo.",
+  "impactoMercado": "Essa situação pode aumentar a volatilidade nos mercados e desencadear uma revisão de estratégias por parte dos investidores.",
+  "entenda": "O EWZ reflete a performance de ações brasileiras no mercado dos EUA, servindo como um indicativo do sentimento global sobre a economia do Brasil.",
+  "observar": "Fique atento às possíveis declarações do governo e reações do mercado nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A queda do EWZ evidencia a importância de entender os efeitos políticos no mercado, essencial para investidores que buscam conhecimento.",
+  "gancho": "*ETF* brasileiro em *queda* significativa",
+  "ideias": [
+   "O que a queda do EWZ pode significar?",
+   "Por que o mercado reage com incerteza à política?",
+   "Entenda o impacto da reeleição de Lula no mercado financeiro."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=EWZ%3A+Principal+ETF+do+Brasil+em+NY+cai+mais+de+19%25+ap%C3%B3s+reelei%C3%A7%C3%A3o+de+Lula+CNN+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:43:20-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-49"
+ },
+ {
+  "titulo": "Real futuro despenca 9% após vitória de Lula",
+  "resumo": "O ETF do Ibovespa também sofreu, com queda de 11% após os resultados eleitorais. Os mercados reagiram negativamente aos resultados das eleições.",
+  "fatos": [
+   "O real futuro caiu 9% frente ao dólar.",
+   "O ETF do Ibovespa recuou 11% após a vitória de Lula.",
+   "As eleições provocaram reações adversas nos mercados financeiros."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas quedas indicam como o mercado pode reagir a mudanças políticas, refletindo incertezas econômicas que afetam investidores.",
+  "impactoMercado": "O momento pode trazer volatilidade aos ativos, obrigando investidores a monitorar de perto as decisões políticas e suas repercussões econômicas.",
+  "entenda": "ETFs (Exchange Traded Funds) são fundos negociados em bolsa que replicam a performance de índices, como o Ibovespa.",
+  "observar": "Fique atento às próximas declarações do novo governo e suas possíveis implicações para o mercado e a economia.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Com a volatilidade do mercado, entender como política influencia a economia é crucial para quem quer se aprofundar no mercado financeiro.",
+  "gancho": "*Quedas do mercado* após eleições! Confira!",
+  "ideias": [
+   "Impacto das eleições no mercado financeiro",
+   "Entenda o que é ETF do Ibovespa",
+   "Como a política afeta seus investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Real+futuro+cai+9%25+e+ETF+do+Ibovespa+recua+11%25+ap%C3%B3s+vit%C3%B3ria+de+Lula+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:24:56-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-50"
+ },
+ {
+  "titulo": "Lula é reeleito e assume quarto mandato inédito",
+  "resumo": "Luiz Inácio Lula da Silva vence Flávio Bolsonaro no segundo turno, tornando-se o primeiro brasileiro a ser presidente quatro vezes. Entenda o impacto dessa reeleição no mercado financeiro.",
+  "fatos": [
+   "Lula obteve 51,77% dos votos válidos, totalizando 64.172.678 votos.",
+   "Flávio Bolsonaro recebeu 48,23% dos votos, somando 59.790.616.",
+   "As abstenções caíram para 19,21%, com 30.460.678 eleitores não participando da votação.",
+   "A posse de Lula está marcada para 5 de janeiro de 2027.",
+   "A eleição foi acompanhada de incertezas, com questionamentos sobre a legitimidade do processo."
+  ],
+  "numeros": [],
+  "comparativo": [
+   {
+    "item": "votos primeiro turno Lula",
+    "antes": "45,16%",
+    "depois": "51,77%"
+   },
+   {
+    "item": "votos primeiro turno Flávio Bolsonaro",
+    "antes": "47,03%",
+    "depois": "48,23%"
+   }
+  ],
+  "destaque": "51,77%",
+  "porQueImporta": "A reeleição de Lula pode afetar as decisões econômicas e a confiança dos investidores no Brasil, impactando a volatilidade do mercado.",
+  "impactoMercado": "A incerteza gerada pelas eleições pode levar a um aumento da aversão ao risco, resultando em possível queda da bolsa e aumento do dólar.",
+  "entenda": "As eleições e seus resultados podem influenciar o mercado financeiro, visto que os investidores buscam estabilidade e clareza em políticas econômicas.",
+  "observar": "Acompanhe como o mercado reage ao novo governo e a formação de sua equipe econômica nos próximos dias.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa reeleição abre um debate sobre como os governantes moldam a economia, um tema central para quem quer entender mais sobre o mercado financeiro.",
+  "gancho": "*Eleições* e *Mercado*: Entenda os impactos!",
+  "ideias": [
+   "Os impactos da reeleição de Lula na economia",
+   "Como a política influencia o mercado financeiro",
+   "O que esperar do novo governo Lula em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.seudinheiro.com/2026/politica/eleicoes-2026-lula-e-flavio-bolsonaro-segundo-turno-presidente-urnas-voto-ccgg/",
+  "publicadoEm": "2026-10-25T17:01:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-51"
+ },
+ {
+  "titulo": "Lula reeleito: impactos e cobranças do novo governo",
+  "resumo": "O novo governo de Lula trará expectativas e cobranças do mercado, que busca estabilidade e crescimento econômico.",
+  "fatos": [
+   "O mercado espera que o novo governo apresente um plano econômico sólido.",
+   "A confiança dos investidores é um ponto chave para o desenvolvimento do país.",
+   "Medidas de controle fiscal e políticas de investimento são essenciais para o cenário futuro."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as expectativas do mercado é crucial para investidores que buscam oportunidades em novas políticas e direções econômicas.",
+  "impactoMercado": "Mudanças na política econômica poderão afetar a confiança dos investidores e, consequentemente, a performance do mercado.",
+  "entenda": "A confiança do mercado está ligada à expectativa de políticas que influenciam diretamente na economia, como juros e inflação.",
+  "observar": "Acompanhe as primeiras ações do governo e como elas impactam a confiança do mercado.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Essa notícia mostra como as decisões políticas afetam o mercado, despertando curiosidade sobre como funcionam as finanças.",
+  "gancho": "O que esperar do novo *governo*?",
+  "ideias": [
+   "Expectativas do mercado após a reeleição de Lula",
+   "Lula e o mercado: o que podemos esperar?",
+   "O novo governo e suas cobranças econômicas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Lula+reeleito%3A+o+que+o+mercado+vai+cobrar+do+novo+governo%3F+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:42:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-52"
+ },
+ {
+  "titulo": "Reação negativa do mercado com eleição de Lula",
+  "resumo": "Expectativa de reação negativa do mercado financeiro após a eleição de Lula. Investidores avaliam possíveis impactos na economia.",
+  "fatos": [
+   "O mercado deve reagir negativamente com a nova eleição.",
+   "A expectativa é de que isso afete a economia geral.",
+   "Investidores estão cautelosos em relação às futuras políticas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender a reação do mercado em períodos eleitorais é crucial para investidores que buscam entender os riscos e oportunidades.",
+  "impactoMercado": "A incerteza política pode levar a volatilidade nos mercados e mudar a confiança dos investidores.",
+  "entenda": "Analisar a influência das eleições na economia é fundamental para navegar os mercados financeiros.",
+  "observar": "Fique atento às respostas do mercado à medida que novas políticas forem anunciadas.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Essa notícia destaca a importância das eleições na oscilação do mercado e como isso se relaciona com a formação de investidores mais preparados.",
+  "gancho": "*Eleições* e o impacto no *mercado*",
+  "ideias": [
+   "Como as eleições afetam o mercado?",
+   "O que investidores devem saber sobre mudanças políticas?",
+   "Dicas para operar em épocas de incerteza política"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Terra",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Mercado+deve+ter+rea%C3%A7%C3%A3o+negativa+com+elei%C3%A7%C3%A3o+de+Lula+Terra",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T22:12:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-53"
+ },
+ {
+  "titulo": "Promessas de Lula para a economia na campanha",
+  "resumo": "Durante a campanha, Lula fez várias promessas focadas na economia. Conheça algumas delas e entenda como podem impactar o mercado.",
+  "fatos": [
+   "Lula prometeu aumentar o salário mínimo e realizar investimentos em infraestrutura.",
+   "Outra proposta foi a de criar um novo programa de transferência de renda.",
+   "Ele também mencionou a importância de fortalecer as estatais no panorama econômico."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas promessas podem influenciar a confiança dos investidores e afetar a economia nacional de maneiras específicas.",
+  "impactoMercado": "Mudanças nas políticas propostas podem gerar reações do mercado financeiro, refletindo nas ações e na economia em geral.",
+  "entenda": "O mercado financeiro é sensível a promessas políticas, que podem afetar a percepção de risco e o investimento.",
+  "observar": "Fique atento aos desdobramentos dessas promessas e como elas vão ser implementadas no próximo governo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Explorar como as promessas políticas moldam o cenário econômico é fundamental para entender o mercado financeiro.",
+  "gancho": "*Promessas de Lula* e o impacto econômico",
+  "ideias": [
+   "O que as promessas de Lula significam para o seu investimento?",
+   "Como as propostas econômicas de Lula podem mudar o mercado?",
+   "Entenda as promessas de Lula e suas implicações."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Veja+as+promessas+feitas+por+Lula+para+a+economia+durante+a+campanha+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:03:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-54"
+ },
+ {
+  "titulo": "Lula bate recorde histórico com 64 milhões de votos",
+  "resumo": "Com mais de 64 milhões de votos, Lula é reeleito, superando sua própria marca de 2022. Votação marca mudanças significativas no cenário eleitoral brasileiro.",
+  "fatos": [
+   "Luiz Inácio Lula da Silva foi reeleito com mais de 64 milhões de votos, um novo recorde.",
+   "Na eleição anterior de 2022, Lula recebeu 60.345.999 votos no segundo turno.",
+   "A diferença entre Lula e Flávio Bolsonaro foi de aproximadamente 4,4 milhões de votos.",
+   "O eleitorado cresceu de 156,4 milhões em 2022 para cerca de 158 milhões em 2026.",
+   "Lula torna-se o primeiro brasileiro eleito quatro vezes para a Presidência pelo voto direto."
+  ],
+  "numeros": [
+   {
+    "valor": "64.185.535",
+    "rotulo": "votos de Lula na reeleição"
+   },
+   {
+    "valor": "60.345.999",
+    "rotulo": "votos de Lula em 2022"
+   },
+   {
+    "valor": "158.000.000",
+    "rotulo": "eleitores aptos em 2026"
+   },
+   {
+    "valor": "4.400.000",
+    "rotulo": "diferença de votos para Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Votos de Lula em 2022",
+    "antes": "60.345.999",
+    "depois": "64.185.535"
+   }
+  ],
+  "destaque": "64.185.535",
+  "porQueImporta": "A reeleição e recorde de votos de Lula podem impactar a política econômica do país, gerando expectativas nos investimentos e nas decisões do mercado.",
+  "impactoMercado": "Mudanças no governo podem influenciar políticas econômicas e setoriais, afetando a confiança dos investidores e as cotações de ativos.",
+  "entenda": "O crescimento do eleitorado e a reeleição histórica de Lula sinalizam mudanças potenciais no ambiente político e econômico, que podem ser importantes para investidores.",
+  "observar": "Acompanhe possíveis mudanças nas políticas econômicas e os impactos nas ações de empresas e no mercado em geral.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Entender como a política brasileira afeta o mercado é essencial para quem deseja investir com mais segurança.",
+  "gancho": "*Lula*, *recorde* e a *política econômica*",
+  "ideias": [
+   "Impacto da reeleição de Lula no mercado",
+   "Recordes eleitorais e suas consequências econômicas",
+   "O novo eleitorado brasileiro e suas implicações para o futuro"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-supera-64-milhoes-de-votos-e-bate-recorde-historico-em-eleicao-presidencial/",
+  "publicadoEm": "2026-10-25T21:57:44-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-55"
+ },
+ {
+  "titulo": "Lula reeleito enfrentará Congresso mais conservador",
+  "resumo": "Lula conquista quarto mandato, mas o PL terá 121 deputados e 28 senadores, exigindo novas alianças para aprovar projetos no Congresso.",
+  "fatos": [
+   "Lula da Silva foi reeleito, mas o Congresso terá uma composição diferente a partir de 2027.",
+   "O PL terá 121 deputados e 28 senadores, sendo a maior bancada na Câmara.",
+   "A direita ocupará 303 das 513 cadeiras na Câmara, o que representa 59,1%.",
+   "O crescimento do PL foi expressivo, passando de 97 deputados em 2022 para 121 em 2026.",
+   "O petista terá apenas 70 deputados e 9 senadores, necessitando negociar com partidos do centro e centro-direita."
+  ],
+  "numeros": [
+   {
+    "valor": "121",
+    "rotulo": "deputados do PL a partir de 2027"
+   },
+   {
+    "valor": "28",
+    "rotulo": "senadores do PL a partir de 2027"
+   },
+   {
+    "valor": "303",
+    "rotulo": "cadeiras ocupadas pela direita na Câmara"
+   },
+   {
+    "valor": "59,1%",
+    "rotulo": "percentual da direita na Câmara"
+   },
+   {
+    "valor": "70",
+    "rotulo": "deputados do PT a partir de 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "deputados do PL",
+    "antes": "97",
+    "depois": "121"
+   },
+   {
+    "item": "deputados do PT",
+    "antes": "68",
+    "depois": "70"
+   }
+  ],
+  "destaque": "121",
+  "porQueImporta": "A nova composição do Congresso pode dificultar a aprovação de projetos, afetando a agenda do governo e os investidores.",
+  "impactoMercado": "O fortalecimento da direita pode trazer um clima de incerteza política, influenciando decisões financeiras e econômicas.",
+  "entenda": "A composição do Congresso é crucial porque ela determina a capacidade do governo de aprovar suas propostas e implementar políticas.",
+  "observar": "Acompanhe as articulações políticas nos próximos meses e como isso pode influenciar projetos de lei.",
+  "publico": [
+   "Aposentados",
+   "Empresários",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender a nova relação entre Executivo e Legislativo é fundamental para quem busca se informar e se aprimorar no mercado.",
+  "gancho": "*Congresso* mais à direita afeta *governo*",
+  "ideias": [
+   "O que a reeleição de Lula significa para o mercado?",
+   "Como a nova composição do Congresso pode impactar suas finanças?",
+   "Lula precisa de alianças para governar; entenda como isso funciona."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-e-reeleito-mas-enfrentara-congresso-mais-a-direita-veja-os-numeros/",
+  "publicadoEm": "2026-10-25T21:32:50-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-56"
+ },
+ {
+  "titulo": "Desvalorização do Real e ativos brasileiros com vitória de Lula",
+  "resumo": "A vitória de Lula nas eleições provoca forte desvalorização do real e dos ativos brasileiros, refletindo incertezas no mercado.",
+  "fatos": [
+   "A eleição de Lula impactou o valor do real e o desempenho de ativos brasileiros.",
+   "Investidores demonstram preocupação com a mudança de governo.",
+   "O cenário atual sugere um clima de incerteza em relação às políticas futuras."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A desvalorização do real pode afetar os investimentos e a confiança no mercado.",
+  "impactoMercado": "Mudanças nas políticas econômicas podem gerar oscilações nos preços dos ativos.",
+  "entenda": "A desvalorização do real implica que menos dólares podem ser comprados com a mesma quantia de reais, impactando importações.",
+  "observar": "É importante acompanhar as medidas do novo governo e as reações do mercado.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender o impacto político na economia é essencial para investidores que desejam se adaptar ao novo cenário.",
+  "gancho": "*Desvalorização do Real* e *ativos brasileiros* em foco!",
+  "ideias": [
+   "Os impactos da vitória de Lula no mercado",
+   "O que a desvalorização do real significa para você?",
+   "Como se preparar para as mudanças no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Folha de S.Paulo",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.google.com/search?q=Real+e+ativos+brasileiros+t%C3%AAm+forte+desvaloriza%C3%A7%C3%A3o+com+vit%C3%B3ria+de+Lula+Folha+de+S.Paulo",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T19:57:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-57"
+ },
+ {
+  "titulo": "Imprensa internacional repercute vitória de Lula nas eleições",
+  "resumo": "A vitória de Lula no Brasil é destaque em veículos internacionais, que analisam o cenário político e os impactos das eleições para o país e para o exterior.",
+  "fatos": [
+   "Luiz Inácio Lula da Silva foi reeleito para o quarto mandato como presidente do Brasil em 2026.",
+   "Na América do Sul, o Clarín destacou a confirmação da vitória pelo Tribunal Superior Eleitoral.",
+   "O La Nación afirmou que Lula fez um avanço histórico contra Bolsonaro.",
+   "Nos EUA, o The New York Times falou sobre a polarização do eleitorado brasileiro.",
+   "Na Europa, o Le Monde abordou o impacto nas políticas ambientais e climáticas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as reações internacionais ao resultado das eleições é importante, pois o cenário político pode influenciar medidas econômicas e decisões de investimento no Brasil.",
+  "impactoMercado": "Resultados eleitorais podem afetar a percepção de investidores sobre o Brasil, influenciando a confiança no mercado e decisões de negociação.",
+  "entenda": "Polarização política refere-se à divisão intensa de opiniões em um espectro político, o que pode complicar governabilidade e a condução de políticas públicas.",
+  "observar": "Fique atento às próximas ações e declarações do governo Lula, especialmente em relação às políticas econômicas e ambientais.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Analisar como as eleições afetam o ambiente de investimento e a condução do mercado financeiro é essencial para quem quer entender mais sobre o cenário econômico.",
+  "gancho": "*Eleições* impactam *mercado* brasileiro",
+  "ideias": [
+   "Impactos da vitória de Lula no mercado",
+   "Expectativas econômicas após a reeleição de Lula",
+   "Políticas ambientais e suas repercussões econômicas"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://exame.com/mundo/imprensa-internacional-repercute-vitoria-de-lula-na-eleicao-presidencial/",
+  "publicadoEm": "2026-10-25T18:51:03-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-58"
+ },
+ {
+  "titulo": "Lula é reeleito presidente do Brasil em 2026",
+  "resumo": "Luiz Inácio Lula da Silva derrota Flávio Bolsonaro na corrida presidencial, garantindo um quarto mandato até 2030. O resultado reflete a polarização política no país.",
+  "fatos": [
+   "Lula recebeu 51,75% dos votos válidos, enquanto Flávio Bolsonaro ficou com 48,25%.",
+   "A eleição foi decidida no segundo turno, com 98,27% das urnas apuradas.",
+   "Lula governou o Brasil de 2003 a 2010 e retornou ao cargo em 2023.",
+   "Com a reeleição, Lula iniciará seu quarto mandato em 1º de janeiro de 2027.",
+   "O novo governo enfrentará desafios como política fiscal, crescimento econômico e relação com o Congresso."
+  ],
+  "numeros": [
+   {
+    "valor": "51,75",
+    "rotulo": "Porcentagem de votos válidos de Lula"
+   },
+   {
+    "valor": "48,25",
+    "rotulo": "Porcentagem de votos válidos de Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lula (1º turno)",
+    "antes": "45,16",
+    "depois": "51,75"
+   },
+   {
+    "item": "Flávio Bolsonaro (1º turno)",
+    "antes": "47,03",
+    "depois": "48,25"
+   }
+  ],
+  "destaque": "51,75%",
+  "porQueImporta": "A reeleição de Lula pode impactar as políticas econômicas e sociais, influenciando setores do mercado e a confiança dos investidores.",
+  "impactoMercado": "A continuidade do governo pode afetar a política fiscal e a relação do Executivo com o Congresso, influenciando as decisões de investimento.",
+  "entenda": "A polarização política no Brasil reflete disputas acirradas entre ideologias diferentes, o que pode afetar a estabilidade econômica.",
+  "observar": "Acompanhe como as novas medidas do governo impactarão o mercado e a economia nos próximos meses, especialmente em relação ao Congresso.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Entender as eleições e suas consequências ajuda investidores a se prepararem para mudanças no mercado e na economia.",
+  "gancho": "*Eleições* e impacto no *mercado*",
+  "ideias": [
+   "O que muda com a reeleição de Lula?",
+   "Como as eleições influenciam o mercado?",
+   "Desafios econômicos do novo governo."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://bpmoney.com.br/politica/lula-vence-flavio-bolsonaro-e-e-reeleito-presidente-do-brasil/",
+  "publicadoEm": "2026-10-25T21:11:01-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-59"
+ },
+ {
+  "titulo": "Desafios do quarto governo Lula no mercado financeiro",
+  "resumo": "Lula reeleito terá que negociar com um Congresso mais à direita e enfrentar aumento da dívida pública. A agenda social e fiscal será prioridade no novo mandato.",
+  "fatos": [
+   "Lula inicia novo governo em meio a um Congresso com mais representantes da direita e crescimento da dívida pública, que chega a 83% do PIB.",
+   "A ampliação de programas sociais e a negociação com partidos da oposição serão centrais para o sucesso do seu mandato.",
+   "Estudos indicam que mudanças na política de despesas e na tributação serão necessárias, mas enfrentam resistência.",
+   "Em 2027, o governo deverá avançar na reforma tributária, substituindo PIS e Cofins pela nova Contribuição sobre Bens e Serviços (CBS).",
+   "Investigação e propostas no Senado terão mais influência devido à bancada ampliada do PL."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as mudanças no governo impacta os investidores, que devem ficar atentos às eventuais alterações nas políticas fiscais e sociais.",
+  "impactoMercado": "A nova composição do Congresso pode dificultar a aprovação de propostas importantes, influenciando o cenário econômico e fiscal do país.",
+  "entenda": "O conceito de ajuste fiscal se refere às medidas que um governo toma para equilibrar seu orçamento, principalmente através do controle de gastos.",
+  "observar": "Fique atento às decisões do governo sobre despesas sociais e como isso pode afetar a confiança do mercado e a situação fiscal.",
+  "publico": [
+   "Empresários",
+   "Investidores",
+   "Aposentados"
+  ],
+  "angulo": "Essa notícia ilustra a complexidade das relações entre governo e Congresso, essencial para quem busca entender como essas interações podem afetar o mercado.",
+  "gancho": "*Lula Reeleito* e seus *Desafios Fiscais*",
+  "ideias": [
+   "Lula e o Papel do Congresso na Economia",
+   "Como Lula Pode Impactar Seu Investimento?",
+   "Explorando os Desafios Fiscais do Novo Mandato"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.infomoney.com.br/politica/o-que-esperar-do-quarto-governo-lula-congresso-ajuste-fiscal-e-promessas-no-radar/",
+  "publicadoEm": "2026-10-25T21:16:55-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-60"
+ },
+ {
+  "titulo": "Lula é eleito com 67,46% dos votos na Paraíba",
+  "resumo": "Luiz Inácio Lula da Silva venceu as eleições presidenciais na Paraíba com 67,46% dos votos válidos, em uma disputa acirrada contra Flávio Bolsonaro.",
+  "fatos": [
+   "Lula obteve 67,46% dos votos válidos, enquanto Flávio Bolsonaro ficou com 32,54%.",
+   "A eleição ocorreu no dia 25 de outubro de 2026.",
+   "Com 99,99% das urnas apuradas, 3.248.531 eleitores estavam aptos a votar na Paraíba.",
+   "No primeiro turno, Lula teve 61,31% e Flávio 33,07% dos votos válidos.",
+   "Os novos mandatos para senadores começam em 1º de fevereiro de 2027."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "67,46%",
+  "porQueImporta": "Os resultados eleitorais podem influenciar a confiança do investidor e a estabilidade econômica no Brasil.",
+  "impactoMercado": "Mudanças políticas podem afetar as decisões de investimento e o desempenho do mercado financeiro.",
+  "entenda": "Entender a relação entre política e economia é crucial, pois decisões governamentais podem impactar setores inteiros do mercado.",
+  "observar": "Acompanhe como o mercado reage às medidas e políticas do novo governo nos próximos meses.",
+  "publico": [
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Compreender o impacto das eleições sobre o mercado pode ajudar a moldar estratégias de investimento e planejamento financeiro.",
+  "gancho": "*Eleições* e *mercado*: o que esperar?",
+  "ideias": [
+   "Como as eleições afetam o mercado financeiro?",
+   "A relação entre política e investir: o que você precisa saber.",
+   "O impacto da política econômica nas suas decisões de investimento."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://exame.com/brasil/resultado-das-eleicoes-na-paraiba-lula-vence-com-6746-dos-votos-contra-3254-de-flavio/",
+  "publicadoEm": "2026-10-25T19:01:20-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-61"
+ },
+ {
+  "titulo": "Ações em destaque após reeleição de Lula",
+  "resumo": "A reeleição de Lula surpreendeu o mercado, que foca na sustentabilidade fiscal. Análise aponta ações resilientes em setores específicos e desafios para o real.",
+  "fatos": [
+   "Lula venceu Flávio Bolsonaro com uma diferença de 4,3 milhões de votos.",
+   "O mercado deve se concentrar na trajetória das contas públicas e na dívida do governo.",
+   "A construção civil pode se beneficiar de políticas habitacionais para a população de baixa renda.",
+   "Empresas como Cury e Direcional são preferíveis a companhias dependentes do financiamento de alta renda.",
+   "Empresas exportadoras como Embraer, Suzano e Gerdau podem apresentar resiliência em um cenário de desvalorização do real."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "4,3 milhões de",
+  "porQueImporta": "Entender como a reeleição de Lula pode afetar setores da Bolsa e a economia é crucial para tomar decisões informadas sobre investimentos.",
+  "impactoMercado": "A sustentabilidade fiscal será um tema central, impactando o câmbio, juros e, consequentemente, a avaliação de ações nas empresas listadas.",
+  "entenda": "A sustentabilidade fiscal refere-se à capacidade do governo de manter suas contas equilibradas, o que influencia a confiança do mercado e o valor do real.",
+  "observar": "Acompanhe como o governo de Lula pode implementar políticas fiscais e suas implicações nas ações e na economia como um todo.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A reeleição de Lula traz novas dinâmicas ao mercado; entender essas mudanças pode ajudar investidores a tomar decisões mais embasadas.",
+  "gancho": "*Lula*, *Mercado* e o que mudar?",
+  "ideias": [
+   "Setores que se destacam com a reeleição de Lula",
+   "Como a política pode afetar suas ações",
+   "Entenda a sustentabilidade fiscal e seu impacto"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://www.moneytimes.com.br/as-acoes-que-ganham-com-a-reeleicao-de-lula-segundo-analista-do-daycoval/",
+  "publicadoEm": "2026-10-25T21:53:12-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-62"
+ },
+ {
+  "titulo": "Flávio Bolsonaro vence eleições presidenciais no Acre",
+  "resumo": "Flávio Bolsonaro (PL) foi eleito presidente no Acre com 66,57% dos votos válidos, superando Luiz Inácio Lula da Silva (PT) que obteve 33,43%.",
+  "fatos": [
+   "Com 100% das urnas apuradas, Flávio Bolsonaro recebeu 66,57% dos votos válidos no Acre.",
+   "Luiz Inácio Lula da Silva ficou com 33,43% dos votos.",
+   "O total de eleitores aptos a votar no Acre era de 613.742.",
+   "No primeiro turno, Bolsonaro teve 64,56% e Lula 28,73% dos votos válidos."
+  ],
+  "numeros": [
+   {
+    "valor": "66,57%",
+    "rotulo": "percentual de votos de Bolsonaro"
+   },
+   {
+    "valor": "33,43%",
+    "rotulo": "percentual de votos de Lula"
+   },
+   {
+    "valor": "613.742",
+    "rotulo": "total de eleitores no Acre"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Bolsonaro no primeiro turno",
+    "antes": "64,56%",
+    "depois": "66,57%"
+   }
+  ],
+  "destaque": "66,57%",
+  "porQueImporta": "Os resultados das eleições podem impactar a confiança do investidor e as direções políticas que influenciam a economia.",
+  "impactoMercado": "Mudanças políticas podem alterar a regulação e condições do mercado, afetando ações e investimentos.",
+  "entenda": "As eleições podem influenciar a economia e as decisões de política monetária, impactando diretamente o mercado financeiro.",
+  "observar": "Fique atento a como as decisões do novo presidente podem afetar a economia e o mercado financeiro.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender esses resultados ajuda a entender o cenário econômico e político, que é essencial para quem investe.",
+  "gancho": "*Eleições* impactam *mercado financeiro*",
+  "ideias": [
+   "Resultados das eleições e seus impactos",
+   "Como a política influencia seus investimentos",
+   "O que significa a vitória no Acre para o Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:20:40-03:00",
+  "url": "https://exame.com/brasil/resultado-das-eleicoes-no-acre-flavio-bolsonaro-vence-segundo-turno-para-presidente/",
+  "publicadoEm": "2026-10-25T19:05:05-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-63"
+ },
+ {
   "titulo": "A incerteza eleitoral e seu impacto nos mercados",
   "resumo": "A extensão do horário de votação adiciona incerteza e pode levar a maior cautela entre investidores, afetando a bolsa, o dólar e os juros.",
   "fatos": [
@@ -6265,53 +7340,53 @@
  {
   "tipo": "sinal",
   "slug": "how-low-will-5-year-treasury-yield-get-before-2027",
-  "titulo": "Mercado prevê 74,5% de chance de rendimento abaixo de 4,70% para títulos a 5 anos.",
-  "resumo": "Expectativas de queda nos rendimentos dos títulos são um sinal de confiança econômica.",
+  "titulo": "Mercado de previsões vê 88% de chance de rendimento do tesouro de 5 anos abaixo de 4.70%",
+  "resumo": "Os apostadores acreditam que os rendimentos cairão, indicando uma provável pressão em taxas de juros.",
   "probs": [
    {
     "opcao": "Abaixo de 4.70%",
-    "prob": 74.5
+    "prob": 88.0
    },
    {
     "opcao": "Abaixo de 4.65%",
-    "prob": 57.5
+    "prob": 61.0
    },
    {
     "opcao": "Abaixo de 4.60%",
-    "prob": 50.5
+    "prob": 56.5
    },
    {
     "opcao": "Abaixo de 4.55%",
-    "prob": 38.5
+    "prob": 53.5
    }
   ],
   "prazo": "2026-12-31",
-  "volume24h": "US$ 55 mil",
+  "volume24h": "US$ 24 mil",
   "fatos": [
-   "Abaixo de 4.70%: 74,5%",
-   "Abaixo de 4.65%: 57,5%",
-   "Abaixo de 4.60%: 50,5%",
-   "Abaixo de 4.55%: 38,5%"
+   "Abaixo de 4.70%: 88,0%",
+   "Abaixo de 4.65%: 61,0%",
+   "Abaixo de 4.60%: 56,5%",
+   "Abaixo de 4.55%: 53,5%"
   ],
   "numeros": [
    {
-    "valor": "74,5%",
+    "valor": "88,0%",
     "rotulo": "Abaixo de 4.70%"
    },
    {
-    "valor": "57,5%",
+    "valor": "61,0%",
     "rotulo": "Abaixo de 4.65%"
    },
    {
-    "valor": "50,5%",
+    "valor": "56,5%",
     "rotulo": "Abaixo de 4.60%"
    },
    {
-    "valor": "38,5%",
+    "valor": "53,5%",
     "rotulo": "Abaixo de 4.55%"
    }
   ],
-  "destaque": "74,5%",
+  "destaque": "88,0%",
   "gancho": "*Expectativa de queda* nos rendimentos",
   "entenda": "Os rendimentos dos títulos do Tesouro influenciam as taxas de juros e, portanto, a economia como um todo.",
   "categoria": "Previsões",
@@ -6326,7 +7401,7 @@
   "data": "2026-10-23",
   "status": "atualizada",
   "id": "2026-10-23-p2",
-  "atualizadoEm": "2026-10-23T21:00:20-03:00"
+  "atualizadoEm": "2026-10-25T22:20:40-03:00"
  },
  {
   "titulo": "Bradesco projeta aumento na inadimplência do crédito",
@@ -16365,12 +17440,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "84,5%",
+  "destaque": "48,5%",
   "fatos": [
-   "↓ 80,000: 84,5%",
-   "↑ 82,500: 62,5%",
-   "↓ 77,500: 38,0%",
-   "↑ 85,000: 25,5%"
+   "↑ 82,500: 48,5%",
+   "↓ 77,500: 48,0%",
+   "↑ 85,000: 19,0%",
+   "↓ 75,000: 18,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -16381,50 +17456,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↓ 80,000",
-    "prob": 84.5
-   },
-   {
     "opcao": "↑ 82,500",
-    "prob": 62.5
+    "prob": 48.5
    },
    {
     "opcao": "↓ 77,500",
-    "prob": 38.0
+    "prob": 48.0
    },
    {
     "opcao": "↑ 85,000",
-    "prob": 25.5
+    "prob": 19.0
+   },
+   {
+    "opcao": "↓ 75,000",
+    "prob": 18.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores acreditam que o preço do Bitcoin tende a ser limitado, com chances significativas de queda.",
+  "resumo": "Os apostadores estão divididos entre dois cenários para o preço do Bitcoin no próximo mês.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 84,5% de chance de Bitcoin abaixo de $80,000 em outubro.",
+  "titulo": "Mercado de previsões vê 48.5% de chance de Bitcoin ultrapassar $82,500 em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 438 mil",
+  "volume24h": "US$ 492 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "84,5%",
-    "rotulo": "↓ 80,000"
-   },
-   {
-    "valor": "62,5%",
+    "valor": "48,5%",
     "rotulo": "↑ 82,500"
    },
    {
-    "valor": "38,0%",
+    "valor": "48,0%",
     "rotulo": "↓ 77,500"
    },
    {
-    "valor": "25,5%",
+    "valor": "19,0%",
     "rotulo": "↑ 85,000"
+   },
+   {
+    "valor": "18,5%",
+    "rotulo": "↓ 75,000"
    }
   ],
-  "atualizadoEm": "2026-10-25T15:33:21-03:00"
+  "atualizadoEm": "2026-10-25T22:20:40-03:00"
  },
  {
   "categoria": "Comportamento do investidor",
