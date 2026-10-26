@@ -579,14 +579,14 @@ const PALETAS={
 };
 const PAPEIS={
   capa:{nome:"Capa",arq:"capa",ia:"título forte e curioso, sem sensacionalismo (até 11 palavras, 1 ou 2 palavras-chave entre *asteriscos*); texto = linha de apoio de até 16 palavras; rotulo = assunto em até 2 palavras"},
-  aconteceu:{nome:"O que aconteceu",arq:"o-que-aconteceu",ia:"o fato principal, objetivo e confirmado; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza fato"},
+  aconteceu:{nome:"O que aconteceu",arq:"o-que-aconteceu",ia:"o fato principal, objetivo e confirmado; titulo até 8 palavras; texto de 55 a 85 palavras com dados concretos da notícia (nomes, números, datas, causas, consequências); natureza fato"},
   numeros:{nome:"Fatos e números",arq:"numeros",ia:"2 a 4 números do material em 'numeros' [{valor, rotulo}] (valor curto, ex. '209.067'; rotulo até 9 palavras); titulo até 7 palavras; texto vazio ou 1 frase; natureza fato"},
-  importa:{nome:"Por que importa",arq:"por-que-importa",ia:"por que essa notícia importa para quem investe ou opera; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza analise"},
-  impacto:{nome:"Impacto no mercado",arq:"impacto",ia:"o que pode mudar para o mercado e para o investidor, sem prever preço; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza analise"},
-  contexto:{nome:"Entenda",arq:"contexto",ia:"conceito educativo para iniciante ligado à notícia (ex.: o que é o Ibovespa, o que são juros futuros); titulo até 8 palavras; texto de 35 a 55 palavras; natureza contexto"},
-  cenarios:{nome:"O que observar",arq:"o-que-observar",ia:"o que acompanhar a seguir, com linguagem condicional; titulo até 8 palavras; texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas); natureza cenario"},
+  importa:{nome:"Por que importa",arq:"por-que-importa",ia:"por que essa notícia importa para quem investe ou opera; titulo até 8 palavras; texto de 55 a 85 palavras com dados concretos da notícia (nomes, números, datas, causas, consequências); natureza analise"},
+  impacto:{nome:"Impacto no mercado",arq:"impacto",ia:"o que pode mudar para o mercado e para o investidor, sem prever preço; titulo até 8 palavras; texto de 55 a 85 palavras com dados concretos da notícia (nomes, números, datas, causas, consequências); natureza analise"},
+  contexto:{nome:"Entenda",arq:"contexto",ia:"conceito educativo para iniciante ligado à notícia (ex.: o que é o Ibovespa, o que são juros futuros); titulo até 8 palavras; texto de 55 a 85 palavras; em 'passos' até 3 termos do glossário [{t: termo, d: significado simples}]; natureza contexto"},
+  cenarios:{nome:"O que observar",arq:"o-que-observar",ia:"o que acompanhar a seguir, com linguagem condicional; titulo até 8 palavras; texto de 55 a 85 palavras com dados concretos da notícia (nomes, números, datas, causas, consequências); natureza cenario"},
   comparativo:{nome:"Antes × depois",arq:"antes-depois",ia:"tabela antes × depois em 'linhas' [{item, antes, depois}] (2 a 4 linhas, só valores do material; se o material não trouxer valor anterior e novo, deixe 'linhas' vazio e use 'numeros' com 2 a 3 números e titulo 'Em números'); titulo até 6 palavras; texto vazio; natureza fato"},
-  detalhes:{nome:"Os detalhes",arq:"detalhes",ia:"3 a 4 detalhes concretos da notícia em 'passos' [{t: vazio, d: até 22 palavras com número, nome ou data}] (quem, quanto, quando, como); titulo até 6 palavras; texto vazio; natureza fato"},
+  detalhes:{nome:"Os detalhes",arq:"detalhes",ia:"4 a 5 detalhes concretos da notícia em 'passos' [{t: rótulo de 1 a 3 palavras, ex. 'Bancos' ou 'Juros', d: 15 a 28 palavras com número, nome ou data}] (quem, quanto, quando, como); titulo até 6 palavras; texto vazio; natureza fato"},
   declaracoes:{nome:"O que disseram",arq:"declaracoes",ia:"até 3 declarações da notícia em 'passos' [{t: nome e cargo de quem falou, d: paráfrase até 25 palavras}], só quem está no material; titulo até 6 palavras; texto vazio; natureza fato"},
   cronologia:{nome:"Linha do tempo",arq:"linha-do-tempo",ia:"2 a 4 marcos em ordem em 'passos' [{t: data ou momento, d: o que aconteceu até 15 palavras}], só do material; titulo até 6 palavras; texto vazio; natureza fato"},
   passos:{nome:"Passo a passo",arq:"passos",ia:"3 passos educativos em 'passos' [{t: até 4 palavras, d: até 14 palavras}] sobre como quem opera ou investe pode acompanhar esse tipo de notícia com método (sem recomendar compra ou venda, sem prometer ganho); titulo até 7 palavras com 1 palavra entre *asteriscos*; texto vazio; natureza contexto"},
@@ -881,7 +881,7 @@ function icon3d(name,p){const I=ICONES[name]||ICONES.grafico;const l=p.a2,m=p.a,
 const ICO_MAP={grafico:"grafico",seta:"grafico",queda:"queda",moeda:"dinheiro",raio:"alerta",escudo:"escudo",alvo:"alvo",foguete:"foguete",globo:"lupa",relogio:"relogio",cadeado:"escudo"};
 function icoDe(d,s){const P={numeros:"grafico",importa:"alvo",impacto:/^-|queda|▼/i.test(d.noticia?.destaque||"")?"queda":"grafico",contexto:"lupa",cenarios:"relogio",comparativo:"calendario",passos:"foguete"};return P[s.papel]||ICO_MAP[d.noticia?.icone]||"grafico";}
 function cmpHTML(rows){return `<div class="cmp"><div class="ch"><span></span><span>Antes</span><span>Depois</span></div>${rows.slice(0,4).map(r=>`<div class="cr"><span>${esc(r.item)}</span><span>${esc(r.antes)}</span><b>${esc(r.depois)}</b></div>`).join("")}</div>`;}
-function passosHTML(list){return `<div class="pss">${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div>${p.t?`<b>${esc(p.t)}</b>`:""}${p.d?`<span${p.t?"":` class="so"`}>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
+function passosHTML(list){return `<div class="pss">${list.slice(0,5).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span><div>${p.t?`<b>${esc(p.t)}</b>`:""}${p.d?`<span${p.t?"":` class="so"`}>${esc(p.d)}</span>`:""}</div></div>`).join("")}</div>`;}
 const LISTA=new Set(["passos","detalhes","declaracoes","cronologia"]);
 function planoDe(d,n){const nw=d?.noticia||{};
   const tem={detalhes:(nw.detalhes||[]).length>=2,numeros:!nw.numeros||(nw.numeros||[]).length>=2,comparativo:(nw.comparativo||[]).length>0,
@@ -892,7 +892,7 @@ function planoDe(d,n){const nw=d?.noticia||{};
 function proximoEstilo(){const ks=Object.keys(KITS);const i=((prefs.kitN??-1)+1)%ks.length;prefs.kitN=i;savePrefs();
   const K=KITS[ks[i]];const e=estiloDe({estilo:prefs.estilo||{}});const o={...e,...K,el:{...e.el,...(K.el||{})}};delete o.nome;delete o.d;return o;}
 function tickHTML(d){const it=(d.placar||[]).slice(0,4);if(!it.length)return "";
-  return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"} ${esc(String(x.var).replace(/^[+-]/,""))}</i>`:""}</span>`}).join("")}</div>`;}
+  return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"}</i>`:""}</span>`}).join("")}</div>`;}
 const hand=()=>`<svg class="hand" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"><path d="M44 18c0-7 12-7 12 0v38l4-2c0-7 12-7 12 0v4c0-7 12-7 12 0v4c0-7 12-7 12 0v26c0 16-12 28-28 28H62c-10 0-18-6-22-14L24 74c-4-6 4-12 10-8l10 10V18z" fill="#fff" stroke="#111" stroke-width="5" stroke-linejoin="round"/></svg>`;
 function deco(p){
   const pts=[[0,520],[90,470],[170,500],[250,410],[330,440],[420,330],[500,360],[590,250],[680,290],[770,180],[860,210],[960,110],[1080,140]];
@@ -1034,7 +1034,7 @@ function slideHTML(d,s,i,opt={}){
     const nl=s.numeros||[];
     const nums=isN?(nl.length?numsHTML(hasImg?nl.slice(0,2):nl,!hasImg&&!["card","lateral"].includes(es.conteudo)):""):(!hasImg&&nl.length?numsHTML(nl.slice(0,3),false):"");
     const tx0=s.texto?`<div class="txt">${esc(s.texto)}</div>`:"";
-    const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):LISTA.has(s.papel)&&s.passos?.length?passosHTML(s.passos):"";
+    const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):s.passos?.length?passosHTML(s.passos):"";
     const txt=(isN?nums+tx0:tx0)+extra;
     const numsB=isN?"":nums;
     if(es.conteudo==="titulo"){
@@ -1062,6 +1062,7 @@ function autofit(el){
   const fr=el.querySelector(".frame");
   // passou do quadro: altura (corta embaixo) ou largura (palavra comprida sai pela lateral)
   const over=()=>{if(m.scrollHeight>m.clientHeight+1||m.scrollWidth>m.clientWidth+1)return true;
+    const mt=m.getBoundingClientRect().top;if([...m.children].some(c=>!c.classList.contains("ghost")&&c.getBoundingClientRect().top<mt-1))return true;
     const lim=fr.getBoundingClientRect();return [...m.querySelectorAll(".h1,.h2,.qt,.tarja,.brd,.bignum")].some(x=>{const r=x.getBoundingClientRect();return r.right>lim.right+1||r.left<lim.left-1;});};
   let t=1;el.style.setProperty("--t",t);
   while(over()&&t>0.5){t=+(t-0.04).toFixed(2);el.style.setProperty("--t",t);}
@@ -1173,14 +1174,14 @@ function localSlide(d,papel){
   const base={papel,natureza:"fato",rotulo:"",titulo:"",texto:"",numeros:[],fonte:nw.fonte};
   switch(papel){
     case "capa":return {...base,rotulo:nw.categoria,titulo:nw.gancho||nw.titulo,texto:nw.gancho?nw.titulo:"",fonte:""};
-    case "aconteceu":return {...base,titulo:plain(nw.titulo),texto:(nw.explicacao||[])[0]||nw.resumo,numeros:d.slides&&d.slides.length<=3?nums.slice(0,2):[]};
+    case "aconteceu":return {...base,titulo:plain(nw.titulo),texto:(nw.explicacao||[]).slice(0,2).join(" ")||nw.resumo,numeros:d.slides&&d.slides.length<=3?nums.slice(0,2):[]};
     case "numeros":if(nw.tipo==="sinal"&&nw.probs?.length)return {...base,titulo:"O que os apostadores precificam",numeros:nw.probs.slice(0,4).map(x=>({valor:String(x.prob).replace(".",",")+"%",rotulo:x.opcao})),texto:"Probabilidade de mercado de previsões, não é pesquisa nem certeza."};
-      return {...base,titulo:"Os números do dia",numeros:nums.length?nums.slice(0,4):(nw.destaque?[{valor:nw.destaque,rotulo:plain(nw.titulo).slice(0,60)}]:[]),texto:nums.length?"":nw.resumo};
+      return {...base,titulo:"Os números do dia",numeros:nums.length?nums.slice(0,4):(nw.destaque?[{valor:nw.destaque,rotulo:plain(nw.titulo).slice(0,60)}]:[]),texto:nw.resumo};
     case "importa":return {...base,natureza:"analise",titulo:"Por que isso importa",texto:[nw.porQueImporta,(nw.explicacao||[])[2]].filter(Boolean).join(" ")||"Notícias assim mudam o humor do mercado e o preço dos ativos no curto prazo. Para quem investe, o ponto é entender o movimento antes de reagir a ele.",fonte:""};
-    case "impacto":return {...base,natureza:"analise",titulo:"O que muda para o investidor",texto:nw.impactoMercado||"Movimentos fortes aumentam a volatilidade. Para quem opera, é hora de revisar o risco e esperar confirmação, não de entrar no impulso.",fonte:""};
-    case "contexto":return {...base,natureza:"contexto",titulo:"Entenda o conceito",texto:nw.entenda||EDU[nw.categoria]||EDU._,fonte:""};
-    case "cenarios":return {...base,natureza:"cenario",titulo:"O que observar a seguir",texto:nw.observar||"Os próximos dados e o comportamento do preço vão mostrar se o movimento se sustenta. Acompanhar com método evita conclusões apressadas.",fonte:""};
-    case "detalhes":return {...base,titulo:"Os *detalhes*",passos:(nw.detalhes||[]).slice(0,4).map(x=>({t:"",d:x}))};
+    case "impacto":return {...base,natureza:"analise",titulo:"O que muda para o investidor",texto:[nw.impactoMercado,(nw.explicacao||[])[3]].filter(Boolean).join(" ")||"Movimentos fortes aumentam a volatilidade. Para quem opera, é hora de revisar o risco e esperar confirmação, não de entrar no impulso.",fonte:""};
+    case "contexto":return {...base,natureza:"contexto",titulo:"Entenda o conceito",texto:nw.entenda||EDU[nw.categoria]||EDU._,passos:(nw.glossario||[]).slice(0,3).map(x=>({t:x.termo,d:x.significado})),fonte:""};
+    case "cenarios":return {...base,natureza:"cenario",titulo:"O que observar a seguir",passos:(nw.cronologia||[]).filter(x=>/(amanhã|próxim|seman|mês|dezembro|novembro|janeiro|reuni)/i.test(x.quando+" "+x.oque)).slice(-2).map(x=>({t:x.quando,d:x.oque})),texto:nw.observar||"Os próximos dados e o comportamento do preço vão mostrar se o movimento se sustenta. Acompanhar com método evita conclusões apressadas.",fonte:""};
+    case "detalhes":return {...base,titulo:"Os *detalhes*",texto:"",passos:(nw.detalhes||[]).slice(0,5).map(x=>({t:"",d:x}))};
     case "declaracoes":return {...base,titulo:"O que *disseram*",passos:(nw.declaracoes||[]).slice(0,3).map(x=>({t:x.quem,d:x.oque}))};
     case "cronologia":return {...base,titulo:"Linha do *tempo*",passos:(nw.cronologia||[]).slice(0,4).map(x=>({t:x.quando,d:x.oque}))};
     case "comparativo":return {...base,titulo:nw.comparativo?.length?"Antes *×* depois":"Em números",rotulo:nw.comparativo?.length?"":"Em números",linhas:(nw.comparativo||[]).slice(0,4),numeros:nw.comparativo?.length?[]:nums.slice(0,3)};
@@ -1233,7 +1234,7 @@ Responda só com JSON:
 }
 function cleanSlide(x,papel){
   return {papel,natureza:["fato","analise","cenario","contexto"].includes(x?.natureza)?x.natureza:"fato",rotulo:String(x?.rotulo||""),titulo:String(x?.titulo||""),texto:String(x?.texto||""),
-    numeros:Array.isArray(x?.numeros)?x.numeros.filter(r=>r&&r.valor).slice(0,4).map(r=>({valor:String(r.valor),rotulo:String(r.rotulo||"")})):[],fonte:String(x?.fonte||""),linhas:Array.isArray(x?.linhas)?x.linhas.filter(r=>r&&r.antes).slice(0,4).map(r=>({item:String(r.item||""),antes:String(r.antes),depois:String(r.depois||"")})):[],passos:Array.isArray(x?.passos)?x.passos.filter(r=>r&&r.t).slice(0,4).map(r=>({t:String(r.t),d:String(r.d||"")})):[]};
+    numeros:Array.isArray(x?.numeros)?x.numeros.filter(r=>r&&r.valor).slice(0,4).map(r=>({valor:String(r.valor),rotulo:String(r.rotulo||"")})):[],fonte:String(x?.fonte||""),linhas:Array.isArray(x?.linhas)?x.linhas.filter(r=>r&&r.antes).slice(0,4).map(r=>({item:String(r.item||""),antes:String(r.antes),depois:String(r.depois||"")})):[],passos:Array.isArray(x?.passos)?x.passos.filter(r=>r&&(r.t||r.d)).slice(0,5).map(r=>({t:String(r.t||""),d:String(r.d||"")})):[]};
 }
 function setBusy(on,msg){busyGen=on;$("busy").hidden=!on;if(msg)$("busy").innerHTML=msg;$("btnGerar").disabled=on;$("btnParar").hidden=!on;$("btnRegen").disabled=on;}
 function sampleErr(e){const c=e?.code;
@@ -1247,7 +1248,14 @@ async function gerar(reaproveitar){
     const r=await sample.json(promptDeck(deck,n,reaproveitar?.slides),{signal:ctl.signal,cache:false});
     const plano=planoDe(deck,n);if(!r||!Array.isArray(r.slides))throw{code:"invalid_json"};
     const keepImg=Object.fromEntries(deck.slides.filter(s=>s.img).map(s=>[s.papel,s.img]));
-    deck.slides=withMarca(deck,plano.map((p,ix)=>{const x=r.slides.find(s=>s.papel===p)||r.slides[ix];const s=cleanSlide(x,p);if(keepImg[p])s.img=keepImg[p];return s;}));
+    deck.slides=withMarca(deck,plano.map((p,ix)=>{const x=r.slides.find(s=>s.papel===p)||r.slides[ix];const s=cleanSlide(x,p);if(keepImg[p])s.img=keepImg[p];
+      const loc=localSlide({...deck,slides:{length:n}},p);
+      if(loc.passos?.length&&(s.passos||[]).length<Math.min(4,loc.passos.length))s.passos=loc.passos;
+      if(loc.linhas?.length&&!(s.linhas||[]).length)s.linhas=loc.linhas;
+      if(loc.numeros?.length&&!(s.numeros||[]).length&&["numeros","comparativo"].includes(p))s.numeros=loc.numeros;
+      if(String(s.texto||"").trim().split(/\s+/).length<12&&loc.texto&&!["detalhes","declaracoes","cronologia"].includes(p))s.texto=loc.texto;
+      if(!String(s.titulo||"").trim())s.titulo=loc.titulo;
+      return s;}));
     deck.legenda=String(r.legenda||"")+(Array.isArray(r.hashtags)&&r.hashtags.length?"\n\n"+r.hashtags.map(h=>"#"+String(h).replace(/^#/,"")).join(" "):"");
     setStatus("genStatus","Carrossel e legenda gerados. Revise e baixe.","ok");
   }catch(e){

@@ -187,7 +187,7 @@ function planoDe(d,n){const nw=d?.noticia||{};
 function proximoEstilo(){const ks=Object.keys(KITS);const i=((prefs.kitN??-1)+1)%ks.length;prefs.kitN=i;savePrefs();
   const K=KITS[ks[i]];const e=estiloDe({estilo:prefs.estilo||{}});const o={...e,...K,el:{...e.el,...(K.el||{})}};delete o.nome;delete o.d;return o;}
 function tickHTML(d){const it=(d.placar||[]).slice(0,6);if(!it.length)return "";
-  return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"} ${esc(String(x.var).replace(/^[+-]/,""))}</i>`:""}</span>`}).join("")}</div>`;}
+  return `<div class="tick">${it.map(x=>{const neg=String(x.var||"").trim().startsWith("-");return `<span><b>${esc(x.k)}</b> ${esc(x.v)}${x.var?` <i class="${neg?"dn":"up"}">${neg?"▼":"▲"}</i>`:""}</span>`}).join("")}</div>`;}
 const hand=()=>''')
 
 # capa manchete sem foto: ícone 3D grande no lugar do gráfico
@@ -251,7 +251,7 @@ troca('${nw.resumo}\\n\\n${(nw.fatos||[]).slice(0,3)', '${nw.resumo}\\n\\n${nw.p
 troca('categoria:nw.categoria,...(nw.tipo', 'categoria:nw.categoria,explicacao:nw.explicacao,detalhes:nw.detalhes,declaracoes:nw.declaracoes,cronologia:nw.cronologia,glossario:nw.glossario,numeros:nw.numeros,comparativo:nw.comparativo,porQueImporta:nw.porQueImporta,impactoMercado:nw.impactoMercado,entenda:nw.entenda,observar:nw.observar,angulo:nw.angulo,pergunta:nw.pergunta,...(nw.tipo')
 troca('"numeros":[{"valor":"...","rotulo":"..."}],"fonte":"..."}],"legenda"', '"numeros":[{"valor":"...","rotulo":"..."}],"linhas":[{"item":"...","antes":"...","depois":"..."}],"passos":[{"t":"...","d":"..."}],"fonte":"..."}],"legenda"')
 troca('"numeros":[{"valor":"...","rotulo":"..."}],"fonte":"..."}`,{signal', '"numeros":[{"valor":"...","rotulo":"..."}],"linhas":[{"item":"...","antes":"...","depois":"..."}],"passos":[{"t":"...","d":"..."}],"fonte":"..."}`,{signal')
-troca('fonte:String(x?.fonte||"")};', 'fonte:String(x?.fonte||""),linhas:Array.isArray(x?.linhas)?x.linhas.filter(r=>r&&r.antes).slice(0,4).map(r=>({item:String(r.item||""),antes:String(r.antes),depois:String(r.depois||"")})):[],passos:Array.isArray(x?.passos)?x.passos.filter(r=>r&&r.t).slice(0,4).map(r=>({t:String(r.t),d:String(r.d||"")})):[]};')
+troca('fonte:String(x?.fonte||"")};', 'fonte:String(x?.fonte||""),linhas:Array.isArray(x?.linhas)?x.linhas.filter(r=>r&&r.antes).slice(0,4).map(r=>({item:String(r.item||""),antes:String(r.antes),depois:String(r.depois||"")})):[],passos:Array.isArray(x?.passos)?x.passos.filter(r=>r&&(r.t||r.d)).slice(0,5).map(r=>({t:String(r.t||""),d:String(r.d||"")})):[]};')
 troca('ESTRUTURA (campo "papel" de cada slide, nesta ordem)', 'Use TODO o material: explicacao, detalhes, declaracoes, cronologia, numeros, porQueImporta, impactoMercado, entenda e observar são a base dos slides correspondentes. Cada slide precisa trazer informação concreta desta notícia (nome, número, data, causa, consequência); é proibido texto genérico que serviria para qualquer notícia. Na legenda, explique a notícia em 2 a 3 parágrafos com os dados reais e termine com a pergunta do material.\nESTRUTURA (campo "papel" de cada slide, nesta ordem)')
 
 # editor: campo de números vira linhas (antes×depois) ou passos conforme o slide
@@ -317,6 +317,7 @@ troca("""function autofit(el){
   const fr=el.querySelector(".frame");
   // passou do quadro: altura (corta embaixo) ou largura (palavra comprida sai pela lateral)
   const over=()=>{if(m.scrollHeight>m.clientHeight+1||m.scrollWidth>m.clientWidth+1)return true;
+    const mt=m.getBoundingClientRect().top;if([...m.children].some(c=>!c.classList.contains("ghost")&&c.getBoundingClientRect().top<mt-1))return true;
     const lim=fr.getBoundingClientRect();return [...m.querySelectorAll(".h1,.h2,.qt,.tarja,.brd,.bignum")].some(x=>{const r=x.getBoundingClientRect();return r.right>lim.right+1||r.left<lim.left-1;});};
   let t=1;el.style.setProperty("--t",t);
   while(over()&&t>0.5){t=+(t-0.04).toFixed(2);el.style.setProperty("--t",t);}
@@ -356,6 +357,34 @@ troca("""</style>""", """/* encaixe 2.0: tudo encolhe junto com o texto (--t) e 
 .sl .dados{padding:calc(20px * var(--k) * var(--t)) calc(28px * var(--k))}
 .sl .ccard{padding:calc(36px * var(--k) * var(--t)) calc(38px * var(--k))}
 </style>""", 2)
+
+# ---------- slides mais cheios de informação + IA nunca deixa slide vazio ----------
+troca("""    deck.slides=withMarca(deck,plano.map((p,ix)=>{const x=r.slides.find(s=>s.papel===p)||r.slides[ix];const s=cleanSlide(x,p);if(keepImg[p])s.img=keepImg[p];return s;}));""",
+"""    deck.slides=withMarca(deck,plano.map((p,ix)=>{const x=r.slides.find(s=>s.papel===p)||r.slides[ix];const s=cleanSlide(x,p);if(keepImg[p])s.img=keepImg[p];
+      const loc=localSlide({...deck,slides:{length:n}},p);
+      if(loc.passos?.length&&(s.passos||[]).length<Math.min(4,loc.passos.length))s.passos=loc.passos;
+      if(loc.linhas?.length&&!(s.linhas||[]).length)s.linhas=loc.linhas;
+      if(loc.numeros?.length&&!(s.numeros||[]).length&&["numeros","comparativo"].includes(p))s.numeros=loc.numeros;
+      if(String(s.texto||"").trim().split(/\s+/).length<12&&loc.texto&&!["detalhes","declaracoes","cronologia"].includes(p))s.texto=loc.texto;
+      if(!String(s.titulo||"").trim())s.titulo=loc.titulo;
+      return s;}));""")
+# tópicos aparecem em qualquer slide que tiver (ex.: glossário no "Entenda"), até 5 itens
+troca('const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):LISTA.has(s.papel)&&s.passos?.length?passosHTML(s.passos):"";',
+      'const extra=s.papel==="comparativo"&&s.linhas?.length?cmpHTML(s.linhas):s.passos?.length?passosHTML(s.passos):"";')
+s = s.replace('${list.slice(0,4).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span>', '${list.slice(0,5).map((p,j)=>`<div class="ps"><span class="pn">${j+1}</span>')
+assert 'list.slice(0,5).map((p,j)' in s
+# conteúdo local mais completo, a partir da ficha
+troca('texto:(nw.explicacao||[])[0]||nw.resumo,', 'texto:(nw.explicacao||[]).slice(0,2).join(" ")||nw.resumo,')
+troca('passos:(nw.detalhes||[]).slice(0,4).map(x=>({t:"",d:x}))};', 'texto:"",passos:(nw.detalhes||[]).slice(0,5).map(x=>({t:"",d:x}))};')
+troca('texto:nw.entenda||EDU[nw.categoria]||EDU._', 'texto:nw.entenda||EDU[nw.categoria]||EDU._,passos:(nw.glossario||[]).slice(0,3).map(x=>({t:x.termo,d:x.significado}))')
+troca('titulo:"O que muda para o investidor",texto:nw.impactoMercado||"Movimentos', 'titulo:"O que muda para o investidor",texto:[nw.impactoMercado,(nw.explicacao||[])[3]].filter(Boolean).join(" ")||"Movimentos')
+troca('titulo:"O que observar a seguir",texto:nw.observar||"Os próximos', 'titulo:"O que observar a seguir",passos:(nw.cronologia||[]).filter(x=>/(amanhã|próxim|seman|mês|dezembro|novembro|janeiro|reuni)/i.test(x.quando+" "+x.oque)).slice(-2).map(x=>({t:x.quando,d:x.oque})),texto:nw.observar||"Os próximos')
+troca('texto:nums.length?"":nw.resumo};', 'texto:nw.resumo};')
+# instruções da IA: mais conteúdo por slide
+troca("texto de 35 a 55 palavras com dados concretos da notícia (nomes, números, datas, causas)", "texto de 55 a 85 palavras com dados concretos da notícia (nomes, números, datas, causas, consequências)", 4)
+troca("texto de 35 a 55 palavras;", "texto de 55 a 85 palavras; em 'passos' até 3 termos do glossário [{t: termo, d: significado simples}];")
+s = s.replace("3 a 4 detalhes concretos da notícia em 'passos' [{t: vazio, d: até 22 palavras com número, nome ou data}]", "4 a 5 detalhes concretos da notícia em 'passos' [{t: rótulo de 1 a 3 palavras, ex. 'Bancos' ou 'Juros', d: 15 a 28 palavras com número, nome ou data}]")
+assert "4 a 5 detalhes concretos" in s
 
 open(os.path.join(os.path.dirname(AQUI), "docs", "index.html"), "w", encoding="utf-8").write(s)
 print("index.html montado:", len(s), "bytes")
