@@ -1,5 +1,1097 @@
 [
  {
+  "titulo": "Dólar pode subir 6% após vitória de Lula",
+  "resumo": "A reeleição de Lula deve provocar fortes perdas no mercado, com expectativa de circuit breaker na bolsa e dólar acima de R$ 5,30.",
+  "fatos": [
+   "Marcos Weigt, do Travelex Bank, prevê que o dólar abrirá a mais de R$ 5,30, com um salto de 6%.",
+   "A B3 já alterou os limites de negociação, aumentando o limite superior dos contratos futuros de dólar de 6% para 8,4%.",
+   "Weigt acredita que a bolsa possa registrar circuit breaker, com uma queda superior a 10% do Ibovespa.",
+   "O cenário de dominância fiscal pode ser discutido se não houver ajustes nas contas do novo governo."
+  ],
+  "numeros": [
+   {
+    "valor": "6%",
+    "rotulo": "previsão de alta do dólar"
+   },
+   {
+    "valor": "R$ 5,30",
+    "rotulo": "dólar deverá abrir"
+   },
+   {
+    "valor": "+10%",
+    "rotulo": "queda do Ibovespa para circuit breaker"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "6%",
+  "porQueImporta": "Essa previsão de alta do dólar e queda da bolsa pode impactar a confiança dos investidores e as decisões futuras de investimento.",
+  "impactoMercado": "A volatilidade acentuada e a possibilidade de ações do Banco Central podem gerar incertezas no mercado financeiro.",
+  "entenda": "Circuit breaker é uma interrupção temporária das negociações na bolsa, acionada quando os preços caem drasticamente.",
+  "observar": "Fique atento aos anúncios do Banco Central e às declarações do novo governo sobre ajustes fiscais.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Compreender como eventos políticos influenciam o mercado é essencial para investidores e para quem deseja aprender mais sobre finanças.",
+  "gancho": "*Dólar* deve subir 6% *após Lula*",
+  "ideias": [
+   "Como a vitória de Lula afeta seu investimento?",
+   "Entenda o que é circuit breaker na bolsa.",
+   "Dólar em alta: como se proteger?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-deve-disparar-6-em-reacao-a-vitoria-de-lula-diz-tesoureiro-da-travelex-bank-lils/",
+  "publicadoEm": "2026-10-26T08:36:42-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-01"
+ },
+ {
+  "titulo": "Como os traders devem agir após a reeleição de Lula?",
+  "resumo": "A reeleição de Lula provoca reprecificação nos ativos, gerando volatilidade. Traders devem controlar riscos e avaliar estratégias no primeiro pregão.",
+  "fatos": [
+   "A reeleição de Luiz Inácio Lula da Silva muda o cenário do pregão nesta segunda-feira (26).",
+   "Os investidores precisam ajustar posições após a vitória de Lula, que reverteu desvantagem do primeiro turno.",
+   "A volatilidade pode ser extrema, tornando a gestão de risco ainda mais importante para os traders.",
+   "Analistas indicam que, em momentos de alta volatilidade, é prudente esperar antes de operar.",
+   "O trader iniciante deve observar o mercado em ambiente simulado para aprender com a abertura não convencional."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Compreender como a reeleição impacta o mercado ajuda traders a se prepararem para operações em dias voláteis.",
+  "impactoMercado": "Movimentos bruscos podem criar oportunidades, mas também aumentam os riscos de perdas durante a negociação.",
+  "entenda": "O gerenciamento de risco é essencial para traders, especialmente em períodos de alta volatilidade e incerteza no mercado.",
+  "observar": "Fique atento às reações do mercado nas primeiras horas de negociação e como isso pode influenciar seus decisões.",
+  "publico": [
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia ressalta a importância de entender as dinâmicas do mercado, especialmente em momentos de incerteza política.",
+  "gancho": "*Reeleição de Lula: Volatilidade à vista!*",
+  "ideias": [
+   "Como a reeleição impacta o mercado?",
+   "Gerenciamento de risco no trading pós-eleitoral",
+   "Dicas para traders iniciantes em dias voláteis"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Day trade",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.infomoney.com.br/mercados/primeiro-pregao-apos-segundo-turno-como-trader-deve-se-comportar/",
+  "publicadoEm": "2026-10-26T08:50:40-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-02"
+ },
+ {
+  "titulo": "B3 altera limites de negociação após eleições",
+  "resumo": "A B3 anunciou mudanças nos limites de negociações para futuros de dólar e Ibovespa devido à expectativa de circuit breaker após a reeleição de Lula. Modificações visam maior controle no mercado.",
+  "fatos": [
+   "A B3 alterou os limites de oscilação diária dos contratos futuros devido à reeleição de Lula.",
+   "O limite superior dos futuros de dólar aumentou de 6% para 8,4%.",
+   "O limite inferior nos contratos futuros do Ibovespa passou de -10% para -15%.",
+   "Circuit breakers podem ser acionados com quedas significativas do Ibovespa."
+  ],
+  "numeros": [
+   {
+    "valor": "51,79%",
+    "rotulo": "Porcentagem de votos válidos de Lula"
+   },
+   {
+    "valor": "4,3 milhões",
+    "rotulo": "Diferença de votos entre Lula e Bolsonaro"
+   },
+   {
+    "valor": "8,4%",
+    "rotulo": "Novo limite superior para DOL"
+   },
+   {
+    "valor": "-15%",
+    "rotulo": "Novo limite inferior para IND"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Limite superior DOL",
+    "antes": "6%",
+    "depois": "8,4%"
+   },
+   {
+    "item": "Limite inferior IND",
+    "antes": "-10%",
+    "depois": "-15%"
+   }
+  ],
+  "destaque": "8,4%",
+  "porQueImporta": "Essas mudanças são significativas para investidores, pois aumentam a volatilidade esperada nos negócios e podem afetar decisões de investimento.",
+  "impactoMercado": "O ajuste dos limites pode resultar em mais circuit breakers, interrompendo operações e afetando a confiança dos investidores na B3.",
+  "entenda": "Circuit breaker é uma ferramenta utilizada para interromper as operações de mercado quando há grandes oscilações, evitando perdas excessivas.",
+  "observar": "Acompanhe as reações do mercado nos próximos dias e os possíveis impactos das novas medidas nos contratos futuros.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como essas regras funcionam é essencial para quem deseja operar na B3 de forma segura e consciente.",
+  "gancho": "*Alterações* na B3: o que isso significa?",
+  "ideias": [
+   "Como funcionam os circuit breakers na Bolsa?",
+   "Mudanças de limites na B3: efeitos no mercado.",
+   "O impacto das eleições no mercado financeiro."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.moneytimes.com.br/b3-altera-limites-de-negociacao-para-dolar-e-ibovespa-em-temor-a-circuit-breaker-lils/",
+  "publicadoEm": "2026-10-26T08:47:46-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-03"
+ },
+ {
+  "titulo": "JP Morgan rebaixa real e prevê circuit breakers",
+  "resumo": "Após a vitória de Lula, o JP Morgan rebaixou a recomendação do real e de títulos públicos. Expectativa de circuit breakers nesta segunda-feira.",
+  "fatos": [
+   "O JP Morgan alterou a recomendação do real e dos títulos de 'overweight' para 'marketweight'.",
+   "A decisão foi influenciada pela vitória de Lula over Flávio Bolsonaro nas eleições.",
+   "Os analistas esperam uma reavaliação significativa dos ativos na B3.",
+   "Circuit breakers são esperados devido à volatilidade do mercado após o resultado das eleições.",
+   "Setores cíclicos podem ter forte queda, enquanto empresas exportadoras devem se sair melhor."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essa reavaliação das recomendações pode impactar a confiança no mercado financeiro e a decisão de investidores e traders.",
+  "impactoMercado": "O previsto acionamento de circuit breakers pode causar paradas nas negociações e alterar a dinâmica de preços dos ativos.",
+  "entenda": "Circuit breakers são mecanismos que interrompem as negociações em períodos de alta volatilidade do mercado para evitar quedas bruscas.",
+  "observar": "É importante acompanhar a reação do mercado na segunda-feira e como os setores vão responder às novas recomendações.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como políticas e eventos políticos afetam o mercado é crucial para qualquer investidor.",
+  "gancho": "*Recuos* no *mercado* após vitória política!",
+  "ideias": [
+   "Como a eleição impacta o mercado financeiro?",
+   "Circuit breakers: o que são e como funcionam?",
+   "Lula ganha e o que isso significa para o real?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.moneytimes.com.br/jp-morgan-rebaixa-recomendacao-do-real-e-de-titulos-apos-vitoria-de-lula/",
+  "publicadoEm": "2026-10-26T08:46:25-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-04"
+ },
+ {
+  "titulo": "Mercados brasileiros em queda após reeleição de Lula",
+  "resumo": "Os ativos no Brasil devem enfrentar forte pressão de baixa com a reeleição de Lula, segundo especialistas. Expectativa de circuit breaker e alta do dólar são esperadas na abertura.",
+  "fatos": [
+   "A reeleição de Luiz Inácio Lula da Silva está gerando expectativas de forte baixa nas bolsas e alta no dólar.",
+   "Lula venceu com 51,79% dos votos, contra 48,21% de Flávio Bolsonaro.",
+   "A comparação entre o fechamento da última sexta-feira e o esperado para a abertura de segunda sugere a possibilidade de circuit breaker.",
+   "A expectativa é de que as taxas dos DIs aumentem, refletindo preocupações sobre política fiscal.",
+   "Cerca de 15% de recuo foi registrado em um ETF brasileiro listado na Bolsa de Tóquio."
+  ],
+  "numeros": [
+   {
+    "valor": "51,79",
+    "rotulo": "porcentagem de votos de Lula"
+   },
+   {
+    "valor": "48,21",
+    "rotulo": "porcentagem de votos de Flávio Bolsonaro"
+   },
+   {
+    "valor": "5,50",
+    "rotulo": "previsão do dólar para segunda-feira"
+   },
+   {
+    "valor": "13,75",
+    "rotulo": "atual taxa da Selic"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "51,79%",
+  "porQueImporta": "Investidores devem se preparar para alta volatilidade e possíveis ajustes drásticos no mercado financeiro, afetando ações e o câmbio.",
+  "impactoMercado": "A pressão de baixa nas ações e alta do dólar podem gerar incertezas e impactos na política fiscal do próximo governo, afetando as decisões de investimento.",
+  "entenda": "Circuit breaker é um mecanismo da B3 que interrompe as negociações em caso de quedas acentuadas do índice, permitindo que o mercado respire.",
+  "observar": "Fique atento às reações do mercado na abertura das negociações e aos ajustes nas expectativas de taxa Selic nas próximas reuniões do Copom.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como eventos políticos influenciam o mercado é crucial para investidores. A situação atual pode ser uma oportunidade de aprendizado para conhecer a dinâmica do mercado financeiro.",
+  "gancho": "Prepare-se para *volatilidade* elevada!",
+  "ideias": [
+   "Análise da abertura dos mercados após a eleição",
+   "Como a reeleição de Lula impacta o dólar?",
+   "Entenda o que é circuit breaker na bolsa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.moneytimes.com.br/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-fets/",
+  "publicadoEm": "2026-10-26T05:17:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-05"
+ },
+ {
+  "titulo": "Eleições alteram cenário do mercado financeiro brasileiro",
+  "resumo": "A reeleição de Lula surpreendeu investidores e pode causar ajustes significativos nas ações, câmbio e juros. Analistas já preveem pressão nos ativos na abertura da semana.",
+  "fatos": [
+   "A vitória de Lula contrariou as expectativas de parte dos investidores que apostavam em outra eleição.",
+   "Antes das eleições, a bolsa superou os 200 mil pontos e o real ganhou força.",
+   "Especialistas apontam para uma possível semana turbulenta nos mercados financeiros.",
+   "A relação fiscal e a escolha do novo ministro da Fazenda serão cruciais para próximos movimentos do mercado.",
+   "Há uma expectativa de correções no câmbio, nos contratos de juros futuros e na bolsa."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Com a reeleição de Lula, os investidores precisam reavaliar suas estratégias devido ao potencial aumento da volatilidade nos ativos.",
+  "impactoMercado": "Os mercados devem se ajustar ao novo cenário, resultando em pressões sobre ações, câmbio e juros enquanto a política fiscal é definida.",
+  "entenda": "A volatilidade é uma medidas da intensidade das flutuações nos preços dos ativos, refletindo incertezas no mercado.",
+  "observar": "Acompanhe as primeiras declarações do governo Lula e as escolhas para a equipe econômica, pois podem influenciar as decisões de curto prazo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Entender essa situação é crucial para formar uma visão mais clara do cenário econômico e das opções de investimento.",
+  "gancho": "*Lula* e os *mercados*: O que esperar?",
+  "ideias": [
+   "O impacto da reeleição de Lula nos investimentos",
+   "Como ajustar sua carteira após as eleições",
+   "Expectativas de mercado: o que vem pela frente?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/lula-venceu-e-a-festa-da-bolsa-pode-acabar-o-que-esperar-dos-investimentos-agora-miql/",
+  "publicadoEm": "2026-10-25T22:48:13-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-26-06"
+ },
+ {
+  "titulo": "J.P. Morgan prevê 'circuit breaker' na bolsa",
+  "resumo": "O banco J.P. Morgan espera que a bolsa acionará o 'circuit breaker' e diminuiu suas recomendações para o real e juros. Isso indica uma expectativa de volatilidade elevada no mercado.",
+  "fatos": [
+   "J.P. Morgan acredita que a bolsa poderá passar por uma forte queda, acionando o 'circuit breaker'.",
+   "O banco cortou suas recomendações para o real e os juros.",
+   "A expectativa é de que a volatilidade nos mercados aumente."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essa expectativa de volatilidade pode impactar diretamente as decisões de investimento e operações na bolsa.",
+  "impactoMercado": "Os investidores devem estar atentos às oscilações rápidas e ajustes recomendados por instituições financeiras.",
+  "entenda": "O 'circuit breaker' é um mecanismo que interrompe as negociações na bolsa para evitar perdas excessivas em dias de alta volatilidade.",
+  "observar": "Fique atento ao comportamento da bolsa e às recomendações de grandes instituições financeiras nos próximos dias.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A análise de grandes bancos ajuda a entender os riscos e oportunidades no mercado, promovendo aprendizado sobre investimentos.",
+  "gancho": "*Volatilidade* no mercado: Entenda o que isso significa",
+  "ideias": [
+   "Como a volatilidade influencia seus investimentos?",
+   "O que é 'circuit breaker' e por que importa?",
+   "Recomendações de mercado: o que você deve saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.google.com/search?q=J.P.+Morgan+espera+acionamento+de+%E2%80%98circuit+breaker%E2%80%99+na+bolsa+e+corta+recomenda%C3%A7%C3%A3o+para+real+e+juros+Valor+Econ%C3%B4mico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:46:13-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-07"
+ },
+ {
+  "titulo": "Bolsa e dólar reagem à reeleição de Lula",
+  "resumo": "Lula (PT) foi reeleito presidente, e o mercado reage com possíveis correções na bolsa, câmbio e juros. Investidores monitoram o cenário impactado, com expectativa de turbulências.",
+  "fatos": [
+   "Lula venceu Flávio Bolsonaro com votação recorde nas eleições de 2026.",
+   "Analistas projetam forte correção na bolsa, câmbio e juros após a reeleição.",
+   "O Ibovespa pode acionar o circuit-breaker pela primeira vez por resultados eleitorais.",
+   "O ETF EWZ caiu mais de 20% nas primeiras horas após a abertura do mercado.",
+   "Flávio Bolsonaro já sinalizou que pretende contestar o resultado das urnas."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "20%",
+  "porQueImporta": "Entender como eventos políticos impactam o mercado financeiro é crucial para investidores. A volatilidade pode criar oportunidades e riscos inesperados.",
+  "impactoMercado": "O cenário pode aumentar a incerteza entre investidores, especialmente em relação a ações e moedas, refletindo preocupações políticas e econômicas.",
+  "entenda": "Circuit-breaker é uma ferramenta que interrompe a negociação de ações quando há uma queda acentuada, permitindo que o mercado se estabilize.",
+  "observar": "Acompanhe a reação do mercado nos próximos dias, especialmente se o circuit-breaker for acionado e os desdobramentos da contestação de Bolsonaro.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa situação mostra como a política afeta o cotidiano financeiro, convidando as pessoas a entender melhor o mercado e a buscar formação na área.",
+  "gancho": "*Reeleição* de Lula: o que vem por aí?",
+  "ideias": [
+   "Como a reeleição de Lula afeta sua carteira?",
+   "Entenda o que é circuit-breaker!",
+   "Bolsa e câmbio: como se preparar para a volatilidade?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.seudinheiro.com/2026/colunistas/nunca-antes-mercados-reagem-reeleicao-lula-com-circuit-breaker-radar-bolsa-rsgp/",
+  "publicadoEm": "2026-10-26T08:21:10-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-08"
+ },
+ {
+  "titulo": "Citi alerta sobre risco fiscal para bancos brasileiros",
+  "resumo": "Após as eleições, o Citi destaca a preocupação com o risco fiscal no Brasil, que pode impactar o setor bancário.",
+  "fatos": [
+   "O Citi fez um alerta sobre os riscos fiscais que os bancos brasileiros enfrentam.",
+   "Essa preocupação surge após a conclusão das eleições no Brasil.",
+   "O cenário pode trazer desafios para a estabilidade do setor bancário."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender o risco fiscal é essencial para investidores que buscam avaliar a saúde do setor bancário e os potenciais impactos em seus investimentos.",
+  "impactoMercado": "Preocupações fiscais podem afetar a confiança dos investidores, impactando os preços das ações de bancos e a liquidez do mercado.",
+  "entenda": "Risco fiscal refere-se à possibilidade de o governo não conseguir cumprir suas obrigações financeiras, o que pode afetar o sistema bancário.",
+  "observar": "Fique atento a novos indicadores fiscais e declarações de autoridades sobre economia e política.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Aposentados"
+  ],
+  "angulo": "Compreender as implicações do risco fiscal ajuda investidores a navegar em um mercado incerto e a aprender mais sobre finanças.",
+  "gancho": "*Risco Fiscal* preocupa bancos brasileiros",
+  "ideias": [
+   "Por que o risco fiscal importa?",
+   "Entenda o alerta do Citi para os bancos",
+   "Impactos das eleições no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.google.com/search?q=Elei%C3%A7%C3%A3o+acabou%2C+mas+risco+fiscal+preocupa%3A+o+alerta+do+Citi+para+os+bancos+brasileiros+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:59:12-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-09"
+ },
+ {
+  "titulo": "JP Morgan rebaixa recomendação do real e títulos",
+  "resumo": "O JP Morgan reavaliou suas perspectivas, alterando as recomendações para o real e títulos públicos após a vitória de Lula nas eleições. Discutem-se possíveis impactos no mercado financeiro brasileiro.",
+  "fatos": [
+   "O banco JP Morgan rebaixou sua recomendação para o real.",
+   "A decisão também inclui uma revisão das recomendações para os títulos públicos do Brasil.",
+   "A mudança se deu após a vitória de Lula nas eleições."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Esse rebaixamento pode refletir a confiança do mercado no desempenho do real e na solidez dos títulos públicos após mudanças políticas.",
+  "impactoMercado": "A alteração pode influenciar a percepção dos investidores em relação à estabilidade econômica e política do Brasil.",
+  "entenda": "O real é a moeda oficial do Brasil e sua valorização ou desvalorização pode impactar a economia, afetando importações e exportações.",
+  "observar": "Fique atento a novos comentários do JP Morgan e reações do mercado sobre a estabilidade do governo e as medidas econômicas adotadas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender como mudanças políticas afetam a economia é essencial para investidores que buscam se aprofundar no mercado financeiro.",
+  "gancho": "Impacto da vitória de *Lula* no *mercado*",
+  "ideias": [
+   "O que o rebaixamento do real significa?",
+   "Análise das recomendações de títulos públicos!",
+   "Como mudanças políticas afetam investimentos?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.google.com/search?q=JP+Morgan+rebaixa+recomenda%C3%A7%C3%A3o+do+real+e+de+t%C3%ADtulos+ap%C3%B3s+vit%C3%B3ria+de+Lula+CNN+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:08:56-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-10"
+ },
+ {
+  "titulo": "Mercado reage à vitória de Lula nas eleições de 2026",
+  "resumo": "Os investidores amanhecem com perspectivas de queda após a vitória de Lula. O Ibovespa em dólar despenca quase 30% na manhã desta segunda-feira (26).",
+  "fatos": [
+   "Com mais de 99% das urnas apuradas, Lula teve 51,76% dos votos válidos.",
+   "Flávio Bolsonaro recebeu 48,24% dos votos, com uma diferença de mais de 4,3 milhões.",
+   "O EWZ, ETF brasileiro em Nova York, caiu quase 30%.",
+   "Na sexta-feira, o Ibovespa terminou em 205.082,56 pontos, com queda de 0,47%.",
+   "O dólar à vista encerrou a sexta a R$ 4,9931, com queda de 0,92%."
+  ],
+  "numeros": [
+   {
+    "valor": "27,26%",
+    "rotulo": "queda do EWZ na bolsa de NY"
+   },
+   {
+    "valor": "51,76%",
+    "rotulo": "votos válidos de Lula"
+   },
+   {
+    "valor": "48,24%",
+    "rotulo": "votos válidos de Bolsonaro"
+   },
+   {
+    "valor": "4,3 milhões",
+    "rotulo": "diferença de votos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "205.082,56",
+    "depois": "quase 30% de queda"
+   }
+  ],
+  "destaque": "27,26%",
+  "porQueImporta": "A vitória de Lula gera incertezas, afetando a confiança dos investidores e refletindo na volatilidade do mercado.",
+  "impactoMercado": "A reação do mercado pode resultar em quedas significativas para ações brasileiras e ETFs no exterior, alterando o sentimento de investidores.",
+  "entenda": "O EWZ é um ETF que representa ações brasileiras negociadas na bolsa americana, facilitando o investimento internacional em mercados emergentes.",
+  "observar": "Acompanhe possíveis novas declarações de Lula e a resposta do mercado nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender a reação do mercado a eventos políticos ajuda a captar as dinâmicas que influenciam os investimentos.",
+  "gancho": "*Lula* e o *mercado*: O que esperar?",
+  "ideias": [
+   "Queda do Ibovespa: O que isso significa?",
+   "Impactos econômicos da vitória de Lula",
+   "Análise das escolhas eleitorais e seus efeitos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.moneytimes.com.br/mercado-repercute-vitoria-de-lula-na-eleicao-de-2026-ibovespa-em-dolar-despenca-quase-30-nesta-segunda-feira-26-rens/",
+  "publicadoEm": "2026-10-26T07:08:40-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-11"
+ },
+ {
+  "titulo": "Reeleição de Lula afeta ativos brasileiros no exterior",
+  "resumo": "A reeleição do presidente Lula tem provocado queda nos ativos brasileiros fora do país e indica aumento da volatilidade no mercado.",
+  "fatos": [
+   "Os ativos brasileiros no exterior enfrentaram desvalorização após a reeleição de Lula.",
+   "O cenário politico atual sinaliza um ambiente de maior volatilidade nos mercados.",
+   "Investidores estão reavaliando suas posições diante dos novos desafios econômicos."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essa situação é crucial, pois a volatilidade pode impactar a confiança dos investidores e a atratividade dos ativos brasileiros no exterior.",
+  "impactoMercado": "Mudanças na confiança dos investidores podem levar a uma maior volatilidade e reavaliação dos riscos associados a investimentos no Brasil.",
+  "entenda": "A volatilidade é uma medida da incerteza e dos riscos percebidos no mercado, que pode levar a variações significativas nos preços dos ativos.",
+  "observar": "Acompanhe os movimentos dos ativos brasileiros e as reações do mercado às políticas do novo governo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A situação política atual é uma oportunidade de aprendizado sobre como questões macroeconômicas afetam o mercado financeiro.",
+  "gancho": "Como a *reeleição de Lula* afeta seus *investimentos*?",
+  "ideias": [
+   "Impactos da política no mercado financeiro",
+   "O que a volatilidade significa para você?",
+   "Entenda a reação do mercado à reeleição de Lula"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "UOL Economia",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.google.com/search?q=Reelei%C3%A7%C3%A3o+de+Lula+derruba+ativos+brasileiros+no+exterior+e+sinaliza+volatilidade+UOL+Economia",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T07:25:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-12"
+ },
+ {
+  "titulo": "Lula fala sobre 4º mandato como 'fato histórico'",
+  "resumo": "Após ser reeleito, Lula considera sua vitória um fato histórico e destaca a importância da participação da juventude e das mulheres.",
+  "fatos": [
+   "Luiz Inácio Lula da Silva foi reeleito presidente no último domingo.",
+   "Ele se tornou o primeiro presidente a ser eleito quatro vezes democraticamente no Brasil.",
+   "Lula expressou gratidão à juventude e mulheres por seu apoio na eleição.",
+   "O presidente promete governar para todos e dialogar com diferentes setores da sociedade."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A reeleição de Lula pode impactar decisões políticas e econômicas, afetando a confiança dos investidores no Brasil.",
+  "impactoMercado": "Mudanças nas políticas públicas e nas relações internacionais podem influenciar o cenário econômico, impactando mercados financeiros.",
+  "entenda": "Entender a política brasileira é crucial, já que as decisões governamentais podem afetar a economia e os investimentos.",
+  "observar": "É importante acompanhar como as políticas do novo mandato afetarão a economia e os mercados ao longo dos próximos meses.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "A vitória de Lula traz à tona debates sobre políticas econômicas que podem afetar o futuro do mercado.",
+  "gancho": "*Lula* e seu *4º mandato*",
+  "ideias": [
+   "O que a reeleição de Lula significa para o Brasil?",
+   "Impactos da vitória de Lula na economia",
+   "Mudanças políticas e seu reflexo no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.infomoney.com.br/politica/na-paulista-lula-diz-que-4o-mandato-e-fato-historico-que-deve-ao-povo-brasileiro/",
+  "publicadoEm": "2026-10-26T08:31:49-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-13"
+ },
+ {
+  "titulo": "Expectativa de alta do dólar após reeleição de Lula",
+  "resumo": "Após o 2º turno das eleições, especialistas projetam pressão sobre o dólar e possíveis mudanças no mercado. O cenário fiscal será crucial para o desempenho da moeda americana.",
+  "fatos": [
+   "A reeleição de Lula deve pressionar o dólar para cima no primeiro pregão após as eleições.",
+   "O dólar pode atingir entre R$ 5,20 a R$ 5,30 rapidamente, e R$ 5,40 em um horizonte mais longo.",
+   "Estratégicos destacam que a reação inicial dos mercados nem sempre indica a trajetória futura dos ativos.",
+   "Uma política fiscal mais restritiva poderia ter adiado a deterioração fiscal, mas agora a expectativa é de continuidade do Estado mais presente na economia.",
+   "Analistas preveem uma volatilidade aumentada no mercado de câmbio e nas curvas de juros futuras."
+  ],
+  "numeros": [
+   {
+    "valor": "5,40",
+    "rotulo": "Cotações estimadas do dólar para 2027"
+   },
+   {
+    "valor": "4% a 6%",
+    "rotulo": "Projeção de alta do dólar no primeiro pregão"
+   },
+   {
+    "valor": "5,20",
+    "rotulo": "Dólar pode abrir este patamar nesta semana"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "A flutuação do dólar pode impactar diretamente o custo de importações e o retorno de investimentos no Brasil.",
+  "impactoMercado": "Mudanças na condução fiscal podem gerar volatilidade no câmbio e nas taxas de juros, afetando investimentos e decisões financeiras.",
+  "entenda": "O dólar é a moeda americana e sua valorização pode indicar incertezas econômicas, afetando o mercado financeiro global e local.",
+  "observar": "Acompanhe as primeiras declarações do novo governo sobre política fiscal e como isso pode influenciar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender o impacto da política econômica nas cotações é fundamental para quem deseja operar no mercado financeiro.",
+  "gancho": "Dólar em alta: o que esperar?",
+  "ideias": [
+   "Como a reeleição de Lula pode afetar o dólar?",
+   "O que esperar do mercado cambial após as eleições?",
+   "A importância da política fiscal para o câmbio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://exame.com/invest/mercados/dolar-pode-chegar-a-r-6-com-lula-reeleito-veja-ate-onde-a-moeda-pode-ir/",
+  "publicadoEm": "2026-10-26T02:00:47-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-14"
+ },
+ {
+  "titulo": "Mercado reduz projeções para dólar, PIB e Selic",
+  "resumo": "O Boletim Focus indicou uma queda na projeção do dólar e do PIB, além de alterações nas expectativas para a Selic e inflação até 2029.",
+  "fatos": [
+   "A projeção para o dólar caiu de R$ 5,13 para R$ 5,05 até o fim de 2026.",
+   "O crescimento do PIB foi revisado de 1,83% para 1,80% para 2026.",
+   "A expectativa de Selic para 2027 diminuiu de 12,00% para 11,75%.",
+   "A estimativa para o IPCA caiu de 5,22% para 5,19% para 2026.",
+   "Projeção do IGP-M subiu de 5,26% para 5,61% para 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "5,05",
+    "rotulo": "projeção do dólar para 2026"
+   },
+   {
+    "valor": "1,80%",
+    "rotulo": "crescimento do PIB para 2026"
+   },
+   {
+    "valor": "11,75%",
+    "rotulo": "Selic projetada para 2027"
+   },
+   {
+    "valor": "5,19%",
+    "rotulo": "IPCA projetado para 2026"
+   },
+   {
+    "valor": "5,61%",
+    "rotulo": "IGP-M projetado para 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "5,05",
+  "porQueImporta": "Essas projeções influenciam as decisões de investimento e podem impactar a confiança do mercado em relação à economia.",
+  "impactoMercado": "Mudanças nas expectativas econômicas podem afetar a volatilidade e o comportamento dos ativos no mercado financeiro.",
+  "entenda": "A Selic é a taxa básica de juros, influenciando outras taxas e a economia como um todo.",
+  "observar": "Fique atento às próximas edições do Boletim Focus e como as previsões mudam com novos dados econômicos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Compreender essas projeções ajuda investidores a tomar decisões informadas no mercado financeiro.",
+  "gancho": "Projeções econômicas: o que muda?",
+  "ideias": [
+   "Dólar e PIB: o que esperar?",
+   "Análise do Boletim Focus desta semana",
+   "O impacto da Selic nos seus investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.infomoney.com.br/mercados/boletim-focus-projecoes-26102024/",
+  "publicadoEm": "2026-10-26T08:31:59-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-15"
+ },
+ {
+  "titulo": "Renda fixa em alta após reeleição de Lula: tesouro ou prefixados?",
+  "resumo": "A reeleição de Lula impacta as expectativas da renda fixa, com investimento pós-fixado se destacando. Especialistas alertam sobre a volatilidade dos títulos longos diante da política fiscal.",
+  "fatos": [
+   "A reeleição de Lula pode colocar a renda fixa em foco para investidores no primeiro pregão após o segundo turno.",
+   "Pós-fixados, como Tesouro Selic e CDBs, tendem a ser mais atrativos com juros elevados.",
+   "Os títulos de longo prazo, como prefixados e IPCA+, podem oscilar devido à incerteza fiscal.",
+   "A condução das contas públicas será fundamental, pois pode influenciar as taxas de juros futuras.",
+   "Investidores devem se atentar a propostas de Orçamento e medidas fiscais do novo governo."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Com juros altos por um período prolongado, os investimentos pós-fixados apresentam maior potencial de retorno, sendo fundamentais para a estratégia de renda fixa dos investidores.",
+  "impactoMercado": "O mercado pode enfrentar volatilidade, especialmente nos títulos de longo prazo, se as expectativas fiscais não forem atendidas, afetando os investimentos.",
+  "entenda": "Os investimentos pós-fixados são aqueles que têm seus rendimentos atrelados a indicadores de juros, como a Selic e o CDI. Eles tendem a render mais em um ambiente com juros altos.",
+  "observar": "Fique atento às propostas fiscais do governo e às movimentações do Congresso, que podem impactar as taxas de juros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "A reeleição de Lula traz mudanças nas expectativas do mercado financeiro, ressaltando a importância da disciplina fiscal e da gestão das contas públicas.",
+  "gancho": "*Renda Fixa* em alta: *Lula reeleito!*",
+  "ideias": [
+   "Impacto da reeleição de Lula na renda fixa",
+   "Pós-fixados: o que você precisa saber",
+   "Volatilidade e investimentos pós-eleição"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "moeda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://exame.com/invest/mercados/renda-fixa-lula-reeleito-onde-investir/",
+  "publicadoEm": "2026-10-26T02:00:12-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-16"
+ },
+ {
+  "titulo": "Projeções do Focus sobre inflação e PIB caem",
+  "resumo": "O mercado reduziu as estimativas para a inflação e o PIB em 2023, segundo o relatório Focus do Banco Central.",
+  "fatos": [
+   "As expectativas de inflação para 2023 passaram a ser menores.",
+   "O crescimento do PIB também foi revisto para baixo.",
+   "Essas mudanças refletem a percepção do mercado sobre a economia."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Entender as projeções de inflação e PIB ajuda investidores a tomar decisões mais informadas sobre seus investimentos.",
+  "impactoMercado": "Reduções nas projeções podem influenciar a confiança do investidor e a direção de investimentos em diferentes ativos.",
+  "entenda": "A projeção de inflação reflete a expectativa do aumento de preços e é fundamental para decisões de política monetária.",
+  "observar": "Acompanhe as próximas edições do relatório Focus para mudanças nas expectativas do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores"
+  ],
+  "angulo": "Compreender as mudanças nas projeções do mercado é essencial para quem deseja viver mais sobre finanças.",
+  "gancho": "*Inflação* e *PIB* em queda: o que isso significa?",
+  "ideias": [
+   "Entenda a queda na inflação e seu impacto",
+   "Projeção do PIB: como isso afeta seus investimentos?",
+   "O que o Focus revela sobre o cenário econômico?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Metrópoles",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.google.com/search?q=Focus%3A+mercado+baixa+proje%C3%A7%C3%A3o+da+infla%C3%A7%C3%A3o+e+do+PIB+para+este+ano+Metr%C3%B3poles",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:43:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-17"
+ },
+ {
+  "titulo": "OEA destaca continuidade da parceria com Brasil após eleições",
+  "resumo": "Após a reeleição de Lula, OEA parabeniza a democracia brasileira e anuncia relatório sobre melhorias eleitorais. Desafios de governabilidade esperam o novo governo.",
+  "fatos": [
+   "Albert Ramdin, secretário-geral da OEA, parabenizou a participação dos brasileiros nas eleições de 2026.",
+   "Lula foi reeleito com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro.",
+   "A OEA continuará a trabalhar com o governo brasileiro em uma agenda de paz e prosperidade.",
+   "Um relatório preliminar sobre o processo eleitoral será apresentado, mas a data de divulgação não foi informada.",
+   "Lula enfrentará um Congresso com 49 senadores de direita, o que pode dificultar sua governabilidade."
+  ],
+  "numeros": [
+   {
+    "valor": "51,79%",
+    "rotulo": "percentual de votos válidos de Lula"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "percentual de votos válidos de Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "51,79%",
+  "porQueImporta": "A orientação da OEA pode trazer estabilidade política, mas a dificuldade de governabilidade pode impactar políticas públicas e a economia.",
+  "impactoMercado": "A dificuldade de negociação no Congresso pode gerar incertezas e volatilidade nos investimentos, afetando a confiança do mercado.",
+  "entenda": "Entender a governabilidade é importante, pois envolve a capacidade do governo em implementar suas propostas, influenciando a economia e o ambiente de negócios.",
+  "observar": "Fique atento às futuras comunicações da OEA e ao impacto do novo Congresso nas promessas de campanha de Lula.",
+  "publico": [
+   "Empresários",
+   "Investidores"
+  ],
+  "angulo": "A estabilidade política pode ajudar a criar um ambiente de negócios favorável, atraindo investidor e fortalecendo a economia.",
+  "gancho": "O que a OEA disse sobre Lula?",
+  "ideias": [
+   "OEA e a nova governabilidade de Lula",
+   "O que vem a seguir para o Brasil?",
+   "Desafios do novo governo em um Congresso à direita"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://exame.com/brasil/oea-sinaliza-continuidade-da-parceria-com-brasil-apos-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-26T02:51:42-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-18"
+ },
+ {
+  "titulo": "Mercado teme queda de mais de 10% na Bolsa",
+  "resumo": "Com a reeleição de Lula, investidores estão preocupados com possíveis quedas na Bolsa. Há temores sobre a instabilidade e a execução de novas políticas econômicas.",
+  "fatos": [
+   "A reeleição de Lula trouxe incertezas ao mercado financeiro.",
+   "Investidores temem uma queda significativa na Bolsa.",
+   "Há o risco de um circuit breaker se a situação se agravar."
+  ],
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Essas preocupações podem levar a oscilações significativas nos mercados, afetando o retorno de investimentos.",
+  "impactoMercado": "Instabilidade na Bolsa pode levar investidores a revisar suas estratégias e aumentar a volatilidade dos ativos.",
+  "entenda": "Circuit breaker é uma interrupção nas negociações na Bolsa para conter quedas drásticas nos preços das ações.",
+  "observar": "Acompanhe como o mercado reage às decisões e declarações do novo governo.",
+  "publico": [
+   "Investidores",
+   "Aposentados",
+   "Day traders"
+  ],
+  "angulo": "Entender essas movimentações é crucial para qualquer investidor que queira estar preparado para mudanças no cenário econômico.",
+  "gancho": "*Temores* no mercado após *reestruturação*",
+  "ideias": [
+   "Lula reeleito: O que esperar da Bolsa?",
+   "Impactos da eleição de Lula no mercado financeiro",
+   "Como a reeleição de Lula afeta seus investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "Estadão",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://www.google.com/search?q=Com+Lula+reeleito%2C+mercado+teme+queda+de+mais+de+10%25+na+Bolsa+e+risco+de+circuit+breaker+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-26T08:33:50-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-19"
+ },
+ {
+  "titulo": "Mailza Assis é reeleita governadora do Acre",
+  "resumo": "Mailza Assis vence Alan Rick no segundo turno e garante novo mandato. Com 66,73% dos votos, ela lidera o governo estadual por mais quatro anos.",
+  "fatos": [
+   "Mailza Assis (PP) foi reeleita governadora do Acre com 66,73% dos votos válidos.",
+   "Alan Rick (Republicanos) obteve 33,27% dos votos no segundo turno.",
+   "No primeiro turno, Mailza teve 49,76% e Alan 32,27% dos votos válidos.",
+   "A pesquisa AtlasIntel no sábado apontava Mailza com 60,4% das intenções de voto válidas.",
+   "Mailza já estava no cargo desde abril de 2026 e agora governará de 2027 a 2030."
+  ],
+  "numeros": [
+   {
+    "valor": "66,73",
+    "rotulo": "porcentagem de votos de Mailza Assis"
+   },
+   {
+    "valor": "33,27",
+    "rotulo": "porcentagem de votos de Alan Rick"
+   },
+   {
+    "valor": "49,76",
+    "rotulo": "porcentagem de votos no primeiro turno de Mailza"
+   },
+   {
+    "valor": "32,27",
+    "rotulo": "porcentagem de votos no primeiro turno de Alan"
+   },
+   {
+    "valor": "60,4",
+    "rotulo": "porcentagem de intenções de voto na pesquisa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "66,73%",
+  "porQueImporta": "A reeleição de Mailza Assis pode trazer continuidade nas políticas públicas do Acre, impactando a economia local e o mercado regional.",
+  "impactoMercado": "Mudanças políticas podem influenciar a confiança dos investidores e o clima econômico do estado, afetando decisões de empresas e investimentos.",
+  "entenda": "As eleições impactam a governança e, consequentemente, a economia do estado, o que pode refletir nos mercados locais e nacionais.",
+  "observar": "Acompanhar as ações de Mailza Assis em seu novo mandato e como isso afeta a economia do Acre.",
+  "publico": [
+   "Investidores"
+  ],
+  "angulo": "Conhecer as eleições e suas consequências é essencial para entender como decisões políticas afetam o mercado financeiro e os investimentos.",
+  "gancho": "Eleições impactam seu investimento!",
+  "ideias": [
+   "O que a reeleição de Mailza Assis significa para o Acre?",
+   "Mailza Assis: o impacto da política no mercado",
+   "Como as eleições podem influenciar seus investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "globo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "url": "https://bpmoney.com.br/politica/mailza-assis-e-reeleita-governadora-do-acre/",
+  "publicadoEm": "2026-10-25T20:10:39-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-26-20"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-low-will-30-year-treasury-yield-get-before-2027",
+  "titulo": "Mercado de previsões vê 86.0% de chance de que o rendimento dos títulos de 30 anos fique abaixo",
+  "resumo": "Expectativas indicam que os juros de longo prazo podem permanecer em níveis bastante baixos.",
+  "probs": [
+   {
+    "opcao": "Abaixo de 5.25%",
+    "prob": 86.0
+   },
+   {
+    "opcao": "Abaixo de 5.20%",
+    "prob": 59.5
+   },
+   {
+    "opcao": "Abaixo de 5.15%",
+    "prob": 41.5
+   },
+   {
+    "opcao": "Abaixo de 5.10%",
+    "prob": 35.0
+   }
+  ],
+  "prazo": "2026-12-31",
+  "volume24h": "US$ 14 mil",
+  "fatos": [
+   "Abaixo de 5.25%: 86,0%",
+   "Abaixo de 5.20%: 59,5%",
+   "Abaixo de 5.15%: 41,5%",
+   "Abaixo de 5.10%: 35,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "86,0%",
+    "rotulo": "Abaixo de 5.25%"
+   },
+   {
+    "valor": "59,5%",
+    "rotulo": "Abaixo de 5.20%"
+   },
+   {
+    "valor": "41,5%",
+    "rotulo": "Abaixo de 5.15%"
+   },
+   {
+    "valor": "35,0%",
+    "rotulo": "Abaixo de 5.10%"
+   }
+  ],
+  "destaque": "86,0%",
+  "gancho": "*Rendimento* em queda nos títulos",
+  "entenda": "A rentabilidade dos títulos influencia o custo de empréstimos e investimentos no mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-low-will-30-year-treasury-yield-get-before-2027",
+  "publicadoEm": "2026-10-26T08:58:32-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-26T08:58:32-03:00",
+  "data": "2026-10-26",
+  "status": "nova",
+  "id": "2026-10-26-p1"
+ },
+ {
   "titulo": "EWZ cai 19% após reeleição de Lula à Presidência",
   "resumo": "O fundo de índice iShares MSCI Brazil (EWZ) teve queda de 19,63% após a reeleição de Luiz Inácio Lula da Silva, impactando negativamente o mercado financeiro.",
   "fatos": [
@@ -18134,52 +19226,6 @@
   "id": "2026-10-19-26"
  },
  {
-  "categoria": "Juros",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "13,75%",
-  "fatos": [
-   "O Rabobank projeta Selic de 13,75% no fim de 2026, ante 13,25% da mediana do Focus.",
-   "Para o câmbio, a projeção do banco é R$ 5,35, contra R$ 5,15 da mediana do mercado.",
-   "O Ibovespa subiu 7,7% no dia seguinte ao 1º turno e o dólar chegou a cair abaixo de R$ 5,00.",
-   "O banco lembra que a inflação voltou a superar o teto da meta e o petróleo está acima de US$ 100.",
-   "O Rabobank vê possível alta de juros nos EUA em janeiro."
-  ],
-  "fonte": "CNN Brasil",
-  "gancho": "*Selic* pode cair menos que o previsto",
-  "icone": "escudo",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-18T10:20:00-03:00",
-  "resumo": "Banco projeta juros e dólar acima da mediana do Focus, citando inflação acima do teto e petróleo caro, apesar da euforia após o 1º turno.",
-  "status": "nova",
-  "titulo": "Rabobank pede cautela e vê Selic a 13,75% no fim de 2026",
-  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/rabobank-otimismo-do-mercado-apos-1o-turno-das-eleicoes-exige-cautela/",
-  "id": "2026-10-19-08"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "4,87%",
-  "fatos": [
-   "O JPMorgan vendeu cerca de 1,4 milhão de ações ordinárias da Fleury (FLRY3).",
-   "Com a venda, a participação do banco caiu para 4,87%.",
-   "O JPMorgan informou que a operação é de gestão de risco, sem objetivo de influenciar o controle."
-  ],
-  "fonte": "Acionista",
-  "gancho": "*JPMorgan* reduz aposta na *Fleury*",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-18T10:00:00-03:00",
-  "resumo": "Banco vendeu cerca de 1,4 milhão de ações ordinárias da rede de diagnósticos e afirma que o movimento é de gestão de risco.",
-  "status": "nova",
-  "titulo": "JPMorgan reduz fatia na Fleury para 4,87%",
-  "url": "https://acionista.com.br/flry3-o-jpmorgan-reduziu-sua-fatia-mas-ha-outro-detalhe/",
-  "id": "2026-10-19-12"
- },
- {
   "categoria": "Global",
   "coletadoEm": "2026-10-19T08:30:00-03:00",
   "data": "2026-10-19",
@@ -18228,30 +19274,6 @@
   "id": "2026-10-19-10"
  },
  {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "US$ 87",
-  "fatos": [
-   "Mediana de nove projeções coletadas pelo Broadcast: Brent a US$ 87 no 4º trimestre de 2026 e média de US$ 80 em 2027.",
-   "O HSBC elevou a projeção do 4º trimestre de US$ 80 para US$ 90 e vê até US$ 120 em caso de impasse.",
-   "Goldman Sachs e JPMorgan projetam Brent a US$ 85 no fim de 2026; o JPMorgan vê US$ 67 no 1º trimestre de 2027.",
-   "A EIA, agência de energia dos EUA, elevou a média de 2026 para US$ 96 e a de 2027 para US$ 84.",
-   "A Rystad estima cerca de 16 milhões de barris por dia saindo pelo Estreito de Ormuz e chama o fluxo de frágil."
-  ],
-  "fonte": "Money Times (Estadão Conteúdo)",
-  "gancho": "*Petróleo* a US$ 90 até dezembro?",
-  "icone": "alvo",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-18T08:42:00-03:00",
-  "resumo": "Mediana de bancos e consultorias aponta petróleo mais barato no 4º trimestre e em 2027, mas o fluxo por Ormuz segue frágil e mantém o risco de alta.",
-  "status": "nova",
-  "titulo": "Analistas veem Brent perto de US$ 90 no fim do ano, apesar da guerra",
-  "url": "https://www.moneytimes.com.br/petroleo-brent-deve-rondar-os-us-90-por-barril-ate-fim-do-ano/",
-  "id": "2026-10-19-06"
- },
- {
   "categoria": "Day trade",
   "coletadoEm": "2026-10-19T08:30:00-03:00",
   "data": "2026-10-19",
@@ -18276,29 +19298,6 @@
   "id": "2026-10-19-07"
  },
  {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "48%",
-  "fatos": [
-   "Segundo a Fiesp, 48% das empresas não iniciaram ações estruturadas para a transição tributária.",
-   "A partir de 2027, PIS e Cofins começam a ser substituídos por CBS e IBS.",
-   "A transição é gradual e deve terminar em 2033.",
-   "O split payment recolhe IBS e CBS no momento do pagamento, antes de o dinheiro chegar à empresa."
-  ],
-  "fonte": "CNN Brasil",
-  "gancho": "*Reforma tributária* pega empresas despreparadas",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-18T10:00:00-03:00",
-  "resumo": "Levantamento da Fiesp mostra 48% das empresas sem ações estruturadas para a transição, que começa a substituir PIS e Cofins em 2027.",
-  "status": "nova",
-  "titulo": "Quase metade das empresas ainda não se prepara para a reforma tributária",
-  "url": "https://www.cnnbrasil.com.br/economia/money/negocios/metade-das-empresas-ainda-nao-comecou-a-se-preparar-para-reforma-tributaria/",
-  "id": "2026-10-19-11"
- },
- {
   "categoria": "Cripto",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
@@ -18321,29 +19320,6 @@
   "titulo": "Bitcoin oscila perto de US$ 82,6 mil com volatilidade na mínima em 2,5 anos",
   "url": "https://cryptotimes.io/2026/10/19/bitcoin-price-today-btc-coils-near-82500-as-daily-bollinger-bands-reach-multi-year-tightness",
   "id": "2026-10-19-04"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "+70%",
-  "fatos": [
-   "O índice MSCI América Latina sobe mais de 70% desde o início do ano passado.",
-   "Na Colômbia, ações subiram mais de 20% após o primeiro turno, mas o ganho perdeu ímpeto.",
-   "No Brasil, as ações sobem mais de 20% desde meados de agosto.",
-   "Frontier Road zerou quase toda a exposição à região e Fidelity International reduziu posições."
-  ],
-  "fonte": "InfoMoney (Bloomberg)",
-  "gancho": "*Euforia eleitoral* tem prazo de *validade*?",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 15,
-  "publicadoEm": "2026-10-18T11:55:00-03:00",
-  "resumo": "Ralis vistos após eleições em Colômbia e Chile perderam força, e gestores reduzem exposição à região enquanto o Brasil ainda vive a alta pré-segundo turno.",
-  "status": "nova",
-  "titulo": "Após euforia eleitoral, bolsas da América Latina perdem fôlego, diz Bloomberg",
-  "url": "https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/",
-  "id": "2026-10-18-04"
  },
  {
   "categoria": "Previsões",
@@ -18392,30 +19368,6 @@
   "id": "2026-10-19-p4"
  },
  {
-  "categoria": "Agenda",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "IPCA-15",
-  "fatos": [
-   "Hoje: IGP-10 de outubro às 8h, com projeção de alta de 1,44%, e Boletim Focus às 8h25.",
-   "Quarta: segunda prévia do IGP-M e fluxo cambial semanal.",
-   "Quinta: pedidos semanais de auxílio-desemprego nos EUA.",
-   "Sexta: IPCA-15 de outubro, com projeção de 0,45%; o Itaú espera 0,51%.",
-   "Sexta também traz PMIs de Europa e EUA e a confiança do consumidor de Michigan."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "Semana de *IPCA-15* e *Focus*",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-18T17:00:00-03:00",
-  "resumo": "A agenda da última semana antes da eleição traz prévia da inflação brasileira, PMIs globais e pedidos de auxílio-desemprego nos EUA.",
-  "status": "nova",
-  "titulo": "Semana tem IGP-10 e Focus hoje e IPCA-15 na sexta, antes do 2º turno",
-  "url": "https://www.infomoney.com.br/mercados/calendario-economico-segundo-turno-das-eleicoes-e-ipca-15-tem-as-atencoes-da-semana/",
-  "id": "2026-10-19-05"
- },
- {
   "categoria": "Juros",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
@@ -18444,12 +19396,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "48,5%",
+  "destaque": "56,5%",
   "fatos": [
-   "↑ 82,500: 48,5%",
-   "↓ 77,500: 48,0%",
-   "↑ 85,000: 19,0%",
-   "↓ 75,000: 18,5%"
+   "↑ 82,500: 56,5%",
+   "↓ 77,500: 37,5%",
+   "↑ 85,000: 21,5%",
+   "↓ 75,000: 14,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -18461,95 +19413,49 @@
   "probs": [
    {
     "opcao": "↑ 82,500",
-    "prob": 48.5
+    "prob": 56.5
    },
    {
     "opcao": "↓ 77,500",
-    "prob": 48.0
+    "prob": 37.5
    },
    {
     "opcao": "↑ 85,000",
-    "prob": 19.0
+    "prob": 21.5
    },
    {
     "opcao": "↓ 75,000",
-    "prob": 18.5
+    "prob": 14.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores estão divididos entre dois cenários para o preço do Bitcoin no próximo mês.",
+  "resumo": "Os apostadores acreditam que o Bitcoin pode alcançar um valor significativo no curto prazo.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 48.5% de chance de Bitcoin ultrapassar $82,500 em outubro",
+  "titulo": "Mercado de previsões vê 56.5% de chance de que o preço do Bitcoin atinja 82,500 em outubro.",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 492 mil",
+  "volume24h": "US$ 455 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "48,5%",
+    "valor": "56,5%",
     "rotulo": "↑ 82,500"
    },
    {
-    "valor": "48,0%",
+    "valor": "37,5%",
     "rotulo": "↓ 77,500"
    },
    {
-    "valor": "19,0%",
+    "valor": "21,5%",
     "rotulo": "↑ 85,000"
    },
    {
-    "valor": "18,5%",
+    "valor": "14,5%",
     "rotulo": "↓ 75,000"
    }
   ],
-  "atualizadoEm": "2026-10-25T22:20:40-03:00"
- },
- {
-  "categoria": "Comportamento do investidor",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "R$ 815 bi",
-  "fatos": [
-   "O levantamento estima cerca de R$ 815 bilhões aplicados nesses fundos.",
-   "A lista de não recomendados inclui mais de 200 fundos.",
-   "Os critérios combinam custos e histórico de desempenho, inclusive retorno abaixo do CDI.",
-   "A portabilidade permite trocar de fundo sem resgatar e sem pagar Imposto de Renda."
-  ],
-  "fonte": "Seu Dinheiro",
-  "gancho": "*Previdência* cara corrói seu *retorno*",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 13,
-  "publicadoEm": "2026-10-18T08:00:00-03:00",
-  "resumo": "Uma lista com mais de 200 fundos de previdência privada que combinam taxas altas e retorno abaixo do esperado mostra o custo da má escolha para o poupador.",
-  "status": "nova",
-  "titulo": "Levantamento aponta R$ 815 bilhões em fundos de previdência caros e fracos",
-  "url": "https://www.seudinheiro.com/2026/colunistas/caca-as-bruxas-os-fundos-de-previdencia-caros-e-pouco-rentaveis-que-nos-nao-recomendamos-julw/",
-  "id": "2026-10-18-03"
- },
- {
-  "categoria": "Política monetária",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "3,7%",
-  "fatos": [
-   "O CPI dos EUA subiu 0,6% em setembro e 3,7% em 12 meses, ante 3,4% em agosto.",
-   "A gasolina respondeu por mais da metade da alta mensal.",
-   "No Brasil, o volume de serviços caiu 0,1% em agosto, contra expectativa de alta de 0,4%.",
-   "O Copom cortou a Selic para 13,75% em setembro citando mercado de trabalho apertado e expectativas acima da meta."
-  ],
-  "fonte": "CNN Brasil",
-  "gancho": "*Inflação americana* trava a *Selic*?",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-18T04:00:00-03:00",
-  "resumo": "Com a inflação americana acelerando, juros mais altos por lá podem pressionar o real e encarecer importações, reduzindo o espaço do Banco Central para seguir cortando.",
-  "status": "nova",
-  "titulo": "Inflação alta nos EUA pode frear a queda da Selic, avalia análise",
-  "url": "https://www.cnnbrasil.com.br/blogs/debora-oliveira/economia/money/macroeconomia/analise-inflacao-alta-nos-eua-pode-frear-queda-da-selic-no-brasil/",
-  "id": "2026-10-18-02"
+  "atualizadoEm": "2026-10-26T08:58:32-03:00"
  },
  {
   "categoria": "Previsões",
@@ -18639,29 +19545,6 @@
   "titulo": "PIB da China cresce 4,5% no terceiro trimestre e bolsas asiáticas fecham mistas",
   "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-volatilidade-em-tecnologia-e-pib-da-china-no-radar-fets/",
   "id": "2026-10-19-03"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-18",
-  "destaque": "240 mil",
-  "fatos": [
-   "A nova meta implica alta de cerca de 17% sobre o fechamento de sexta, de 205.430 pontos.",
-   "O Ibovespa negocia pouco acima de 10 vezes o lucro projetado; a média histórica é de cerca de 11 vezes.",
-   "A Índia negocia perto de 21 vezes e México e Taiwan entre 15 e 16 vezes.",
-   "O índice subiu 8,8% na semana após o primeiro turno, maior alta pós-votação desde 1994."
-  ],
-  "fonte": "Money Times, Seu Dinheiro",
-  "gancho": "*Ibovespa* a *240 mil* pontos?",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-18T10:13:00-03:00",
-  "resumo": "O banco diz que a bolsa ainda está barata frente à média histórica e a outros emergentes, mas aponta o cenário eleitoral como principal risco para a projeção.",
-  "status": "nova",
-  "titulo": "Inter eleva meta do Ibovespa de 204 mil para 240 mil pontos",
-  "url": "https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/",
-  "id": "2026-10-18-01"
  },
  {
   "categoria": "Previsões",
