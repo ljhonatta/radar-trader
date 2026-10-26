@@ -360,6 +360,28 @@ def escrever(c, texto):
     return ia(sistema, usuario, MODELO_ESCRITA)
 
 
+def deduplicar(novos, recentes):
+    """Última checagem: tira da lista nova o que repete uma história já gravada ou outra nova (mesmo fato, outro veículo)."""
+    if not novos:
+        return novos
+    lista = "\n".join(f"[{i}] {d['titulo']} | {d.get('resumo', '')[:160]}" for i, d in enumerate(novos))
+    ja = "\n".join(f"- {d['titulo']}" for d in recentes) or "(nenhuma)"
+    try:
+        r = ia(f"Você é editor e elimina notícias repetidas. {REGRAS} Responda em JSON.",
+               f"Notícias NOVAS:\n{lista}\n\nJá publicadas nos últimos dias:\n{ja}\n\n"
+               "Uma notícia nova é REPETIDA quando conta o mesmo fato principal de uma já publicada ou de outra nova anterior "
+               "na lista (mesmo acontecimento, mesma causa, mesmos números principais), mesmo que o título seja diferente. "
+               "Não é repetida quando traz um fato principal diferente (outra empresa, outro número central, outra decisão). "
+               "Também marque como repetida o que não tem relação com mercado financeiro e economia. "
+               'Devolva {"repetidas":[números das novas a descartar]}.')
+        tirar = {int(i) for i in r.get("repetidas", []) if str(i).lstrip("-").isdigit()}
+    except Exception as ex:
+        print("deduplicar falhou:", ex)
+        return novos
+    print("repetidas descartadas:", [novos[i]["titulo"] for i in sorted(tirar) if 0 <= i < len(novos)])
+    return [d for i, d in enumerate(novos) if i not in tirar]
+
+
 def atualizar(doc, c, texto):
     sistema = (f"Você atualiza uma ficha de notícia existente com um fato novo. {REGRAS} Responda em JSON com as chaves "
                '"titulo" (até 14 palavras), "resumo" (até 35 palavras), "fatos" (3 a 6 frases, mantendo os antigos que '
@@ -697,7 +719,12 @@ def main():
         with ThreadPoolExecutor(4) as ex:
             resultados = list(ex.map(trabalhar, escolhidas))
         destaques = []
+        prontos = deduplicar([r for tipo, esc, alvo, r in resultados if tipo == "novo" and r],
+                             [n for n in noticias if n.get("tipo") != "sinal" and n.get("coletadoEm", "") >= iso(coleta - timedelta(days=2))])
+        ok_ids = {id(x) for x in prontos}
         for tipo, esc, alvo, r in resultados:
+            if tipo == "novo" and r and id(r) not in ok_ids:
+                continue
             if tipo == "upd" and r and r.get("novo") and r.get("fatos"):
                 alvo["fatos"] = lista_str(r["fatos"], 6)
                 alvo["titulo"] = corta(r.get("titulo") or alvo["titulo"], 16)
