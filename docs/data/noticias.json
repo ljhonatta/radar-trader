@@ -1,5 +1,480 @@
 [
  {
+  "titulo": "Taxas do Tesouro Direto disparam após eleição e Tesouro faz recompras",
+  "resumo": "Em 26/10, taxas do Tesouro Prefixado chegaram a quase 16% e IPCA+ passou de 8% após vitória de Lula. Tesouro Nacional reagiu recomprando títulos para conter volatilidade.",
+  "fatos": [
+   "A plataforma do Tesouro Direto abriu atrasada cerca de 3 horas em 26/10.",
+   "Paralisou negociações por várias vezes na mesma segunda-feira.",
+   "Prefixado 2032 chegou a 15,78% e fechou em 15,50% no dia 26/10.",
+   "Prefixado 2029 subiu para 15,26%, aumento de 2,50 pontos.",
+   "Tesouro IPCA+ 2032 atingiu 8,10% na abertura, fechando em 7,80%.",
+   "Tesouro Nacional fez leilão extraordinário com teto de R$ 15 bilhões em recompras.",
+   "Em 27/10, o Tesouro recomprou R$ 16,8 bilhões em NTN-Bs.",
+   "Em dois dias, foram recomprados cerca de R$ 31,6 bilhões em títulos.",
+   "Quem tinha R$ 10 mil no prefixado 2032 na última sexta viu saldo cair para cerca de R$ 8.894.",
+   "Analistas do BTG Pactual veem alta dos juros longos e enfraquecimento do real após eleição."
+  ],
+  "explicacao": [
+   "Na segunda-feira (26), as taxas dos títulos públicos do Tesouro Direto dispararam após a confirmação da eleição de Luiz Inácio Lula da Silva no segundo turno, levando a fortes oscilações e interrupções nas negociações, que começaram com três horas de atraso.",
+   "O Tesouro Nacional reagiu fazendo leilões extraordinários de recompra de títulos prefixados, com um teto de até R$ 15 bilhões para papéis com vencimentos em 2031, 2033 e 2037, buscando conter a pressão de alta nas taxas.",
+   "As taxas de títulos prefixados chegaram a 15,78% no pior momento, maior valor desde o início da série no ano passado, enquanto os títulos indexados à inflação, Tesouro IPCA+, ultrapassaram 8% na abertura, refletindo aumento dos juros longos por temor da política fiscal.",
+   "Na terça (27), o Tesouro reforçou intervenções com recompras de R$ 16,8 bilhões em NTN-Bs (Tesouro IPCA+), cancelou leilão de Tesouro Selic e acumula nos últimos dias cerca de R$ 31,6 bilhões recomprados, para tentar estabilizar o mercado."
+  ],
+  "detalhes": [
+   "Quem: Tesouro Nacional e investidores de Tesouro Direto.",
+   "Quando: segunda e terça-feira, 26 e 27 de outubro de 2022.",
+   "Onde: mercado brasileiro de títulos públicos disponíveis na plataforma Tesouro Direto.",
+   "Quanto: recompras acumulam R$ 31,6 bilhões em títulos em dois dias.",
+   "Como: modelo de recompra visa conter a alta de taxas absorvendo oferta de venda.",
+   "Comparação: taxas subiram ao maior patamar desde início da série histórica, ano passado.",
+   "Contexto: vitória de Lula no segundo turno gerou expectativa de política fiscal expansionista."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Equipe de analistas do BTG Pactual",
+    "oque": "Reeleição de Lula deve aumentar juros longos, enfraquecer real e dificultar queda da Selic."
+   },
+   {
+    "quem": "Luciano França, sócio-fundador da Paramis Avantgarde",
+    "oque": "Mercado precifica política fiscal expansionista e ajusta expectativas para Bolsa, juros e câmbio."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2022",
+    "oque": "Taxas do Tesouro Direto disparam e plataforma sofre múltiplas suspensões."
+   },
+   {
+    "quando": "26/10/2022",
+    "oque": "Tesouro Nacional faz leilão extraordinário de recompra com teto de R$ 15 bilhões."
+   },
+   {
+    "quando": "27/10/2022",
+    "oque": "Tesouro recomprou R$ 16,8 bilhões em NTN-Bs e cancelou leilão de Tesouro Selic."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Tesouro Direto",
+    "significado": "Programa que permite comprar títulos públicos pela internet."
+   },
+   {
+    "termo": "Taxa prefixada",
+    "significado": "Juro fixo conhecido no momento da compra do título."
+   },
+   {
+    "termo": "Tesouro IPCA+",
+    "significado": "Título que paga inflação mais juro real fixo."
+   }
+  ],
+  "pergunta": "Como você reagiria a altas rápidas nas taxas do Tesouro Direto?",
+  "tamanhoTexto": 8528,
+  "numeros": [
+   {
+    "valor": "16%",
+    "rotulo": "Taxa do Tesouro Prefixado na máxima"
+   },
+   {
+    "valor": "8%",
+    "rotulo": "Taxa do Tesouro IPCA+ superando na abertura"
+   },
+   {
+    "valor": "R$ 15 bilhões",
+    "rotulo": "Teto do leilão extraordinário de recompra em 26/10"
+   },
+   {
+    "valor": "R$ 31,6 bilhões",
+    "rotulo": "Total recomprado pelo Tesouro em dois dias"
+   },
+   {
+    "valor": "15,78%",
+    "rotulo": "Taxa do Prefixado 2032 no pior momento da sessão"
+   },
+   {
+    "valor": "R$ 8.894",
+    "rotulo": "Saldo aproximado de R$ 10 mil no Prefixado 2032 após queda"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa do Prefixado 2032",
+    "antes": "cerca de 12,9%",
+    "depois": "15,50%"
+   },
+   {
+    "item": "Taxa do IPCA+ 2032",
+    "antes": "6,7% juro real na última sexta",
+    "depois": "7,80% ao ano"
+   }
+  ],
+  "destaque": "15,78% taxa máxima",
+  "porQueImporta": "A disparada das taxas afeta diretamente o custo dos títulos públicos e o valor das carteiras de investidores em renda fixa. Entender esses movimentos ajuda a lidar com volatilidade e a interpretar expectativas do mercado em uma fase de incerteza política e fiscal.",
+  "impactoMercado": "O aumento dos juros longos pode pressionar negativamente preços de fundos de renda fixa e influenciar a análise de ativos em bolsa, câmbio e juros. A intervenção do Tesouro tenta reduzir a volatilidade, mas a política fiscal e eleições continuam sendo fatores-chave para taxas e investimentos.",
+  "entenda": "As taxas do Tesouro Direto refletem o retorno esperado pelos investidores. Quando essas taxas sobem, significa que os preços dos títulos caem, gerando perdas para quem os detém. Recompras feitas pelo Tesouro buscam extinguir títulos do mercado para conter aumento da taxa e minimizar instabilidade.",
+  "observar": "Acompanhe os próximos resultados da política fiscal do governo e as reuniões do Copom, que podem confirmar ou ajustar a trajetória da Selic, influenciando diretamente as taxas do Tesouro Direto e o mercado financeiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia permite explicar como eventos políticos influenciam taxas de juros e preços dos títulos, mostrando a importância de entender mercado financeiro para decisões informadas na faculdade que forma traders e investidores conscientes.",
+  "gancho": "*Tesouro* e taxas disparadas",
+  "ideias": [
+   "Por que as taxas do Tesouro subiram após a eleição?",
+   "Como a recompra do Tesouro ajuda a conter a volatilidade?",
+   "Impactos das altas do Tesouro Direto na sua carteira de renda fixa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "seta",
+  "fonte": "InvestNews",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:33:46-03:00",
+  "url": "https://investnews.com.br/investimentos/taxas-do-tesouro-direto-disparam-prefixado-vai-a-quase-16-e-ipca-passa-de-8/",
+  "publicadoEm": "2026-10-26T15:05:57-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-27-03"
+ },
+ {
+  "titulo": "Bolsa ensaia alta e dólar cai após medidas do Tesouro em 27/10/2026",
+  "resumo": "Ibovespa sobe 0,29% após forte avanço com reeleição de Lula. Dólar recua a R$ 5,32 com intervenção do Tesouro e queda nos juros futuros.",
+  "fatos": [
+   "O Ibovespa subiu 0,29% em 27/10/2026, chegando a 177.123 pontos.",
+   "No pregão anterior, o índice havia avançado 8,21%.",
+   "O dólar abriu em alta a R$ 5,4029, depois caiu para acima de R$ 5,32.",
+   "O Tesouro cancelou o leilão tradicional de LFT e leilão de recompra de NTN-B.",
+   "A taxa DI janeiro/2027 recuou de 13,696% para 13,685%.",
+   "A taxa DI janeiro/2029 caiu de 15,223% para 15,150%.",
+   "A taxa DI janeiro/2031 caiu de 15,279% para 15,195%.",
+   "A intervenção do Tesouro visou reduzir a disfuncionalidade do mercado.",
+   "O dólar recuou apesar da valorização da moeda americana no exterior.",
+   "A forte reprecificação dos ativos ocorreu pela reeleição de Lula (PT)."
+  ],
+  "explicacao": [
+   "Nesta terça-feira, 27 de outubro de 2026, o Ibovespa, principal índice da bolsa brasileira, registrou alta de 0,29%, alcançando 177.123 pontos, em um movimento de ajuste após o forte aumento de 8,21% no pregão anterior, motivado pela reeleição do presidente Lula.",
+   "O dólar à vista, que subiu para R$ 5,4029 ontem, iniciou o dia com leve alta devido à valorização internacional da moeda, mas recuou para níveis acima de R$ 5,32 durante o pregão, ajudando a pressionar os juros futuros para baixo.",
+   "Para aliviar o mercado, o Tesouro Nacional cancelou leilões tradicionais de títulos LFT e recompra de NTN-B, uma ação para reduzir disfuncionalidades e trazer mais estabilidade. Além disso, as taxas dos contratos de Depósitos Interfinanceiros (DI) para janeiro de 2027, 2029 e 2031 registraram quedas nos ajustes recentes.",
+   "Esse movimento indica uma tentativa do governo e do mercado de normalizar as condições depois da volatilidade gerada pelo 'Lula Day'. Os investidores devem acompanhar as próximas ações do Tesouro e os desdobramentos políticos para mensurar impactos futuros."
+  ],
+  "detalhes": [
+   "Reeleição do presidente Luiz Inácio Lula da Silva em 2026 impactou o mercado financeiro brasileiro.",
+   "Intervenção do Tesouro envolveu o cancelamento de importantes leilões de títulos públicos.",
+   "As taxas de juros futuros monitoradas pelo DI apresentaram queda nos ajustes do dia 27/10.",
+   "Movimento ocorreu após volatilidade provocada pelo chamado 'Lula Day', evento de forte reação no mercado.",
+   "O dólar à vista, após grande alta na véspera, iniciou em alta no dia mas voltou a cair.",
+   "O movimento nos juros futuros reflete expectativa e ajuste diante das medidas do Tesouro.",
+   "A Bolsa tenta recuperação, mas ainda está em modo de ajuste após oscilações recentes."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Ibovespa sobe 8,21% após reeleição de Lula"
+   },
+   {
+    "quando": "27/10/2026",
+    "oque": "Tesouro cancela leilões de LFT e NTN-B para ajustar mercado"
+   },
+   {
+    "quando": "27/10/2026",
+    "oque": "Ibovespa opera em alta de 0,29% e dólar recua pela manhã"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice da bolsa que mede desempenho das ações mais negociadas"
+   },
+   {
+    "termo": "Dólar à vista",
+    "significado": "Cotação do dólar para compra e venda imediata"
+   },
+   {
+    "termo": "Taxa DI",
+    "significado": "Juros futuros prospectados para operações interfinanceiras"
+   }
+  ],
+  "pergunta": "Você acha que o mercado continuará se ajustando de forma estável após as eleições?",
+  "tamanhoTexto": 1631,
+  "numeros": [
+   {
+    "valor": "177.123",
+    "rotulo": "Pontos do Ibovespa em 27/10/2026"
+   },
+   {
+    "valor": "8,21%",
+    "rotulo": "Alta do Ibovespa em 26/10/2026"
+   },
+   {
+    "valor": "5,4029",
+    "rotulo": "Cotação do dólar em 26/10/2026"
+   },
+   {
+    "valor": "5,32",
+    "rotulo": "Cotação do dólar durante 27/10/2026"
+   },
+   {
+    "valor": "13,685%",
+    "rotulo": "Taxa DI para jan/2027 em 27/10/2026"
+   },
+   {
+    "valor": "15,150%",
+    "rotulo": "Taxa DI para jan/2029 em 27/10/2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa DI jan/2027",
+    "antes": "13,696%",
+    "depois": "13,685%"
+   },
+   {
+    "item": "Taxa DI jan/2029",
+    "antes": "15,223%",
+    "depois": "15,150%"
+   },
+   {
+    "item": "Taxa DI jan/2031",
+    "antes": "15,279%",
+    "depois": "15,195%"
+   }
+  ],
+  "destaque": "Ibovespa +0,29% e",
+  "porQueImporta": "Essa recuperação e estabilização indicam que o mercado está reagindo às medidas do Tesouro para conter a volatilidade causada pela reeleição de Lula, favorecendo um cenário menos tenso para juros e câmbio. Entender esses ajustes ajuda investidores a acompanhar o ambiente econômico pós-eleitoral.",
+  "impactoMercado": "Com a queda dos juros futuros e a estabilização do dólar, o ambiente financeiro tende a ficar menos volátil. Setores sensíveis ao crédito e câmbio, como indústria e consumo, podem responder às mudanças, enquanto investidores monitoram a atuação do governo no Tesouro para possíveis novos ajustes.",
+  "entenda": "O Ibovespa é o principal indicador da bolsa brasileira, que mostra a média das ações mais negociadas. O dólar à vista é a moeda americana usada para operações imediatas. Juros futuros, como os contratos DI, indicam expectativa do mercado sobre a taxa básica de juros em datas futuras. O Tesouro faz leilões para administrar dívida e liquidez no mercado.",
+  "observar": "Fique atento às próximas decisões do Tesouro sobre leilões e a divulgação de dados econômicos que podem impactar os juros e o câmbio, especialmente após os ajustes causados pelo ciclo eleitoral.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia traz conteúdo prático sobre como eventos políticos, como eleições, afetam bolsa, dólar e juros, mostrando a importância de entender as reações do mercado e as ações do Tesouro para quem quer operar ou estudar mercado financeiro.",
+  "gancho": "*Lula Day* e Ajustes no Mercado",
+  "ideias": [
+   "Como a reeleição de Lula impactou bolsa e dólar",
+   "Entenda a intervenção do Tesouro nos juros futuros",
+   "O que significa o reajuste no Ibovespa e dólar pós-eleições"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:33:46-03:00",
+  "url": "https://timesbrasil.com.br/brasil/indicadores/apos-desespero-do-lula-day-bolsa-e-dolar-operam-em-modo-de-ajuste/",
+  "publicadoEm": "2026-10-27T11:52:01-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-04"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "fed-decision-in-october-20260617190323537",
+  "titulo": "Mercado de previsões vê 94.3% de chance de nenhuma mudança na taxa do Fed em outubro.",
+  "resumo": "A maior parte dos apostadores acredita que o Fed não fará alterações nesta reunião.",
+  "probs": [
+   {
+    "opcao": "Nenhuma mudança",
+    "prob": 94.3
+   },
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 5.5
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
+    "prob": 0.4
+   },
+   {
+    "opcao": "Redução de 50+ bps",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2026-10-29",
+  "volume24h": "US$ 6,6 mi",
+  "fatos": [
+   "Nenhuma mudança: 94,3%",
+   "Aumento de 25 bps: 5,5%",
+   "Aumento de 50+ bps: 0,4%",
+   "Redução de 50+ bps: 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "94,3%",
+    "rotulo": "Nenhuma mudança"
+   },
+   {
+    "valor": "5,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 50+ bps"
+   }
+  ],
+  "destaque": "94,3%",
+  "gancho": "*Expectativas* sobre juros nos EUA",
+  "entenda": "O Federal Reserve (Fed) é o banco central dos EUA e suas decisões de taxa de juros impactam a economia e os mercados financeiros.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+  "publicadoEm": "2026-10-27T12:33:46-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-27T12:33:46-03:00",
+  "data": "2026-10-27",
+  "status": "nova",
+  "id": "2026-10-27-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-in-october-2026",
+  "titulo": "Mercado de previsões vê 45.5% de chance de Bitcoin subir para $82,500 em outubro.",
+  "resumo": "Os apostadores especulam principalmente sobre uma valorização do Bitcoin nos próximos meses.",
+  "probs": [
+   {
+    "opcao": "↑ 82,500",
+    "prob": 45.5
+   },
+   {
+    "opcao": "↓ 77,500",
+    "prob": 27.5
+   },
+   {
+    "opcao": "↑ 85,000",
+    "prob": 11.5
+   },
+   {
+    "opcao": "↓ 75,000",
+    "prob": 8.5
+   }
+  ],
+  "prazo": "2026-11-01",
+  "volume24h": "US$ 743 mil",
+  "fatos": [
+   "↑ 82,500: 45,5%",
+   "↓ 77,500: 27,5%",
+   "↑ 85,000: 11,5%",
+   "↓ 75,000: 8,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "45,5%",
+    "rotulo": "↑ 82,500"
+   },
+   {
+    "valor": "27,5%",
+    "rotulo": "↓ 77,500"
+   },
+   {
+    "valor": "11,5%",
+    "rotulo": "↑ 85,000"
+   },
+   {
+    "valor": "8,5%",
+    "rotulo": "↓ 75,000"
+   }
+  ],
+  "destaque": "45,5%",
+  "gancho": "*Especulações* sobre o preço do Bitcoin",
+  "entenda": "O preço do Bitcoin pode ser influenciado por vários fatores, incluindo regulamentações e tendências de mercado. Isso reflete a confiança dos investidores na criptomoeda.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
+  "publicadoEm": "2026-10-27T12:33:46-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-27T12:33:46-03:00",
+  "data": "2026-10-27",
+  "status": "nova",
+  "id": "2026-10-27-p3"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "largest-company-end-of-october-2026",
+  "titulo": "Mercado de previsões vê 88.1% de chance de que a NVIDIA seja a maior empresa em outubro de",
+  "resumo": "Os apostadores têm grande confiança de que a NVIDIA se destacará entre as empresas.",
+  "probs": [
+   {
+    "opcao": "NVIDIA",
+    "prob": 88.1
+   },
+   {
+    "opcao": "Empresa F",
+    "prob": 50.0
+   },
+   {
+    "opcao": "Empresa G",
+    "prob": 50.0
+   },
+   {
+    "opcao": "Empresa H",
+    "prob": 50.0
+   }
+  ],
+  "prazo": "2026-11-01",
+  "volume24h": "US$ 50 mil",
+  "fatos": [
+   "NVIDIA: 88,1%",
+   "Empresa F: 50,0%",
+   "Empresa G: 50,0%",
+   "Empresa H: 50,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "88,1%",
+    "rotulo": "NVIDIA"
+   },
+   {
+    "valor": "50,0%",
+    "rotulo": "Empresa F"
+   },
+   {
+    "valor": "50,0%",
+    "rotulo": "Empresa G"
+   },
+   {
+    "valor": "50,0%",
+    "rotulo": "Empresa H"
+   }
+  ],
+  "destaque": "88,1%",
+  "gancho": "*Competição* entre grandes empresas",
+  "entenda": "O mercado financeiro e a tecnologia têm um impacto profundo nas avaliações das empresas, especialmente em setores de crescimento como o de tecnologia.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/largest-company-end-of-october-2026",
+  "publicadoEm": "2026-10-27T12:33:46-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-27T12:33:46-03:00",
+  "data": "2026-10-27",
+  "status": "nova",
+  "id": "2026-10-27-p4"
+ },
+ {
   "titulo": "iPhone dobrável da Apple apresenta tela rachada após pouco uso",
   "resumo": "Usuários do iPhone Duo relatam rachaduras, estalos e falhas após horas de uso. Apple reconhece problema em número reduzido de aparelhos e oferece substituição.",
   "fatos": [
