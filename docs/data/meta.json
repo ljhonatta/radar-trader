@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-26T21:49:02-03:00",
-  "novas": 6,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-10-27T05:44:08-03:00",
+  "novas": 3,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 nova(s) e 2 atualizada(s): Ibovespa despenca e dólar dispara; Meta Fiscal e Orçamento em foco; Morgan Stanley reavalia ações brasileiras.",
+  "mensagem": "3 nova(s): Apple e seu desafio com o iPhone dobrável; Simples e reforma tributária: escolha urgente.",
   "falhas": [],
-  "manual": false,
+  "manual": true,
   "historico": [
+   "2026-10-27T05:44:08-03:00",
    "2026-10-26T21:49:02-03:00",
    "2026-10-26T17:45:39-03:00",
    "2026-10-26T13:19:21-03:00",
@@ -18,12 +19,11 @@
    "2026-10-26T09:01:19-03:00",
    "2026-10-26T08:58:32-03:00",
    "2026-10-25T22:23:08-03:00",
-   "2026-10-25T22:20:40-03:00",
-   "2026-10-25T20:32:33-03:00"
+   "2026-10-25T22:20:40-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 9
+  "textosCompletos": 6
  },
  "placar": {
   "itens": [
@@ -36,20 +36,20 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,37",
-    "var": ""
+    "v": "R$ 5,42",
+    "var": "+0,77%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,00",
-    "var": "-0,06%"
+    "v": "R$ 5,99",
+    "var": "-0,20%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,2 mil",
-    "var": "+0,30%"
+    "v": "US$ 79,6 mil",
+    "var": "-0,73%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 115,05",
-    "var": "-0,66%"
+    "v": "US$ 116,30",
+    "var": "+0,42%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.023,40",
-    "var": "-0,37%"
+    "v": "US$ 4.008,90",
+    "var": "-0,73%"
    },
    {
     "k": "SELIC",
@@ -88,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "seg 21h",
-  "data": "2026-10-26",
-  "atualizadoEm": "2026-10-26T21:49:02-03:00",
+  "obs": "Último fechamento",
+  "hora": "ter 5h",
+  "data": "2026-10-27",
+  "atualizadoEm": "2026-10-27T05:44:08-03:00",
   "ibov": "176.608",
   "ibovVar": "-13,88%",
-  "dolar": "R$ 5,37",
-  "dolarVar": "",
-  "btc": "US$ 80,2 mil"
+  "dolar": "R$ 5,42",
+  "dolarVar": "+0,77%",
+  "btc": "US$ 79,6 mil"
  }
 }

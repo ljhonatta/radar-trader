@@ -1,5 +1,332 @@
 [
  {
+  "titulo": "iPhone dobrável da Apple apresenta tela rachada após pouco uso",
+  "resumo": "Usuários do iPhone Duo relatam rachaduras, estalos e falhas após horas de uso. Apple reconhece problema em número reduzido de aparelhos e oferece substituição.",
+  "fatos": [
+   "O iPhone Duo chegou às lojas na sexta-feira.",
+   "Usuários ouviram estalos e notaram a tela interna rachada após poucas horas ou dias.",
+   "Apple reconheceu o defeito em um número pequeno de aparelhos.",
+   "Preço inicial do aparelho é de US$ 1.999.",
+   "Relatos começaram a surgir em redes sociais como Reddit.",
+   "iFixit indicou que possível causa está na dobradiça, não na tela.",
+   "Clientes relataram dificuldade em abrir o aparelho e saliência sob a tela.",
+   "Alguns usuários tiveram que esperar por substituição devido à falta de aparelhos em estoque.",
+   "Apple não deu ainda orientações oficiais para o suporte sobre o problema.",
+   "Apple já enfrentou problemas com iPhones novos em 2010 e 2014."
+  ],
+  "explicacao": [
+   "A Apple lançou recentemente o iPhone Duo, seu primeiro celular com tela dobrável, que começou a apresentar relatos de problemas após apenas algumas horas ou dias de uso. Usuários reportaram estalos ao abrir o aparelho e rachaduras na tela interna, além de manchas brancas e falhas no toque.",
+   "O problema foi confirmado por clientes e pela Bloomberg, que obteve fotos e registros de atendimento. A Apple admitiu a existência do defeito em um número pequeno dos aparelhos e orientou os consumidores a procurarem o AppleCare para trocar o dispositivo defeituoso.",
+   "Especialistas apontam que a falha pode estar relacionada a uma peça da dobradiça e não diretamente ao painel da tela. Esse revés surge após mais de uma década de desenvolvimento e foi um choque para a Apple, que enfatizou a durabilidade do aparelho.",
+   "A empresa segue investigando e aconselha os usuários a reportarem os problemas. A substituição dos aparelhos depende da disponibilidade em lojas e suporte, processo que já está em curso, mas enfrenta desafios logísticos."
+  ],
+  "detalhes": [
+   "O problema ocorre na tela interna, perto da dobra central.",
+   "Os relatos vieram de clientes em diversos países, como EUA e Índia.",
+   "Algumas lojas da Apple não tinham unidades de substituição em estoque.",
+   "Apple pediu para clientes contatarem AppleCare para solicitar troca.",
+   "A tela externa do iPhone Duo não foi afetada.",
+   "Usuários sentiram resistência ou travamento ao abrir o aparelho antes da falha.",
+   "A falha aconteceu apesar dos esforços da Apple para disfarçar a dobra da tela."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Apple, empresa sediada em Cupertino",
+    "oque": "Reconheceu o problema e orientou usuários a procurar AppleCare para substituição."
+   },
+   {
+    "quem": "Tom Battle, cliente da Apple em San Diego",
+    "oque": "Relatou estalo e sensação de peça solta sob a tela antes do surgimento da rachadura."
+   },
+   {
+    "quem": "Jonathan King, investidor de capital de risco",
+    "oque": "Disse que a tela interna ficou inutilizável e relatou falhas no toque."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "sexta-feira",
+    "oque": "iPhone Duo foi lançado nas lojas."
+   },
+   {
+    "quando": "a partir de poucos dias após",
+    "oque": "Começaram a surgir relatos de tela rachada e estalos."
+   },
+   {
+    "quando": "segunda-feira",
+    "oque": "Apple orientou clientes a procurarem suporte para substituição."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Tela dobrável",
+    "significado": "Tela que pode ser dobrada para abrir um dispositivo maior."
+   },
+   {
+    "termo": "AppleCare",
+    "significado": "Serviço de suporte e garantia oficial da Apple."
+   },
+   {
+    "termo": "Dobradiça",
+    "significado": "Peça que permite abrir e fechar o aparelho dobrável."
+   }
+  ],
+  "pergunta": "Você considera arriscado comprar um celular dobrável agora?",
+  "tamanhoTexto": 9567,
+  "numeros": [
+   {
+    "valor": "US$ 1.999",
+    "rotulo": "Preço inicial do iPhone Duo"
+   },
+   {
+    "valor": "mais de meia dúzia",
+    "rotulo": "Número de clientes consultados pela Bloomberg confirmando o problema"
+   },
+   {
+    "valor": "2024",
+    "rotulo": "Ano do lançamento do iPhone Duo"
+   },
+   {
+    "valor": "uma década",
+    "rotulo": "Tempo de desenvolvimento do dispositivo dobrável"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Tela rachada após",
+  "porQueImporta": "Esse problema afeta um produto novo e caro da Apple, impactando a confiança do consumidor. Para quem opera no mercado financeiro, questões envolvendo a confiabilidade de lançamentos importantes podem influenciar o desempenho das ações da empresa, evidenciando riscos associados à inovação tecnológica.",
+  "impactoMercado": "O defeito no iPhone Duo pode gerar custos adicionais para a Apple com trocas e suporte, além de afetar a reputação do produto. Investidores acompanham como a empresa gerencia essa crise, o que pode refletir na volatilidade de setores relacionados a tecnologia e inovação em eletrônicos.",
+  "entenda": "O iPhone Duo é o primeiro celular dobrável da Apple, que possui uma tela interna que se abre como um livro. Problemas na dobradiça podem causar danos à tela, como rachaduras e falhas no toque. Esse tipo de aparelho exige engenharia avançada e pode apresentar desafios inéditos de fabricação.",
+  "observar": "É importante acompanhar as atualizações da Apple sobre as causas oficiais do problema e os procedimentos para a troca de aparelhos, especialmente com o lançamento recente. A resposta da empresa ao lidar com os clientes pode afetar a confiança no produto e impacto no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia mostra os desafios de inovação tecnológica e qualidade na indústria de smartphones. Explicar os detalhes técnicos e a logística da resposta ajuda o público a entender riscos e impactos para a ação da Apple, conectando com educação sobre",
+  "gancho": "*Apple* e seu desafio com o *iPhone dobrável*",
+  "ideias": [
+   "Problemas do iPhone dobrável: entenda o que ocorre",
+   "Por que o iPhone Duo está com defeito na tela interna?",
+   "Apple e o lançamento arriscado do iPhone dobrável"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "cadeado",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T05:44:08-03:00",
+  "url": "https://investnews.com.br/negocios/iphone-dobravel-da-apple-tem-relatos-de-tela-rachada-apos-horas-de-uso/",
+  "publicadoEm": "2026-10-26T16:53:17-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-27-01"
+ },
+ {
+  "titulo": "Prazo para empresas escolherem regime do Simples termina nesta sexta",
+  "resumo": "Micro e pequenas empresas têm até 30 de outubro para optar pelo regime tributário que valerá em 2027, na reforma do Simples Nacional. Quem não escolher seguirá no regime simplificado com alíquotas variáveis.",
+  "fatos": [
+   "Prazo final para opção pelo regime tributário é 30 de outubro de 2026, sexta-feira.",
+   "Simples Nacional é para empresas com faturamento até R$ 4,8 milhões por ano.",
+   "Quem não escolher o regime regular continuará no regime simplificado do Simples.",
+   "Prazo para desistir da escolha vai de 3 de novembro a 20 de dezembro de 2026.",
+   "Regularização de pendências para opção pelo Simples também termina em 30 de outubro.",
+   "O recolhimento do IBS e CBS pode ser feito pelo regime regular mesmo para quem está no Simples.",
+   "Nova opção pelo regime regular pode ser feita entre 1º e 31 de março de 2027 para o segundo semestre.",
+   "Prazo para opção do Simples para 2027 vai de 1º de setembro a 15 de outubro de 2026.",
+   "Obrigatoriedade da Nota Fiscal de Serviço eletrônica no emissor nacional foi adiada para 1º de novembro de 2026."
+  ],
+  "explicacao": [
+   "Nesta sexta-feira (30), termina o prazo para que micro e pequenas empresas façam a escolha do regime tributário para 2027, junto à reforma do Simples Nacional que altera regras fiscais a partir de janeiro. Empresas podem optar pelo regime regular do IBS e CBS ou permanecer no Simples simplificado.",
+   "O Comitê Gestor do Simples Nacional antecipou este prazo para dar mais previsibilidade às empresas antes do início do novo ano-calendário. O Simples Nacional é para negócios com faturamento até R$ 4,8 milhões ao ano, e a nova regra permite escolher o recolhimento dos tributos IBS e CBS pelo regime regular, mesmo no Simples.",
+   "Quem não fizer a opção até o dia 30 seguirá recolhendo IBS e CBS pelo regime simplificado, que tem alíquotas variáveis conforme setor e porte. As empresas ainda poderão desistir da escolha entre 3 de novembro e 20 de dezembro de 2026. A escolha tem impacto especialmente para negócios B2B por causa de créditos tributários.",
+   "Além disso, as empresas precisam regularizar pendências fiscais hoje para poder aderir ao Simples em 2027. Outras datas importantes incluem a possibilidade de nova opção pelo regime regular do IBS e CBS de 1º a 31 de março de 2027, com efeitos no segundo semestre daquele ano."
+  ],
+  "detalhes": [
+   "O Comitê Gestor do Simples Nacional (CGSN) antecipou o prazo tradicionalmente em janeiro para setembro/outubro de 2026 devido à reforma tributária.",
+   "Empresas têm alíquotas variáveis no regime simplificado, que reúnem diversos tributos em um único recolhimento.",
+   "Empresas abertas entre outubro e dezembro de 2026 possuem regras específicas para a opção automática do Simples e IBS/CBS.",
+   "Empresas no Simples e que não optarem pelo regime regular continuarão recolhendo IBS e CBS pelo sistema simplificado.",
+   "O cancelamento da opção feita até 15 de outubro pode ser feito até 30 de novembro de 2026, mas será irretratável.",
+   "Alteração inclui a incorporação da Declaração de Informações Socioeconômicas e Fiscais (Defis) ao programa PGDAS-D.",
+   "Adiado o prazo para obrigatoriedade da NFS-e em emissor nacional, para facilitar adaptações tecnológicas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Comitê Gestor do Simples Nacional (CGSN)",
+    "oque": "Anticipou a escolha do regime para garantir previsibilidade às empresas para 2027"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "30 de outubro de 2026",
+    "oque": "Prazo final para escolha do regime tributário e regularização de pendências"
+   },
+   {
+    "quando": "3 de novembro a 20 de",
+    "oque": "Prazo para desistir das opções feitas para 2027"
+   },
+   {
+    "quando": "1º de janeiro de 2027",
+    "oque": "Início da aplicação da escolha feita"
+   },
+   {
+    "quando": "1º a 31 de março de",
+    "oque": "Nova janela para escolha do regime regular para o segundo semestre"
+   },
+   {
+    "quando": "1º de novembro de 2026",
+    "oque": "Nova data para obrigatoriedade da NFS-e em emissor nacional"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Simples Nacional",
+    "significado": "Regime tributário simplificado para pequenas empresas com impostos unificados"
+   },
+   {
+    "termo": "IBS",
+    "significado": "Imposto sobre Bens e Serviços criado pela reforma tributária"
+   },
+   {
+    "termo": "CBS",
+    "significado": "Contribuição sobre Bens e Serviços criada pela reforma tributária"
+   }
+  ],
+  "pergunta": "Sua empresa já decidiu qual regime tributário escolher para 2027?",
+  "tamanhoTexto": 7105,
+  "numeros": [
+   {
+    "valor": "30 de outubro de 2026",
+    "rotulo": "Prazo final para escolha do regime tributário"
+   },
+   {
+    "valor": "R$ 4,8 milhões",
+    "rotulo": "Limite de faturamento para enquadramento no Simples Nacional"
+   },
+   {
+    "valor": "3 de novembro a 20 de dezembro de 2026",
+    "rotulo": "Prazo para desistência das opções"
+   },
+   {
+    "valor": "1º de janeiro de 2027",
+    "rotulo": "Início da vigência do regime escolhido"
+   },
+   {
+    "valor": "1º a 31 de março de 2027",
+    "rotulo": "Período para nova escolha do regime para o segundo semestre"
+   },
+   {
+    "valor": "1º de novembro de 2026",
+    "rotulo": "Data de obrigatoriedade da NFS-e em emissor nacional (adiada)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "30 de outubro",
+  "porQueImporta": "A escolha do regime tributário afeta diretamente o quanto e como as micro e pequenas empresas recolhem impostos, influenciando o fluxo financeiro e o custo tributário. Entender esses prazos e opções ajuda o empresário a planejar melhor o 2027 e evitar surpresas fiscais.",
+  "impactoMercado": "A decisão entre regime simplificado e regular pode afetar setores, especialmente negócios B2B, por causa de créditos tributários. Empresas que vendem para outras devem avaliar os regimes, o que pode influenciar o desempenho de seus fornecedores e planejamento financeiro.",
+  "entenda": "O Simples Nacional é um regime simplificado que unifica vários impostos para micro e pequenas empresas com faturamento até R$ 4,8 milhões. IBS e CBS são novos tributos sobre consumo criados pela reforma tributária. Empresas podem escolher pagá-los no Simples ou no regime regular, o que impacta a tributação e finanças.",
+  "observar": "Acompanhe o prazo final de 30 de outubro para escolha do regime, a janela de desistência entre novembro e dezembro, e as novas datas para opções em março de 2027, além das atualizações na NFS-e. Empresas devem planejar e simular os cenários tributários para 2027.",
+  "publico": [
+   "Empresários",
+   "Iniciantes",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Explicar a importância da escolha do regime tributário e a antecipação do prazo com a reforma do Simples Nacional ajuda empresários e interessados a entenderem o impacto fiscal e financeiro, mostrando a necessidade de planejamento e análise para o próximo",
+  "gancho": "*Simples* e *reforma tributária*: escolha urgente",
+  "ideias": [
+   "Entenda o prazo para escolher o regime do Simples em 2027",
+   "Simples Nacional: o que muda com a reforma tributária?",
+   "IBS e CBS: como decidir o melhor recolhimento para sua empresa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "cadeado",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T05:44:08-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/prazo-para-empresas-escolherem-modelo-do-simples-acaba-nesta-sexta",
+  "publicadoEm": "2026-10-26T15:22:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-27-02"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bitcoin-above-on-october-28-2026",
+  "titulo": "Mercado de previsões vê 99.1% de chance de Bitcoin acima de *74,000* em 28 de outubro de 2026",
+  "resumo": "Os apostadores mostram forte confiança no valor do Bitcoin subindo acima deste patamar nesta data específica.",
+  "probs": [
+   {
+    "opcao": "74,000",
+    "prob": 99.1
+   },
+   {
+    "opcao": "76,000",
+    "prob": 97.8
+   },
+   {
+    "opcao": "78,000",
+    "prob": 85.2
+   },
+   {
+    "opcao": "80,000",
+    "prob": 43.5
+   }
+  ],
+  "prazo": "2026-10-28",
+  "volume24h": "US$ 82 mil",
+  "fatos": [
+   "74,000: 99,1%",
+   "76,000: 97,8%",
+   "78,000: 85,2%",
+   "80,000: 43,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "99,1%",
+    "rotulo": "74,000"
+   },
+   {
+    "valor": "97,8%",
+    "rotulo": "76,000"
+   },
+   {
+    "valor": "85,2%",
+    "rotulo": "78,000"
+   },
+   {
+    "valor": "43,5%",
+    "rotulo": "80,000"
+   }
+  ],
+  "destaque": "99,1%",
+  "gancho": "*Bitcoin em ascensão* previsto",
+  "entenda": "O preço do Bitcoin varia bastante, afetado por resistência do mercado, adoção de criptomoedas e mudanças na regulamentação.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bitcoin-above-on-october-28-2026",
+  "publicadoEm": "2026-10-27T05:44:08-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-27T05:44:08-03:00",
+  "data": "2026-10-27",
+  "status": "nova",
+  "id": "2026-10-27-p1"
+ },
+ {
   "titulo": "Ibovespa cai 13,88% e dólar salta após reeleição de Lula",
   "resumo": "No pregão pós-eleição de 2026, Ibovespa despencou 13,88% encerrando em 176.608,23 pontos. Dólar disparou 8,21%, fechando a R$ 5,40, marcando maior alta percentual diária desde 1999.",
   "fatos": [
@@ -13616,71 +13943,6 @@
   "id": "2026-10-25-10"
  },
  {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-on-october-25-2026",
-  "titulo": "Mercado de previsões vê 67.0% de chance de Bitcoin abaixo de $80,000 em 25 de outubro",
-  "resumo": "Apostadores acreditam que o preço do Bitcoin tende a recuar nas datas próximas.",
-  "probs": [
-   {
-    "opcao": "↓ 80,000",
-    "prob": 67.0
-   },
-   {
-    "opcao": "↑ 81,000",
-    "prob": 56.5
-   },
-   {
-    "opcao": "↓ 79,000",
-    "prob": 19.0
-   },
-   {
-    "opcao": "↑ 82,000",
-    "prob": 13.5
-   }
-  ],
-  "prazo": "2026-10-26",
-  "volume24h": "US$ 96 mil",
-  "fatos": [
-   "↓ 80,000: 67,0%",
-   "↑ 81,000: 56,5%",
-   "↓ 79,000: 19,0%",
-   "↑ 82,000: 13,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "67,0%",
-    "rotulo": "↓ 80,000"
-   },
-   {
-    "valor": "56,5%",
-    "rotulo": "↑ 81,000"
-   },
-   {
-    "valor": "19,0%",
-    "rotulo": "↓ 79,000"
-   },
-   {
-    "valor": "13,5%",
-    "rotulo": "↑ 82,000"
-   }
-  ],
-  "destaque": "67,0%",
-  "gancho": "*Queda* esperada no preço do Bitcoin",
-  "entenda": "As flutuações de preço do Bitcoin são influenciadas por fatores como oferta, demanda e sentimento do mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-october-25-2026",
-  "publicadoEm": "2026-10-25T10:55:57-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-25T10:55:57-03:00",
-  "data": "2026-10-25",
-  "status": "nova",
-  "id": "2026-10-25-p1"
- },
- {
   "titulo": "Pesquisa mostra disputa acirrada entre Flávio e Lula",
   "resumo": "Flávio Bolsonaro tem 49,9% dos votos totais e Lula, 48,4%. A diferença é de apenas 1,6 ponto percentual, com Lula mostrando leve recuperação na reta final.",
   "fatos": [
@@ -16381,71 +16643,6 @@
   "publicadoEm": "2026-10-23T23:00:00-03:00",
   "data": "2026-10-23",
   "id": "2026-10-24-06"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-october-19-25-2026",
-  "titulo": "Mercado de previsões vê 52.5% de chance de Bitcoin *abaixo de 80.000* em outubro",
-  "resumo": "Os apostadores indicam uma probabilidade maior para um preço do Bitcoin abaixo de 80 mil dólares durante o período mencionado.",
-  "probs": [
-   {
-    "opcao": "↓ 80,000",
-    "prob": 52.5
-   },
-   {
-    "opcao": "↑ 82,000",
-    "prob": 21.0
-   },
-   {
-    "opcao": "↓ 78,000",
-    "prob": 6.9
-   },
-   {
-    "opcao": "↑ 84,000",
-    "prob": 2.1
-   }
-  ],
-  "prazo": "2026-10-26",
-  "volume24h": "US$ 385 mil",
-  "fatos": [
-   "↓ 80,000: 52,5%",
-   "↑ 82,000: 21,0%",
-   "↓ 78,000: 6,9%",
-   "↑ 84,000: 2,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "52,5%",
-    "rotulo": "↓ 80,000"
-   },
-   {
-    "valor": "21,0%",
-    "rotulo": "↑ 82,000"
-   },
-   {
-    "valor": "6,9%",
-    "rotulo": "↓ 78,000"
-   },
-   {
-    "valor": "2,1%",
-    "rotulo": "↑ 84,000"
-   }
-  ],
-  "destaque": "52,5%",
-  "gancho": "*Previsões* para o Bitcoin?",
-  "entenda": "As flutuações do preço do Bitcoin são afetadas por vários fatores, incluindo o sentimento do mercado e decisões de investidores.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-october-19-25-2026",
-  "publicadoEm": "2026-10-24T10:36:56-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-24T10:36:56-03:00",
-  "data": "2026-10-24",
-  "status": "nova",
-  "id": "2026-10-24-p1"
  },
  {
   "titulo": "Banco Central aprova novas regras de crédito em 2027",
@@ -26798,30 +26995,6 @@
   "id": "2026-10-20-p4"
  },
  {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+7%",
-  "fatos": [
-   "A recuperação judicial começou em janeiro de 2023, após a revelação de fraude contábil.",
-   "O plano foi aprovado por 91% dos credores.",
-   "A decisão vale também para B2W Digital Lux, JSM Global e ST Importações.",
-   "No 1º semestre de 2026, as vendas em mesmas lojas subiram 9,3%.",
-   "As ações fecharam a segunda em alta de quase 7%, a R$ 5,97."
-  ],
-  "fonte": "Exame; BP Money",
-  "gancho": "*Americanas* sai da *recuperação judicial*",
-  "icone": "escudo",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-19T21:01:00-03:00",
-  "resumo": "Tribunal do Rio reconheceu que a varejista cumpriu as obrigações dos dois primeiros anos do plano; a decisão ainda cabe recurso.",
-  "status": "nova",
-  "titulo": "Justiça encerra recuperação judicial da Americanas após mais de três anos",
-  "url": "https://exame.com/invest/mercados/justica-encerra-recuperacao-judicial-da-americanas-apos-tres-anos/",
-  "id": "2026-10-20-01"
- },
- {
   "categoria": "Previsões",
   "coletadoEm": "2026-10-20T06:58:00-03:00",
   "data": "2026-10-20",
@@ -26867,30 +27040,6 @@
   "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
   "volume24h": "US$ 27 mil",
   "id": "2026-10-20-p1"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "US$ 45 bi",
-  "fatos": [
-   "O novo prédio teria 460 MW de capacidade com chips Vera Rubin, da Nvidia.",
-   "Contratos atuais entre as duas somam cerca de US$ 44,6 bilhões.",
-   "A Microsoft havia assinado carta de intenção em março, mas desistiu.",
-   "A Nscale prepara IPO nos EUA mirando valor perto de US$ 30 bilhões.",
-   "O acordo pode sair em dias, mas os termos ainda podem mudar."
-  ],
-  "fonte": "BP Money",
-  "gancho": "*Corrida da IA* por *data centers*",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-19T19:44:00-03:00",
-  "resumo": "Acordo daria à Anthropic capacidade em novo prédio de data center na Virgínia Ocidental, segundo fontes; empresas não comentaram.",
-  "status": "nova",
-  "titulo": "Anthropic negocia contrato de até US$ 45 bilhões com a Nscale",
-  "url": "https://bpmoney.com.br/inovacao/inteligencia-artificial/anthropic-negocia-contrato-us-45-bilhoes-nscale-data-center/",
-  "id": "2026-10-20-07"
  },
  {
   "categoria": "Agenda",
@@ -27035,895 +27184,5 @@
   "titulo": "Brent sobe a US$ 110,50 e fica perto da máxima em cinco meses",
   "url": "https://www.moneytimes.com.br/brent-se-mantem-proximo-da-maxima-em-cinco-meses-em-meio-as-tensoes-no-oriente-medio-fets/",
   "id": "2026-10-20-03"
- },
- {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-4,37%",
-  "fatos": [
-   "MBRF caiu 4,37% na B3, a maior queda do dia; BDRs da JBS recuaram cerca de 1%.",
-   "A granja tem cerca de 6 mil aves, que estão sendo sacrificadas.",
-   "De janeiro a setembro, a China importou 420 mil toneladas de frango brasileiro.",
-   "Vigilância cobre 133 granjas em quatro municípios por 42 dias.",
-   "JPMorgan espera impacto limitado e temporário, como em 2024."
-  ],
-  "fonte": "Exame; BP Money",
-  "gancho": "*Frango* brasileiro na *mira da China*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-19T18:24:00-03:00",
-  "resumo": "Ministério da Agricultura confirmou o vírus em granja de perus em Nova Itaberaba; acordo sanitário prevê suspensão das vendas de frango à China.",
-  "status": "nova",
-  "titulo": "Caso de doença de Newcastle em SC derruba MBRF e ameaça frango para China",
-  "url": "https://exame.com/agro/brasil-deve-suspender-exportacoes-de-frango-a-china-apos-doenca-de-newcastle-em-sc/",
-  "id": "2026-10-20-02"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T18:50:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "R$ 5,95 bi",
-  "fatos": [
-   "Suzano: Ebitda ajustado previsto de R$ 5,95 bilhões, alta de 26% sobre o 2T26, puxado pela consolidação da Arbex.",
-   "Klabin: Ebitda previsto de R$ 1,86 bilhão, contra consenso de R$ 2,07 bilhões.",
-   "Celulose mais barata, custos maiores e parada de manutenção pesam sobre a Klabin.",
-   "O Safra mantém compra para ambas, com preços-alvo de R$ 59 (SUZB3) e R$ 21,40 (KLBN11).",
-   "Klabin divulga em 28 de outubro; Suzano, em 5 de novembro."
-  ],
-  "fonte": "Money Times, Suno Notícias",
-  "gancho": "*Suzano* x *Klabin* no 3T26",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-19T11:55:00-03:00",
-  "resumo": "Prévia do Safra projeta Ebitda de R$ 5,95 bilhões para a Suzano, 3% acima do esperado, e de R$ 1,86 bilhão para a Klabin, 10% abaixo.",
-  "status": "nova",
-  "titulo": "Safra vê Suzano acima do consenso no 3T26 e Klabin abaixo",
-  "url": "https://www.moneytimes.com.br/suzano-suzb3-deve-superar-consenso-no-3t26-enquanto-klabin-klbn11-fica-abaixo-das-projecoes-do-safra/",
-  "id": "2026-10-19-28"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T18:50:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+23%",
-  "fatos": [
-   "Preço-alvo de R$ 20,70 para a ação e US$ 8,10 para o ADR, ambos com cerca de 23% de alta potencial.",
-   "A Azul saiu do Chapter 11 nos EUA em fevereiro de 2026.",
-   "O Goldman espera alavancagem de cerca de 3,1 vezes dívida/Ebitda em 2027, ante mais de 5 vezes em 2025.",
-   "Alta de 10% no combustível mexe cerca de 10% no Ebitda; desvalorização de 10% do real corta cerca de 7%.",
-   "A ação fechou o dia em queda de 0,48%."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "*Azul* no radar do *Goldman*",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-19T12:34:00-03:00",
-  "resumo": "O banco vê potencial de alta de 23% para AZUL3, mas prefere Copa e Latam, menos alavancadas.",
-  "status": "nova",
-  "titulo": "Goldman inicia cobertura de Azul com recomendação neutra e alvo de R$ 20,70",
-  "url": "https://www.infomoney.com.br/mercados/azul3-goldman-inicia-cobertura-de-azul-com-potencial-de-alta-de-23-mas-visao-neutra/",
-  "id": "2026-10-19-29"
- },
- {
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-19T18:50:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+12%",
-  "fatos": [
-   "As ações de varejo subiram cerca de 12% nas duas semanas após o primeiro turno, nas contas do BTG.",
-   "Magazine Luiza avançou cerca de 58% no período.",
-   "O custo de capital do setor caiu de 100 a 150 pontos-base; cada 100 pb equivalem a cerca de 14% no preço.",
-   "Para seguir subindo, o setor precisa de resultados melhores e revisões de lucro para cima.",
-   "Smart Fit e Raia Drogasil são vistas como mais preparadas para consumo fraco prolongado."
-  ],
-  "fonte": "NeoFeed",
-  "gancho": "*Varejo* precisa provar *lucro*",
-  "icone": "foguete",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-19T14:07:00-03:00",
-  "resumo": "Segundo o BTG, a alta das varejistas veio quase toda da expansão de múltiplos com a queda do custo de capital, não de lucros maiores.",
-  "status": "nova",
-  "titulo": "Varejo sobe 12% em duas semanas e agora precisa entregar lucro, diz BTG",
-  "url": "https://neofeed.com.br/negocios/apos-rali-de-12-varejo-precisa-provar-que-pode-transformar-juros-menores-em-lucro/",
-  "id": "2026-10-19-30"
- },
- {
-  "categoria": "Economia",
-  "coletadoEm": "2026-10-19T18:50:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "US$ 2,66 bi",
-  "fatos": [
-   "O superávit da terceira semana de outubro foi de US$ 2,661 bilhões.",
-   "No mês, o saldo acumulado chega a US$ 5,959 bilhões.",
-   "As exportações somam US$ 21,038 bilhões em outubro.",
-   "As importações somam US$ 15,079 bilhões no mês."
-  ],
-  "fonte": "InfoMoney (MDIC)",
-  "gancho": "*Exportações* garantem *superávit*",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-19T16:44:00-03:00",
-  "resumo": "O saldo positivo da semana leva o acumulado de outubro a quase US$ 6 bilhões, segundo dados do governo.",
-  "status": "nova",
-  "titulo": "Balança comercial tem superávit de US$ 2,66 bilhões na 3ª semana de outubro",
-  "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
-  "id": "2026-10-19-31"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T18:50:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "US$ 11 bi",
-  "fatos": [
-   "A reestruturação abrange cerca de US$ 10,9 bilhões em dívida financeira sem garantia real.",
-   "Credores teriam pedido aporte de US$ 3 bilhões dos principais acionistas, segundo a Reuters.",
-   "O pedido inicial teve adesão de 39,6% dos créditos; a homologação exige mais de 50%.",
-   "Segundo a XP, a Braskem queimou R$ 5,9 bilhões de caixa em 2025 e R$ 4,6 bilhões no 1º trimestre de 2026.",
-   "Com a liquidação da OPA em 21 de outubro, o FIP Shine terá 50,11% do capital votante."
-  ],
-  "fonte": "Suno Notícias",
-  "gancho": "*Braskem* negocia *dívida bilionária*",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-19T13:45:00-03:00",
-  "resumo": "Com apoio de só 39,6% dos credores, a petroquímica busca uma nova oferta enquanto acionistas discutem quanto capital injetar.",
-  "status": "nova",
-  "titulo": "Braskem prepara nova proposta a credores para destravar dívida de US$ 11 bilhões",
-  "url": "https://www.suno.com.br/noticias/braskem-brkm5-nova-proposta-credores-divida-mt/",
-  "id": "2026-10-19-27"
- },
- {
-  "categoria": "Economia (Brasil)",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-20,7%",
-  "fatos": [
-   "Foram 448 pedidos de RJ no agro no 2º trimestre de 2026.",
-   "Queda de 20,7% sobre o mesmo período de 2025.",
-   "Pedidos de empresas recuaram 34,2%; de pessoas físicas, 10,5%.",
-   "Mato Grosso lidera, com 107 pedidos.",
-   "Serasa cita custos altos e crédito mais seletivo como desafios."
-  ],
-  "fonte": "Money Times (Reuters)",
-  "gancho": "*Agro* com menos *RJ*",
-  "icone": "escudo",
-  "impacto": "medio",
-  "ordem": 14,
-  "publicadoEm": "2026-10-19T06:44:00-03:00",
-  "resumo": "Serasa contou 448 pedidos no período, primeira queda para um segundo trimestre desde 2022, mas pede cautela na leitura.",
-  "status": "nova",
-  "titulo": "Pedidos de recuperação judicial no agro caem 20,7% no 2º trimestre",
-  "url": "https://www.moneytimes.com.br/pedidos-de-recuperacao-judicial-no-agro-caem-207-no-2o-trimestre-diz-serasa-fets/",
-  "id": "2026-10-19-24"
- },
- {
-  "categoria": "Juros",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "13,25%",
-  "fatos": [
-   "IPCA de 2026 ficou em 5,22%, sem mudança na semana.",
-   "IPCA de 2027 subiu de 4,30% para 4,32%.",
-   "Selic projetada: 13,25% no fim de 2026 e 12% no fim de 2027.",
-   "PIB de 2026 caiu de 1,85% para 1,83%; o de 2027, de 1,40% para 1,32%.",
-   "Dólar no fim de 2026 passou de R$ 5,15 para R$ 5,13."
-  ],
-  "fonte": "InfoMoney (Banco Central)",
-  "gancho": "*Focus* vê *Selic* a 13,25%",
-  "icone": "alvo",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-19T08:33:00-03:00",
-  "resumo": "O mercado manteve a inflação de 2026 em 5,22% e a Selic projetada em 13,25%, mas reduziu crescimento e dólar esperados.",
-  "status": "nova",
-  "titulo": "Focus mantém Selic em 13,25% para 2026 e corta PIB para 1,83%",
-  "url": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/",
-  "id": "2026-10-19-13"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+1,08%",
-  "fatos": [
-   "Nasdaq subia 1,08% e S&P 500, 0,53%, logo após a abertura.",
-   "Dow Jones recuava 0,16%.",
-   "Ações de IA caíram mais de 6% na semana passada.",
-   "Irã diz negociar com os EUA proposta para reabrir o Estreito de Ormuz.",
-   "Temporada de balanços do 3T26 ganha força na semana."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*IA* volta a *subir*",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-19T10:46:00-03:00",
-  "resumo": "Wall Street abriu sem direção única, com tecnologia se recuperando da pior semana do setor de IA desde abril de 2025.",
-  "status": "nova",
-  "titulo": "Nasdaq sobe 1% na abertura com recuperação de ações de IA",
-  "url": "https://www.moneytimes.com.br/wall-street-abertura-19-10-26-lils/",
-  "id": "2026-10-19-25"
- },
- {
-  "categoria": "Inflação",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "1,76%",
-  "fatos": [
-   "IGP-10 subiu 1,76% em outubro, após 1,47% em setembro.",
-   "Projeções iam de 0,75% a 1,78%, com mediana de 1,49%.",
-   "Preços no atacado (IPA-10) avançaram 2,36%.",
-   "No consumidor (IPC-10) a alta foi de 0,39%; na construção (INCC-10), 0,28%.",
-   "Acumulado em 12 meses chegou a 5,02%."
-  ],
-  "fonte": "O Povo, InfoMoney (FGV)",
-  "gancho": "*Atacado* puxa *IGP-10*",
-  "icone": "seta",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-19T08:42:00-03:00",
-  "resumo": "A inflação medida pela FGV acelerou com força no atacado e superou a mediana esperada pelo mercado, de 1,49%.",
-  "status": "nova",
-  "titulo": "IGP-10 sobe 1,76% em outubro, perto do teto das estimativas",
-  "url": "https://www.opovo.com.br/noticias/economia/2026/10/19/igp-10-de-outubro-sobe-176-ante-alta-de-147-em-setembro-mostra-fgv.html",
-  "id": "2026-10-19-14"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "R$ 827,4 mi",
-  "fatos": [
-   "Pedido cobre R$ 827,4 milhões em dívidas de seis empresas do grupo.",
-   "Em agosto, a BluSun Capital anunciou a compra de 100% da empresa, antes de Carlyle e SPX.",
-   "Héctor Nuñez voltou ao cargo de CEO.",
-   "A rede tem cerca de 290 lojas e receita anual perto de R$ 1,2 bilhão.",
-   "Em 2023 a empresa já havia renegociado R$ 289 milhões com bancos."
-  ],
-  "fonte": "NeoFeed",
-  "gancho": "*Ri Happy* renegocia *dívida*",
-  "icone": "cadeado",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-19T10:43:00-03:00",
-  "resumo": "A rede de brinquedos protocolou o pedido no domingo e diz que lojas seguem abertas, de olho em Black Friday e Natal.",
-  "status": "nova",
-  "titulo": "Ri Happy pede recuperação extrajudicial com dívida de R$ 827,4 milhões",
-  "url": "https://neofeed.com.br/negocios/com-divida-de-r-8274-milhoes-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial/",
-  "id": "2026-10-19-18"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-38%",
-  "fatos": [
-   "Geração térmica líquida foi de 2.105 GWh, queda de 38% ante o 3T25.",
-   "Azulão I, no Amazonas, entrou em operação comercial em agosto.",
-   "Reservas 2P de gás somam 46,1 bilhões de m³.",
-   "Itaú aportou cerca de R$ 1,77 bilhão em subsidiária da Eneva via ações preferenciais."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Eneva* liga *Azulão I*",
-  "icone": "raio",
-  "impacto": "medio",
-  "ordem": 12,
-  "publicadoEm": "2026-10-19T09:56:00-03:00",
-  "resumo": "A prévia operacional mostrou novos contratos de capacidade em vigor e menor despacho das térmicas por preços de energia mais baixos.",
-  "status": "nova",
-  "titulo": "Eneva coloca Azulão I em operação, mas geração térmica cai 38% no 3T26",
-  "url": "https://www.moneytimes.com.br/eneva-enev3-inicia-nova-fase-de-contratos-e-coloca-azulao-i-em-operacao-no-3t26-lmrs/",
-  "id": "2026-10-19-22"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+9%",
-  "fatos": [
-   "Receita bruta consolidada subiu 9% na comparação anual.",
-   "Vendas de leves novos no varejo cresceram 16,8%, para 16.541 unidades.",
-   "Seminovos subiram 15,3% e caminhões e ônibus, 35,1%.",
-   "Volume de máquinas agrícolas caiu 25,6%.",
-   "Dados são preliminares e não auditados."
-  ],
-  "fonte": "Money Times, InfoMoney",
-  "gancho": "*Automob* acelera *vendas*",
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 13,
-  "publicadoEm": "2026-10-19T09:23:00-03:00",
-  "resumo": "A prévia do trimestre mostrou vendas mais fortes de leves novos, seminovos e caminhões, com queda só em máquinas agrícolas.",
-  "status": "nova",
-  "titulo": "Automob tem receita bruta 9% maior no 3T26 com carros novos em alta",
-  "url": "https://www.moneytimes.com.br/automob-amob3-previa-do-3t26-mostra-alta-de-9-na-receita-bruta-e-avanco-de-16-em-leves-lmrs/",
-  "id": "2026-10-19-23"
- },
- {
-  "categoria": "Agenda",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "5 balanços",
-  "fatos": [
-   "Romi (ROMI3) e Neoenergia (NEOE3) divulgam na terça (20).",
-   "Bradsaúde (SAUD3) publica na quarta (21), após o fechamento.",
-   "WEG (WEGE3) divulga na quarta (21), antes da abertura.",
-   "Bradesco (BBDC3) publica na quinta (22), com teleconferência na sexta (23).",
-   "As datas podem mudar, segundo o levantamento."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Balanços* do *3T26* começam",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-19T06:45:00-03:00",
-  "resumo": "Cinco empresas da bolsa abrem a temporada de resultados do terceiro trimestre nesta semana, com Bradesco fechando a lista.",
-  "status": "nova",
-  "titulo": "Temporada do 3T26: Romi, Neoenergia, WEG e Bradesco divulgam balanços",
-  "url": "https://www.moneytimes.com.br/3t26-weg-wege3-bradesco-bbdc3-neoenergia-neoe3-divulgam-balancos-nesta-semana-mlem/",
-  "id": "2026-10-19-19"
- },
- {
-  "atualizadoEm": "2026-10-19T18:50:00-03:00",
-  "categoria": "Bolsa",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-0,17%",
-  "fatos": [
-   "O Ibovespa fechou em queda de 0,17%, aos 205.079,25 pontos, com volume de R$ 31,8 bilhões.",
-   "PETR4 caiu 2,82%, em correção após renovar máximas históricas na sexta.",
-   "Azzas (AZZA3) subiu 13,25% e MRV (MRVE3) avançou 10,94%, com o varejo em alta.",
-   "O dólar à vista recuou 0,49%, a R$ 5,048.",
-   "Em Nova York, S&P 500 subiu 0,41% e Nasdaq 1,11%; Dow Jones caiu 0,08%.",
-   "No mês, o Ibovespa acumula alta de 10,06%; no ano, 27,28%."
-  ],
-  "fonte": "InfoMoney, BPMoney, CNN Brasil",
-  "gancho": "*Petrobras* segura, *varejo* dispara",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-19T12:05:00-03:00",
-  "resumo": "A bolsa terminou aos 205.079 pontos, pressionada por Petrobras, enquanto ações domésticas como Azzas e MRV subiram mais de 10% e o dólar caiu a R$ 5,04.",
-  "status": "atualizada",
-  "titulo": "Ibovespa fecha em leve queda de 0,17% com Petrobras; varejo dispara",
-  "url": "https://www.infomoney.com.br/mercados/ibovespa-incerteza-eleitoral-e-petroleo-ofuscam-alta-de-ny-e-indice-registra-queda/",
-  "id": "2026-10-19-15"
- },
- {
-  "categoria": "Economia (Brasil)",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+0,5%",
-  "fatos": [
-   "Economia cresceu 0,5% de julho para agosto, após -0,3% em julho e -0,9% em junho.",
-   "Em 12 meses, a alta acumulada é de 1,8%.",
-   "Indústria extrativa e serviços puxaram a oferta.",
-   "Exportações e consumo do governo compensaram o consumo das famílias mais fraco.",
-   "IBGE divulga o PIB do 3º trimestre em 2 de dezembro."
-  ],
-  "fonte": "Agência Brasil (FGV Ibre)",
-  "gancho": "*PIB* volta a *crescer*",
-  "icone": "grafico",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-19T08:52:00-03:00",
-  "resumo": "Depois de dois meses de queda, a atividade voltou a crescer em agosto, segundo estimativa mensal do PIB feita pela FGV.",
-  "status": "nova",
-  "titulo": "Monitor da FGV estima alta de 0,5% da economia em agosto",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-cresce-05-em-agosto-apos-dois-meses-de-recuo-estima-fgv",
-  "id": "2026-10-19-16"
- },
- {
-  "categoria": "FIIs",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "R$ 250 mi",
-  "fatos": [
-   "Fatia de 14,57% de um galpão em construção em Campinas (SP), por R$ 250 milhões.",
-   "O imóvel terá cerca de 461 mil m² de área locável.",
-   "Contrato de locação de 16 anos a partir da primeira entrega, prevista para outubro de 2027.",
-   "Compra foi financiada com CRI que paga 8,5% ao ano mais INCC durante a obra.",
-   "Venda de imóveis alugados ao GPA foi rescindida por condições não cumpridas."
-  ],
-  "fonte": "Seu Dinheiro, Money Times",
-  "gancho": "*TRXF11* aposta no *Mercado Livre*",
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-19T10:07:00-03:00",
-  "resumo": "O fundo imobiliário entrou no futuro maior centro de distribuição do Mercado Livre, em Campinas, e desfez venda de imóveis do GPA.",
-  "status": "nova",
-  "titulo": "TRXF11 compra fatia de R$ 250 milhões em galpão do Mercado Livre",
-  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/trxf11-coloca-maior-centro-de-distribuicao-do-mercado-livre-meli34-na-carteira-por-r-250-milhoes-mas-volta-atras-em-outro-negocio-davs/",
-  "id": "2026-10-19-20"
- },
- {
-  "categoria": "FIIs",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "R$ 454 mi",
-  "fatos": [
-   "JHSF Capital SCJ (JCSC11) comprou 16,99% do Shopping Cidade Jardim, em São Paulo.",
-   "Vendedor foi o XP Malls (XPML11).",
-   "À vista foram R$ 273,8 milhões, entre dinheiro e assunção de CRIs.",
-   "Restam duas parcelas de R$ 90,8 milhões corrigidas pelo IPCA.",
-   "IFIX fechou sexta em 3.939,94 pontos, com alta de 4,94% em outubro."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*IFIX* sobe *5%* no mês",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 10,
-  "publicadoEm": "2026-10-19T07:53:00-03:00",
-  "resumo": "O JCSC11 fechou a compra de 16,99% do shopping, vendida pelo XPML11; o IFIX acumula alta de quase 5% em outubro.",
-  "status": "nova",
-  "titulo": "Fundo da JHSF conclui compra de fatia do Shopping Cidade Jardim por R$ 454 milhões",
-  "url": "https://www.moneytimes.com.br/fundo-imobiliario-da-jhsf-conclui-compra-de-participacao-no-shopping-cidade-jardim-ifix-sobe-em-outubro-igdl/",
-  "id": "2026-10-19-21"
- },
- {
-  "categoria": "FIIs",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-13%",
-  "fatos": [
-   "XPML11 foi de compra para venda; preço-alvo caiu de R$ 123,20 para R$ 92,20.",
-   "O novo alvo indica queda de 13% sobre os R$ 105,99 de sexta.",
-   "Safra projeta proventos de R$ 7,38 por cota em 2027 no XPML11, cerca de 33% abaixo do atual.",
-   "HSML11 foi de compra para neutro, com alvo de R$ 107,70 para R$ 98,20.",
-   "Cerca de 35% do resultado recente do XPML11 veio de venda de imóveis."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Safra* rebaixa *FIIs de shopping*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 4,
-  "publicadoEm": "2026-10-19T11:21:00-03:00",
-  "resumo": "O banco passou XP Malls para venda e HSI Malls para neutro, citando juros altos por mais tempo e cotas já esticadas.",
-  "status": "nova",
-  "titulo": "Safra corta preços-alvo e rebaixa FIIs de shopping XPML11 e HSML11",
-  "url": "https://www.moneytimes.com.br/safra-passa-a-tesoura-em-precos-alvo-e-rebaixa-recomendacoes-de-fundos-imobiliarios-fiis-igdl/",
-  "id": "2026-10-19-17"
- },
- {
-  "categoria": "Dividendos",
-  "coletadoEm": "2026-10-19T12:58:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "65 FIIs",
-  "fatos": [
-   "São 65 FIIs com pagamentos programados na semana.",
-   "Quinta-feira (22) tem 21 fundos pagando, o pico da semana.",
-   "CPOF11 paga R$ 2,00 por cota na sexta (23), retorno de 1,69%.",
-   "VGIR11, MANA11 e RZAK11 aparecem com cerca de 1,3%."
-  ],
-  "fonte": "Suno Notícias",
-  "gancho": "*Rendimentos* de *FIIs* na semana",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 11,
-  "publicadoEm": "2026-10-19T09:15:00-03:00",
-  "resumo": "A quinta-feira concentra o maior número de pagamentos da semana; CPOF11 lidera o retorno, com 1,69%.",
-  "status": "nova",
-  "titulo": "65 fundos imobiliários pagam rendimentos entre 19 e 23 de outubro",
-  "url": "https://www.suno.com.br/noticias/dividendos-fiis-semana-19-23-outubro/",
-  "id": "2026-10-19-26"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-0,76%",
-  "fatos": [
-   "O Stoxx 600 recuava 0,76%, a 639,86 pontos, por volta das 6h40 de Brasília.",
-   "Paris caía 1,32%, Frankfurt 1,05%, Londres 0,86% e Milão 1,42%.",
-   "O setor bancário era o pior, com queda de 1,7%.",
-   "Protestos contra o custo de vida na França, segunda maior economia do euro, pesavam no humor.",
-   "Investidores aguardam balanços de grandes empresas europeias e americanas."
-  ],
-  "fonte": "Diário do Grande ABC (Estadão Conteúdo)",
-  "gancho": "*Europa* abre semana no vermelho",
-  "icone": "globo",
-  "impacto": "medio",
-  "ordem": 4,
-  "publicadoEm": "2026-10-19T06:56:00-03:00",
-  "resumo": "Índices da Europa abrem a semana no vermelho, com bancos liderando as perdas, protestos franceses e dúvidas sobre gastos com IA.",
-  "status": "nova",
-  "titulo": "Bolsas europeias caem mais de 1% com protestos na França e balanços",
-  "url": "https://www.dgabc.com.br/Noticia/4353484/bolsas-da-europa-recuam-com-protestos-na-franca-e-temporada-de-balancos-no-radar",
-  "id": "2026-10-19-09"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "R$ 54,94",
-  "fatos": [
-   "O preço-alvo médio do consenso para WEGE3 é R$ 54,94, ante cotação de cerca de R$ 47,99 em 16 de outubro.",
-   "O Goldman Sachs elevou o preço-alvo de R$ 42,60 para R$ 44,10.",
-   "O banco projeta Ebitda cerca de 3% e lucro cerca de 8% abaixo do consenso no 3º trimestre.",
-   "No 2º trimestre, a WEG teve receita líquida de R$ 10,14 bilhões e margem Ebitda de 21,8%.",
-   "O resultado sai em 21 de outubro, com teleconferência no dia seguinte."
-  ],
-  "fonte": "Acionista",
-  "gancho": "*WEG* chega ao balanço sob alerta",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-19T06:44:00-03:00",
-  "resumo": "Consenso de analistas recomenda compra de WEGE3 com potencial de cerca de 14%, mas o Goldman projeta números do 3º trimestre mais fracos.",
-  "status": "nova",
-  "titulo": "WEG divulga balanço na quarta e Goldman espera lucro abaixo do consenso",
-  "url": "https://acionista.com.br/wege3-preco-alvo-sugere-alta-mas-surge-um-risco/",
-  "id": "2026-10-19-10"
- },
- {
-  "categoria": "Day trade",
-  "coletadoEm": "2026-10-19T08:30:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "209.713",
-  "fatos": [
-   "O Ibovespa subiu 0,54% na sexta, a 205.430 pontos, oscilando entre 204.164 e 206.305.",
-   "Suportes do índice em 203.980 e 199.354 pontos; resistências em 207.300 e no recorde de 209.713.",
-   "O mini-índice WINZ26 fechou em alta de 0,87%, a 210.800 pontos, com suporte em 209.960/209.620.",
-   "O minidólar WDOX26 caiu 0,70%, a 5.080,5 pontos, com suporte em 5.073 e resistência em 5.091,5.",
-   "O IFR de 14 períodos do Ibovespa está em 69,86, perto da sobrecompra."
-  ],
-  "fonte": "InfoMoney",
-  "gancho": "Ibovespa a um passo do *recorde*",
-  "icone": "grafico",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-19T07:03:00-03:00",
-  "resumo": "Após voltar a subir na sexta, o Ibovespa fica perto da máxima histórica, com IFR próximo da zona de sobrecompra, segundo análise técnica.",
-  "status": "nova",
-  "titulo": "Day trade: mini-índice fecha a 210.800 pontos e Ibovespa mira recorde de 209.713",
-  "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-19102026/",
-  "id": "2026-10-19-07"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "US$ 82,6 mil",
-  "fatos": [
-   "O bitcoin estava perto de US$ 82.620 nesta madrugada, alta de 1,2% em 24 horas.",
-   "Na semana passada, chegou a cair abaixo de US$ 80 mil; a faixa semanal foi de cerca de US$ 79,8 mil a US$ 84,2 mil.",
-   "As bandas de Bollinger diárias estão entre as mais estreitas em cerca de 2,5 anos, segundo a Barchart.",
-   "A máxima histórica, perto de US$ 126,2 mil, foi registrada em outubro de 2025.",
-   "Balanços de Meta e Tesla na quarta e PMIs na sexta estão no radar."
-  ],
-  "fonte": "The Crypto Times, crypto.news",
-  "gancho": "*Bitcoin* comprimido antes do *próximo movimento*",
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 7,
-  "publicadoEm": "2026-10-19T03:14:00-03:00",
-  "resumo": "A criptomoeda se recuperou da queda abaixo de US$ 80 mil na semana passada, mas segue presa numa faixa estreita que costuma anteceder movimentos mais fortes.",
-  "status": "nova",
-  "titulo": "Bitcoin oscila perto de US$ 82,6 mil com volatilidade na mínima em 2,5 anos",
-  "url": "https://cryptotimes.io/2026/10/19/bitcoin-price-today-btc-coils-near-82500-as-daily-bollinger-bands-reach-multi-year-tightness",
-  "id": "2026-10-19-04"
- },
- {
-  "categoria": "Previsões",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "86,2%",
-  "fatos": [
-   "Nvidia está precificada em 86,2%.",
-   "Apple aparece com 11,7%.",
-   "Alphabet tem 0,2% e Microsoft, 0,1%.",
-   "O volume em 24 horas foi de cerca de US$ 96 mil."
-  ],
-  "fonte": "Polymarket (mercado de previsões)",
-  "gancho": "*Nvidia* segue no *topo*?",
-  "horaEstimada": true,
-  "icone": "foguete",
-  "impacto": "medio",
-  "ordem": 19,
-  "prazo": "2026-10-31",
-  "probs": [
-   {
-    "opcao": "Nvidia",
-    "prob": 86.2
-   },
-   {
-    "opcao": "Apple",
-    "prob": 11.7
-   },
-   {
-    "opcao": "Alphabet",
-    "prob": 0.2
-   },
-   {
-    "opcao": "Microsoft",
-    "prob": 0.1
-   }
-  ],
-  "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "No Polymarket, apostadores colocam a Nvidia como favorita a seguir no topo do valor de mercado global no fim de outubro; é probabilidade precificada por apostadores.",
-  "slug": "largest-company-end-of-october-2026",
-  "status": "nova",
-  "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 86,2% de chance de Nvidia fechar outubro no topo",
-  "url": "https://polymarket.com/event/largest-company-end-of-october-2026",
-  "volume24h": "US$ 96 mil",
-  "id": "2026-10-19-p4"
- },
- {
-  "categoria": "Juros",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "13,75%",
-  "fatos": [
-   "A Selic está em 13,75% ao ano, após cinco cortes seguidos de 0,25 ponto.",
-   "O Focus projeta Selic de 13,25% no fim de 2026 e 12% no fim de 2027.",
-   "Após o primeiro turno, as taxas futuras médias e longas caíram mais de 100 pontos-base, segundo a KAT Investimentos.",
-   "A XP prevê cortes de 0,50 ponto a partir de março de 2027.",
-   "O Morgan Stanley projeta Selic de 11,25% em dezembro de 2027.",
-   "O IPCA de setembro subiu 0,82%, acima dos 0,60% esperados."
-  ],
-  "fonte": "CNN Brasil",
-  "gancho": "*Selic* pode cair mais *rápido*?",
-  "icone": "alvo",
-  "impacto": "alto",
-  "ordem": 2,
-  "publicadoEm": "2026-10-19T04:25:00-03:00",
-  "resumo": "Economistas ouvidos pela CNN veem espaço para acelerar a queda dos juros só com sinais fiscais claros e inflação mais comportada; o cenário-base segue de cortes de 0,25 ponto.",
-  "status": "nova",
-  "titulo": "Mercado discute cortes mais rápidos da Selic, mas condiciona a compromisso fiscal",
-  "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-ve-possibilidade-de-queda-de-juros-acelerada-com-compromisso-fiscal/",
-  "id": "2026-10-19-02"
- },
- {
-  "categoria": "Previsões",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "51,5%",
-  "fatos": [
-   "↑ 82,500: 51,5%",
-   "↓ 77,500: 39,5%",
-   "↑ 85,000: 17,5%",
-   "↓ 75,000: 13,5%"
-  ],
-  "fonte": "Polymarket (mercado de previsões)",
-  "gancho": "*Bitcoin*: apostas pendem para *queda*",
-  "horaEstimada": true,
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 18,
-  "prazo": "2026-11-01",
-  "probs": [
-   {
-    "opcao": "↑ 82,500",
-    "prob": 51.5
-   },
-   {
-    "opcao": "↓ 77,500",
-    "prob": 39.5
-   },
-   {
-    "opcao": "↑ 85,000",
-    "prob": 17.5
-   },
-   {
-    "opcao": "↓ 75,000",
-    "prob": 13.5
-   }
-  ],
-  "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores têm uma expectativa favorável sobre o preço do Bitcoin para outubro de 2026.",
-  "slug": "what-price-will-bitcoin-hit-in-october-2026",
-  "status": "atualizada",
-  "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 51.5% de chance de Bitcoin *acima de 82,500* em outubro",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 513 mil",
-  "id": "2026-10-19-p3",
-  "numeros": [
-   {
-    "valor": "51,5%",
-    "rotulo": "↑ 82,500"
-   },
-   {
-    "valor": "39,5%",
-    "rotulo": "↓ 77,500"
-   },
-   {
-    "valor": "17,5%",
-    "rotulo": "↑ 85,000"
-   },
-   {
-    "valor": "13,5%",
-    "rotulo": "↓ 75,000"
-   }
-  ],
-  "atualizadoEm": "2026-10-26T21:49:02-03:00"
- },
- {
-  "categoria": "Previsões",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "76,5%",
-  "fatos": [
-   "Aumento de 25 bps: 76,5%",
-   "Sem alteração: 20,5%",
-   "Aumento de 50+ bps: 2,6%",
-   "Redução de 25 bps: 0,7%"
-  ],
-  "fonte": "Polymarket (mercado de previsões)",
-  "gancho": "*Fed* deve *subir* juros em dezembro",
-  "horaEstimada": true,
-  "icone": "seta",
-  "impacto": "medio",
-  "ordem": 17,
-  "prazo": "2026-12-10",
-  "probs": [
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 76.5
-   },
-   {
-    "opcao": "Sem alteração",
-    "prob": 20.5
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 2.6
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.7
-   }
-  ],
-  "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Indicações de aumento nas taxas de juros no final do ano, com forte apoio dos apostadores.",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "status": "atualizada",
-  "tipo": "sinal",
-  "titulo": "Mercado vê 76,5% de chance de aumento de 25 bps nas taxas do Fed em dezembro",
-  "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-  "volume24h": "US$ 124 mil",
-  "id": "2026-10-19-p2",
-  "numeros": [
-   {
-    "valor": "76,5%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "20,5%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "2,6%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "0,7%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "atualizadoEm": "2026-10-24T20:42:13-03:00"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "+4,5%",
-  "fatos": [
-   "O PIB chinês avançou 4,5% na comparação anual no terceiro trimestre, ante 4,3% no segundo.",
-   "O resultado veio em linha com o consenso da FactSet.",
-   "O Nikkei caiu 0,62% e o Taiex recuou 0,61%.",
-   "O Kospi subiu 1,76%, mas acumula queda de mais de 17% em um mês.",
-   "Xangai avançou 0,39%; Hong Kong não operou por feriado."
-  ],
-  "fonte": "Money Times (Estadão Conteúdo), Valor",
-  "gancho": "*China* cresce *4,5%*",
-  "icone": "globo",
-  "impacto": "alto",
-  "ordem": 6,
-  "publicadoEm": "2026-10-19T06:10:00-03:00",
-  "resumo": "A economia chinesa acelerou em relação ao trimestre anterior, em linha com o consenso, enquanto a volatilidade das empresas de tecnologia pesou sobre Tóquio e Taiwan.",
-  "status": "nova",
-  "titulo": "PIB da China cresce 4,5% no terceiro trimestre e bolsas asiáticas fecham mistas",
-  "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-volatilidade-em-tecnologia-e-pib-da-china-no-radar-fets/",
-  "id": "2026-10-19-03"
- },
- {
-  "categoria": "Previsões",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "92,5%",
-  "fatos": [
-   "Sem mudança: 92,5%",
-   "Aumento de 25 bps: 7,5%",
-   "Aumento de 50+ bps: 0,4%",
-   "Redução de 25 bps: 0,2%"
-  ],
-  "fonte": "Polymarket (mercado de previsões)",
-  "gancho": "*Fed* parado em *outubro*?",
-  "horaEstimada": true,
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 16,
-  "prazo": "2026-10-28",
-  "probs": [
-   {
-    "opcao": "Sem mudança",
-    "prob": 92.5
-   },
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 7.5
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 0.4
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.2
-   }
-  ],
-  "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Apostadores indicam alta probabilidade de manutenção da taxa de juros pelo Fed na próxima reunião.",
-  "slug": "fed-decision-in-october-20260617190323537",
-  "status": "atualizada",
-  "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 92,5% de chance de *sem mudança* na decisão do Fed",
-  "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
-  "volume24h": "US$ 3,1 mi",
-  "id": "2026-10-19-p1",
-  "numeros": [
-   {
-    "valor": "92,5%",
-    "rotulo": "Sem mudança"
-   },
-   {
-    "valor": "7,5%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "0,2%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "atualizadoEm": "2026-10-22T11:41:47-03:00"
- },
- {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-19T06:52:00-03:00",
-  "data": "2026-10-19",
-  "destaque": "-2,70%",
-  "fatos": [
-   "Brent caía 2,70%, a US$ 106,90 por barril, às 4h42 desta segunda.",
-   "Na sexta, o Brent tocou US$ 110 e fechou no maior nível desde 19 de maio.",
-   "O WTI recuava 1,89%, a US$ 99,49.",
-   "Trump assinou na sexta ordem suspendendo sanções e tarifas sobre a Rússia; o governo terá até 60 dias para avaliar os efeitos.",
-   "Dados da Kpler mostram fluxo de petróleo do Golfo em cerca de 8,5 milhões de barris por dia, ante mais de 20 milhões na semana anterior.",
-   "O DBS espera o Brent entre US$ 100 e US$ 110 até as eleições legislativas americanas."
-  ],
-  "fonte": "Money Times (Reuters)",
-  "gancho": "*Petróleo* recua após alívio à *Rússia*",
-  "icone": "queda",
-  "impacto": "alto",
-  "ordem": 1,
-  "publicadoEm": "2026-10-19T04:43:00-03:00",
-  "resumo": "O Brent devolve parte da disparada da semana passada depois que Trump suspendeu sanções e tarifas contra Moscou, mas analistas veem efeito limitado sobre a oferta.",
-  "status": "nova",
-  "titulo": "Petróleo recua de máxima em cinco meses após EUA suspenderem sanções à Rússia",
-  "url": "https://www.moneytimes.com.br/petroleo-recua-de-maxima-em-cinco-meses-apos-suspensao-de-sancoes-dos-eua-a-russia-fets/",
-  "id": "2026-10-19-01"
  }
 ]
