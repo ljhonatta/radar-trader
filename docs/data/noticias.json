@@ -1,5 +1,746 @@
 [
  {
+  "titulo": "Ibovespa cai 13,88% e dólar salta após reeleição de Lula",
+  "resumo": "No pregão pós-eleição de 2026, Ibovespa despencou 13,88% encerrando em 176.608,23 pontos. Dólar disparou 8,21%, fechando a R$ 5,40, marcando maior alta percentual diária desde 1999.",
+  "fatos": [
+   "Ibovespa caiu 13,88% em 26 de junho de 2026, fechando em 176.608,23 pontos.",
+   "Foi o maior recuo diário do índice desde março de 2020.",
+   "Dólar comercial subiu 8,21%, fechando a R$ 5,403 no mesmo dia.",
+   "Circuit breaker foi acionado pela primeira vez desde março de 2020.",
+   "Lula teve 51,79% dos votos válidos, derrotando Flávio Bolsonaro com 48,21%.",
+   "Volume financeiro na B3 foi de R$ 88,6 bilhões, superando a média de R$ 25 bilhões.",
+   "Setor financeiro do IBOV foi o mais afetado, com queda de 22,48%.",
+   "Suzano liderou as poucas altas com +10,08%, enquanto Magazine Luiza caiu 58,23%.",
+   "Dólar atingiu máxima intradia de R$ 5,6049 pela manhã.",
+   "Morgan Stanley prevê dólar a R$ 6 se não houver ajuste fiscal nas próximas semanas."
+  ],
+  "explicacao": [
+   "No dia 26 de junho de 2026, após a reeleição inesperada do presidente Luiz Inácio Lula da Silva, o Ibovespa registrou uma queda histórica de 13,88%, alcançando 176.608,23 pontos, o pior desempenho diário em seis anos. O dólar comercial subiu 8,21%, fechando cotado a R$ 5,40.",
+   "A surpresa na eleição, com Lula superando o adversário Flávio Bolsonaro por mais de 4,3 milhões de votos, gerou uma quebra nas expectativas do mercado, que contava com uma vitória de Bolsonaro, visto como mais alinhado ao mercado. Esse descompasso instigou queda generalizada nas ações e valorização do dólar como ativo de proteção.",
+   "O mecanismo de circuit breaker foi acionado na B3, interrompendo temporariamente as negociações pela primeira vez desde março de 2020, diante da forte volatilidade. O volume financeiro do dia foi recorde, atingindo R$ 88,6 bilhões, muito acima da média diária.",
+   "Agora, o mercado deve acompanhar os sinais do governo reeleito em relação à política fiscal e econômica, pois analistas alertam para riscos de aumento da dívida pública e dominância fiscal, podendo influenciar ainda mais ativos, juros e câmbio nas próximas semanas."
+  ],
+  "detalhes": [
+   "Data do pregão com queda e alta: 26 de junho de 2026.",
+   "Ibovespa alcançou seu menor fechamento desde 31 de agosto.",
+   "Dólar teve sua maior alta percentual diária desde 13 de janeiro de 1999.",
+   "Circuit breaker interrompeu as negociações pela primeira vez desde o auge da pandemia.",
+   "Diferença de votos entre Lula e Flávio Bolsonaro foi de mais de 4,3 milhões.",
+   "Lula começa o quarto mandato em meio a incertezas do mercado.",
+   "Ações exportadoras tiveram melhor desempenho, impulsionadas pela alta do dólar."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rebecca Nossig, estrategista de ações da Nomad",
+    "oque": "O salto no dólar reflete busca por proteção diante da tensão institucional e das incertezas macroeconômicas."
+   },
+   {
+    "quem": "Rebecca Nossig, estrategista de ações da Nomad",
+    "oque": "A liquidação generalizada na bolsa mostra a cautela dos investidores frente às futuras diretrizes econômicas e fiscais."
+   },
+   {
+    "quem": "Rafael Dadoorian, head de mesa de renda fixa da Convexa",
+    "oque": "A forte reprecificação dos ativos indica preocupações com a trajetória fiscal e a política econômica no 'Lula 4'."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de junho de 2026",
+    "oque": "Eleições do segundo turno e reeleição de Lula."
+   },
+   {
+    "quando": "26 de junho de 2026, logo",
+    "oque": "Circuit breaker acionado pela forte queda do Ibovespa."
+   },
+   {
+    "quando": "26 de junho de 2026, à",
+    "oque": "Ibovespa fecha em queda de 13,88%, dólar em alta de 8,21%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Parada temporária da bolsa para conter quedas abruptas."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice da B3 com as ações mais negociadas do Brasil."
+   },
+   {
+    "termo": "Dólar comercial",
+    "significado": "Taxa do dólar usada para comércio internacional e câmbio no Brasil."
+   }
+  ],
+  "pergunta": "Como você acha que a reeleição de Lula vai impactar seus investimentos?",
+  "tamanhoTexto": 10477,
+  "numeros": [
+   {
+    "valor": "13,88%",
+    "rotulo": "queda do Ibovespa no pregão"
+   },
+   {
+    "valor": "176.608,23",
+    "rotulo": "pontos do Ibovespa ao fechar"
+   },
+   {
+    "valor": "8,21%",
+    "rotulo": "alta diária do dólar comercial"
+   },
+   {
+    "valor": "R$ 5,403",
+    "rotulo": "cotação do dólar no fechamento"
+   },
+   {
+    "valor": "51,79%",
+    "rotulo": "percentual dos votos de Lula"
+   },
+   {
+    "valor": "48,21%",
+    "rotulo": "percentual dos votos de Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "ponto mais alto de outubro",
+    "depois": "176.608,23 no fechamento de 26/06/2026"
+   },
+   {
+    "item": "Dólar comercial",
+    "antes": "R$ 4,99",
+    "depois": "R$ 5,40 em 26/06/2026"
+   }
+  ],
+  "destaque": "Queda de 13,88%",
+  "porQueImporta": "É essencial acompanhar esses movimentos porque uma queda tão forte no Ibovespa e a valorização do dólar indicam mudanças nas expectativas do mercado sobre a estabilidade econômica e fiscal do Brasil, afetando investimentos e estratégias de quem opera na bolsa.",
+  "impactoMercado": "A alta do dólar pode beneficiar exportadoras enquanto a queda do Ibovespa reflete aversão ao risco, especialmente em setores financeiros e consumo, podendo influenciar preços de ativos, juros e estratégias de investidores nos próximos dias.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, representando o desempenho das ações mais negociadas. O circuito breaker é um mecanismo para parar temporariamente as negociações diante de quedas muito rápidas, evitando pânico entre investidores.",
+  "observar": "Fique atento aos anúncios do governo Lula sobre política fiscal nas próximas semanas, além dos próximos dados econômicos e decisões do Copom que podem influenciar juros e câmbio.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta enorme mudança no mercado após a eleição mostra a importância de entender política, economia e suas relações com investimentos, motivando o aprendizado no mercado financeiro e o interesse em estudar na faculdade Trader School Wendell Guimarães.",
+  "gancho": "*Ibovespa* despenca e *dólar* dispara",
+  "ideias": [
+   "O que é circuit breaker e por que foi acionado após eleições?",
+   "Entenda a reação do dólar à reeleição de Lula em 2026",
+   "Quais setores do Ibovespa foram mais afetados na queda de 13,88%?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times; Agência Brasil Economia",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T21:49:02-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-26-10-26-lils/",
+  "publicadoEm": "2026-10-26T17:32:48-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-123"
+ },
+ {
+  "titulo": "Governo quer mirar centro da meta fiscal em nova lei complementar",
+  "resumo": "Ministro Bruno Moretti anuncia retomada do debate sobre projeto de lei para mirar centro da meta fiscal, previsto em acordo sobre seguro rural.",
+  "fatos": [
+   "Data do anúncio: 26 de outubro de 2026.",
+   "Bruno Moretti é ministro do Planejamento e Orçamento.",
+   "Projeto de lei complementar prevê mirar o centro da meta fiscal.",
+   "Discussão vinculada a acordo sobre a nova lei do seguro rural.",
+   "Metas atuais no PLDO incluem superávits de 0,5% a 1,5% do PIB entre 2027 e 2030.",
+   "Debate será retomado no período pós-eleitoral em 2026.",
+   "Alteração visa permitir maior flexibilidade na gestão fiscal do governo.",
+   "O acordo foi firmado com o Legislativo para essa alteração na meta.",
+   "O foco é sair do limite inferior da banda de tolerância fiscal."
+  ],
+  "explicacao": [
+   "O governo brasileiro planeja retomar a discussão com o Congresso Nacional sobre um projeto de lei complementar que irá permitir ao Executivo mirar o centro da meta fiscal, em vez do limite inferior da banda de tolerância. A informação é do ministro do Planejamento e Orçamento, Bruno Moretti, em 26 de outubro de 2026.",
+   "Essa medida faz parte de um acordo já firmado entre o Legislativo e o Executivo, vinculado à nova lei do seguro rural. A intenção é flexibilizar a meta fiscal para dar mais margem de manobra na gestão das contas públicas nos próximos anos.",
+   "Mirar o centro da meta fiscal significa que o governo terá um alvo mais próximo do equilíbrio orçamentário ideal, podendo gerir o orçamento com menor preocupação em atingir apenas um limite mínimo. Isso pode refletir maior estabilidade e previsibilidade para investidores e agentes do mercado.",
+   "O próximo passo será a retomada formal das negociações no Congresso, agora no período pós-eleitoral, para encaminhar a aprovação da nova lei complementar que valide essa mudança. A expectativa é que isto estabilize o ambiente fiscal e contribua para a trajetória do endividamento público."
+  ],
+  "detalhes": [
+   "Quem: Governo federal, ministro Bruno Moretti.",
+   "Quando: outubro de 2026, após o segundo turno das eleições.",
+   "Onde: Brasília, com o Congresso Nacional.",
+   "O que: projeto para mudar o foco da meta fiscal do limite inferior para o centro.",
+   "Por que: para ganhar maior margem de manobra na condução fiscal.",
+   "Contexto: acordo prevê essa discussão vinculada à nova lei do seguro rural.",
+   "Como: por meio de uma lei complementar a ser debatida no Congresso."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Governo deve retomar debate para mirar centro da meta fiscal, previsto em acordo com Legislativo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Ministro Moretti anuncia retomada do debate sobre a meta fiscal pós-eleições."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Meta Fiscal",
+    "significado": "Objetivo de resultado das contas públicas para controlar déficit ou superávit."
+   },
+   {
+    "termo": "Banda de Tolerância",
+    "significado": "Intervalo dentro do qual o governo pode variar o resultado fiscal."
+   },
+   {
+    "termo": "Lei Complementar",
+    "significado": "Tipo de lei que complementa a Constituição e regula temas específicos."
+   }
+  ],
+  "pergunta": "O que você acha da mudança para mirar o centro da meta fiscal?",
+  "tamanhoTexto": 7978,
+  "numeros": [
+   {
+    "valor": "0,5% a 1,5% do PIB",
+    "rotulo": "Metas de superávit fiscal previstas no PLDO para 2027 a 2030"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Projeto mira centro",
+  "porQueImporta": "Mirar o centro da meta fiscal indica mais precisão na gestão das contas públicas, aumentando a confiança do mercado sobre o compromisso fiscal do governo e reduzindo incertezas que afetam investimentos, juros e dólar.",
+  "impactoMercado": "Se aprovada, a flexibilidade na meta fiscal pode reduzir a pressão sobre juros futuros, melhorar o ambiente para ativos pós-fixados e dar maior previsibilidade para investidores, especialmente em cenário de volatilidade pós-eleitoral.",
+  "entenda": "A meta fiscal é um objetivo de resultado nas contas públicas que o governo deve alcançar para garantir equilíbrio. Mirar o centro da meta significa ter como referencial o ponto central dessa meta, em vez de um limite mínimo, permitindo maior ajuste fiscal e previsibilidade na gestão do orçamento.",
+  "observar": "Acompanhe a tramitação do projeto de lei complementar no Congresso e as declarações oficiais do Ministério do Planejamento após as eleições para entender o impacto fiscal.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Esta notícia explica uma mudança técnica na meta fiscal que pode tornar o ambiente econômico mais claro para quem opera ou investe na bolsa, conectando política fiscal com decisões do mercado financeiro.",
+  "gancho": "*Meta Fiscal* e *Orçamento* em foco",
+  "ideias": [
+   "O que significa mirar o centro da meta fiscal?",
+   "Como a meta fiscal afeta seus investimentos?",
+   "Entenda o acordo do governo sobre seguro rural e finanças"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Valor Econômico; Times Brasil; InfoMoney",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T21:49:02-03:00",
+  "url": "https://valor.globo.com/brasil/noticia/2026/10/26/governo-usar-acordo-sobre-seguro-rural-para-retomar-proposta-de-mirar-centro-da-meta-diz-moretti.ghtml",
+  "publicadoEm": "2026-10-26T19:44:33-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-124"
+ },
+ {
+  "titulo": "Morgan Stanley rebaixa Brasil e reforça aposta em exportadoras pós eleição",
+  "resumo": "Morgan Stanley reduz recomendação para ações brasileiras após reeleição de Lula e aumenta exposição em exportadoras como Vale e Suzano.",
+  "fatos": [
+   "Morgan Stanley rebaixou exposição do Brasil para equal-weight após reeleição de Lula.",
+   "Causa principal: maior risco fiscal e continuidade das políticas atuais.",
+   "Espera-se câmbio depreciado, juros altos e desaceleração econômica.",
+   "Aumento da exposição a exportadoras: Vale, Embraer, JBS e Suzano.",
+   "Redução nas ações sensíveis ao ciclo doméstico: B3, BTG, XP, Nubank.",
+   "Peso das exportadoras e bancos limita perdas nos lucros corporativos.",
+   "Morgan Stanley tem recomendação overweight para Chile e Argentina.",
+   "Financiamento de US$ 63 bilhões para Anthropic envolve Morgan Stanley.",
+   "Suzano foi principal inclusão na carteira para mais receitas em dólar."
+  ],
+  "explicacao": [
+   "O Morgan Stanley mudou sua carteira para a América Latina rebaixando a exposição ao Brasil de overweight para equal-weight após a reeleição de Luiz Inácio Lula da Silva, citando maiores riscos fiscais e continuidade das políticas atuais.",
+   "Os estrategistas apontam riscos de câmbio depreciado, juros altos e desaceleração econômica, cenário que dificulta um reequilíbrio fiscal e reduz o apetite por risco dos investidores, afetando negativamente as ações brasileiras.",
+   "Apesar disso, o banco evita recomendação underweight por causa do peso das exportadoras e grandes bancos, que limitam o impacto negativo nos lucros corporativos, preferindo focar em empresas com receitas em dólar.",
+   "A carteira passou a privilegiar empresas como Vale, Embraer, JBS e Suzano, enquanto reduz posições em companhias sensíveis ao crescimento doméstico e juros como B3, BTG, XP e Nubank; a atenção também voltou-se para outras bolsas latino-americanas como Chile e Argentina."
+  ],
+  "detalhes": [
+   "Quem: Estratégistas liderados por Nikolaj Lippmann e Julia Nogueira, do Morgan Stanley.",
+   "Quando: Ajuste divulgado em 26 de outubro de 2026, logo após reeleição de Lula.",
+   "Onde: Na carteira modelo do banco para a América Latina.",
+   "Quanto: US$ 63 bilhões em financiamento ligado à Anthropic, com participação do Morgan Stanley.",
+   "Comparação: De overweight para equal-weight no Brasil, mantendo exposição neutra.",
+   "Contexto: Prioridade em empresas menos afetadas por política interna e juros altos.",
+   "Outros mercados: Chile e Argentina ganharam recomendação overweight por melhores perspectivas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Nikolaj Lippmann e Julia Nogueira, estrategistas do Morgan Stanley",
+    "oque": "Preferimos a face externa do mercado brasileiro, ligada a preços de commodities."
+   },
+   {
+    "quem": "Morgan Stanley",
+    "oque": "Risco fiscal maior e câmbio depreciado levarão menor apetite por risco dos investidores."
+   },
+   {
+    "quem": "Hock Tan, CEO da Broadcom",
+    "oque": "Demanda por computação para IA cresce rapidamente, exigindo mais capital e equipamentos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Morgan Stanley anuncia mudança de recomendação para ações brasileiras."
+   },
+   {
+    "quando": "26/10/2026",
+    "oque": "Financiamento de US$ 63 bilhões para Anthropic envolvendo Morgan Stanley é anunciado."
+   },
+   {
+    "quando": "26/10/2026",
+    "oque": "Anthropic registra proposta de IPO na SEC dos EUA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Equal-weight",
+    "significado": "Recomendação neutra, com exposição média ao ativo."
+   },
+   {
+    "termo": "Overweight",
+    "significado": "Recomendação de exposição acima da média ao ativo."
+   },
+   {
+    "termo": "Exportadoras",
+    "significado": "Empresas que vendem produtos para o exterior e faturam em dólar."
+   }
+  ],
+  "pergunta": "Você acha que a cautela do Morgan Stanley com o Brasil faz sentido após a eleição?",
+  "tamanhoTexto": 8496,
+  "numeros": [
+   {
+    "valor": "63 bilhões",
+    "rotulo": "Valor em dólares do financiamento para Anthropic"
+   },
+   {
+    "valor": "37%",
+    "rotulo": "Queda nas ações do BTG após eleição"
+   },
+   {
+    "valor": "31%",
+    "rotulo": "Queda nas ações do Banco do Brasil após eleição"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "Queda nas ações do Bradesco após eleição"
+   },
+   {
+    "valor": "16%",
+    "rotulo": "Queda nas ações do Itaú após eleição"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Exposição do Brasil no Morgan Stanley",
+    "antes": "overweight",
+    "depois": "equal-weight"
+   }
+  ],
+  "destaque": "rebaixamento para equal-weight",
+  "porQueImporta": "Para investidores, o rebaixamento mostra maior cautela com ativos brasileiros diante de riscos fiscais e cenário econômico doméstico incerto, reforçando a importância de diversificar e focar em exportadoras com receitas em dólar, que são menos vulneráveis às políticas internas e flutuações do real.",
+  "impactoMercado": "O movimento do Morgan Stanley pode influenciar fundos estrangeiros e investidores institucionais a reduzir posições em ações ligadas ao mercado doméstico e juros, e reforçar investimentos em empresas exportadoras e setores ligados a commodities, afetando a dinâmica dos índices e setores da bolsa brasileira.",
+  "entenda": "O Morgan Stanley é um banco que recomenda onde investir na América Latina. Após a eleição de Lula, aumentou a cautela com o Brasil por causa dos riscos fiscais e econômicos. Equal-weight significa uma recomendação neutra, nem para comprar nem vender mais, e a preferência agora é por empresas que faturam em dólar e tem menos ligação com a economia local.",
+  "observar": "Fique de olho nas próximas divulgações econômicas e nos anúncios sobre política fiscal no Brasil, além do resultado do IPO da Anthropic em 2027, que pode movimentar o setor de tecnologia e inteligência artificial globalmente.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia ajuda a entender como decisões políticas influenciam riscos e oportunidades no mercado, mostrando a importância de uma estratégia que privilegia empresas com receita em dólar. Isso conecta com a ideia da faculdade de mercado financeiro, que ensina a",
+  "gancho": "*Morgan Stanley* reavalia *ações* brasileiras",
+  "ideias": [
+   "Por que o Morgan Stanley rebaixou o Brasil após as eleições?",
+   "Exportadoras em destaque: aposta segura para o cenário pós-eleição",
+   "Como o risco fiscal influencia o mercado acionário brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney; Times Brasil",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T21:49:02-03:00",
+  "url": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-acoes-do-brasil-apos-eleicao-e-reforca-aposta-em-exportadoras/",
+  "publicadoEm": "2026-10-26T18:48:35-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-125"
+ },
+ {
+  "titulo": "Temperatura do quarto influencia qualidade e ritmo do sono, mostra estudo",
+  "resumo": "Pesquisa indica que variações de temperatura afetam melatonina e ritmo biológico, melhorando o descanso ao acordar.",
+  "fatos": [
+   "Estudo publicado na Journal of Physiological Anthropology em 2026",
+   "Oito participantes foram avaliados em duas condições de temperatura no quarto",
+   "Temperatura oscilava de 27°C a 24°C entre 18h e 22h e voltava a 27°C entre 3h e 7h na condição variável",
+   "Na condição constante, ambiente permaneceu a 27°C durante toda a noite",
+   "Participantes expostos a variações tiveram níveis mais altos de melatonina",
+   "Ponto mais baixo da temperatura corporal interna atingido uma hora antes em média com variações térmicas",
+   "Oscilações térmicas podem sincronizar ritmos circadianos, mas luz é o maior sincronizador",
+   "Pesquisa indica que temperatura influencia descanso, mas papel exato no relógio biológico ainda não é claro",
+   "Ambientes muito quentes podem dificultar o sono devido à regulação térmica corporal",
+   "Populações indígenas parecem ter o sono influenciado mais pela temperatura que pela luz do sol"
+  ],
+  "explicacao": [
+   "Um estudo publicado no Journal of Physiological Anthropology analisou como a temperatura do quarto durante a noite pode influenciar o sono. O estudo monitorou oito participantes em duas condições: uma com temperatura oscilando entre 24°C e 27°C e outra com temperatura constante a 27°C.",
+   "Os resultados mostraram que os participantes expostos às variações térmicas apresentaram níveis mais altos de melatonina, o hormônio relacionado à regulação do sono, e relataram se sentir mais descansados ao acordar. A temperatura corporal interna também atingiu seu ponto mais baixo mais cedo nesses casos.",
+   "A melhoria no descanso pode estar relacionada à queda fisiológica da temperatura corporal que ocorre naturalmente antes do sono. Ambientes excessivamente quentes dificultam esse processo, afetando a qualidade do sono.",
+   "Apesar desses achados, ainda não há consenso para determinar a temperatura ideal ou se simplesmente manter o quarto frio tem o mesmo efeito das oscilações naturais. A pesquisa também destaca que a luz continua sendo o principal regulador dos ritmos circadianos e que mais estudos são necessários."
+  ],
+  "detalhes": [
+   "Local: estudo realizado por pesquisadores que publicaram na Journal of Physiological Anthropology",
+   "Quando: estudo divulgado em outubro de 2026",
+   "Quem: oito participantes monitorados em ambientes com temperaturas controladas",
+   "Como: temperatura controlada variava entre 24°C e 27°C em uma condição e era constante em outra",
+   "Comparação: ponto mais baixo da temperatura corporal atingido uma hora antes na condição variável",
+   "Contexto: luz é conhecido como principal sincronizador, mas temperatura pode auxiliar na regulação",
+   "Importância: entender melhores condições térmicas pode ajudar a melhorar a qualidade do sono"
+  ],
+  "declaracoes": [
+   {
+    "quem": "pesquisadores do Journal of Physiological Anthropology",
+    "oque": "Temperatura do quarto influencia não só o sono, mas também a regulação do relógio biológico"
+   },
+   {
+    "quem": "pesquisadores do estudo mencionado",
+    "oque": "Embora luz seja principal sincronizador, temperatura pode afetar produção de melatonina e ritmo corporal"
+   },
+   {
+    "quem": "pesquisadores que investigaram populações indígenas",
+    "oque": "Em alguns povos, horários de sono parecem seguir variações de temperatura mais que luz solar"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "1974",
+    "oque": "Estudo mostrou dormir em ambiente 6°C mais frio prolonga ciclos de sono e vigília em 23 minutos"
+   },
+   {
+    "quando": "noite do estudo atual",
+    "oque": "Temperatura do quarto variou entre 24°C e 27°C seguindo programação no experimento"
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Estudo foi publicado e divulgado na imprensa"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ritmo circadiano",
+    "significado": "Ciclo biológico diário que regula sono e alertas"
+   },
+   {
+    "termo": "Melatonina",
+    "significado": "Hormônio que induz o sono e ajuda a regular o relógio biológico"
+   },
+   {
+    "termo": "Pressão homeostática do sono",
+    "significado": "Necessidade crescente de dormir quanto mais tempo acordado"
+   }
+  ],
+  "pergunta": "Você já percebeu se a temperatura do seu quarto afeta seu sono e disposição?",
+  "tamanhoTexto": 13794,
+  "numeros": [
+   {
+    "valor": "8",
+    "rotulo": "Número de participantes no estudo"
+   },
+   {
+    "valor": "27°C",
+    "rotulo": "Temperatura constante do quarto na condição controle"
+   },
+   {
+    "valor": "24°C",
+    "rotulo": "Temperatura mínima do quarto na condição variável"
+   },
+   {
+    "valor": "1°C",
+    "rotulo": "Diferença média entre temperatura corporal mais alta e mais baixa no dia"
+   },
+   {
+    "valor": "23",
+    "rotulo": "Minutos que o ciclo de sono foi prolongado em estudo de 1974"
+   },
+   {
+    "valor": "6°C",
+    "rotulo": "Temperatura mais baixa do quarto no estudo antigo de sono"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "variações de temperatura",
+  "porQueImporta": "Para investidores e traders, entender como fatores como temperatura afetam o sono é essencial. O descanso adequado impacta no foco, reação e tomada de decisão, habilidades cruciais em operações financeiras de alta pressão.",
+  "impactoMercado": "Ainda que não afete diretamente cotações, melhor qualidade do sono pode refletir em melhor desempenho do investidor. A conscientização sobre ambiente ideal para dormir pode influenciar comportamento e disposição para o dia útil no mercado.",
+  "entenda": "O ritmo circadiano é o ciclo biológico de cerca de 24 horas que regula o sono e a vigília. A melatonina é o hormônio que ajuda este ciclo, sendo liberado em resposta à escuridão para preparar o corpo para dormir. A temperatura ambiente pode ajudar a sincronizar esse ritmo.",
+  "observar": "Acompanhe futuras pesquisas sobre regulação térmica do sono e relatórios que estabeleçam temperaturas ideais para melhorar o descanso e eficiência no dia seguinte.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Transformamos resultados científicos sobre sono e temperatura em conteúdo prático e didático para mostrar o impacto do descanso na performance do mercado e na tomada de decisões financeiras.",
+  "gancho": "*Sono* e *Temperatura*: melhor descanso",
+  "ideias": [
+   "Como a temperatura do quarto afeta seu sono e performance",
+   "Entenda o papel da melatonina e do ambiente no descanso noturno",
+   "Dicas para ajustar o quarto e melhorar seu rendimento no trading"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "grafico",
+  "fonte": "Exame; Estadão Economia; Folha Mercado",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T21:49:02-03:00",
+  "url": "https://exame.com/ciencia/quarto-frio-ou-quente-como-a-temperatura-pode-afetar-a-qualidade-do-sono/",
+  "publicadoEm": "2026-10-26T17:00:21-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-126"
+ },
+ {
+  "titulo": "Eleitores israelenses voltam ao país para votar em eleição acirrada",
+  "resumo": "Até 80 mil israelenses do exterior retornarão para votar, num eleitorado de 7,3 milhões. A disputa intensa opõe Netanyahu e Eisenkot, marcada por temas como segurança e reforma do Judiciário.",
+  "fatos": [
+   "Eleições ocorreram em 26 de outubro de 2026 em Israel.",
+   "Israel tem cerca de 7,3 milhões de eleitores aptos segundo a Fundação Internacional para Sistemas Eleitorais.",
+   "Estima-se que até 80 mil cidadãos residentes no exterior voltarão para votar.",
+   "Benjamin Netanyahu foi primeiro-ministro por 18 anos ao longo de três períodos.",
+   "Gadi Eisenkot é ex-chefe do Estado-Maior e líder do partido Yashar.",
+   "A votação é a primeira desde 2022 e indica disputa apertada entre os dois.",
+   "Assuntos centrais incluem a guerra contra o Irã, serviço militar obrigatório e reforma do Judiciário.",
+   "Israelenses residentes no exterior não podem votar fora do país, exceto diplomatas.",
+   "A participação eleitoral está prevista para ser muito alta segundo especialistas."
+  ],
+  "explicacao": [
+   "Nas eleições israelenses de 26 de outubro de 2026, uma mobilização significativa de eleitores que moram fora do país ocorre porque estes não podem votar no exterior, salvo diplomatas. A estimativa é que até 80 mil retornem para votar entre um total de 7,3 milhões de eleitores inscritos.",
+   "O principal motivo é uma disputa muito apertada entre Benjamin Netanyahu, ex-primeiro-ministro do Likud, e Gadi Eisenkot, ex-chefe do Estado-Maior e líder do Yashar. A guerra com o Irã, o serviço militar obrigatório e a polêmica reforma do Judiciário estão no centro da campanha.",
+   "Esse contingente de eleitores do exterior, apesar de não ser grande quantitativamente, tem potencial decisivo dado o cenário eleitoral apertado, podendo influenciar a formação da próxima coalizão governista em Israel.",
+   "O resultado e a alta participação esperada refletem a importância desta eleição para o futuro político e a segurança do país, que vive tensões internas e externas, com expectativas de decisão em breve."
+  ],
+  "detalhes": [
+   "Quem: Cidadãos israelenses residentes no exterior e candidatos Netanyahu e Eisenkot.",
+   "Quanto: Até 80 mil eleitores do exterior devem viajar para votar.",
+   "Quando: Votação em 26 de outubro de 2026.",
+   "Onde: Israel, com eleitores vindo de vários países para participar.",
+   "Como: Viagem aérea organizada e mobilização de grupos que auxiliam esses eleitores.",
+   "Comparação: Esta é a primeira eleição desde 2022, com disputa mais acirrada.",
+   "Contexto: Guerra com o Irã aumenta o foco em segurança nacional na escolha dos eleitores."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Yael Shomer, professora da Universidade de Tel Aviv",
+    "oque": "Os eleitores do exterior, apesar de pequena quantidade, podem influenciar decisivamente o resultado de eleições tão disputadas."
+   },
+   {
+    "quem": "Yael Shomer, professora da Universidade de Tel Aviv",
+    "oque": "Esta eleição é especialmente disputada e possui enorme impacto no futuro político de Israel."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Eleições israelenses com alta mobilização do eleitorado residente no exterior."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Coalizão",
+    "significado": "Aliança de partidos para formar governo em sistemas proporcionais."
+   },
+   {
+    "termo": "Judiciário",
+    "significado": "Poder responsável por interpretar e aplicar leis."
+   },
+   {
+    "termo": "Serviço militar obrigatório",
+    "significado": "Obrigação legal de servir nas Forças Armadas por determinado período."
+   }
+  ],
+  "pergunta": "Como você acha que a volta dos eleitores do exterior pode influenciar o resultado?",
+  "tamanhoTexto": 7511,
+  "numeros": [
+   {
+    "valor": "7,3 milhões",
+    "rotulo": "eleitores aptos em Israel"
+   },
+   {
+    "valor": "80 mil",
+    "rotulo": "eleitores do exterior que podem voltar para votar"
+   },
+   {
+    "valor": "18 anos",
+    "rotulo": "tempo total de Netanyahu no cargo de primeiro-ministro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "80 mil eleitores",
+  "porQueImporta": "A volta de até 80 mil eleitores do exterior em uma disputa apertada pode influenciar a formação do governo de Israel, impactando decisões políticas e econômicas importantes para o país e região. A participação refletirá a tensão perante questões de segurança e reformas governamentais.",
+  "impactoMercado": "Por ser uma eleição ligadas à segurança e estabilidade política, o resultado pode afetar percepções globais sobre ativos ligados ao Oriente Médio, influenciando investimentos e fluxos financeiros na região, o que interessa a investidores atentos a cenários de risco internacional.",
+  "entenda": "Israel proíbe o voto de seus cidadãos residentes fora do país, exceto diplomatas, o que leva eleitores a retornar fisicamente para votar. As eleições parlamentares assim costumam ter coalizões que dependem de alianças, e temas como segurança nacional e reforma do Judiciário são decisivos para as escolhas.",
+  "observar": "Acompanhe os resultados oficiais nas próximas horas e eventos que podem influenciar a formação da coalizão e possíveis impactos no cenário geopolítico, além de políticas relacionadas à segurança e reformas internas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicamos a importância do voto dos cidadãos no exterior e o impacto da disputa política aberta na segurança de Israel, mostrando como decisões governamentais se ligam ao mercado e à estabilidade regional.",
+  "gancho": "*Eleitores* israelenses *voltam* para votar",
+  "ideias": [
+   "Por que israelenses no exterior viajam para votar?",
+   "Temas que dominam as eleições em Israel em 2026",
+   "O impacto da guerra Irã-Israel nas urnas"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Política monetária",
+  "icone": "grafico",
+  "fonte": "Times Brasil; Suno Notícias; InfoMoney",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T21:49:02-03:00",
+  "url": "https://timesbrasil.com.br/mundo/eleicoes-israelenses-atraem-dezenas-de-milhares-de-cidadaos-que-viajam-de-volta-para-votar/",
+  "publicadoEm": "2026-10-26T20:28:37-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-127"
+ },
+ {
+  "titulo": "Descoberto fungo gigante D-rex na China, possível ligação com extinção dos dinossauros",
+  "resumo": "Cientistas encontraram na China o fungo Dianjunus rex, com até 50 cm e 2,2 kg, que pode ter evoluído após a extinção dos dinossauros.",
+  "fatos": [
+   "O fungo Dianjunus rex pode medir até 50 cm de altura e pesar 2,2 kg.",
+   "Foi encontrado nas florestas de Yunnan, na China.",
+   "Pertence ao filo Ascomycota, com mais de 64 mil espécies reconhecidas.",
+   "Surgiu há cerca de 65 milhões de anos, após a extinção dos dinossauros.",
+   "A descoberta gerou uma nova família chamada Dianjunaceae.",
+   "Apresenta estruturas reprodutivas chamadas estromas, de até meio metro.",
+   "Foi estudado por pesquisadores do Instituto de Botânica de Kunming.",
+   "A análise usou a técnica de relógio molecular para determinar a idade da linhagem.",
+   "A hipótese é que a extinção favoreceu fungos decompositores pela abundância de matéria vegetal.",
+   "A descoberta foi publicada na revista Frontiers in Fungal Biology."
+  ],
+  "explicacao": [
+   "Pesquisadores do Instituto de Botânica de Kunming descobriram o fungo Dianjunus rex, apelidado D-rex, na província de Yunnan, China. Ele pode atingir meio metro de altura e pesar até 2,2 kg, sendo o maior conhecido do grupo Ascomycota.",
+   "A espécie surgiu há cerca de 65 milhões de anos, pouco depois da extinção dos dinossauros, segundo estudos genéticos usando relógio molecular. As mudanças ambientais pós-extinção podem ter criado condições favoráveis para fungos decompositores como ele.",
+   "O D-rex apresenta estruturas reprodutivas grandes, chamadas estromas, que facilitam a dispersão de esporos pelo vento em florestas densas. Sua descoberta levou à criação de uma nova família (Dianjunaceae) devido a diferenças genéticas marcantes.",
+   "O estudo reforça o potencial de Yunnan para revelar novas espécies, ainda pouco exploradas pela ciência devido a fatores como terreno difícil e sazonalidade dos fungos. Pesquisas futuras podem descobrir mais novidades."
+  ],
+  "detalhes": [
+   "O fungo cresce sobre raízes lenhosas de árvores chamadas sobreiros chineses.",
+   "Antes dele, os maiores ascomicetos tinham estruturas de 20 a 30 cm.",
+   "Diferentemente de cogumelos comuns, seus esporos são produzidos dentro de pequenos sacos.",
+   "O nome Dianjunus rex refere-se ao antigo reino de Dian e ao seu tamanho gigante.",
+   "O tamanho das estruturas pode ajudar na dispersão dos esporos pelo vento nas florestas densas.",
+   "O crescimento das estruturas grandes demanda muita energia, justificada pela vantagem na dispersão.",
+   "A região de Yunnan tem condições climáticas estáveis e grande diversidade biológica."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Indunil C. Senanayake, pesquisador do Instituto de Botânica de Kunming",
+    "oque": "Transformações ambientais após extinção dos dinossauros podem ter favorecido a evolução do D-rex."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "65 milhões de anos atrás",
+    "oque": "Surgiu a linhagem evolutiva do fungo Dianjunus rex, pouco depois da extinção dos dinossauros."
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Publicada na revista Frontiers in Fungal Biology a descoberta do fungo D-rex."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Estromas",
+    "significado": "Estruturas reprodutivas do fungo que liberam esporos."
+   },
+   {
+    "termo": "Relógio molecular",
+    "significado": "Método que estima a idade de linhagens com base nas diferenças genéticas."
+   },
+   {
+    "termo": "Ascomycota",
+    "significado": "Filo de fungos que produz esporos em sacos chamados ascos."
+   }
+  ],
+  "pergunta": "Você sabia que fungos gigantes podem ajudar a entender a extinção dos dinossauros?",
+  "tamanhoTexto": 15250,
+  "numeros": [
+   {
+    "valor": "50",
+    "rotulo": "centímetros de altura do fungo"
+   },
+   {
+    "valor": "2,2",
+    "rotulo": "quilo de peso do D-rex"
+   },
+   {
+    "valor": "65 milhões",
+    "rotulo": "anos que a linhagem evolutiva do fungo possui"
+   },
+   {
+    "valor": "over 64 mil",
+    "rotulo": "espécies reconhecidas do filo Ascomycota"
+   },
+   {
+    "valor": "20-30",
+    "rotulo": "cm das anteriores maiores estruturas em ascomicetos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "50 cm de",
+  "porQueImporta": "A descoberta do fungo gigante D-rex é importante porque revela como eventos históricos, como a extinção dos dinossauros, podem ter influenciado a evolução de organismos. Para investidores e interessados em ciência, amplia o entendimento sobre biodiversidade e potenciais novos recursos naturais.",
+  "impactoMercado": "Embora a notícia não tenha impacto direto no mercado financeiro, a pesquisa científica reforça o valor de investimentos em biotecnologia e inovação, além de destacar a importância da conservação ambiental e pesquisa em biodiversidade para futuros negócios e tecnologia.",
+  "entenda": "Os ascomicetos são fungos que produzem esporos dentro de estruturas em forma de saco. O fungo Dianjunus rex é o maior conhecido nesse grupo, com estruturas reprodutivas chamadas estromas que ajudam a espalhar seus esporos pelo ambiente.",
+  "observar": "Importante acompanhar novas expedições na floresta de Yunnan e pesquisas sobre o papel do D-rex na decomposição da madeira e no ecossistema local.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Notícias científicas como a do fungo D-rex mostram como observar o mercado exige curiosidade e análise detalhada, habilidades importantes para quem quer entender o mercado financeiro e avançar na faculdade de mercado.",
+  "gancho": "*Fungo* gigante: ligação com extinção",
+  "ideias": [
+   "O que é o fungo Dianjunus rex e por que ele é tão grande?",
+   "Como a extinção dos dinossauros pode ter influenciado a evolução de fungos?",
+   "Descoberta científica na China: nova família de fungos gigantes"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Global",
+  "icone": "globo",
+  "fonte": "Exame; Seu Dinheiro; Money Times",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T21:49:02-03:00",
+  "url": "https://exame.com/ciencia/fungo-gigante-de-ate-50-cm-pode-ter-ligacao-com-extincao-dos-dinossauros/",
+  "publicadoEm": "2026-10-26T16:12:36-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-128"
+ },
+ {
   "titulo": "Trump questiona eleição no Brasil, mas elogia Lula e descarta intervenções",
   "resumo": "Presidente dos EUA, Donald Trump, declarou suspeitas sem provas sobre eleição brasileira, mas destacou boa relação com Lula. Declarações vieram após confirmação da vitória do petista em outubro de 2026.",
   "fatos": [
@@ -20474,53 +21215,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-october-2026",
-  "titulo": "Mercado de previsões vê 95.5% de chance de Ethereum a *menos* de $2,300 em outubro",
-  "resumo": "Os apostadores estão bastante confiantes de que o preço do Ethereum não ultrapassará $2,300 em outubro.",
+  "titulo": "Mercado de previsões vê 83.8% de chance de Ethereum *abaixo de 2,300* em outubro",
+  "resumo": "Os apostadores acreditam que o preço do Ethereum terá uma queda significativa em relação a 2,300.",
   "probs": [
    {
-    "opcao": "↓ $2,300",
-    "prob": 95.5
+    "opcao": "↓ 2,300",
+    "prob": 83.8
    },
    {
-    "opcao": "↑ $2,400",
-    "prob": 50.0
+    "opcao": "↑ 2,400",
+    "prob": 60.5
    },
    {
-    "opcao": "↓ $2,200",
-    "prob": 41.5
+    "opcao": "↓ 2,200",
+    "prob": 33.5
    },
    {
-    "opcao": "↑ $2,500",
-    "prob": 19.5
+    "opcao": "↑ 2,500",
+    "prob": 23.5
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 134 mil",
+  "volume24h": "US$ 136 mil",
   "fatos": [
-   "↓ $2,300: 95,5%",
-   "↑ $2,400: 50,0%",
-   "↓ $2,200: 41,5%",
-   "↑ $2,500: 19,5%"
+   "↓ 2,300: 83,8%",
+   "↑ 2,400: 60,5%",
+   "↓ 2,200: 33,5%",
+   "↑ 2,500: 23,5%"
   ],
   "numeros": [
    {
-    "valor": "95,5%",
-    "rotulo": "↓ $2,300"
+    "valor": "83,8%",
+    "rotulo": "↓ 2,300"
    },
    {
-    "valor": "50,0%",
-    "rotulo": "↑ $2,400"
+    "valor": "60,5%",
+    "rotulo": "↑ 2,400"
    },
    {
-    "valor": "41,5%",
-    "rotulo": "↓ $2,200"
+    "valor": "33,5%",
+    "rotulo": "↓ 2,200"
    },
    {
-    "valor": "19,5%",
-    "rotulo": "↑ $2,500"
+    "valor": "23,5%",
+    "rotulo": "↑ 2,500"
    }
   ],
-  "destaque": "95,5%",
+  "destaque": "83,8%",
   "gancho": "*Incerteza entre cripto* investidores",
   "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
   "categoria": "Previsões",
@@ -20535,7 +21276,7 @@
   "data": "2026-10-22",
   "status": "atualizada",
   "id": "2026-10-22-p1",
-  "atualizadoEm": "2026-10-26T17:45:39-03:00"
+  "atualizadoEm": "2026-10-26T21:49:02-03:00"
  },
  {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
@@ -26945,12 +27686,12 @@
   "categoria": "Previsões",
   "coletadoEm": "2026-10-19T06:52:00-03:00",
   "data": "2026-10-19",
-  "destaque": "46,0%",
+  "destaque": "51,5%",
   "fatos": [
-   "↓ $77,500: 46,0%",
-   "↑ $82,500: 44,5%",
-   "↓ $75,000: 16,5%",
-   "↑ $85,000: 15,5%"
+   "↑ 82,500: 51,5%",
+   "↓ 77,500: 39,5%",
+   "↑ 85,000: 17,5%",
+   "↓ 75,000: 13,5%"
   ],
   "fonte": "Polymarket (mercado de previsões)",
   "gancho": "*Bitcoin*: apostas pendem para *queda*",
@@ -26961,50 +27702,50 @@
   "prazo": "2026-11-01",
   "probs": [
    {
-    "opcao": "↓ $77,500",
-    "prob": 46.0
+    "opcao": "↑ 82,500",
+    "prob": 51.5
    },
    {
-    "opcao": "↑ $82,500",
-    "prob": 44.5
+    "opcao": "↓ 77,500",
+    "prob": 39.5
    },
    {
-    "opcao": "↓ $75,000",
-    "prob": 16.5
+    "opcao": "↑ 85,000",
+    "prob": 17.5
    },
    {
-    "opcao": "↑ $85,000",
-    "prob": 15.5
+    "opcao": "↓ 75,000",
+    "prob": 13.5
    }
   ],
   "publicadoEm": "2026-10-19T06:52:00-03:00",
-  "resumo": "Os apostadores veem uma ligeira vantagem para a queda do Bitcoin, com quase metade acreditando que ficará abaixo de $77,500.",
+  "resumo": "Os apostadores têm uma expectativa favorável sobre o preço do Bitcoin para outubro de 2026.",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
   "status": "atualizada",
   "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 46.0% de chance de Bitcoin a *menos* de $77,500 em outubro",
+  "titulo": "Mercado de previsões vê 51.5% de chance de Bitcoin *acima de 82,500* em outubro",
   "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
-  "volume24h": "US$ 597 mil",
+  "volume24h": "US$ 513 mil",
   "id": "2026-10-19-p3",
   "numeros": [
    {
-    "valor": "46,0%",
-    "rotulo": "↓ $77,500"
+    "valor": "51,5%",
+    "rotulo": "↑ 82,500"
    },
    {
-    "valor": "44,5%",
-    "rotulo": "↑ $82,500"
+    "valor": "39,5%",
+    "rotulo": "↓ 77,500"
    },
    {
-    "valor": "16,5%",
-    "rotulo": "↓ $75,000"
+    "valor": "17,5%",
+    "rotulo": "↑ 85,000"
    },
    {
-    "valor": "15,5%",
-    "rotulo": "↑ $85,000"
+    "valor": "13,5%",
+    "rotulo": "↓ 75,000"
    }
   ],
-  "atualizadoEm": "2026-10-26T17:45:39-03:00"
+  "atualizadoEm": "2026-10-26T21:49:02-03:00"
  },
  {
   "categoria": "Previsões",
