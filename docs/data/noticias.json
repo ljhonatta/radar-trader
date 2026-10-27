@@ -1,5 +1,808 @@
 [
  {
+  "titulo": "Ibovespa cai e dólar recua após eleições e espera por decisão do Fed",
+  "resumo": "Ibovespa fechou em queda de 0,47%, aos 175.780 pontos, e dólar recuou 0,97%, a R$ 5,3502, nesta terça (27). Mercado reage à reeleição de Lula e à expectativa pela decisão de juros do Fed.",
+  "fatos": [
+   "Ibovespa caiu 0,47% no dia 27/06, fechando aos 175.780 pontos.",
+   "Dólar recuou 0,97%, cotado a R$ 5,3502, com mínima a R$ 5,3080.",
+   "Na segunda-feira (26), dólar subiu 8,21%, maior alta desde 1999.",
+   "Ibovespa caiu 13,88% na segunda (26), pior queda desde março de 2020.",
+   "Lula venceu eleição com 51,78% dos votos contra 48,22% de Flávio Bolsonaro.",
+   "Expectativa pela decisão do Fed sobre juros, agendada para 28/06.",
+   "Preços do barril Brent recuaram 1,38%, a US$ 113,81; WTI caiu 1,62%, a US$ 100,11.",
+   "Possível judicialização do resultado eleitoral aumenta incerteza no mercado."
+  ],
+  "explicacao": [
+   "Na terça-feira, 27 de junho, o Ibovespa, principal índice da bolsa brasileira, sofreu queda de 0,47%, fechando aos 175.780 pontos, enquanto o dólar desvalorizou 0,97%, cotado a R$ 5,3502. Esses movimentos refletem a reação do mercado às eleições presidenciais e à espera pela reunião do Federal Reserve (Fed).",
+   "A reeleição do presidente Lula com 51,78% dos votos levou investidores a ajustar expectativas sobre juros, dólar e a situação fiscal do país. O mercado cobra medidas claras de ajuste fiscal para controlar a dívida pública e evitar pressão inflacionária causada pela valorização do dólar.",
+   "Além disso, o mercado externo está atento à decisão do Fed sobre juros, prevista para quarta-feira (28), que impacta o fluxo de investimentos e a cotação do dólar globalmente. A persistência de incertezas locais, como a possível judicialização do resultado eleitoral, aumenta a volatilidade do mercado brasileiro.",
+   "Por fim, o cenário global com eleições em Israel e os preços do petróleo — que caíram após temores de ataques na Arábia Saudita — também influenciam o mercado. Investidores devem acompanhar a reação do governo Lula e a decisão do Fed como próximos eventos-chave."
+  ],
+  "detalhes": [
+   "Data da cotação: 27 de junho de 2023.",
+   "Lula (PT) reeleito para um quarto mandato presidencial brasileiro.",
+   "Queda da bolsa mais intensa observada no dia anterior, pós-eleição.",
+   "Flávio Bolsonaro contestou resultado e pretende recorrer judicialmente.",
+   "Foco dos investidores está na política fiscal e na credibilidade das metas do governo.",
+   "Decisão do Fed pode influenciar custos de crédito e fluxo de capital.",
+   "Alta recente do dólar pressionou inflação e expectativas econômicas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Gabriel Mollo, analista da Daycoval Corretora",
+    "oque": "Investidores focam na política fiscal e na trajetória da dívida pública no novo mandato de Lula."
+   },
+   {
+    "quem": "Jason Vieira, economista-chefe da Lev DTVM",
+    "oque": "Equipe econômica sinaliza PEC para revisão de gastos e busca cumprimento da meta fiscal."
+   },
+   {
+    "quem": "William Castro Alves, estrategista-chefe da Avenue",
+    "oque": "Ambiente de incerteza política pode impactar preços dos ativos por possível judicialização."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/06/2023",
+    "oque": "Dólar teve maior alta diária desde 1999, subindo 8,21%."
+   },
+   {
+    "quando": "27/06/2023",
+    "oque": "Ibovespa caiu 0,47%; dólar recuou 0,97% até as 17h."
+   },
+   {
+    "quando": "28/06/2023",
+    "oque": "Decisão do Fed sobre juros nos EUA está prevista para esta quarta-feira."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede o desempenho das principais ações negociadas na bolsa brasileira."
+   },
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos Estados Unidos, que define a taxa básica de juros do país."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira, usada para controlar a inflação."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto da eleição de Lula nos seus investimentos?",
+  "tamanhoTexto": 6940,
+  "numeros": [
+   {
+    "valor": "175.780",
+    "rotulo": "pontos do Ibovespa em 27/06/2023"
+   },
+   {
+    "valor": "0,47%",
+    "rotulo": "queda do Ibovespa em 27/06/2023"
+   },
+   {
+    "valor": "5,3502",
+    "rotulo": "cotação do dólar em reais em 27/06/2023"
+   },
+   {
+    "valor": "0,97%",
+    "rotulo": "queda percentual do dólar em 27/06/2023"
+   },
+   {
+    "valor": "51,78%",
+    "rotulo": "percentual de votos válidos de Lula na eleição"
+   },
+   {
+    "valor": "48,22%",
+    "rotulo": "percentual de votos válidos de Flávio Bolsonaro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "176.608 pontos (26/06)",
+    "depois": "175.780 pontos (27/06)"
+   },
+   {
+    "item": "Dólar (R$)",
+    "antes": "5,4027 (26/06)",
+    "depois": "5,3502 (27/06)"
+   }
+  ],
+  "destaque": "0,47% queda do",
+  "porQueImporta": "A reação dos mercados a eleições presidenciais e decisões do Fed impacta diretamente a confiança dos investidores e os custos do crédito. A política fiscal do novo governo pode afetar juros, dólar e inflação, influenciando estratégias de quem investe ou opera ativos financeiros.",
+  "impactoMercado": "A volatilidade causada pela incerteza política aumenta riscos em ações e câmbio. Setores sensíveis a juros e moeda, como bancos e exportadores, podem reagir a mudanças nas expectativas. A decisão do Fed deve alterar o fluxo de capital global e influenciar o custo do capital no Brasil.",
+  "entenda": "Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho médio das ações mais negociadas. O dólar influenciado por fatores internos e externos impacta preços e inflação. Decisões do Fed nos EUA alteram taxas globais de juros e afetam investimentos no Brasil.",
+  "observar": "Acompanhe a decisão do Fed em 28/06 e declarações do presidente Kevin Warsh, além das medidas fiscais do governo Lula para entender os próximos movimentos do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra como decisões políticas e monetárias influenciam o mercado financeiro e os investimentos, destacando a importância de entender política fiscal, câmbio e decisões globais para operar com mais segurança e conhecimento.",
+  "gancho": "*Mercado* pós-eleições e *Fed*",
+  "ideias": [
+   "O que muda para o Ibovespa após a reeleição de Lula?",
+   "Como a decisão do Fed afeta o dólar e a bolsa brasileira?",
+   "Por que a política fiscal influencia os preços dos ativos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "G1 Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml",
+  "publicadoEm": "2026-10-27T09:00:32-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-05"
+ },
+ {
+  "titulo": "Mercado prevê meses de tensão fiscal após reeleição de Lula",
+  "resumo": "Reeleição surpresa de Lula gera instabilidade no mercado financeiro, que deve durar meses. Pressão aumenta sobre o pacote de ajuste fiscal e equipe econômica a ser definida.",
+  "fatos": [
+   "Lula foi reeleito para o quarto mandato à Presidência em 2026.",
+   "A bolsa de valores caiu significativamente no pregão de 27 de outubro de 2026.",
+   "Juros futuros tiveram alta após o resultado da eleição.",
+   "Investidores esperavam vitória de Flávio Bolsonaro (PL).",
+   "A equipe econômica ainda não foi definida; Rafael Fonteles e Geraldo Alckmin são cotados para o Ministério da Economia.",
+   "O ajuste fiscal do governo visa retorno ao superávit primário.",
+   "O Congresso a partir de 2027 está mais à direita.",
+   "Gastos sociais anunciados incluem aumento do teto para MEIs e reajuste do Bolsa Família.",
+   "Especialistas recomendam cautela e diversificação em ativos como CDBs e títulos pós-fixados.",
+   "Reforma tributária deve iniciar efeitos em 2027, impactando arrecadação."
+  ],
+  "explicacao": [
+   "A inesperada reeleição de Luiz Inácio Lula da Silva para um quarto mandato causou forte reação no mercado financeiro logo após o pleito, com queda na Bolsa e alta dos juros futuros registrada em 27 de outubro de 2026.",
+   "Esse cenário acontece porque investidores esperavam a vitória de Flávio Bolsonaro, que prometia um governo mais liberal e reformas econômicas alinhadas a um Congresso mais à direita, aumentando otimismo.",
+   "Agora, o mercado está atento ao pacote de ajuste fiscal anunciado pelo governo Lula, que visa alcançar o superávit primário, e à definição da nova equipe econômica, com nomes disputados, como Rafael Fonteles e Geraldo Alckmin.",
+   "Nos próximos meses, esse ambiente tenso deve perdurar, com debates políticos prévios a 2027 e necessidade de conciliar promessas de gastos sociais com controle da dívida pública e ajustes tributários."
+  ],
+  "detalhes": [
+   "Reação do mercado ocorre após o pleito concluído em 27/10/2026.",
+   "O pacote de ajuste busca o centro da meta de superávit fiscal.",
+   "O governo enfrenta desafio com alta e crescente dívida pública.",
+   "Período de tensão esperado entre mudanças econômicas e negociações políticas.",
+   "Medidas transitórias podem ter mais chance se aprovadas ainda em 2026.",
+   "Dúvidas se Lula manterá independência do Banco Central após mandato anterior restritivo.",
+   "Gastos sociais recentes complicam a redução de despesas futuras."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Adriana Dupita, economista-chefe adjunta da Bloomberg Economics",
+    "oque": "Prevê período conturbado para o orçamento que precisa gerar superávit para controlar a dívida."
+   },
+   {
+    "quem": "André Perfetto, economista",
+    "oque": "Compara reação do mercado atual à de 2002, prevendo meses de mal-estar até estabilização."
+   },
+   {
+    "quem": "Daniela Cardoso Pinto, professora da FESPSP",
+    "oque": "Ajuste fiscal será difícil por conta dos gastos anunciados, mas juros mais baixos podem ajudar."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "27/10/2026",
+    "oque": "Mercado reage à vitória inesperada de Lula com queda na Bolsa e alta dos juros."
+   },
+   {
+    "quando": "Antes das eleições",
+    "oque": "Investidores precificavam vitória de Flávio Bolsonaro em cenário liberal com Congresso à direita."
+   },
+   {
+    "quando": "Final de 2026",
+    "oque": "Possibilidade de aprovação de medidas de transição no Congresso mais à direita."
+   },
+   {
+    "quando": "Início de 2027",
+    "oque": "Efeitos da reforma tributária devem começar a impactar a economia."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo positivo do orçamento sem contar pagamentos de juros da dívida."
+   },
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxas de juros previstas para períodos próximos, usadas por investidores para precificação."
+   },
+   {
+    "termo": "Ajuste fiscal",
+    "significado": "Conjunto de medidas para equilibrar receitas e despesas do governo."
+   }
+  ],
+  "pergunta": "Como a reação do mercado à eleição pode afetar seus investimentos?",
+  "tamanhoTexto": 9062,
+  "numeros": [
+   {
+    "valor": "27/10/2026",
+    "rotulo": "Data do primeiro pregão após eleição"
+   },
+   {
+    "valor": "4º mandato",
+    "rotulo": "Mandato conquistado por Luiz Inácio Lula da Silva"
+   },
+   {
+    "valor": "7",
+    "rotulo": "Número de acessos diários liberados para não assinantes na Folha"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Expectativa de vitória presidencial",
+    "antes": "Flávio Bolsonaro (PL)",
+    "depois": "Luiz Inácio Lula da Silva"
+   }
+  ],
+  "destaque": "meses de tensão",
+  "porQueImporta": "Entender a reação do mercado frente à eleição e ao cenário fiscal é crucial para investidores avaliarem riscos e oportunidades. A pressão sobre o ajuste fiscal e as definições de equipe econômica influenciam o ambiente econômico e decisões de investimento no curto e médio prazo.",
+  "impactoMercado": "Setores sensíveis à política fiscal e ao crédito podem apresentar volatilidade. Juros futuros e bolsa tendem a oscilar até maior estabilidade política e econômica. Ativos de renda fixa e pós-fixados podem ganhar espaço como proteção em momento de incerteza.",
+  "entenda": "O mercado financeiro reage a mudanças políticas porque afetam a economia, especialmente a capacidade do governo de controlar despesas e receitas. Ajuste fiscal é o processo de equilibrar o orçamento público para manter a dívida sustentável, e influencia juros e confiança dos investidores.",
+  "observar": "Fique atento à definição da equipe econômica nas próximas semanas, à aprovação de medidas no Congresso ainda em 2026, e à evolução da reforma tributária que terá impacto a partir de 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Esta notícia explica de forma simples como as eleições e o cenário político-fiscal impactam o mercado, ajudando quem quer entender o funcionamento da economia e conhecer uma faculdade especializada.",
+  "gancho": "*Reeleição* e *tensão fiscal* no mercado",
+  "ideias": [
+   "Entenda a reação do mercado à eleição de Lula",
+   "O que é ajuste fiscal e por que o mercado pressiona?",
+   "Quem deve comandar a equipe econômica no novo governo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Folha Mercado",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/analistas-veem-meses-de-tensao-fiscal-apos-reacao-do-mercado-a-lula.shtml",
+  "publicadoEm": "2026-10-27T14:20:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-06"
+ },
+ {
+  "titulo": "Produtor rural de MG tenta reorganizar R$ 20 milhões em dívidas na Justiça",
+  "resumo": "Produtor de Minas Gerais acumula R$ 20 milhões em crédito rural e busca ajustar dívidas judicialmente devido a dificuldades financeiras.",
+  "fatos": [
+   "Produtor do agronegócio de Minas Gerais possui cerca de R$ 20 milhões em dívidas rurais.",
+   "Dívidas relacionadas a operações de crédito rural contraídas para a atividade agrícola.",
+   "Perdas ocorreram devido a excesso de chuvas e queda dos preços de comercialização dos grãos.",
+   "Custos de produção aumentaram, especialmente com insumos e defensivos agrícolas.",
+   "Propriedade ainda mantém viabilidade econômica e continua produzindo.",
+   "Processos judiciais suspenderam temporariamente os pagamentos e a negativação do produtor.",
+   "Reorganização depende de análise de contratos, capacidade produtiva e situação econômica atual.",
+   "Preservação dos equipamentos agrícolas é fundamental para manter a produção e viabilidade."
+  ],
+  "explicacao": [
+   "Um produtor rural de Minas Gerais enfrenta dificuldades para pagar R$ 20 milhões em operações de crédito rural e procura a Justiça para reorganizar seus pagamentos.",
+   "O endividamento ocorreu por causas combinadas, como perdas de produtividade por excesso de chuvas, queda nos preços dos grãos e aumento dos custos de insumos.",
+   "Apesar dos débitos, a propriedade continua produzindo e mantém viabilidade econômica, destacando que produzir não significa ter caixa para pagar dívidas no prazo.",
+   "O Judiciário analisou contratos, situação financeira e técnica agronômica para suspender temporariamente pagamentos e evitar negativação, sem extinguir as dívidas."
+  ],
+  "detalhes": [
+   "Produtor rural do estado de Minas Gerais enfrenta R$ 20 milhões em dívidas vinculadas a crédito rural.",
+   "Condições climáticas adversas, principalmente excesso de chuvas, reduziram a produtividade das lavouras.",
+   "Preços baixos dos grãos vendidos prejudicaram a receita da atividade agrícola.",
+   "Custos com insumos e defensivos aumentaram, pressionando ainda mais as finanças da propriedade.",
+   "Documentos apresentados ao Judiciário confirmam que a propriedade ainda produz e tem viabilidade econômica.",
+   "Medidas judiciais suspenderam temporariamente o pagamento das parcelas e a negativação do produtor.",
+   "A análise para reorganizar dívidas envolve avaliação técnica agronômica e situação financeira detalhada."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Giulia Arndt, advogada da Maffioletti & Arndt Advogados",
+    "oque": "Diferenciar produtores com viabilidade econômica daqueles que perderam, considerando receita e despesas."
+   },
+   {
+    "quem": "Giulia Arndt, advogada da Maffioletti & Arndt Advogados",
+    "oque": "Discutir dívidas e prazos de pagamento em conformidade com o ciclo produtivo rural é essencial."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Atual",
+    "oque": "Produtor busca na Justiça reorganização das dívidas rurais de R$ 20 milhões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Crédito rural",
+    "significado": "Empréstimo específico para financiar atividades do campo."
+   },
+   {
+    "termo": "Viabilidade econômica",
+    "significado": "Capacidade da propriedade gerar receita suficiente para se manter."
+   },
+   {
+    "termo": "Negativação",
+    "significado": "Registro do nome como inadimplente em cadastros de crédito."
+   }
+  ],
+  "pergunta": "Você sabia que produzir nem sempre garante pagar dívidas agrícolas no prazo? Como você administraria essa situação?",
+  "tamanhoTexto": 5770,
+  "numeros": [
+   {
+    "valor": "R$ 20 milhões",
+    "rotulo": "Valor total das dívidas rurais do produtor em Minas Gerais"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 20 milhões",
+  "porQueImporta": "Essa notícia ilustra os desafios reais do agronegócio, onde mesmo propriedades produtivas podem enfrentar dificuldades financeiras causadas por fatores externos que afetam o fluxo de caixa e o pagamento de dívidas. Isso influencia decisões de crédito e gestão financeira para investidores e operadores do mercado agrícola.",
+  "impactoMercado": "O caso reflete problemas comuns no mercado rural, podendo afetar setores ligados ao agronegócio, como bancos rurais, empresas de insumo e seguradoras. Juros e prazos de financiamentos rurais podem ser revisados, impactando o custo financeiro e estratégias dos investidores envolvidos no setor.",
+  "entenda": "No agronegócio, crédito rural é comum para financiar safras. Contudo, mudanças climáticas, preços e custos podem desajustar os pagamentos. A reorganização judicial permite ajuste das dívidas conforme realidade produtiva, evitando perdas maiores e preservando a continuidade da produção.",
+  "observar": "É importante acompanhar o andamento dos processos judiciais, além de fatores como condições climáticas e preços das commodities, que podem continuar influenciando a capacidade de pagamento do produtor.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Essa notícia conecta a realidade do agronegócio aos conceitos financeiros e jurídicos, ajudando quem quer entender crédito rural, riscos e gestão, mostrando por que uma formação em mercado financeiro é fundamental para decisões seguras.",
+  "gancho": "*Crédito Rural* e *Dívidas* em MG",
+  "ideias": [
+   "Como funciona o crédito rural e seus impactos na produção agrícola",
+   "O que acontece quando um produtor rural não consegue pagar suas dívidas",
+   "Reorganização judicial: quando e como pode ajudar produtores rurais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "cadeado",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "url": "https://www.moneytimes.com.br/produtor-rural-de-mg-acumula-r-20-milhoes-em-dividas-e-busca-reorganizar-pagamentos-na-justica/",
+  "publicadoEm": "2026-10-27T15:32:49-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-07"
+ },
+ {
+  "titulo": "Itaú formaliza prestação de serviços de criptoativos ao Banco Central",
+  "resumo": "Itaú comunicou ao BC sua atuação em intermediação e custódia de criptoativos, em conformidade com nova regulamentação. Banco oferece mais de 14 ativos digitais desde dezembro de 2023, incluindo bitcoin, ether e USDC.",
+  "fatos": [
+   "27/10/2026: Itaú formalizou atuação junto ao Banco Central.",
+   "Atua em intermediação e custódia de criptoativos, conforme regras recentes.",
+   "Itaú oferece mais de 14 criptoativos, incluindo BTC, ETH e USDC.",
+   "Compra e venda de ativos digitais disponível desde dezembro de 2023.",
+   "Instituições financeiras autorizadas comunicam o BC; SPSAVs precisam solicitar autorização.",
+   "Banco não divulga número de clientes ou volume financeiro dos serviços.",
+   "Guto Antunes é superintendente de ativos digitais do Itaú Unibanco.",
+   "Itaú prioriza segurança do cliente e forte governança no ambiente de criptoativos."
+  ],
+  "explicacao": [
+   "Nesta terça-feira (27), o Itaú Unibanco oficializou junto ao Banco Central sua condição como prestador de serviços no mercado de criptoativos. A formalização abrange serviços de intermediação e custódia, alinhados à categoria de corretora prevista nas recentes regras do setor.",
+   "Essa comunicação ao BC ocorre porque instituições financeiras autorizadas como o Itaú não precisam de autorização específica para atuar com criptoativos, diferente das sociedades prestadoras de serviços dessas moedas, que sim necessitam de autorização formal.",
+   "O banco disponibiliza a compra e venda de ativos digitais desde dezembro de 2023, ofertando mais de 14 moedas virtuais, entre elas as principais do mercado: bitcoin (BTC), ether (ETH) e a stablecoin USDC, que é atrelada ao dólar americano.",
+   "Segundo o Itaú, a formalização reforça a segurança e governança para consumidores e mercado, estabelecendo uma base sólida para o desenvolvimento dos ativos digitais no Brasil e internacionalmente."
+  ],
+  "detalhes": [
+   "Formalização transmitida ao Banco Central em 27/10/2026.",
+   "Abrange as atividades equivalentes a corretoras de ativos digitais.",
+   "Itaú oferece criptoativos com serviços de compra, venda e custódia.",
+   "Atua desde dezembro de 2023 nesta área de ativos digitais.",
+   "Inclui moedas virtuais populares e stablecoin lastreada no dólar.",
+   "Instituições financeiras comunicam ao BC, SPSAVs precisam autorização.",
+   "Citação de Guto Antunes destaca foco em segurança e governança."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Guto Antunes, superintendente de ativos digitais do Itaú Unibanco",
+    "oque": "A formalização cria bases sólidas para o desenvolvimento dos ativos digitais, com foco na segurança do cliente."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "27/10/2026",
+    "oque": "Itaú formaliza atuação como prestador de serviços de criptoativos ao BC."
+   },
+   {
+    "quando": "dezembro de 2023",
+    "oque": "Itaú inicia oferta de compra e venda de criptoativos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Custódia",
+    "significado": "Guarda e proteção segura dos ativos digitais do cliente."
+   },
+   {
+    "termo": "Intermediação",
+    "significado": "Serviço de compra e venda de criptoativos entre clientes."
+   },
+   {
+    "termo": "Stablecoin",
+    "significado": "Criptomoeda atrelada a um ativo estável, como dólar, para menor volatilidade."
+   }
+  ],
+  "pergunta": "Você já conhece os serviços de cripto do Itaú? Como vê a segurança nesse mercado?",
+  "tamanhoTexto": 2793,
+  "numeros": [
+   {
+    "valor": "14",
+    "rotulo": "número de ativos digitais ofertados pelo Itaú"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "14 ativos digitais",
+  "porQueImporta": "A formalização do Itaú junto ao Banco Central reforça a confiança e regulamentação no mercado de criptoativos, setor em crescimento. Para investidores, isso assegura maior transparência e segurança nas operações oferecidas por uma grande instituição financeira, importante para adoção e expansão dessa classe de ativos no Brasil.",
+  "impactoMercado": "Essa formalização pode estimular o interesse por ativos digitais por investidores institucionais e de varejo. O aumento da oferta por grandes bancos tende a fomentar a liquidez e competitividade no setor, podendo influenciar o volume negociado de criptomoedas e ampliar a base de clientes no ambiente regulado.",
+  "entenda": "Atuar como prestador de serviços de ativos virtuais significa oferecer intermediação (compra e venda) e custódia (guarda segura) de criptomoedas. A regulamentação estipula procedimentos para instituições financeiras, garantindo que estas cumpram regras específicas para proteger o consumidor e o mercado.",
+  "observar": "Fique atento a próximos comunicados do Banco Central sobre regulamentação de criptoativos e possíveis novas autorizações para instituições financeiras. Também acompanhe atualizações do Itaú sobre ampliação dos serviços e evolução do mercado digital.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra a inserção de grandes bancos no mercado cripto com segurança e governança, estimulando quem quer entender como operar digitalmente na bolsa e no mundo financeiro moderno. É conteúdo para conectar educação financeira com inovação tecnológica.",
+  "gancho": "*Itaú* e *Cripto*: Nova etapa oficial",
+  "ideias": [
+   "Como o Itaú atua no mercado de criptoativos?",
+   "O que muda com a formalização do Itaú no BC?",
+   "Segurança no mercado cripto: papel do banco Itaú"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/10/27/ita-formaliza-atuao-como-prestador-de-servios-de-criptoativos-junto-ao-bc.ghtml",
+  "publicadoEm": "2026-10-27T16:07:15-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-08"
+ },
+ {
+  "titulo": "Ibovespa futuro sobe e dólar cai após queda histórica e circuit breaker",
+  "resumo": "Ibovespa futuro avança 0,4% um dia após queda de 13,88%; dólar recua 1% e juros futuros caem. Mercado ajusta posições após acionamento do circuit breaker pela B3.",
+  "fatos": [
+   "Ibovespa caiu 13,88% em 26 de outubro de 2026.",
+   "Ibovespa futuro subia 0,41% às 9h25 do dia 27 de outubro.",
+   "Dólar recuou 1%, cotado a R$ 5,34 no dia 27 de outubro.",
+   "B3 acionou circuit breaker na abertura do pregão em 26 de outubro.",
+   "Valor de mercado das empresas listadas caiu R$ 734 bilhões em um pregão.",
+   "68 de 76 ações do Ibovespa fecharam em queda no dia 26 de outubro.",
+   "Magazine Luiza caiu 58,23%, Banco do Brasil caiu 29,33% no pregão.",
+   "ETF EWZ subiu mais de 1% no pré-mercado em Nova York após queda de 19,82% no dia anterior.",
+   "Taxa do DI para janeiro de 2029 recuou de 15,25% para 15,13% na manhã do dia 27.",
+   "Lula foi reeleito com 51,75% dos votos contra 48,25% de Bolsonaro."
+  ],
+  "explicacao": [
+   "Após queda histórica de 13,88% no Ibovespa no dia 26 de outubro, maior desde março de 2020, o índice futuro começou o dia 27 com alta de 0,4%, refletindo ajuste após nervosismo. O dólar comercial caiu 1%, recuando de alta de 8,21% no pregão anterior, e os juros futuros mostraram queda em diversos vencimentos.",
+   "O movimento ocorreu em reação à reeleição de Luiz Inácio Lula da Silva com 51,75% dos votos, uma surpresa para parte dos investidores, que temem incertezas na política fiscal. A pressão vendedora levou a B3 a ativar o circuit breaker, suspendendo negociações na abertura pela primeira vez em mais de seis anos.",
+   "A desvalorização no mercado foi profunda: as empresas listadas perderam R$ 734 bilhões em valor de mercado, equivalente a quase o valor da Petrobras. As ações da maioria das empresas do Ibovespa caíram, com destaque para Magazine Luiza (queda de 58,23%), e bancos também tiveram perdas relevantes.",
+   "Apesar da volatilidade, o mercado sinaliza tentativa de estabilização, com o ETF EWZ subindo mais de 1% no pré-mercado de Nova York. As próximas semanas serão decisivas, pois o mercado ficará atento a sinais concretos de ajuste fiscal do novo governo e resultados corporativos."
+  ],
+  "detalhes": [
+   "Circuit breaker foi acionado pela B3 para evitar descontrole após queda igual a 17,34% no pico do pregão.",
+   "Liquidez na manhã seguinte estava baixa, com 351 negócios e volume de R$ 340 milhões.",
+   "O resultado das eleições causou surpresa e preocupação política ao mercado financeiro.",
+   "A queda da bolsa apagou 75,5% dos ganhos acumulados em 2026 até então.",
+   "Dólar atingiu máxima de R$ 5,60 durante o dia 26 antes de recuar.",
+   "Entre os maiores recuos, varejistas e construtoras foram muito afetadas.",
+   "As exportadoras Suzano e Embraer tiveram alta favorecida pela valorização do dólar."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rebecca Nossig, estrategista da Nomad",
+    "oque": "Mercado troca imprevisibilidade da eleição por cautela com política econômica."
+   },
+   {
+    "quem": "Relatório UBS",
+    "oque": "Investidores cobram sinais concretos de ajuste fiscal no novo governo."
+   },
+   {
+    "quem": "Daniel Utsch, da Nero Capital",
+    "oque": "Volatilidade eleitoral está longe de acabar, tudo será precificado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Ibovespa cai 13,88%, maior queda diária desde 2020."
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "B3 aciona circuit breaker na abertura do pregão."
+   },
+   {
+    "quando": "27 de outubro de 2026, 9h25",
+    "oque": "Ibovespa futuro sobe 0,41%, dólar cai 1%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Circuit breaker",
+    "significado": "Suspensão temporária das negociações em Bolsa para conter quedas abruptas."
+   },
+   {
+    "termo": "Ibovespa futuro",
+    "significado": "Contrato que representa expectativa do índice Ibovespa no futuro."
+   },
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxas projetadas de juros para diferentes datas no futuro."
+   }
+  ],
+  "pergunta": "Como você acha que a eleição vai afetar seus investimentos?",
+  "tamanhoTexto": 4962,
+  "numeros": [
+   {
+    "valor": "13,88%",
+    "rotulo": "Queda do Ibovespa em 26 de outubro"
+   },
+   {
+    "valor": "0,41%",
+    "rotulo": "Alta do Ibovespa futuro em 27 de outubro"
+   },
+   {
+    "valor": "51,75%",
+    "rotulo": "Votos de Lula na eleição presidencial"
+   },
+   {
+    "valor": "734 bilhões",
+    "rotulo": "Perda em valor de mercado das ações brasileiras em 26 de outubro (R$)"
+   },
+   {
+    "valor": "8,21%",
+    "rotulo": "Alta do dólar em 26 de outubro"
+   },
+   {
+    "valor": "1%",
+    "rotulo": "Recuo do dólar em 27 de outubro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "fechamento em 176.608 pontos (queda de 13,88%)",
+    "depois": "futuro a 178.970 pontos (+0,4%)"
+   },
+   {
+    "item": "Dólar comercial",
+    "antes": "R$ 5,60 na máxima do dia 26",
+    "depois": "R$ 5,34 no início do dia 27"
+   },
+   {
+    "item": "Taxa do DI para janeiro de 2029",
+    "antes": "15,25%",
+    "depois": "15,13%"
+   }
+  ],
+  "destaque": "13,88% queda Ibovespa",
+  "porQueImporta": "Entender a reação do mercado após a eleição e o acionamento do circuit breaker ajuda investidores a avaliar riscos políticos que impactam bolsa, dólar e juros. Esses eventos afetam decisões de alocação e gestão de risco, mesmo sem prever ganhos.",
+  "impactoMercado": "A queda forte e volatilidade geram ajustes em ações, câmbio e juros futuros. Setores ligados a crédito e consumo caem mais. Exportadoras podem ter vantagem. A cautela sobre política fiscal segue influenciando o mercado, exigindo atenção dos investidores.",
+  "entenda": "Circuit breaker é mecanismo que interrompe negociações para evitar quedas excessivas e caos no mercado. O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas. Dólar e juros futuros indicam confiança e expectativa econômica.",
+  "observar": "Acompanhe os resultados corporativos e sinais de ajuste fiscal nas próximas semanas, pois serão decisivos para o comportamento do mercado após a eleição.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entenda o impacto político-econômico da eleição na bolsa, dólar e juros, para operar com mais consciência e conhecer fundamentos de mercado financeiro na faculdade.",
+  "gancho": "*Mercado* em alta após *queda* histórica",
+  "ideias": [
+   "O que é e como funciona o circuit breaker na bolsa?",
+   "Por que o Ibovespa caiu quase 14% em um dia?",
+   "Como a eleição influencia dólar, juros e ações?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Exame Invest",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "url": "https://exame.com/invest/mercados/ressaca-do-circuit-breaker-ibovespa-futuro-ensaia-alta-dolar-e-juros-futuros-caem/",
+  "publicadoEm": "2026-10-27T06:29:28-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-09"
+ },
+ {
+  "titulo": "Governo envia MP do Imposto Seletivo e renova subsídio ao diesel",
+  "resumo": "Ministro Dario Durigan anunciou envio da MP do Imposto Seletivo para 2027 e renovação da subvenção de R$ 2,12 por litro ao diesel para controlar preços.",
+  "fatos": [
+   "Ministro da Fazenda: Dario Durigan",
+   "MP será enviada em breve, possivelmente esta semana",
+   "Imposto Seletivo começa a valer a partir de 2027",
+   "Tributo abrange cigarros, bebidas alcoólicas, refrigerantes e outros",
+   "Também inclui certos veículos, extração mineral, jogos e apostas",
+   "Subvenção ao diesel renovada com desconto de R$ 2,12 por litro",
+   "Subsídio ao diesel tem validade de um mês e poderá ser renovado",
+   "Medida visa conter a alta dos preços do diesel"
+  ],
+  "explicacao": [
+   "O governo federal vai enviar nos próximos dias uma Medida Provisória definindo as alíquotas do Imposto Seletivo, também chamado de Imposto do Pecado, que começa a valer em 2027 para taxa produtos prejudiciais à saúde e ao meio ambiente.",
+   "O imposto incidirá sobre itens como cigarros, bebidas alcoólicas, refrigerantes, certos veículos, extração de minerais, loterias, apostas e jogos online. O objetivo é desestimular o consumo dessas atividades e bens nocivos.",
+   "Além disso, o governo renovou a subvenção ao óleo diesel, com desconto de R$ 2,12 por litro, por um mês, podendo ser renovada, para evitar alta nos preços do combustível no mercado interno.",
+   "A medida deve ser enviada ao Congresso logo após o período eleitoral e pode impactar os gastos dos consumidores e o custo de produtos, além de influenciar setores relacionados ao diesel e produtos taxados."
+  ],
+  "detalhes": [
+   "O Imposto Seletivo é parte da reforma tributária aprovada pelo Congresso",
+   "A MP estabelecerá as alíquotas detalhadas para o imposto",
+   "O tributo tem como foco produtos considerados nocivos à saúde e ao meio ambiente",
+   "Subvenção ao diesel é uma estratégia para controlar preços ao consumidor",
+   "O valor da subvenção pode ser renovado ao fim do período mensal",
+   "A iniciativa foi anunciada em 27 de outubro, logo após o segundo turno eleitoral",
+   "O Ministério do Planejamento confirmou a renovação do subsídio ao diesel"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "A MP do Imposto Seletivo será enviada ao Congresso provavelmente esta semana"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de outubro",
+    "oque": "Segundo turno das eleições gerais foi realizado"
+   },
+   {
+    "quando": "27 de outubro",
+    "oque": "Ministro Dario Durigan anunciou o envio da MP e renovação da subvenção ao diesel"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Imposto Seletivo",
+    "significado": "Tributo que aumenta custo de bens nocivos à saúde e meio ambiente"
+   },
+   {
+    "termo": "Medida Provisória (MP)",
+    "significado": "Ato do Executivo com força de lei enviado ao Congresso"
+   },
+   {
+    "termo": "Subvenção ao diesel",
+    "significado": "Desconto fiscal para conter preço do combustível ao consumidor"
+   }
+  ],
+  "pergunta": "O que você acha do Imposto Seletivo para produtos nocivos?",
+  "tamanhoTexto": 1313,
+  "numeros": [
+   {
+    "valor": "2027",
+    "rotulo": "Ano de vigência do Imposto Seletivo"
+   },
+   {
+    "valor": "R$ 2,12",
+    "rotulo": "Valor da subvenção por litro ao diesel"
+   },
+   {
+    "valor": "1",
+    "rotulo": "Mês de validade da renovação da subvenção ao diesel"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 2,12 por",
+  "porQueImporta": "Essa MP e a renovação da subvenção impactam os preços de produtos e combustíveis que afetam o bolso dos consumidores e custos empresariais, com potencial de influenciar decisões de consumo e estratégia de investimentos em setores afetados.",
+  "impactoMercado": "O imposto pode afetar setores ligados a bebidas, tabaco e veículos, elevando custos. A subvenção ao diesel ajuda a controlar a inflação do combustível, importante para transporte e logística, influenciando o mercado e investidores em energia e consumo.",
+  "entenda": "O Imposto Seletivo é um tributo aplicado para desestimular o consumo de produtos prejudiciais à saúde ou ao meio ambiente, aumentando seu custo. A subvenção ao diesel é um desconto fiscal para evitar aumentos bruscos no preço final do combustível.",
+  "observar": "Fique atento ao envio da MP ao Congresso, aprovação das alíquotas e possíveis renovações da subvenção ao diesel nos próximos meses, que podem alterar preços e setores impactados.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esta notícia explica como o governo usa tributos e subsídios para influenciar o mercado e o consumo, um conteúdo chave para entender decisões econômicas e se preparar para o mercado financeiro.",
+  "gancho": "*Imposto* e *Diesel* em foco",
+  "ideias": [
+   "O que é o Imposto Seletivo e como funciona?",
+   "Como a subvenção ao diesel afeta o preço do combustível?",
+   "Impactos do Imposto do Pecado para consumidores e investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-enviara-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel",
+  "publicadoEm": "2026-10-27T11:33:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-10"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "titulo": "Mercado de previsões vê 76.5% de chance de aumento de 25 bps na taxa do Fed em dezembro",
+  "resumo": "Os apostadores antecipam que o Fed deve elevar a taxa em sua próxima reunião.",
+  "probs": [
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 76.5
+   },
+   {
+    "opcao": "Sem mudança",
+    "prob": 21.0
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
+    "prob": 2.1
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 0.7
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 216 mil",
+  "fatos": [
+   "Aumento de 25 bps: 76,5%",
+   "Sem mudança: 21,0%",
+   "Aumento de 50+ bps: 2,1%",
+   "Redução de 25 bps: 0,7%"
+  ],
+  "numeros": [
+   {
+    "valor": "76,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "21,0%",
+    "rotulo": "Sem mudança"
+   },
+   {
+    "valor": "2,1%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "0,7%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "destaque": "76,5%",
+  "gancho": "*Expectativa de alta* na taxa do Fed",
+  "entenda": "Uma mudança nas taxas do Fed pode influenciar a inflação e o crescimento econômico nos EUA e globalmente.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+  "publicadoEm": "2026-10-27T17:15:02-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-10-27T17:15:02-03:00",
+  "data": "2026-10-27",
+  "status": "nova",
+  "id": "2026-10-27-p5"
+ },
+ {
   "titulo": "Taxas do Tesouro Direto disparam após eleição e Tesouro faz recompras",
   "resumo": "Em 26/10, taxas do Tesouro Prefixado chegaram a quase 16% e IPCA+ passou de 8% após vitória de Lula. Tesouro Nacional reagiu recomprando títulos para conter volatilidade.",
   "fatos": [
@@ -347,53 +1150,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-october-2026",
-  "titulo": "Mercado de previsões vê 45.5% de chance de Bitcoin subir para $82,500 em outubro.",
-  "resumo": "Os apostadores especulam principalmente sobre uma valorização do Bitcoin nos próximos meses.",
+  "titulo": "Mercado de previsões vê 78.5% de chance de Bitcoin abaixo de 80,000 até novembro",
+  "resumo": "Os apostadores precificam uma forte possibilidade de queda do Bitcoin neste período.",
   "probs": [
    {
+    "opcao": "↓ 80,000",
+    "prob": 78.5
+   },
+   {
     "opcao": "↑ 82,500",
-    "prob": 45.5
+    "prob": 54.5
    },
    {
     "opcao": "↓ 77,500",
-    "prob": 27.5
+    "prob": 24.5
    },
    {
     "opcao": "↑ 85,000",
-    "prob": 11.5
-   },
-   {
-    "opcao": "↓ 75,000",
-    "prob": 8.5
+    "prob": 16.5
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 743 mil",
+  "volume24h": "US$ 801 mil",
   "fatos": [
-   "↑ 82,500: 45,5%",
-   "↓ 77,500: 27,5%",
-   "↑ 85,000: 11,5%",
-   "↓ 75,000: 8,5%"
+   "↓ 80,000: 78,5%",
+   "↑ 82,500: 54,5%",
+   "↓ 77,500: 24,5%",
+   "↑ 85,000: 16,5%"
   ],
   "numeros": [
    {
-    "valor": "45,5%",
+    "valor": "78,5%",
+    "rotulo": "↓ 80,000"
+   },
+   {
+    "valor": "54,5%",
     "rotulo": "↑ 82,500"
    },
    {
-    "valor": "27,5%",
+    "valor": "24,5%",
     "rotulo": "↓ 77,500"
    },
    {
-    "valor": "11,5%",
+    "valor": "16,5%",
     "rotulo": "↑ 85,000"
-   },
-   {
-    "valor": "8,5%",
-    "rotulo": "↓ 75,000"
    }
   ],
-  "destaque": "45,5%",
+  "destaque": "78,5%",
   "gancho": "*Especulações* sobre o preço do Bitcoin",
   "entenda": "O preço do Bitcoin pode ser influenciado por vários fatores, incluindo regulamentações e tendências de mercado. Isso reflete a confiança dos investidores na criptomoeda.",
   "categoria": "Previsões",
@@ -406,8 +1209,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-10-27T12:33:46-03:00",
   "data": "2026-10-27",
-  "status": "nova",
-  "id": "2026-10-27-p3"
+  "status": "atualizada",
+  "id": "2026-10-27-p3",
+  "atualizadoEm": "2026-10-27T17:15:02-03:00"
  },
  {
   "tipo": "sinal",
@@ -21887,53 +22691,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-october-2026",
-  "titulo": "Mercado de previsões vê 83.8% de chance de Ethereum *abaixo de 2,300* em outubro",
-  "resumo": "Os apostadores acreditam que o preço do Ethereum terá uma queda significativa em relação a 2,300.",
+  "titulo": "Mercado de previsões vê 67.5% de chance de Ethereum abaixo de 2,300 até novembro",
+  "resumo": "Os apostadores estão indecisos, mas a tendência é de baixa para o Ethereum nesse período.",
   "probs": [
    {
     "opcao": "↓ 2,300",
-    "prob": 83.8
+    "prob": 67.5
    },
    {
     "opcao": "↑ 2,400",
-    "prob": 60.5
+    "prob": 63.0
    },
    {
     "opcao": "↓ 2,200",
-    "prob": 33.5
+    "prob": 21.5
    },
    {
     "opcao": "↑ 2,500",
-    "prob": 23.5
+    "prob": 19.0
    }
   ],
   "prazo": "2026-11-01",
-  "volume24h": "US$ 136 mil",
+  "volume24h": "US$ 208 mil",
   "fatos": [
-   "↓ 2,300: 83,8%",
-   "↑ 2,400: 60,5%",
-   "↓ 2,200: 33,5%",
-   "↑ 2,500: 23,5%"
+   "↓ 2,300: 67,5%",
+   "↑ 2,400: 63,0%",
+   "↓ 2,200: 21,5%",
+   "↑ 2,500: 19,0%"
   ],
   "numeros": [
    {
-    "valor": "83,8%",
+    "valor": "67,5%",
     "rotulo": "↓ 2,300"
    },
    {
-    "valor": "60,5%",
+    "valor": "63,0%",
     "rotulo": "↑ 2,400"
    },
    {
-    "valor": "33,5%",
+    "valor": "21,5%",
     "rotulo": "↓ 2,200"
    },
    {
-    "valor": "23,5%",
+    "valor": "19,0%",
     "rotulo": "↑ 2,500"
    }
   ],
-  "destaque": "83,8%",
+  "destaque": "67,5%",
   "gancho": "*Incerteza entre cripto* investidores",
   "entenda": "Ethereum, assim como outras criptomoedas, é sujeito à volatilidade e suas perspectivas de preços são diversificadas.",
   "categoria": "Previsões",
@@ -21948,7 +22752,7 @@
   "data": "2026-10-22",
   "status": "atualizada",
   "id": "2026-10-22-p1",
-  "atualizadoEm": "2026-10-26T21:49:02-03:00"
+  "atualizadoEm": "2026-10-27T17:15:02-03:00"
  },
  {
   "titulo": "IBM registra lucro de US$ 2,19 bilhões no 3º trimestre",
