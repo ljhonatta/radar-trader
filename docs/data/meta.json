@@ -1,13 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-28T13:17:31-03:00",
-  "novas": 4,
-  "atualizadas": 1,
-  "status": "ok",
-  "mensagem": "4 nova(s) e 1 atualizada(s): Juros Altos e Movida em queda; Klabin cai com custos altos; Lucro e Demanda impulsionam GE HealthCare.",
-  "falhas": [],
+  "ultimaColeta": "2026-10-28T17:33:42-03:00",
+  "novas": 0,
+  "atualizadas": 0,
+  "status": "erro",
+  "mensagem": "OpenAI sem resposta depois de 3 tentativas",
+  "falhas": [
+   "E-Investidor (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-10-28T17:33:42-03:00",
    "2026-10-28T13:17:31-03:00",
    "2026-10-27T21:44:25-03:00",
    "2026-10-27T17:15:02-03:00",
@@ -18,62 +21,61 @@
    "2026-10-26T13:19:21-03:00",
    "2026-10-26T12:22:08-03:00",
    "2026-10-26T11:07:10-03:00",
-   "2026-10-26T10:51:33-03:00",
-   "2026-10-26T10:16:32-03:00"
+   "2026-10-26T10:51:33-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 6
+  "textosCompletos": 0
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "170.759",
-    "var": "-2,82%"
+    "v": "171.006",
+    "var": "-2,68%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,40",
-    "var": "+0,85%"
+    "v": "R$ 5,35",
+    "var": "+0,06%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 5,99",
-    "var": "+0,60%"
+    "v": "R$ 5,97",
+    "var": "+0,25%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,5 mil",
-    "var": "+0,15%"
+    "v": "US$ 81,1 mil",
+    "var": "+0,63%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.738",
-    "var": "+0,20%"
+    "v": "7.744",
+    "var": "+0,28%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "29.688",
-    "var": "+0,12%"
+    "v": "29.813",
+    "var": "+0,55%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 116,36",
-    "var": "+2,18%"
+    "v": "US$ 114,09",
+    "var": "+0,18%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.051,40",
-    "var": "-0,57%"
+    "v": "US$ 4.079,30",
+    "var": "+0,12%"
    },
    {
     "k": "SELIC",
@@ -88,14 +90,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qua 13h",
+  "obs": "Fechamento",
+  "hora": "qua 17h",
   "data": "2026-10-28",
-  "atualizadoEm": "2026-10-28T13:17:31-03:00",
-  "ibov": "170.759",
-  "ibovVar": "-2,82%",
-  "dolar": "R$ 5,40",
-  "dolarVar": "+0,85%",
-  "btc": "US$ 80,5 mil"
+  "atualizadoEm": "2026-10-28T17:33:42-03:00",
+  "ibov": "171.006",
+  "ibovVar": "-2,68%",
+  "dolar": "R$ 5,35",
+  "dolarVar": "+0,06%",
+  "btc": "US$ 81,1 mil"
  }
 }
