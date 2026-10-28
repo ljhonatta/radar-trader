@@ -1,5 +1,515 @@
 [
  {
+  "titulo": "Movida tem lucro sólido, mas juros altos derrubam ações em 18%",
+  "resumo": "Movida registrou lucro líquido de R$ 152 milhões no 3º trimestre, acima do esperado, mas papel caiu 18,15% devido à expectativa de juros altos por mais tempo.",
+  "fatos": [
+   "Movida teve lucro líquido de R$ 152 milhões no 3º trimestre de 2026.",
+   "Lucro superou a faixa do guidance de R$ 130 a 150 milhões.",
+   "Receita líquida foi R$ 3,87 bilhões, abaixo do consenso.",
+   "Frota aumentou em 8 mil veículos no trimestre.",
+   "Depreciação por veículo está estável em R$ 7,3 mil para aluguel de carros.",
+   "Ações MOVI3 caíram 18,15%, cotadas a R$ 6,44 em 28/10/2026.",
+   "Juros futuros para 2028 chegaram a 14,505%.",
+   "BTG Pactual mantém recomendação de compra para MOVI3.",
+   "JPMorgan tem recomendação neutra e preço-alvo de R$ 18 para MOVI3.",
+   "Bradesco BBI mantém recomendação de compra e preço-alvo em R$ 22."
+  ],
+  "explicacao": [
+   "A Movida reportou no 3º trimestre de 2026 um lucro líquido de R$ 152 milhões, superando o topo da faixa prevista pelo guidance (R$ 130 a 150 milhões). A receita líquida foi de R$ 3,87 bilhões, com desempenho operacional robusto e aumento da frota em 8 mil veículos.",
+   "Apesar dos resultados positivos, as ações MOVI3 caíram 18,15%, negociadas a R$ 6,44, pressionadas pela expectativa de juros elevados no Brasil por um período prolongado, que afetam o apetite dos investidores por ações com maior sensibilidade a juros.",
+   "Analistas do BTG Pactual e da XP destacam a solidez operacional da empresa, com frota maior e estabilidade na depreciação por veículo, mas ressaltam que o ambiente macroeconômico, com juros futuros subindo, pesa no desempenho das ações.",
+   "O JPMorgan manteve recomendação neutra, com preço-alvo de R$ 18, enquanto Bradesco BBI e BTG Pactual mantiveram recomendação de compra, confiantes na operação da Movida apesar da pressão dos juros. O mercado aguarda o desenrolar do cenário econômico e das políticas de juros."
+  ],
+  "detalhes": [
+   "Relatório do 3º trimestre foi divulgado em 28 de outubro de 2026.",
+   "Lucro anual da Movida cresceu 117% em relação ao mesmo período de 2025.",
+   "Receita em Seminovos ficou abaixo da estimativa, impactando resultado geral.",
+   "EBITDA ajustado ficou em R$ 1,86 bilhão, ligeiramente acima do esperado.",
+   "Movida enfrentou maior pressão nos juros futuros do Brasil, afetando ações.",
+   "Taxa média de depreciação no segmento de gestão e terceirização subiu para R$ 11,2 mil.",
+   "Expectativa de juros altos prolongados ofuscou balanço positivo da empresa."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analistas do BTG Pactual",
+    "oque": "Ambiente favorável para queda dos juros traria melhora ao sentimento dos investidores."
+   },
+   {
+    "quem": "Analistas da XP Investimentos",
+    "oque": "Lucro foi beneficiado pelo forte desempenho operacional e menor alíquota de impostos."
+   },
+   {
+    "quem": "Analistas do JPMorgan",
+    "oque": "Resultados estão em linha com números preliminares, apesar da receita menor em Seminovos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "28/10/2026",
+    "oque": "Movida divulga balanço do 3º trimestre com lucro de R$ 152 milhões."
+   },
+   {
+    "quando": "28/10/2026, 13h15",
+    "oque": "Ações MOVI3 caem 18,15%, cotadas a R$ 6,44."
+   },
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Juros futuros no Brasil sobem, renovando pressão sobre ações sensíveis a juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Guidance",
+    "significado": "Estimativa oficial da empresa para seu desempenho futuro."
+   },
+   {
+    "termo": "EBITDA",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização."
+   },
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxas de juros projetadas pelo mercado para datas futuras."
+   }
+  ],
+  "pergunta": "Como você avalia a influência dos juros altos nas ações da Movida?",
+  "tamanhoTexto": 9538,
+  "numeros": [
+   {
+    "valor": "152 milhões",
+    "rotulo": "Lucro líquido do 3º trimestre da Movida em R$"
+   },
+   {
+    "valor": "3,87 bilhões",
+    "rotulo": "Receita líquida da Movida no 3º trimestre em R$"
+   },
+   {
+    "valor": "18,15%",
+    "rotulo": "Queda das ações MOVI3 no dia 28/10/2026"
+   },
+   {
+    "valor": "8 mil",
+    "rotulo": "Veículos adicionados à frota da Movida no trimestre"
+   },
+   {
+    "valor": "7,3 mil",
+    "rotulo": "Depreciação por veículo no segmento de aluguel, em R$"
+   },
+   {
+    "valor": "14,505%",
+    "rotulo": "Taxa de juros DI para janeiro de 2028, percentual ao ano"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "18,15% queda das",
+  "porQueImporta": "A queda das ações da Movida mostra como o cenário de juros altos afeta diretamente empresas com operação intensiva em ativo e dívida, mesmo com resultados sólidos. Entender isso ajuda investidores a avaliar risco e timing em setores sensíveis a política monetária e financiamentos.",
+  "impactoMercado": "Pressão por juros elevados deve continuar a limitar a alta das ações de empresas como Movida, especialmente as mais alavancadas. Investidores podem observar setores afetados pela política de juros e buscar estratégias para lidar com maior custo financeiro e volatilidade no mercado acionário.",
+  "entenda": "A Movida é uma locadora de veículos que reporta trimestralmente seu lucro e receita. Sua ação, MOVI3, é negociada na B3. Juros altos no país encarecem crédito e reduzem o apetite por risco, afetando o preço das ações, mesmo quando a empresa apresenta bons resultados operacionais.",
+  "observar": "Acompanhe os próximos resultados da Movida e os relatórios dos bancos centrais, além da evolução dos juros futuros para entender o impacto na ação MOVI3.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como o mercado financeiro reage não só ao desempenho das empresas, mas ao cenário econômico mais amplo, especialmente juros, motivando o estudo de análise fundamentalista e macroeconômica na faculdade do mercado financeiro.",
+  "gancho": "*Juros Altos* e Movida em queda",
+  "ideias": [
+   "Por que ações da Movida caíram apesar do lucro recorde?",
+   "Entenda o impacto dos juros altos no setor de locação de veículos",
+   "Como analisar balanços e cenário macro para decisões na bolsa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "InfoMoney; Valor Econômico",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:17:31-03:00",
+  "url": "https://www.infomoney.com.br/mercados/movida-expectativa-de-juro-alto-por-mais-tempo-ofusca-balanco-e-movi3-cai-quase-20/",
+  "publicadoEm": "2026-10-28T13:15:49-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-01"
+ },
+ {
+  "titulo": "Klabin cai 6% mesmo com lucro acima do esperado no 3T26",
+  "resumo": "Klabin teve lucro de R$ 393 mi no 3T26, acima da expectativa de R$ 329,5 mi, mas ações caíram 6%. Custos aumentaram e preocupam analistas.",
+  "fatos": [
+   "Lucro líquido de R$ 393 mi no 3T26, acima dos R$ 329,5 mi esperados.",
+   "Ações da Klabin caíram 6% em 28/10/2026, cotadas a R$ 17,56.",
+   "Custo caixa consolidado aumentou 8% para R$ 3,5 mil por tonelada.",
+   "EBITDA ajustado no 3T26 foi de R$ 1,86 bi, estável em relação ao trimestre anterior.",
+   "Fluxo de caixa livre foi negativo em R$ 1 milhão no trimestre.",
+   "Segmento de Celulose teve resultados acima das expectativas, com preços da celulose fluff em alta.",
+   "Divisão de Papel e Embalagens apresentou custos mais altos e desempenho abaixo do esperado.",
+   "Parada para manutenção ocorreu na unidade de Otacílio Costa.",
+   "Inflação nos insumos, especialmente químicos e combustíveis, pressionou custos.",
+   "Analistas da XP, Itaú BBA, JPMorgan e Goldman Sachs mantêm recomendação neutra para as ações."
+  ],
+  "explicacao": [
+   "A Klabin registrou lucro líquido de R$ 393 milhões no terceiro trimestre de 2026 (3T26), superando a expectativa média do mercado que era de R$ 329,5 milhões. Apesar disso, as ações da empresa caíram 6%, cotadas a R$ 17,56.",
+   "O motivo da queda das ações está relacionado ao aumento de 8% no custo caixa consolidado, que chegou a R$ 3,5 mil por tonelada, impactado principalmente pelos preparativos para o fenômeno climático El Niño. Isso elevou os custos totais, afetando a avaliação dos resultados.",
+   "Além disso, paradas programadas para manutenção e a inflação dos insumos industriais, como produtos químicos e combustíveis, aumentaram custos e despesas, especialmente na divisão de Papel e Embalagens — que ficou abaixo do esperado pelos analistas.",
+   "Os analistas mantêm atenção sobre a evolução dos custos, geração de fluxo de caixa livre e a redução do endividamento da Klabin. Para os próximos meses, a demanda doméstica e a valorização ou desvalorização do real podem influenciar o desempenho da empresa."
+  ],
+  "detalhes": [
+   "Lucro no 3T26 foi R$ 393 milhões, superando consenso IBES de R$ 329,5 milhões.",
+   "Custo caixa subiu por conta dos preparativos para o El Niño, um fenômeno climático que afeta produção.",
+   "Manutenção programada na fábrica de Otacílio Costa elevou o custo fixo.",
+   "Celulose fluff teve preços altos, principalmente usados em produtos absorventes.",
+   "Custos e despesas ajustadas foram impactados por inflação e logística.",
+   "Fluxo de caixa livre negativo sugere atenção na geração de recursos futuros.",
+   "Preço-alvo dos analistas variam entre R$ 18,50 e R$ 21 para as ações Klabin."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analistas da XP Investimentos",
+    "oque": "Destacaram aumento do custo caixa e alertaram para impacto no fluxo de caixa livre."
+   },
+   {
+    "quem": "Daniel Sasson, analista do Itaú BBA",
+    "oque": "Comentou que EBITDA ajustado ficou em linha com expectativas, mas com custos e despesas elevados."
+   },
+   {
+    "quem": "Analistas do JPMorgan",
+    "oque": "Apontaram que segmento de Papel e Embalagens ficou abaixo das estimativas, enquanto Celulose superou."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3T26",
+    "oque": "Klabin registra lucro líquido de R$ 393 milhões."
+   },
+   {
+    "quando": "2T26",
+    "oque": "Vendas de terrenos geraram receita de R$ 64 milhões."
+   },
+   {
+    "quando": "28/10/2026",
+    "oque": "Ações da Klabin caem 6% mesmo com lucro acima do esperado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "EBITDA",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Fluxo de caixa livre",
+    "significado": "Dinheiro disponível após investimentos e despesas"
+   },
+   {
+    "termo": "Custo caixa consolidado",
+    "significado": "Custo total para produzir por tonelada"
+   }
+  ],
+  "pergunta": "Como você acha que os custos influenciam os resultados da Klabin?",
+  "tamanhoTexto": 3969,
+  "numeros": [
+   {
+    "valor": "393 milhões",
+    "rotulo": "lucro líquido no 3T26"
+   },
+   {
+    "valor": "329,5 milhões",
+    "rotulo": "expectativa média de lucro no 3T26"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "queda das ações em 28/10/2026"
+   },
+   {
+    "valor": "3,5 mil",
+    "rotulo": "custo caixa por tonelada (em R$)"
+   },
+   {
+    "valor": "8%",
+    "rotulo": "aumento do custo caixa comparado ao trimestre anterior"
+   },
+   {
+    "valor": "1,86 bilhão",
+    "rotulo": "EBITDA ajustado no 3T26"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Lucro de R$",
+  "porQueImporta": "Para investidores e traders, entender o impacto dos custos altos e manutenção afeta a percepção sobre a rentabilidade da Klabin. Mesmo com lucro acima do esperado, a pressão nos custos e a queda das ações mostram que fatores operacionais influenciam o preço das ações.",
+  "impactoMercado": "O aumento dos custos e alerta sobre fluxo de caixa livre podem gerar volatilidade nas ações da Klabin. Setores ligados a papel, celulose e embalagens podem apresentar ajustes nos preços, e o câmbio pode ser um fator relevante na valorização dos papéis.",
+  "entenda": "O EBITDA mede o lucro operacional antes de juros e impostos para avaliar desempenho ajustado. Fluxo de caixa livre representa a capacidade da empresa de gerar recursos após investimentos. Custos caixa consolidado indicam despesas diretas para produzir cada tonelada, impactando a margem e lucro.",
+  "observar": "Fique de olho nos próximos resultados trimestrais da Klabin para acompanhar evolução dos custos e geração de caixa, além das variações no câmbio que podem afetar o desempenho da empresa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos em detalhes como os custos elevados e a manutenção impactaram o lucro e as ações da Klabin, mostrando o que analisar para entender resultados no mercado financeiro.",
+  "gancho": "*Klabin* cai com *custos* altos",
+  "ideias": [
+   "Por que o lucro da Klabin não evitou queda nas ações?",
+   "Entenda o impacto do El Niño nos custos da Klabin",
+   "Como custos de manutenção afetam resultados empresariais"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:17:31-03:00",
+  "url": "https://www.infomoney.com.br/mercados/klabin-klbn11-analise-resultados-terceiro-trimestre-2026-desempenho-acoes/",
+  "publicadoEm": "2026-10-28T13:13:45-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-02"
+ },
+ {
+  "titulo": "GE HealthCare eleva metas após lucro subir no 3º trimestre",
+  "resumo": "GE HealthCare aumentou projeções anuais após lucro de US$ 615 milhões no 3º trimestre, ante US$ 446 milhões em 2025. Demanda aquecida impulsionou receita e vendas de 93 mil unidades.",
+  "fatos": [
+   "Lucro líquido no 3º trimestre de 2026: US$ 615 milhões",
+   "Lucro líquido no 3º trimestre de 2025: US$ 446 milhões",
+   "Unidades comercializadas no 3º trimestre: 93 mil",
+   "Preço aproximado do produto: R$ 300, 66% menor que referência",
+   "Projeções para o ano elevadas após resultados do 3º trimestre",
+   "Expectativa de vendas em outubro é de dobrar o volume do trimestre",
+   "Motivo principal para alta nas projeções: demanda aquecida"
+  ],
+  "explicacao": [
+   "A GE HealthCare reportou um lucro líquido de US$ 615 milhões no terceiro trimestre de 2026, acima dos US$ 446 milhões registrados no mesmo período de 2025, refletindo crescimento significativo. A empresa vendeu 93 mil unidades de seu produto durante o trimestre.",
+   "O aumento da demanda foi o principal motivo para que a empresa elevasse suas projeções para o ano. A expectativa é que as vendas em outubro dobrem em relação ao terceiro trimestre, impulsionadas pelo preço competitivo do produto, cerca de R$ 300, que equivale a 66% a menos do valor da referência no mercado.",
+   "Este cenário mostra que a estratégia da empresa está alinhada com o crescimento do setor de tecnologia médica, favorecendo aumento de receitas e lucro. A demanda contínua indica potencial para manutenção do ritmo de crescimento recente.",
+   "Para os próximos meses, a empresa deverá manter foco na comercialização e produção, otimizar custos e acompanhar o mercado para sustentar suas projeções elevadas. Investidores e operadores devem observar o impacto desses resultados nos setores de saúde e tecnologia."
+  ],
+  "detalhes": [
+   "Quem: GE HealthCare, fabricante de tecnologia médica",
+   "Quanto lucrou no 3º trimestre: US$ 615 milhões",
+   "Quando: resultados divulgados em outubro de 2026",
+   "Vendas de unidades: 93 mil no 3º trimestre, previsão de 186 mil em outubro",
+   "Produto vendido por cerca de R$ 300, valor competitivamente menor",
+   "Crescimento puxado por alta demanda do mercado",
+   "Projeções elevadas para o ano considerando esses resultados"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2025",
+    "oque": "Lucro líquido de US$ 446 milhões pela GE HealthCare"
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Lucro líquido de US$ 615 milhões, aumento significativo"
+   },
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Projeções anuais elevadas e expectativa de vendas duplicadas"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro Líquido",
+    "significado": "Resultado financeiro após todas as despesas serem pagas"
+   },
+   {
+    "termo": "Projeções",
+    "significado": "Estimativas futuras de receita e lucro"
+   },
+   {
+    "termo": "Demanda aquecida",
+    "significado": "Aumento na procura por produtos ou serviços"
+   }
+  ],
+  "pergunta": "Você sabia que a demanda pode elevar as metas de uma empresa? Qual setor você acha mais promissor?",
+  "tamanhoTexto": 1765,
+  "numeros": [
+   {
+    "valor": "615 milhões",
+    "rotulo": "Lucro líquido no 3º trimestre de 2026 em dólares"
+   },
+   {
+    "valor": "446 milhões",
+    "rotulo": "Lucro líquido no 3º trimestre de 2025 em dólares"
+   },
+   {
+    "valor": "93 mil",
+    "rotulo": "Unidades vendidas no 3º trimestre"
+   },
+   {
+    "valor": "66%",
+    "rotulo": "Redução no preço do produto comparado à referência"
+   },
+   {
+    "valor": "R$ 300",
+    "rotulo": "Preço aproximado do produto vendido"
+   },
+   {
+    "valor": "2",
+    "rotulo": "Expectativa de dobrar vendas em outubro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido no 3º trimestre",
+    "antes": "US$ 446 milhões",
+    "depois": "US$ 615 milhões"
+   }
+  ],
+  "destaque": "US$ 615 milhões",
+  "porQueImporta": "O crescimento de lucro e a alta demanda demonstram a solidez da GE HealthCare no setor de tecnologia médica. Para investidores, isso indica potencial estabilidade e relevância de uma empresa que responde rápido ao mercado e amplia suas vendas.",
+  "impactoMercado": "O aumento nas metas da GE HealthCare pode refletir em maior interesse dos investidores no setor de tecnologia médica e saúde, setores que geralmente reagem bem a resultados fortes e perspectivas elevadas, além de influenciar papéis relacionados e mercados de commodities para saúde.",
+  "entenda": "Lucro líquido é o resultado final da empresa após custos e despesas. A sustentabilidade desse lucro, reforçada pela demanda crescente, gera confiança para elevar as projeções anuais, indicando um crescimento esperado nas vendas e receitas pela empresa.",
+  "observar": "Fique atento às próximas divulgações de resultados trimestrais da GE HealthCare e às vendas de outubro para acompanhar se as projeções elevadas se mantêm ou ajustam.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia explica como resultados financeiros concretos influenciam a confiança do mercado, ajudando quem quer aprender sobre análise de empresas e gerar conhecimento para operar melhor.",
+  "gancho": "*Lucro* e *Demanda* impulsionam GE HealthCare",
+  "ideias": [
+   "Como a demanda crescente ajudou GE HealthCare a crescer",
+   "O que o lucro do 3º trimestre revela sobre o mercado de saúde",
+   "Por que acompanhar as projeções comerciais da GE HealthCare"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:17:31-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/10/28/ge-healthcare-eleva-metas-para-o-ano-apos-resultados-do-3o-trimestre-superarem-expectativas.ghtml",
+  "publicadoEm": "2026-10-28T12:50:53-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-03"
+ },
+ {
+  "titulo": "TCU aprova alíquota de referência da CBS em 11,3% na reforma tributária",
+  "resumo": "O Tribunal de Contas da União definiu a alíquota da CBS em 11,3%, substituindo o PIS/Pasep e Cofins. O percentual será aplicado na transição até 2033 do novo sistema tributário sobre consumo.",
+  "fatos": [
+   "TCU aprovou alíquota da CBS em 28 de junho.",
+   "Alíquota calculada foi de 11,3468%, arredondada para 11,3%.",
+   "Redutor para compras públicas definido em 44,16%.",
+   "CBS substituirá PIS/Pasep e Cofins na reforma tributária.",
+   "Cobrança da CBS começará em 2027, em caráter de teste.",
+   "Transição do novo sistema tributário seguirá até 2033.",
+   "Alíquota visa manter a arrecadação agregada dos tributos substituídos.",
+   "CBS integrará o novo modelo junto ao IBS, tributo estadual e municipal."
+  ],
+  "explicacao": [
+   "Nesta quarta-feira (28), o TCU aprovou a alíquota de referência da Contribuição sobre Bens e Serviços (CBS) em 11,3%, resultante do arredondamento do cálculo original de 11,3468%. A decisão ocorreu em sessão plenária extraordinária e corrigiu também o redutor para compras públicas, fixado em 44,16%.",
+   "A CBS é um tributo federal criado na reforma tributária para substituir as contribuições sobre consumo PIS/Pasep e Cofins. O cálculo da alíquota tem o objetivo de garantir a manutenção da arrecadação desses tributos durante a transição para o novo modelo tributário.",
+   "Essa alíquota de referência é fundamental para estimar o impacto da mudança e monitorar como exceções, benefícios e regimes especiais poderão afetar a arrecadação. Quanto mais tratamentos diferenciados forem concedidos, maior deverá ser a alíquota para preservar a arrecadação total.",
+   "O início da cobrança da CBS será em caráter de teste em 2027, com a transição gradual até 2033, quando o novo sistema de tributação sobre consumo vigora integralmente, ao lado do Imposto sobre Bens e Serviços (IBS), que fica a cargo de estados e municípios."
+  ],
+  "detalhes": [
+   "A decisão foi tomada em sessão plenária extraordinária do TCU",
+   "O redutor de 44,16% é para compras da administração pública direta, autarquias e fundações públicas",
+   "A CBS faz parte da reforma tributária federal para tributar consumo",
+   "Antes da CBS, PIS/Pasep e Cofins incidiam sobre o consumo com alíquotas diferentes",
+   "O percentual de 11,3% será encaminhado ao Senado, que definirá a alíquota por resolução",
+   "A CBS terá aplicação gradual até 2033 para substituir o sistema atual",
+   "O IBS será cobrado por estados e municípios em regime compartilhado junto à CBS"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "28 de junho",
+    "oque": "TCU aprova alíquota de referência da CBS em 11,3%"
+   },
+   {
+    "quando": "2027",
+    "oque": "CBS começará a ser cobrada em caráter de teste"
+   },
+   {
+    "quando": "2033",
+    "oque": "Novo sistema tributário de consumo vigora integralmente"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CBS",
+    "significado": "Contribuição sobre Bens e Serviços, tributo federal unificador."
+   },
+   {
+    "termo": "PIS/Pasep",
+    "significado": "Antigos tributos federais sobre o consumo substituídos pela CBS."
+   },
+   {
+    "termo": "Cofins",
+    "significado": "Contribuição para financiamento da seguridade social, substituída pela CBS."
+   }
+  ],
+  "pergunta": "Você entende como a CBS vai substituir o PIS e Cofins no seu dia a dia?",
+  "tamanhoTexto": 2515,
+  "numeros": [
+   {
+    "valor": "11,3468%",
+    "rotulo": "alíquota de referência calculada para CBS"
+   },
+   {
+    "valor": "11,3%",
+    "rotulo": "alíquota de referência arredondada da CBS"
+   },
+   {
+    "valor": "44,16%",
+    "rotulo": "redutor para compras da administração pública"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "ano para início da cobrança em teste da CBS"
+   },
+   {
+    "valor": "2033",
+    "rotulo": "ano final da transição para o novo sistema tributário"
+   },
+   {
+    "valor": "86%",
+    "rotulo": "notas fiscais que destacam a CBS em cobertura mencionada"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "11,3%",
+  "porQueImporta": "A definição da alíquota de 11,3% para a CBS é crucial para investidores entenderem o impacto da reforma tributária no custo das empresas, na arrecadação pública e na composição dos preços de bens e serviços. Isso orienta a análise de setores que poderão ser mais afetados durante a transição.",
+  "impactoMercado": "Com a implantação gradual da CBS, empresas podem ajustar preços e operações para se adaptar ao novo tributo. Setores com regimes tributários especiais podem redefinir estratégias fiscais, e investidores devem acompanhar como a arrecadação e a carga tributária evoluirão até 2033.",
+  "entenda": "A CBS é um novo tributo federal que unifica antigas contribuições sobre consumo como PIS/Pasep e Cofins, simplificando o sistema. A alíquota de referência indica o peso médio do tributo para manter a arrecadação atual durante a transição para o novo modelo que inclui o IBS estadual e municipal.",
+  "observar": "É importante acompanhar a votação da resolução no Senado que fixará oficialmente a alíquota da CBS e os testes a partir de 2027 para verificar impactos reais na arrecadação e nos preços ao consumidor.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "Explicamos a decisão do TCU e a lógica da alíquota da CBS para ajudar investidores e iniciantes a entenderem a reforma tributária e seus efeitos nos tributos sobre consumo.",
+  "gancho": "Reforma tributária: *CBS* aprovada",
+  "ideias": [
+   "O que é CBS e como vai substituir o PIS e Cofins?",
+   "Entenda a alíquota de 11,3% da CBS aprovada pelo TCU",
+   "Como a reforma tributária muda a tributação sobre consumo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:17:31-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113",
+  "publicadoEm": "2026-10-28T12:38:00-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-04"
+ },
+ {
   "titulo": "Ouro fecha em alta com queda do petróleo e espera pelo Fed",
   "resumo": "O ouro subiu 0,90% em 27 de setembro, chegando a US$ 1.974,6 por onça-troy, impulsionado pela baixa do petróleo e incertezas sobre a política do Fed nos EUA.",
   "fatos": [
@@ -20113,53 +20623,53 @@
  {
   "tipo": "sinal",
   "slug": "how-low-will-5-year-treasury-yield-get-before-2027",
-  "titulo": "Mercado de previsões vê 88% de chance de rendimento do tesouro de 5 anos abaixo de 4.70%",
-  "resumo": "Os apostadores acreditam que os rendimentos cairão, indicando uma provável pressão em taxas de juros.",
+  "titulo": "Mercado de previsões vê 56% de chance de rendimento do T-Note de 5 anos abaixo de 4.70%",
+  "resumo": "Expectativas sobre os rendimentos dos títulos do Tesouro indicam um possível declínio.",
   "probs": [
    {
     "opcao": "Abaixo de 4.70%",
-    "prob": 88.0
+    "prob": 56.0
    },
    {
     "opcao": "Abaixo de 4.65%",
-    "prob": 61.0
+    "prob": 44.5
    },
    {
     "opcao": "Abaixo de 4.60%",
-    "prob": 56.5
+    "prob": 41.0
    },
    {
     "opcao": "Abaixo de 4.55%",
-    "prob": 53.5
+    "prob": 35.5
    }
   ],
   "prazo": "2026-12-31",
-  "volume24h": "US$ 24 mil",
+  "volume24h": "US$ 59 mil",
   "fatos": [
-   "Abaixo de 4.70%: 88,0%",
-   "Abaixo de 4.65%: 61,0%",
-   "Abaixo de 4.60%: 56,5%",
-   "Abaixo de 4.55%: 53,5%"
+   "Abaixo de 4.70%: 56,0%",
+   "Abaixo de 4.65%: 44,5%",
+   "Abaixo de 4.60%: 41,0%",
+   "Abaixo de 4.55%: 35,5%"
   ],
   "numeros": [
    {
-    "valor": "88,0%",
+    "valor": "56,0%",
     "rotulo": "Abaixo de 4.70%"
    },
    {
-    "valor": "61,0%",
+    "valor": "44,5%",
     "rotulo": "Abaixo de 4.65%"
    },
    {
-    "valor": "56,5%",
+    "valor": "41,0%",
     "rotulo": "Abaixo de 4.60%"
    },
    {
-    "valor": "53,5%",
+    "valor": "35,5%",
     "rotulo": "Abaixo de 4.55%"
    }
   ],
-  "destaque": "88,0%",
+  "destaque": "56,0%",
   "gancho": "*Expectativa de queda* nos rendimentos",
   "entenda": "Os rendimentos dos títulos do Tesouro influenciam as taxas de juros e, portanto, a economia como um todo.",
   "categoria": "Previsões",
@@ -20174,7 +20684,7 @@
   "data": "2026-10-23",
   "status": "atualizada",
   "id": "2026-10-23-p2",
-  "atualizadoEm": "2026-10-25T22:20:40-03:00"
+  "atualizadoEm": "2026-10-28T13:17:31-03:00"
  },
  {
   "titulo": "Bradesco projeta aumento na inadimplência do crédito",
@@ -26228,51 +26738,6 @@
   "id": "2026-10-21-18"
  },
  {
-  "titulo": "iFood compra Caju e amplia competição no setor de R$ 150 bi",
-  "resumo": "A aquisição da startup Caju pelo iFood Benefícios une 3 milhões de usuários e amplia a competição no mercado de benefícios que movimenta cerca de R$ 150 bilhões ao ano.",
-  "fatos": [
-   "O iFood Benefícios anunciou a compra da Caju, uma startup de benefícios corporativos.",
-   "Somadas, as duas empresas alcançam cerca de 3 milhões de usuários.",
-   "O mercado de benefícios corporativos movimenta aproximadamente R$ 150 bilhões por ano.",
-   "As mudanças nas regras do Programa de Alimentação do Trabalhador (PAT) prometem reconfigurar o setor.",
-   "A transação foi comunicada ao Cade e aguarda aprovação do Banco Central."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "3 milhões de",
-  "porQueImporta": "A fusão entre iFood e Caju pode transformar o cenário de benefícios corporativos, aumentando a competitividade e as opções para trabalhadores e empresas.",
-  "impactoMercado": "A união das operações pode acelerar a inovação e a oferta de serviços no setor, beneficiando tanto empresas quanto trabalhadores com melhores condições.",
-  "entenda": "O Programa de Alimentação do Trabalhador (PAT) é uma iniciativa que visa oferecer opções de alimentação aos funcionários por meio de benefícios como vale-refeição e vale-alimentação.",
-  "observar": "Acompanhe as aprovações regulatórias da aquisição e as movimentações no mercado de benefícios nos próximos meses.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Essa aquisição ilustra a dinâmica do mercado financeiro e pode incentivar mais pessoas a se interessarem por investimentos neste setor.",
-  "gancho": "iFood e Caju: disputa de *R$ 150 bi*!",
-  "ideias": [
-   "iFood e Caju: uma nova era em benefícios",
-   "Mercado de benefícios: o que muda com a compra da Caju?",
-   "Entenda o impacto da nova regra do PAT no comércio"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "seta",
-  "fonte": "Bloomberg Línea",
-  "impacto": "medio",
-  "ordem": 20,
-  "status": "nova",
-  "coletadoEm": "2026-10-21T11:41:23-03:00",
-  "url": "https://www.bloomberglinea.com.br/negocios/ifood-beneficios-acerta-a-compra-da-caju-e-amplia-disputa-por-mercado-de-r-150-bi/",
-  "publicadoEm": "2026-10-20T16:50:53-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-21-19"
- },
- {
   "titulo": "Ibovespa opera em estabilidade após novas pesquisas eleitorais",
   "resumo": "O Ibovespa registra leve variação enquanto analistas avaliam resultados de empresas e novas pesquisas sobre as eleições. Dólar se mantém perto de R$ 5,02.",
   "fatos": [
@@ -26378,3001 +26843,5 @@
   "publicadoEm": "2026-10-21T10:50:19-03:00",
   "data": "2026-10-21",
   "id": "2026-10-21-21"
- },
- {
-  "titulo": "Dólar cai para R$ 5,01 enquanto eleições se aproximam",
-  "resumo": "O dólar à vista caiu 0,58% em meio a intensa volatilidade e foco nas eleições presidenciais. O cenário doméstico influenciou a desvalorização da moeda americana.",
-  "fatos": [
-   "O dólar encerrou a R$ 5,0189 no mercado à vista, com queda de 0,58%.",
-   "O DXY, indicador que mede o desempenho do dólar em relação a outras moedas, caiu 0,26%.",
-   "Pesquisas apontam Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, em empate técnico.",
-   "A volatilidade no petróleo também impactou o mercado cambial.",
-   "Investidores estão ajustando suas posições conforme se aproxima o segundo turno das eleições."
-  ],
-  "numeros": [
-   {
-    "valor": "5,0189",
-    "rotulo": "cotação do dólar à vista"
-   },
-   {
-    "valor": "0,58%",
-    "rotulo": "queda do dólar"
-   },
-   {
-    "valor": "48%",
-    "rotulo": "intenção de voto Flávio Bolsonaro"
-   },
-   {
-    "valor": "45%",
-    "rotulo": "intenção de voto Lula"
-   },
-   {
-    "valor": "0,26%",
-    "rotulo": "queda do DXY"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 5,0189",
-  "porQueImporta": "Entender a queda do dólar é crucial para investidores, pois pode impactar custos de importação e decisões de investimento no Brasil.",
-  "impactoMercado": "A volatilidade do dólar pode influenciar a confiança dos investidores e suas estratégias em um cenário eleitoral indefinido.",
-  "entenda": "O DXY é um índice que mede o valor do dólar americano em relação a outras moedas, refletindo sua força no mercado global.",
-  "observar": "Fique atento às novas pesquisas de intenção de voto e a como essas novidades impactam a volatilidade do câmbio.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Essa situação destaca a importância de compreender como eventos políticos influenciam o mercado cambial e a necessidade de educação financeira.",
-  "gancho": "Dólar em queda: *Eleições* em foco!",
-  "ideias": [
-   "O que está fazendo o dólar cair?",
-   "Impactos das eleições no mercado cambial",
-   "Entenda como o DXY afeta suas finanças"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Money Times",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.moneytimes.com.br/dolar-20-10-26-lils/",
-  "publicadoEm": "2026-10-20T17:04:37-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-51"
- },
- {
-  "titulo": "Ibovespa sobe 1,57% e dólar fecha a R$ 5,019",
-  "resumo": "O Ibovespa teve alta de 1,57%, impulsionado pela recuperação do setor varejista. O dólar encerrou o dia a R$ 5,019.",
-  "fatos": [
-   "O Ibovespa avançou 1,57%, refletindo um bom desempenho no setor varejista.",
-   "O fechamento do dólar foi a R$ 5,019, mostrando estabilidade em relação ao dia anterior.",
-   "O crescimento do varejo está influenciando a confiança dos investidores."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "1,57%",
-  "porQueImporta": "A alta do Ibovespa pode sinalizar confiança no mercado, enquanto a estabilidade do dólar pode influenciar operações de câmbio.",
-  "impactoMercado": "As movimentações na bolsa e no câmbio impactam as decisões de investimento, refletindo expectativas econômicas.",
-  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores brasileira, indicando o desempenho das ações das empresas listadas.",
-  "observar": "Fique de olho nas próximas divulgações sobre o setor varejista e mudanças cambiais.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender como o desempenho do varejo influencia o mercado é essencial para quem deseja investir com conhecimento.",
-  "gancho": "*Ibovespa* dispara com *varejo*",
-  "ideias": [
-   "Como o varejo influencia o Ibovespa?",
-   "O que significa a alta do Ibovespa?",
-   "Análise do dólar em relação ao mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "UOL Economia",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.google.com/search?q=Ibovespa+sobe+1%2C57%25+com+disparada+do+varejo%3B+d%C3%B3lar+fecha+a+R%24+5%2C019+UOL+Economia",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T19:24:10-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-52"
- },
- {
-  "titulo": "Netflix projeta resultados abaixo do esperado para o 4º trimestre",
-  "resumo": "A Netflix divulgou suas projeções financeiras para o último trimestre do ano, que foram consideradas abaixo das expectativas do mercado.",
-  "fatos": [
-   "A companhia anunciou que espera resultados inferiores ao projetado por analistas.",
-   "Isso pode impactar a confiança dos investidores na empresa.",
-   "O desempenho esperado pode ser influenciado pelas mudanças no comportamento do consumidor."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "As projeções financeiras afetam a percepção dos investidores sobre o desempenho futuro da empresa, influenciando decisões de investimento.",
-  "impactoMercado": "Resultados abaixo do esperado podem levar à queda nas ações da Netflix e influenciar o mercado de tecnologia como um todo.",
-  "entenda": "As projeções financeiras servem como um indicador sobre como a empresa pode se sair em um período futuro, impactando a confiança de investidores.",
-  "observar": "Acompanhe novos releases financeiros da Netflix e suas repercussões no mercado.",
-  "publico": [
-   "Investidores",
-   "Aposentados",
-   "Day traders"
-  ],
-  "angulo": "Entender as expectativas de lucro das empresas é essencial para quem quer operar com segurança e embasamento no mercado.",
-  "gancho": "Netflix com *previsões* *prejudicadas*",
-  "ideias": [
-   "Projeções: o que esperar da Netflix?",
-   "Impacto das expectativas da Netflix no mercado",
-   "O que significa uma projeção abaixo do esperado?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "CNN Brasil",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.google.com/search?q=Netflix+divulga+proje%C3%A7%C3%A3o+abaixo+do+esperado+para+o+4%C2%BA+trimestre+CNN+Brasil",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:40:15-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-53"
- },
- {
-  "titulo": "Ações da Vamos (VAMO3) sobem com trade eleitoral e expectativa positiva",
-  "resumo": "As ações da Vamos (VAMO3) tiveram alta de 6,53%, impulsionadas pelo cenário eleitoral e recomendações do Itaú BBA. O potencial de valorização é de 47% em relação ao preço-alvo.",
-  "fatos": [
-   "As ações da Vamos (VAMO3) estavam em alta de 6,53% a R$ 6,53.",
-   "O aumento das ações é influenciado pelo ‘trade eleitoral’, com pesquisas mostrando um cenário de empate técnico nas eleições.",
-   "O Itaú BBA elevou o preço-alvo de VAMO3 de R$ 5 para R$ 9, indicando um potencial de valorização de 47%.",
-   "A recomendação de compra foi mantida, além de uma expectativa de lucros crescentes com a queda de juros.",
-   "As taxas de Depósito Interfinanceiro (DIs) estão em queda, com expectativa de ajuste fiscal."
-  ],
-  "numeros": [
-   {
-    "valor": "6,53",
-    "rotulo": "R$ da ação VAMO3"
-   },
-   {
-    "valor": "47%",
-    "rotulo": "potencial de valorização segundo Itaú BBA"
-   },
-   {
-    "valor": "9",
-    "rotulo": "novo preço-alvo da ação"
-   },
-   {
-    "valor": "5",
-    "rotulo": "preço-alvo anterior da ação"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "47%",
-  "porQueImporta": "A valorização das ações pode impactar investidores no setor e trazer oportunidades de lucro, especialmente em um cenário eleitoreiro volátil.",
-  "impactoMercado": "Mudanças nas expectativas de juros podem afetar o desempenho de ações no mercado, assim como o clima político influencia a economia.",
-  "entenda": "O ‘trade eleitoral’ se refere a como as expectativas sobre resultados de eleições influenciam os preços de ações e ativos financeiros.",
-  "observar": "Acompanhar as pesquisas eleitorais e a reação do mercado às taxas de juros pode oferecer insights sobre investimentos futuros.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Esta notícia destaca como eventos políticos afetam o mercado e a importância de entender esses movimentos para investimentos conscientes.",
-  "gancho": "*Ações da Vamos*: alta surpreendente com *cenário eleitoral*",
-  "ideias": [
-   "Vamos (VAMO3): A alta inesperada no Ibovespa",
-   "Compreendendo o trade eleitoral e suas implicações",
-   "O que esperar da Vamos após as eleições?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.moneytimes.com.br/a-acao-que-sobe-com-o-trade-eleitoral-e-pode-ganhar-mais-47-segundo-o-itau-bba-lils/",
-  "publicadoEm": "2026-10-20T14:53:39-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-54"
- },
- {
-  "titulo": "Ibovespa fecha em alta e dólar tem recuo",
-  "resumo": "O Ibovespa registrou alta de 1,57%, enquanto o dólar caiu para R$ 5,01. As movimentações refletem o cenário atual do mercado financeiro.",
-  "fatos": [
-   "O Ibovespa avançou 1,57% no fechamento recente.",
-   "O dólar terminou o dia cotado a R$ 5,01.",
-   "Esses movimentos indicam tendência positiva para o mercado."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Entender essas variações é crucial, pois podem influenciar decisões de investimento e estratégias de negociação no mercado.",
-  "impactoMercado": "Essas movimentações podem apontar para um otimismo ou pessimismo em relação à economia, afetando diretamente investidores e suas ações.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo a performance das ações mais negociadas.",
-  "observar": "Acompanhar se essa tendência de alta do Ibovespa se mantém nos próximos dias.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Compreender o que causa flutuações no Ibovespa e no dólar ajuda a novos investidores a tomar decisões informadas.",
-  "gancho": "*Ibovespa* e *dólar* em foco hoje!",
-  "ideias": [
-   "Onde o Ibovespa pode ir a seguir?",
-   "Impacto do dólar nos seus investimentos",
-   "O que causa movimentos no mercado financeiro?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Finance News",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.google.com/search?q=Ibovespa+fecha+em+1%2C57%25%3B+d%C3%B3lar+cai+a+R%24+5%2C01+Finance+News",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T18:07:36-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-55"
- },
- {
-  "titulo": "Juros futuros refletem otimismo eleitoral no Brasil",
-  "resumo": "Os juros futuros apresentam queda acentuada, mesmo após saírem das mínimas recentes, impulsionados por um clima otimista nas eleições.",
-  "fatos": [
-   "Os juros futuros estão em queda, embora tenham saído de suas mínimas.",
-   "O otimismo em relação ao cenário eleitoral está influenciando essa movimentação.",
-   "Os investidores continuam a acompanhar os sinais políticos para decisões do mercado."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A queda nos juros futuros pode indicar maior confiança do mercado e impacto nas decisões de investimentos.",
-  "impactoMercado": "Esse cenário pode afetar a dinâmica do mercado, influenciando as escolhas financeiras dos investidores.",
-  "entenda": "Juros futuros são contratos que financiam taxas de juros e são influenciados por expectativas de inflação e política monetária.",
-  "observar": "Fique de olho nas atualizações eleitorais e suas repercussões sobre o cenário econômico.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Compreender como o ambiente político pode afetar os juros é essencial para quem deseja investir com mais segurança.",
-  "gancho": "*Otimismo eleitoral* impacta *juros futuros*",
-  "ideias": [
-   "O que muda com a queda dos juros futuros?",
-   "Como o otimismo das eleições afeta o mercado?",
-   "Entenda a relação entre juros futuros e política."
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Juros",
-  "icone": "moeda",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.google.com/search?q=Juros+futuros+saem+das+m%C3%ADnimas%2C+mas+ainda+t%C3%AAm+queda+forte+com+otimismo+eleitoral+Valor+Econ%C3%B4mico",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:48:34-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-56"
- },
- {
-  "titulo": "Euro fica em alta na cotação de hoje",
-  "resumo": "Acompanhe ao vivo as cotações do euro e o seu comportamento no mercado financeiro.",
-  "fatos": [
-   "O euro é uma moeda importante no mercado global.",
-   "Acompanhar a cotação é fundamental para operações de câmbio.",
-   "Flutuações na cotação podem impactar investimentos."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Entender a cotação do euro ajuda investidores a tomar decisões mais informadas sobre câmbio e operações de comércio exterior.",
-  "impactoMercado": "Mudanças na cotação do euro podem influenciar o comércio e o fluxo de investimentos, refletindo na economia local.",
-  "entenda": "A cotação de moedas, como o euro, é o valor que se paga por uma unidade da moeda em outra. Isso é crucial para negociações internacionais.",
-  "observar": "Fique atento às flutuações que podem ocorrer devido a notícias econômicas ou políticas na Europa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Essa notícia é uma ótima oportunidade para entender como a cotação do euro pode afetar o mercado, mostrando a importância de se informar.",
-  "gancho": "Siga a cotação do *euro*",
-  "ideias": [
-   "Como a cotação do euro impacta suas finanças?",
-   "5 dicas para entender o câmbio com o euro",
-   "A importância do euro para o mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "GZH",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.google.com/search?q=Euro+hoje%3A+siga+ao+vivo+o+valor+da+cota%C3%A7%C3%A3o+GZH",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T18:24:59-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-57"
- },
- {
-  "titulo": "Receita devolve valor recorde em restituições do IR 2026",
-  "resumo": "A Receita Federal anunciou a devolução de um valor histórico em restituições do Imposto de Renda de 2026, totalizando R$ 41 bilhões.",
-  "fatos": [
-   "A Receita Federal alcançou um valor recorde de R$ 41 bilhões em restituições do Imposto de Renda.",
-   "Essa devolução é considerada um feito histórico para o órgão.",
-   "Os contribuintes afetados poderão acessar suas restituições em breve."
-  ],
-  "numeros": [
-   {
-    "valor": "41 bilhões",
-    "rotulo": "valor em restituições do IR 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 41 bilhões",
-  "porQueImporta": "Esse volume recorde de restituições pode impactar a liquidez no mercado, pois representa um aporte significativo de recursos na economia.",
-  "impactoMercado": "A devolução de restituições pode injetar recursos no mercado, estimulando o consumo e influenciando o desempenho de alguns setores econômicos.",
-  "entenda": "O Imposto de Renda é uma tributo arrecadado pelo governo, onde contribuintes podem receber restituições caso tenham pago valor superior ao devido.",
-  "observar": "Fique atento ao cronograma de devoluções da Receita e como isso pode afetar a economia local.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender a dinâmica das restituições pode ajudar investidores a antecipar movimentações no mercado.",
-  "gancho": "*Restituições* recordes em *2026*!",
-  "ideias": [
-   "O que significam as restituições do IR?",
-   "Como o valor recorde impacta a economia?",
-   "Restituições do IR: uma oportunidade para o investidor."
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "moeda",
-  "fonte": "G1",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://www.google.com/search?q=Receita+devolve+valor+recorde+de+R%24+41+bilh%C3%B5es+em+restitui%C3%A7%C3%B5es+do+IR+2026+G1",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T18:42:56-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-58"
- },
- {
-  "titulo": "Oversight Board critica Meta por falhas nas eleições",
-  "resumo": "O comitê de supervisão da Meta afirma que a empresa deve aumentar a transparência e melhorar seu controle de conteúdos eleitorais após falhas nas eleições brasileiras.",
-  "fatos": [
-   "Oversight Board destaca que a Meta aplicou excessivamente políticas antifraude contra anúncios de Lula.",
-   "O comitê pede mais transparência nas ações da Meta durante as eleições.",
-   "A falta de métricas públicas sobre a eficácia das medidas eleitorais foi criticada.",
-   "Relatos de interferência eleitoral e remoção indevida de conteúdos têm preocupado especialistas.",
-   "O conselho exige que a Meta atenda à promessa de 2025 sobre liberdade de expressão."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Essa discussão sobre a moderação de conteúdos e transparência é crucial para a integridade do processo eleitoral, influenciando a confiança dos usuários nas plataformas.",
-  "impactoMercado": "As práticas de moderação da Meta podem afetar sua reputação e, consequentemente, impactar a percepção de investidores sobre a empresa e seu valor de mercado.",
-  "entenda": "O Oversight Board é um comitê independente que analisa decisões da Meta sobre o controle de conteúdos. Suas críticas visam garantir a integridade e a confiança em períodos eleitorais.",
-  "observar": "Acompanhar os próximos anúncios da Meta sobre mudanças em suas políticas de moderação e a implementação de métricas públicas solicitadas pelo comitê.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "A crítica ao controle das plataformas sociais levanta a importância de debater o impacto da moderação na participação política e no mercado financeiro.",
-  "gancho": "*Falhas* da Meta na fiscalização eleitoral",
-  "ideias": [
-   "Por que a transparência é crucial nas eleições?",
-   "Como a moderação de conteúdos afeta o mercado?",
-   "Entenda a função do Oversight Board da Meta"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "escudo",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:18:27-03:00",
-  "url": "https://exame.com/brasil/comite-da-meta-diz-estar-preocupado-com-falhas-recorrentes-no-controle-de-conteudos-eleitorais/",
-  "publicadoEm": "2026-10-20T15:32:50-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-59"
- },
- {
-  "titulo": "Ibovespa cresce 1,58% com exterior favorável e eleições",
-  "resumo": "O Ibovespa B3 subiu devido ao ambiente internacional positivo e às eleições. O dólar também teve queda significativa.",
-  "fatos": [
-   "O Ibovespa fechou em alta de 1,57%, a 208.295,98 pontos.",
-   "O volume negociado na B3 foi de R$ 41,9 bilhões.",
-   "O dólar caiu 0,60%, fechando a R$ 5,01.",
-   "Os preços do petróleo caíram, influenciando a queda dos juros nos treasuries dos EUA.",
-   "Investidores preferiram bancos e varejistas, mesmo com a queda das ações de Petrobras e Vale."
-  ],
-  "numeros": [
-   {
-    "valor": "208.295,98",
-    "rotulo": "Ibovespa em pontos"
-   },
-   {
-    "valor": "41,9 bilhões",
-    "rotulo": "Volume negociado na B3"
-   },
-   {
-    "valor": "5,01",
-    "rotulo": "Cotação do dólar"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "208.295,98",
-  "porQueImporta": "A alta do Ibovespa e a queda do dólar podem indicar um ambiente favorável para investimentos em ações e maior confiança na economia.",
-  "impactoMercado": "O fortalecimento do Ibovespa sugere otimismo no mercado, com possíveis movimentos favoráveis para ações relacionadas ao consumo e bancos.",
-  "entenda": "O Ibovespa é o principal indicador do desempenho das ações negociadas na B3, refletindo o sentimento do mercado em relação à economia.",
-  "observar": "É importante acompanhar os desdobramentos eleitorais e as flutuações do petróleo que podem afetar o mercado local.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Essa notícia mostra como fatores externos e políticos podem impactar o mercado brasileiro, incentivando o aprendizado sobre investimentos.",
-  "gancho": "*Ibovespa* sobe e *dólar* cai!",
-  "ideias": [
-   "Como a política afeta o mercado?",
-   "Entenda a alta do Ibovespa!",
-   "O dólar baixo é bom para você?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Bora Investir (B3)",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504/",
-  "publicadoEm": "2026-10-20T17:53:06-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-31"
- },
- {
-  "titulo": "Ibovespa sobe com alta do varejo e dólar a R$ 5,02",
-  "resumo": "O Ibovespa teve alta de 1,57% impulsionado pelo setor varejista, enquanto o dólar fechou cotado a R$ 5,019.",
-  "fatos": [
-   "O Ibovespa subiu 1,57% no dia.",
-   "O setor varejista teve um desempenho positivo.",
-   "O dólar fechou a R$ 5,019."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Entender as movimentações do Ibovespa e do dólar é crucial para investidores, pois reflete a saúde da economia e pode impactar decisões de investimento.",
-  "impactoMercado": "Movimentos no Ibovespa podem indicar tendências de mercado, enquanto a cotação do dólar influencia o câmbio e operações de comércio exterior.",
-  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores brasileira, refletindo as ações mais negociadas e a saúde do mercado acionário.",
-  "observar": "Acompanhe as próximas divulgações do varejo e o comportamento do dólar nos próximos dias.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Esta notícia mostra como o varejo impacta o mercado financeiro, incentivando a educação sobre investimentos.",
-  "gancho": "*Ibovespa* e *dólar*: o que esperar?",
-  "ideias": [
-   "Varejo impulsiona Ibovespa: entenda!",
-   "Dólar e Ibovespa: como se relacionam?",
-   "O que a alta do varejo significa para o seu investimento?"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "UOL Economia",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=Ibovespa+sobe+1%2C57%25+com+disparada+do+varejo%3B+d%C3%B3lar+fecha+a+R%24+5%2C019+UOL+Economia",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T19:24:10-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-32"
- },
- {
-  "titulo": "Dólar recua a R$ 5,02 com exterior e eleições",
-  "resumo": "O dólar fechou em R$ 5,02 nesta terça, influenciado por fatores externos e as eleições que preocupam os investidores.",
-  "fatos": [
-   "O dólar caiu nesta terça-feira, encerrando o dia cotado a R$ 5,02.",
-   "Fatores externos e a perspectiva sobre as eleições influenciaram essa movimentação.",
-   "Os investidores estão atentos às possíveis consequências das eleições no mercado."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "R$ 5,02",
-  "porQueImporta": "O valor do dólar impacta diretamente nos custos de importação e na inflação, influenciando as decisões de investimento.",
-  "impactoMercado": "Um dólar mais baixo pode impactar a competitividade das exportações e a percepção de investidores sobre a economia nacional.",
-  "entenda": "O dólar é a principal moeda de troca no comércio internacional e seu valor afeta a economia local e o poder de compra do consumidor.",
-  "observar": "Acompanhe a evolução das cotações do dólar e as notícias sobre as eleições, pois podem afetar o mercado financeiro.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender como fatores externos e eventos políticos influenciam a cotação do dólar é essencial para quem quer se aprofundar no mercado.",
-  "gancho": "Dólar *recua* em meio a *eleições*",
-  "ideias": [
-   "Impactos do dólar na economia",
-   "Como as eleições afetam o mercado",
-   "Dólar e suas influências externas"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "BPMoney",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=D%C3%B3lar+recua+a+R%24+5%2C02+nesta+ter%C3%A7a+com+exterior+e+elei%C3%A7%C3%A3o+no+radar+dos+investidores+BPMoney",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:42:50-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-33"
- },
- {
-  "titulo": "BTG projeta dividendos da Petrobras em até US$ 4,2 bilhões",
-  "resumo": "A Petrobras pode pagar até US$ 4,2 bilhões em dividendos no terceiro trimestre de 2026, um aumento em relação às estimativas do mercado.",
-  "fatos": [
-   "O BTG Pactual divulga que a Petrobras pode repassar entre US$ 3,8 bilhões e US$ 4,2 bilhões em dividendos no 3º tri de 2026.",
-   "Essa previsão é 25% acima dos US$ 3,2 bilhões esperados pelo consenso de mercado.",
-   "O banco estima um Ebitda de US$ 20 bilhões, 17% maior que os US$ 17,1 bilhões do consenso.",
-   "A produção de petróleo da Petrobras deve atingir 2,84 milhões de barris/dia, maior que os 2,69 milhões do trimestre anterior.",
-   "O dividend yield estimado está entre 2,4% a 2,7% para o período."
-  ],
-  "numeros": [
-   {
-    "valor": "4,2 bilhões",
-    "rotulo": "dividendos máximos previstos"
-   },
-   {
-    "valor": "20 bilhões",
-    "rotulo": "Ebitda estimado"
-   },
-   {
-    "valor": "2,84 milhões",
-    "rotulo": "produção de petróleo diária"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Dividendos estimados",
-    "antes": "3,2 bilhões",
-    "depois": "4,2 bilhões"
-   }
-  ],
-  "destaque": "US$ 4,2 bilhões",
-  "porQueImporta": "Conhecer a previsão de dividendos ajuda investidores a entenderem o potencial de retorno sobre o investimento em ações da Petrobras.",
-  "impactoMercado": "Expectativas de dividendos altos podem influenciar a valorização das ações da Petrobras e a percepção de risco entre investidores.",
-  "entenda": "O dividend yield é um indicador que relaciona os dividendos pagos com o valor de mercado da empresa, ajudando a avaliar o retorno do investimento.",
-  "observar": "Acompanhe a divulgação dos dados operacionais da Petrobras programado para 28 de outubro.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Este cenário evidencia a importância de entender fatores que impactam a rentabilidade nas ações e estímulos para aprofundar conhecimentos no mercado.",
-  "gancho": "Petrobras e seus *grandes dividendos*!",
-  "ideias": [
-   "Dividendos da Petrobras: o que esperar?",
-   "BTG prevê lucros altos para a Petrobras!",
-   "Entenda o impacto dos dividendos no seu investimento!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Dividendos",
-  "icone": "moeda",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://bpmoney.com.br/mercado/acoes/petrobras-petr4-dividendos-ate-42-bilhoes-btg/",
-  "publicadoEm": "2026-10-20T17:51:25-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-34"
- },
- {
-  "titulo": "TCU aprova contas do Banco Central para 2025",
-  "resumo": "O Tribunal de Contas da União aprovou as contas do Banco Central referentes ao ano de 2025, com quitação plena.",
-  "fatos": [
-   "O TCU analisou as contas do Banco Central de 2025.",
-   "As contas foram aprovadas com quitação plena.",
-   "A aprovação representa confiança na gestão fiscal do Banco Central."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A aprovação das contas é crucial para a confiança do mercado e dos investidores na gestão fiscal.",
-  "impactoMercado": "Investidores podem sentir mais segurança na condução da política monetária e nas finanças públicas.",
-  "entenda": "A quitação plena indica que as contas foram bem geridas e reforça a credibilidade do Banco Central no mercado.",
-  "observar": "Acompanhe as próximas ações do Banco Central e as repercussões no mercado financeiro.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Entender a importância da aprovação das contas ajuda a analisar a saúde financeira de instituições públicas e os impactos que isso pode ter no mercado.",
-  "gancho": "*Contas do Banco Central* aprovadas!",
-  "ideias": [
-   "A importância da aprovação das contas do Banco Central",
-   "O que significa quitação plena para o mercado financeiro?",
-   "Como a aprovação do TCU afeta os investidores?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "escudo",
-  "fonte": "Tribuna do Paraná",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=TCU+aprova+contas+do+Banco+Central+de+2025+com+quita%C3%A7%C3%A3o+plena+Tribuna+do+Paran%C3%A1",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T18:07:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-35"
- },
- {
-  "titulo": "Petróleo em queda por avanços diplomáticos no Oriente Médio",
-  "resumo": "O preço do petróleo caiu devido à possível diplomacia no Oriente Médio, mesmo com novos ataques na região. A volatilidade segue no radar dos investidores.",
-  "fatos": [
-   "O petróleo Brent fechou a US$ 97,82 o barril, com uma baixa de 0,73%.",
-   "Já o WTI teve uma queda de 0,69%, fechando a US$ 108,79 o barril.",
-   "Os preços inicialmente subiram devido a ataques na Arábia Saudita, mas inverteram a tendência.",
-   "Especialistas apontam que a volatilidade é comum em meio a eventos geopolíticos acumulados.",
-   "A Agência Internacional de Energia pode liberar petróleo emergencialmente se necessário."
-  ],
-  "numeros": [
-   {
-    "valor": "97,82",
-    "rotulo": "Valor do Brent em US$ por barril"
-   },
-   {
-    "valor": "108,79",
-    "rotulo": "Valor do WTI em US$ por barril"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 97,82",
-  "porQueImporta": "A queda nos preços do petróleo pode impactar a inflação e o custo de produtos que dependem dessa commodity.",
-  "impactoMercado": "As flutuações nos preços do petróleo podem afetar o mercado de ações e a inflação, influenciando decisões de investimento.",
-  "entenda": "O Brent e o WTI são referências internacionais importantes para o preço do petróleo, influenciando economias globais.",
-  "observar": "Fique atento aos desdobramentos diplomáticos e ataques na região, pois podem impactar os preços do petróleo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Compreender os fatores que afetam o preço do petróleo ajuda a tomar decisões informadas no mercado.",
-  "gancho": "*Petróleo em Queda* por motivos geopolíticos",
-  "ideias": [
-   "Como a geopolítica afeta o petróleo?",
-   "Entenda o impacto dos eventos no preço do petróleo",
-   "Por que o petróleo é crucial para a economia?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Commodities",
-  "icone": "moeda",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.moneytimes.com.br/petroleo-20-10-26-lils/",
-  "publicadoEm": "2026-10-20T17:10:32-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-36"
- },
- {
-  "titulo": "Wall Street fecha misto com influência do petróleo",
-  "resumo": "Os índices de Wall Street encerraram sem direção clara, com o petróleo em queda após avanços diplomáticos no Oriente Médio. Investidores aguardam balanço da SpaceX.",
-  "fatos": [
-   "Os preços do petróleo chegaram a superar US$ 110 por barril, mas caíram para US$ 97,82 (Brent) e US$ 108,79 (WTI).",
-   "As ações do setor de tecnologia sofreram novas vendas, destacando a queda de mais de 30% da Elice em sua estreia na bolsa.",
-   "A SpaceX, que abriu capital em junho, espera reportar receita de US$ 12,7 bilhões no terceiro trimestre."
-  ],
-  "numeros": [
-   {
-    "valor": "110",
-    "rotulo": "máxima de cinco meses do petróleo"
-   },
-   {
-    "valor": "97,82",
-    "rotulo": "preço do Brent"
-   },
-   {
-    "valor": "108,79",
-    "rotulo": "preço do WTI"
-   },
-   {
-    "valor": "0,11%",
-    "rotulo": "queda da SpaceX no pregão"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "receita da SpaceX",
-    "antes": "7,8 bilhões",
-    "depois": "12,7 bilhões"
-   }
-  ],
-  "destaque": "US$ 110",
-  "porQueImporta": "As oscilações no preço do petróleo podem impactar a inflação e a oferta de commodities, afetando decisões de investimento.",
-  "impactoMercado": "A instabilidade nos preços do petróleo e no setor de tecnologia pode levar a uma cautela maior por parte dos investidores.",
-  "entenda": "O Brent e o WTI são dois tipos de petróleo bruto que influenciam os preços no mercado global e a economia.",
-  "observar": "Acompanhe os desdobramentos do balanço da SpaceX e as tendências no setor de tecnologia.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "A volatilidade e os resultados corporativos ensinham os investidores a importância de acompanhar o mercado e a análise fundamental.",
-  "gancho": "*Petróleo* influencia *Wall Street*",
-  "ideias": [
-   "Como o petróleo afeta a economia?",
-   "A importância do balanço da SpaceX",
-   "Setor de tecnologia em crise?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Global",
-  "icone": "globo",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.moneytimes.com.br/wall-street-20-10-26-lils/",
-  "publicadoEm": "2026-10-20T17:08:22-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-37"
- },
- {
-  "titulo": "Queda de juros pode beneficiar a renda fixa, diz gestor",
-  "resumo": "A Paramis Capital adotou estratégia conservadora em fundos de crédito, antecipando mudanças no mercado. A queda dos juros pode tornar o crédito privado mais atrativo, segundo seu CIO.",
-  "fatos": [
-   "A Paramis Capital, com cerca de R$ 2 bilhões sob gestão, reduziu risco em seus fundos nos últimos dois anos.",
-   "O CIO Alexandre Fernandes observou uma deterioração gradual do crédito das empresas devido a juros altos de 15% ao ano.",
-   "Apesar dos resgates, a gestora manteve um posicionamento defensivo, priorizando liquidez.",
-   "Com a queda de juros, os prêmios de risco nas debêntures estão ficando mais atraentes.",
-   "O gestor acredita que a normalização das taxas será benéfica para todos os ativos financeiros."
-  ],
-  "numeros": [
-   {
-    "valor": "15%",
-    "rotulo": "juros antes da queda"
-   },
-   {
-    "valor": "R$ 2 bilhões",
-    "rotulo": "gestão da Paramis Capital"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 2 bilhões",
-  "porQueImporta": "Entender como as estratégias conservadoras impactam os fundos de crédito ajuda investidores a tomarem decisões mais informadas no cenário atual.",
-  "impactoMercado": "A redução dos juros pode facilitar investimentos e melhorar a saúde financeira das empresas, impactando o crédito privado e o mercado de renda fixa.",
-  "entenda": "A marcação a mercado é a atualização diária de preços de títulos, refletindo alterações nas taxas de juros ou na demanda do mercado.",
-  "observar": "Fique atento a movimentos de resgates em fundos de crédito e à evolução das debêntures incentivadas na próxima janela de tempo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Essa mudança no mercado de crédito destaca a importância de estratégias de investimento mais conservadoras, convidando novos alunos a entender a renda fixa.",
-  "gancho": "*CDI* e *renda fixa*: O que esperar na queda de",
-  "ideias": [
-   "Como a queda do juro afeta sua renda fixa?",
-   "CDI: O 'vício' que pode mudar com a queda dos juros",
-   "Oportunidades de crédito privado em um cenário de juros baixos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Renda fixa",
-  "icone": "moeda",
-  "fonte": "Seu Dinheiro",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.seudinheiro.com/2026/renda-fixa/brasileiro-e-viciado-em-cdi-mas-queda-de-juro-pode-fazer-bem-para-a-renda-fixa-diz-gestor-de-credito-mlim/",
-  "publicadoEm": "2026-10-20T15:41:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-38"
- },
- {
-  "titulo": "NBA inicia temporada com recorde de jogadores internacionais",
-  "resumo": "A NBA, em sua temporada 2026/27, contará com 125 jogadores internacionais, igualando um recorde. Brasil será representado por Gui Santos, do Golden State Warriors.",
-  "fatos": [
-   "A temporada 2026/27 da NBA terá 125 jogadores internacionais de 43 países diferentes.",
-   "A França lidera com 17 jogadores, seguida pelo Canadá com 16.",
-   "Mais de 60 jogadores têm origens africanas entre os atletas da liga.",
-   "Esta será a sexta temporada consecutiva com pelo menos 120 jogadores internacionais.",
-   "A NBA será transmitida para 214 países em 50 idiomas."
-  ],
-  "numeros": [
-   {
-    "valor": "125",
-    "rotulo": "número de jogadores internacionais"
-   },
-   {
-    "valor": "43",
-    "rotulo": "número de países representados"
-   },
-   {
-    "valor": "17",
-    "rotulo": "jogadores da França"
-   },
-   {
-    "valor": "60",
-    "rotulo": "jogadores com origem africana"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "125 jogadores internacionais",
-  "porQueImporta": "Esse recorde reflete a globalização da NBA e pode impactar o interesse dos investidores em eventos e produtos relacionados ao basquete mundial.",
-  "impactoMercado": "O aumento de jogadores internacionais pode atrair novos fãs e investidores para a liga, influenciando a demanda por merchandising e direitos de transmissão.",
-  "entenda": "O caráter global da NBA se reflete na diversidade de jogadores, aumentando o apelo internacional da liga e seu impacto econômico.",
-  "observar": "Fique atento ao desempenho de Gui Santos e a presença de jogadores internacionais em sua evolução na NBA.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "A diversidade na NBA mostra como o mercado esportivo se expande globalmente, despertando o interesse em entender investimentos no esporte.",
-  "gancho": "*NBA* rompe recordes de *atletas internacionais*",
-  "ideias": [
-   "Jogadores internacionais na NBA: o novo padrão?",
-   "Como a diversidade impacta o mercado da NBA",
-   "Gui Santos e a representação do Brasil na NBA"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://exame.com/esporte/nba-iguala-recorde-e-tera-125-jogadores-internacionais-na-abertura-da-temporada-2026-27/",
-  "publicadoEm": "2026-10-20T15:09:31-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-39"
- },
- {
-  "titulo": "Bolsas europeias fecham em queda; tecnologia e geopolítica sob pressão",
-  "resumo": "As bolsas da Europa registraram quedas nesta terça-feira, com os setores de tecnologia sob pressão e investidores cautelosos diante das tensões geopolíticas no Oriente Médio e na França.",
-  "fatos": [
-   "O índice Stoxx 600 caiu 0,14%, encerrando a 638,64 pontos.",
-   "Em Londres, o FTSE 100 recuou 0,29%, a 10.733,00 pontos.",
-   "O DAX de Frankfurt teve uma queda de 0,06%, a 25.304,42 pontos.",
-   "O CAC 40 de Paris perdeu 0,38%, fechando a 7.838,49 pontos.",
-   "Papéis de empresas de tecnologia e infraestrutura de IA enfrentaram forte pressão.",
-   "Os preços do petróleo caíram com uma proposta de resolução para conflitos envolvendo o Paquistão."
-  ],
-  "numeros": [
-   {
-    "valor": "0,14%",
-    "rotulo": "queda do índice Stoxx 600"
-   },
-   {
-    "valor": "0,29%",
-    "rotulo": "queda do FTSE 100"
-   },
-   {
-    "valor": "0,06%",
-    "rotulo": "queda do DAX"
-   },
-   {
-    "valor": "0,38%",
-    "rotulo": "queda do CAC 40"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Queda de 0,14%",
-  "porQueImporta": "Entender os movimentos das bolsas europeias é essencial para investidores que operam com ações globais, já que podem impactar perfis de risco e estratégias de investimento.",
-  "impactoMercado": "As quedas podem sinalizar um sentimento de cautela entre os investidores, que poderá influenciar decisões de compra e venda no mercado europeu e global.",
-  "entenda": "O índice Stoxx 600 abrange as ações de 600 das maiores empresas listadas nas bolsas europeias, refletindo a saúde econômica da região.",
-  "observar": "Fique atento a novos desdobramentos geopolíticos e às reações do mercado em relação a tecnologia e tensões políticas, especialmente na França.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Esta queda no mercado europeu mostra como fatores externos podem afetar o desempenho das ações, ajudando a entender melhor o ambiente financeiro.",
-  "gancho": "*Bolsas em Queda:* Tecnologia e Geopolítica",
-  "ideias": [
-   "Impactos das quedas europeias no seu portfólio",
-   "Por que a tecnologia está sob pressão?",
-   "Entenda o impacto das tensões geopolíticas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Global",
-  "icone": "queda",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.moneytimes.com.br/europa-20-10-26-lils/",
-  "publicadoEm": "2026-10-20T15:19:11-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-40"
- },
- {
-  "titulo": "Dados de emprego nos EUA movimentam mercados hoje",
-  "resumo": "Investidores estão atentos à variação semanal de empregos privados da ADP nos EUA e indicadores da Europa, enquanto o Brasil aguarda a definição política.",
-  "fatos": [
-   "A agenda econômica desta terça-feira (20) é focada no exterior, especialmente nos EUA.",
-   "O principal destaque é a variação semanal de empregos privados da ADP.",
-   "Essa divulgação pode influenciar as expectativas em relação ao Federal Reserve.",
-   "No Brasil, o Ibovespa caiu 0,17% na segunda-feira, aos 205.079,25 pontos.",
-   "O dólar comercial está cotado a R$ 5,04, com uma queda de 0,28%."
-  ],
-  "numeros": [
-   {
-    "valor": "205.079",
-    "rotulo": "Ibovespa na segunda-feira"
-   },
-   {
-    "valor": "R$ 5,04",
-    "rotulo": "Cotação do dólar"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "205.079",
-  "porQueImporta": "Entender dados de emprego é crucial, pois influenciam as decisões monetárias do Federal Reserve e, consequentemente, o mercado financeiro global.",
-  "impactoMercado": "Os dados de emprego podem impactar a confiança dos investidores e suas decisões sobre investimentos no mercado americano e brasileiro.",
-  "entenda": "A variação de empregos privados da ADP é um indicador importante que reflete as condições do mercado de trabalho e pode sinalizar tendências econômicas.",
-  "observar": "Fique de olho na divulgação dos dados de emprego e indicadores da Europa para avaliar possíveis reações do mercado.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Acompanhar estas divulgações pode ajudar investidores a entender os movimentos do mercado e a importância da análise econômica.",
-  "gancho": "*Empregos* e *indicadores* do mercado em destaque",
-  "ideias": [
-   "Como os dados de emprego afetam o mercado?",
-   "Expectativas do Fed: O que podemos esperar?",
-   "O impacto das eleições no cenário financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "seta",
-  "fonte": "Bora Investir (B3)",
-  "impacto": "medio",
-  "ordem": 11,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://borainvestir.b3.com.br/noticias/mercado/mercados-hoje-dados-de-emprego-nos-eua-estao-no-radar-dos-investidores/",
-  "publicadoEm": "2026-10-20T09:42:14-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-41"
- },
- {
-  "titulo": "Ibovespa sobe com bancos e eleições se aproximando",
-  "resumo": "O Ibovespa retoma os 208 mil pontos impulsionado pelo setor bancário, em meio à reta final das eleições. A expectativa é refletida na movimentação do mercado.",
-  "fatos": [
-   "O Ibovespa voltou a se aproximar dos 208 mil pontos.",
-   "O setor bancário tem papel importante nesse movimento.",
-   "A proximidade das eleições gera expectativas entre os investidores."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "208 mil pontos",
-  "porQueImporta": "A movimentação do Ibovespa pode influenciar decisões de compra e venda de ativos, sendo crucial para investidores acompanhar essas mudanças.",
-  "impactoMercado": "A movimentação em setores específicos, como o bancário, pode impactar os índices gerais e a confiança no mercado.",
-  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, refletindo o desempenho das ações mais negociadas.",
-  "observar": "Fique atento às informações sobre os resultados das eleições e como elas afetam o comportamento do mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender como a política e setores específicos afetam o mercado é fundamental para investidores, o que destaca a relevância de uma educação financeira.",
-  "gancho": "A subida do *Ibovespa* e impacto eleitoral",
-  "ideias": [
-   "Ibovespa: o que significa essa alta recente?",
-   "Como as eleições afetam o mercado?",
-   "Entenda a influência dos bancos na bolsa!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-  "impacto": "medio",
-  "ordem": 12,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=Ibovespa+e+d%C3%B3lar+hoje%3A+bolsa+retoma+208+mil+com+bancos+e+reta+final+eleitoral+Investing.com+Brasil+-+Finan%C3%A7as%2C+C%C3%A2mbio+e+Investimentos",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T19:11:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-42"
- },
- {
-  "titulo": "Queda nas taxas do Tesouro Direto após novas pesquisas",
-  "resumo": "As taxas do Tesouro Direto caíram fortemente, mesmo com a alta no preço do petróleo, refletindo as novas pesquisas do cenário econômico.",
-  "fatos": [
-   "As novas pesquisas influenciaram uma queda significativa nas taxas do Tesouro Direto.",
-   "Essa redução ocorre em um cenário de alta nos preços do petróleo.",
-   "Investidores estão atentos às mudanças no cenário econômico e suas implicações."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A queda nas taxas do Tesouro Direto pode indicar mudanças nas expectativas sobre juros futuros e inflação, afetando decisões de investimento.",
-  "impactoMercado": "Isso pode impactar os investimentos em renda fixa e influenciar o comportamento dos investidores em busca de opções mais atraentes.",
-  "entenda": "O Tesouro Direto é um programa do Governo Federal que permite a compra de títulos públicos, considerados uma das opções de investimento mais seguras.",
-  "observar": "É importante acompanhar a evolução das taxas do Tesouro e como elas se relacionam com o preço do petróleo e a inflação.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender como as taxas do Tesouro Direto funcionam pode ajudar investidores a tomar decisões mais informadas.",
-  "gancho": "*Taxas em queda* no Tesouro Direto",
-  "ideias": [
-   "O que causa a queda nas taxas do Tesouro?",
-   "Impacto da alta do petróleo nas taxas...",
-   "Entenda as taxas do Tesouro Direto!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Renda fixa",
-  "icone": "grafico",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 13,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=Taxas+do+Tesouro+Direto+caem+forte+ap%C3%B3s+novas+pesquisas%2C+mesmo+com+alta+do+petr%C3%B3leo+InfoMoney",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:42:57-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-43"
- },
- {
-  "titulo": "Governo pressiona para votar PEC da Segurança Pública",
-  "resumo": "Camilo Santana solicita ao presidente do Senado que a votação ocorra mesmo sem acordo sobre a maioridade penal. Alcolumbre analisa a solicitação.",
-  "fatos": [
-   "Camilo Santana pediu a Davi Alcolumbre para pautar a PEC da Segurança nesta semana.",
-   "A votação está em discussão, mesmo sem acordo sobre emendas que tratam da maioridade penal.",
-   "Alcolumbre retirou a PEC de votação na semana anterior devido a controvérsias.",
-   "A proposta de Marinho sugere redução da maioridade penal para 16 anos e 14 em crimes hediondos."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A votação da PEC pode impactar a legislação de segurança pública e, consequentemente, a percepção do mercado sobre o clima político no Brasil.",
-  "impactoMercado": "Mudanças na legislação de segurança podem influenciar a estabilidade política e a confiança do investidor, refletindo na economia.",
-  "entenda": "A PEC (Proposta de Emenda à Constituição) é um instrumento usado para propor alterações à Constituição, podendo envolver questões relevantes para a sociedade.",
-  "observar": "Acompanhe como as negociações entre o governo e a oposição evoluem e se a votação realmente ocorrerá.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Entender os impactos das decisões políticas sobre a economia é essencial para quem deseja investir de forma inteligente.",
-  "gancho": "Apertos na *Segurança Pública*!",
-  "ideias": [
-   "PEC da Segurança: O que está em jogo?",
-   "Alcolumbre e os desafios da votação",
-   "Como mudanças políticas afetam seu investimento"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "escudo",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 14,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://exame.com/brasil/governo-pede-que-alcolumbre-paute-pec-da-seguranca-mesmo-sem-acordo-com-oposicao/",
-  "publicadoEm": "2026-10-20T15:25:22-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-44"
- },
- {
-  "titulo": "Musk divulga estudo de fusão entre SpaceX e Tesla",
-  "resumo": "As empresas avaliam uma fusão que pode criar uma gigante avaliada em cerca de US$ 3,5 trilhões. A união reuniria interesses em robótica e inteligência artificial.",
-  "fatos": [
-   "Elon Musk confirmou que SpaceX e Tesla criaram comitês para estudar uma fusão.",
-   "A combinação seria a maior do mundo, unindo veículos elétricos, energia e robótica com lançamentos espaciais.",
-   "Streetwise estima que a fusão poderia resultar em uma empresa avaliada em US$ 3,5 trilhões.",
-   "As ações da SpaceX subiram 4,6% e as da Tesla 1,2% após a notícia.",
-   "A receita da Tesla aumentou 161% comparado ao ano anterior, atingindo US$ 14,6 bilhões."
-  ],
-  "numeros": [
-   {
-    "valor": "3,5 trilhões",
-    "rotulo": "avaliação de fusão"
-   },
-   {
-    "valor": "4,6%",
-    "rotulo": "alta da SpaceX após notícias"
-   },
-   {
-    "valor": "1,2%",
-    "rotulo": "alta da Tesla após notícias"
-   },
-   {
-    "valor": "161%",
-    "rotulo": "crescimento na receita da Tesla"
-   },
-   {
-    "valor": "14,6 bilhões",
-    "rotulo": "receita da Tesla"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "3,5 trilhões",
-  "porQueImporta": "Uma fusão dessa magnitude pode alterar estruturações de mercado e criar oportunidades únicas em setores como veículos elétricos e espaço.",
-  "impactoMercado": "O movimento pode influenciar investidores, aumentar a competitividade no mercado e acirrar inovações em inteligência artificial.",
-  "entenda": "Uma fusão entre duas grandes empresas pode se tornar um marco, influenciando ações e a percepção de acionistas sobre o futuro.",
-  "observar": "Acompanhe a reação do mercado e a posição dos acionistas em relação à fusão proposta de Musk.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Essa notícia instiga o interesse sobre como grandes fusões podem moldar o futuro do mercado e os setores envolvidos.",
-  "gancho": "*Fusão* entre *Tesla* e *SpaceX*?",
-  "ideias": [
-   "Como a fusão Tesla-SpaceX pode mudar o futuro?",
-   "Entenda o potencial da fusão envolvendo Musk!",
-   "O que significa a fusão Tesla e SpaceX para investidores?"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 16,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.infomoney.com.br/business/musk-confirma-estudo-de-fusao-entre-spacex-e-tesla-em-negocio-que-pode-ser-recorde/",
-  "publicadoEm": "2026-10-20T19:32:29-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-45"
- },
- {
-  "titulo": "Flávio impulsiona Ibovespa ao 2º maior fechamento",
-  "resumo": "O Ibovespa fechou em seu segundo maior nível histórico, impulsionado pela vantagem de Flávio em pesquisas eleitorais. O mercado reagiu positivamente a essa situação política.",
-  "fatos": [
-   "O Ibovespa atingiu o segundo maior fechamento da sua história.",
-   "A vantagem de Flávio em pesquisas eleitorais foi um dos fatores que impulsionou o índice.",
-   "O clima político impactou diretamente a confiança dos investidores."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Esse fechamento histórico pode refletir a confiança dos investidores no ambiente político, importante para o mercado financeiro.",
-  "impactoMercado": "Com a confiança em alta, o mercado pode se manter otimista, atraindo mais investimentos e gerando volatilidade.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira e reflete a valorização das ações mais negociadas. Seu desempenho é acompanhado por investidores em busca de oportunidades.",
-  "observar": "Acompanhe as próximas pesquisas eleitorais e o impacto nas ações e no Ibovespa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Essa notícia nos ajuda a entender como a política e suas mudanças podem influenciar o mercado financeiro, destacando a relevância do conhecimento na área.",
-  "gancho": "*Ibovespa* em *alta*!",
-  "ideias": [
-   "Como a política afeta o Ibovespa?",
-   "Entenda o impacto das pesquisas eleitorais no mercado",
-   "O que podemos aprender com o fechamento histórico do Ibovespa?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Revista Oeste",
-  "impacto": "medio",
-  "ordem": 17,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=Vantagem+de+Fl%C3%A1vio+em+pesquisas+impulsiona+Ibovespa+ao+2%C2%BA+maior+fechamento+da+hist%C3%B3ria+Revista+Oeste",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T20:50:07-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-46"
- },
- {
-  "titulo": "EQI Research indica ISA Energia para dividendos",
-  "resumo": "A EQI Research aponta a ISA Energia como uma ótima opção para dividendos. A escolha se baseia na sólida performance da empresa e na política de distribuição aos acionistas.",
-  "fatos": [
-   "A EQI Research destaca a ISA Energia como uma opção atrativa para investidores em busca de dividendos.",
-   "A empresa se destaca pela sua sólida performance no setor de energia.",
-   "A política de distribuição de dividendos é um dos pontos que chama a atenção da EQI Research."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A escolha de uma ação com bons dividendos traz maior segurança e rentabilidade aos investidores, especialmente em tempos de incerteza no mercado.",
-  "impactoMercado": "A indicação da EQI Research pode influenciar a decisão de investidores em carteira de ações focadas em dividendos.",
-  "entenda": "Dividendo é a parte do lucro que as empresas distribuem aos acionistas, representando um retorno sobre o investimento.",
-  "observar": "Fique atento aos próximos anúncios de dividendos da ISA Energia e à performance do setor.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Entender a relevância dos dividendos pode ajudar os investidores a diversificar suas carteiras e explorar novas oportunidades.",
-  "gancho": "Por que a *ISA Energia*? Descubra!",
-  "ideias": [
-   "ISA Energia: Uma opção sólida para dividendos",
-   "Vantagens de investir em ações que pagam dividendos",
-   "Como a EQI Research identifica boas oportunidades"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Dividendos",
-  "icone": "moeda",
-  "fonte": "EuQueroInvestir",
-  "impacto": "medio",
-  "ordem": 18,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=Por+que+a+EQI+Research+prefere+ISA+Energia+para+dividendos%3F+EuQueroInvestir",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T21:07:29-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-47"
- },
- {
-  "titulo": "Ranking de Cidades Mais Seguras do Brasil é divulgado",
-  "resumo": "São Caetano do Sul lidera o ranking de cidades mais seguras do Brasil, com a menor taxa de assassinatos. O estudo aponta uma redução de violência letal no país.",
-  "fatos": [
-   "São Caetano do Sul tem a menor taxa de assassinatos, com 1,9 por 100 mil habitantes.",
-   "Salto e Blumenau ocupam o segundo e terceiro lugares, com taxas de 2,2 e 2,4, respectivamente.",
-   "O Brasil registrou 40.775 mortes violentas em 2025, uma queda de 8,2% em relação a 2024.",
-   "O estado de São Paulo concentra 19 das 30 cidades no ranking.",
-   "O levantamento foi elaborado pela MySide, utilizando dados do IBGE e do Sistema de Informações sobre Mortalidade."
-  ],
-  "numeros": [
-   {
-    "valor": "1,9",
-    "rotulo": "taxa de assassinatos em São Caetano do Sul"
-   },
-   {
-    "valor": "40.775",
-    "rotulo": "mortes violentas em 2025"
-   },
-   {
-    "valor": "8,2%",
-    "rotulo": "queda em relação a 2024"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "1,9",
-  "porQueImporta": "Compreender as taxas de criminalidade é fundamental para a avaliação da segurança em investimentos imobiliários ou outros negócios.",
-  "impactoMercado": "A segurança de uma cidade pode influenciar o mercado imobiliário, atraindo investidores e novos moradores para regiões com menores taxas de violência.",
-  "entenda": "A taxa de assassinatos por 100 mil habitantes permite comparar a segurança entre cidades de tamanhos diferentes, mas não reflete a totalidade da criminalidade.",
-  "observar": "Acompanhar a evolução dos índices de violência e sua relação com os investimentos em infraestrutura e segurança na cidade.",
-  "publico": [
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Compreender as dinâmicas de segurança nas cidades pode ajudar investidores a identificar oportunidades e riscos no mercado imobiliário.",
-  "gancho": "*Cidades* mais *seguras* do Brasil",
-  "ideias": [
-   "Top 3 Cidades mais Seguras do Brasil",
-   "Como a segurança influencia os investimentos?",
-   "Estudo revela redução da violência no Brasil"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "escudo",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 19,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://exame.com/brasil/quais-sao-as-cidades-mais-seguras-do-brasil-estado-de-sp-lidera-ranking/",
-  "publicadoEm": "2026-10-20T14:59:36-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-48"
- },
- {
-  "titulo": "Resultado da Quina 7147 foi divulgado",
-  "resumo": "Os números sorteados da Quina 7147 foram revelados. O prêmio total é de R$ 52 milhões para quem acerta as cinco dezenas.",
-  "fatos": [
-   "A Quina 7147 teve um prêmio acumulado de R$ 52 milhões.",
-   "Os números sorteados podem ser conferidos por candidatos.",
-   "A loteria atrai a atenção de apostadores em busca de sorte."
-  ],
-  "numeros": [
-   {
-    "valor": "52.000.000",
-    "rotulo": "Valor do prêmio da Quina"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 52 milhões",
-  "porQueImporta": "A Quina é uma opção popular de loteria que pode impactar a economia local com prêmios altos e atrair novos apostadores.",
-  "impactoMercado": "Resultados de loterias podem gerar interesse em produtos financeiros e investimentos, especialmente em momentos de maiores prêmios.",
-  "entenda": "A Quina é uma das loterias mais populares do Brasil, onde o jogador deve escolher cinco números.",
-  "observar": "Fique de olho nos próximos sorteios e como o prêmio acumulado pode atrair mais apostadores.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender os resultados das loterias pode despertar o interesse em finanças e investimentos, além de entretenimento.",
-  "gancho": "Você ganhou na *Quina 7147*?",
-  "ideias": [
-   "Quina 7147: Confira os números sorteados!",
-   "Você está entre os sorteados da Quina 7147?",
-   "R$ 52 milhões na Quina: jogue e participe!"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "moeda",
-  "fonte": "BHAZ",
-  "impacto": "medio",
-  "ordem": 21,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://www.google.com/search?q=Resultado+Quina+7147%3A+veja+os+n%C3%BAmeros+sorteados+e+saiba+se+voc%C3%AA+ganhou+o+pr%C3%AAmio+de+R%24+52+milh%C3%B5es+BHAZ",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T21:13:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-49"
- },
- {
-  "titulo": "Tecnopuc Experience conecta 320 organizações em Porto Alegre",
-  "resumo": "O festival acontece de 20 a 22 de outubro, com programação dedicada à inovação, tecnologia e empreendedorismo. Espera-se cerca de 3 mil participantes no último dia, aberto ao público.",
-  "fatos": [
-   "O Tecnopuc é um parque tecnológico que reúne 320 organizações e mais de 8 mil profissionais.",
-   "O evento ocorrerá no Parque Científico e Tecnológico da PUCRS, em Porto Alegre.",
-   "No último dia do festival, a expectativa é receber cerca de 3 mil participantes.",
-   "Serão mais de 100 horas de atividades em seis palcos temáticos, incluindo palestras e workshops.",
-   "Os debates focarão em inteligência artificial, saúde, sustentabilidade e novas formas de trabalho."
-  ],
-  "numeros": [
-   {
-    "valor": "320",
-    "rotulo": "número de organizações envolvidas"
-   },
-   {
-    "valor": "8.000",
-    "rotulo": "número de profissionais no ecossistema"
-   },
-   {
-    "valor": "3.000",
-    "rotulo": "número de participantes esperados no último dia"
-   },
-   {
-    "valor": "100",
-    "rotulo": "horas de atividades no festival"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "320 organizações",
-  "porQueImporta": "Eventos como o Tecnopuc Experience são fundamentais para fomentar inovações e conexões entre diferentes atores do mercado, o que pode abrir novas oportunidades de negócios.",
-  "impactoMercado": "A conexão entre startups, pesquisadores e empresas pode impulsionar o desenvolvimento de novas tecnologias e soluções, impactando diversos setores do mercado.",
-  "entenda": "O Tecnopuc é um parque tecnológico que transforma conhecimento acadêmico em soluções práticas por meio da colaboração entre empresas e instituições de pesquisa.",
-  "observar": "Acompanhe as atualizações sobre as inovações apresentadas e as discussões surgidas durante o festival.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Essa conexão entre inovação e mercado gera um ambiente propício para novos empreendimentos, mostrando a importância da educação e do networking em eventos desse tipo.",
-  "gancho": "*Inovação* em foco no Tecnopuc",
-  "ideias": [
-   "O que esperar do Tecnopuc Experience 2026?",
-   "Como o Tecnopuc promove a inovação?",
-   "A importância de eventos tecnológicos para o mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "globo",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 22,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:16:52-03:00",
-  "url": "https://exame.com/negocios/onde-nascem-os-novos-negocios-polo-com-320-organizacoes-promove-festival-de-inovacao/",
-  "publicadoEm": "2026-10-20T17:20:11-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-50"
- },
- {
-  "titulo": "Dólar cai para R$ 5,01 com exterior e expectativas eleitorais",
-  "resumo": "O dólar aproxime-se de R$ 5, e a bolsa superou 208 mil pontos. A desvalorização da moeda americana e o fluxo de investimentos estrangeiros impulsionam o mercado brasileiro.",
-  "fatos": [
-   "O dólar comercial encerrou a terça-feira a R$ 5,019, com queda de 0,58%.",
-   "Essa foi a terceira baixa consecutiva da moeda frente ao real.",
-   "O Ibovespa fechou a 208.295,98 pontos, com valorização de 1,57%.",
-   "O petróleo Brent caiu 0,69%, fechando a US$ 108,79 por barril.",
-   "A expectativa eleitoral e a entrada de capital estrangeiro influenciam os ativos brasileiros."
-  ],
-  "numeros": [
-   {
-    "valor": "5,019",
-    "rotulo": "Dólar comercial"
-   },
-   {
-    "valor": "208.295,98",
-    "rotulo": "Ibovespa"
-   },
-   {
-    "valor": "108,79",
-    "rotulo": "Petróleo Brent"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 5,01",
-  "porQueImporta": "A variação do dólar impacta diretamente a economia, influenciando a inflação e os investimentos, fundamentais para investidores e traders.",
-  "impactoMercado": "Com a valorização do real, investidores podem observar mudanças nas ações e na atratividade de ativos brasileiros.",
-  "entenda": "O real frente ao dólar reflete a força da economia e como ela atrai investidores, essencial para quem busca entender a Bolsa.",
-  "observar": "Fique atento aos próximos dados econômicos dos EUA e ao desenrolar da disputa eleitoral no Brasil.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Entender a dinâmica entre a moeda e a Bolsa é crucial para quem deseja se aprofundar no mercado financeiro.",
-  "gancho": "*Dólar em queda* e *expectativa positiva*",
-  "ideias": [
-   "Entenda o impacto da queda do dólar",
-   "Como a política influencia o mercado financeiro?",
-   "Dicas para aproveitar a variação da moeda"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Agência Brasil Economia",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-para-r-501-com-exterior-e-expectativa-eleitoral-no-brasil",
-  "publicadoEm": "2026-10-20T19:34:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-10"
- },
- {
-  "titulo": "Ibovespa avança 1,57% com otimismo eleitoral",
-  "resumo": "O Ibovespa se recuperou das perdas da véspera, subindo 1,57% e atingindo 208.295,98 pontos. Dólar encerrou em R$ 5,0183, com queda de 0,58%.",
-  "fatos": [
-   "O Ibovespa terminou com alta de 1,57%, alcançando 208.295,98 pontos.",
-   "O dólar à vista caiu 0,58%, fechando a R$ 5,0183.",
-   "A captação no mercado de capitais chegou a R$ 556,7 bilhões em 2022.",
-   "Magazine Luiza (MGLU3) subiu 14,79%, liderando as altas do dia.",
-   "Vale (VALE3) teve a menor cotação do ano, fechando a R$ 65,44."
-  ],
-  "numeros": [
-   {
-    "valor": "556,7",
-    "rotulo": "R$ bilhões em captação no ano"
-   },
-   {
-    "valor": "1,57",
-    "rotulo": "alta do Ibovespa em porcentagem"
-   },
-   {
-    "valor": "0,58",
-    "rotulo": "queda do dólar em porcentagem"
-   },
-   {
-    "valor": "208.295,98",
-    "rotulo": "pontos do Ibovespa"
-   },
-   {
-    "valor": "5,0183",
-    "rotulo": "cotação do dólar à vista"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "1,57%",
-  "porQueImporta": "A alta do Ibovespa mostra confiança do investidor, ajudando a atrair capital e a estabilizar o mercado antes das eleições.",
-  "impactoMercado": "O cenário eleitoral influencia as decisões de investimento e pode definir a direção do mercado após as eleições.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas no Brasil.",
-  "observar": "Fique atento às próximas pesquisas de intenção de voto que podem impactar o mercado nos próximos dias.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Essa movimentação do Ibovespa oferece uma oportunidade para aprender sobre como o mercado financeiro reage a eventos políticos.",
-  "gancho": "*Ibovespa* e *dólar* em movimento!",
-  "ideias": [
-   "O que a alta do Ibovespa significa?",
-   "Dólar cai e traz impacto ao mercado: entenda!",
-   "Como as eleições afetam o mercado financeiro?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Money Times",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.moneytimes.com.br/ibovespa-20-10-26-lils/",
-  "publicadoEm": "2026-10-20T17:36:38-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-11"
- },
- {
-  "titulo": "Flávio em pesquisas ajuda Ibovespa a fechar em alta histórica",
-  "resumo": "O Ibovespa teve uma forte valorização, fechando no segundo maior nível da sua história, impulsionado pelos resultados das pesquisas eleitorais.",
-  "fatos": [
-   "O índice Ibovespa registrou uma forte valorização ao longo do dia.",
-   "Essa alta foi impulsionada pelos resultados das pesquisas eleitorais.",
-   "O fechamento alcançado foi o segundo maior da história do Ibovespa."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Entender como eventos políticos influenciam o mercado é fundamental para investidores e traders que buscam aproveitar oportunidades.",
-  "impactoMercado": "Uma valorização significativa do Ibovespa pode gerar oportunidades de investimento, atraindo mais investidores para o mercado.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas.",
-  "observar": "É importante acompanhar as próximas pesquisas eleitorais e seu impacto nas ações da bolsa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Analisar como movimentos políticos podem refletir nas cotações e motivar o interesse pelo mercado financeiro e pela educação em finanças.",
-  "gancho": "*Ibovespa* em alta histórica!",
-  "ideias": [
-   "Como as eleições afetam o mercado?",
-   "Entenda o Ibovespa e suas oscilações!",
-   "A importância das pesquisas eleitorais para os investidores."
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Revista Oeste",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=Vantagem+de+Fl%C3%A1vio+em+pesquisas+impulsiona+Ibovespa+ao+2%C2%BA+maior+fechamento+da+hist%C3%B3ria+Revista+Oeste",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T20:50:07-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-12"
- },
- {
-  "titulo": "Dólar cai e Ibovespa sobe nesta terça-feira",
-  "resumo": "O dólar apresentou queda de 0,58%, enquanto o Ibovespa registrou alta de 1,57%.",
-  "fatos": [
-   "O dólar fechou a R$ 5,019.",
-   "O Ibovespa subiu 1,57%.",
-   "Os investidores reagiram a fatores internos e externos."
-  ],
-  "numeros": [
-   {
-    "valor": "5,019",
-    "rotulo": "Cotação do dólar"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "0,58%",
-  "porQueImporta": "As oscilações do dólar e do Ibovespa refletem a saúde da economia e afetam decisões de investimento.",
-  "impactoMercado": "Quedas no dólar geralmente beneficiam ações de exportadoras e impactam setores distintos no mercado interno.",
-  "entenda": "O Ibovespa é o principal índice da Bolsa de Valores, representando as ações mais negociadas no Brasil.",
-  "observar": "Fique atento aos próximos dados econômicos que podem influenciar a cotação do dólar e do índice.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Entender como o mercado reage a notícias ajuda a formar uma base sólida para investimentos.",
-  "gancho": "Dólar em *queda* e Ibovespa *subindo*!",
-  "ideias": [
-   "O que fez o Ibovespa subir hoje?",
-   "Entenda a queda do dólar!",
-   "Como os investidores reagiram às oscilações?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Poder360",
-  "impacto": "alto",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=D%C3%B3lar+cai+0%2C58%25+e+fecha+a+R%24+5%2C019%3B+Ibovespa+sobe+1%2C57%25+Poder360",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:40:02-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-13"
- },
- {
-  "titulo": "Ibovespa alcança 2ª melhor marca pós 1º turno eleitoral",
-  "resumo": "O Ibovespa subiu 1,57% e se aproxima do trade eleitoral que influencia o mercado. Expectativas giram em torno do cenário político.",
-  "fatos": [
-   "O Ibovespa teve uma alta de 1,57%.",
-   "Esse resultado marca a segunda melhor performance após o primeiro turno das eleições.",
-   "O mercado aguarda o desenrolar das negociações eleitorais."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A oscilação do Ibovespa impacta diretamente os investidores, refletindo as expectativas e incertezas políticas.",
-  "impactoMercado": "A alta do índice pode atrair investidores, mas também pode gerar volatilidade nas próximas semanas devido a incertezas políticas.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, representando as ações mais negociadas e servindo como um termômetro do mercado.",
-  "observar": "Fique atento aos desdobramentos do contexto eleitoral e seus efeitos nas ações e índices do mercado.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Compreender como o ambiente político impacta a bolsa é fundamental para qualquer investidor que busca navegar as flutuações do mercado.",
-  "gancho": "Ibovespa em alta: *entenda o impacto*",
-  "ideias": [
-   "O que significa a alta do Ibovespa?",
-   "Impacto das eleições no mercado financeiro",
-   "Como o trade eleitoral mexe com seus investimentos?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=Ibovespa+sobe+1%2C57%25+e+bate+2%C2%AA+melhor+marca+ap%C3%B3s+1%C2%BA+turno+com+trade+eleitoral+no+radar+InfoMoney",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:57:41-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-14"
- },
- {
-  "titulo": "Americanas (AMER3) encerra recuperação judicial e ações disparam",
-  "resumo": "A Americanas (AMER3) saiu oficialmente da recuperação judicial, com ações subindo até 25%. Entenda as mudanças e o futuro da varejista após essa decisão.",
-  "fatos": [
-   "A Justiça aprovou o fim da recuperação judicial da Americanas (AMER3).",
-   "As ações chegaram a uma alta de 25,63% na B3, operando a R$ 7,18.",
-   "A empresa visa uma transformação no seu modelo de negócios, focando em integração física e digital.",
-   "No segundo trimestre de 2026, a varejista registrou um prejuízo de R$ 274 milhões.",
-   "O balanço do terceiro trimestre será divulgado em 11 de novembro."
-  ],
-  "numeros": [
-   {
-    "valor": "25%",
-    "rotulo": "Alta das ações na B3"
-   },
-   {
-    "valor": "R$ 274 milhões",
-    "rotulo": "Prejuízo líquido no 2T2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "25%",
-  "porQueImporta": "O fim da recuperação judicial pode restaurar a confiança dos investidores na companhia, impactando o desempenho das ações e as operações futuras.",
-  "impactoMercado": "A recuperação pode levar a uma maior estabilidade nos investimentos da empresa, alterando sua percepção no mercado e atraindo novos investidores.",
-  "entenda": "Recuperação judicial é um processo onde empresas em dificuldades financeiras buscam reorganização para evitar falência, protegendo-se de credores enquanto tenta reestruturar sua dívida.",
-  "observar": "Fique de olho nos próximos resultados financeiros e na implementação das mudanças anunciadas, que podem impactar o valor das ações.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Com as ações subindo, é essencial entender as novas estratégias da Americanas e como elas podem impactar o mercado.",
-  "gancho": "*Americanas* se recupera! O que isso significa?",
-  "ideias": [
-   "Como a recuperação da Americanas impacta o mercado?",
-   "Entenda o modelo de negócios da Americanas pós-recuperação judicial.",
-   "Perspectivas futuras da Americanas: o que vem por aí?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Seu Dinheiro",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.seudinheiro.com/2026/empresas/americanas-amer3-vira-a-pagina-da-recuperacao-judicial-mira-nova-fase-e-dispara-25-na-b3-o-que-esperar-da-varejista-lmrs/",
-  "publicadoEm": "2026-10-20T17:23:20-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-15"
- },
- {
-  "titulo": "Ibovespa sobe 1,57% com crescimento do varejo",
-  "resumo": "O Ibovespa teve alta de 1,57%, impulsionado pelo desempenho do setor varejista, enquanto o dólar encerrou a R$ 5,019.",
-  "fatos": [
-   "O Ibovespa registrou uma alta de 1,57%.",
-   "O setor varejista apresentou um crescimento significativo.",
-   "O fechamento do dólar foi de R$ 5,019."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "1,57%",
-  "porQueImporta": "A alta do Ibovespa reflete a força de setores como o varejo, importante para a economia.",
-  "impactoMercado": "Um Ibovespa em alta pode atrair mais investidores para o mercado de ações e impactar a confiança do consumidor.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, refletindo o desempenho das ações mais negociadas na B3.",
-  "observar": "Acompanhe o desempenho contínuo do setor varejista e suas implicações no mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender o que impulsiona o Ibovespa ajuda os investidores a se informarem sobre o mercado e as possibilidades de investimento.",
-  "gancho": "*Ibovespa em alta* e *varejo em crescimento*",
-  "ideias": [
-   "Como o varejo impacta o Ibovespa?",
-   "O que significa a alta do Ibovespa?",
-   "Entenda o impacto do dólar na economia"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "UOL Economia",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=Ibovespa+sobe+1%2C57%25+com+disparada+do+varejo%3B+d%C3%B3lar+fecha+a+R%24+5%2C019+UOL+Economia",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T19:24:10-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-16"
- },
- {
-  "titulo": "CNP Assurances adquire Prudential no Brasil e México por US$ 4 bi",
-  "resumo": "A seguradora francesa CNP Assurances confirmou a compra das operações da Prudential no Brasil e México. O fechamento do negócio está previsto para 2027, dependendo da aprovação regulatória.",
-  "fatos": [
-   "CNP Assurances pagará US$ 4 bilhões pela Prudential no Brasil e México.",
-   "O negócio depende da autorização do Cade e deve ser concluído no segundo semestre de 2027.",
-   "CNP deverá aumentar sua participação no mercado segurador, passando a ser uma das cinco maiores da América Latina com essa aquisição.",
-   "A Prudential é uma das principais operadoras de seguros de vida no Brasil, com R$ 7,5 bilhões em prêmios em 2025.",
-   "Atualmente, a Prudential conta com 6,9 milhões de segurados no Brasil."
-  ],
-  "numeros": [
-   {
-    "valor": "4.000.000.000",
-    "rotulo": "Valor da aquisição em dólares"
-   },
-   {
-    "valor": "7.500.000.000",
-    "rotulo": "Prêmios da Prudential em 2025"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 4 bilhões",
-  "porQueImporta": "Esse movimento reforça a posição da CNP Assurances no mercado, impactando a competitividade das seguradoras na América Latina, especialmente em seguros de vida.",
-  "impactoMercado": "A entrada da CNP no México e a expansão no Brasil podem levar a novas estratégias para competidores, aumentando a concorrência no segmento de seguros.",
-  "entenda": "Seguros de vida garantem proteção financeira em caso de morte, invalidez ou outras situações, sendo uma importante forma de mitigação de riscos pessoais.",
-  "observar": "Acompanhe a aprovação do Cade e como a integração das operações será realizada nos próximos anos.",
-  "publico": [
-   "Empresários",
-   "Investidores"
-  ],
-  "angulo": "Essa aquisição reflete a crescente consolidação no setor de seguros, importante para entender o comportamento do mercado e as oportunidades que surgem para investidores.",
-  "gancho": "*Aquisição estratégica*: CNP Assurances e Prudential",
-  "ideias": [
-   "CNP Assurances: O que muda com a aquisição?",
-   "Prudential: Força no mercado de seguros em 2025",
-   "Como o mercado de seguros de vida se estrutura?"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "globo",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://bpmoney.com.br/negocios/empresas/cnp-assurances-compra-prudential-brasil-mexico-4-bilhoes/",
-  "publicadoEm": "2026-10-20T18:05:49-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-17"
- },
- {
-  "titulo": "Carteira de investidores: objetivos superam preferências",
-  "resumo": "A pesquisa revela que os objetivos financeiros dos investidores têm prioridade em relação às suas preferências pessoais. Isso aponta para uma estratégia mais racional na hora de investir.",
-  "fatos": [
-   "Os investidores estão priorizando objetivos financeiros em suas decisões.",
-   "As preferências pessoais têm sido deixadas em segundo plano.",
-   "Essa abordagem sugere uma estratégia de investimento mais racional."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Entender essa dinâmica é crucial para investidores, pois indica uma mudança nas estratégias que podem levar a decisões mais racionais e potencialmente mais eficazes.",
-  "impactoMercado": "Se os investidores focarem mais em objetivos do que em preferências, isso pode aumentar a estabilidade e a previsibilidade no mercado.",
-  "entenda": "A carteira de investimentos representa um conjunto de ativos que um investidor possui e busca o melhor retorno financeiro possível.",
-  "observar": "Acompanhe como essa tendência de priorização de objetivos pode refletir nas decisões de investimento futuros.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Compreender como as decisões racionais impactam a estratégia de investimento é fundamental para quem busca sucesso no mercado.",
-  "gancho": "*Objetivos* dos investidores superam *preferências*",
-  "ideias": [
-   "Decisões racionais no mercado financeiro",
-   "A importância dos objetivos de investimento",
-   "Como as preferências afetam sua carteira"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Comportamento do investidor",
-  "icone": "grafico",
-  "fonte": "Funds Society",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=A%C3%A7%C3%B5es%3A+os+objetivos+da+carteira+dos+investidores+prevalecem+sobre+suas+prefer%C3%AAncias+Funds+Society",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:27:51-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-18"
- },
- {
-  "titulo": "Juros futuros em queda, mas menos intensamente com otimismo eleitoral",
-  "resumo": "Os juros futuros se afastam das mínimas, mas ainda registram forte queda em meio ao otimismo com o cenário eleitoral.",
-  "fatos": [
-   "Os juros futuros deixaram as mínimas recentes.",
-   "O otimismo eleitoral impactou a expectativa do mercado.",
-   "Ainda assim, a queda nos juros é bastante significativa."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A oscilação dos juros futuros é um indicador importante que influencia as decisões de investimentos e a economia em geral.",
-  "impactoMercado": "Mudanças nas taxas de juros afetam empréstimos, financiamentos e podem impactar o desempenho de ações no mercado.",
-  "entenda": "Juros futuros são contratos que permitem a especulação sobre a taxa de juros em uma data futura, refletindo as expectativas do mercado.",
-  "observar": "Acompanhe a evolução do cenário eleitoral e como isso pode impactar a taxa de juros nos próximos dias.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Entender as flutuações dos juros futuros ajuda na formação de estratégias para investimentos e nas decisões do dia a dia financeiro.",
-  "gancho": "*Juros futuros* em queda: o que isso significa?",
-  "ideias": [
-   "O que são juros futuros e por que importam?",
-   "Como o otimismo eleitoral afeta os juros?",
-   "Entenda a relação entre juros e investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "moeda",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=Juros+futuros+saem+das+m%C3%ADnimas%2C+mas+ainda+t%C3%AAm+queda+forte+com+otimismo+eleitoral+Valor+Econ%C3%B4mico",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:48:34-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-19"
- },
- {
-  "titulo": "Captação no mercado de capitais atinge R$ 556,7 bilhões",
-  "resumo": "O mercado de capitais brasileiro teve um recorde de captação de R$ 556,7 bilhões entre janeiro e setembro de 2026, com destaque para renda fixa e FIIs.",
-  "fatos": [
-   "O volume captado no ano é o maior desde 2012.",
-   "A renda fixa liderou com R$ 441 bilhões.",
-   "Instrumentos híbridos, como FIIs e Fiagros, somaram R$ 80,8 bilhões, alta de 127%.",
-   "Ofertas de renda variável alcançaram R$ 34,8 bilhões, um aumento significativo em relação ao ano anterior.",
-   "O número de ofertas foi de 2.311, com um crescimento de 10,9% em comparação ao ano passado."
-  ],
-  "numeros": [
-   {
-    "valor": "556,7",
-    "rotulo": "milhões em captação"
-   },
-   {
-    "valor": "441",
-    "rotulo": "milhões em renda fixa"
-   },
-   {
-    "valor": "80,8",
-    "rotulo": "milhões em instrumentos híbridos"
-   },
-   {
-    "valor": "34,8",
-    "rotulo": "milhões em renda variável"
-   },
-   {
-    "valor": "2.311",
-    "rotulo": "número de ofertas"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "ofertas de renda fixa",
-    "antes": "não disponível",
-    "depois": "R$ 441 bilhões"
-   },
-   {
-    "item": "instrumentos híbridos",
-    "antes": "R$ 35,5 bilhões",
-    "depois": "R$ 80,8 bilhões"
-   }
-  ],
-  "destaque": "R$ 556,7 bilhões",
-  "porQueImporta": "Esse volume recorde de captação indica um fortalecimento e diversificação do mercado de capitais brasileiro, o que pode oferecer novas oportunidades para investidores.",
-  "impactoMercado": "O aumento de ofertas, especialmente de FIIs e IPOs, pode trazer maior liquidez e opções de investimentos para investidores, alterando dinâmicas de financiamento.",
-  "entenda": "O mercado de capitais envolve a negociação de ativos financeiros, como ações e títulos, por meio de ofertas públicas e secundárias, proporcionando capital para empresas e investidores.",
-  "observar": "Acompanhe a continuidade do crescimento na captação e como os diferentes instrumentos financeiros se comportam ao longo do ano.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Compreender esse cenário de captação recorde ajuda a vislumbrar novas estratégias e aprender sobre o funcionamento do mercado financeiro.",
-  "gancho": "*Captação recorde* no *mercado de capitais*",
-  "ideias": [
-   "Crescimento do mercado de capitais em 2026",
-   "O que são instrumentos híbridos e sua importância?",
-   "Como o aumento de IPOs pode impactar investidores?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "seta",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 11,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.moneytimes.com.br/mercado-de-capitais-tem-captacao-recorde-de-r-5567-bilhoes-no-ano-mlim/",
-  "publicadoEm": "2026-10-20T17:16:14-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-20"
- },
- {
-  "titulo": "Trump, inflação e imigração: os temas das Midterms nos EUA",
-  "resumo": "Com a popularidade de Trump em baixa, custo de vida e imigração são centrais nas eleições de meio de mandato, que acontecem em 3 de novembro. Disputas acirradas moldarão o Congresso.",
-  "fatos": [
-   "A popularidade de Trump caiu para 31%, o menor nível já registrado.",
-   "Os democratas precisam de um ganho líquido de quatro cadeiras para controlar o Congresso.",
-   "O preço médio da gasolina está em US$4,28, US$1,20 a mais do que no ano passado.",
-   "Os custos com mantimentos aumentaram 1,8% no último ano.",
-   "Os preços das casas subiram 2,1% no último ano."
-  ],
-  "numeros": [
-   {
-    "valor": "31",
-    "rotulo": "índice de aprovação de Trump"
-   },
-   {
-    "valor": "4",
-    "rotulo": "cadeiras que os democratas precisam ganhar"
-   },
-   {
-    "valor": "4,28",
-    "rotulo": "preço médio da gasolina"
-   },
-   {
-    "valor": "1,8%",
-    "rotulo": "aumento nos custos de mantimentos"
-   },
-   {
-    "valor": "2,1%",
-    "rotulo": "aumento nos preços das casas"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "31",
-  "porQueImporta": "As eleições de meio de mandato podem influenciar a política fiscal e econômica nos EUA, afetando mercados e investidores ao redor do mundo.",
-  "impactoMercado": "Mudanças no controle do Congresso podem impactar legislações importantes que influenciam setores financeiros, como saúde e imigração, afetando a economia.",
-  "entenda": "As Midterms são as eleições realizadas na metade do mandato presidencial, onde se renova parte do Congresso, e podem refletir a insatisfação popular com o governo.",
-  "observar": "Acompanhe as reações do mercado após os resultados das eleições e como isso pode impactar as políticas monetárias e fiscais nos EUA.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Entender os temas que moldam as eleições ajudará investidores a antecipar movimentos no mercado financeiro e as direções da política econômica.",
-  "gancho": "*Inflação* e *imigração* nas eleições!",
-  "ideias": [
-   "Como a inflação afeta as eleições nos EUA",
-   "Imigração: Tema central nas Midterms de 2026",
-   "O que as eleições influenciam no mercado financeiro?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 12,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.infomoney.com.br/mundo/trump-inflacao-e-imigracao-os-3-temas-que-devem-definir-as-midterms-nos-eua/",
-  "publicadoEm": "2026-10-20T19:47:38-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-21"
- },
- {
-  "titulo": "Vasco e Boca Juniors se enfrentam na semifinal",
-  "resumo": "Nesta terça-feira, Vasco e Boca Juniors jogam pela semifinal da Copa Sul-Americana. A partida começa às 21h30 no Maracanã, em busca da vaga na final.",
-  "fatos": [
-   "O jogo está previsto para começar às 21h30 no horário de Brasília.",
-   "O Vasco venceu o primeiro jogo por 1 a 0.",
-   "A partida será transmitida ao vivo pelo SBT e Paramount+.",
-   "O vencedor enfrenta Montevideo City Torque ou Atlético-MG na final."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "A Copa Sul-Americana é um torneio importante para os clubes brasileiros, impactando sua visibilidade e potencial de investimentos.",
-  "impactoMercado": "O desempenho no torneio pode influenciar a valorização das ações do clube e aumentar o interesse de patrocinadores.",
-  "entenda": "A Copa Sul-Americana é um importante torneio de clubes da América do Sul, similar à Liga Europa na Europa.",
-  "observar": "Fique atento ao desempenho dos clubes e suas repercussões em termos de investimentos e finanças.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Entender a relação entre desempenho esportivo e suas implicações financeiras pode ser um passo importante para investidores e empreendedores no setor.",
-  "gancho": "*Copa Sul-Americana*: Vasco x Boca Juniors",
-  "ideias": [
-   "Vasco vai à final? Entenda como isso impacta investimentos",
-   "Copa Sul-Americana: oportunidades de investimento",
-   "Time do coração pode influenciar sua carteira"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 13,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.infomoney.com.br/esportes/vasco-boca-juniors-onde-assistir-sul-americana/",
-  "publicadoEm": "2026-10-20T19:00:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-22"
- },
- {
-  "titulo": "Brasil cria cotas tarifárias para exportação à Noruega",
-  "resumo": "O Brasil regulamentou cotas para exportar produtos à Noruega com tarifas reduzidas, beneficiando setores como agrícola e industrial. A medida entra em vigor em novembro de 2026.",
-  "fatos": [
-   "As regras são para empresas que exportam à Noruega com tarifas reduzidas, conforme acordo entre Mercosul e EFTA.",
-   "Os produtos incluídos são carne, mel, milho, maçãs e itens agrícolas e pecuários.",
-   "Os pedidos devem ser feitos digitalmente pelo Portal Único Siscomex.",
-   "O acordo foi assinado em 2025 e permitirá a liberalização de cerca de 97% do comércio entre Brasil e EFTA.",
-   "As tarifas de importação dos setores industrial e pesqueiro serão eliminadas pela EFTA."
-  ],
-  "numeros": [
-   {
-    "valor": "1º de novembro de 2026",
-    "rotulo": "Início das novas regras"
-   },
-   {
-    "valor": "100%",
-    "rotulo": "Tarifas eliminadas pela EFTA nos setores"
-   },
-   {
-    "valor": "97%",
-    "rotulo": "Comércio liberalizado brasileiro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "97%",
-  "porQueImporta": "Essas cotas tarifárias permitirão que empresas brasileiras acessem o mercado norueguês com condições comerciais mais favoráveis, impactando as exportações.",
-  "impactoMercado": "As novas condições podem aumentar a competitividade dos produtos brasileiros na Noruega, o que pode refletir em mais oportunidades de negócio para os exportadores.",
-  "entenda": "O que são cotas tarifárias? São limites de quantidade de produtos que podem ser exportados com tarifas reduzidas, criando vantagens na competitividade.",
-  "observar": "Acompanhe a implementação do acordo e o uso das cotas pelas empresas até o início das novas regras em 2026.",
-  "publico": [
-   "Empresários",
-   "Investidores",
-   "Iniciantes"
-  ],
-  "angulo": "Entender as novas regras de exportação pode ajudar empreendedores a explorar melhor o mercado internacional e conhecer possibilidades acadêmicas no setor.",
-  "gancho": "*Cotas tarifárias* para *exportação* à Noruega",
-  "ideias": [
-   "Como funcionam as cotas de exportação?",
-   "Benefícios do acordo Brasil-EFTA para empresas",
-   "O que mudou nas regras de comércio exterior?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Agência Brasil Economia",
-  "impacto": "medio",
-  "ordem": 14,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-define-cotas-para-exportar-com-tarifas-reduzidas-para-noruega",
-  "publicadoEm": "2026-10-20T18:42:00-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-23"
- },
- {
-  "titulo": "Cade investiga Uber por práticas anticoncorrenciais",
-  "resumo": "O Cade abriu um inquérito para investigar a Uber por possíveis práticas que ferem a concorrência no mercado de transporte.",
-  "fatos": [
-   "O inquérito foi instaurado após denúncias de concorrentes.",
-   "A investigação avalia se a Uber adota práticas prejudiciais ao mercado.",
-   "Decisões do Cade podem impactar o funcionamento da empresa."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "Entender o impacto de práticas anticoncorrenciais é fundamental para que investidores saibam como isso pode influenciar as empresas no setor.",
-  "impactoMercado": "A investigação pode afetar a operação da Uber e o comportamento dos investidores no setor de mobilidade urbana.",
-  "entenda": "Práticas anticoncorrenciais são ações que prejudicam a competição justa entre empresas, podendo gerar sanções e multas.",
-  "observar": "Acompanhe o desenrolar do inquérito e as possíveis consequências para a Uber e o mercado de transporte.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Essa situação ressalta a importância de compreender a regulação do mercado e as suas consequências econômicas.",
-  "gancho": "*Uber* sob investigação: Concorrência em risco?",
-  "ideias": [
-   "Cade e suas funções no mercado",
-   "Impactos da concorrência em empresas",
-   "Como a regulação afeta investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Empresas",
-  "icone": "escudo",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 15,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=Cade+instala+inqu%C3%A9rito+contra+Uber+por+supostas+pr%C3%A1ticas+anticoncorrenciais+Valor+Econ%C3%B4mico",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T18:25:53-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-24"
- },
- {
-  "titulo": "Petróleo Brent atinge maior cotação desde maio",
-  "resumo": "O petróleo Brent chegou a US$ 111,05 por barril, o maior nível desde maio, impulsionado por relatos de ataques na Arábia Saudita. A situação geopolítica gera cautela no mercado global.",
-  "fatos": [
-   "O petróleo Brent atingiu US$ 111,05 por barril na madrugada de terça-feira (20).",
-   "A cotação é a maior desde maio deste ano.",
-   "Os ataques dos houthis à infraestrutura saudita aumentaram a percepção de risco de abastecimento.",
-   "O WTI, referência nos EUA, estava cotado a US$ 105,64.",
-   "Analistas avaliam que o preço do petróleo reflete um prêmio de risco significativo."
-  ],
-  "numeros": [
-   {
-    "valor": "111,05",
-    "rotulo": "cotação do petróleo Brent"
-   },
-   {
-    "valor": "105,64",
-    "rotulo": "cotação do WTI"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 111,05",
-  "porQueImporta": "A alta nos preços do petróleo pode impactar custos de produção e, consequente, os preços ao consumidor, afetando a inflação global.",
-  "impactoMercado": "A situação de tensão no Oriente Médio e a incerteza sobre o fornecimento de petróleo podem manter os preços elevados, afetando bolsas de valores e setores relacionados.",
-  "entenda": "O petróleo Brent é uma referência internacional de preço para o petróleo bruto, utilizado como benchmark em negociações globais.",
-  "observar": "Acompanhe as reações do mercado aos próximos desenvolvimentos geopolíticos e os dados sobre estoques de petróleo nos EUA.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender a volatilidade dos preços do petróleo pode ajudar investidores a tomar decisões informadas sobre seus portfólios.",
-  "gancho": "*Petróleo* atinge *altos preços!*",
-  "ideias": [
-   "Impacto dos preços do petróleo no mercado financeiro",
-   "O que está por trás da alta do petróleo Brent?",
-   "Como ataques geopolíticos afetam o preço do petróleo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "moeda",
-  "fonte": "Bora Investir (B3)",
-  "impacto": "medio",
-  "ordem": 16,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/commodities/petroleo-brent-atinge-us-111-com-relatos-de-ataques-a-arabia-saudita/",
-  "publicadoEm": "2026-10-20T10:53:49-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-25"
- },
- {
-  "titulo": "Ouro fecha em queda com foco na decisão do Fed",
-  "resumo": "O contrato futuro do ouro caiu 0,42%, enquanto investidores esperam pela reunião do Federal Reserve na próxima semana. Preocupações com a inflação continuam influenciando os preços.",
-  "fatos": [
-   "O ouro para dezembro foi negociado a US$ 4.142,60 por onça-troy.",
-   "Houve uma queda de 0,42% no contrato futuro do ouro.",
-   "A prata para o mesmo mês subiu 1,27%, alcançando US$ 58,00 por onça-troy.",
-   "Os contratos de petróleo WTI e Brent também caíram com informações sobre propostas do Paquistão.",
-   "O mercado espera manutenção da taxa de juros pelo Fed neste mês, com possibilidade de alta em dezembro."
-  ],
-  "numeros": [
-   {
-    "valor": "4.142,60",
-    "rotulo": "Preço do ouro por onça-troy"
-   },
-   {
-    "valor": "1,27",
-    "rotulo": "Alta da prata por onça-troy"
-   },
-   {
-    "valor": "58,00",
-    "rotulo": "Preço da prata por onça-troy"
-   },
-   {
-    "valor": "25",
-    "rotulo": "Pontos-base de alta esperada em dezembro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "0,42%",
-  "porQueImporta": "As oscilações no preço do ouro refletem a incerteza econômica e as expectativas em relação às políticas do Fed, fundamentais para investidores que buscam proteção.",
-  "impactoMercado": "A decisão do Fed pode influenciar as taxas de juros e, consequentemente, a atratividade dos ativos seguros como o ouro.",
-  "entenda": "O preço do ouro pode ser afetado por decisões de políticas monetárias, pois não rende juros e, em cenários de alta de taxa, seu apelo diminui.",
-  "observar": "Acompanhe a próxima reunião do Fed e sua decisão sobre as taxas de juros, pois pode impactar os preços de metais preciosos.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Esta notícia mostra como fatores globais afetam os preços de ativos, incentivando o aprendizado e a análise do mercado.",
-  "gancho": "Ouro em queda e *Fed* na mira!",
-  "ideias": [
-   "Impacto da decisão do Fed no ouro",
-   "Por que o ouro é refugio em tempos de incerteza?",
-   "O que esperar do Fed na próxima semana?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "moeda",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 17,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.moneytimes.com.br/ouro-20-10-26-lils/",
-  "publicadoEm": "2026-10-20T15:29:03-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-26"
- },
- {
-  "titulo": "JPMorgan projeta bitcoin com retorno acima de ações e ouro",
-  "resumo": "O JPMorgan estima que o bitcoin terá um retorno médio anualizado superior ao das ações e do ouro, mas ainda o vê como um investimento especulativo.",
-  "fatos": [
-   "O JPMorgan projetou um retorno médio anual do bitcoin de 10% nos próximos dez anos.",
-   "No cenário pessimista, a criptomoeda poderia cair 11,2% ao ano, enquanto no otimista, subiria 16,6%.",
-   "O retorno anual para ações de grandes empresas dos EUA é de 7,5%, e para o ouro, 5,5%.",
-   "O banco considera o bitcoin um ativo 'especulativo' devido às suas 'correlações instáveis'.",
-   "Para o bitcoin ser um investimento institucional, são necessárias melhorias na regulação e na liquidez."
-  ],
-  "numeros": [
-   {
-    "valor": "10%",
-    "rotulo": "Retorno médio anual projetado para o bitcoin"
-   },
-   {
-    "valor": "7,5%",
-    "rotulo": "Retorno anualizado projetado para ações dos EUA"
-   },
-   {
-    "valor": "5,5%",
-    "rotulo": "Retorno anualizado projetado para o ouro"
-   },
-   {
-    "valor": "$197.000",
-    "rotulo": "Projeção do preço do bitcoin até 2030"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "10%",
-  "porQueImporta": "Esse cenário das projeções do JPMorgan mostra a possibilidade do bitcoin como uma alternativa de investimento, mesmo com sua volatilidade e riscos associados.",
-  "impactoMercado": "A análise do JPMorgan pode influenciar a percepção de investidores sobre a viabilidade do bitcoin em suas carteiras, considerando as incertezas do mercado.",
-  "entenda": "A volatilidade do bitcoin é alta devido a fatores como adoção, regulamentação e mudanças no mercado, diferentemente de ativos tradicionais que têm retornos mais previsíveis.",
-  "observar": "Acompanhe mudanças nas regulatórias que possam impactar a aceitação do bitcoin por instituições e análises de seus retornos ao longo do tempo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A projeção do JPMorgan oferece uma perspectiva única sobre o bitcoin e instiga a curiosidade sobre como criptomoedas se encaixam em diferentes estratégias de investimento.",
-  "gancho": "*Bitcoin* pode render mais que *ações* e *ouro*!",
-  "ideias": [
-   "JPMorgan e o futuro do bitcoin",
-   "O que as previsões do JPMorgan significam para investidores?",
-   "Bitcoin: ativo especulativo com potencial de retorno?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Cripto",
-  "icone": "moeda",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 18,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://exame.com/future-of-money/jpmorgan-preve-que-bitcoin-vai-render-mais-que-acoes-e-ouro-mas-ainda-evita-o-ativo/",
-  "publicadoEm": "2026-10-20T14:57:36-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-27"
- },
- {
-  "titulo": "Petróleo fecha em queda com avanço no Oriente Médio",
-  "resumo": "Os preços do petróleo encerraram o dia em queda, influenciados por notícias de possíveis avanços diplomáticos na região do Oriente Médio.",
-  "fatos": [
-   "Os preços do petróleo tiveram um dia de perdas.",
-   "As notícias refletem uma possível melhora na situação diplomática no Oriente Médio.",
-   "Os operadores do mercado estão atentos a desenvolvimentos na região."
-  ],
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "",
-  "porQueImporta": "O preço do petróleo impacta diretamente na economia global e pode influenciar a inflação e os custos de produção.",
-  "impactoMercado": "Avanços diplomáticos podem levar a uma maior estabilidade na região e, consequentemente, influenciar os preços do petróleo.",
-  "entenda": "O petróleo é uma commodity fundamental, usada como fonte de energia e matéria-prima na indústria, impactando diversos setores da economia.",
-  "observar": "Fique atento a novas notícias sobre o avanço das negociações diplomáticas no Oriente Médio.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "A queda no preço do petróleo devido a possíveis acordos diplomáticos é um sinal de como fatores geopolíticos afetam o mercado financeiro.",
-  "gancho": "*Petróleo em queda*: O que isso significa?",
-  "ideias": [
-   "Como a política do Oriente Médio impacta o petróleo?",
-   "O que influencia o preço do petróleo hoje?",
-   "Entenda a relação entre petróleo e economia global."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "queda",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 20,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.google.com/search?q=Petr%C3%B3leo+fecha+em+queda+com+poss%C3%ADvel+avan%C3%A7o+diplom%C3%A1tico+no+Oriente+M%C3%A9dio+InfoMoney",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-20T17:05:40-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-28"
- },
- {
-  "titulo": "Netflix enfrenta desafios com previsão de lucro fraca",
-  "resumo": "A Netflix previu lucro abaixo do esperado, levando suas ações a cair quase 6%. A empresa busca reformular sua estratégia e focar em conteúdo de qualidade.",
-  "fatos": [
-   "As ações da Netflix caíram quase 6%, para US$ 64,66 no pós-mercado.",
-   "A receita do terceiro trimestre cresceu 11,8%, para US$ 12,87 bilhões.",
-   "A previsão de lucro líquido para o quarto trimestre é de US$ 2,79 bilhões, abaixo das expectativas de US$ 3,07 bilhões.",
-   "Após demissões de 6% de sua força de trabalho, a Netflix pretende focar em seu negócio principal.",
-   "O lucro por ação do terceiro trimestre foi de US$ 0,87, acima da previsão de US$ 0,82."
-  ],
-  "numeros": [
-   {
-    "valor": "6%",
-    "rotulo": "queda das ações no pós-mercado"
-   },
-   {
-    "valor": "11,8%",
-    "rotulo": "crescimento da receita do 3º trimestre"
-   },
-   {
-    "valor": "US$ 64,66",
-    "rotulo": "preço das ações da Netflix"
-   },
-   {
-    "valor": "US$ 2,79 bilhões",
-    "rotulo": "previsão de lucro para o 4º trimestre"
-   },
-   {
-    "valor": "US$ 0,87",
-    "rotulo": "lucro por ação no 3º trimestre"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro por ação",
-    "antes": "US$ 0,82",
-    "depois": "US$ 0,87"
-   }
-  ],
-  "destaque": "US$ 64,66",
-  "porQueImporta": "Essa previsão de lucro abaixo do esperado pode afetar a confiança dos investidores na Netflix, impactando o preço das ações.",
-  "impactoMercado": "Mudanças na liderança e a redução de funcionários podem indicar uma busca por maior eficiência, o que é crucial para a recuperação da empresa.",
-  "entenda": "O lucro por ação é uma medida que reflete o lucro da empresa dividido pelo número de ações em circulação, importante para avaliar a rentabilidade.",
-  "observar": "Acompanhar a reação do mercado após a reformulação e os resultados do quarto trimestre será fundamental para entender a direção da Netflix.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Entender as dificuldades da Netflix pode ajudar a ver como grandes empresas se ajustam em tempos de crise, trazendo lições valiosas sobre investimento.",
-  "gancho": "Desafios da *Netflix* no mercado",
-  "ideias": [
-   "Netflix: desafios e oportunidades para investidores",
-   "Futuro incerto da Netflix após previsão fraca",
-   "O que a queda da Netflix significa para o mercado?"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "queda",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 21,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.infomoney.com.br/business/co-ceo-da-netflix-diz-que-podemos-fazer-melhor-apos-previsao-fraca/",
-  "publicadoEm": "2026-10-20T19:56:28-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-29"
- },
- {
-  "titulo": "Desmatamento reduzido gera R$ 192 bilhões à economia",
-  "resumo": "Um estudo da FGV estima que a redução do desmatamento na Amazônia e no Cerrado trouxe benefícios de até R$ 192 bilhões para o Brasil desde 2023, além de impactos globais significativos.",
-  "fatos": [
-   "A redução do desmatamento gerou até R$ 192 bilhões para a economia brasileira.",
-   "Desde 2023, 22,3 mil km² deixaram de ser desmatados, equivalendo à área de Sergipe.",
-   "A redução permitiu evitar a emissão de 1,49 bilhão de toneladas de gases de efeito estufa.",
-   "A queda do desmatamento na Amazônia foi de 41,8%, enquanto no Cerrado foi de 23,8%.",
-   "O valor global dos danos climáticos evitados chega a R$ 1,16 trilhão."
-  ],
-  "numeros": [
-   {
-    "valor": "192",
-    "rotulo": "Bilhões em benefícios para a economia brasileira"
-   },
-   {
-    "valor": "1,49",
-    "rotulo": "Bilhões de toneladas de gases evitados"
-   },
-   {
-    "valor": "22,3",
-    "rotulo": "Mil km² de área preservada"
-   },
-   {
-    "valor": "41,8%",
-    "rotulo": "Queda no desmatamento da Amazônia"
-   },
-   {
-    "valor": "23,8%",
-    "rotulo": "Queda no desmatamento do Cerrado"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 192 bilhões",
-  "porQueImporta": "Entender o valor econômico associado à preservação ambiental pode influenciar decisões e estratégias no mercado, especialmente para investidores em setores ligados à sustentabilidade.",
-  "impactoMercado": "A preservação ambiental impacta a produtividade e estabilidade do setor agrícola, além de gerar novos mercados em torno de créditos de carbono e financiamento ambiental.",
-  "entenda": "O Custo Social do Carbono (CSC) é uma medida que atribui um valor monetário aos danos causados pela emissão de gases de efeito estufa, ajudando a quantificar os benefícios da preservação florestal.",
-  "observar": "Fique atento a novas pesquisas e políticas públicas relacionadas à conservação ambiental e seus impactos na economia e no mercado de ativos relacionados.",
-  "publico": [
-   "Investidores"
-  ],
-  "angulo": "Essa notícia demonstra a conexão entre a sustentabilidade e a economia, incentivando a reflexão sobre o papel de cada um no mercado financeiro.",
-  "gancho": "*Desmatamento* gera *bilhões* ao Brasil!",
-  "ideias": [
-   "Como a redução do desmatamento beneficia a economia?",
-   "O impacto da preservação florestal nas nossas finanças.",
-   "Entenda o Custo Social do Carbono e sua importância."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "moeda",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 22,
-  "status": "nova",
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "url": "https://www.infomoney.com.br/brasil/queda-de-desmatamento-rendeu-ate-r-192-bilhoes-para-a-economia-do-brasil-estima-fgv/",
-  "publicadoEm": "2026-10-20T20:04:17-03:00",
-  "data": "2026-10-20",
-  "id": "2026-10-20-30"
- },
- {
-  "tipo": "sinal",
-  "slug": "bank-of-canada-decision-in-october-20260715203359314",
-  "titulo": "Mercado de previsões vê 89.3% de chance de aumento de 25 bps pelo Banco do Canadá",
-  "resumo": "As apostas mostram forte expectativa de que o Banco do Canadá aumentará as taxas de juros na próxima reunião.",
-  "probs": [
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 89.3
-   },
-   {
-    "opcao": "Sem Mudança",
-    "prob": 10.3
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 0.1
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2026-10-28",
-  "volume24h": "US$ 43 mil",
-  "fatos": [
-   "Aumento de 25 bps: 89,3%",
-   "Sem Mudança: 10,3%",
-   "Aumento de 50+ bps: 0,1%",
-   "Redução de 25 bps: 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "89,3%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "10,3%",
-    "rotulo": "Sem Mudança"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "destaque": "89,3%",
-  "gancho": "*Decisão monetária* no *Canadá*",
-  "entenda": "O Banco do Canadá é responsável por controlar a inflação e definir a política monetária do país, incluindo taxas de juros.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bank-of-canada-decision-in-october-20260715203359314",
-  "publicadoEm": "2026-10-20T21:14:27-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "data": "2026-10-20",
-  "status": "atualizada",
-  "id": "2026-10-20-p2",
-  "atualizadoEm": "2026-10-27T21:44:25-03:00"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 55,5% de chance de Bitcoin *acima de 90.000* antes de 2027",
-  "resumo": "Apostadores acreditam que Bitcoin pode alcançar valores elevados, refletindo otimismo no mercado de criptoativos.",
-  "probs": [
-   {
-    "opcao": "↑ 90,000",
-    "prob": 55.5
-   },
-   {
-    "opcao": "↑ 95,000",
-    "prob": 35.5
-   },
-   {
-    "opcao": "↓ 70,000",
-    "prob": 34.5
-   },
-   {
-    "opcao": "↓ 65,000",
-    "prob": 23.0
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 718 mil",
-  "fatos": [
-   "↑ 90,000: 55,5%",
-   "↑ 95,000: 35,5%",
-   "↓ 70,000: 34,5%",
-   "↓ 65,000: 23,0%"
-  ],
-  "numeros": [
-   {
-    "valor": "55,5%",
-    "rotulo": "↑ 90,000"
-   },
-   {
-    "valor": "35,5%",
-    "rotulo": "↑ 95,000"
-   },
-   {
-    "valor": "34,5%",
-    "rotulo": "↓ 70,000"
-   },
-   {
-    "valor": "23,0%",
-    "rotulo": "↓ 65,000"
-   }
-  ],
-  "destaque": "55,5%",
-  "gancho": "*Bitcoin* pode *crescer muito*",
-  "entenda": "Bitcoin é uma criptomoeda que tem apresentado alta volatilidade, afetando sua valorização de acordo com a demanda do mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
-  "publicadoEm": "2026-10-20T21:14:27-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "data": "2026-10-20",
-  "status": "atualizada",
-  "id": "2026-10-20-p3",
-  "atualizadoEm": "2026-10-22T11:41:47-03:00"
- },
- {
-  "tipo": "sinal",
-  "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 59% de chance de *nenhuma mudança* na taxa do Fed em janeiro",
-  "resumo": "Essa probabilidade é o resultado de apostas em um mercado de previsões, não deve ser considerada uma previsão oficial.",
-  "probs": [
-   {
-    "opcao": "Nenhuma mudança",
-    "prob": 59.0
-   },
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 37.5
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 1.5
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 1.3
-   }
-  ],
-  "prazo": "2027-01-28",
-  "volume24h": "US$ 55 mil",
-  "fatos": [
-   "Nenhuma mudança: 59,0%",
-   "Aumento de 25 bps: 37,5%",
-   "Aumento de 50+ bps: 1,5%",
-   "Redução de 25 bps: 1,3%"
-  ],
-  "numeros": [
-   {
-    "valor": "59,0%",
-    "rotulo": "Nenhuma mudança"
-   },
-   {
-    "valor": "37,5%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "1,5%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "1,3%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "destaque": "59,0%",
-  "gancho": "*Expectativas para 2027* no *Fed*",
-  "entenda": "O Federal Reserve define a política monetária dos Estados Unidos, influenciando diretamente a economia global.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
-  "publicadoEm": "2026-10-20T21:14:27-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-10-20T21:14:27-03:00",
-  "data": "2026-10-20",
-  "status": "nova",
-  "id": "2026-10-20-p4"
- },
- {
-  "categoria": "Previsões",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "97,1%",
-  "fatos": [
-   "A opção sem cortes em 2026 está precificada em 97,1%.",
-   "Um corte de 0,25 ponto aparece com 1,3%.",
-   "Para outubro, a manutenção dos juros está em cerca de 87,5%.",
-   "Para dezembro, uma alta de 0,25 ponto aparece com 76,5%.",
-   "O volume em 24 horas foi de cerca de US$ 27 mil."
-  ],
-  "fonte": "Polymarket (mercado de previsões)",
-  "gancho": "*Fed* sem *cortes* em 2026?",
-  "horaEstimada": true,
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 10,
-  "prazo": "2026-12-31",
-  "probs": [
-   {
-    "opcao": "Nenhum corte",
-    "prob": 97.1
-   },
-   {
-    "opcao": "1 corte",
-    "prob": 1.3
-   },
-   {
-    "opcao": "2 cortes",
-    "prob": 0.5
-   },
-   {
-    "opcao": "4 cortes",
-    "prob": 0.3
-   }
-  ],
-  "publicadoEm": "2026-10-20T06:58:00-03:00",
-  "resumo": "Apostadores do Polymarket precificam probabilidade quase total de o Fed não cortar juros neste ano; é uma probabilidade de mercado, não uma previsão oficial.",
-  "slug": "how-many-fed-rate-cuts-in-2026",
-  "status": "nova",
-  "tipo": "sinal",
-  "titulo": "Mercado de previsões vê 97,1% de chance de nenhum corte do Fed em 2026",
-  "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-  "volume24h": "US$ 27 mil",
-  "id": "2026-10-20-p1"
- },
- {
-  "categoria": "Agenda",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "11h30",
-  "fatos": [
-   "Às 11h30, o Tesouro Nacional faz leilão de LFTs e NTN-Bs.",
-   "Às 6h sai o índice ZEW de sentimento da Alemanha; em setembro foi 34,7 pontos.",
-   "Às 9h30 saem licenças e início de construção de imóveis nos EUA.",
-   "Netflix e SpaceX divulgam resultados do 3º trimestre após o fechamento.",
-   "Na segunda, o Ibovespa fechou em queda de 0,17%, a 205.079 pontos."
-  ],
-  "fonte": "Exame",
-  "gancho": "*Agenda* de *terça*",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 6,
-  "publicadoEm": "2026-10-20T05:30:00-03:00",
-  "resumo": "Terça tem leilão de LFT e NTN-B, dados de imóveis nos EUA e resultados após o fechamento americano, a cinco dias do 2º turno.",
-  "status": "nova",
-  "titulo": "Agenda: leilão do Tesouro, ZEW alemão e balanços de Netflix e SpaceX",
-  "url": "https://exame.com/invest/mercados/novas-pesquisas-eleitorais-e-balancos-de-netflix-e-spacex-o-que-move-os-mercados/",
-  "id": "2026-10-20-06"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "-25% no ano",
-  "fatos": [
-   "O resultado sai por volta das 17h (Brasília), após o fechamento em Nova York.",
-   "Consenso prevê alta de 11,8% na receita e lucro por ação de US$ 0,82.",
-   "A ação fechou a segunda a US$ 69,85, contra US$ 93,76 no fim de 2025.",
-   "A empresa anunciou cerca de mil cortes, perto de 6% do quadro.",
-   "Seis casas, entre elas Morgan Stanley e Barclays, cortaram preço-alvo em outubro."
-  ],
-  "fonte": "Exame",
-  "gancho": "*Netflix* precisa *convencer*",
-  "icone": "relogio",
-  "impacto": "medio",
-  "ordem": 5,
-  "publicadoEm": "2026-10-20T05:00:00-03:00",
-  "resumo": "Mercado espera receita de US$ 12,87 bilhões no 3º trimestre, menor crescimento em três anos, em meio a demissões e saídas de executivos.",
-  "status": "nova",
-  "titulo": "Netflix divulga balanço hoje após queda de mais de 25% no ano",
-  "url": "https://exame.com/invest/mercados/com-debandada-e-demissoes-netflix-divulga-balanco-e-precisa-convencer-o-mercado/",
-  "id": "2026-10-20-05"
- },
- {
-  "categoria": "Empresas",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "R$ 25",
-  "fatos": [
-   "XP elevou projeções de lucro de 2% a 6% para 2026 a 2028.",
-   "No Investing.com, 6 de 14 analistas recomendam compra.",
-   "O alvo médio no consenso é R$ 20,71, contra preço de referência de R$ 21,13.",
-   "Greve na Caixa em setembro pode afetar vendas de seguros no curto prazo."
-  ],
-  "fonte": "Acionista",
-  "gancho": "*CXSE3* com *alvo maior*",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 9,
-  "publicadoEm": "2026-10-20T06:26:00-03:00",
-  "resumo": "Corretora subiu estimativas de lucro com crédito imobiliário, seguros e previdência, mas consenso do mercado segue majoritariamente neutro.",
-  "status": "nova",
-  "titulo": "XP eleva preço-alvo da Caixa Seguridade de R$ 20 para R$ 25",
-  "url": "https://acionista.com.br/cxse3-consenso-mudou-mas-a-acao-ainda-compensa/",
-  "id": "2026-10-20-09"
- },
- {
-  "categoria": "Cripto",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "US$ 81,7 mil",
-  "fatos": [
-   "O bitcoin recuava 1,2% em 24 horas, a cerca de US$ 81.730.",
-   "ETFs à vista tiveram saída líquida de US$ 228,6 milhões na semana passada.",
-   "Na semana anterior, os resgates foram de cerca de US$ 681 milhões.",
-   "A Glassnode apontou falta de compras à vista para sustentar recuperação.",
-   "A próxima reunião do Fed é em 27 e 28 de outubro."
-  ],
-  "fonte": "Bitbase",
-  "gancho": "*ETFs* drenam o *bitcoin*",
-  "horaEstimada": true,
-  "icone": "moeda",
-  "impacto": "medio",
-  "ordem": 8,
-  "publicadoEm": "2026-10-20T06:58:00-03:00",
-  "resumo": "ETFs de bitcoin à vista tiveram resgates líquidos pela segunda semana, e dados de inflação americana reduziram apostas em cortes do Fed.",
-  "status": "nova",
-  "titulo": "Bitcoin cai para US$ 81,7 mil com saídas de ETFs nos EUA",
-  "url": "https://bitbase.com/pt-BR/news/why-is-bitcoin-price-going-down-today-october-20",
-  "id": "2026-10-20-08"
- },
- {
-  "categoria": "Global",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "-3,73%",
-  "fatos": [
-   "O Kospi caiu 3,73%, a maior queda da região.",
-   "Nikkei recuou 1,30% e Hang Seng, 1,32%.",
-   "SK Hynix caiu 4,2% e Samsung, 3,0%.",
-   "Xangai foi exceção e subiu 0,12%.",
-   "Petróleo em alta também pesou no humor."
-  ],
-  "fonte": "Money Times",
-  "gancho": "*Bolha da IA* assusta a *Ásia*",
-  "icone": "globo",
-  "impacto": "alto",
-  "ordem": 4,
-  "publicadoEm": "2026-10-20T06:19:00-03:00",
-  "resumo": "Investidores questionam a sustentabilidade dos investimentos em infraestrutura de IA; ações de chips asiáticos recuaram mesmo após alta nos EUA.",
-  "status": "nova",
-  "titulo": "Kospi despenca 3,7% e bolsas da Ásia caem com dúvidas sobre gastos em IA",
-  "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-temores-sobre-ia-e-petroleo-fets/",
-  "id": "2026-10-20-04"
- },
- {
-  "categoria": "Commodities",
-  "coletadoEm": "2026-10-20T06:58:00-03:00",
-  "data": "2026-10-20",
-  "destaque": "US$ 110,50",
-  "fatos": [
-   "O Brent subia 0,85%, a US$ 110,50 o barril, na madrugada.",
-   "Na sessão anterior, tocou US$ 110,70, maior nível desde 20 de maio.",
-   "O WTI avançava 0,78%, a US$ 99,31.",
-   "A Kpler contou ao menos 18 navios atacados em duas semanas.",
-   "A Arábia Saudita não confirmou os ataques reivindicados pelos houthis."
-  ],
-  "fonte": "Money Times (Reuters)",
-  "gancho": "*Petróleo* acima de *US$ 110*",
-  "icone": "raio",
-  "impacto": "alto",
-  "ordem": 3,
-  "publicadoEm": "2026-10-20T04:46:00-03:00",
-  "resumo": "Ataques reivindicados pelos houthis a instalações sauditas e a navios no Golfo mantêm prêmio de risco no petróleo.",
-  "status": "nova",
-  "titulo": "Brent sobe a US$ 110,50 e fica perto da máxima em cinco meses",
-  "url": "https://www.moneytimes.com.br/brent-se-mantem-proximo-da-maxima-em-cinco-meses-em-meio-as-tensoes-no-oriente-medio-fets/",
-  "id": "2026-10-20-03"
  }
 ]
