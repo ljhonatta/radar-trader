@@ -1,5 +1,916 @@
 [
  {
+  "titulo": "Ouro fecha em alta com queda do petróleo e espera pelo Fed",
+  "resumo": "O ouro subiu 0,90% em 27 de setembro, chegando a US$ 1.974,6 por onça-troy, impulsionado pela baixa do petróleo e incertezas sobre a política do Fed nos EUA.",
+  "fatos": [
+   "Ouro para dezembro teve alta de 0,90% em 27 de setembro na Comex",
+   "Preço do ouro chegou a US$ 1.974,6 por onça-troy ao fim do pregão",
+   "Prata subiu 0,32%, cotada a US$ 54,513 por onça-troy",
+   "Cena geopolítica do Oriente Médio apresentou ataques dos houthis e possível acordo do Irã",
+   "Reunião do Comitê de Política Monetária do Fed ocorreu em 27 e 28 de setembro",
+   "Índice PCE, indicador de inflação dos EUA, será divulgado em 29 de setembro",
+   "Mercado espera manutenção das taxas de juros pelo Fed até dezembro",
+   "Pesquisa Reuters indicou queda da previsão do preço do ouro para 2026 pelo segundo trimestre seguido",
+   "Commerzbank chamou a fraqueza recente do ouro de surpreendente diante da queda das expectativas de juros"
+  ],
+  "explicacao": [
+   "Na terça-feira, 27 de setembro, o preço do ouro para dezembro avançou 0,90% na Comex, atingindo US$ 1.974,6 por onça-troy, refletindo uma reação aos movimentos do mercado de petróleo e à expectativa da decisão do Federal Reserve.",
+   "A queda nos preços do petróleo foi motivada por fatos contraditórios na geopolítica do Oriente Médio, como novos ataques dos houthis na Arábia Saudita, mas sinais do Irã de possível acordo para reabertura do Estreito de Ormuz, diminuindo tensões.",
+   "O mercado está focado na reunião do Comitê de Política Monetária do Fed nos dias 27 e 28, além da divulgação na quinta-feira do índice PCE de preços, principal indicador de inflação para o Banco Central americano.",
+   "Diante da expectativa de que as taxas de juros permanecerão estáveis até dezembro, a queda dos rendimentos dos títulos dos EUA aliviou a pressão sobre o ouro, ainda que a restrição das altas permaneça, limitando movimentos fortes."
+  ],
+  "detalhes": [
+   "O aumento do ouro ocorreu no pregão da Comex, bolsa especializada em metais de Nova York",
+   "O ouro recuou inicialmente na manhã, mas voltou a subir sem oscilar muito durante o dia",
+   "A queda do petróleo reduz o custo de oportunidade do ouro, que não paga juros",
+   "A expectativa do Fed influencia diretamente os rendimentos dos títulos do Tesouro americano e o dólar",
+   "O Irã sinalizou possível acordo que pode reabrir o Estreito de Ormuz, ponto crucial para exportações de petróleo",
+   "A pesquisa da Reuters mostrou que os rendimentos altos dos Treasuries e o dólar forte pesam na perspectiva do ouro",
+   "A reunião do Fed é vista como determinante para o ritmo da política monetária nos próximos meses"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analista do Sucden Financial",
+    "oque": "A queda dos rendimentos aliviou pressão imediata no ouro, mas restrição das taxas persiste"
+   },
+   {
+    "quem": "Commerzbank",
+    "oque": "Fraqueza recente do ouro é surpreendente, e reunião do Fed pode causar reação limitada"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "27 e 28 de setembro",
+    "oque": "Reunião do Comitê de Política Monetária do Fed"
+   },
+   {
+    "quando": "29 de setembro",
+    "oque": "Divulgação do índice de preços de gastos com consumo (PCE) nos EUA"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Comex",
+    "significado": "Bolsa de metais preciosos em Nova York"
+   },
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos EUA, define política monetária"
+   },
+   {
+    "termo": "PCE",
+    "significado": "Índice de preços de consumo, mede inflação nos EUA"
+   }
+  ],
+  "pergunta": "Você acompanha como decisões do Fed impactam o ouro?",
+  "tamanhoTexto": 3735,
+  "numeros": [
+   {
+    "valor": "0,90%",
+    "rotulo": "alta do ouro em 27 de setembro"
+   },
+   {
+    "valor": "US$ 1.974,6",
+    "rotulo": "preço do ouro por onça-troy no fechamento"
+   },
+   {
+    "valor": "0,32%",
+    "rotulo": "alta da prata no dia"
+   },
+   {
+    "valor": "US$ 54,513",
+    "rotulo": "preço da prata por onça-troy no fechamento"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,90% alta do",
+  "porQueImporta": "O ouro é um ativo sensível às mudanças na política monetária e ao cenário geopolítico, influindo na decisão do investidor sobre proteção contra riscos. A alta recente mostra a reação à queda do petróleo e a expectativa pelo Fed, indicadores cruciais para o mercado global e ativos de refugio.",
+  "impactoMercado": "A movimentação do ouro pode afetar setores ligados a metais preciosos e investimento em proteção. Expectativas quanto às taxas de juros do Fed e resultados do PCE impactam ativos de renda fixa, dólar e commodities, influenciando estratégias de traders e investidores.",
+  "entenda": "O ouro é um metal precioso usado como proteção contra instabilidades financeiras. Sua cotação varia com juros e tensões globais. O Federal Reserve norte-americano define taxas de juros que afetam o dólar e o custo de oportunidade de manter ouro, que não rende juros.",
+  "observar": "Fique atento à decisão do Fed nos dias 27 e 28 de setembro e à divulgação do índice PCE em 29 de setembro, eventos que podem influenciar preços do ouro e do dólar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicando a alta do ouro em contexto geopolítico e expectativa do Fed, o conteúdo ajuda quem quer entender como política monetária e commodities se relacionam, indicando a importância de estudar o mercado financeiro.",
+  "gancho": "Alta do *ouro* com *Fed* e *petróleo*",
+  "ideias": [
+   "Como a reunião do Fed afeta o preço do ouro?",
+   "Por que o petróleo influencia o mercado de metais preciosos?",
+   "Entenda a relação entre inflação, juros e ouro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://www.moneytimes.com.br/ouro-27-10-26-lils/",
+  "publicadoEm": "2026-10-27T15:44:58-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-11"
+ },
+ {
+  "titulo": "Shopee amplia capacidade em 60% com 4 novos centros no Brasil",
+  "resumo": "Shopee abriu quatro centros de distribuição em Recife, Rio, Vitória e Blumenau, elevando sua capacidade em 60%. A expansão inclui aumento em Piracicaba, totalizando 30 unidades e 2,4 milhões de pedidos diários.",
+  "fatos": [
+   "Shopee aumentou centros de distribuição de 16 para 30 unidades em um ano.",
+   "Quatro novos centros foram abertos em Recife, Rio, Vitória e Blumenau.",
+   "Capacidade de processar pedidos cresceu 60% em relação ao ano passado.",
+   "Operação de Piracicaba triplicou de área operacional.",
+   "Capacidade criada pelas novas unidades é de 2,4 milhões de pedidos por dia.",
+   "No 11/11 de 2025, mais de 20 milhões de itens foram comercializados pela Shopee.",
+   "Shopee reserva R$ 25 milhões em cupons para 11/11 de 2026 e R$ 23 milhões para Black Friday.",
+   "Venda de remédios depende da conclusão da regulamentação pela Anvisa.",
+   "Shopee possui mais de 3 milhões de vendedores locais na plataforma.",
+   "Cosméticos são vendidos via 40 redes de farmácias parceiras da plataforma."
+  ],
+  "explicacao": [
+   "A Shopee inaugurou quatro novos centros de distribuição em Recife, Rio de Janeiro, Vitória e Blumenau, aumentando sua rede de 16 para 30 unidades no Brasil. Além disso, a operação no centro de Piracicaba foi triplicada, elevando a capacidade de processar pedidos em 60% no último ano.",
+   "Esse crescimento surgiu para atender a um aumento expressivo na demanda, especialmente no final do ano, com datas como 11/11 e Black Friday sendo estratégicas para as vendas. A empresa controlada pela Sea prevê disponibilizar R$ 25 milhões em cupons no 11/11 e R$ 23 milhões na Black Friday de 2026, ampliando promoções em relação a 2025.",
+   "A ampliação da capacidade logística significa que a Shopee pode processar até 2,4 milhões de pedidos por dia somente com essas unidades recentes e a expansão de Piracicaba. Isso fortalece sua posição no competitivo mercado brasileiro de e-commerce, onde disputa com Amazon e Mercado Livre.",
+   "A companhia também destaca que a venda de medicamentos depende da regulamentação da Anvisa, por isso ainda não opera nesse segmento, mas já comercializa cosméticos via mais de 40 redes de farmácia terceirizadas. O futuro da venda de remédios no marketplace aguarda decisões regulatórias."
+  ],
+  "detalhes": [
+   "A Shopee é controlada pela empresa cingapuriana Sea.",
+   "Dos 30 centros, 25 operam no modelo cross-docking e 5 no fulfillment.",
+   "Cross-docking é um modelo de logística que agiliza o fluxo de mercadorias sem estocagem prolongada.",
+   "Fulfillment significa que a própria plataforma armazena produtos dos vendedores.",
+   "A expansão está focada em melhorar serviço para datas promocionais importantes como 11/11 e Black Friday.",
+   "Venda de medicamentos em marketplaces exige regulamentação específica, ainda pendente pela Anvisa.",
+   "A Shopee ainda avalia o mercado farmacêutico para atuar conforme regras, com potencial uso do serviço Turbo para entregas rápidos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Tiago Freddi, diretor de logística e estratégia da Shopee",
+    "oque": "Estamos focados em aumentar capacidade para atender a alta demanda de fim de ano."
+   },
+   {
+    "quem": "Felipe Lima, diretor de desenvolvimento de negócios e operações de",
+    "oque": "Aguardamos a Anvisa concluir a regulamentação antes de vender remédios na plataforma."
+   },
+   {
+    "quem": "Felipe Piringer, diretor de marketing da Shopee",
+    "oque": "Como não temos varejo próprio, a venda de medicamentos seria via farmácias terceirizadas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2020",
+    "oque": "Shopee começou operações no Brasil."
+   },
+   {
+    "quando": "Em um ano até outubro/2025",
+    "oque": "Shopee ampliou de 16 para 30 centros de distribuição."
+   },
+   {
+    "quando": "Novembro/2025 (11/11)",
+    "oque": "Foram vendidos mais de 20 milhões de itens."
+   },
+   {
+    "quando": "Agosto/2025",
+    "oque": "Serviço Turbo foi lançado em São Paulo para entregas em até 4 horas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Cross-docking",
+    "significado": "Transferência rápida de produtos sem estoque prolongado"
+   },
+   {
+    "termo": "Fulfillment",
+    "significado": "Armazenagem e gestão de produtos pela própria empresa"
+   },
+   {
+    "termo": "Turbo",
+    "significado": "Serviço de entregas rápidas em até 4 horas"
+   }
+  ],
+  "pergunta": "Você já usou plataformas como Shopee nas grandes promoções? Como foi sua experiência?",
+  "tamanhoTexto": 5796,
+  "numeros": [
+   {
+    "valor": "30",
+    "rotulo": "total de centros de distribuição no Brasil"
+   },
+   {
+    "valor": "60%",
+    "rotulo": "aumento da capacidade de processamento de pedidos"
+   },
+   {
+    "valor": "2,4 milhões",
+    "rotulo": "pedidos diários processados pelas quatro unidades novas e Piracicaba"
+   },
+   {
+    "valor": "R$ 25 milhões",
+    "rotulo": "em cupons para promoção 11/11 em 2026"
+   },
+   {
+    "valor": "R$ 23 milhões",
+    "rotulo": "em cupons para Black Friday em 2026"
+   },
+   {
+    "valor": "3 milhões",
+    "rotulo": "vendedores locais na plataforma Shopee"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Cupons para Black Friday",
+    "antes": "R$ 16 milhões em 2025",
+    "depois": "R$ 23 milhões em 2026"
+   },
+   {
+    "item": "Centros de distribuição",
+    "antes": "16 unidades",
+    "depois": "30 unidades"
+   }
+  ],
+  "destaque": "60% de aumento",
+  "porQueImporta": "A ampliação da Shopee mostra o ritmo acelerado do e-commerce brasileiro, especialmente nas datas promocionais. Para quem investe ou opera, isso indica maior potencial de movimentação e demonstração do peso da logística na performance do mercado digital.",
+  "impactoMercado": "Essa expansão logística pode alterar a competitividade no setor de e-commerce, pressionando concorrentes como Amazon e Mercado Livre. O aumento da capacidade afeta vendas, prazos de entrega e também investimentos em tecnologia de operação e promoção.",
+  "entenda": "Cross-docking é um sistema logístico rápido, que evita estocar produtos demoradamente, acelerando a movimentação. Já fulfillment significa armazenar e gerenciar produtos diretamente na empresa, facilitando controle e entrega. Essas estratégias influenciam a eficiência das plataformas.",
+  "observar": "Fique de olho na regulamentação da Anvisa sobre venda de remédios em marketplaces e nos resultados do 11/11 e Black Friday, quando a Shopee investirá milhões em cupons.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicar a importância da logística e das datas promocionais ajuda o público a compreender o impacto operacional do e-commerce no mercado financeiro.",
+  "gancho": "*Shopee* cresce 60% no Brasil",
+  "ideias": [
+   "Como a logística da Shopee impacta o e-commerce",
+   "Entenda os modelos de centros de distribuição da Shopee",
+   "11/11 e Black Friday: apostas e cupons da Shopee"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://bpmoney.com.br/negocios/shopee-amplia-capacidade-60-aguarda-anvisa-medicamentos/",
+  "publicadoEm": "2026-10-27T19:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-12"
+ },
+ {
+  "titulo": "Aliados criticam saída de Flávio Bolsonaro para os EUA após eleição",
+  "resumo": "Flávio Bolsonaro deixou o Brasil para os Estados Unidos, gerando surpresa e irritação entre aliados do PL. A decisão ocorre no momento de reorganização do partido após a vitória de Lula em 2026.",
+  "fatos": [
+   "Flávio Bolsonaro (PL-RJ) deixou o Brasil para os EUA na madrugada de 27/10/2026.",
+   "O governo americano Trump concedeu vistos para Flávio e sua família.",
+   "Ministro Alexandre de Moraes ordenou a entrega dos passaportes de Flávio à Polícia Federal.",
+   "PL terá 29 senadores no Senado a partir de fevereiro de 2027.",
+   "Senador Rogério Marinho expressou preocupação com inquérito sobre interferência estrangeira nas eleições.",
+   "Ministro Flávio Dino do STF determinou abertura de inquérito para apurar interferência estrangeira.",
+   "Federação União Progressista apoia reeleição de Davi Alcolumbre à presidência do Senado.",
+   "Aliados consideram 'vergonhosa' a saída de Flávio após derrota eleitoral.",
+   "Deputado Joaquin Castro afirmou que 'perder uma eleição não é motivo para asilo'."
+  ],
+  "explicacao": [
+   "Flávio Bolsonaro (PL-RJ) saiu do Brasil rumo aos Estados Unidos na madrugada do dia 27 de outubro de 2026, decisão que surpreendeu seus aliados dentro do PL, o partido ao qual ele pertence. Fontes americanas confirmaram que o ex-senador e sua família receberam vistos concedidos pelo governo Trump.",
+   "A saída ocorre em um contexto delicado, com o PL reorganizando-se após a derrota eleitoral para Luiz Inácio Lula da Silva (PT). Aliados classificam como \"vergonhosa\" a saída de Flávio em um momento de reorganização da oposição e demonstram descontentamento, especialmente diante da ordem do ministro Alexandre de Moraes para entrega dos passaportes do senador.",
+   "Para os parlamentares do PL, a ausência de Flávio Bolsonaro pode enfraquecer a sigla especialmente no Senado, onde o partido terá 29 senadores a partir de fevereiro de 2027. Espera-se que o PL enfrente dificuldades para liderar o Legislativo e disputar a Presidência do Senado com unidade.",
+   "Além disso, há preocupação com investigação de possível interferência estrangeira na eleição, determinada pelo ministro Flávio Dino do STF. Um inquérito relacionado pode ameaçar o registro do PL por suposto uso de recursos externos. Os aliados afirmam que Flávio deveria enfrentar a Justiça no Brasil para manter fidelidade política."
+  ],
+  "detalhes": [
+   "Flávio Bolsonaro é senador pelo Rio de Janeiro e integrante do PL.",
+   "Saída ocorreu após derrota do PL nas eleições presidenciais para Lula (PT).",
+   "Decisão gerou surpresa e irritação em seus aliados, que não sabiam do plano.",
+   "O ministro Alexandre de Moraes ordenou apreensão dos passaportes do senador.",
+   "PL enfrenta risco de enfraquecimento e isolamento político no Congresso.",
+   "Inquérito investiga possível interferência estrangeira nas eleições brasileiras.",
+   "Federação União Progressista apoia adversário do PL na eleição da Mesa do Senado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Senador Rogério Marinho (RN)",
+    "oque": "Alertou para risco de cassação do registro do PL devido a inquérito de interferência estrangeira."
+   },
+   {
+    "quem": "Deputado Joaquin Castro",
+    "oque": "Disse que perder eleição não justifica pedido de asilo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26/10/2026",
+    "oque": "Flávio Bolsonaro afirmou que não pensava em deixar o país e lideraria oposição."
+   },
+   {
+    "quando": "27/10/2026 madrugada",
+    "oque": "Flávio Bolsonaro deixou o Brasil para os Estados Unidos."
+   },
+   {
+    "quando": "27/10/2026",
+    "oque": "Ministro Flávio Dino determinou abertura de inquérito sobre interferência estrangeira."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "STF",
+    "significado": "Supremo Tribunal Federal, a mais alta corte do Brasil."
+   },
+   {
+    "termo": "Inquérito",
+    "significado": "Investigação oficial para apurar suspeitas ou crimes."
+   },
+   {
+    "termo": "Mesa Diretora do Senado",
+    "significado": "Grupo que dirige os trabalhos e decisões do Senado."
+   }
+  ],
+  "pergunta": "Como a saída de Flávio Bolsonaro pode afetar a oposição no Congresso?",
+  "tamanhoTexto": 4843,
+  "numeros": [
+   {
+    "valor": "29",
+    "rotulo": "Número de senadores do PL a partir de fevereiro de 2027"
+   },
+   {
+    "valor": "41",
+    "rotulo": "Votos necessários para eleição na presidência do Senado"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Saída de Flávio",
+  "porQueImporta": "A saída de Flávio Bolsonaro aos EUA impacta a liderança do PL em um momento crítico pós-eleitoral, podendo enfraquecer sua atuação política e prejudicar a reorganização da oposição ao governo Lula no Congresso.",
+  "impactoMercado": "A instabilidade política no PL e a potencial divisão no Senado podem gerar incertezas em legislativos e pautas econômicas relevantes, afetando setores sensíveis como infraestrutura e reforma tributária, sem indicar diretamente movimentos no mercado financeiro.",
+  "entenda": "A saída de um líder político importante pode enfraquecer um partido, especialmente em momentos de disputas por cargos no Congresso. Investigações de interferência estrangeira buscam garantir a legitimidade das eleições e evitam influência indevida no sistema político brasileiro.",
+  "observar": "Acompanhe as decisões do STF e o andamento do inquérito sobre interferência estrangeira, além da disputa interna no PL para presidência do Senado, com foco nas próximas eleições legislativas de fevereiro de 2027.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Entender o impacto político da saída de Flávio Bolsonaro ajuda investidores e operadores a se prepararem para possíveis mudanças na dinâmica legislativa e efeitos indiretos no mercado financeiro.",
+  "gancho": "*Saída* de Flávio Bolsonaro",
+  "ideias": [
+   "Quem perde com a saída de Flávio Bolsonaro para os EUA?",
+   "Impactos da saída de Flávio Bolsonaro no Senado e no PL",
+   "Investigações e desafios para o PL após saída do seu líder"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://valor.globo.com/politica/noticia/2026/10/27/aliados-demonstram-irritacao-e-consideram-vergonhosa-saida-de-flavio-bolsonaro-do-pais.ghtml",
+  "publicadoEm": "2026-10-27T20:16:08-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-13"
+ },
+ {
+  "titulo": "El Niño pode reduzir safra brasileira de soja em 10% em 2026/27",
+  "resumo": "Estudo da Serasa Experian estima queda de 10% na safra 2026/27, com perdas de até R$ 33 bilhões causadas pelo El Niño.",
+  "fatos": [
+   "Safra prevista: 163,6 milhões de toneladas ante 181,2 milhões no cenário sem El Niño.",
+   "Área plantada estima crescer 1,8%, chegando a 49,9 milhões de hectares.",
+   "Mato Grosso pode perder 9,7 milhões de toneladas de soja.",
+   "Goiás pode ter queda de 4 milhões de toneladas na produção.",
+   "Plantio atingiu 40% da área prevista até 22 de outubro de 2026.",
+   "Perdas financeiras estimadas em até R$ 33 bilhões, segundo Serasa.",
+   "Rio Grande do Sul pode ganhar 5,5 milhões de toneladas na safra.",
+   "13 estados devem registrar quedas; 4 com pequenos ganhos.",
+   "Produtividade da soja caiu mais de 8% em 2024 na última ocorrência de El Niño forte.",
+   "Preços considerados para projeção são os de agosto de 2026."
+  ],
+  "explicacao": [
+   "A safra de soja do Brasil para 2026/27 pode cair cerca de 10% devido a um El Niño forte, reduzindo a produção de 181,2 para 163,6 milhões de toneladas, segundo estudo da Serasa Experian divulgado em 27 de outubro de 2026.",
+   "Apesar de expansão de 1,8% na área plantada, chegando a quase 50 milhões de hectares, a seca e o calor provocados pelo fenômeno reduzirão a produtividade, especialmente em Mato Grosso e Goiás, que concentrariam as maiores perdas.",
+   "O impacto financeiro estimado para o setor pode chegar a R$ 33 bilhões com esta queda na produção, embora menores volumes possam elevar os preços da soja, alterando o cenário de venda para produtores.",
+   "Próximos passos importantes incluem acompanhar o clima em novembro e dezembro, fases decisivas para o florescimento e formação dos grãos; o Rio Grande do Sul pode ter ganhos com o aumento das chuvas."
+  ],
+  "detalhes": [
+   "O levantamento foi divulgado em 27 de outubro de 2026 pela Serasa Experian.",
+   "O estudo foca no impacto do El Niño forte durante a safra 2026/27.",
+   "O risco climático migra do plantio para o desenvolvimento das lavouras.",
+   "Chuvas em novembro e dezembro são decisivas para o sucesso da safra.",
+   "Mato Grosso e Goiás são os estados com maiores riscos de perda.",
+   "O Rio Grande do Sul pode se beneficiar do fenômeno pela maior pluviosidade.",
+   "Em 2024, com El Niño, a produtividade média foi 3.282 quilos por hectare."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Daniel de Oliveira, gerente de geoprocessamento agro da Serasa Experian",
+    "oque": "Risco climático passou do plantio para a distribuição das chuvas durante o desenvolvimento das lavouras."
+   },
+   {
+    "quem": "Daniel de Oliveira, gerente de geoprocessamento agro da Serasa Experian",
+    "oque": "O risco ainda não desapareceu e a safra 26/27 não está livre dos impactos do El Niño."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2024",
+    "oque": "Última ocorrência de El Niño forte reduziu produtividade da soja em mais de 8%."
+   },
+   {
+    "quando": "22 de outubro de 2026",
+    "oque": "40% da área plantada de soja já estava coberta no Brasil."
+   },
+   {
+    "quando": "27 de outubro de 2026",
+    "oque": "Serasa Experian divulgou estudo sobre impacto do El Niño na safra 2026/27."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "El Niño",
+    "significado": "Fenômeno climático que altera chuvas e temperatura globais"
+   },
+   {
+    "termo": "Produtividade agrícola",
+    "significado": "Quantidade produzida por hectare plantado"
+   },
+   {
+    "termo": "Área plantada",
+    "significado": "Terreno destinado ao cultivo da safra"
+   }
+  ],
+  "pergunta": "Você já sabia como o El Niño afeta a produção de soja no Brasil?",
+  "tamanhoTexto": 5766,
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "Possível queda na produção da safra 2026/27"
+   },
+   {
+    "valor": "163,6 milhões",
+    "rotulo": "Toneladas previstas no cenário com El Niño forte"
+   },
+   {
+    "valor": "181,2 milhões",
+    "rotulo": "Toneladas previstas sem impacto do El Niño"
+   },
+   {
+    "valor": "1,8%",
+    "rotulo": "Crescimento da área plantada estimado"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "Área plantada até 22/10/2026"
+   },
+   {
+    "valor": "9,7 milhões",
+    "rotulo": "Toneladas que Mato Grosso pode perder"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Produção de soja",
+    "antes": "181,2 milhões de toneladas",
+    "depois": "163,6 milhões de toneladas"
+   }
+  ],
+  "destaque": "Queda de 10%",
+  "porQueImporta": "Para quem investe ou opera, entender o impacto do El Niño na soja é essencial, pois afeta oferta do grão, preços no mercado e desempenho das empresas do setor agrícola. A oscilação da boa produção para perdas pode alterar o cenário de commodities, um importante indicador para diversas categorias de investimento.",
+  "impactoMercado": "Com a queda na produção e possível alta dos preços, o setor agrícola pode sofrer alterações nos resultados financeiros das empresas e nos preços das commodities. Investidores em ações relacionadas à agroindústria, fundos atrelados a commodities e derivativos podem ser afetados pela volatilidade da soja.",
+  "entenda": "O El Niño é um fenômeno climático que provoca mudanças no padrão de chuvas e temperatura. Isso pode prejudicar o desenvolvimento das lavouras e reduzir a produtividade agrícola, especialmente da soja, que é grande no Brasil. Entender seus efeitos ajuda investidores a avaliar riscos e oportunidades no mercado de commodities.",
+  "observar": "Acompanhar a evolução das chuvas em novembro e dezembro e as atualizações de produtividade e preços da soja, que definirão os efeitos finais do El Niño na safra 2026/27.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Explicamos o impacto do El Niño na safra de soja de forma clara para mostrar como o clima influencia o mercado agrícola e por que é importante entender esses riscos para operar melhor.",
+  "gancho": "*El Niño* e safra de soja",
+  "ideias": [
+   "Como o El Niño pode afetar sua operação no mercado de soja",
+   "Safra 2026/27: entenda o risco climático para investidores",
+   "Perdas bilionárias na soja? O que o El Niño tem a ver"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "raio",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
+  "publicadoEm": "2026-10-27T12:57:25-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-14"
+ },
+ {
+  "titulo": "Petrobras anuncia alta de 7% no querosene de aviação em novembro",
+  "resumo": "Após reajuste de 11,76% em outubro, Petrobras deve aumentar 7,32% o preço do querosene de aviação no próximo mês. O novo valor elevará o litro para R$ 6,69, pressionando custos das companhias aéreas.",
+  "fatos": [
+   "Petrobras deve anunciar reajuste do QAV em 1º de novembro.",
+   "Último reajuste em outubro foi de 11,76%.",
+   "Novo aumento previsto é de 7,32% no preço do combustível.",
+   "Preço do litro do QAV subirá de R$ 6,24 para R$ 6,69.",
+   "Participação do QAV nos custos das aéreas subiu de 32% para 45%.",
+   "Petróleo tipo Brent subiu quase 60%, para US$ 114 o barril.",
+   "Conflitos no Oriente Médio intensificaram alta dos preços desde março.",
+   "Governo zerou tributos federais da gasolina, mas não do QAV.",
+   "Passagens aéreas subiram 9,66% em setembro.",
+   "IPCA avançou 0,82% em setembro."
+  ],
+  "explicacao": [
+   "A Petrobras deve comunicar no início de novembro um reajuste de aproximadamente 7,32% no preço do querosene de aviação (QAV) para as distribuidoras. Este aumento ocorre logo após um reajuste anterior de 11,76% aplicado em outubro.",
+   "A alta recente do QAV está ligada ao aumento do preço do petróleo, influenciado pela escalada dos conflitos no Oriente Médio desde março, quando Estados Unidos e Israel atacaram o Irã. O petróleo tipo Brent, referência para a Petrobras, acumulou alta de cerca de 60% no período.",
+   "O reajuste significa que o preço do litro do QAV vai passar dos atuais R$ 6,24 para R$ 6,69, elevando ainda mais o peso deste combustível para as companhias aéreas. O combustível já representa cerca de 45% dos custos operacionais das empresas, frente a 32% antes das altas.",
+   "O governo federal tentou reduzir o impacto dos preços dos combustíveis na gasolina e diesel zerando tributos federais, mas o imposto sobre o QAV não foi prorrogado. Com os custos elevados, as empresas aéreas repassaram o aumento para o consumidor via alta nas passagens, que subiram 9,66% em setembro."
+  ],
+  "detalhes": [
+   "Reajustes do QAV pressionam custos das companhias aéreas no Brasil.",
+   "A alta de quase 12% em outubro já era uma elevação significativa.",
+   "O novo aumento de 7,32% será o primeiro de um dígito desde julho.",
+   "O petróleo Brent serve como parâmetro internacional para valor do QAV.",
+   "Medidas do governo suavizam preços da gasolina e diesel, mas não do QAV.",
+   "A elevação do custo do querosene impacta diretamente o preço das passagens.",
+   "Setor aéreo já vê a parcela do combustível crescer muito dentro das despesas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Pessoa próxima à Petrobras",
+    "oque": "Confirmou aumento de 7,32% no preço do querosene para novembro"
+   },
+   {
+    "quem": "Porta-voz da Petrobras",
+    "oque": "Informou que o reajuste será anunciado oficialmente em 1º de novembro"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Março 2026",
+    "oque": "Conflitos no Oriente Médio disparam preços do petróleo e QAV"
+   },
+   {
+    "quando": "Outubro 2026",
+    "oque": "Petrobras reajusta preço do QAV em 11,76%"
+   },
+   {
+    "quando": "1º de novembro 2026",
+    "oque": "Petrobras deve anunciar novo reajuste de 7,32% no QAV"
+   },
+   {
+    "quando": "Setembro 2026",
+    "oque": "Passagens aéreas acumulam alta de 9,66%"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "QAV",
+    "significado": "Querosene de aviação, combustível usado por aviões comerciais"
+   },
+   {
+    "termo": "Petróleo Brent",
+    "significado": "Referência internacional para o preço do petróleo"
+   },
+   {
+    "termo": "IPCA",
+    "significado": "Índice Nacional de Preços ao Consumidor Amplo, mede inflação oficial"
+   }
+  ],
+  "pergunta": "Você já sentiu no bolso o impacto da alta do querosene nas passagens aéreas?",
+  "tamanhoTexto": 5935,
+  "numeros": [
+   {
+    "valor": "7,32%",
+    "rotulo": "Percentual do novo reajuste previsto para novembro"
+   },
+   {
+    "valor": "11,76%",
+    "rotulo": "Reajuste aplicado no querosene em outubro"
+   },
+   {
+    "valor": "R$ 6,24",
+    "rotulo": "Preço atual do litro do QAV para distribuidoras"
+   },
+   {
+    "valor": "R$ 6,69",
+    "rotulo": "Preço do litro do QAV após o reajuste previsto"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "Participação do custo do QAV nas despesas das aéreas atualmente"
+   },
+   {
+    "valor": "32%",
+    "rotulo": "Participação do custo do QAV antes da recente alta"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Preço do litro do QAV",
+    "antes": "R$ 6,24",
+    "depois": "R$ 6,69"
+   },
+   {
+    "item": "Participação do QAV nos custos das aéreas",
+    "antes": "32%",
+    "depois": "45%"
+   }
+  ],
+  "destaque": "7,32% aumento no",
+  "porQueImporta": "O reajuste do querosene de aviação impacta diretamente as despesas das companhias aéreas, aumentando os custos operacionais e pressionando o preço das passagens. Para quem investe ou opera em setores relacionados ao transporte aéreo, entender essas variações é fundamental para avaliar o cenário de custos e demanda.",
+  "impactoMercado": "Com o aumento do QAV, empresas aéreas podem ter margens comprimidas ou repassar custos ao consumidor, influenciando o desempenho de ações do setor. Além disso, a alta nos combustíveis pode afetar índices de inflação e movimentar o mercado de petróleo e derivados, gerando volatilidade.",
+  "entenda": "O querosene de aviação (QAV) é o combustível usado pelos aviões, representando custos significativos para companhias aéreas. Sua cotação internacional acompanha o preço do petróleo, que reflete conflitos geopolíticos e outras variáveis globais, influenciando diretamente o preço final no Brasil.",
+  "observar": "Acompanhe o anúncio oficial da Petrobras no dia 1º de novembro e os números do IPCA e preços de combustíveis nas próximas semanas para entender o impacto na inflação e setores relacionados.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Esta notícia explica como variações no preço do querosene afetam custos e preços do setor aéreo, trazendo interesse para quem quer entender os efeitos das commodities no mercado financeiro e conhecer a faculdade Trader School Wendell Guimarães.",
+  "gancho": "*Alta* no *querosene* impacta aéreas",
+  "ideias": [
+   "Entenda o reajuste do querosene de aviação em 2026",
+   "Como a alta do QAV pressiona o setor aéreo e passagens",
+   "Impacto dos preços internacionais do petróleo no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "raio",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/petrobras-deve-aumentar-em-7-o-querosene-de-aviacao-para-novembro.shtml",
+  "publicadoEm": "2026-10-27T15:48:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-15"
+ },
+ {
+  "titulo": "Petróleo e câmbio pressionam inflação no Brasil, diz economista da XP",
+  "resumo": "Caio Megale, economista-chefe da XP, alerta que petróleo a US$110 e câmbio perto de R$5,40 indicam inflação mais alta em 2027. Banco Central pode pausar cortes de juros diante dessas pressões.",
+  "fatos": [
+   "Petróleo está cotado próximo a US$ 110 por barril",
+   "Câmbio recuou de faixa R$ 5,05-R$ 5,10 para entre R$ 5,30 e R$ 5,40",
+   "Projeções de inflação para 2027 estão se deteriorando",
+   "Fim da escala de trabalho 6x1 pode elevar custos de serviços em 2027",
+   "IBGE revisa cesta de consumo com maior peso para serviços",
+   "Banco Central deve cortar 0,25 ponto percentual na próxima reunião do Copom",
+   "Possível pausa nos cortes de juros já em dezembro",
+   "Indicadores econômicos apontam desaceleração no varejo, indústria e serviços",
+   "PIB do terceiro trimestre pode ter resultado negativo"
+  ],
+  "explicacao": [
+   "O economista-chefe da XP, Caio Megale, destacou que a alta do petróleo, cotado em torno de US$ 110 por barril, e a recente desvalorização do real, que subiu para cerca de R$ 5,30 a R$ 5,40, sugerem pressões inflacionárias mais fortes no Brasil para os próximos anos, especialmente em 2027.",
+   "Diversos fatores explicam esse cenário: além do petróleo e câmbio, o aumento dos alimentos, o fim da escala de trabalho 6x1, que pode elevar custos dos serviços, e a revisão do IBGE na cesta de consumo, com maior peso para serviços que têm alta inflação, contribuem para a expectativa de inflação mais alta.",
+   "Isso significa que o Banco Central enfrentará um desafio maior para manter a inflação próxima à meta de 3%, podendo dificultar o ciclo de cortes dos juros, mesmo com sinais de desaceleração econômica; o BC pode até interromper cortes já em dezembro, dependendo das próximas informações.",
+   "Megale ainda avaliou que o subsídio ao diesel e à gasolina deve continuar, já que a arrecadação maior devido ao petróleo caro ajuda a financiar o benefício. Porém, se o petróleo mantiver preço acima de US$ 100, manter preços dos combustíveis abaixo do mercado internacional será insustentável no longo prazo."
+  ],
+  "detalhes": [
+   "Economista-chefe da XP é Caio Megale",
+   "Declaração dada em entrevista ao CNN Money",
+   "Câmbio estava entre R$ 5,05 e R$ 5,10, depois foi para R$ 5,30 a R$ 5,40",
+   "Petróleo cotado em torno de US$ 110 por barril aumenta risco de inflação global",
+   "Fim da escala 6x1 pode gerar custos adicionais para empresas no curto prazo, eleva custo de serviços",
+   "Revisão do IBGE considera maior participação dos serviços na cesta de consumo brasileiro",
+   "Banco Central programado para reunião do Copom na semana seguinte à entrevista"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Caio Megale, economista-chefe da XP",
+    "oque": "Movimentações do petróleo e câmbio indicam pressão inflacionária maior em 2027."
+   },
+   {
+    "quem": "Caio Megale, economista-chefe da XP",
+    "oque": "Banco Central deve entregar corte de 0,25 ponto na próxima reunião, mas pode pausar em dezembro."
+   },
+   {
+    "quem": "Caio Megale, economista-chefe da XP",
+    "oque": "Subsídios a combustíveis devem continuar, mas preços muito altos do petróleo aumentarão custos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "semana seguinte à entrevista",
+    "oque": "Reunião do Copom para decisão sobre juros"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Meta de inflação",
+    "significado": "Percentual alvo que o Banco Central quer manter para a inflação anual."
+   },
+   {
+    "termo": "Copom",
+    "significado": "Comitê do Banco Central que decide a taxa básica de juros."
+   },
+   {
+    "termo": "Escala 6x1",
+    "significado": "Regime de trabalho com seis dias trabalhados e um de descanso."
+   }
+  ],
+  "pergunta": "Você acha que o Banco Central deve pausar os cortes de juros diante da alta do petróleo e câmbio?",
+  "tamanhoTexto": 4561,
+  "numeros": [
+   {
+    "valor": "110",
+    "rotulo": "Preço do barril de petróleo em dólares"
+   },
+   {
+    "valor": "5,30 a 5,40",
+    "rotulo": "Faixa atual do câmbio em reais"
+   },
+   {
+    "valor": "0,25",
+    "rotulo": "Percentual projetado de corte na taxa de juros pelo Copom"
+   },
+   {
+    "valor": "3%",
+    "rotulo": "Meta de inflação oficial do Brasil"
+   },
+   {
+    "valor": "13%, 13,5%",
+    "rotulo": "Taxas de juros atuais citadas pelo economista"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Câmbio",
+    "antes": "5,05 a 5,10",
+    "depois": "5,30 a 5,40"
+   }
+  ],
+  "destaque": "Petróleo a US$",
+  "porQueImporta": "A pressão inflacionária maior indica que os custos para empresas e consumidores podem subir, afetando decisões do Banco Central sobre a política de juros. Para quem investe ou opera, entender esses vetores ajuda a acompanhar riscos econômicos e movimentos no mercado financeiro devido a variações de preços e taxas.",
+  "impactoMercado": "Se a inflação ficar persistente, o Banco Central pode desacelerar o ritmo de cortes de juros, afetando o custo do dinheiro e influenciando setores como serviços e consumo. Além disso, o câmbio mais fraco pressiona preços de importados e combustíveis, impactando diretamente empresas ligadas a commodities e bens importados.",
+  "entenda": "O câmbio é o preço da moeda estrangeira em relação ao real; quando o real se desvaloriza, produtos importados ficam mais caros, elevando a inflação. O petróleo, como uma commodity global, influencia preços de energia e transporte, aumentando custos. O Banco Central usa o juros para controlar a inflação, cortando para estimular ou aumentando para conter preços.",
+  "observar": "Acompanhe a próxima reunião do Copom para decisões sobre juros e atenção aos próximos dados de inflação, câmbio e preços do petróleo para entender se as pressões continuam ou recuam.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia conecta fatores globais e domésticos que afetam inflação e juros, mostrando a complexidade das decisões do Banco Central, um assunto essencial para quem quer entender o funcionamento e os impactos do mercado financeiro.",
+  "gancho": "*Inflação*, *Petróleo* e *Câmbio* em foco",
+  "ideias": [
+   "Como o petróleo caro afeta seu bolso?",
+   "O que a alta do dólar significa para a inflação?",
+   "Por que o Banco Central pode frear corte de juros?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "seta",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/petroleo-e-cambio-sugerem-inflacao-mais-elevada-no-brasil-diz-xp/",
+  "publicadoEm": "2026-10-27T20:36:53-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-16"
+ },
+ {
+  "titulo": "Mubadala e FS avaliam comprar dívida da Raízen com conversão em ações",
+  "resumo": "FS e fundo Mubadala negociam compra de dívida da Raízen, que pode virar ações. Reestruturação envolve R$ 65 bilhões e parte da estratégia para reduzir alavancagem.",
+  "fatos": [
+   "Mubadala e FS buscam comprar dívidas da Raízen conversíveis em ações.",
+   "Morgan Stanley assessorou a FS.",
+   "Raízen reestrutura dívida extrajudicial de cerca de R$ 65 bilhões desde março.",
+   "Raízen é controlada pela Shell e Cosan.",
+   "IG4 Capital manifestou interesse em créditos específicos do setor de açúcar e etanol.",
+   "Créditos convertidos em ações darão mais de 80% do capital aos credores.",
+   "Problemas da Raízen incluem decisões estratégicas ruins, juros altos e safras fracas.",
+   "FS é uma das maiores produtoras brasileiras de etanol de milho, com participação da Amaggi e Summit Agricultural.",
+   "Amaggi comprou 40% da FS em julho, com aporte de US$ 100 milhões."
+  ],
+  "explicacao": [
+   "A produtora brasileira FS e o fundo Mubadala, de Abu Dhabi, estão em conversas para adquirir dívidas da Raízen que podem ser convertidas em ações no futuro. O Morgan Stanley assessora a FS na negociação, ainda em fase inicial.",
+   "Esse movimento ocorre em meio à reestruturação da Raízen, empresa do setor de açúcar, etanol e combustíveis controlada pela Shell e Cosan. Em março, a companhia acordou a reestruturação extrajudicial de cerca de R$ 65 bilhões em dívidas.",
+   "A situação financeira da Raízen piorou neste ano devido a decisões estratégicas, juros altos e safras fracas, levando os credores a aceitarem conversão de dívidas em mais de 80% do capital da empresa. A companhia também tenta vender ativos para aliviar dívidas.",
+   "Além da FS e Mubadala, o IG4 Capital participa das negociações, focando em créditos da divisão de açúcar e etanol. A operação visa adquirir essas dívidas antes da conversão em ações, podendo influenciar o controle acionário da Raízen."
+  ],
+  "detalhes": [
+   "Quem: FS (produtora brasileira) e Mubadala (fundo soberano de Abu Dhabi).",
+   "Quanto: reestruturação da Raízen envolve R$ 65 bilhões em dívidas.",
+   "Quando: acordo de reestruturação em março, Amaggi investiu na FS em julho.",
+   "Onde: Raízen atua no Brasil nos setores de açúcar, etanol e combustíveis.",
+   "Como: credores podem converter dívidas em ações, ultrapassando 80% do capital.",
+   "Comparação: IG4 Capital trocou foco de controle total para créditos setoriais.",
+   "Contexto: Raízen enfrenta piora financeira por juros e safras, vendendo ativos para alavancagem."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "março de 2023",
+    "oque": "Raízen chega a acordo para reestruturar dívida de R$ 65 bilhões"
+   },
+   {
+    "quando": "junho de 2023",
+    "oque": "IG4 Capital manifesta interesse em controle da Raízen"
+   },
+   {
+    "quando": "julho de 2023",
+    "oque": "Amaggi adquire 40% da FS com aporte de US$ 100 milhões"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Reestruturação de dívida",
+    "significado": "Acordo para mudar condições e reduzir dívidas de uma empresa"
+   },
+   {
+    "termo": "Conversão de dívida em ações",
+    "significado": "Credores trocam dívidas por participação acionária na empresa"
+   },
+   {
+    "termo": "Fundo soberano",
+    "significado": "Fundo de investimento estatal para aplicar recursos públicos"
+   }
+  ],
+  "pergunta": "Você sabe como funciona a conversão de dívida em ações nas empresas?",
+  "tamanhoTexto": 3369,
+  "numeros": [
+   {
+    "valor": "R$ 65 bilhões",
+    "rotulo": "Valor da dívida em reestruturação na Raízen"
+   },
+   {
+    "valor": "80%",
+    "rotulo": "Percentual do capital da Raízen com os credores após conversão"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "Participação da Amaggi na FS após aporte"
+   },
+   {
+    "valor": "US$ 100 milhões",
+    "rotulo": "Valor do aporte da Amaggi na FS"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Interesse IG4 Capital",
+    "antes": "controle da Raízen",
+    "depois": "comprar créditos da divisão de açúcar e etanol"
+   }
+  ],
+  "destaque": "R$ 65 bilhões",
+  "porQueImporta": "Essa operação é importante para investidores e operadores porque envolve mudanças no controle acionário e na estrutura financeira da Raízen, uma grande empresa do setor de combustíveis e biocombustíveis, impactando a dinâmica de créditos e participações no mercado.",
+  "impactoMercado": "A negociação pode alterar a composição acionária da Raízen e a gestão de sua dívida, afetando setores ligados a energia e commodities, influenciando investimentos, avaliação de riscos e estratégias em ações e créditos do setor.",
+  "entenda": "A reestruturação de dívida é um acordo para reorganizar as dívidas de uma empresa, podendo incluir conversão de dívida em ações: credores passam a ser acionistas para ajudar a empresa a recuperar-se financeiramente.",
+  "observar": "Fique atento ao andamento das negociações da dívida da Raízen e novas decisões dos credores, além dos resultados financeiros futuros da empresa para avaliar impactos no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia ajuda a entender como reestruturação de dívidas afeta o controle e o futuro financeiro das empresas, trazendo conhecimento prático para atuar no mercado financeiro.",
+  "gancho": "*Dívida* e *Ações* na Raízen",
+  "ideias": [
+   "Como a conversão de dívida impacta o controle das empresas",
+   "Quem são Mubadala e FS na negociação da Raízen",
+   "O que a reestruturação da Raízen significa para o mercado de etanol"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:44:25-03:00",
+  "url": "https://investnews.com.br/negocios/mubadala-e-fs-avaliam-compra-divida-raizen/",
+  "publicadoEm": "2026-10-27T19:56:28-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-17"
+ },
+ {
   "titulo": "Ibovespa cai e dólar recua após eleições e espera por decisão do Fed",
   "resumo": "Ibovespa fechou em queda de 0,47%, aos 175.780 pontos, e dólar recuou 0,97%, a R$ 5,3502, nesta terça (27). Mercado reage à reeleição de Lula e à expectativa pela decisão de juros do Fed.",
   "fatos": [
@@ -28079,16 +28990,16 @@
  {
   "tipo": "sinal",
   "slug": "bank-of-canada-decision-in-october-20260715203359314",
-  "titulo": "Mercado de previsões vê 83% de chance de *aumento de 25 bps* pelo Banco do Canadá",
-  "resumo": "Expectativa de aumento em taxa de juros é forte entre apostadores, sinalizando preocupação inflacionária.",
+  "titulo": "Mercado de previsões vê 89.3% de chance de aumento de 25 bps pelo Banco do Canadá",
+  "resumo": "As apostas mostram forte expectativa de que o Banco do Canadá aumentará as taxas de juros na próxima reunião.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 83.0
+    "prob": 89.3
    },
    {
-    "opcao": "Sem mudança",
-    "prob": 16.8
+    "opcao": "Sem Mudança",
+    "prob": 10.3
    },
    {
     "opcao": "Aumento de 50+ bps",
@@ -28100,21 +29011,21 @@
    }
   ],
   "prazo": "2026-10-28",
-  "volume24h": "US$ 48 mil",
+  "volume24h": "US$ 43 mil",
   "fatos": [
-   "Aumento de 25 bps: 83,0%",
-   "Sem mudança: 16,8%",
+   "Aumento de 25 bps: 89,3%",
+   "Sem Mudança: 10,3%",
    "Aumento de 50+ bps: 0,1%",
    "Redução de 25 bps: 0,1%"
   ],
   "numeros": [
    {
-    "valor": "83,0%",
+    "valor": "89,3%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "16,8%",
-    "rotulo": "Sem mudança"
+    "valor": "10,3%",
+    "rotulo": "Sem Mudança"
    },
    {
     "valor": "0,1%",
@@ -28125,7 +29036,7 @@
     "rotulo": "Redução de 25 bps"
    }
   ],
-  "destaque": "83,0%",
+  "destaque": "89,3%",
   "gancho": "*Decisão monetária* no *Canadá*",
   "entenda": "O Banco do Canadá é responsável por controlar a inflação e definir a política monetária do país, incluindo taxas de juros.",
   "categoria": "Previsões",
@@ -28140,7 +29051,7 @@
   "data": "2026-10-20",
   "status": "atualizada",
   "id": "2026-10-20-p2",
-  "atualizadoEm": "2026-10-22T11:41:47-03:00"
+  "atualizadoEm": "2026-10-27T21:44:25-03:00"
  },
  {
   "tipo": "sinal",

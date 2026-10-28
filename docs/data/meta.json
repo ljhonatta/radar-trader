@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-27T17:15:02-03:00",
+  "ultimaColeta": "2026-10-27T21:44:25-03:00",
   "novas": 7,
-  "atualizadas": 2,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "7 nova(s) e 2 atualizada(s): Mercado pós-eleições e Fed; Reeleição e tensão fiscal no mercado; Crédito Rural e Dívidas em MG.",
+  "mensagem": "7 nova(s) e 1 atualizada(s): Alta do ouro com Fed e petróleo; Shopee cresce 60% no Brasil; Saída de Flávio Bolsonaro.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-27T21:44:25-03:00",
    "2026-10-27T17:15:02-03:00",
    "2026-10-27T12:33:46-03:00",
    "2026-10-27T05:44:08-03:00",
@@ -18,38 +19,37 @@
    "2026-10-26T11:07:10-03:00",
    "2026-10-26T10:51:33-03:00",
    "2026-10-26T10:16:32-03:00",
-   "2026-10-26T09:01:19-03:00",
-   "2026-10-26T08:58:32-03:00"
+   "2026-10-26T09:01:19-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 9
+  "textosCompletos": 11
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "175.832",
-    "var": "-0,44%"
+    "v": "175.710",
+    "var": "-0,51%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,35",
-    "var": "-0,47%"
+    "var": "-0,03%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 5,95",
-    "var": "-0,86%"
+    "var": "-0,05%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
     "v": "US$ 80,7 mil",
-    "var": "+1,05%"
+    "var": "+0,68%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 114,09",
-    "var": "-1,49%"
+    "v": "US$ 114,45",
+    "var": "+0,50%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.074,10",
-    "var": "+0,88%"
+    "v": "US$ 4.076,10",
+    "var": "+0,04%"
    },
    {
     "k": "SELIC",
@@ -88,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "ter 17h",
+  "obs": "Fechamento",
+  "hora": "ter 21h",
   "data": "2026-10-27",
-  "atualizadoEm": "2026-10-27T17:15:02-03:00",
-  "ibov": "175.832",
-  "ibovVar": "-0,44%",
+  "atualizadoEm": "2026-10-27T21:44:25-03:00",
+  "ibov": "175.710",
+  "ibovVar": "-0,51%",
   "dolar": "R$ 5,35",
-  "dolarVar": "-0,47%",
+  "dolarVar": "-0,03%",
   "btc": "US$ 80,7 mil"
  }
 }
