@@ -1,15 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-29T13:25:48-03:00",
+  "ultimaColeta": "2026-10-29T17:36:32-03:00",
   "novas": 0,
   "atualizadas": 0,
   "status": "erro",
   "mensagem": "OpenAI sem resposta depois de 3 tentativas",
-  "falhas": [
-   "E-Investidor (HTTPError)"
-  ],
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-29T17:36:32-03:00",
    "2026-10-29T13:25:48-03:00",
    "2026-10-28T22:13:37-03:00",
    "2026-10-28T17:33:42-03:00",
@@ -20,8 +19,7 @@
    "2026-10-27T05:44:08-03:00",
    "2026-10-26T21:49:02-03:00",
    "2026-10-26T17:45:39-03:00",
-   "2026-10-26T13:19:21-03:00",
-   "2026-10-26T12:22:08-03:00"
+   "2026-10-26T13:19:21-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -32,50 +30,50 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "169.621",
-    "var": "-0,81%"
+    "v": "169.186",
+    "var": "-1,06%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,41",
-    "var": "+1,20%"
+    "v": "R$ 5,39",
+    "var": "+0,71%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,04",
-    "var": "+1,27%"
+    "v": "R$ 6,02",
+    "var": "+0,83%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 81,4 mil",
-    "var": "+1,20%"
+    "v": "US$ 79,9 mil",
+    "var": "-1,51%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.715",
-    "var": "-0,37%"
+    "v": "7.720",
+    "var": "-0,30%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "29.394",
-    "var": "-1,41%"
+    "v": "29.403",
+    "var": "-1,38%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 113,73",
-    "var": "-1,38%"
+    "v": "US$ 116,11",
+    "var": "+0,69%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.028,00",
-    "var": "-0,58%"
+    "v": "US$ 4.037,90",
+    "var": "-0,34%"
    },
    {
     "k": "SELIC",
@@ -90,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qui 13h",
+  "obs": "Fechamento",
+  "hora": "qui 17h",
   "data": "2026-10-29",
-  "atualizadoEm": "2026-10-29T13:25:48-03:00",
-  "ibov": "169.621",
-  "ibovVar": "-0,81%",
-  "dolar": "R$ 5,41",
-  "dolarVar": "+1,20%",
-  "btc": "US$ 81,4 mil"
+  "atualizadoEm": "2026-10-29T17:36:32-03:00",
+  "ibov": "169.186",
+  "ibovVar": "-1,06%",
+  "dolar": "R$ 5,39",
+  "dolarVar": "+0,71%",
+  "btc": "US$ 79,9 mil"
  }
 }
