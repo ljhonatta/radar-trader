@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-10-29T22:21:07-03:00",
+  "ultimaColeta": "2026-10-30T09:25:12-03:00",
   "novas": 0,
   "atualizadas": 0,
   "status": "erro",
   "mensagem": "OpenAI sem resposta depois de 3 tentativas",
   "falhas": [],
-  "manual": false,
+  "manual": true,
   "historico": [
+   "2026-10-30T09:25:12-03:00",
    "2026-10-29T22:21:07-03:00",
    "2026-10-29T17:36:32-03:00",
    "2026-10-29T13:25:48-03:00",
@@ -18,8 +19,7 @@
    "2026-10-27T17:15:02-03:00",
    "2026-10-27T12:33:46-03:00",
    "2026-10-27T05:44:08-03:00",
-   "2026-10-26T21:49:02-03:00",
-   "2026-10-26T17:45:39-03:00"
+   "2026-10-26T21:49:02-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -36,20 +36,20 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,39",
-    "var": "-0,02%"
+    "v": "R$ 5,40",
+    "var": "+0,28%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,04",
-    "var": "+0,25%"
+    "v": "R$ 6,06",
+    "var": "+0,57%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 77,0 mil",
-    "var": "-4,72%"
+    "v": "US$ 77,4 mil",
+    "var": "-3,26%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 115,60",
-    "var": "+0,63%"
+    "v": "US$ 117,52",
+    "var": "+2,30%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.012,30",
-    "var": "-0,47%"
+    "v": "US$ 3.969,40",
+    "var": "-1,54%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "qui 22h",
-  "data": "2026-10-29",
-  "atualizadoEm": "2026-10-29T22:21:07-03:00",
+  "hora": "sex 9h",
+  "data": "2026-10-30",
+  "atualizadoEm": "2026-10-30T09:25:12-03:00",
   "ibov": "169.186",
   "ibovVar": "-1,06%",
-  "dolar": "R$ 5,39",
-  "dolarVar": "-0,02%",
-  "btc": "US$ 77,0 mil"
+  "dolar": "R$ 5,40",
+  "dolarVar": "+0,28%",
+  "btc": "US$ 77,4 mil"
  }
 }
