@@ -1,5 +1,939 @@
 [
  {
+  "titulo": "Petróleo cai mais de 8% com avanço em negociações no Oriente Médio",
+  "resumo": "Os preços do petróleo Brent e WTI recuaram mais de 8% nesta segunda-feira (2) devido a avanços nas conversas entre Irã e Catar para encerrar a guerra no Oriente Médio. O Goldman Sachs alerta para riscos futuros e projeta barril a US$ 140 em 2027.",
+  "fatos": [
+   "Petróleo Brent caiu 8,23% na Intercontinental Exchange para US$ 104,09 por barril.",
+   "WTI recuou 7,92% na New York Mercantile Exchange para US$ 95,87 por barril.",
+   "Negociações entre Irã e Catar avançaram com proposta para encerrar conflito circulando.",
+   "Ministro iraniano Abbas Araqchi disse que as conversas estão progredindo.",
+   "Porta-voz iraniano comentou sobre possível reabertura do Estreito de Ormuz em 2 dias.",
+   "Goldman Sachs prevê preço do Brent em US$ 140 até 2027 em cenário de oferta baixa.",
+   "Produção do Golfo pode estar 3,5 milhões de barris/dia abaixo da média de 2025.",
+   "Presidente dos EUA, Donald Trump, mantém exigência contra armas nucleares iranianas.",
+   "Ataques a navios e danos à infraestrutura petrolífera permanecem riscos ao mercado."
+  ],
+  "explicacao": [
+   "Nesta segunda-feira (2), o petróleo registrou forte queda: Brent caiu 8,23%, chegando a US$ 104,09 por barril, e WTI recuou 7,92%, a US$ 95,87, refletindo o otimismo com as negociações diplomáticas.",
+   "O motivo da queda foi o avanço nas conversas entre representantes iranianos e mediadores catarianos para encerrar o conflito no Oriente Médio. Um rascunho de proposta está circulando, e há expectativa por nova reunião.",
+   "Essa movimentação diminui preocupações com o abastecimento, que tem sido afetado por conflitos e ataques na região, especialmente na rota pelo Estreito de Ormuz, crucial para transporte global de petróleo.",
+   "Apesar desta queda, o Goldman Sachs alerta que riscos persistem. Caso a produção do Golfo fique 3,5 milhões de barris por dia abaixo da média de 2025, o preço do Brent pode saltar a US$ 140 em 2027."
+  ],
+  "detalhes": [
+   "Queda nas cotações ocorreu nesta segunda-feira, dia 2 de novembro de 2026.",
+   "Brent negociado na ICE em Londres, WTI na Nymex em Nova York.",
+   "Mediação do Catar está central nas negociações entre Irã e Estados Unidos.",
+   "Estreito de Ormuz é rota marítima vital para esportação de petróleo.",
+   "Declarações fazem parte de tentativa de evitar conflito militar e buscar uma solução diplomática.",
+   "Golpe recente no preço da commodity vem após forte alta motivada por receios de guerra.",
+   "Perspectiva para o petróleo na B3 e para investidores globais está influenciada por estes fatores."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Abbas Araqchi, ministro das Relações Exteriores do Irã",
+    "oque": "As negociações estão progredindo e Teerã continuará diálogos com mediadores do Catar."
+   },
+   {
+    "quem": "Esmail Baghaei, porta-voz do Ministério das Relações Exteriores iraniano",
+    "oque": "Há plano de dois dias para reabrir o Estreito de Ormuz, condicionado a exigências dos EUA."
+   },
+   {
+    "quem": "Marco Rubio, secretário de Estado dos EUA",
+    "oque": "O presidente Trump prefere evitar uso da força militar e busca solução diplomática."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "1º de novembro de 2026",
+    "oque": "Ministro iraniano afirmou progresso nas conversas com mediação do Catar."
+   },
+   {
+    "quando": "2 de novembro de 2026, 15h40",
+    "oque": "Brent recuou 8,23%, WTI caiu 7,92% nas bolsas internacionais."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Brent",
+    "significado": "Referência global do petróleo extraído do Mar do Norte"
+   },
+   {
+    "termo": "WTI",
+    "significado": "West Texas Intermediate, referência americana para petróleo"
+   },
+   {
+    "termo": "Estreito de Ormuz",
+    "significado": "Canal marítimo estratégico para transporte de petróleo"
+   }
+  ],
+  "pergunta": "Você acredita que a diplomacia no Oriente Médio vai estabilizar os preços do petróleo?",
+  "tamanhoTexto": 14056,
+  "numeros": [
+   {
+    "valor": "8,23%",
+    "rotulo": "queda do preço do petróleo Brent hoje"
+   },
+   {
+    "valor": "7,92%",
+    "rotulo": "queda do preço do petróleo WTI hoje"
+   },
+   {
+    "valor": "US$ 104,09",
+    "rotulo": "preço do barril Brent nesta segunda"
+   },
+   {
+    "valor": "US$ 95,87",
+    "rotulo": "preço do barril WTI nesta segunda"
+   },
+   {
+    "valor": "US$ 140",
+    "rotulo": "previsão do Goldman Sachs para Brent em 2027"
+   },
+   {
+    "valor": "3,5 milhões",
+    "rotulo": "barris por dia abaixo da média de produção de 2025 no Golfo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "8,23% queda Brent",
+  "porQueImporta": "A queda do petróleo reflete a sensibilidade do mercado a conflitos geopolíticos, afetando custos globais de energia. Para quem opera ou investe em commodities, entender esses movimentos é crucial, pois instabilidades impactam desde preços até decisões de portfólio.",
+  "impactoMercado": "Com a redução do preço do petróleo, setores atrelados à energia podem ver variações em seus custos e receitas. A recuperação da oferta ou eventuais novos conflitos continuarão a afetar cotações e volatilidade, influenciando moedas, índices e commodities correlatas.",
+  "entenda": "O petróleo é uma commodity essencial para a economia mundial. Sua cotação no mercado futuro reflete quem opera aposta no preço futuro, influenciada por oferta, demanda, e fatores geopolíticos como guerras. Brent e WTI são referências globais com diferenças regionais.",
+  "observar": "Acompanhe possíveis reuniões futuras entre Irã e Catar e dados sobre produção no Golfo, além de decisões políticas dos EUA. Eventos geopolíticos e indicadores de estoque podem influenciar a cotação do petróleo e o mercado global.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia permite explorar como eventos geopolíticos impactam preços das commodities, fundamental para entender riscos e oportunidades no mercado financeiro e despertar interesse na formação completa oferecida pela faculdade de mercado financeiro.",
+  "gancho": "Queda do *Petróleo* com *Diplomacia*",
+  "ideias": [
+   "Como a guerra no Oriente Médio afeta o preço do petróleo?",
+   "Por que a queda do petróleo impacta o mercado financeiro?",
+   "Goldman Sachs: o que significa projeção de petróleo a US$ 140?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Seu Dinheiro; Money Times; CNN Brasil",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "url": "https://www.seudinheiro.com/2026/bolsa-dolar/petroleo-cai-mais-de-8-com-expectativa-de-tregua-na-guerra-do-oriente-medio-lils-cbcb/",
+  "publicadoEm": "2026-11-02T16:19:30-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-06"
+ },
+ {
+  "titulo": "Copom deve manter Selic em 13,75% até dezembro, diz Oby Capital",
+  "resumo": "Oby Capital prevê que o Banco Central manterá a Selic em 13,75% nas reuniões de novembro e dezembro, devido a pressões inflacionárias e cenário externo desafiador.",
+  "fatos": [
+   "Copom deve manter Selic em 13,75% nas reuniões de novembro e dezembro de 2026.",
+   "Em setembro, a Selic foi reduzida de 14% para 13,75% ao ano.",
+   "Petróleo acima de US$ 110 por barril e dólar perto de R$ 5,40 pressionam inflação.",
+   "Expectativa de inflação para 2027 está em cerca de 5,30%, acima da meta de 3%.",
+   "Mercado de trabalho aquecido e resistência dos preços no setor de serviços limitam cortes.",
+   "Gastos públicos previstos para 2027 incluem reajuste do Bolsa Família e ampliação do MEI.",
+   "Especialista Camilo Cavalcanti prevê pausa no ciclo de cortes para aguardar estabilidade."
+  ],
+  "explicacao": [
+   "O Comitê de Política Monetária (Copom) do Banco Central deve manter a taxa Selic em 13,75% ao ano nas reuniões de novembro e dezembro, segundo previsão da gestora Oby Capital. A decisão vem após o corte recente em setembro, quando a Selic foi reduzida de 14% para 13,75%.",
+   "As principais razões para a manutenção dos juros neste patamar são a piora das expectativas de inflação e o cenário externo difícil. O petróleo permanece acima de US$ 110 por barril e o dólar está em torno de R$ 5,40, fatores que elevam as pressões inflacionárias no Brasil.",
+   "Além disso, o mercado de trabalho está aquecido, e os preços no setor de serviços resistem, mantendo a inflação elevada. Gastos públicos previstos para 2027, como reajuste do Bolsa Família e ampliação do MEI, podem estimular o consumo, aumentando as pressões sobre os preços.",
+   "Diante dessas incertezas, o Banco Central deve adotar uma postura cautelosa e aguardar a estabilização dos preços antes de novas alterações na Selic, acompanhando a evolução do cenário econômico e da inflação nos próximos meses."
+  ],
+  "detalhes": [
+   "Quem: Comitê de Política Monetária (Copom) do Banco Central e Oby Capital.",
+   "Quanto: taxa Selic mantida em 13,75% ao ano.",
+   "Quando: reuniões em 3 e 4 de novembro e em dezembro de 2026.",
+   "Onde: decisões do Banco Central do Brasil, em Brasília.",
+   "Por que: piora das expectativas de inflação, petróleo e dólar elevados, mercado de trabalho aquecido.",
+   "Contexto: último corte foi em setembro, de 14% para 13,75%.",
+   "Impactos futuros: despesas públicas previstas para 2027 poderão pressionar consumo e inflação."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Camilo Cavalcanti, gestor de portfólio da Oby Capital",
+    "oque": "O Copom deve manter a Selic em 13,75% nas reuniões de novembro e dezembro, diante do cenário inflacionário e externo desafiador."
+   },
+   {
+    "quem": "Camilo Cavalcanti, gestor de portfólio da Oby Capital",
+    "oque": "A postura do Banco Central será cautelosa, aguardando estabilização dos preços antes de novos cortes."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "setembro de 2026",
+    "oque": "Copom reduziu a Selic de 14% para 13,75% ao ano."
+   },
+   {
+    "quando": "3 e 4 de novembro de",
+    "oque": "Próximas reuniões do Copom com expectativa de manutenção da Selic."
+   },
+   {
+    "quando": "dezembro de 2026",
+    "oque": "Reunião do Copom com provável manutenção da taxa Selic em 13,75%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros que influencia toda a economia brasileira."
+   },
+   {
+    "termo": "Copom",
+    "significado": "Comitê do Banco Central que define a taxa Selic."
+   },
+   {
+    "termo": "Inflação",
+    "significado": "Aumento geral dos preços que reduz o poder de compra."
+   }
+  ],
+  "pergunta": "Você acha que o Copom deve cortar ou manter a Selic em 2026?",
+  "tamanhoTexto": 5803,
+  "numeros": [
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic prevista para manutenção"
+   },
+   {
+    "valor": "14%",
+    "rotulo": "taxa Selic antes do corte em setembro"
+   },
+   {
+    "valor": "US$ 110",
+    "rotulo": "preço do barril de petróleo pressionando inflação"
+   },
+   {
+    "valor": "R$ 5,40",
+    "rotulo": "cotação do dólar que impacta preços"
+   },
+   {
+    "valor": "5,30%",
+    "rotulo": "projeção da inflação para 2027 pela Oby Capital"
+   },
+   {
+    "valor": "3%",
+    "rotulo": "meta oficial de inflação do Banco Central"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Selic",
+    "antes": "14%",
+    "depois": "13,75%"
+   }
+  ],
+  "destaque": "Selic em 13,75%",
+  "porQueImporta": "A expectativa de manutenção da taxa Selic em 13,75% até o final do ano indica que o Banco Central está cauteloso diante da inflação acima da meta e dos fatores externos como petróleo caro e dólar elevado. Isso afeta decisões de investimento e o custo do crédito para o investidor e operador no mercado financeiro.",
+  "impactoMercado": "A manutenção dos juros atrapalha cortes que poderiam estimular a economia, mantendo o custo do dinheiro elevado. Setores ligados ao crédito podem continuar pressionados, enquanto o câmbio e commodities afetam expectativas de inflação, influenciando ações, câmbio e investimentos em renda fixa.",
+  "entenda": "A Selic é a taxa básica de juros da economia, usada para controlar a inflação. Quando a inflação está alta, o Banco Central pode subir ou manter a taxa para conter os preços. O Copom é o comitê que define a Selic a cada reunião, influenciando empréstimos, investimentos e o mercado financeiro.",
+  "observar": "Fique de olho nas reuniões do Copom em novembro e dezembro, na divulgação dos índices de inflação e na variação do preço do petróleo e do dólar, que podem alterar a postura do Banco Central.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "Esta notícia ajuda a entender como fatores externos e internos influenciam a decisão do Banco Central sobre a Selic, tema essencial para quem quer aprender sobre política monetária e o impacto nos investimentos.",
+  "gancho": "*Selic* estabilizada até dezembro",
+  "ideias": [
+   "Por que o Copom deve manter a Selic em 13,75%?",
+   "Como petróleo e dólar pressionam a inflação e os juros?",
+   "O que significa Selic estável para o seu bolso?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "url": "https://bpmoney.com.br/mercado/copom-deve-manter-selic-em-1375-ate-dezembro-preve-oby-capital/",
+  "publicadoEm": "2026-11-02T13:59:24-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-07"
+ },
+ {
+  "titulo": "Ouro sobe quase 2% com recuo dos preços do petróleo e esperança de paz",
+  "resumo": "O ouro avançou 1,81% em Nova York, a US$ 3.969,60 por onça, devido ao otimismo com diálogo entre EUA e Irã. A prata também subiu 3,27%, enquanto o petróleo despencou mais de 8%, influenciado por perspectivas de fim de conflito no Oriente Médio.",
+  "fatos": [
+   "Ouro para dezembro subiu 1,81% em 2 de novembro de 2026.",
+   "Preço final do ouro na Comex ficou em US$ 3.969,60 por onça-troy.",
+   "Prata para dezembro avançou 3,27%, cotada a US$ 50,888 por onça-troy.",
+   "Preço do petróleo caiu mais de 8% após negociações entre Irã e Catar.",
+   "Planalto iraniano anunciou retomada de negociações nucleares condicionada a ações dos EUA.",
+   "Presidente Donald Trump mostrou abertura para diálogo, porém confirmou veto a armas nucleares para o Irã.",
+   "Mercado aguarda relatório de payroll dos EUA previsto para o fim de semana.",
+   "Especialistas esperam que relatório não altere política de juros do Fed em dezembro.",
+   "Preço do ouro sofreu queda recente abaixo de US$ 4.000 antes da recuperação atual."
+  ],
+  "explicacao": [
+   "Na segunda-feira (2), o ouro para dezembro fechou em alta de 1,81% a US$ 3.969,60 a onça-troy, revertendo perdas anteriores, impulsionado por sinais de diálogo entre EUA e Irã para reduzir tensões no Oriente Médio. A prata também valorizou 3,27%, a US$ 50,888.",
+   "O otimismo veio após o Irã anunciar um plano para reabrir o Estreito de Ormuz e retomar negociações nucleares, condicionado a ações de Washington. O presidente Trump indicou disposição para negociar, mas reafirmou que Teerã não pode ter armas nucleares.",
+   "Com a redução das tensões, o petróleo recuou mais de 8%, pressionando os preços para baixo. Essa queda beneficiou a recuperação dos ativos de risco, incluindo metais preciosos, que são considerados refúgios em incertezas geopolíticas.",
+   "Investidores seguem atentos ao relatório de emprego dos EUA (payroll) que será divulgado no fim da semana. Especialistas indicam que o resultado dificilmente modificará a política monetária do Fed em dezembro, a não ser que seja muito negativo, mantendo a atenção sobre os juros."
+  ],
+  "detalhes": [
+   "A alta do ouro aconteceu na bolsa Comex, em Nova York, em 2 de novembro de 2026.",
+   "O aumento do preço do ouro está ligado à expectativa de acordo entre Irã e EUA.",
+   "O recuo do petróleo de mais de 8% pressiona os preços e influencia o movimento do ouro.",
+   "A prata acompanha a alta do ouro com valorização de 3,27% no mesmo dia.",
+   "O Estreito de Ormuz está previsto para reabertura, facilitando comércio e diminuindo tensão regional.",
+   "O presidente Trump condicionou negociações à ausência de armas nucleares pelo Irã.",
+   "O Fed deve manter a política monetária, a menos que o payroll surpreenda negativamente."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Esmail Baghaei, porta-voz da chancelaria do Irã",
+    "oque": "Mencionou plano de dois dias para reabrir Estreito de Ormuz e restabelecer negociações nucleares."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Demonstrou disposição para diálogo, mas reafirmou que Teerã não pode ter armas nucleares."
+   },
+   {
+    "quem": "Analista da Forex.com",
+    "oque": "Explicou que a queda do petróleo favoreceu a recuperação dos metais preciosos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2 de novembro de 2026",
+    "oque": "Ouro e prata fecham em forte alta em Nova York."
+   },
+   {
+    "quando": "semana anterior a 2/11/2026",
+    "oque": "Ouro cai abaixo de US$ 4.000 por onça-troy."
+   },
+   {
+    "quando": "2 de novembro de 2026",
+    "oque": "Irã anuncia plano para reabrir Estreito de Ormuz e retomar negociações nucleares."
+   },
+   {
+    "quando": "fim da semana de 2/11/2026",
+    "oque": "Divulgação do relatório de emprego (payroll) dos EUA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "onça-troy",
+    "significado": "Unidade de medida usada para metais preciosos, equivalente a 31,1 gramas."
+   },
+   {
+    "termo": "payroll",
+    "significado": "Relatório mensal do mercado de trabalho americano, base para decisões do Fed."
+   },
+   {
+    "termo": "Fed",
+    "significado": "Banco Central dos Estados Unidos que define a política monetária do país."
+   }
+  ],
+  "pergunta": "Você acha que a retomada do diálogo entre EUA e Irã vai estabilizar os preços do ouro?",
+  "tamanhoTexto": 9317,
+  "numeros": [
+   {
+    "valor": "1,81%",
+    "rotulo": "alta do ouro em 2 de novembro"
+   },
+   {
+    "valor": "US$ 3.969,60",
+    "rotulo": "preço do ouro por onça-troy em 2 de novembro"
+   },
+   {
+    "valor": "3,27%",
+    "rotulo": "alta da prata em 2 de novembro"
+   },
+   {
+    "valor": "US$ 50,888",
+    "rotulo": "preço da prata por onça-troy em 2 de novembro"
+   },
+   {
+    "valor": "8%",
+    "rotulo": "queda dos preços do petróleo (percentual aproximado)"
+   },
+   {
+    "valor": "2 dias",
+    "rotulo": "duração do plano para reabrir Estreito de Ormuz"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,81% alta do",
+  "porQueImporta": "Essa alta do ouro reflete a sensibilidade do mercado financeiro a tensões geopolíticas e decisões de política monetária. Entender como eventos externos, como negociações diplomáticas e dados econômicos, influenciam o preço dos metais preciosos é fundamental para quem opera ou quer começar a investir.",
+  "impactoMercado": "Com a queda do petróleo e a expectativa de redução das tensões, ativos considerados de risco podem se valorizar, enquanto os juros americanos e o payroll mantêm investidores atentos sobre a trajetória do Federal Reserve, que pode afetar o apetite pelo ouro e prata.",
+  "entenda": "O ouro é um metal precioso usado como proteção contra crises e inflação. Seu preço pode subir em períodos de incerteza geopolítica. O payroll é um índice mensal de emprego nos EUA que influencia decisões do Fed sobre juros. Taxas de juros maiores tornam o ouro menos atrativo.",
+  "observar": "Fique atento à divulgação do payroll no fim da semana, pois pode influenciar a decisão do Fed sobre juros e impactar o preço do ouro e outros ativos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia mostra como acontecimentos geopolíticos e indicadores econômicos afetam o mercado de metais preciosos, despertando o interesse por entender fatores que influenciam preços e a política monetária ao operar ou estudar mercado financeiro.",
+  "gancho": "*Ouro* sobe com *petróleo* e *tensão*",
+  "ideias": [
+   "Como o conflito no Oriente Médio afeta o preço do ouro?",
+   "O que o payroll dos EUA tem a ver com a cotação do ouro?",
+   "Por que o ouro é uma proteção em tempos de tensão geopolítica?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "grafico",
+  "fonte": "Money Times; Times Brasil; InfoMoney",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "url": "https://www.moneytimes.com.br/ouro-2-11-26-lils/",
+  "publicadoEm": "2026-11-02T16:00:52-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-08"
+ },
+ {
+  "titulo": "Grécia compra até seis aviões KC-390 da Embraer e fortalece presença na Otan",
+  "resumo": "Grécia vai adquirir até seis aviões KC-390 da Embraer, sendo três de imediato e três via Portugal. O país será o oitavo membro da Otan na Europa a operar essa aeronave.",
+  "fatos": [
+   "Anúncio da compra feito em 2 de novembro de 2026.",
+   "Grécia comprará inicialmente três aviões e tem opção por mais três via Portugal.",
+   "Portugal já recebeu quatro KC-390 de seis encomendados.",
+   "Lucro estimado para Portugal com repasse: R$ 180 milhões.",
+   "Valor total da operação conjunta: R$ 3,6 bilhões.",
+   "Capacidade do KC-390: até 26 toneladas, motor a jato, com reabastecimento aéreo.",
+   "Grécia opera atualmente 15 aviões C-130 Hércules com capacidade de 19 toneladas.",
+   "KC-390 vendido para oito países da Otan na Europa.",
+   "Grécia aprovou plano de gastos militares de R$ 135 bilhões em 12 anos.",
+   "As tensões na Ucrânia e no Mediterrâneo aceleram gastos militares."
+  ],
+  "explicacao": [
+   "O governo grego anunciou a compra de até seis aviões de transporte KC-390 Millennium da Embraer, com três unidades adquiridas diretamente e outras três via Portugal, que já recebeu quatro aviões desse modelo. A Grécia é o nono país europeu e oitavo integrante da Otan a escolher o KC-390.",
+   "O acordo conjunto com Portugal permite uma entrega mais rápida, já que as aeronaves serão repassadas pelo país à Grécia, com uma operação que envolve cerca de R$ 3,6 bilhões e um lucro estimado em R$ 180 milhões para Lisboa.",
+   "Esse negócio substitui o uso das antigas aeronaves C-130 Hércules, utilizadas pela Grécia desde a década de 1950, por uma versão mais moderna com dois motores a jato e capacidade de levar até 26 toneladas, além de oferecer reabastecimento aéreo.",
+   "A demanda global por reforço militar, estimulada por tensões geopolíticas na Europa e Oriente Médio, impulsiona vendas do KC-390, que já foi exportado para vários países. Para a Grécia, as aquisições são parte de um plano de gastos militares de R$ 135 bilhões em 12 anos."
+  ],
+  "detalhes": [
+   "Grécia assinou acordo conjunto com Portugal para compra e repasse das aeronaves.",
+   "A entrega do primeiro KC-390 para Grécia será em 2027.",
+   "KC-390 é mais moderno que o C-130 Hércules, usado desde os anos 50.",
+   "KC-390 tem capacidade de reabastecimento aéreo, diferencial frente ao Hércules.",
+   "A Instabilidade geopolítica reforça necessidade de modernização militar europeia.",
+   "Guerra na Ucrânia e tensões turco-gregas influenciam aceleração dos investimentos.",
+   "Embraer mira também mercados dos EUA e Índia com o KC-390."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministério da Defesa grego",
+    "oque": "Destaca que a compra conjunta com Portugal acelera a entrega dos aviões."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2008",
+    "oque": "Pedido inicial da FAB para desenvolver o KC-390."
+   },
+   {
+    "quando": "2019",
+    "oque": "Primeira entrega do KC-390 à Força Aérea Brasileira."
+   },
+   {
+    "quando": "2 de novembro de 2026",
+    "oque": "Grécia anuncia compra de até seis KC-390 da Embraer."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "KC-390",
+    "significado": "Avião brasileiro de transporte e reabastecimento militar."
+   },
+   {
+    "termo": "C-130 Hércules",
+    "significado": "Avião americano turboélice usado em transporte militar desde os anos 1950."
+   },
+   {
+    "termo": "Otan",
+    "significado": "Organização do Tratado do Atlântico Norte, aliança militar internacional."
+   }
+  ],
+  "pergunta": "Você sabia que a Grécia vai modernizar sua frota aérea com aviões brasileiros?",
+  "tamanhoTexto": 4486,
+  "numeros": [
+   {
+    "valor": "6",
+    "rotulo": "máximo de aviões KC-390 a serem adquiridos pela Grécia"
+   },
+   {
+    "valor": "3",
+    "rotulo": "aviões comprados pela Grécia diretamente no acordo inicial"
+   },
+   {
+    "valor": "4",
+    "rotulo": "unidades já entregues a Portugal"
+   },
+   {
+    "valor": "26 toneladas",
+    "rotulo": "capacidade máxima de carga do KC-390"
+   },
+   {
+    "valor": "19 toneladas",
+    "rotulo": "capacidade do C-130 Hércules atualmente em uso pela Grécia"
+   },
+   {
+    "valor": "R$ 3,6 bilhões",
+    "rotulo": "valor total do negócio conjunto entre Portugal e Grécia"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "até seis aviões",
+  "porQueImporta": "Essa compra evidencia o crescimento das vendas do KC-390 no mercado europeu militar em contexto de rearmamento global e mudanças geopolíticas. Para quem opera ou investe, indica a força da Embraer em um setor estratégico e seu impacto em futuros contratos e desenvolvimento tecnológico.",
+  "impactoMercado": "O aumento das aquisições do KC-390 pela Grécia e demais países da Otan reforça a demanda por tecnologia militar nacional brasileira, potencializando exportações e parcerias internacionais. Esse movimento pode influenciar agentes do setor de defesa, fabricantes e fornecedores ligados à Embraer.",
+  "entenda": "O KC-390 é um avião de transporte militar desenvolvido pela Embraer com capacidade para cargas pesadas e reabastecimento aéreo. Ele substitui modelos antigos como o C-130 Hércules, trazendo mais eficiência e tecnologia para as forças armadas, especialmente em países que buscam modernizar seu parque aéreo.",
+  "observar": "Acompanhe entregas do KC-390 para Grécia em 2027, evolução do programa conjunto com Portugal e novos contratos internacionais da Embraer no setor de defesa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Mostrar como a Embraer conquista mercados militares internacionais com o KC-390, demonstrando oportunidades e desafios do setor de defesa brasileiro para quem quer entender o mercado global.",
+  "gancho": "KC-390 *Embraer* na *Otan*",
+  "ideias": [
+   "Como o KC-390 da Embraer conquista a Europa militar",
+   "Entenda a parceria Brasil-Portugal na venda do KC-390 para Grécia",
+   "Por que a Grécia está renovando sua frota aérea com o KC-390"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/grecia-e-o-8o-pais-da-otan-a-comprar-aviao-de-transporte-da-embraer.shtml",
+  "publicadoEm": "2026-11-02T11:21:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-09"
+ },
+ {
+  "titulo": "Escassez de chips paralisa produção da Fiat na Itália até dezembro",
+  "resumo": "A Stellantis enfrenta interrupção significativa na produção da Fiat na Itália por falta de chip. A situação deve durar até dezembro, afetando modelos como o Fiat Pandina e o 500.",
+  "fatos": [
+   "A escassez do chip foi anunciada em 2 de novembro de 2026 pela Stellantis.",
+   "A produção da Fiat foi interrompida especialmente em modelos como o Fiat Pandina e o Fiat 500.",
+   "Fábricas afetadas: Pomigliano, Mirafiori e Termoli, todas na Itália.",
+   "A paralisação em Mirafiori começou em meados de outubro e dura três semanas.",
+   "O motor N3 GSE, usado no Pandina e no 500, é montado na fábrica de Termoli.",
+   "Os sindicatos citaram baixa demanda do Fiat 500 como causa da paralisação em Mirafiori.",
+   "A escassez pode se estender até novembro e dezembro de 2026.",
+   "Stellantis atua prioritariamente na busca de soluções para normalizar produção."
+  ],
+  "explicacao": [
+   "A montadora Stellantis informou que a escassez de um componente eletrônico, um chip usado na unidade de controle do motor, está causando uma interrupção significativa na produção de alguns modelos da Fiat, principalmente na Itália, desde outubro de 2026.",
+   "Essa falta do chip afeta especialmente o Fiat Pandina, um dos modelos mais vendidos da marca, e pode resultar em paralisações nas fábricas de Pomigliano, Mirafiori e Termoli durante novembro e dezembro.",
+   "A paralisação na fábrica de Mirafiori, onde o Fiat 500 é produzido, já dura três semanas devido a outra escassez de componentes, com a fraca demanda sendo apontada pelos sindicatos como um fator adicional.",
+   "A Stellantis e a Fiat estão buscando com urgência soluções alternativas para normalizar a produção gradualmente, mas ainda não há previsão de retorno total das operações."
+  ],
+  "detalhes": [
+   "A escassez envolve componente eletrônico da unidade de controle do motor.",
+   "Pomigliano fabrica o Fiat Pandina, modelo mais afetado nas vendas de outubro.",
+   "Mirafiori é a fábrica do Fiat 500, com paralisação atual por três semanas.",
+   "Termoli monta motor N3 GSE utilizado nos modelos Fiat afetados.",
+   "A escassez começou a impactar vendas ainda em outubro de 2026.",
+   "Sindicatos relacionam baixa demanda do 500 à paralisação em Mirafiori.",
+   "A crise pode afetar a produção e vendas até o fim de 2026."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Stellantis",
+    "oque": "Trabalha com máxima prioridade para encontrar soluções alternativas à escassez"
+   },
+   {
+    "quem": "Sindicatos da fábrica de Mirafiori",
+    "oque": "Apontam baixa demanda do Fiat 500 como um dos motivos da paralisação"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Impacto inicial da escassez nas vendas, especialmente do Fiat Pandina"
+   },
+   {
+    "quando": "Meados de outubro de 2026",
+    "oque": "Começo da paralisação de três semanas em Mirafiori"
+   },
+   {
+    "quando": "2 de novembro de 2026",
+    "oque": "Stellantis divulga oficialmente a escassez e seu impacto na produção"
+   },
+   {
+    "quando": "Novembro a dezembro de 2026",
+    "oque": "Previsão da continuidade da crise e possíveis novas paralisações"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Unidade de controle do motor",
+    "significado": "Computador que gerencia funções do motor no carro"
+   },
+   {
+    "termo": "Chip",
+    "significado": "Pequeno componente eletrônico que executa funções específicas"
+   }
+  ],
+  "pergunta": "Como você acha que a escassez de componentes impacta o mercado automotivo?",
+  "tamanhoTexto": 2910,
+  "numeros": [
+   {
+    "valor": "3 semanas",
+    "rotulo": "duração da paralisação em Mirafiori iniciada em outubro"
+   },
+   {
+    "valor": "novembro e dezembro",
+    "rotulo": "período estimado da escassez e interrupções na produção"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "escassez de chip",
+  "porQueImporta": "A escassez de chips na produção automotiva mostra como problemas na cadeia global podem impactar fábricas e vendas. Para investidores e operadores, isso sinaliza riscos em setores industriais altamente dependentes de componentes eletrônicos.",
+  "impactoMercado": "A interrupção na produção afeta diretamente a oferta de veículos Fiat, que pode impactar receitas da Stellantis e lucratividade. Isso também pode influenciar ações do setor automotivo e fornecedores industriais no mercado.",
+  "entenda": "A escassez de chips refere-se à falta de peças eletrônicas essenciais para veículos modernos, como módulos de controle do motor. Sem esses componentes, fábricas precisam reduzir ou parar produção, afetando oferta e vendas.",
+  "observar": "Acompanhe anúncios da Stellantis sobre soluções e atualizações na produção em Pomigliano, Mirafiori e Termoli nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia exemplifica as conexões entre cadeia de suprimentos e produção industrial, essencial para quem opera e quer entender o mercado financeiro e ações relacionadas a empresas globais como a Stellantis.",
+  "gancho": "Crise de *chips* na Fiat",
+  "ideias": [
+   "Como a escassez de chips afeta a produção automotiva?",
+   "Impacto da crise de componentes no mercado financeiro",
+   "Fábricas italianas da Fiat e os desafios da cadeia global"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/02/escassez-de-chips-na-stellantis-interrompe-producao-da-fiat-na-italia-e-pode-se-estender-ate-dezembro.ghtml",
+  "publicadoEm": "2026-11-02T11:59:08-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-10"
+ },
+ {
+  "titulo": "Novo decreto obriga atendimento humano obrigatório no SAC das empresas",
+  "resumo": "Regras que entram em vigor em 2 de outubro garantem atendimento humano das 8h às 20h e limitam tempo de espera no SAC de setores regulados.",
+  "fatos": [
+   "Decreto vigente desde 2 de outubro de 2023.",
+   "Atendimento humano obrigatório das 8h às 20h, todos os dias.",
+   "Setores abrangidos: telecomunicações, energia elétrica, aviação e instituições financeiras, incluindo fintechs.",
+   "Tempo máximo para atender 80% das chamadas: 20 segundos.",
+   "Demais chamadas devem ser atendidas em até cinco minutos.",
+   "Proibida publicidade em qualquer momento do atendimento.",
+   "Menus automáticos limitados a cinco níveis.",
+   "Ligação interrompida deve ser retornada em até cinco minutos.",
+   "Cancelamento deve ser aceito em todos os canais, com efeito imediato.",
+   "Gravações de atendimento devem ser mantidas por pelo menos 90 dias."
+  ],
+  "explicacao": [
+   "A partir de 2 de outubro, um novo decreto passa a exigir que empresas de telecomunicações, energia elétrica, aviação e instituições financeiras ofereçam atendimento humano das 8h às 20h, sete dias por semana, tanto por telefone quanto por canais eletrônicos.",
+   "O decreto, publicado em 13 de outubro, substitui regras anteriores de 2022 e visa garantir que o consumidor não dependa exclusivamente de menus automáticos ou robôs para resolver problemas, permitindo que a transferência para atendente seja sempre uma opção.",
+   "Além disso, o tempo de espera no telefone passou a ter limite: 80% das chamadas devem ser atendidas em até 20 segundos e o restante, em até cinco minutos. Também foi proibido fazer qualquer publicidade durante o atendimento, inclusive na espera.",
+   "O decreto ainda determina que chamadas interrompidas sejam retomadas em até cinco minutos, com continuidade das informações já fornecidas, e que o cancelamento de serviços seja imediato em todos os canais, com exceções técnicas justificadas."
+  ],
+  "detalhes": [
+   "Decreto publicado no Diário Oficial da União em 13 de outubro de 2023.",
+   "Consumidor não pode ser obrigado a fornecer dados pessoais antes de falar com atendente.",
+   "Atendimento humano deve ser imediato em casos urgentes com risco ao consumidor, como fraudes.",
+   "Opção de cancelar serviço deve estar disponível em todos os níveis do menu.",
+   "Empresas devem informar multas por fidelidade e custos no cancelamento.",
+   "Suspensão de cobranças indevidas deve ser concluída em até 48 horas.",
+   "Atendimento por canais eletrônicos complementa o telefone e deve funcionar das 8h às 20h."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "13 de outubro de 2023",
+    "oque": "Decreto publicado no Diário Oficial da União."
+   },
+   {
+    "quando": "2 de outubro de 2023",
+    "oque": "Entram em vigor as novas regras do SAC."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "SAC",
+    "significado": "Serviço de Atendimento ao Consumidor, canal para suporte e reclamações."
+   },
+   {
+    "termo": "Decreto",
+    "significado": "Norma legal que estabelece regras obrigatórias para empresas."
+   },
+   {
+    "termo": "Menu automático",
+    "significado": "Sistema eletrônico que direciona chamadas sem atendimento humano."
+   }
+  ],
+  "pergunta": "Você já precisou falar diretamente com um atendente no SAC? Como foi a experiência?",
+  "tamanhoTexto": 8842,
+  "numeros": [
+   {
+    "valor": "8h às 20h",
+    "rotulo": "Período mínimo de atendimento humano diário"
+   },
+   {
+    "valor": "80%",
+    "rotulo": "Chamadas atendidas em até 20 segundos"
+   },
+   {
+    "valor": "5 minutos",
+    "rotulo": "Prazo máximo para atendimento nas chamadas restantes"
+   },
+   {
+    "valor": "5 níveis",
+    "rotulo": "Limite máximo de níveis em menu automático"
+   },
+   {
+    "valor": "5 minutos",
+    "rotulo": "Tempo para retorno após queda de ligação"
+   },
+   {
+    "valor": "48 horas",
+    "rotulo": "Prazo para suspensão de cobranças indevidas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "atendimento humano das",
+  "porQueImporta": "A nova regra garante atendimento humano eficaz no SAC, melhorando a experiência do consumidor e reduzindo frustrações com sistemas automáticos, um passo essencial para quem opera e investe em empresas dos setores regulados.",
+  "impactoMercado": "Para investidores, mudanças nas operações de atendimento podem aumentar custos e esforços das empresas dos setores regulados, impactando potencialmente a reputação e satisfação do cliente, aspectos importantes para a confiança e avaliação desses negócios.",
+  "entenda": "O SAC (Serviço de Atendimento ao Consumidor) é o canal onde clientes buscam suporte. O decreto exige atendimento humano em horários ampliados, limitando o uso de menus automáticos e reduzindo o tempo de espera para agilizar a resolução dos problemas.",
+  "observar": "Fique atento à adaptação das empresas às novas regras, especialmente as próximas avaliações das agências reguladoras e possíveis fiscalizações que podem ajustar ainda mais os padrões do atendimento ao consumidor.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Essa notícia ajuda a entender mudanças regulatórias que influenciam o trato das empresas com seus clientes, mostrando como o mercado e os investidores devem ficar atentos ao impacto operacional dessas obrigações.",
+  "gancho": "*SAC* humano obrigatório",
+  "ideias": [
+   "Novo SAC: Fim das longas esperas?",
+   "Como o decreto vai mudar o atendimento ao consumidor",
+   "SAC humano: benefícios e desafios para empresas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "grafico",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/fim-da-secretaria-eletronica-empresas-terao-de-oferecer-atendimento-humano-obrigatorio-no-sac-veja-o-que-muda-sama/",
+  "publicadoEm": "2026-11-02T14:00:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-11"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "another-fed-rate-hike-in-2026",
+  "titulo": "Mercado de previsões vê 74,5% de chance de nova alta",
+  "resumo": "Apostadores acreditam que haverá um novo aumento de juros pelo Fed em 2026, com probabilidade de 74,5%.",
+  "probs": [
+   {
+    "opcao": "Sim",
+    "prob": 74.5
+   },
+   {
+    "opcao": "Não",
+    "prob": 25.5
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 21 mil",
+  "fatos": [
+   "Sim: 74,5%",
+   "Não: 25,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "74,5%",
+    "rotulo": "Sim"
+   },
+   {
+    "valor": "25,5%",
+    "rotulo": "Não"
+   }
+  ],
+  "destaque": "74,5%",
+  "gancho": "*Nova alta* no horizonte",
+  "entenda": "A probabilidade de um novo aumento na taxa de juros sugere que a política monetária poderá permanecer restritiva, impactando o mercado financeiro.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+  "publicadoEm": "2026-11-02T16:48:19-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "data": "2026-11-02",
+  "status": "nova",
+  "id": "2026-11-02-p5"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bank-of-mexico-decision-in-november",
+  "titulo": "Mercado de previsões vê 86% de chance de manutenção dos juros",
+  "resumo": "Apostadores projetam que o Banco do México não mudará a taxa de juros em novembro, com 86% de chance.",
+  "probs": [
+   {
+    "opcao": "Sem alteração",
+    "prob": 86.0
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 12.9
+   },
+   {
+    "opcao": "Redução de 50+ bps",
+    "prob": 0.1
+   },
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2026-11-05",
+  "volume24h": "US$ 35 mil",
+  "fatos": [
+   "Sem alteração: 86,0%",
+   "Redução de 25 bps: 12,9%",
+   "Redução de 50+ bps: 0,1%",
+   "Aumento de 25 bps: 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "86,0%",
+    "rotulo": "Sem alteração"
+   },
+   {
+    "valor": "12,9%",
+    "rotulo": "Redução de 25 bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Aumento de 25 bps"
+   }
+  ],
+  "destaque": "86,0%",
+  "gancho": "*Taxa estável* em vista",
+  "entenda": "O consenso de que o Banco do México deve manter os juros aponta para uma perspectiva de estabilidade econômica no país.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bank-of-mexico-decision-in-november",
+  "publicadoEm": "2026-11-02T16:48:19-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "data": "2026-11-02",
+  "status": "nova",
+  "id": "2026-11-02-p6"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-low-will-5-year-treasury-yield-get-before-2027",
+  "titulo": "Mercado de previsões vê 97,2% de chance de rendimento abaixo de 4,70%",
+  "resumo": "Apostadores acreditam que o rendimento dos títulos do Tesouro de 5 anos ficará abaixo de 4,70% até o final de 2026.",
+  "probs": [
+   {
+    "opcao": "Abaixo de 4,70%",
+    "prob": 97.2
+   },
+   {
+    "opcao": "Abaixo de 4,65%",
+    "prob": 81.5
+   },
+   {
+    "opcao": "Abaixo de 4,60%",
+    "prob": 67.5
+   },
+   {
+    "opcao": "Abaixo de 4,55%",
+    "prob": 62.0
+   }
+  ],
+  "prazo": "2026-12-31",
+  "volume24h": "US$ 20 mil",
+  "fatos": [
+   "Abaixo de 4,70%: 97,2%",
+   "Abaixo de 4,65%: 81,5%",
+   "Abaixo de 4,60%: 67,5%",
+   "Abaixo de 4,55%: 62,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "97,2%",
+    "rotulo": "Abaixo de 4,70%"
+   },
+   {
+    "valor": "81,5%",
+    "rotulo": "Abaixo de 4,65%"
+   },
+   {
+    "valor": "67,5%",
+    "rotulo": "Abaixo de 4,60%"
+   },
+   {
+    "valor": "62,0%",
+    "rotulo": "Abaixo de 4,55%"
+   }
+  ],
+  "destaque": "97,2%",
+  "gancho": "*Rendimentos* em queda",
+  "entenda": "As apostas indicam que o rendimento dos títulos deve continuar a cair, o que pode afetar a atratividade de investimentos em renda fixa.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-low-will-5-year-treasury-yield-get-before-2027",
+  "publicadoEm": "2026-11-02T16:48:19-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-02T16:48:19-03:00",
+  "data": "2026-11-02",
+  "status": "nova",
+  "id": "2026-11-02-p7"
+ },
+ {
   "titulo": "Petrobras eleva preço do querosene de aviação em 7,2% para novembro",
   "resumo": "A Petrobras aumenta o preço do querosene de aviação em 7,2%, ou R$ 0,45/litro, a partir de 1º de novembro, puxada por tensões no Oriente Médio e menor refino na Rússia e Ucrânia.",
   "fatos": [
