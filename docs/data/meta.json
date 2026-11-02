@@ -1,13 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-01T22:01:52-03:00",
-  "novas": 0,
-  "atualizadas": 0,
-  "status": "erro",
-  "mensagem": "OpenAI sem resposta depois de 3 tentativas",
-  "falhas": [],
-  "manual": false,
+  "ultimaColeta": "2026-11-02T07:38:05-03:00",
+  "novas": 9,
+  "atualizadas": 1,
+  "status": "ok",
+  "mensagem": "9 nova(s) e 1 atualizada(s): QAV pesa nos custos aéreos; Juros altos até 2028; Midterms e impactos no mercado.",
+  "falhas": [
+   "Sem cotação confiável: Dólar comercial"
+  ],
+  "manual": true,
   "historico": [
+   "2026-11-02T07:38:05-03:00",
    "2026-11-01T22:01:52-03:00",
    "2026-11-01T16:53:49-03:00",
    "2026-11-01T13:25:21-03:00",
@@ -18,12 +21,11 @@
    "2026-10-30T17:08:46-03:00",
    "2026-10-30T13:15:29-03:00",
    "2026-10-30T09:25:12-03:00",
-   "2026-10-29T22:21:07-03:00",
-   "2026-10-29T17:36:32-03:00"
+   "2026-10-29T22:21:07-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 0
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
@@ -34,28 +36,22 @@
     "var": "-0,75%"
    },
    {
-    "k": "USD",
-    "nome": "Dólar comercial",
-    "v": "R$ 5,44",
-    "var": "-0,06%"
-   },
-   {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,07",
-    "var": "-0,43%"
+    "v": "R$ 6,10",
+    "var": "+0,46%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 78,1 mil",
-    "var": "+0,67%"
+    "v": "US$ 78,0 mil",
+    "var": "-0,01%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.580",
-    "var": "-0,57%"
+    "var": "-1,82%"
    },
    {
     "k": "NDX",
@@ -72,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.910,80",
-    "var": "+0,31%"
+    "v": "US$ 3.905,10",
+    "var": "+0,16%"
    },
    {
     "k": "SELIC",
@@ -89,13 +85,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 22h",
-  "data": "2026-11-01",
-  "atualizadoEm": "2026-11-01T22:01:52-03:00",
+  "hora": "seg 7h",
+  "data": "2026-11-02",
+  "atualizadoEm": "2026-11-02T07:38:05-03:00",
   "ibov": "167.922",
   "ibovVar": "-0,75%",
-  "dolar": "R$ 5,44",
-  "dolarVar": "-0,06%",
-  "btc": "US$ 78,1 mil"
+  "dolar": "",
+  "dolarVar": "",
+  "btc": "US$ 78,0 mil"
  }
 }
