@@ -1,5 +1,693 @@
 [
  {
+  "titulo": "Apple registra lucro recorde e supera projeções no 4º trimestre fiscal",
+  "resumo": "No 4º trimestre fiscal encerrado em setembro, Apple teve lucro de US$ 30,7 bi, alta de 11,8%, e receita de US$ 114,5 bi, acima das previsões.",
+  "fatos": [
+   "Lucro líquido do 4º trimestre: US$ 30,711 bilhões, alta de 11,8% ante 2025.",
+   "Lucro por ação diluído subiu de US$ 1,85 para US$ 2,10, acima da expectativa de US$ 1,99.",
+   "Receita no 4º trimestre atingiu US$ 114,477 bilhões, 11,7% maior que no ano anterior.",
+   "Vendas de iPhones somaram US$ 57,583 bilhões, aumento de 17,5% e recorde para setembro.",
+   "Receita de serviços foi US$ 31,573 bilhões, crescimento de 9,8%, abaixo da expectativa de 10,3%.",
+   "Vendas de Macs cresceram 23,7%, revenue de US$ 10,792 bilhões.",
+   "Receita da China subiu 21%, para US$ 17,539 bilhões.",
+   "Margem bruta ficou em 47,9%, com benefício de cerca de 1 ponto percentual por restituição de tarifas.",
+   "Dividendos anunciados de US$ 0,27 por ação, pagamento em 16 de novembro.",
+   "Ações oscilaram após balanço, fechando com leve alta de 0,09% no after hours."
+  ],
+  "explicacao": [
+   "A Apple divulgou seu balanço do quarto trimestre fiscal de 2026, encerrado em 26 de setembro, com lucro líquido de US$ 30,711 bilhões, um aumento de 11,8% em relação ao mesmo período do ano anterior. A receita somou US$ 114,477 bilhões, crescendo 11,7%, superando as estimativas dos analistas.",
+   "O crescimento foi impulsionado principalmente pelas vendas da linha iPhone, que atingiram US$ 57,583 bilhões, alta de 17,5% e recorde para um trimestre de setembro. A receita da divisão de serviços também teve desempenho forte, alcançando US$ 31,573 bilhões, embora um pouco abaixo do esperado.",
+   "Os resultados refletem o lançamento de novos produtos, como o iPhone Duo dobrável e geração atualizada de dispositivos para casa. Além disso, houve recuperação significativa nas vendas regionais, especialmente na Grande China, com alta de 21% em receita para US$ 17,5 bilhões.",
+   "Para o próximo trimestre, a Apple indicou crescimento moderado, com atenção especial ao desempenho do iPhone Duo e continuação da renovação da linha Mac e iPad, destacando nova geração de computadores e tablets planejada para o início de 2027."
+  ],
+  "detalhes": [
+   "O ano fiscal da Apple totalizou receita de US$ 478,834 bilhões, aumentando de US$ 416,161 bilhões em 2025.",
+   "O CEO John Ternus, que assumiu em 1º de setembro, afirmou que 2026 foi o melhor ano fiscal da história da empresa.",
+   "O lançamento do iPhone Duo dobrável ocorreu em 23 de outubro, já no próximo trimestre fiscal.",
+   "As vendas de iPads caíram 10,4%, para US$ 6,229 bilhões, abaixo das expectativas.",
+   "Dispositivos vestíveis, casa e acessórios tiveram queda de 7,9% na receita trimestral, para US$ 8,3 bilhões.",
+   "A margem bruta de 47,9% inclui um ganho não recorrente de 1 ponto percentual por restituição de tarifas de importação.",
+   "No trimestre, a Apple gerou US$ 28 bilhões em caixa operacional e devolveu o mesmo valor aos acionistas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "John Ternus, CEO da Apple",
+    "oque": "Resultado representa o melhor ano fiscal da história da empresa, com novos lançamentos importantes."
+   },
+   {
+    "quem": "Gabriela Moraes, analista da São Pedro Capital",
+    "oque": "Margem bruta melhorou apesar da crise global de escassez de chips e custos de memória."
+   },
+   {
+    "quem": "Gabriela Moraes, analista da São Pedro Capital",
+    "oque": "Crescimento da linha de serviços ficou abaixo da expectativa, importante para rentabilidade."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de setembro de 2026",
+    "oque": "Encerramento do quarto trimestre fiscal da Apple."
+   },
+   {
+    "quando": "1º de setembro de 2026",
+    "oque": "John Ternus assume como CEO da Apple."
+   },
+   {
+    "quando": "23 de outubro de 2026",
+    "oque": "Lançamento do iPhone Duo dobrável."
+   },
+   {
+    "quando": "16 de novembro de 2026",
+    "oque": "Pagamento do dividendo anunciado aos acionistas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido",
+    "significado": "O dinheiro que sobra após todas as despesas e impostos."
+   },
+   {
+    "termo": "Margem bruta",
+    "significado": "Percentual de receita que sobra depois dos custos de produção."
+   },
+   {
+    "termo": "Receita",
+    "significado": "Todo o dinheiro recebido com vendas e serviços."
+   }
+  ],
+  "pergunta": "Você acha que os lançamentos da Apple vão continuar impulsionando receitas em 2027?",
+  "tamanhoTexto": 9577,
+  "numeros": [
+   {
+    "valor": "30,711",
+    "rotulo": "Lucro líquido em US$ bilhões no 4º trimestre"
+   },
+   {
+    "valor": "114,477",
+    "rotulo": "Receita em US$ bilhões no 4º trimestre"
+   },
+   {
+    "valor": "57,583",
+    "rotulo": "Receita da linha iPhone em US$ bilhões"
+   },
+   {
+    "valor": "31,573",
+    "rotulo": "Receita da divisão de serviços em US$ bilhões"
+   },
+   {
+    "valor": "21",
+    "rotulo": "Crescimento da receita na China em %"
+   },
+   {
+    "valor": "47,9",
+    "rotulo": "Margem bruta da Apple em %"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "US$ 27,466 bilhões (4º tri. 2025)",
+    "depois": "US$ 30,711 bilhões (4º tri. 2026)"
+   },
+   {
+    "item": "Receita total anual",
+    "antes": "US$ 416,161 bilhões (2025)",
+    "depois": "US$ 478,834 bilhões (2026)"
+   },
+   {
+    "item": "Receita iPhone",
+    "antes": "Não informado diretamente",
+    "depois": "US$ 57,583 bilhões (4º tri. 2026)"
+   }
+  ],
+  "destaque": "US$ 30,7 bilhões",
+  "porQueImporta": "A superação das projeções mostra a força da Apple mesmo em cenário de desafios globais, impactando a confiança dos investidores na empresa e setores de tecnologia. Para operadores e investidores, é um indicativo da capacidade da empresa de inovar e manter suas receitas em alta, especialmente por iPhone e serviços.",
+  "impactoMercado": "Com lucro e receita acima do esperado, a ação da Apple pode apresentar maior volatilidade, mas tende a refletir a confiança em seu portfólio diversificado. Setores de tecnologia, dispositivos móveis e serviços digitais podem ser observados, assim como o impacto da performance em regiões como China no balanço global.",
+  "entenda": "O lucro líquido é o resultado final da empresa após todos os custos e impostos. A margem bruta indica a eficiência da produção. O quarto trimestre fiscal encerra um ano contábil diferente do ano civil, e os resultados trimestrais influenciam o preço das ações no mercado.",
+  "observar": "Acompanhe os resultados do próximo trimestre, especialmente vendas do iPhone Duo dobrável, lançamentos de MacBook Neo e novos iPads, além da resposta do mercado a essas novidades.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "A notícia explica resultados detalhados da Apple, mostrando como volume de vendas, lançamento de produtos e serviços impactam receitas e lucro — um conteúdo relevante para quem quer entender como eventos empresariais influenciam o mercado financeiro.",
+  "gancho": "*Apple* bate recorde fiscal* lucro* receita",
+  "ideias": [
+   "Como o iPhone impulsionou a receita da Apple em 2026",
+   "Entenda o impacto da margem bruta na lucratividade da Apple",
+   "Apple e o papel dos serviços na estratégia de crescimento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Estadão Economia; Valor Econômico; InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:13:25-03:00",
+  "url": "https://www.estadao.com.br/economia/negocios/apple-supera-projecoes-de-lucro-e-receita-com-melhor-ano-fiscal-da-historia/",
+  "publicadoEm": "2026-11-02T19:57:28-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-12"
+ },
+ {
+  "titulo": "Trump admite indultos preventivos e promete vetar propostas democratas",
+  "resumo": "Donald Trump afirmou que pode conceder indultos preventivos a aliados para protegê-los de investigações democratas. Também prometeu barrar propostas da oposição se perder o controle do Congresso nas eleições de meio de mandato em 3 de novembro de 2026.",
+  "fatos": [
+   "Donald Trump falou sobre indultos preventivos em 2 de novembro de 2026.",
+   "Entrevista concedida ao podcast Pod Force One.",
+   "Promessa de veto a propostas democratas caso perca o Congresso.",
+   "Eleição legislativa marcada para 3 de novembro de 2026.",
+   "Aprovação de Trump próxima do mínimo histórico, em 32%.",
+   "Democratas lideram intenção de voto para o Congresso com 46%.",
+   "Republicanos possuem 38% na pesquisa de voto genérico.",
+   "Margem de erro da pesquisa Reuters/Ipsos é de 2 pontos percentuais.",
+   "Metade dos eleitores independentes pretende votar contra Trump.",
+   "Trump afirmou ter concedido indultos a envolvidos na invasão do Capitólio."
+  ],
+  "explicacao": [
+   "O presidente dos Estados Unidos, Donald Trump, declarou em 2 de novembro de 2026 que poderá conceder indultos preventivos a integrantes de seu governo para protegê-los de possíveis investigações lideradas por democratas. Ele citou como exemplo os indultos dados por Joe Biden antes de deixar a presidência.",
+   "Trump afirmou que adotaria esta estratégia para proteger sua equipe, inclusive mencionando ter feito isso para envolvidos na invasão do Capitólio em 2021. Ele fez essa declaração durante entrevista ao podcast Pod Force One, às vésperas das eleições legislativas de meio de mandato em 3 de novembro.",
+   "Essa postura reforça o clima tenso e polarizado das eleições nos EUA, em que Trump também prometeu vetar propostas democratas caso perca o controle do Congresso. Pesquisas indicam que sua aprovação está próxima da mínima histórica, e metade dos eleitores independentes pretende usar seu voto para se opor a ele.",
+   "Com o resultado apertado das pesquisas — com democratas liderando por 8 pontos, menor vantagem que a semana anterior — o impacto político pode influenciar decisões sobre o controle do Senado e da Câmara, afetando negociações futuras que podem incidir sobre o mercado americano."
+  ],
+  "detalhes": [
+   "Trump compara sua possível concessão de indultos à estratégia usada por Joe Biden.",
+   "Indultos preventivos visam proteger aliados de investigações democratas.",
+   "Pesquisa Reuters/Ipsos ouviu 1.765 adultos nos EUA por internet.",
+   "A pesquisa mostra vantagem democrata de 8 pontos, menor que a de 11 pontos de uma semana antes.",
+   "A votação determina o controle do Senado e da Câmara dos EUA.",
+   "Trump tem aprovação estável entre 31% e 32%, próximo da mínima histórica.",
+   "A declaração ocorre um dia antes da eleição legislativa dos EUA em 3 de novembro de 2026."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Declarou que fará indultos preventivos a aliados se for necessário."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Prometeu barrar propostas democratas se perder o controle do Congresso."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Disse ter feito indultos a envolvidos na invasão do Capitólio em 2021."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "02/11/2026",
+    "oque": "Trump declara possibilidade de indultos preventivos."
+   },
+   {
+    "quando": "03/11/2026",
+    "oque": "Eleições legislativas de meio de mandato nos EUA."
+   },
+   {
+    "quando": "últimas semanas",
+    "oque": "Aprovação de Trump manteve-se próxima a 31-32%."
+   },
+   {
+    "quando": "última semana antes da eleição",
+    "oque": "Vantagem dos democratas caiu de 11 para 8 pontos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Indulto Preventivo",
+    "significado": "Perdão legal concedido antes de qualquer condenação formal."
+   },
+   {
+    "termo": "Eleições de meio de mandato",
+    "significado": "Votação para Congresso, realizada no meio do mandato presidencial."
+   },
+   {
+    "termo": "Voto genérico",
+    "significado": "Pesquisa que mede preferência partidária sem candidato específico."
+   }
+  ],
+  "pergunta": "Você acha que indultos preventivos impactam a confiança no mercado financeiro?",
+  "tamanhoTexto": 9332,
+  "numeros": [
+   {
+    "valor": "32%",
+    "rotulo": "Aprovação do presidente Trump em novembro de 2026"
+   },
+   {
+    "valor": "46%",
+    "rotulo": "Intenção de voto em democratas para o Congresso"
+   },
+   {
+    "valor": "38%",
+    "rotulo": "Intenção de voto em republicanos para o Congresso"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "Eleitores independentes que querem votar contra Trump"
+   },
+   {
+    "valor": "11 pontos",
+    "rotulo": "Vantagem dos democratas uma semana antes da eleição"
+   },
+   {
+    "valor": "8 pontos",
+    "rotulo": "Vantagem dos democratas uma semana da eleição"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Aprovação de Trump",
+    "antes": "31%",
+    "depois": "32%"
+   },
+   {
+    "item": "Vantagem democrata na pesquisa",
+    "antes": "11 pontos",
+    "depois": "8 pontos"
+   }
+  ],
+  "destaque": "Trump pode conceder",
+  "porQueImporta": "Para investidores e traders, entender o cenário político que envolve Trump é fundamental, pois medidas presidenciais e o controle do Congresso influenciam a estabilidade política e econômica dos Estados Unidos, afetando mercados domésticos e globais.",
+  "impactoMercado": "As tensões políticas e incertezas das eleições podem gerar volatilidade nos mercados americanos, afetando setores sensíveis a decisões do governo, como defesa, tecnologia e comércio internacional, além de influenciar o dólar e políticas fiscais.",
+  "entenda": "Indulto preventivo é uma medida presidencial que perdoa crimes antes mesmo que investigações ou processos legais ocorram, protegendo aliados políticos de punições jurídicas. Nas eleições legislativas, o controle do Congresso define o poder de aprovação de leis e políticas públicas.",
+  "observar": "Acompanhe o resultado das eleições em 3 de novembro de 2026, o controle do Senado e da Câmara, e repercussões das declarações sobre indultos para entender possíveis mudanças no cenário político e no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia traz um contexto político que afeta o ambiente econômico e financeiro, motivando o entendimento sobre o impacto das eleições e decisões presidenciais em ativos e mercados.",
+  "gancho": "*Trump* e *indultos* em jogo",
+  "ideias": [
+   "O que são indultos preventivos e por que Trump fala deles?",
+   "Eleições EUA 2026: cenário político e mercado financeiro",
+   "Como a aprovação de Trump afeta a Bolsa e os investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Times Brasil; BP Money; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:13:25-03:00",
+  "url": "https://timesbrasil.com.br/mundo/trump-admite-conceder-indultos-preventivos-a-aliados-e-promete-vetar-propostas-de-democratas/",
+  "publicadoEm": "2026-11-02T19:16:38-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-13"
+ },
+ {
+  "titulo": "Ibovespa estende pregão até 17h55 a partir de 3 de novembro",
+  "resumo": "B3 altera horários do pregão após fim do horário de verão nos EUA. Mercado acionário terá negociação regular das 10h às 17h55.",
+  "fatos": [
+   "B3 ajustou horários a partir de 3 de novembro de 2026.",
+   "Pregão regular de ações mudou para das 10h às 17h55.",
+   "Call de fechamento agora ocorre das 17h55 às 18h.",
+   "Mudança feita após fim do horário de verão nos EUA.",
+   "Ajustes para contratos europeus vigentes desde 26 de outubro.",
+   "Contratos futuros de DAX e Euro Stoxx 50 têm negociação até as 13h20 e sessão estendida até 18h.",
+   "Horários específicos para opções, BDRs, ETFs e derivativos também alterados.",
+   "B3 afirmou que mudanças aumentam sincronia e eficiência na formação de preços.",
+   "Grades horárias detalhadas no Ofício Circular 050/2026-VNC e site da B3."
+  ],
+  "explicacao": [
+   "A B3, Bolsa de Valores brasileira, mudou seus horários de negociação a partir de terça-feira, 3 de novembro de 2026. O pregão regular do mercado de ações passa a ser das 10h às 17h55, com call de fechamento das 17h55 às 18h. Isso vale para ações, opções, BDRs, ETFs e outros.",
+   "A alteração aconteceu devido ao fim do horário de verão nos Estados Unidos, buscando manter o alinhamento com os principais mercados internacionais. Ajustes similares já tinham sido feitos para contratos ligados a mercados europeus em 26 de outubro, após mudanças na Alemanha e Inglaterra.",
+   "Essas mudanças garantem sincronia entre os horários da B3 e os mercados globais, facilitando operações conjuntas e contribuindo para uma formação de preços mais eficiente no mercado brasileiro.",
+   "Agora os investidores e traders devem se adaptar aos novos horários, pois eles influenciam o momento das operações e das decisões durante o dia. A B3 divulgou todas as grades horárias completas em documentos oficiais para consulta detalhada."
+  ],
+  "detalhes": [
+   "Quem: B3, Bolsa de Valores do Brasil.",
+   "Quando: mudanças valem a partir de terça-feira, 3 de novembro de 2026.",
+   "Por que: fim do horário de verão nos Estados Unidos e alinhamento global.",
+   "Para quais: ações, opções, BDRs, ETFs e derivativos.",
+   "Horário do pregão regular: das 10h às 17h55, com call de fechamento até 18h.",
+   "Contratos europeus tiveram ajuste em 26 de outubro.",
+   "Informações completas disponíveis no Ofício Circular 050/2026-VNC."
+  ],
+  "declaracoes": [
+   {
+    "quem": "B3, em nota oficial",
+    "oque": "Mudanças buscam alinhamento com mercados internacionais para eficiência e sincronia."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Ajustes nos horários para contratos europeus na B3 entram em vigor."
+   },
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Novo horário do pregão regular da B3 passa a valer."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Call de fechamento",
+    "significado": "período final do pregão para balanço de ordens e definição de preço"
+   },
+   {
+    "termo": "BDRs",
+    "significado": "Recibos de ações estrangeiras negociados no Brasil"
+   }
+  ],
+  "pergunta": "Você já se preparou para o novo horário de pregão da B3?",
+  "tamanhoTexto": 2179,
+  "numeros": [
+   {
+    "valor": "10h às 17h55",
+    "rotulo": "novo horário do pregão regular de ações"
+   },
+   {
+    "valor": "17h55 às 18h",
+    "rotulo": "horário do call de fechamento"
+   },
+   {
+    "valor": "26 de outubro de 2026",
+    "rotulo": "início das mudanças para contratos europeus"
+   },
+   {
+    "valor": "3 de novembro de 2026",
+    "rotulo": "início das mudanças para mercado brasileiro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "horário do pregão regular",
+    "antes": "até 17h",
+    "depois": "até 17h55"
+   }
+  ],
+  "destaque": "pregão até 17h55",
+  "porQueImporta": "A extensão do horário do pregão valoriza a sincronia com mercados internacionais, melhorando a fluidez das operações e a formação de preços. Para quem opera, entender essa mudança é essencial para ajuste de estratégias e escolha dos melhores momentos para negociar.",
+  "impactoMercado": "Essa alteração pode aumentar a liquidez e o volume de negociações no período estendido, especialmente para ações, derivativos e ETFs. Também melhora a conexão com os mercados internacionais, o que pode influenciar a volatilidade e o movimento dos ativos.",
+  "entenda": "O pregão da bolsa é o período em que é possível comprar e vender ativos como ações e derivativos. Com o fim do horário de verão nos EUA, a B3 ajustou seus horários para manter o mercado alinhado ao internacional, otimizando as operações e a formação dos preços dos ativos.",
+  "observar": "Observe os próximos dias para se adaptar aos novos horários; consulte o Ofício Circular 050/2026-VNC para detalhes específicos dos diferentes produtos antes de operar.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicar as mudanças de horário mostra para o público como o mercado financeiro internacional influencia a bolsa nacional e o quanto é importante conhecer operações e horários para negociar melhor.",
+  "gancho": "*Ibovespa* Novo Horário",
+  "ideias": [
+   "Como funciona o novo horário do pregão na B3?",
+   "Impactos da extensão do pregão até 17h55 para traders",
+   "Por que a B3 mudou o horário por causa do horário de verão EUA?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "relogio",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:13:25-03:00",
+  "url": "https://exame.com/invest/mercados/ibovespa-tem-novo-horario-de-negociacao-a-partir-desta-semana/",
+  "publicadoEm": "2026-11-02T10:20:57-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-14"
+ },
+ {
+  "titulo": "Mercado Bitcoin suspende saques após ataque hacker de US$ 40 mi",
+  "resumo": "Mercado Bitcoin confirmou ataque hacker que levou cerca de US$ 40 milhões. Depósitos e saques estão suspensos para proteger clientes e ativos.",
+  "fatos": [
+   "O ataque aconteceu na madrugada de 2 de novembro de 2026.",
+   "Foram roubados aproximadamente US$ 40 milhões em criptomoedas.",
+   "As operações de depósitos e saques foram suspensas temporariamente pelo Mercado Bitcoin.",
+   "O incidente envolveu pelo menos 10 diferentes redes de blockchain, como Bitcoin, Ethereum e Solana.",
+   "Ninguém teve prejuízo direto confirmado, segundo a empresa.",
+   "A corretora compartilhou endereços das carteiras usadas nos saques para ajudar no rastreamento.",
+   "A stablecoin USDT teve mais de 4,5 milhões congelados relacionados ao ataque.",
+   "O ataque ocorreu por meio de transferências simples, sem exploração de contratos inteligentes.",
+   "Os sistemas da corretora ficaram parcialmente fora do ar, incluindo o app.",
+   "O Mercado Bitcoin está colaborando com as autoridades para investigação."
+  ],
+  "explicacao": [
+   "O Mercado Bitcoin, uma das maiores corretoras de criptomoedas do Brasil, identificou na madrugada de 2 de novembro de 2026 um incidente de segurança. A empresa confirmou que houve acesso não autorizado e suspendeu temporariamente depósitos e saques para proteção.",
+   "Segundo investigações preliminares da empresa Hypernative, cerca de US$ 40 milhões foram transferidos de carteiras da corretora para endereços suspeitos em mais de 10 redes blockchain, incluindo Bitcoin, Ethereum e Solana. A empresa ressaltou que não houve prejuízo direto aos clientes nem vazamento de dados.",
+   "Como resposta, o Mercado Bitcoin mobilizou suas equipes para rastrear os ativos roubados e coordena ações com autoridades. A empresa compartilhou os endereços das carteiras usadas nas movimentações suspeitas para auxiliar no rastreamento dos fundos.",
+   "O ocorrido evidencia os riscos na custódia de ativos em corretoras centralizadas e reforça a importância da segurança digital. O Mercado Bitcoin segue investigando a origem do ataque e ainda não informou prazo para retomada dos saques e depósitos."
+  ],
+  "detalhes": [
+   "O ataque foi identificado pela corretora e monitorado pela empresa de segurança Hypernative.",
+   "A transferência dos valores suspeitos começou por volta das 02h15 UTC (23h15 horário de Brasília).",
+   "Foram envolvidos cerca de 106 bitcoins, 2.852 ethers, 10,7 mil solanas, entre outros tokens.",
+   "O valor roubado supera R$ 217 milhões considerando a cotação do dólar na data.",
+   "A corretora afirmou que não houve vazamento de dados pessoais dos clientes.",
+   "A Tether congelou mais de 4,5 milhões de USDT ligados ao incidente.",
+   "Especialistas apontam que falhas em processos internos podem estar na causa do ataque."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Mercado Bitcoin (em comunicado no X)",
+    "oque": "Confirmou o acesso não autorizado e informou que não houve prejuízo a clientes."
+   },
+   {
+    "quem": "Paolo Ardoino, CEO da Tether",
+    "oque": "Anunciou o congelamento de mais de 4,5 milhões de USDTs relacionados ao ataque."
+   },
+   {
+    "quem": "Leonardo Maximiliano, CEO da DominiPay",
+    "oque": "Comentou que corretoras são alvos por concentrarem ativos e acessos valiosos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2 de novembro de 2026, madrugada",
+    "oque": "Mercado Bitcoin identifica ataque hacker e suspende depósitos e saques."
+   },
+   {
+    "quando": "23h15 do dia 1 de novembro",
+    "oque": "Início das transferências suspeitas, segundo relatório da Hypernative."
+   },
+   {
+    "quando": "2 de novembro de 2026, manhã",
+    "oque": "Mercado Bitcoin divulga comunicado à imprensa e clientes sobre o incidente."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Exchange",
+    "significado": "Plataforma para comprar e vender criptomoedas."
+   },
+   {
+    "termo": "Carteira digital",
+    "significado": "Local onde se armazenam criptomoedas eletronicamente."
+   },
+   {
+    "termo": "Ataque hacker",
+    "significado": "Acesso não autorizado para roubar ou danificar dados ou fundos."
+   }
+  ],
+  "pergunta": "Você sabe como proteger seu investimento em criptomoedas contra ataques?",
+  "tamanhoTexto": 10747,
+  "numeros": [
+   {
+    "valor": "40 milhões",
+    "rotulo": "Estimativa do valor roubado em dólares"
+   },
+   {
+    "valor": "106",
+    "rotulo": "Quantidade de bitcoins levados"
+   },
+   {
+    "valor": "2.852",
+    "rotulo": "Quantidade de ethers levados"
+   },
+   {
+    "valor": "10.700",
+    "rotulo": "Quantidade de solanas levadas"
+   },
+   {
+    "valor": "4,5 milhões",
+    "rotulo": "USDTs congelados pela Tether"
+   },
+   {
+    "valor": "2h15 UTC",
+    "rotulo": "Hora inicial do ataque detectado"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 40 milhões",
+  "porQueImporta": "O ataque ao Mercado Bitcoin expõe vulnerabilidades em corretoras de cripto, afetando a segurança dos ativos do investidor. Quem opera precisa entender riscos da custódia digital e a importância de medidas protetivas para blindar seus recursos.",
+  "impactoMercado": "A suspensão temporária de saques e depósitos altera a liquidez e a confiança no mercado cripto nacional. Setores relacionados à segurança digital ganham atenção, e investidores podem migrar para soluções com controle pessoal dos ativos.",
+  "entenda": "O Mercado Bitcoin é uma exchange, plataforma que facilita compra e venda de criptomoedas. Ataques hackers podem resultar em perda ou bloqueio de fundos. Por isso, segurança digital, como autenticação em dois fatores, é fundamental para proteger operações.",
+  "observar": "Acompanhe as atualizações do Mercado Bitcoin e medidas das autoridades para restabelecer operações e recuperar ativos. Fique atento aos relatos sobre prazos para retomada dos saques e novas ações de segurança.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entenda com clareza o que aconteceu no Mercado Bitcoin para aprender sobre riscos e segurança no mercado cripto, reforçando a importância de uma educação sólida em finanças e tecnologia.",
+  "gancho": "Ataque hacker no *Mercado Bitcoin*",
+  "ideias": [
+   "O que fazer se sua corretora sofrer ataque hacker?",
+   "Segurança em criptomoedas: como se proteger na prática",
+   "Entenda o impacto do roubo de US$ 40 milhões no Mercado Bitcoin"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "escudo",
+  "fonte": "Valor Econômico; InvestNews; Livecoins (cripto)",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:13:25-03:00",
+  "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/11/02/mercado-bitcoin-suspende-depsitos-e-saques-por-incidente-de-segurana.ghtml",
+  "publicadoEm": "2026-11-02T17:20:16-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-15"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-in-november-2026",
+  "titulo": "Mercado de previsões vê 86.5% de chance de Ethereum a 2,300 em novembro",
+  "resumo": "A maioria dos apostadores acredita que o preço do Ethereum alcançará 2,300 até dezembro de 2026.",
+  "probs": [
+   {
+    "opcao": "↑ 2,300",
+    "prob": 86.5
+   },
+   {
+    "opcao": "↓ 2,200",
+    "prob": 86.0
+   },
+   {
+    "opcao": "↑ 2,400",
+    "prob": 62.5
+   },
+   {
+    "opcao": "↓ 2,100",
+    "prob": 61.5
+   }
+  ],
+  "prazo": "2026-12-01",
+  "volume24h": "US$ 266 mil",
+  "fatos": [
+   "↑ 2,300: 86,5%",
+   "↓ 2,200: 86,0%",
+   "↑ 2,400: 62,5%",
+   "↓ 2,100: 61,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "86,5%",
+    "rotulo": "↑ 2,300"
+   },
+   {
+    "valor": "86,0%",
+    "rotulo": "↓ 2,200"
+   },
+   {
+    "valor": "62,5%",
+    "rotulo": "↑ 2,400"
+   },
+   {
+    "valor": "61,5%",
+    "rotulo": "↓ 2,100"
+   }
+  ],
+  "destaque": "86,5%",
+  "gancho": "*Expectativa alta* para Ethereum",
+  "entenda": "Os preços das criptomoedas como Ethereum são altamente voláteis e influenciados por tendências de mercado e sentimento geral.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-november-2026",
+  "publicadoEm": "2026-11-02T20:13:25-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-02T20:13:25-03:00",
+  "data": "2026-11-02",
+  "status": "nova",
+  "id": "2026-11-02-p8"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-in-november-2026",
+  "titulo": "Mercado de previsões vê 91.1% de chance de Bitcoin a 77,500 em novembro",
+  "resumo": "Os apostadores estão muito confiantes de que o preço do Bitcoin vai atingir 77,500 até dezembro de 2026.",
+  "probs": [
+   {
+    "opcao": "↑ 77,500",
+    "prob": 91.1
+   },
+   {
+    "opcao": "↓ 75,000",
+    "prob": 77.5
+   },
+   {
+    "opcao": "↑ 80,000",
+    "prob": 70.5
+   },
+   {
+    "opcao": "↓ 72,500",
+    "prob": 56.5
+   }
+  ],
+  "prazo": "2026-12-01",
+  "volume24h": "US$ 1,6 mi",
+  "fatos": [
+   "↑ 77,500: 91,1%",
+   "↓ 75,000: 77,5%",
+   "↑ 80,000: 70,5%",
+   "↓ 72,500: 56,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "91,1%",
+    "rotulo": "↑ 77,500"
+   },
+   {
+    "valor": "77,5%",
+    "rotulo": "↓ 75,000"
+   },
+   {
+    "valor": "70,5%",
+    "rotulo": "↑ 80,000"
+   },
+   {
+    "valor": "56,5%",
+    "rotulo": "↓ 72,500"
+   }
+  ],
+  "destaque": "91,1%",
+  "gancho": "*Otimismo* nas apostas sobre Bitcoin",
+  "entenda": "As expectativas dos preços do Bitcoin refletem a confiança do mercado em sua valorização futura, embora as criptos sejam notoriamente voláteis.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-november-2026",
+  "publicadoEm": "2026-11-02T20:13:25-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-02T20:13:25-03:00",
+  "data": "2026-11-02",
+  "status": "nova",
+  "id": "2026-11-02-p9"
+ },
+ {
   "titulo": "Petróleo cai mais de 8% com avanço em negociações no Oriente Médio",
   "resumo": "Os preços do petróleo Brent e WTI recuaram mais de 8% nesta segunda-feira (2) devido a avanços nas conversas entre Irã e Catar para encerrar a guerra no Oriente Médio. O Goldman Sachs alerta para riscos futuros e projeta barril a US$ 140 em 2027.",
   "fatos": [
