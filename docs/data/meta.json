@@ -1,15 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-02T20:13:25-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-03T00:03:53-03:00",
+  "novas": 15,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 nova(s): Apple bate recorde fiscal lucro receita; Trump e indultos em jogo; Ibovespa Novo Horário.",
-  "falhas": [
-   "Sem cotação confiável: Dólar comercial, Euro"
-  ],
+  "mensagem": "15 nova(s): Selic em pausa por risco político; Selic em debate: riscos e propostas; Mercado, autoritarismo e Lula.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-03T00:03:53-03:00",
    "2026-11-02T20:13:25-03:00",
    "2026-11-02T16:48:19-03:00",
    "2026-11-02T07:38:05-03:00",
@@ -20,12 +19,11 @@
    "2026-10-31T16:32:47-03:00",
    "2026-10-31T12:30:15-03:00",
    "2026-10-30T22:03:02-03:00",
-   "2026-10-30T17:08:46-03:00",
-   "2026-10-30T13:15:29-03:00"
+   "2026-10-30T17:08:46-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 6
+  "textosCompletos": 21
  },
  "placar": {
   "itens": [
@@ -36,10 +34,22 @@
     "var": "-0,75%"
    },
    {
+    "k": "USD",
+    "nome": "Dólar comercial",
+    "v": "R$ 5,44",
+    "var": ""
+   },
+   {
+    "k": "EUR",
+    "nome": "Euro",
+    "v": "R$ 6,08",
+    "var": "-0,06%"
+   },
+   {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 76,7 mil",
-    "var": "-1,69%"
+    "v": "US$ 76,6 mil",
+    "var": "-2,21%"
    },
    {
     "k": "SPX",
@@ -62,8 +72,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.958,30",
-    "var": "-0,28%"
+    "v": "US$ 3.959,30",
+    "var": "-0,26%"
    },
    {
     "k": "SELIC",
@@ -79,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "seg 20h",
-  "data": "2026-11-02",
-  "atualizadoEm": "2026-11-02T20:13:25-03:00",
+  "hora": "ter 0h",
+  "data": "2026-11-03",
+  "atualizadoEm": "2026-11-03T00:03:53-03:00",
   "ibov": "167.922",
   "ibovVar": "-0,75%",
-  "dolar": "",
+  "dolar": "R$ 5,44",
   "dolarVar": "",
-  "btc": "US$ 76,7 mil"
+  "btc": "US$ 76,6 mil"
  }
 }
