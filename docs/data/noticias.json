@@ -1,5 +1,1397 @@
 [
  {
+  "titulo": "Itaú rebaixa recomendação da bolsa brasileira para neutra após eleição Lula",
+  "resumo": "Itaú Unibanco reduziu a indicação para ações brasileiras de otimista para neutra com dólar em alta e juros mais altos, reforçando diversificação externa e títulos de inflação curtos.",
+  "fatos": [
+   "Itaú alterou recomendação de ações brasileiras de otimista para neutra.",
+   "Escala de sentimento do banco vai de -3 a +3; neutra representa normalidade.",
+   "Brasileiros aplicam em média apenas 2% do patrimônio em ativos internacionais.",
+   "Alocação tática no exterior varia de 3% (conservador) a 35% (agressivo).",
+   "Preferência por títulos de inflação de curto prazo como o IMA-B 5.",
+   "Títulos do Tesouro americano rendem cerca de 5,25% ao ano em dólar.",
+   "Ações dos EUA mantêm visão favorável pelo Itaú.",
+   "Alta dos juros futuros eleva custo de financiamento e pressiona ações.",
+   "Itaú recomenda ajustes graduais na carteira sem decisões por impulso.",
+   "XP também rebaixou recomendação da bolsa para neutra, prevendo 200 mil pontos no Ibovespa em 2027."
+  ],
+  "explicacao": [
+   "Após a reeleição de Lula em 2026, o Itaú Unibanco observou reação do mercado com dólar em alta e juros futuros subindo. Por isso, o banco reduziu sua recomendação para ações brasileiras de otimista para neutra em sua escala interna, indicando postura cautelosa, não pessimismo.",
+   "Essa decisão foi motivada pelo aumento dos juros que elevam o custo de capital, reduzindo múltiplos das empresas, e a possível desaceleração econômica que pode pressionar lucros, fatores que pressionam a Bolsa brasileira.",
+   "O banco reforçou a importância da diversificação no exterior por conta do viés doméstico dos investidores, que aplicam em média apenas 2% no exterior. A recomendação para exposição externa varia de 3% a 35%, conforme perfil de risco.",
+   "Itaú também sinalizou preferência por títulos de renda fixa atrelados à inflação com vencimentos mais curtos, usando como referência o IMA-B 5, e avalia positivamente ações dos Estados Unidos e títulos do Tesouro americano com retorno próximo a 5,25% ao ano em dólar."
+  ],
+  "detalhes": [
+   "Reação do mercado após eleição de Lula em 2026 levou Itaú a rever recomendações.",
+   "Martin Iglesias é responsável pelas recomendações de investimentos do Itaú.",
+   "Juros futuros subiram, aumentando custo de capital para empresas brasileiras.",
+   "Investidores brasileiros mostram viés doméstico na alocação de patrimônio.",
+   "Diversificação internacional recomendada pelo Itaú busca proteção e oportunidades.",
+   "Títulos prefixados têm recomendação cautelosa por risco inflacionário.",
+   "Ouro usado como diversificação, mas não como aposta central no longo prazo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Martin Iglesias, líder de recomendações do Itaú Unibanco",
+    "oque": "Neutro não é pessimismo, é normalidade em relação às ações brasileiras."
+   },
+   {
+    "quem": "Martin Iglesias, líder de recomendações do Itaú Unibanco",
+    "oque": "Investidores que tinham exposição internacional sofreram menos com a volatilidade do mercado local."
+   },
+   {
+    "quem": "Martin Iglesias, líder de recomendações do Itaú Unibanco",
+    "oque": "É importante fazer ajustes graduais para diversificar e ajustar a carteira, sem agir por impulso."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Após eleição presidencial em 2026",
+    "oque": "Mercados reagiram com queda da bolsa brasileira e alta do dólar."
+   },
+   {
+    "quando": "Primeiros dias pós-eleição",
+    "oque": "Itaú manteve recomendação otimista enquanto observava mercado."
+   },
+   {
+    "quando": "Depois da reação dos mercados pós-eleição",
+    "oque": "Itaú revisou recomendação de ações brasileiras para neutra."
+   },
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "XP também rebaixou recomendação da bolsa para neutra."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Home bias",
+    "significado": "Tendência do investidor a aplicar mais no próprio país que no exterior."
+   },
+   {
+    "termo": "IMA-B 5",
+    "significado": "Índice que mede títulos públicos atrelados à inflação com até 5 anos."
+   },
+   {
+    "termo": "Múltiplos",
+    "significado": "Indicadores usados para avaliar o preço das ações versus resultados."
+   }
+  ],
+  "pergunta": "Você já diversifica seus investimentos no exterior para reduzir riscos?",
+  "tamanhoTexto": 21547,
+  "numeros": [
+   {
+    "valor": "2%",
+    "rotulo": "Média do patrimônio dos brasileiros investido no exterior"
+   },
+   {
+    "valor": "3% a 35%",
+    "rotulo": "Faixa de alocação tática recomendada para exposição internacional"
+   },
+   {
+    "valor": "5,25%",
+    "rotulo": "Retorno em dólar dos títulos do Tesouro americano destacados"
+   },
+   {
+    "valor": "-3 a +3",
+    "rotulo": "Escala de positividade do Itaú para ações, neutra é zero"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Queda aproximada da bolsa brasileira pós-eleição, referida na matéria"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Recomendação para ações brasileiras",
+    "antes": "Otimista",
+    "depois": "Neutra"
+   }
+  ],
+  "destaque": "Recomendação para ações",
+  "porQueImporta": "Essa mudança mostra como fatores como taxa de câmbio e juros impactam diretamente o mercado de ações brasileiro, alertando investidores para maior cautela e a importância de diversificar internacionalmente para reduzir riscos.",
+  "impactoMercado": "Com juros mais altos e dólar valorizado, ações brasileiras podem sofrer pressões enquanto a diversificação internacional e renda fixa atrelada à inflação ganham espaço. Setores exportadores e ativos ligados à moeda forte podem se comportar melhor.",
+  "entenda": "A recomendação 'neutra' indica que o banco enxerga equilíbrio entre riscos e oportunidades na bolsa brasileira, sem otimismo ou pessimismo. Juros futuros mais altos elevam o custo de empréstimos das empresas, afetando seus lucros e, consequentemente, as ações.",
+  "observar": "Fique atento às decisões econômicas do governo e à evolução dos juros futuros e do dólar, além dos dados inflacionários que podem alterar o cenário para ações e renda fixa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia ajuda o investidor a entender a importância da diversificação e dos ajustes recomendados quando o cenário econômico muda, mostrando por que uma faculdade de mercado financeiro pode ajudar a aprender essas estratégias.",
+  "gancho": "Bolsa brasileira *neutra* pós eleição",
+  "ideias": [
+   "Por que o Itaú rebaixou ação brasileira para neutra?",
+   "Como diversificar investimentos após eleição no Brasil",
+   "Juros altos e dólar: impactos na bolsa brasileira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "BP Money; Seu Dinheiro; Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://bpmoney.com.br/mercado/itau-rebaixa-bolsa-brasileira-neutra-onde-investir-apos-lula/",
+  "publicadoEm": "2026-11-03T14:02:23-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-16"
+ },
+ {
+  "titulo": "XP prevê pausa em corte da Selic até fim de 2027 com inflação alta",
+  "resumo": "XP projeta taxa Selic estacionada em 13,75% até 2027, com inflação acima da meta para 2026 e 2027.",
+  "fatos": [
+   "Em 3 de novembro de 2026, XP atualizou cenário da Selic.",
+   "Taxa Selic atual é 13,75%, com pausa até fim de 2027.",
+   "Inflação projetada pela XP: 5,2% em 2026 e 4,4% em 2027.",
+   "Projeções do IPCA subiram 0,40 ponto percentual recentemente.",
+   "Depreciação do real e alta do petróleo são fatores negativos.",
+   "Riscos climáticos do El Niño e aumento do IVA impactam preços.",
+   "XP prevê recuo do PIB no 3º trimestre para -0,2%.",
+   "Boletim Focus eleva projeção da Selic para 2026 a 13,5%.",
+   "Dólar projetado em R$ 5,34 para final de 2026 e R$ 5,40 em 2027.",
+   "XP prevê comunicados mais duros (hawkish) pelo Copom."
+  ],
+  "explicacao": [
+   "A XP atualizou seu cenário-base indicando que a taxa Selic, atualmente em 13,75%, deve permanecer nesse nível até o fim de 2027. Essa expectativa foi divulgada em 3 de novembro, na véspera da reunião do Copom.",
+   "Essa mudança na projeção ocorre devido a dados que apontam para a depreciação do real, preços do petróleo mais elevados e aumento das expectativas inflacionárias de médio prazo. Outros fatores são os riscos climáticos do El Niño e ajustes fiscais como o aumento do IVA e o fim da jornada 6x1.",
+   "Manter a Selic em patamar elevado sinaliza um cenário inflacionário desafiador, pois as projeções da XP indicam que o IPCA ficará acima da meta – sendo 5,2% para 2026 e 4,4% para 2027. A desaceleração econômica ajuda, mas não é suficiente para reduzir a pressão inflacionária.",
+   "O Copom pode ajustar a taxa caso os cenários melhorem ou piorem, mas a expectativa é de um comunicado mais duro, sem sinalização clara de cortes futuros. O mercado também revisou para cima as projeções da inflação e do dólar, além de reduzir a estimativa de crescimento do PIB."
+  ],
+  "detalhes": [
+   "Quem: XP Investimentos e Comitê de Política Monetária (Copom).",
+   "Quando: Análise realizada em novembro de 2026, para cenário até 2027.",
+   "Quanto: Selic deve permanecer em 13,75%, taxa atual elevada pelo Banco Central.",
+   "Contexto: Após resultados eleitorais e dados econômicos recentes, ajustes nas projeções.",
+   "Por que: Dados macroeconômicos negativos e ajuste dos indicadores inflacionários.",
+   "Comparativo: Expectativa anterior da XP era queda para 13,25% ao final de 2026.",
+   "Impacto: Projeção de inflação acima da meta oficial para 2026 e 2027."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Caio Megale, economista-chefe da XP",
+    "oque": "Selic deve ficar em 13,75% até fim de 2027, com cenário incerto para cortes ou aumento."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Setembro de 2026",
+    "oque": "Copom cortou Selic em 0,25 ponto percentual, para 13,75%."
+   },
+   {
+    "quando": "3-4 de novembro de 2026",
+    "oque": "Reunião do Copom para definir nova taxa Selic."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros usada pelo Banco Central para controlar a inflação."
+   },
+   {
+    "termo": "IPCA",
+    "significado": "Índice Nacional de Preços ao Consumidor Amplo, mede a inflação oficial."
+   },
+   {
+    "termo": "Copom",
+    "significado": "Comitê que define a taxa básica de juros no Brasil."
+   }
+  ],
+  "pergunta": "Você acha que a Selic deve subir ou cair ainda mais no próximo ano?",
+  "tamanhoTexto": 10042,
+  "numeros": [
+   {
+    "valor": "13,75%",
+    "rotulo": "Selic atual e projetada pela XP até fim de 2027"
+   },
+   {
+    "valor": "5,2%",
+    "rotulo": "Projeção da inflação em 2026 segundo XP"
+   },
+   {
+    "valor": "4,4%",
+    "rotulo": "Projeção da inflação em 2027 segundo XP"
+   },
+   {
+    "valor": "0,40 p.p.",
+    "rotulo": "Aumento recente nas projeções da inflação de 2027"
+   },
+   {
+    "valor": "-0,2%",
+    "rotulo": "Projeção do PIB do 3º trimestre de 2026 pela XP"
+   },
+   {
+    "valor": "R$ 5,34",
+    "rotulo": "Projeção do dólar para o final de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Projeção da Selic para fim de 2026",
+    "antes": "13,25%",
+    "depois": "13,75%"
+   }
+  ],
+  "destaque": "Selic em 13,75%",
+  "porQueImporta": "Para quem investe, a previsão da Selic elevada e estável indica que o custo do dinheiro deve permanecer alto, impactando crédito e investimentos. Além disso, a inflação persistente acima da meta pode afetar preços e rentabilidade das aplicações.",
+  "impactoMercado": "O cenário pode manter pressão sobre setores sensíveis a juros, como crédito e consumo, e influenciar o dólar e ativos de renda fixa. O mercado pode reagir à comunicação do Copom e a possíveis ajustes futuros nas expectativas.",
+  "entenda": "A taxa Selic é o principal instrumento do Banco Central para controlar a inflação. Juros altos desestimulam crédito e consumo, segurando os preços, mas podem desacelerar a economia. Projeções futuras indicam o caminho esperado para a política monetária e os efeitos para o mercado.",
+  "observar": "Fique atento à reunião do Copom em 3 e 4 de novembro e aos próximos boletins do Banco Central que atualizam as estimativas da inflação, Selic e PIB. Mudanças nos indicadores podem alterar as projeções e impactar decisões de investimento.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "Entenda de forma simples como a política de juros influencia a economia e suas operações, conectando teoria e notícias para preparar você para o mercado financeiro real.",
+  "gancho": "*Selic* alta e *inflação*: cenário 2027",
+  "ideias": [
+   "Por que a Selic pode ficar alta até 2027?",
+   "Inflação fora da meta: impactos para os investidores",
+   "Como notícias econômicas influenciam o ciclo de juros"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "InfoMoney; Bora Investir (B3); Agência Brasil Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/",
+  "publicadoEm": "2026-11-03T14:03:20-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-17"
+ },
+ {
+  "titulo": "StoneX eleva projeção para soja, algodão e milho em safra recorde 2026/27",
+  "resumo": "StoneX estima safra brasileira recorde de soja em 184,95 milhões de toneladas, alta de 0,9%. Previsões para algodão e milho também são aumentadas, mesmo com o risco climático do El Niño.",
+  "fatos": [
+   "Safra de soja prevista em 184,95 milhões de toneladas para 2026/27",
+   "Projeção representa alta de 0,9% sobre estimativa anterior",
+   "Produtividade média de soja estimada em 3,74 toneladas por hectare",
+   "Exportação de soja prevista em 115,5 milhões de toneladas, recorde histórico",
+   "Safra de milho estimada em 146 milhões de toneladas, crescimento de 2,3%",
+   "Exportação de milho projetada em 42 milhões de toneladas, aumento de 2 milhões",
+   "Produtividade nacional de algodão aumentada para quatro milhões de toneladas de pluma",
+   "Exportação de algodão estimada em 3,2 milhões de toneladas, queda anual de 200 mil toneladas",
+   "Risco climático do El Niño citado como fator de atenção para algumas regiões"
+  ],
+  "explicacao": [
+   "A consultoria StoneX revisou para cima sua projeção para a safra brasileira de soja 2026/27, apontando um volume recorde de 184,95 milhões de toneladas, um aumento de 0,9% em relação à estimativa anterior. Esse crescimento foi impulsionado pelo plantio acelerado e clima favorável em Mato Grosso.",
+   "Além da soja, a StoneX também aumentou as previsões de produção para algodão e milho, especialmente devido à antecipação do plantio da soja no Mato Grosso, que favorece a semeadura da “safrinha” dentro da janela ideal de plantio no próximo ano.",
+   "Apesar das boas perspectivas, a consultoria alerta para os riscos climáticos associados ao fenômeno El Niño, que pode intensificar as ameaças às lavouras em Estados como Pará, Maranhão e Piauí. Outro fator de atenção é a incerteza sobre a demanda chinesa por soja brasileira, relacionada a questões comerciais e políticas.",
+   "Com as condições atuais, as exportações brasileiras de soja e milho também foram revisadas para cima, estabelecendo novos recordes esperados para o ciclo 2026/27. O algodão deve crescer em produtividade, mas pode ter uma ligeira queda anual na produção."
+  ],
+  "detalhes": [
+   "Mato Grosso lidera produção e teve plantio acelerado e clima favorável",
+   "Regiões Norte e Nordeste (Pará, Maranhão, Piauí) com atenção por El Niño",
+   "Sul do país registrou chuvas elevadas no ritmo acelerado do plantio da soja",
+   "Aumento da área plantada de milho em 350 mil hectares frente ao ano anterior",
+   "Melhoria em preços de insumos incentiva crescimento na área cultivada de milho",
+   "Produtividade do algodão elevada em Bahia e Mato Grosso",
+   "Uso crescente de sementes com genética mais avançada no algodão brasileiro"
+  ],
+  "declaracoes": [
+   {
+    "quem": "StoneX",
+    "oque": "Plantio acelerado em Mato Grosso eleva produção e produtividade esperada"
+   },
+   {
+    "quem": "StoneX",
+    "oque": "Risco climático do El Niño pode intensificar desafios para lavouras no Norte e Nordeste"
+   },
+   {
+    "quem": "StoneX",
+    "oque": "Exportações de soja e milho devem bater recordes no ciclo 2026/27"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "03/11/2026",
+    "oque": "StoneX divulga estimativas revisadas para safra 2026/27 de soja, milho e algodão"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Safra",
+    "significado": "Produção agrícola total em um ciclo de cultivo."
+   },
+   {
+    "termo": "El Niño",
+    "significado": "Fenômeno climático que afeta o clima global, podendo alterar chuvas."
+   },
+   {
+    "termo": "Produtividade",
+    "significado": "Produção média por hectare cultivado."
+   }
+  ],
+  "pergunta": "Como o El Niño pode afetar seus investimentos em commodities agrícolas?",
+  "tamanhoTexto": 4314,
+  "numeros": [
+   {
+    "valor": "184,95 milhões",
+    "rotulo": "produção brasileira de soja 2026/27 em toneladas"
+   },
+   {
+    "valor": "0,9%",
+    "rotulo": "alta da projeção de soja frente à estimativa anterior"
+   },
+   {
+    "valor": "3,74",
+    "rotulo": "toneladas por hectare de produtividade média da soja"
+   },
+   {
+    "valor": "115,5 milhões",
+    "rotulo": "toneladas previstas para exportação de soja"
+   },
+   {
+    "valor": "146 milhões",
+    "rotulo": "produção total estimada de milho em toneladas"
+   },
+   {
+    "valor": "42 milhões",
+    "rotulo": "toneladas previstas de exportação de milho"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "184,95 milhões de",
+  "porQueImporta": "Para quem investe ou opera no mercado agrícola e de commodities, entender as projeções de safra é fundamental para antecipar variações na oferta, preços e exportações, que impactam setores como ações de empresas ligadas à agricultura, câmbio e preços internacionais.",
+  "impactoMercado": "O aumento das projeções para soja, milho e algodão pode influenciar as cotações das commodities no mercado futuro, além de afetar as expectativas para exportações, valorização do real e setores correlatos. O risco climático permanece, adicionando volatilidade ao ambiente.",
+  "entenda": "Safra é o total de produção agrícola em um período. O El Niño é um fenômeno climático que traz variações no clima, podendo prejudicar ou beneficiar culturas. Exportação de soja e milho é crucial para o Brasil, maior produtor mundial, afetando a balança comercial e preços.",
+  "observar": "Fique de olho nas próximas atualizações climáticas sobre o El Niño e nos dados oficiais de plantio e produção divulgados pelo governo e AgRural para acompanhar efeitos na safra e preços.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como análises agrícolas detalhadas ajudam a entender os riscos e oportunidades do setor de commodities, essencial para operar com mais informação na bolsa e no mercado futuro.",
+  "gancho": "*Safra Recorde* em soja e milho",
+  "ideias": [
+   "Por que a soja brasileira pode bater novo recorde em 2026/27?",
+   "Entenda o impacto do El Niño nas safras brasileiras de soja, milho e algodão",
+   "Como a previsão de safras afeta exportações e o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Commodities",
+  "icone": "grafico",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://www.infomoney.com.br/mercados/mesmo-com-desafio-climatico-stonex-eleva-projecao-para-soja-algodao-e-milho/",
+  "publicadoEm": "2026-11-03T14:16:55-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-18"
+ },
+ {
+  "titulo": "OceanPact vende duas embarcações por US$ 86 mi e amplia espaço para dividendos",
+  "resumo": "OceanPact (OPCT3) anunciou venda de duas embarcações por US$ 86 milhões, impulsionando desalavancagem e expectativa de dividendos extras. A ação subiu 5,46%, chegando a R$ 9,47 após a notícia.",
+  "fatos": [
+   "Venda de duas embarcações PSV por US$ 86 milhões anunciada em 3/11/2026.",
+   "Ação OPCT3 subiu 5,46%, chegando a R$ 9,47 no mesmo dia.",
+   "Pagamento inicial de 10% do valor da venda previsto como sinal.",
+   "Conclusão da operação prevista até 18 de dezembro de 2026.",
+   "Cada embarcação foi vendida por US$ 43 milhões, cerca de 90% do valor de uma nova.",
+   "Valor contábil atribuído pela empresa era de US$ 20 milhões por embarcação.",
+   "Operação deve gerar cerca de R$ 430 milhões líquidos para a OceanPact.",
+   "Ganho de capital estimado em US$ 45 milhões, equivalente a 6% do valor de mercado.",
+   "Estimativa do JPMorgan indica redução da alavancagem para menos de 2,5 vezes dívida líquida/Ebitda."
+  ],
+  "explicacao": [
+   "A OceanPact anunciou em 3 de novembro de 2026 a venda de duas embarcações offshore tipo PSV, chamadas CBO Energy e CBO Wiser, pelo total de US$ 86 milhões. A operação prevê pagamento inicial de 10% e deve se concluir até 18 de dezembro.",
+   "Essa venda foi vista de forma positiva por analistas de bancos como Bradesco BBI, Itaú BBA e JPMorgan, que destacaram o valor atrativo da transação, gerando ganho de capital e acelerando a desalavancagem da empresa.",
+   "Com a operação, a OceanPact pode receber cerca de R$ 430 milhões líquidos, o que cria valor acionário de aproximadamente R$ 0,44 por ação e amplia o espaço para pagamento de dividendos adicionais.",
+   "Os próximos passos envolvem o fechamento da operação com as condições usuais e o uso dos recursos para reduzir dívida e remunerar acionistas, sem aumentar a competição no mercado brasileiro offshore."
+  ],
+  "detalhes": [
+   "Quem vendeu: OceanPact (código OPCT3 na B3).",
+   "Quando: negociação anunciada em 3 de novembro de 2026, conclusão prevista até 18/12/2026.",
+   "O que foi vendido: duas embarcações de apoio offshore do tipo PSV, CBO Energy e CBO Wiser.",
+   "Por quanto: total de US$ 86 milhões, US$ 43 milhões por embarcação.",
+   "Condições: sinal de 10% e contrato de afretamento para CBO Wiser continuar operando com cliente atual.",
+   "Por que foi positivo: preço próximo a 90% do valor de navio novo, maior que valor contábil estimado, e melhora da estrutura de capital.",
+   "Impacto esperado: redução da alavancagem e aumento da capacidade para distribuir dividendos, sem aumentar concorrência na frota brasileira."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bradesco BBI",
+    "oque": "Negócio foi fechado em condições bastante atrativas, gerando criação de valor significativo."
+   },
+   {
+    "quem": "Itaú BBA",
+    "oque": "Operação é positiva e alinhada à estratégia de gestão ativa da frota e alocação eficiente de capital."
+   },
+   {
+    "quem": "JPMorgan",
+    "oque": "Venda deve acelerar redução da alavancagem e permitir distribuição integral do lucro líquido em dividendos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "03/11/2026",
+    "oque": "Anúncio da venda das embarcações pela OceanPact."
+   },
+   {
+    "quando": "Até 18/12/2026",
+    "oque": "Previsão para conclusão da operação de venda."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PSV",
+    "significado": "Plataforma de apoio offshore para serviços diversos em navios"
+   },
+   {
+    "termo": "Dividendos",
+    "significado": "Parte do lucro da empresa distribuída aos acionistas"
+   },
+   {
+    "termo": "Alavancagem",
+    "significado": "Uso de dívida para financiar operações e investimentos"
+   }
+  ],
+  "pergunta": "Você já investe em ações que pagam dividendos? Por quê?",
+  "tamanhoTexto": 3280,
+  "numeros": [
+   {
+    "valor": "US$ 86 milhões",
+    "rotulo": "Valor total da venda das duas embarcações"
+   },
+   {
+    "valor": "US$ 43 milhões",
+    "rotulo": "Preço pago por cada embarcação"
+   },
+   {
+    "valor": "R$ 9,47",
+    "rotulo": "Preço das ações OPCT3 após anúncio"
+   },
+   {
+    "valor": "5,46%",
+    "rotulo": "Alta da ação no dia do anúncio"
+   },
+   {
+    "valor": "R$ 430 milhões",
+    "rotulo": "Receita líquida estimada da operação para OceanPact"
+   },
+   {
+    "valor": "US$ 20 milhões",
+    "rotulo": "Valor contábil por embarcação antes da venda"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 86 milhões",
+  "porQueImporta": "Essa operação aumenta o caixa da OceanPact e reduz sua dívida, o que pode fortalecer sua saúde financeira e aumentar o espaço para pagar dividendos, aspecto importante para investidores que buscam retorno regular de suas aplicações.",
+  "impactoMercado": "A redução da alavancagem e a geração de ganhos ajudam a valorizar as ações OPCT3 e podem atrair mais investidores. Além disso, o mercado offshore brasileiro não sofrerá impacto negatico, pois as embarcações atuarão no exterior após a venda.",
+  "entenda": "No mercado financeiro, vender ativos pode gerar lucro imediato e melhorar o balanço da empresa. Isso permite que a companhia reduza dívidas e potencialmente pague mais dividendos aos acionistas, o que é visto como positivo para os investidores.",
+  "observar": "Fique de olho na conclusão da venda prevista para 18 de dezembro e nos próximos balanços para acompanhar efeito no caixa e possíveis dividendos extras.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Essa notícia ensina como a gestão ativa de ativos e financeiro das empresas impacta preço de ações e dividendos, despertando interesse sobre o funcionamento do mercado",
+  "gancho": "*Venda* e *Dividendos* OceanPact",
+  "ideias": [
+   "Como a venda de ativos pode gerar dividendos maiores",
+   "O impacto da desalavancagem na valorização das ações",
+   "Por que a venda de embarcações foi positiva para OceanPact"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://www.infomoney.com.br/mercados/oceanpact-vende-embarcacoes-por-us-86-mi-e-eleva-espaco-para-dividendos-acao-salta/",
+  "publicadoEm": "2026-11-03T14:17:15-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-19"
+ },
+ {
+  "titulo": "Ações da Cogna caem 49% e podem recuar mais 35%, diz analista",
+  "resumo": "Segundo Fabrício Lorenz, as ações da Cogna (COGN3) despencaram 49% em uma semana e podem perder até 35% adicionais, com suporte em R$ 0,90.",
+  "fatos": [
+   "Ações da Cogna (COGN3) caíram 49% em uma semana.",
+   "Analista Fabrício Lorenz aponta suporte entre R$ 0,89 e R$ 0,90 para os papéis.",
+   "Possível recuo adicional de cerca de 35% até o próximo suporte.",
+   "IFR diário da Cogna indica sobrevenda, próximo a 25 pontos.",
+   "Queda é uma reversão da alta observada no início de outubro com o período eleitoral.",
+   "Lorenz não recomenda venda imediata devido à possibilidade de recuperação temporária.",
+   "Investidores interessados em comprar devem aguardar sinais técnicos de confirmação.",
+   "Gráfico semanal da Cogna continua apontando queda.",
+   "Pressão vendedora é intensa conforme análise técnica.",
+   "Análise não garante que o preço alcançará o suporte indicado."
+  ],
+  "explicacao": [
+   "As ações da Cogna (COGN3) caíram 49% num intervalo de uma semana, segundo análise técnica do especialista Fabrício Lorenz. Ele identifica que essa queda expressiva indica uma reversão da tendência de alta que se observava no início de outubro, período marcado pelo movimento eleitoral.",
+   "A principal causa da queda está ligada ao impacto das eleições, que levou a uma forte pressão vendedora sobre os papéis da empresa. Lorenz destaca que, apesar do movimento de baixa, o Índice de Força Relativa (IFR) diário aponta para uma condição de sobrevenda, sugerindo uma possível recuperação temporária.",
+   "O analista sinaliza que as ações da Cogna podem continuar caindo até atingir o próximo suporte técnico entre R$ 0,89 e R$ 0,90, o que representa uma queda adicional de cerca de 35% em relação ao preço atual. Contudo, devido à intensa queda, ele não recomenda venda imediata, pois o ativo pode apresentar um repique antes de retomar a trajetória de baixa.",
+   "Para investidores interessados em compra, Lorenz ressalta que deve-se esperar sinais técnicos de confirmação ou a aproximação dos preços ao suporte, pois ainda não há indicação clara para entrada a preços atuais. Esse cenário técnico mostra a importância de analisar gráficos e indicadores antes de tomar decisões."
+  ],
+  "detalhes": [
+   "Fabrício Lorenz é analista especializado em ações.",
+   "Estimativa de mais 35% de queda até suporte entre R$ 0,89 e R$ 0,90.",
+   "IFR (Índice de Força Relativa) abaixo de 30 é sinal de sobrevenda.",
+   "Movimento de baixa acelerou após o segundo turno das eleições de 2026.",
+   "A condição de sobrevenda pode provocar um repique ou recuperação de curto prazo.",
+   "Venda imediata após a queda intensa pode ser arriscada pelo possível pullback.",
+   "Observação de gráficos diário e semanal orienta decisões técnicas de mercado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fabrício Lorenz, analista de ações",
+    "oque": "Cogna está mostrando um sinal muito forte para mais quedas, com alta pressão vendedora."
+   },
+   {
+    "quem": "Fabrício Lorenz, analista de ações",
+    "oque": "Não acho inteligente vender agora, pois o ativo está esticado no gráfico diário."
+   },
+   {
+    "quem": "Fabrício Lorenz, analista de ações",
+    "oque": "Tem espaço para a ação cair até R$ 0,89 - R$ 0,90, próximo suporte técnico."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Início de outubro de 2026",
+    "oque": "Tendência de alta nas ações da Cogna observada antes das eleições."
+   },
+   {
+    "quando": "Semana de análise em 2026",
+    "oque": "Ações da Cogna caíram 49% e voltaram a uma tendência de baixa."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Suporte",
+    "significado": "Preço que tende a frear queda por aumento da demanda."
+   },
+   {
+    "termo": "IFR (Índice de Força Relativa)",
+    "significado": "Indicador que mede intensidade e velocidade dos movimentos de preço."
+   },
+   {
+    "termo": "Pullback",
+    "significado": "Correção ou recuperação temporária dentro de uma tendência."
+   }
+  ],
+  "pergunta": "Você já utilizou suporte e IFR para decidir suas operações?",
+  "tamanhoTexto": 15105,
+  "numeros": [
+   {
+    "valor": "49%",
+    "rotulo": "queda das ações da Cogna em uma semana"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "potencial queda adicional prevista no papel"
+   },
+   {
+    "valor": "R$ 0,89 a R$ 0,90",
+    "rotulo": "faixa de suporte técnico para as ações"
+   },
+   {
+    "valor": "25 pontos",
+    "rotulo": "IFR diário da Cogna indicando sobrevenda"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "49% queda na",
+  "porQueImporta": "Entender a movimentação da Cogna ajuda investidores e traders a interpretarem sinais técnicos e a evitar decisões precipitadas. O movimento expressivo e a possível continuação da queda impactam o risco e o timing para entrada ou saída do ativo.",
+  "impactoMercado": "O desempenho da Cogna pode influenciar a dinâmica das ações de educação na Bolsa e oportunidades para operações na ponta vendedora. A análise técnica indica atenção para possíveis repiques que afetam decisões de curto prazo.",
+  "entenda": "O IFR é um indicador que mede se uma ação está sobrecomprada ou sobrevendida, ajudando a antecipar correções temporárias. Suporte é o preço onde aumenta a demanda pelo ativo, podendo frear quedas no mercado acionário.",
+  "observar": "Acompanhe os próximos movimentos dos gráficos diários e semanais da Cogna para sinais de confirmação de tendência e aproximação do suporte em R$ 0,90.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicar a análise técnica da Cogna ensina o investidor a interpretar quedas expressivas e indicadores, conectando ao aprendizado prático de mercado financeiro da faculdade Wendell Guimarães.",
+  "gancho": "*Cogna* cai forte em *queda*",
+  "ideias": [
+   "Entenda a queda da Cogna e o que esperar",
+   "Análise técnica: suporte e IFR da Cogna explicados",
+   "Como operar ações em tendência de baixa como COGN3"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://bpmoney.com.br/mercado/cogna-cogn3-despenca-49-e-pode-cair-mais-35-entenda/",
+  "publicadoEm": "2026-11-03T14:05:30-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-20"
+ },
+ {
+  "titulo": "Ibovespa cai 1,7% com preocupações fiscais e alta do dólar a R$5,51",
+  "resumo": "Ibovespa recuou para 165 mil pontos e dólar subiu a R$ 5,51 hoje com foco em relatório Focus e incertezas fiscais no Brasil.",
+  "fatos": [
+   "Ibovespa caiu 1,71%, chegando a 165.057,56 pontos.",
+   "Dólar comercial subiu 1,14%, atingindo R$ 5,51 na máxima do dia.",
+   "Juros futuros e taxas dos DIs avançaram em reação a preocupações fiscais.",
+   "Relatório Focus mostrou aumento nas previsões para IPCA, Selic e dólar.",
+   "Previsão do PIB foi reduzida em todos os cenários no relatório Focus.",
+   "Entre grandes bancos, apenas SANB11 teve alta de mais de 2%.",
+   "Vale (VALE3) caiu cerca de 2,4%, chegando a R$ 60,53.",
+   "PETR4 recuou aproximadamente 4% durante o dia.",
+   "PMI da indústria brasileira registrou queda em outubro.",
+   "Futuros do Ibovespa pressionados, com INDFUT recuando 1,82%."
+  ],
+  "explicacao": [
+   "Hoje, o Ibovespa fechou em queda de aproximadamente 1,7%, alcançando 165.057 pontos. O dólar comercial subiu 1,14%, atingindo R$ 5,51. Esses números refletem uma aversão ao risco no mercado brasileiro após o relatório Focus e preocupações fiscais emergentes.",
+   "O relatório Focus, divulgado após as eleições presidenciais, revelou revisões para cima na previsão de inflação (IPCA), Selic e dólar, além de cortes nas projeções do PIB. Esses dados indicam maior cautela dos investidores sobre a economia brasileira no curto e médio prazo.",
+   "Com a expectativa de aumento da taxa básica de juros e do dólar, os investidores reajustam suas posições, pressionando o Ibovespa para baixo. Além disso, o mercado encara incertezas quanto à agenda econômica do novo governo e riscos fiscais persistentes.",
+   "Para os próximos dias, a atenção será ao desenrolar das ações deste novo cenário, incluindo a evolução das taxas de juros futuras, a manutenção das expectativas do mercado sobre inflação e crescimento, e o impacto nas ações de companhias como Petrobras e Vale."
+  ],
+  "detalhes": [
+   "O relatório Focus é divulgado semanalmente pelo Banco Central e contém expectativas do mercado sobre indicadores econômicos.",
+   "A alta do dólar para R$ 5,51 foi a máxima do dia no mercado à vista.",
+   "A elevação nas taxas de juros futuras impacta o custo do crédito e o apetite dos investidores por ativos de risco.",
+   "O PIB projetado menor sugere uma desaceleração econômica, afetando empresas listadas na Bolsa.",
+   "A queda no PMI indica menor atividade e confiança na indústria, influenciada pela instabilidade das eleições.",
+   "O recuo do Ibovespa no início do mês reforça as preocupações com a política fiscal do governo recém-eleito.",
+   "Ainda há especulações sobre redução de maioridade penal e políticas públicas relacionadas à PEC da Segurança, podendo afetar o ambiente político-econômico."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Secretário de Energia dos EUA, Chris Wright",
+    "oque": "Disse que ataques contra o Irã não afetaram o fluxo de petróleo e que EUA focam em aumentar produção doméstica."
+   },
+   {
+    "quem": "Ministro José Guimarães, das Relações Institucionais",
+    "oque": "Defendeu votação da PEC da Segurança sem reduzir maioridade penal para evitar retorno à Câmara."
+   },
+   {
+    "quem": "Presidente Donald Trump",
+    "oque": "Anunciou corte de US$ 4 bilhões em ajuda dos EUA a Israel até o final do ano."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "terça-feira, 3",
+    "oque": "Divulgação do novo relatório Focus pós-eleições."
+   },
+   {
+    "quando": "manhã desta terça",
+    "oque": "Dólar comercial atingiu máxima de R$ 5,515."
+   },
+   {
+    "quando": "quarta-feira, 28 (semana anterior)",
+    "oque": "Senador Flávio Bolsonaro deixou Brasil por passaporte italiano."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice com as ações de maior negociação na Bolsa brasileira."
+   },
+   {
+    "termo": "Relatório Focus",
+    "significado": "Pesquisa semanal com projeções econômicas de analistas financeiros."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira fixada pelo Banco Central."
+   }
+  ],
+  "pergunta": "Você acha que a alta da Selic pode continuar pressionando a Bolsa?",
+  "tamanhoTexto": 12000,
+  "numeros": [
+   {
+    "valor": "1,71%",
+    "rotulo": "Queda do Ibovespa no dia"
+   },
+   {
+    "valor": "165.057,56",
+    "rotulo": "Pontos atingidos pelo Ibovespa no fechamento"
+   },
+   {
+    "valor": "1,14%",
+    "rotulo": "Alta do dólar comercial em percentual"
+   },
+   {
+    "valor": "R$ 5,506",
+    "rotulo": "Cotação do dólar comercial na venda"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "Queda aproximada das ações PETR4"
+   },
+   {
+    "valor": "2,40%",
+    "rotulo": "Queda das ações VALE3"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA",
+    "antes": "valor anterior (não informado)",
+    "depois": "previsão elevada no relatório Focus pós-eleições"
+   },
+   {
+    "item": "Selic",
+    "antes": "valor anterior (não informado)",
+    "depois": "projetada para ser mais alta no novo cenário"
+   },
+   {
+    "item": "PIB",
+    "antes": "valor anterior (não informado)",
+    "depois": "projeção reduzida em todos os cenários"
+   }
+  ],
+  "destaque": "Ibovespa cai 1,7%",
+  "porQueImporta": "A queda do Ibovespa e a alta do dólar refletem avaliações mais cautelosas do mercado diante das novas projeções econômicas pós-eleições, que indicam inflação e juros mais altos, além de menor crescimento. Isso afeta diretamente estratégias de investidores e traders no mercado brasileiro.",
+  "impactoMercado": "Setores sensíveis a juros e câmbio, como bancos, energia e commodities, podem sofrer volatilidade. A alta do dólar pressiona empresas endividadas em moeda estrangeira, enquanto aumentos na Selic impactam custos de crédito e valorização de renda fixa.",
+  "entenda": "Ibovespa é o principal índice da Bolsa de Valores do Brasil e representa as maiores empresas listadas. Dólar comercial é a moeda americana usada em operações oficiais do país. O relatório Focus traz a visão de analistas sobre economia, influenciando as decisões dos investidores.",
+  "observar": "É importante acompanhar os próximos relatórios Focus, decisões do Banco Central sobre juros e indicadores de inflação e atividade, que vão direcionar os movimentos do Ibovespa e do dólar nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Conteúdo que conecta indicadores econômicos e políticas fiscais às oscilações da Bolsa, ajudando seguidores a entenderem como essas variáveis impactam seus investimentos e aprendizados na faculdade de mercado financeiro.",
+  "gancho": "*Ibovespa* em queda e *dólar* sobe",
+  "ideias": [
+   "Por que Ibovespa caiu hoje? Entenda o cenário",
+   "Relatório Focus: o que mudou para o mercado financeiro",
+   "Como a alta do dólar e juros afetam seu investimento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
+  "publicadoEm": "2026-11-03T13:33:25-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-21"
+ },
+ {
+  "titulo": "Ministro Durigan planeja revisar benefícios fiscais para reduzir imposto sobre consumo em 2027",
+  "resumo": "O ministro da Fazenda, Dario Durigan, anunciou que buscará discutir em 2027 a revisão dos benefícios fiscais da reforma tributária sobre consumo para reduzir a alíquota da Contribuição Sobre Bens e Serviços (CBS). O TCU indicou alíquota de 11,3%, acima da expectativa do mercado.",
+  "fatos": [
+   "Ministro da Fazenda: Dario Durigan.",
+   "Data da declaração: 3 de novembro de 2026.",
+   "Alíquota da CBS proposta pelo TCU: 11,3%.",
+   "Expectativa inicial do mercado: cerca de 9,4%.",
+   "Senado definirá alíquota final até 15 de dezembro de 2026.",
+   "PIS e Cofins serão extintos em 2026.",
+   "CBS substituirá PIS, Cofins e parte do IPI.",
+   "Alíquota total do imposto sobre consumo pode superar 30% em 2033.",
+   "Alíquota do IBS estadual e municipal será gradual até 2033.",
+   "Benefícios fiscais aprovados por emenda à Constituição."
+  ],
+  "explicacao": [
+   "Em 3 de novembro de 2026, o ministro da Fazenda, Dario Durigan, informou que pretende discutir com o Congresso, durante 2027, a revisão dos benefícios fiscais aprovados na reforma tributária sobre o consumo. O objetivo é diminuir a alíquota da CBS do governo federal, estimada inicialmente em 11,3% pelo TCU.",
+   "Essa necessidade surgiu porque a reforma manteve a carga tributária estável, porém muitos benefícios e desonerações aprovados elevaram a alíquota para os demais segmentos da economia. O mercado esperava uma alíquota próxima a 9,4%, mas o TCU apresentou um valor mais alto, o que surpreendeu empresas e investidores.",
+   "A CBS substituirá o PIS, Cofins e parte do IPI a partir de 2027. Além dela, haverá o IBS estadual e municipal, que crescerá gradualmente até 2033, podendo levar a uma alíquota total sobre o consumo superior a 30%, uma das maiores do mundo. A discussão visa promover transparência e revisão dos regimes favorecidos.",
+   "O Senado definirá a alíquota final até 15 de dezembro, mas não pode reduzir incentivos agora, pois foram aprovados via proposta de emenda à Constituição. A expectativa é que, com revisões futuras, a alíquota da CBS seja reduzida, tornando o sistema tributário mais justo e claro."
+  ],
+  "detalhes": [
+   "A revisão dos benefícios fiscais está prevista para ocorrer em 2027 com o Congresso Nacional.",
+   "A alíquota proposta de 11,3% é resultado dos incentivos concedidos durante aprovação da reforma tributária.",
+   "O Senado não pode reduzir benefícios antes da vigência da contribuição em 2027 devido à aprovação via PEC.",
+   "A CBS visa substituir tributos federais complexos como PIS, Cofins e parte do IPI para tornar a cobrança mais transparente.",
+   "O modelo atual inclui tributos em cascata, o que dificulta identificar o imposto real embutido no preço.",
+   "A cobrança municipal e estadual do IBS começa com 0,1% em 2027 e aumenta gradualmente até 2033.",
+   "O governo federal afirma que a carga tributária atual sobre consumo é cerca de 34%, embora complexa de medir."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Pretende revisar benefícios fiscais para diminuir alíquota da CBS com o tempo."
+   },
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Alíquota de 11,3% mantém carga tributária conforme aprovada e permitirá debates futuros mais baixos."
+   },
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Senado não pode reduzir benefícios fiscais agora por causa da PEC aprovada."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2026",
+    "oque": "PIS e Cofins serão extintos."
+   },
+   {
+    "quando": "03/11/2026",
+    "oque": "Durigan anuncia intenção de revisão de benefícios fiscais em 2027."
+   },
+   {
+    "quando": "15/12/2026",
+    "oque": "Senado fixará alíquota final da CBS."
+   },
+   {
+    "quando": "2027",
+    "oque": "Início da cobrança da CBS."
+   },
+   {
+    "quando": "2027 a 2033",
+    "oque": "IBS estadual e municipal terá aumento gradual da alíquota."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CBS",
+    "significado": "Contribuição Sobre Bens e Serviços, imposto federal sobre consumo."
+   },
+   {
+    "termo": "PEC",
+    "significado": "Proposta de Emenda à Constituição, altera regras constitucionais."
+   },
+   {
+    "termo": "IBS",
+    "significado": "Imposto sobre Bens e Serviços dos estados e municípios."
+   }
+  ],
+  "pergunta": "Você entende como a reforma tributária pode impactar seus custos?",
+  "tamanhoTexto": 6283,
+  "numeros": [
+   {
+    "valor": "11,3%",
+    "rotulo": "Alíquota da CBS proposta pelo TCU para 2027"
+   },
+   {
+    "valor": "9,4%",
+    "rotulo": "Expectativa inicial do setor privado para alíquota da CBS"
+   },
+   {
+    "valor": "15 de dezembro de 2026",
+    "rotulo": "Data limite para Senado fixar alíquota final da CBS"
+   },
+   {
+    "valor": "2026",
+    "rotulo": "Ano da extinção do PIS e Cofins"
+   },
+   {
+    "valor": "28% a 30%",
+    "rotulo": "Estimativa da alíquota total da CBS+IBS sobre consumo em 2033"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Alíquota inicial do IBS estadual e municipal em 2027 e 2028"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Alíquota da CBS",
+    "antes": "9,4% (expectativa do mercado)",
+    "depois": "11,3% (proposta do TCU)"
+   }
+  ],
+  "destaque": "11,3%",
+  "porQueImporta": "Essa notícia impacta quem investe ou opera pois define a carga tributária sobre consumo, que influencia preços e lucros das empresas. A alíquota mais alta do que o esperado pode afetar setores e reduzir margens, além de sinalizar debates futuros sobre benefícios, regime fiscal e a transparência dos impostos no Brasil.",
+  "impactoMercado": "A definição da alíquota da CBS e sua possível redução futura pode alterar custos tributários para diversos setores, influenciar decisões empresariais e afetar setores sensíveis a carga tributária. O mercado financeiro acompanha essas mudanças para avaliar possíveis impactos em ativos e setores ligados ao consumo.",
+  "entenda": "A Contribuição Sobre Bens e Serviços (CBS) é um imposto federal que substituirá tributos federais como PIS e Cofins, cobrados sobre consumo. A reforma busca simplificar o sistema e aumentar transparência, mas a alíquota final depende da discussão e aprovação no Congresso Nacional em 2026 e 2027.",
+  "observar": "Fique atento à definição da alíquota final da CBS pelo Senado até 15 de dezembro de 2026 e às discussões sobre revisão dos benefícios fiscais ao longo de 2027, que podem alterar a carga tributária sobre consumo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia ajuda a entender a complexidade das reformas tributárias e como elas impactam os impostos sobre consumo. Com explicações claras, conecta investidores e iniciantes ao funcionamento e possíveis mudanças do sistema fiscal brasileiro.",
+  "gancho": "*Reforma* tributária e *imposto* consumo",
+  "ideias": [
+   "O que é a CBS e como ela muda o imposto sobre consumo?",
+   "Entenda a alíquota de 11,3% e sua surpresa para o mercado",
+   "Revisão de benefícios fiscais: impactos para você em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/11/03/durigan-quer-revisar-beneficios-fiscais-em-2027-para-reduzir-aliquota-do-imposto-sobre-o-consumo-do-governo-federal.ghtml",
+  "publicadoEm": "2026-11-03T09:19:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-22"
+ },
+ {
+  "titulo": "Montadoras americanas pedem banimento permanente de carros chineses",
+  "resumo": "Alliance for Automotive Innovation, que inclui GM, VW e Toyota, quer proibir veículos chineses nos EUA ainda em 2026. Argumentam risco à segurança nacional e investimentos locais.",
+  "fatos": [
+   "A solicitação foi feita em 2 de outubro de 2026.",
+   "Alliance for Automotive Innovation representa GM, Toyota, Volkswagen e outras 24 montadoras.",
+   "Proibição vigente nos EUA entra em vigor desde o início de 2025.",
+   "Tarifas superiores a 100% são aplicadas a veículos elétricos chineses.",
+   "Projeto de lei avançou em julho de 2026 no Senado dos EUA.",
+   "Mais de 100 parlamentares na Câmara dos EUA coautorizaram a proposta.",
+   "A União Europeia importou mais de 1,1 milhão de veículos chineses nos primeiros oito meses de 2026.",
+   "Donald Trump manifestou apoio à produção de carros chineses em solo americano em setembro de 2026."
+  ],
+  "explicacao": [
+   "Uma associação de fabricantes de automóveis chamada Alliance for Automotive Innovation, que reúne montadoras como General Motors, Volkswagen e Toyota, solicitou ao Congresso dos EUA que aprove ainda em 2026 uma proibição definitiva para importação de veículos chineses.",
+   "O apelo aconteceu em 2 de outubro, antes da retomada dos trabalhos legislativos após as eleições de meio de mandato nos EUA. A associação justifica que os veículos chineses ameaçam a segurança nacional e o investimento feito pelas montadoras que atuam no país.",
+   "Os EUA já possuem restrições desde o começo de 2025 que praticamente impedem a fabricação e venda de carros chineses, além de tarifas acima de 100% sobre veículos elétricos chineses. Agora, a associação busca uma lei que fixe a proibição de forma permanente.",
+   "A proposta avançou no Senado e na Câmara dos Representantes, mas ainda depende de votação final que pode ocorrer até o fim de 2026. A eleição pode influenciar o andamento caso o controle do Legislativo mude para os democratas."
+  ],
+  "detalhes": [
+   "A proibição busca proteger a segurança nacional diante do risco de vigilância via dados dos motoristas.",
+   "Montadoras investem há anos em comunidades americanas, temendo concorrência desleal.",
+   "Projeto tramitado antes da retomada dos trabalhos legislativos após eleições de meio de mandato.",
+   "A proposta conta com apoio bipartidário, mas pode atrasar se os democratas conquistarem o Legislativo.",
+   "China classificou as propostas como repressão injustificada e pediu respeito à concorrência justa.",
+   "A associação cita avanço de carros chineses na Europa como alerta para os EUA.",
+   "Barreiras atuais incluem tarifas e regulamentações que impedem a entrada de veículos chineses."
+  ],
+  "declaracoes": [
+   {
+    "quem": "John Bozzella, presidente da Alliance for Automotive Innovation",
+    "oque": "Defendeu proteger mercado americano dos riscos de importações chinesas e investimentos locais."
+   },
+   {
+    "quem": "Ministério das Relações Exteriores da China",
+    "oque": "Pediu respeito às leis de mercado e classificou medidas como repressão injustificada."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "início de 2025",
+    "oque": "Entraram em vigor restrições que bloqueiam veículos chineses nos EUA."
+   },
+   {
+    "quando": "julho de 2026",
+    "oque": "Projeto de proibição aprovado por comissão do Senado dos EUA."
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "Trump afirmou aceitar carros chineses produzidos nos EUA."
+   },
+   {
+    "quando": "2 de outubro de 2026",
+    "oque": "Alliance for Automotive Innovation pediu proibição permanente no Congresso."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Tarifa",
+    "significado": "Imposto sobre importação de produtos estrangeiros."
+   },
+   {
+    "termo": "Montadora",
+    "significado": "Empresa que fabrica veículos automotores."
+   },
+   {
+    "termo": "Segurança nacional",
+    "significado": "Proteção do país contra ameaças internas e externas."
+   }
+  ],
+  "pergunta": "Você acha justificável proibir carros chineses nos EUA por segurança nacional?",
+  "tamanhoTexto": 4631,
+  "numeros": [
+   {
+    "valor": "100%",
+    "rotulo": "tarifas sobre veículos elétricos chineses nos Estados Unidos"
+   },
+   {
+    "valor": "1,1 milhão",
+    "rotulo": "veículos chineses importados pela União Europeia nos primeiros oito meses de 2026"
+   },
+   {
+    "valor": "24",
+    "rotulo": "montadoras citadas integradas na Alliance for Automotive Innovation"
+   },
+   {
+    "valor": "100",
+    "rotulo": "parlamentares coautores da proposta na Câmara dos Representantes"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "banimento permanente de",
+  "porQueImporta": "Essa proibição pode proteger investimentos das montadoras americanas, reduzir riscos de segurança nacional e afetar a concorrência no mercado de veículos elétricos e tradicionais, diretamente impactando decisões estratégicas de investidores e operadores interessados no setor automotivo.",
+  "impactoMercado": "Se aprovada, a lei pode favorecer fabricantes locais e estrangeiras estabelecidas nos EUA, limitando entrada de carros chineses. Isso deve influenciar setores automotivos, cadeias produtivas, e ativos ligados a montadoras e fornecedores do mercado americano.",
+  "entenda": "Essa notícia envolve a restrição de importação e produção de veículos chineses nos EUA, motivada por preocupações de segurança nacional e competição desleal. A proibição protege a indústria local contra concorrência externa e possíveis riscos de espionagem via dados veiculares.",
+  "observar": "Fique atento às votações no Congresso americano até dezembro de 2026, especialmente se os democratas conquistarem a maioria, pois isso pode mudar o andamento do projeto.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Entenda como pressões políticas e de segurança nos EUA impactam o mercado automotivo global, abrindo discussão sobre regras e protecionismo que influenciam estratégias de investimento e operações no setor.",
+  "gancho": "*Banimento* de carros chineses nos EUA",
+  "ideias": [
+   "Por que EUA querem banir carros chineses? Entenda os motivos",
+   "O impacto do banimento de veículos chineses no mercado americano",
+   "Montadoras globais pressionam Congresso dos EUA por proteção"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "escudo",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://g1.globo.com/carros/noticia/2026/11/03/montadoras-pedem-banimento-permanente-de-carros-chineses-nos-estados-unidos.ghtml",
+  "publicadoEm": "2026-11-03T10:41:53-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-23"
+ },
+ {
+  "titulo": "Montreal é a cidade mais segura para viajar em 2027, diz seguradora",
+  "resumo": "Montreal, no Canadá, lidera ranking de cidades mais seguras para turistas em 2027, superando Reykjavik. Nove cidades europeias aparecem no top 15, incluindo Zurique e Amsterdã.",
+  "fatos": [
+   "Montreal desbancou Reykjavik e assumiu o 1º lugar em segurança para turistas.",
+   "Zurique ficou em 2º lugar e Amsterdã em 3º no ranking.",
+   "Reykjavik caiu do 1º para o 5º lugar em 2027.",
+   "O levantamento ouviu mais de 1.500 viajantes sobre segurança dos destinos.",
+   "Paris está em 15º lugar, enfrentando manifestações violentas desde julho de 2026.",
+   "O trânsito em Montreal pode complicar deslocamentos devido a pontes e obras.",
+   "Foram avaliadas 38 cidades populares entre turistas dos EUA.",
+   "Nove cidades europeias estão entre as 15 mais seguras.",
+   "O ranking combina avaliações dos turistas e dados de fontes como Numbeo e The Economist.",
+   "O levantamento foi divulgado em 28 de agosto de 2026."
+  ],
+  "explicacao": [
+   "A seguradora Berkshire Hathaway Travel Protection divulgou em 28 de agosto de 2026 o relatório anual State of Travel Insurance, que analisou a segurança de 38 cidades populares entre turistas norte-americanos para 2027.",
+   "Montreal, no Canadá, foi escolhida a cidade mais segura para viagens, destacando-se pelos baixos índices de criminalidade, embora o trânsito e obras possam causar transtornos na cidade.",
+   "Cidades europeias como Zurique (2º), Amsterdã (3º) e Reykjavik (5º) também figuram entre as mais seguras, com indicações de transporte público eficiente e ambiente urbano conservador.",
+   "O estudo combinou avaliações de mais de 1.500 viajantes com dados externos, mas ressalta que as condições observadas refletem agosto de 2026 e não garantem segurança absoluta."
+  ],
+  "detalhes": [
+   "Quem: Berkshire Hathaway Travel Protection, seguradora americana de viagens.",
+   "Quando: dados coletados até agosto de 2026, relatório para 2027.",
+   "Onde: avaliação de 38 cidades turísticas populares nos EUA, incluindo América do Norte e Europa.",
+   "Como: pesquisa com mais de 1.500 viajantes + indicadores externos de segurança.",
+   "Comparação: Montreal subiu ao 1º lugar, Reykjavík caiu do 1º para o 5º em relação ao ano anterior.",
+   "Contexto: avaliação não garante isenção de riscos, especialmente devido a eventos como protestos em Paris.",
+   "Cidades citadas: Montreal (1º), Zurique (2º), Amsterdã (3º), Reykjavik (5º), Oslo (6º), Veneza (8º)."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Berkshire Hathaway Travel Protection",
+    "oque": "Alertou que o trânsito em Montreal pode causar atrasos apesar da segurança geral."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "28 de agosto de 2026",
+    "oque": "Divulgação do relatório State of Travel Insurance para 2027."
+   },
+   {
+    "quando": "Agosto de 2026",
+    "oque": "Coleta e análise dos dados para o ranking."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Índice de criminalidade",
+    "significado": "Medida da frequência de crimes em um local."
+   },
+   {
+    "termo": "Transporte público",
+    "significado": "Sistema coletivo de transporte na cidade."
+   },
+   {
+    "termo": "Ranking",
+    "significado": "Lista ordenada que classifica itens por critérios."
+   }
+  ],
+  "pergunta": "Você já visitou alguma dessas cidades mais seguras? Qual foi sua experiência?",
+  "tamanhoTexto": 6443,
+  "numeros": [
+   {
+    "valor": "38",
+    "rotulo": "Cidades avaliadas no ranking"
+   },
+   {
+    "valor": "1.500",
+    "rotulo": "Viajantes consultados na pesquisa"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "Ano da previsão do ranking"
+   },
+   {
+    "valor": "15",
+    "rotulo": "Posições destacadas no ranking das cidades mais seguras"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Posição de Montreal",
+    "antes": "Não líder",
+    "depois": "1º lugar"
+   },
+   {
+    "item": "Posição de Reykjavik",
+    "antes": "1º lugar",
+    "depois": "5º lugar"
+   },
+   {
+    "item": "Posição de Amsterdã",
+    "antes": "4º lugar",
+    "depois": "3º lugar"
+   }
+  ],
+  "destaque": "Montreal, 1º lugar",
+  "porQueImporta": "Investidores e viajantes precisam considerar a segurança para proteger seus recursos e evitar surpresas negativas. O ranking mostra as cidades com menor risco percebido, refletindo fatores que podem impactar desde negócios até custos durante viagens.",
+  "impactoMercado": "Destinos mais seguros podem atrair maior fluxo turístico e investimentos em hospitalidade. Setores relacionados ao turismo, como companhias aéreas, hotéis e seguradoras, podem se beneficiar com o interesse maior em locais bem avaliados.",
+  "entenda": "Ranking de segurança para turistas combina a percepção dos viajantes e dados objetivos para indicar onde se viaja com menos riscos. Segurança urbana engloba índices de criminalidade, infraestrutura, transporte e outros fatores que influenciam o bem-estar durante a viagem.",
+  "observar": "Fique atento a atualizações do ranking e a eventos locais que podem alterar a segurança, como manifestações, além de datas de divulgação do próximo relatório anual.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Explorar como segurança em viagens impacta decisões de investidores e turistas, mostrando a vantagem de entender destinos para negociar ou visitar com mais informação e segurança financeira.",
+  "gancho": "*Montreal* líder em segurança 2027",
+  "ideias": [
+   "Montreal: por que é a cidade mais segura para turistas",
+   "O que torna Zurique e Amsterdã destinos seguros em 2027",
+   "Como o ranking de cidades seguras pode influenciar seu planejamento de viagem"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "globo",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://www.seudinheiro.com/2026/lifestyle/nem-zurique-nem-amsterda-a-cidade-mais-segura-para-viajar-em-2027-e-montreal-canada-sama/",
+  "publicadoEm": "2026-11-03T10:44:40-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-24"
+ },
+ {
+  "titulo": "Rockstar confirma pré-carregamento e tamanho do GTA 6 para 10/11",
+  "resumo": "GTA 6 terá até 212 GB e pré-carregamento inicia em 10 de novembro para PS5 e Xbox Series X|S, nove dias antes do lançamento oficial em 19/11/2026.",
+  "fatos": [
+   "GTA 6 terá até 212 GB de tamanho na instalação.",
+   "Pré-carregamento inicia em 10 de novembro para PS5 e Xbox Series X|S.",
+   "Download no PS5 começa à meia-noite local do dia 10 de novembro.",
+   "Download no Xbox começa às 00h GMT de 10 de novembro.",
+   "Lançamento oficial do jogo será em 19 de novembro de 2026.",
+   "Edições físicas chegam às lojas dia 12 de novembro, sem disco, com código digital.",
+   "Pôster digital gratuito será disponibilizado em 19 de novembro.",
+   "Pôster físico será vendido posteriormente na Loja da Rockstar."
+  ],
+  "explicacao": [
+   "A Rockstar Games anunciou que o jogo Grand Theft Auto VI terá um tamanho de instalação de até 212 GB, variando conforme o console. O pré-carregamento do jogo começa em 10 de novembro para as plataformas PlayStation 5 e Xbox Series X|S, com horários específicos para cada uma.",
+   "O pré-carregamento no PS5 inicia à meia-noite do dia 10 de novembro no horário local das regiões, enquanto no Xbox Series X|S o download começa simultaneamente às 00h GMT, correspondente a 21h do dia 9 de novembro em Brasília. Essa antecipação ocorreu em relação à previsão inicial que era 12 de novembro.",
+   "A Rockstar alerta os jogadores a verificarem o espaço disponível nos consoles para a instalação, pois o grande tamanho de até 212 GB exige armazenamento adequado. As edições físicas de GTA 6 nas lojas, que não possuem disco, disponibilizam um código para o download digital do jogo antes do lançamento.",
+   "No dia 19 de novembro, data oficial do lançamento, os fãs também poderão acessar um pôster digital gratuito com a arte de capa e o mapa de Leonida, o cenário do jogo. Posteriormente, haverá venda de pôster físico na loja oficial da Rockstar, podendo ser adquirido separadamente ou como brinde."
+  ],
+  "detalhes": [
+   "A Rockstar Games anunciou o calendário em 3 de novembro de 2026.",
+   "O pré-carregamento foi antecipado em dois dias em relação à previsão inicial de 12 de novembro.",
+   "Os horários de início do download são diferentes para PS5 (meia-noite local) e Xbox (00h GMT).",
+   "As versões vendidas em caixa não têm disco, apenas código para cópia digital.",
+   "O mapa do jogo se chama Leonida, cenário de GTA 6.",
+   "O pôster digital poderá ser impresso pelos jogadores.",
+   "O pôster físico será impresso dos dois lados e será vendido ou dado como brinde."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rockstar Games",
+    "oque": "Confirmou tamanho do jogo e datas do pré-carregamento para consoles PS5 e Xbox Series X|S."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Anúncio oficial do pré-carregamento e tamanho do GTA 6."
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Início do pré-carregamento do GTA 6 para PS5 e Xbox Series X|S."
+   },
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Chegada das edições físicas nas lojas, com código para download digital."
+   },
+   {
+    "quando": "19 de novembro de 2026",
+    "oque": "Lançamento oficial do GTA 6 e distribuição de pôster digital gratuito."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pré-carregamento",
+    "significado": "Download antecipado para jogar imediatamente no lançamento."
+   },
+   {
+    "termo": "Edição física sem disco",
+    "significado": "Caixa com código para baixar o jogo, sem mídia física."
+   }
+  ],
+  "pergunta": "Você já tem espaço suficiente no seu console para o GTA 6?",
+  "tamanhoTexto": 3067,
+  "numeros": [
+   {
+    "valor": "212 GB",
+    "rotulo": "Tamanho máximo do GTA 6 para instalação"
+   },
+   {
+    "valor": "10 de novembro de 2026",
+    "rotulo": "Data do início do pré-carregamento"
+   },
+   {
+    "valor": "19 de novembro de 2026",
+    "rotulo": "Data oficial de lançamento do jogo"
+   },
+   {
+    "valor": "12 de novembro de 2026",
+    "rotulo": "Data da chegada das edições físicas nas lojas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Data do pré-carregamento",
+    "antes": "12 de novembro de 2026",
+    "depois": "10 de novembro de 2026"
+   }
+  ],
+  "destaque": "212 GB e",
+  "porQueImporta": "O tamanho e a antecipação do pré-carregamento são importantes para os jogadores planejarem o espaço de armazenamento e o tempo para baixar o jogo. Uma preparação adequada evita atrasos e frustrações no dia do lançamento.",
+  "impactoMercado": "Com o pré-carregamento antecipado, a Rockstar melhora a experiência do usuário, aumentando o engajamento e potencialmente as vendas digitais. O grande arquivo de 212 GB também reforça necessidades de hardware e armazenamento dos consoles.",
+  "entenda": "Pré-carregamento é o download antecipado do jogo antes da data oficial de lançamento, permitindo que o jogador comece a jogar logo na estreia sem esperar o download completo.",
+  "observar": "Fique atento ao espaço disponível no console e aos horários do pré-carregamento. Nos dias 10 e 19 de novembro haverá eventos importantes para os jogadores de GTA 6.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicamos detalhes técnicos da preparação para lançamento de um grande jogo, importante para entender logística e impacto digital, mostrando como planejar espaço e tempo para operações digitais.",
+  "gancho": "*GTA 6* pré-carregamento e tamanho",
+  "ideias": [
+   "Calendário oficial do GTA 6: pré-carregamento e lançamento",
+   "Como se preparar para baixar GTA 6: espaço e datas",
+   "O que muda no lançamento do GTA 6? Tudo sobre o pré-carregamento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "foguete",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "url": "https://exame.com/pop/gta-6-rockstar-confirma-tamanho-do-jogo-e-antecipa-pre-carregamento-para-10-de-novembro/",
+  "publicadoEm": "2026-11-03T10:30:57-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-25"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bank-of-england-decision-in-november-20260730150602252",
+  "titulo": "Mercado de previsões vê 98,6% de chance de aumento de 25 bps na taxa do Banco da Inglaterra",
+  "resumo": "A expectativa de aumento nas taxas reflete a percepção dos investidores sobre a economia britânica.",
+  "probs": [
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 98.6
+   },
+   {
+    "opcao": "Sem alteração",
+    "prob": 1.2
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
+    "prob": 0.4
+   },
+   {
+    "opcao": "Redução de 50+ bps",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2026-11-05",
+  "volume24h": "US$ 21 mil",
+  "fatos": [
+   "Aumento de 25 bps: 98,6%",
+   "Sem alteração: 1,2%",
+   "Aumento de 50+ bps: 0,4%",
+   "Redução de 50+ bps: 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "98,6%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "1,2%",
+    "rotulo": "Sem alteração"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 50+ bps"
+   }
+  ],
+  "destaque": "98,6%",
+  "gancho": "*Expectativa* alta de aumento",
+  "entenda": "O aumento das taxas pelo Banco da Inglaterra visa controlar a inflação e ajustar a política monetária do país.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bank-of-england-decision-in-november-20260730150602252",
+  "publicadoEm": "2026-11-03T14:21:50-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-03T14:21:50-03:00",
+  "data": "2026-11-03",
+  "status": "nova",
+  "id": "2026-11-03-p1"
+ },
+ {
   "titulo": "Piora na percepção de risco pós-eleição pressiona BC a interromper cortes na Selic",
   "resumo": "Após a reeleição do presidente Lula, piora da percepção de risco deve levar Copom a pausar cortes na Selic, atualmente em 13,75% ao ano.",
   "fatos": [
@@ -2537,53 +3929,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 91.1% de chance de Bitcoin a 77,500 em novembro",
-  "resumo": "Os apostadores estão muito confiantes de que o preço do Bitcoin vai atingir 77,500 até dezembro de 2026.",
+  "titulo": "Mercado de previsões vê 76,5% de chance do Bitcoin ultrapassar 80.000 em novembro.",
+  "resumo": "As apostas indicam uma expectativa otimista para o Bitcoin até o início de novembro.",
   "probs": [
    {
-    "opcao": "↑ 77,500",
-    "prob": 91.1
+    "opcao": "↑ 80,000",
+    "prob": 76.5
    },
    {
     "opcao": "↓ 75,000",
-    "prob": 77.5
-   },
-   {
-    "opcao": "↑ 80,000",
     "prob": 70.5
    },
    {
-    "opcao": "↓ 72,500",
-    "prob": 56.5
+    "opcao": "↓ 77,500",
+    "prob": 70.0
+   },
+   {
+    "opcao": "↑ 82,500",
+    "prob": 54.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 1,6 mi",
+  "volume24h": "US$ 323 mil",
   "fatos": [
-   "↑ 77,500: 91,1%",
-   "↓ 75,000: 77,5%",
-   "↑ 80,000: 70,5%",
-   "↓ 72,500: 56,5%"
+   "↑ 80,000: 76,5%",
+   "↓ 75,000: 70,5%",
+   "↓ 77,500: 70,0%",
+   "↑ 82,500: 54,5%"
   ],
   "numeros": [
    {
-    "valor": "91,1%",
-    "rotulo": "↑ 77,500"
-   },
-   {
-    "valor": "77,5%",
-    "rotulo": "↓ 75,000"
-   },
-   {
-    "valor": "70,5%",
+    "valor": "76,5%",
     "rotulo": "↑ 80,000"
    },
    {
-    "valor": "56,5%",
-    "rotulo": "↓ 72,500"
+    "valor": "70,5%",
+    "rotulo": "↓ 75,000"
+   },
+   {
+    "valor": "70,0%",
+    "rotulo": "↓ 77,500"
+   },
+   {
+    "valor": "54,5%",
+    "rotulo": "↑ 82,500"
    }
   ],
-  "destaque": "91,1%",
+  "destaque": "76,5%",
   "gancho": "*Otimismo* nas apostas sobre Bitcoin",
   "entenda": "As expectativas dos preços do Bitcoin refletem a confiança do mercado em sua valorização futura, embora as criptos sejam notoriamente voláteis.",
   "categoria": "Previsões",
@@ -2596,8 +3988,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-02T20:13:25-03:00",
   "data": "2026-11-02",
-  "status": "nova",
-  "id": "2026-11-02-p9"
+  "status": "atualizada",
+  "id": "2026-11-02-p9",
+  "atualizadoEm": "2026-11-03T14:21:50-03:00"
  },
  {
   "titulo": "Petróleo cai mais de 8% com avanço em negociações no Oriente Médio",
