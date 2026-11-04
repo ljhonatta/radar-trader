@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-03T18:16:09-03:00",
+  "ultimaColeta": "2026-11-03T22:39:26-03:00",
   "novas": 3,
   "atualizadas": 1,
   "status": "ok",
-  "mensagem": "3 nova(s) e 1 atualizada(s): Rio líder em indústria química; Ataque à Binance e segurança cripto.",
+  "mensagem": "3 nova(s) e 1 atualizada(s): Selic em sinuca de bico; dólar e Selic em alta; Investigação eleitoral nos EUA.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-03T22:39:26-03:00",
    "2026-11-03T18:16:09-03:00",
    "2026-11-03T14:21:50-03:00",
    "2026-11-03T00:03:53-03:00",
@@ -18,8 +19,7 @@
    "2026-11-01T16:53:49-03:00",
    "2026-11-01T13:25:21-03:00",
    "2026-10-31T21:26:06-03:00",
-   "2026-10-31T16:32:47-03:00",
-   "2026-10-31T12:30:15-03:00"
+   "2026-10-31T16:32:47-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -30,26 +30,26 @@
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "165.569",
-    "var": "-1,40%"
+    "v": "165.529",
+    "var": "-1,42%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,49",
-    "var": "+1,00%"
+    "var": "+0,01%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,15",
-    "var": "+1,05%"
+    "v": "R$ 6,18",
+    "var": "+0,43%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 77,8 mil",
-    "var": "+1,42%"
+    "v": "US$ 76,9 mil",
+    "var": "-0,24%"
    },
    {
     "k": "SPX",
@@ -72,8 +72,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.931,20",
-    "var": "-0,97%"
+    "v": "US$ 3.963,30",
+    "var": "+0,58%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "ter 18h",
+  "hora": "ter 22h",
   "data": "2026-11-03",
-  "atualizadoEm": "2026-11-03T18:16:09-03:00",
-  "ibov": "165.569",
-  "ibovVar": "-1,40%",
+  "atualizadoEm": "2026-11-03T22:39:26-03:00",
+  "ibov": "165.529",
+  "ibovVar": "-1,42%",
   "dolar": "R$ 5,49",
-  "dolarVar": "+1,00%",
-  "btc": "US$ 77,8 mil"
+  "dolarVar": "+0,01%",
+  "btc": "US$ 76,9 mil"
  }
 }

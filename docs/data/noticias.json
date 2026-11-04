@@ -1,5 +1,400 @@
 [
  {
+  "titulo": "Piora do Focus dificulta corte da Selic na reunião do Copom em 4/11",
+  "resumo": "O Boletim Focus de outubro prevê aumento na inflação, dólar e Selic, dificultando um corte da taxa no Copom. Analista Vinicius Torres Freire indica que o Banco Central está em ‘sinuca de bico’ para decisão nesta quarta-feira, 4.",
+  "fatos": [
+   "Boletim Focus aumentou projeção de inflação para 2026 de 5,19% para 5,22%.",
+   "Estimativa da Selic para fim de 2026 passou de 13,25% para 13,5%.",
+   "Dólar projetado para R$5,34 ao fim de 2026, ante R$5,05 da estimativa anterior.",
+   "Projeção de crescimento do PIB para 2026 caiu de 1,8% para 1,76%.",
+   "Expectativa de mercado indica 70% de chance de manutenção da Selic em 4/11.",
+   "Taxas de juros de longo prazo aproximam-se dos níveis da crise de janeiro de 2025.",
+   "Inflação projetada segue subindo para 4,76% em 2027 e 4,0% em 2028.",
+   "Parte do mercado avalia 50% de chance de elevação da Selic na reunião seguinte."
+  ],
+  "explicacao": [
+   "Na sexta-feira anterior à reunião do Copom de 4 de novembro, o Boletim Focus mostrou que as expectativas do mercado para inflação, câmbio e taxa básica de juros Selic pioraram, com a projeção da inflação para 2026 subindo para 5,22%, dólar para R$5,34 e Selic para 13,5%.",
+   "Essa piora reflete projeções econômicas ajustadas após a eleição presidencial, com crescimento econômico estimado menor, para 1,76% em 2026, e aumento dos juros futuros, em níveis próximos à turbulência de janeiro de 2025, complicando o cenário para o Banco Central.",
+   "Para o Banco Central, que usa a Selic como principal ferramenta para controlar a inflação, isso significa que um corte da taxa de juros na reunião da quarta-feira ficou praticamente inviável, e há até possibilidade de elevação na próxima reunião se as condições financeiras piorarem.",
+   "O mercado financeiro precifica hoje cerca de 70% de chance de manutenção da Selic em 13,75%, mas a combinação de inflação desancorada, dólar depreciado e juros longos altos gera um ‘cercamento’ das decisões do Copom, que deve agir com cautela diante do risco de perder o controle da inflação."
+  ],
+  "detalhes": [
+   "Vinicius Torres Freire é analista de política e economia do Times Brasil, licenciado exclusivo CNBC.",
+   "A piora das projeções veio logo após a eleição presidencial e considerou revisão para cima da inflação e dólar, e para baixo do crescimento.",
+   "A taxa Selic atual está em 13,75%, com expectativa de corte de 0,25 p.p. até o fim de 2026, segundo mercado.",
+   "As expectativas de inflação desancoradas indicam riscos crescentes de aceleração dos preços.",
+   "A combinação das pressões sobre câmbio, inflação e juros longos aperta o espaço para flexibilização monetária.",
+   "A desaceleração do crescimento econômico se relaciona a juros altos e endividamento de famílias, empresas e governo.",
+   "Torres Freire alerta que um corte da Selic agora poderia ser interpretado como ação política no mercado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Vinicius Torres Freire, analista de política e economia do Times",
+    "oque": "‘Ficou praticamente impossível o BC baixar a taxa de juros’ devido à piora das expectativas."
+   },
+   {
+    "quem": "Vinicius Torres Freire",
+    "oque": "A combinação de inflação e juros longos pressionados coloca o BC em posição delicada."
+   },
+   {
+    "quem": "Vinicius Torres Freire",
+    "oque": "Se o BC cortar a Selic agora, pode causar impressão de atuação política, mesmo sem ser."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Divulgação do Boletim Focus com revisões para inflação, Selic e dólar."
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Reunião do Copom para decisão da taxa Selic."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros usada para controle da inflação no Brasil."
+   },
+   {
+    "termo": "Boletim Focus",
+    "significado": "Levantamento semanal com projeções econômicas realizada pelo Banco Central."
+   },
+   {
+    "termo": "Copom",
+    "significado": "Comitê do Banco Central que define a taxa Selic."
+   }
+  ],
+  "pergunta": "Você acha que o Banco Central vai manter, cortar ou aumentar a Selic na próxima reunião?",
+  "tamanhoTexto": 12659,
+  "numeros": [
+   {
+    "valor": "5,22%",
+    "rotulo": "Inflação projetada para 2026 no Boletim Focus"
+   },
+   {
+    "valor": "13,5%",
+    "rotulo": "Projeção da Selic para o fim de 2026"
+   },
+   {
+    "valor": "R$ 5,34",
+    "rotulo": "Cotação projetada do dólar para fim de 2026"
+   },
+   {
+    "valor": "1,76%",
+    "rotulo": "Projeção de crescimento do PIB para 2026"
+   },
+   {
+    "valor": "70%",
+    "rotulo": "Chance estimada de manutenção da Selic em 4/11 segundo o mercado"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic atual em 3/11/2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Inflação para 2026",
+    "antes": "5,19%",
+    "depois": "5,22%"
+   },
+   {
+    "item": "Selic para fim de 2026",
+    "antes": "13,25%",
+    "depois": "13,5%"
+   },
+   {
+    "item": "Dólar para fim de 2026",
+    "antes": "R$5,05",
+    "depois": "R$5,34"
+   },
+   {
+    "item": "PIB para 2026",
+    "antes": "1,8%",
+    "depois": "1,76%"
+   }
+  ],
+  "destaque": "Inflação projetada sobe",
+  "porQueImporta": "Pelo aumento das expectativas de inflação, juros e dólar, o Banco Central terá menos margem para cortar a Selic, importante para quem opera na Bolsa e títulos. A decisão do Copom impacta custo do crédito, inflação e ambiente econômico geral.",
+  "impactoMercado": "Mantida ou elevada, a Selic influencia o rendimento de renda fixa e atratividade de setores mais sensíveis ao crédito e consumo, além da cotação do dólar e bolsa. Operadores devem acompanhar a postura do Banco Central diante das expectativas pressionadas.",
+  "entenda": "A Selic é a taxa básica de juros usada pelo BC para controlar a inflação. Quando a inflação sobe, o BC pode aumentar a Selic para conter preços, e quando a inflação desacelera, pode reduzir a Selic para estimular a economia. O Focus é um boletim semanal com projeções econômicas de mercado.",
+  "observar": "Acompanhar a decisão do Copom em 4 de novembro e as próximas projeções do Focus, além de dados de inflação e câmbio que podem influenciar política monetária.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia explica como as decisões do Banco Central, baseadas em projeções como o Focus, impactam juros, inflação e dólar, essenciais para que investidores e traders entendam o cenário econômico e tomem decisões melhores.",
+  "gancho": "*Selic* em *sinuca de bico*",
+  "ideias": [
+   "O que é o Boletim Focus e por que ele importa para a Selic?",
+   "Por que o mercado não espera corte da Selic em novembro de 2026?",
+   "Entenda como inflação e câmbio influenciam a taxa básica de juros"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Times Brasil; Estadão Economia; Bora Investir (B3)",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T22:39:26-03:00",
+  "url": "https://timesbrasil.com.br/brasil/vinicius-torres-freire-piora-do-focus-coloca-banco-central-em-uma-sinuca-de-bico-sobre-decisao-da-selic/",
+  "publicadoEm": "2026-11-03T22:15:51-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-28"
+ },
+ {
+  "titulo": "Dólar sobe 0,74% e fecha perto de R$ 5,50 em dia de cautela fiscal",
+  "resumo": "Em 3 de novembro, dólar avançou 0,74% a R$ 5,486, e Ibovespa caiu 1,42%, atingindo menor nível desde janeiro. Mercado reage à reeleição de Lula, incertezas fiscais e expectativa pelo Copom.",
+  "fatos": [
+   "Dólar comercial valorizou 0,74% e fechou a R$ 5,486 em 3 de novembro de 2026.",
+   "Durante o pregão, dólar atingiu máxima de R$ 5,509 às 13h50.",
+   "Ibovespa caiu 1,42%, fechando a 165.528,92 pontos.",
+   "Ibovespa acumula seis pregões consecutivos de queda após eleição de Lula.",
+   "Selic está atualmente em 13,75% ao ano; decisão do Copom será em 4 de novembro.",
+   "Projeções do boletim Focus elevaram inflação para 2027 de 4,34% para 4,76%.",
+   "Projeção para Selic no fim de 2027 subiu de 11,75% para 12,50%.",
+   "Dólar no índice DXY avançou 0,13%, aos 101,850 pontos.",
+   "Mercado reagiu à incerteza sobre propostas do economista André Lara Resende.",
+   "Eleições de meio mandato nos EUA ocorreram em 3 de novembro, influenciando mercados."
+  ],
+  "explicacao": [
+   "No pregão de 3 de novembro, o dólar comercial valorizou-se 0,74%, fechando a R$ 5,486, aproximando-se da marca de R$ 5,50. O Ibovespa caiu 1,42%, aos 165.528,92 pontos, o menor patamar desde janeiro, com perdas pelo sexto pregão consecutivo após a eleição presidencial.",
+   "Esses movimentos refletem a cautela dos investidores diante das incertezas sobre a política fiscal do governo Lula, surgidas após sua reeleição em 25 de outubro. Também influenciaram as expectativas para a decisão do Copom sobre a taxa Selic, prevista para 4 de novembro, além de propostas econômicas polêmicas e o cenário internacional.",
+   "A alta do dólar e a queda da bolsa mostraram a pressão sobre os ativos brasileiros, causada pela falta de definição do Ministério da Fazenda, rumores sobre tabelamento da Selic e preocupações com a condução das contas públicas. As notícias externas, como as eleições de meio de mandato nos EUA, também afetaram o mercado.",
+   "Para os próximos dias, a decisão do Copom sobre a Selic e o comunicado do Banco Central serão centrais para o comportamento dos ativos. O mercado acompanha a possibilidade de manutenção da taxa em 13,75% ao ano, diante da piora nas projeções de inflação e da desvalorização do real."
+  ],
+  "detalhes": [
+   "O dólar superou R$ 5,50 no primeiro pregão de novembro após feriado e semana de desvalorização.",
+   "Após eleição presidencial de 25/10, mercado cambial pressiona o real com dúvidas fiscais.",
+   "Ministro Dario Durigan rejeitou propostas de Lara Resende e defendeu ajuste fiscal gradual.",
+   "Ibovespa recuava desde os 205 mil pontos antes da eleição para cerca de 165.500 pontos.",
+   "Ações da Petrobras e Vale contribuíram para a queda da bolsa.",
+   "Boletim Focus atual foi divulgado em 3 de novembro reforçando piora nas expectativas inflacionárias.",
+   "Cenário externo inclui eleição dos EUA, com possível impacto na política internacional e dólar."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "As propostas de Lara Resende têm deficiências e não estão sendo discutidas pelo governo."
+   },
+   {
+    "quem": "Emerson Junior, head de câmbio da Convexa Investimentos",
+    "oque": "Rumores sobre tabelamento da Selic e indefinição no Ministério da Fazenda pressionam ativos locais."
+   },
+   {
+    "quem": "Francesco Pesole, estrategista de câmbio do ING",
+    "oque": "Resultados das eleições legislativas dos EUA podem pressionar o dólar, dependendo do cenário."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de outubro de 2026",
+    "oque": "Reeleição do presidente Luiz Inácio Lula da Silva."
+   },
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Dólar sobe 0,74%, Ibovespa cai 1,42%, cautela fiscal e expectativa pelo Copom."
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Reunião do Copom para definição da taxa Selic."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Copom",
+    "significado": "Comitê que define a taxa básica de juros no Brasil."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede o desempenho das principais ações na B3."
+   },
+   {
+    "termo": "Taxa Selic",
+    "significado": "Juro básico da economia usado para controlar a inflação."
+   }
+  ],
+  "pergunta": "Como você acha que a decisão do Copom vai impactar o mercado nos próximos dias?",
+  "tamanhoTexto": 14093,
+  "numeros": [
+   {
+    "valor": "0,74%",
+    "rotulo": "alta do dólar comercial em 3/11"
+   },
+   {
+    "valor": "R$ 5,486",
+    "rotulo": "cotação de fechamento do dólar comercial"
+   },
+   {
+    "valor": "R$ 5,509",
+    "rotulo": "máxima do dólar durante o pregão"
+   },
+   {
+    "valor": "1,42%",
+    "rotulo": "queda do Ibovespa em 3/11"
+   },
+   {
+    "valor": "165.528,92",
+    "rotulo": "pontos do Ibovespa no fechamento"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic atual"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Projeção de inflação para 2027",
+    "antes": "4,34%",
+    "depois": "4,76%"
+   },
+   {
+    "item": "Projeção da Selic para fim de 2027",
+    "antes": "11,75%",
+    "depois": "12,50%"
+   },
+   {
+    "item": "Ibovespa antes da eleição",
+    "antes": "acima de 205 mil pontos",
+    "depois": "165.528 pontos"
+   }
+  ],
+  "destaque": "0,74% alta do",
+  "porQueImporta": "Os movimentos do dólar e da bolsa refletem a percepção do mercado sobre riscos fiscais e econômicos do país, especialmente após a eleição presidencial. Investidores ficam atentos à política fiscal, à decisão do Copom e ao cenário externo, que impactam custos de financiamento e retornos dos investimentos.",
+  "impactoMercado": "A alta do dólar tende a pressionar empresas endividadas em moeda estrangeira e a influenciar setores exportadores. A queda do Ibovespa indica aversão ao risco local, podendo afetar fundos de ações e FIIs. A decisão da Selic será vital para os juros e a economia, influenciando desde títulos públicos até crédito.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, que reflete a valorização ou desvalorização das ações mais negociadas. O dólar comercial é a moeda norte-americana usada em transações oficiais. A taxa Selic é o principal instrumento do Banco Central para controlar a inflação e influencia o custo do dinheiro no país.",
+  "observar": "Fique de olho na decisão do Copom marcada para 4 de novembro, além das repercussões das eleições americanas e novas atualizações do boletim Focus para entender a direção dos juros e da inflação no Brasil.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia ajuda a entender os efeitos das decisões políticas e econômicas no câmbio e na bolsa, mostrando a importância de acompanhar eventos como a decisão da Selic para operar ou investir com mais informação.",
+  "gancho": "*dólar* e *Selic* em alta",
+  "ideias": [
+   "Por que o dólar sobe após eleições?",
+   "O que esperar da decisão do Copom nesta quarta?",
+   "Como as eleições dos EUA influenciam o real e a bolsa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; Money Times; G1 Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T22:39:26-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-074-e-aproxima-se-de-r-550-em-dia-de-cautela-fiscal",
+  "publicadoEm": "2026-11-03T18:59:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-29"
+ },
+ {
+  "titulo": "Governo Trump notifica advogado democrata sobre investigação eleitoral",
+  "resumo": "O governo de Donald Trump notificou o advogado Marc Elias por possível investigação ligada à disputa ao Senado dos EUA com candidatos de nomes semelhantes.",
+  "fatos": [
+   "As notificações foram feitas em 3 de novembro de 2026.",
+   "Marc Elias é advogado do Partido Democrata.",
+   "O caso envolve Dan J. Sullivan, professor aposentado, e Dan S. Sullivan, senador republicano.",
+   "Mary Peltola, democrata, pode ter ajudado a recrutar Dan J. Sullivan.",
+   "Investigações são conduzidas pelo Departamento de Justiça dos EUA.",
+   "Material divulgado não apresenta acusações formais até o momento.",
+   "Marc Elias criticou o uso político do DOJ pelo governo Trump.",
+   "As pessoas notificadas falaram sob anonimato por se tratar de investigação em andamento."
+  ],
+  "explicacao": [
+   "O Departamento de Justiça dos EUA notificou o advogado democrata Marc Elias e outras pessoas sobre uma investigação relacionada à disputa ao Senado em 2026, envolvendo dois candidatos com nomes parecidos.",
+   "A investigação foca na candidatura do professor Dan J. Sullivan, que tem nome parecido com o senador republicano Dan S. Sullivan, e a campanha democrata de Mary Peltola pode ter participado do recrutamento desse candidato.",
+   "O governo de Trump argumenta que essa candidatura semelhante causaria confusão para os eleitores, enquanto Elias critica o uso do Departamento de Justiça como ferramenta política sem evidências de irregularidade.",
+   "Ainda não há acusações formais, e o caso segue em investigação por órgãos oficiais, indicando possíveis efeitos na campanha eleitoral e no ambiente político dos EUA nos próximos meses."
+  ],
+  "detalhes": [
+   "O conflito é sobre a autorização de candidatura com nomes semelhantes que podem confundir eleitores.",
+   "A investigação ocorre em meio às eleições que mantêm o controle da Câmara e do Senado dos EUA indefinidos.",
+   "Marc Elias afirmou que não há evidências de ilegalidade contra ele ou os outros notificados.",
+   "A campanha de Mary Peltola tem ligação indireta com o caso pela participação no recrutamento.",
+   "A notificação foi feita pelo Departamento de Justiça, órgão federal do governo americano.",
+   "Donald Trump usa o caso como argumento em disputas políticas que envolvem o DOJ.",
+   "O assunto foi divulgado inicialmente pelo The New York Times e confirmado por fontes anônimas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Marc Elias, advogado democrata",
+    "oque": "O governo Trump usa repetidamente o DOJ contra inimigos políticos sem evidência de irregularidades."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Governo Trump notifica Marc Elias e outros na investigação."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Departamento de Justiça (DOJ)",
+    "significado": "Órgão do governo dos EUA que realiza investigações e ações legais federais"
+   },
+   {
+    "termo": "Notificação",
+    "significado": "Aviso formal que alguém está sendo investigado ou envolvido em um processo"
+   }
+  ],
+  "pergunta": "Você acha que nomes semelhantes podem influenciar eleições? Por quê?",
+  "tamanhoTexto": 2753,
+  "numeros": [
+   {
+    "valor": "100 mil",
+    "rotulo": "valor em dólares no caso Trump Media (não relacionado à investigação eleitoral)"
+   },
+   {
+    "valor": "3/11/2026",
+    "rotulo": "data da notificação na investigação do Senado"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Notificação de Marc",
+  "porQueImporta": "Para quem opera no mercado, entender o impacto político das eleições americanas é fundamental, pois disputas judiciais e investigações envolvendo figuras importantes podem influenciar a estabilidade política e decisões econômicas globais relacionadas aos EUA.",
+  "impactoMercado": "Essa investigação pode aumentar a volatilidade no mercado diante da indefinição sobre o controle do Senado dos EUA, influenciando ativos ligados à política americana, moedas e setores com exposição às decisões do governo norte-americano.",
+  "entenda": "O Departamento de Justiça (DOJ) é responsável pelas investigações e ações legais federais nos EUA. Notificações indicam que alguém pode ser investigado, mas não significa que houve crime. Candidatos com nomes semelhantes podem criar confusão entre eleitores e alterar estratégias eleitorais.",
+  "observar": "Acompanhe possíveis novas informações oficiais do Departamento de Justiça e atualizações sobre a disputa ao Senado nos EUA, especialmente após 3 de novembro de 2026, para entender o andamento da investigação.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como processos políticos e jurídicos impactam no ambiente eleitoral dos EUA, que influencia o mercado global — essencial para quem quer entender política e finanças juntas e melhorar suas decisões.",
+  "gancho": "*Investigação* eleitoral nos* EUA*",
+  "ideias": [
+   "Como disputas políticas influenciam o mercado financeiro global?",
+   "Entenda o papel do DOJ nas eleições americanas",
+   "Nomes semelhantes em eleições podem confundir o eleitorado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T22:39:26-03:00",
+  "url": "https://timesbrasil.com.br/mundo/trump-mira-advogado-democrata-em-investigacao-eleitoral/",
+  "publicadoEm": "2026-11-03T22:09:48-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-30"
+ },
+ {
   "titulo": "Rio lidera reindustrialização em química e fertilizantes até 2030, segundo Firjan",
   "resumo": "Firjan aponta que o Rio de Janeiro deve ser epicentro de reindustrialização em 2026, com mais de R$ 25 bilhões em investimentos até 2030 em petroquímica e fertilizantes.",
   "fatos": [
@@ -5085,53 +5480,53 @@
  {
   "tipo": "sinal",
   "slug": "bank-of-mexico-decision-in-november",
-  "titulo": "Mercado de previsões vê 78% de chance de não mudança pelo Banco do México",
-  "resumo": "A expectativa predominante é de que o Banco do México mantenha a taxa de juros sem alterações em novembro.",
+  "titulo": "Mercado de previsões vê 62,5% de chance de manutenção da taxa pelo Banco do México em novembro",
+  "resumo": "As apostas indicam uma probabilidade maior de não alteração na taxa de juros.",
   "probs": [
    {
-    "opcao": "sem alteração",
-    "prob": 78.0
+    "opcao": "Sem alteração",
+    "prob": 62.5
    },
    {
-    "opcao": "redução de 25 bps",
-    "prob": 22.3
+    "opcao": "Redução de 25 bps",
+    "prob": 36.0
    },
    {
-    "opcao": "redução de 50+ bps",
+    "opcao": "Redução de 50+ bps",
     "prob": 0.1
    },
    {
-    "opcao": "aumento de 25 bps",
+    "opcao": "Aumento de 25 bps",
     "prob": 0.1
    }
   ],
   "prazo": "2026-11-05",
-  "volume24h": "US$ 58 mil",
+  "volume24h": "US$ 78 mil",
   "fatos": [
-   "sem alteração: 78,0%",
-   "redução de 25 bps: 22,3%",
-   "redução de 50+ bps: 0,1%",
-   "aumento de 25 bps: 0,1%"
+   "Sem alteração: 62,5%",
+   "Redução de 25 bps: 36,0%",
+   "Redução de 50+ bps: 0,1%",
+   "Aumento de 25 bps: 0,1%"
   ],
   "numeros": [
    {
-    "valor": "78,0%",
-    "rotulo": "sem alteração"
+    "valor": "62,5%",
+    "rotulo": "Sem alteração"
    },
    {
-    "valor": "22,3%",
-    "rotulo": "redução de 25 bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "redução de 50+ bps"
+    "valor": "36,0%",
+    "rotulo": "Redução de 25 bps"
    },
    {
     "valor": "0,1%",
-    "rotulo": "aumento de 25 bps"
+    "rotulo": "Redução de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Aumento de 25 bps"
    }
   ],
-  "destaque": "78,0%",
+  "destaque": "62,5%",
   "gancho": "*Taxa estável* em vista",
   "entenda": "O consenso de que o Banco do México deve manter os juros aponta para uma perspectiva de estabilidade econômica no país.",
   "categoria": "Previsões",
@@ -5146,7 +5541,7 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p6",
-  "atualizadoEm": "2026-11-03T18:16:09-03:00"
+  "atualizadoEm": "2026-11-03T22:39:26-03:00"
  },
  {
   "tipo": "sinal",
