@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-04T14:33:38-03:00",
-  "novas": 4,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-04T18:29:41-03:00",
+  "novas": 5,
+  "atualizadas": 3,
   "status": "ok",
-  "mensagem": "4 nova(s) e 1 atualizada(s): Ibovespa, Juros, Midterms; IA na segurança empresarial; BB Seguridade lucra, mas preocupa.",
+  "mensagem": "5 nova(s) e 3 atualizada(s): Itaú lucra R$12,6bi no 3T26; Tractian cresce muito em AI; Dívida e Juros: discurso de Lula.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-04T18:29:41-03:00",
    "2026-11-04T14:33:38-03:00",
    "2026-11-03T22:39:26-03:00",
    "2026-11-03T18:16:09-03:00",
@@ -20,56 +21,55 @@
    "2026-11-02T07:38:05-03:00",
    "2026-11-01T22:01:52-03:00",
    "2026-11-01T16:53:49-03:00",
-   "2026-11-01T13:25:21-03:00",
-   "2026-10-31T21:26:06-03:00"
+   "2026-11-01T13:25:21-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 7
+  "textosCompletos": 10
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "167.833",
-    "var": "+1,39%"
+    "v": "167.563",
+    "var": "+1,23%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,47",
-    "var": "-0,32%"
+    "v": "R$ 5,46",
+    "var": "-0,56%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,15",
-    "var": ""
+    "v": "R$ 6,13",
+    "var": "-0,31%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,4 mil",
-    "var": "+3,56%"
+    "v": "US$ 80,1 mil",
+    "var": "+2,87%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.705",
-    "var": "+1,79%"
+    "v": "7.689",
+    "var": "+1,58%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "28.604",
-    "var": "+1,50%"
+    "v": "28.437",
+    "var": "+0,91%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.074,10",
-    "var": "+3,39%"
+    "v": "US$ 4.075,90",
+    "var": "+3,44%"
    },
    {
     "k": "SELIC",
@@ -84,14 +84,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qua 14h",
+  "obs": "Fechamento",
+  "hora": "qua 18h",
   "data": "2026-11-04",
-  "atualizadoEm": "2026-11-04T14:33:38-03:00",
-  "ibov": "167.833",
-  "ibovVar": "+1,39%",
-  "dolar": "R$ 5,47",
-  "dolarVar": "-0,32%",
-  "btc": "US$ 80,4 mil"
+  "atualizadoEm": "2026-11-04T18:29:41-03:00",
+  "ibov": "167.563",
+  "ibovVar": "+1,23%",
+  "dolar": "R$ 5,46",
+  "dolarVar": "-0,56%",
+  "btc": "US$ 80,1 mil"
  }
 }
