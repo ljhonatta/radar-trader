@@ -1,5 +1,825 @@
 [
  {
+  "titulo": "Derrota de Trump abre caminho para Fed focar no controle da inflação",
+  "resumo": "A derrota do Partido Republicano nas midterms dos EUA pode aliviar pressões políticas sobre o presidente do Fed, Kevin Warsh, possibilitando mais liberdade para agir na política monetária e ajustar juros.",
+  "fatos": [
+   "Eleições de meio de mandato ocorreram em 3 de novembro de 2026",
+   "Derrota esmagadora do Partido Republicano, que perdeu controle no Congresso dos EUA",
+   "Kevin Warsh é presidente do Federal Reserve desde maio de 2026",
+   "Fed elevou juros em setembro de 2026, apesar da pressão política",
+   "Decisão de manter juros em outubro ocorreu pouco antes das eleições",
+   "Inflação está acima da meta do Fed há mais de cinco anos",
+   "Analistas preveem alta dos juros em 1 ponto percentual em 2027",
+   "Setores de tecnologia sofreram perdas no mercado americano após as eleições",
+   "Nasdaq caiu 5,1% no dia 5 de novembro de 2026",
+   "ETF iShares Semiconductor recuou 9,08% em 5 de novembro de 2026"
+  ],
+  "explicacao": [
+   "Nas eleições de meio de mandato de 2026, o Partido Republicano foi amplamente rejeitado, com eleitores preocupados principalmente com o custo de vida, o que mudou a dinâmica política em torno do Federal Reserve (Fed), presidido por Kevin Warsh.",
+   "Desde sua reeleição em 2024, o ex-presidente Donald Trump pressionou o Fed por juros mais baixos, chegando a tentar interferir diretamente na comissão e nomeações, gerando preocupações sobre a independência do banco central americano.",
+   "Warsh, nomeado por Trump em 2026, contrariou expectativas ao aumentar os juros em setembro mesmo diante de críticas, mas sua decisão de segurar a alta nas vésperas da eleição alimentou dúvidas sobre influências políticas.",
+   "Com a derrota de Trump e do Partido Republicano, analistas acreditam que Warsh poderá se concentrar na política monetária para combater a inflação, interpretando o sinal dos eleitores e agindo com menos pressão política daqui em diante."
+  ],
+  "detalhes": [
+   "Kevin Warsh adotou inicialmente posição a favor de juros mais baixos como indicado por Trump",
+   "Trump tentou interferir no Fed com investigação criminal e demissão de governadores",
+   "Warsh contrariou céticos ao elevar juros em setembro, mostrando independência",
+   "Ele manteve juros estáveis em outubro, decisão que pareceu influenciada por eleições",
+   "Daleep Singh, economista, acredita que Fed responderá à demanda dos eleitores por controle da inflação",
+   "Pressão política sobre o Fed deve diminuir após a derrota do Partido Republicano",
+   "Mercado reagiu com queda nos índices de tecnologia, temendo maior regulação"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Mark Spindel, gestor da Potomac River Capital",
+    "oque": "Warsh agora pode focar em política monetária com menos interferência política"
+   },
+   {
+    "quem": "Daleep Singh, economista-chefe da PGIM",
+    "oque": "Fed deve interpretar sinal dos eleitores e agir para controlar custo de vida"
+   },
+   {
+    "quem": "Stephen Myrow, sócio-diretor da Beacon Policy Advisors",
+    "oque": "Fed deve ter menos ataques políticos porque Trump terá outros problemas"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Eleição de meio de mandato nos EUA com derrota republicana"
+   },
+   {
+    "quando": "maio de 2026",
+    "oque": "Kevin Warsh assume presidência do Fed"
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "Fed eleva juros apesar da pressão para cortá-los"
+   },
+   {
+    "quando": "outubro de 2026",
+    "oque": "Fed mantém juros estáveis pouco antes da eleição"
+   },
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Mercado americano cai após confirmação da vitória democrata"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos EUA que controla a política monetária"
+   },
+   {
+    "termo": "Midterms",
+    "significado": "Eleições de meio de mandato nos EUA, entre eleições presidenciais"
+   },
+   {
+    "termo": "Taxa de juros",
+    "significado": "Custo do dinheiro, usado para controlar inflação e economia"
+   }
+  ],
+  "pergunta": "Como a autonomia do Fed pode impactar suas estratégias de investimento?",
+  "tamanhoTexto": 9571,
+  "numeros": [
+   {
+    "valor": "5,1%",
+    "rotulo": "queda do índice Nasdaq em 5/11/2026"
+   },
+   {
+    "valor": "9,08%",
+    "rotulo": "queda do ETF iShares Semiconductor em 5/11/2026"
+   },
+   {
+    "valor": "1 ponto percentual",
+    "rotulo": "alta prevista dos juros pelo Fed para 2027"
+   },
+   {
+    "valor": "2030",
+    "rotulo": "ano até o qual Kevin Warsh tem mandato no Fed"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic mantida no Brasil como referência de juros"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "derrota republicana nas",
+  "porQueImporta": "A mudança na política americana com a derrota de Trump reduz riscos políticos ao Fed, dando mais autonomia para decisões na taxa de juros e no combate à inflação, principal preocupação dos eleitores e investidores.",
+  "impactoMercado": "Menos interferência política pode levar o Fed a agir com liberdade, afetando juros e fluxo de capitais. Setores como tecnologia sofrem com temores de regulação, enquanto investidores buscam ativos defensivos com maior proteção.",
+  "entenda": "O Federal Reserve é o banco central dos EUA, que controla a política monetária para manter a inflação sob controle. Ele define a taxa básica de juros, impactando cognições econômicas globais. As eleições podem influenciar suas decisões quando há pressão política.",
+  "observar": "Acompanhe índices de inflação nos EUA e decisões futuras do Fed. Observe também como o cenário político evolui no Congresso e seu impacto nas regulações setoriais, especialmente tecnologia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "Mostra como política e eleições afetam a atuação do banco central e decisivamente o mercado e a inflação, conectando a teoria da política monetária ao cenário real para abrir interesse no estudo aprofundado na faculdade.",
+  "gancho": "Derrota de Trump e *Fed*",
+  "ideias": [
+   "Eleições americanas: impacto no Fed e na inflação",
+   "Como a política influencia a alta dos juros nos EUA",
+   "Entenda a relação entre Fed e as eleições de meio mandato"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Valor Econômico; Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/05/derrota-de-trump-alivia-pressao-sobre-warsh-e-da-ao-fed-mais-espaco-para-mexer-nos-juros.ghtml",
+  "publicadoEm": "2026-11-05T14:13:43-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-01"
+ },
+ {
+  "titulo": "Tesouro Direto tem alta inicial e queda após reunião de Lula com economistas",
+  "resumo": "Juros dos títulos do Tesouro recuaram após alta na abertura; Lula reuniu Durigan, Haddad e Galípolo para discutir dívida pública. Copom manteve Selic em 13,75% ao ano, reforçando incertezas fiscais no mercado.",
+  "fatos": [
+   "Juros do Tesouro Prefixado 2032 recuaram para 15,24% ao ano por volta das 11h30.",
+   "Prefixado 2029 caiu para 14,84%, revertendo alta iniciada no pregão.",
+   "IPCA+ 2032 oferecia IPCA + 7,87%, em leve baixa em comparação à abertura.",
+   "Reunião de Lula com Durigan, Haddad e Galípolo discutiu dívida pública e cenário econômico.",
+   "Copom manteve Selic em 13,75% ao ano por unanimidade, suspendendo cinco cortes consecutivos.",
+   "Projeção de inflação para 2026 passou de 5,2% para 5,6%, para 2027 subiu de 3,9% para 4,7%.",
+   "Produção industrial caiu 0,8% em setembro, abaixo do esperado.",
+   "Dólar fechou a R$ 5,451, com queda de 0,64% na quarta-feira (4).",
+   "Equipe econômica estuda endurecer bloqueios orçamentários, medidas dependem de aval presidencial.",
+   "Fed anunciará decisão às 15h, influenciando o mercado externo."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira (5), os juros dos títulos do Tesouro Direto subiram no início do pregão, mas recuaram para níveis próximos aos do fechamento da quarta-feira, impactados pela reunião convocada pelo presidente Lula com o ministro Durigan, Haddad e o presidente do Banco Central Galípolo para discutir a trajetória da dívida pública.",
+   "A reunião teve caráter preparatório, sem decisões imediatas, já que Lula deverá viajar para a conferência COP, segundo o ministro Durigan. Enquanto isso, o mercado acompanha propostas da equipe econômica para ampliar efeitos dos bloqueios orçamentários e orientar o esforço fiscal, ainda pendentes de aprovação presidencial e negociações legislativas.",
+   "O encontro ocorreu após o Copom diante de um cenário fiscal mais desafiador manter a taxa Selic em 13,75% ao ano, uma pausa após cinco reduções consecutivas, além de elevar projeções de inflação para 2026, 2027 e 2028 e retirar a expressão 'magnitude total do ciclo de calibração' do comunicado, sugerindo um ciclo de juros mais estável.",
+   "Para os investidores, o momento reflete incertezas fiscais e econômicas, elevando a volatilidade e mantendo os juros em patamares elevados, especialmente nos títulos prefixados do Tesouro, enquanto o mercado aguarda desdobramentos do cenário fiscal e futuros sinais do Banco Central."
+  ],
+  "detalhes": [
+   "A reunião aconteceu no Ministério da Fazenda, convocada pelo presidente Lula.",
+   "Ministro Durigan afirmou que o encontro visa troca de diagnósticos, sem decisões imediatas.",
+   "Títulos prefixados chegaram a oferecer até 15,38% ao ano antes da queda no pregão.",
+   "Copom destaca ambiente externo mais adverso por conflito no Oriente Médio e maior volatilidade.",
+   "A sinalização do BC indica possibilidade de manutenção dos juros por períodos prolongados.",
+   "Mudanças propostas na política fiscal podem exigir alterações legislativas e negociação com Congresso.",
+   "Decisão do Copom reflete elevada incerteza fiscal e pressão inflacionária persistente."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Reunião é para compartilhar cenários e ideias, sem decisões imediatas."
+   },
+   {
+    "quem": "Cristiano Oliveira, diretor de pesquisa econômica do Banco Pine",
+    "oque": "Retirada da frase sobre magnitude de calibração indica que pausa nos juros pode se estender."
+   },
+   {
+    "quem": "Natalie Victal, economista-chefe da SulAmérica Investimentos",
+    "oque": "Banco Central aumenta a exigência para discutir novas altas da Selic."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "4 de novembro",
+    "oque": "Copom manteve a Selic em 13,75% ao ano por unanimidade."
+   },
+   {
+    "quando": "5 de novembro, manhã",
+    "oque": "Reunião de Lula com ministros e economistas para discutir dívida pública."
+   },
+   {
+    "quando": "5 de novembro, mercado aberto",
+    "oque": "Juros dos títulos do Tesouro sobem e depois recuam."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Copom",
+    "significado": "Comitê que define a taxa básica de juros no Brasil."
+   },
+   {
+    "termo": "Tesouro Direto",
+    "significado": "Programa para compra de títulos públicos por investidores."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros usada para controlar a inflação."
+   }
+  ],
+  "pergunta": "Como você acha que a manutenção da Selic influencia seus investimentos?",
+  "tamanhoTexto": 13553,
+  "numeros": [
+   {
+    "valor": "15,24%",
+    "rotulo": "Juros do Tesouro Prefixado 2032 ao meio-dia"
+   },
+   {
+    "valor": "14,84%",
+    "rotulo": "Taxa do Prefixado 2029 após alta inicial"
+   },
+   {
+    "valor": "IPCA + 7,87%",
+    "rotulo": "Rentabilidade do Tesouro IPCA+ 2032"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic mantida pelo Copom"
+   },
+   {
+    "valor": "0,8%",
+    "rotulo": "Queda mensal na produção industrial em setembro"
+   },
+   {
+    "valor": "R$ 5,451",
+    "rotulo": "Cotação do dólar em 4 de novembro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Projeção de inflação 2026",
+    "antes": "5,2%",
+    "depois": "5,6%"
+   },
+   {
+    "item": "Projeção de inflação 2027",
+    "antes": "3,9%",
+    "depois": "4,7%"
+   }
+  ],
+  "destaque": "15,24% ao ano",
+  "porQueImporta": "A movimentação dos juros no Tesouro Direto reflete como o mercado reage a decisões e incertezas fiscais e monetárias. Para quem opera ou investe, entender essas oscilações e os impactos do cenário político e das políticas públicas é fundamental para acompanhar tendências e ajustar estratégias sem prometer ganhos.",
+  "impactoMercado": "Para o mercado, a manutenção da Selic e a discussão da dívida pública indicam ambiente de maior cautela, pressão sobre títulos prefixados e atenção ao quadro fiscal. Setores sensíveis a juros, como consumo e crédito, e ativos de renda fixa devem seguir influenciados pelas decisões e expectativas da política monetária e fiscal.",
+  "entenda": "O Tesouro Direto é o programa do governo que vende títulos públicos para investidores. As taxas de juros desses papéis refletem o custo de tomar dinheiro emprestado pelo governo, influenciadas por decisões do Banco Central sobre a Selic e pelo cenário fiscal, afetando o custo da dívida e o retorno dos títulos.",
+  "observar": "Fique de olho nos próximos comunicados do Banco Central e na evolução da proposta fiscal, além dos indicadores econômicos, como a produção industrial e decisões do Fed, que podem impactar juros e inflação.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostrar como decisões do Copom e reuniões do governo impactam juros e dívida pública, ajudando a entender o ambiente que influencia os investimentos e a importância de acompanhar notícias financeiras detalhadas.",
+  "gancho": "*Selic* e *Tesouro* em foco",
+  "ideias": [
+   "O que muda na Selic após reunião do Copom e Lula?",
+   "Entenda a reação do Tesouro Direto às discussões sobre dívida pública",
+   "Como a alta do IPCA preocupa investidores e o Banco Central"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "BP Money; Bora Investir (B3)",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "url": "https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-taxas-recuam-reuniao-lula-economistas-05-11-2026/",
+  "publicadoEm": "2026-11-05T13:37:38-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-02"
+ },
+ {
+  "titulo": "IBGE abre concurso com 27.279 vagas para censo agropecuário em 2027",
+  "resumo": "IBGE lançou concurso com 27.279 vagas temporárias para recenseadores do Censo Agropecuário de 2027. Salários partem de R$ 1.741 e podem chegar a R$ 2.629 com produtividade e benefícios.",
+  "fatos": [
+   "O concurso do IBGE oferece 27.279 vagas para recenseadores.",
+   "Salário inicial previsto de R$ 1.741, podendo chegar a R$ 2.629.",
+   "Auxílio-alimentação de R$ 1.192 está incluso.",
+   "Inscrições entre 6 e 25 de novembro no site da Fundação Cesgranrio.",
+   "Taxa de inscrição é de R$ 70.",
+   "Provas serão aplicadas em 31 de janeiro de 2027.",
+   "Contrato inicial de seis meses, prorrogável até quatro anos.",
+   "Os recenseadores coletarão dados do 12º Censo Agropecuário, Florestal e Aquícola.",
+   "Benefícios incluem 13º salário, férias proporcionais e auxílio deslocamento e pré-escolar.",
+   "Os dados coletados influenciam políticas públicas para o setor agropecuário."
+  ],
+  "explicacao": [
+   "O IBGE publicou no dia 5 de outubro o edital para um concurso que oferece 27.279 vagas temporárias para recenseadores que atuarão no 12º Censo Agropecuário, Florestal e Aquícola de 2027. O contrato inicial é estimado em seis meses, podendo se estender até quatro anos conforme a necessidade.",
+   "As vagas são para profissionais que visitarão estabelecimentos agropecuários para coletar dados, com salário inicial previsto de R$ 1.741 mensais. Esse valor pode alcançar R$ 2.629, dependendo da produtividade do recenseador e dos benefícios oferecidos pelo IBGE.",
+   "Além da remuneração, o concurso oferece direitos como auxílio-alimentação de R$ 1.192, 13º salário, férias proporcionais e auxílios para deslocamento e pré-escolar. As inscrições ocorrerão entre os dias 6 e 25 de novembro, com taxa de R$ 70, e a prova está marcada para 31 de janeiro de 2027.",
+   "Os dados coletados pelos recenseadores serão usados para pesquisas e planejamento governamental, auxiliando no desenvolvimento de políticas públicas focadas no setor agropecuário brasileiro. O concurso é uma oportunidade importante para quem busca trabalho temporário no mercado público."
+  ],
+  "detalhes": [
+   "Concurso nacional para atuar no censo de 2027 do IBGE.",
+   "Remuneração variável conforme produtividade do recenseador.",
+   "Ajuda para despesas como alimentação, deslocamento e cuidados infantis.",
+   "Inscrição online via Fundação Cesgranrio entre novembro de 2024.",
+   "Prova marcada para o começo de 2027, visando atuação no mesmo ano.",
+   "Contrato temporário de até quatro anos, dependendo da necessidade.",
+   "Objetivo de coletar informações para bases de dados e políticas públicas."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "5 de outubro de 2024",
+    "oque": "Publicação do edital do concurso do IBGE"
+   },
+   {
+    "quando": "6 a 25 de novembro de",
+    "oque": "Período de inscrições no concurso"
+   },
+   {
+    "quando": "31 de janeiro de 2027",
+    "oque": "Aplicação das provas do concurso"
+   },
+   {
+    "quando": "2027",
+    "oque": "Início do 12º Censo Agropecuário, Florestal e Aquícola"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Recenseador",
+    "significado": "Profissional que coleta dados em campo para censos do IBGE."
+   },
+   {
+    "termo": "Censo Agropecuário",
+    "significado": "Pesquisa oficial que reúne informações sobre agricultura e pecuária."
+   },
+   {
+    "termo": "Auxílio-alimentação",
+    "significado": "Benefício para ajudar nas despesas com alimentação do trabalhador."
+   }
+  ],
+  "pergunta": "Você já pensou em trabalhar no setor agropecuário via concursos públicos?",
+  "tamanhoTexto": 2252,
+  "numeros": [
+   {
+    "valor": "27.279",
+    "rotulo": "Número de vagas do concurso"
+   },
+   {
+    "valor": "R$ 1.741",
+    "rotulo": "Remuneração mensal inicial prevista"
+   },
+   {
+    "valor": "R$ 2.629",
+    "rotulo": "Salário máximo com produtividade e benefícios"
+   },
+   {
+    "valor": "R$ 1.192",
+    "rotulo": "Auxílio-alimentação mensal"
+   },
+   {
+    "valor": "R$ 70",
+    "rotulo": "Taxa de inscrição no concurso"
+   },
+   {
+    "valor": "6 a 25 de novembro",
+    "rotulo": "Período de inscrições"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "27.279 vagas temporárias",
+  "porQueImporta": "O concurso do IBGE para mais de 27 mil vagas temporárias é relevante para investidores e operadores pois envolve um programa de dados massivo que pode impactar políticas agrícolas, influenciando setores de commodities e renda variável no médio prazo.",
+  "impactoMercado": "A coleta de dados precisa e atualizada pelo censo agropecuário pode afetar desde o planejamento econômico do setor agrícola até o comportamento de commodities e ações vinculadas, além de influenciar indicadores de crescimento e políticas públicas essenciais ao mercado.",
+  "entenda": "O concurso do IBGE é para recenseadores que coletarão dados no Censo Agropecuário, base para decisões governamentais sobre agricultura, florestas e aquicultura. Esses dados orientam políticas públicas e economias locais e nacionais, impactando o mercado financeiro e o agronegócio.",
+  "observar": "Acompanhe as inscrições de 6 a 25 de novembro e a prova em 31 de janeiro para avaliar o andamento do concurso e possíveis impactos no setor agropecuário em 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Entenda como um concurso do IBGE para o censo agropecuário gera oportunidades de trabalho temporário e influencia dados que impactam políticas e setores do mercado financeiro.",
+  "gancho": "*Concurso* IBGE para *agro* 2027",
+  "ideias": [
+   "Concurso IBGE: como funciona e quem pode participar",
+   "Salários e benefícios do novo concurso IBGE para recenseadores",
+   "Por que o censo agropecuário é importante para o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Agenda",
+  "icone": "relogio",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/05/ibge-anuncia-concurso-com-27-mil-vagas-temporarias-em-todo-o-brasil-veja-salarios.ghtml",
+  "publicadoEm": "2026-11-05T11:26:01-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-03"
+ },
+ {
+  "titulo": "Base Exchange deve iniciar operações em 2027 e desafiar B3",
+  "resumo": "Base Exchange, liderada pelo fundo Mubadala, planeja lançar bolsa rival da B3 no segundo semestre de 2027, marcando retorno das negociações de ações no Rio após 25 anos.",
+  "fatos": [
+   "Base Exchange planeja lançar operações no segundo semestre de 2027.",
+   "O lançamento foi adiado em dois anos em relação à previsão inicial de 2025.",
+   "Liderança do fundo soberano de Abu Dhabi, Mubadala.",
+   "A Base oferecerá negociação de ações, fundos imobiliários e ETFs.",
+   "O Banco Central liberou testes funcionais para início em 2027.",
+   "Retorno das negociações no Rio de Janeiro após mais de 25 anos.",
+   "Base terá 210 funcionários e escritórios no Rio e São Paulo.",
+   "Não haverá listagens primárias (IPOs) inicialmente na Base.",
+   "Base busca parceiros minoritários para o conselho, não para capital.",
+   "B3 destaca concorrência com bolsas internacionais devido a investidores estrangeiros."
+  ],
+  "explicacao": [
+   "A Base Exchange, primeira concorrente da B3 no mercado de ações brasileiro, adiou seu lançamento para o segundo semestre de 2027, após previsão inicial de 2025, informou o CEO Francisco Gurgel em novembro de 2026.",
+   "Esse atraso se deve ao desafio de estruturar uma nova bolsa do zero, o que demandou mais tempo e aprendizado do que o previsto, segundo Gurgel. A Base oferecerá negociação de ações, fundos imobiliários e ETFs.",
+   "O lançamento marcará também o retorno das negociações de ações no Rio de Janeiro, algo que não ocorre há mais de 25 anos desde a fusão da antiga bolsa carioca com a B3, sediada em São Paulo.",
+   "A Base Exchange pretende negociar todas as ações da B3, mas sem oferecer IPOs inicialmente. A empresa conta com 210 funcionários e busca parcerias minoritárias para ampliar seu conselho, não para captar capital."
+  ],
+  "detalhes": [
+   "Base Exchange é a primeira concorrente da B3 no mercado de ações brasileiro.",
+   "A empresa é liderada pelo fundo Mubadala, de Abu Dhabi.",
+   "O início operacional foi autorizado para testes pelo Banco Central do Brasil no começo de 2027.",
+   "O adiamento do lançamento ocorreu por causa do desafio de montar uma bolsa do zero.",
+   "A nova bolsa operará no Rio de Janeiro e em São Paulo.",
+   "A Base não oferecerá IPOs inicialmente, apenas negociações secundárias.",
+   "B3 destaca que metade do volume negociado no Brasil é estrangeiro e que preços são competitivos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Francisco Gurgel, presidente-executivo da Base Exchange",
+    "oque": "Criar uma nova bolsa do zero exigiu mais tempo e aprendizado do que esperado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "outubro de 2026",
+    "oque": "Banco Central autorizou testes funcionais da Base Exchange para início em 2027."
+   },
+   {
+    "quando": "até 2025",
+    "oque": "Previsão inicial para lançamento da Base Exchange, depois adiada para 2027."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial de ações de uma empresa na bolsa"
+   },
+   {
+    "termo": "ETFs",
+    "significado": "Fundos que replicam índices e podem ser negociados como ações"
+   },
+   {
+    "termo": "Fundo soberano",
+    "significado": "Fundo de investimento controlado por governo ou estado"
+   }
+  ],
+  "pergunta": "Você acredita que uma nova bolsa no Brasil vai beneficiar os investidores?",
+  "tamanhoTexto": 2186,
+  "numeros": [
+   {
+    "valor": "210",
+    "rotulo": "número atual de funcionários da Base Exchange"
+   },
+   {
+    "valor": "mais de 25 anos",
+    "rotulo": "tempo desde o fim da negociação de ações no Rio com a antiga bolsa"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "representação dos investidores estrangeiros no volume de negociações da B3"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Data prevista para lançamento da Base Exchange",
+    "antes": "Segundo semestre de 2025",
+    "depois": "Segundo semestre de 2027"
+   }
+  ],
+  "destaque": "Lançamento da Base",
+  "porQueImporta": "A entrada da Base Exchange cria uma nova concorrência para a única bolsa brasileira, a B3, o que pode incentivar melhorias nos custos e serviços. Além disso, é o retorno da negociação de ações no Rio de Janeiro após décadas, o que pode ampliar o acesso e opções no mercado.",
+  "impactoMercado": "A competição deve fomentar redução nas taxas de negociação para investidores, estimulando maior participação e liquidez. Setores como ações, fundos imobiliários e ETFs poderão ser diretamente afetados, enquanto a B3 terá que ajustar sua oferta diante de um novo competidor.",
+  "entenda": "Bolsa de valores é uma empresa que organiza a compra e venda de ações e outros ativos financeiros. A Base Exchange quer ser a segunda bolsa no Brasil, o que é inédito desde que a bolsa do Rio se fundiu com a B3. Mais opções de bolsa podem melhorar preços e serviços para quem investe.",
+  "observar": "Acompanhar os testes da Base Exchange previstos para início de 2027 e possíveis definições sobre oferta de IPOs no futuro, bem como eventuais parcerias minoritárias anunciadas pela empresa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar o impacto de uma nova bolsa no mercado brasileiro pode ajudar quem quer entender as oportunidades e desafios de operar em um mercado mais competitivo, motivando o aprendizado sobre o setor financeiro.",
+  "gancho": "*nova bolsa* no Brasil 2027",
+  "ideias": [
+   "Por que uma segunda bolsa desafia a B3?",
+   "O que muda para investidores com a Base Exchange?",
+   "Entenda o retorno das ações no Rio após 25 anos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "url": "https://www.infomoney.com.br/mercados/base-exchange-mira-lancamento-em-2027-em-desafio-a-b3-no-mercado-de-acoes/",
+  "publicadoEm": "2026-11-05T14:31:06-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-04"
+ },
+ {
+  "titulo": "Quebra do Ueno Bank no Paraguai afeta 3 milhões e envolve US$ 850 mi públicos",
+  "resumo": "O Ueno Bank, maior banco digital do Paraguai, quebrou movimentando quase US$ 850 milhões públicos. A crise causou renúncia do presidente do Banco Central e prisão de oito diretores.",
+  "fatos": [
+   "Ueno Bank era o maior banco digital do Paraguai em clientes.",
+   "Cerca de 3 milhões de pessoas foram afetadas pela quebra do banco.",
+   "O banco administrava quase US$ 850 milhões em recursos públicos.",
+   "Renúncia do presidente do Banco Central do Paraguai ocorreu após crise.",
+   "Oito diretores do Ueno Bank foram presos por envolvimento na crise.",
+   "Índice de solvência caiu para menos da metade do mínimo exigido.",
+   "Protestos ocorreram em Assunção pedindo devolução do dinheiro e impeachment de Santiago Peña.",
+   "Santiago Peña foi sócio do grupo controlador do Ueno Bank até o ano anterior à crise.",
+   "A seleção paraguaia de futebol se solidarizou com os afetados pela crise.",
+   "Clientes, incluindo brasileiros residentes, perderam acesso a contas e serviços digitais."
+  ],
+  "explicacao": [
+   "O Ueno Bank, banco digital líder no Paraguai em número de clientes, entrou em colapso em novembro de 2026, afetando diretamente cerca de 3 milhões de pessoas que perderam acesso a contas, aplicativos e cartões.",
+   "A crise foi desencadeada pela queda drástica no índice de solvência do banco, que caiu para menos da metade do mínimo legal exigido. Isso levou a intervenção do Banco Central e aumento da pressão política.",
+   "O banco administrava quase US$ 850 milhões em recursos públicos, incluindo fundos da Previdência e Ministério da Saúde. A quebra ameaça o pagamento de benefícios e gerou protestos nas ruas de Assunção.",
+   "Além da renúncia do presidente do Banco Central, oito diretores do Ueno Bank foram presos. O presidente do Paraguai, Santiago Peña, que até o ano passado foi sócio do grupo controlador, enfrenta pedidos de impeachment."
+  ],
+  "detalhes": [
+   "O Ueno Bank administrava recursos públicos da Previdência e Ministério da Saúde do Paraguai.",
+   "A queda do índice de solvência resultou na intervenção do Banco Central no banco.",
+   "Os protestos na capital foram reprimidos pelas forças de segurança locais.",
+   "A renúncia do presidente do Banco Central reforça o impacto político da crise financeira.",
+   "Santiago Peña enfrenta fortes críticas por sua ligação direta com o banco até o ano passado.",
+   "O banco era patrocinador da seleção paraguaia de futebol, que demonstrou apoio público.",
+   "Entre os afetados estão brasileiros que vivem no Paraguai e dependem do banco para serviços."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Manifestantes em Assunção",
+    "oque": "Exigiram devolução do dinheiro e o impeachment do presidente Santiago Peña."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Protestos pediram devolução do dinheiro e impeachment em Assunção."
+   },
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Renúncia do presidente do Banco Central e prisão de oito diretores do banco."
+   },
+   {
+    "quando": "Até 2025",
+    "oque": "Santiago Peña foi sócio do grupo controlador do Ueno Bank."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Índice de solvência",
+    "significado": "Mede a capacidade de um banco pagar suas dívidas."
+   },
+   {
+    "termo": "Intervenção bancária",
+    "significado": "Ação do Banco Central para controlar banco com problemas."
+   }
+  ],
+  "pergunta": "Você sabia do impacto da solvência na saúde dos bancos digitais?",
+  "tamanhoTexto": 3686,
+  "numeros": [
+   {
+    "valor": "3 milhões",
+    "rotulo": "pessoas afetadas pela crise do Ueno Bank"
+   },
+   {
+    "valor": "US$ 850 milhões",
+    "rotulo": "recursos públicos administrados pelo banco"
+   },
+   {
+    "valor": "8",
+    "rotulo": "diretores do banco presos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 850 milhões",
+  "porQueImporta": "Essa crise mostra os riscos que problemas de solvência em bancos digitais podem gerar, afetando diretamente milhões de clientes e fundos públicos essenciais. Para investidores e operadores, entender esses riscos é crucial para avaliar a estabilidade do sistema financeiro e evitar surpresas.",
+  "impactoMercado": "A crise no Ueno Bank pode aumentar a aversão a bancos digitais no Paraguai e região, afetar o crédito e a confiança no sistema financeiro local, e provocar maior regulação. Operadores devem acompanhar essas mudanças para entender o impacto em ativos e câmbio locais.",
+  "entenda": "Um banco administra dinheiro de clientes, incluindo público e privado. A solvência é a capacidade de pagar dívidas. Quando cai muito, o banco pode quebrar, afetando clientes que perdem acesso ao dinheiro e causando instabilidade econômica.",
+  "observar": "Acompanhe se haverá novas medidas do Banco Central paraguaio ou ações legais contra envolvidos. Também observe sessões parlamentares e notícias sobre impactos sociais e financeiros nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia mostra como a gestão financeira e a solvência dos bancos digitais são essenciais para a estabilidade financeira e por que aprender sobre mercado ajuda a entender crises como essa.",
+  "gancho": "*Crise* de banco digital",
+  "ideias": [
+   "O que é índice de solvência e por que importa?",
+   "Como a quebra de um banco digital afeta clientes e governo?",
+   "Crise no Paraguai: lições para investidores e traders"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml",
+  "publicadoEm": "2026-11-05T12:14:50-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-05"
+ },
+ {
+  "titulo": "Banco francês Crédit Mutuel Arkéa sofre ataque hacker de €100 milhões",
+  "resumo": "O banco regional francês Crédit Mutuel Arkéa revelou um ataque cibernético que causou prejuízo de cerca de €100 milhões. A investigação está em andamento, e os fundos foram convertidos em criptomoedas por hackers.",
+  "fatos": [
+   "Crédit Mutuel Arkéa sofreu ataque hacker com prejuízo provisório de €100 milhões.",
+   "O ataque foi anunciado em comunicado na noite de quarta-feira, 4 de outubro.",
+   "Os fundos desviados foram convertidos em criptomoedas.",
+   "O Ministério Público de Paris iniciou investigação formal após denúncia do banco.",
+   "O ataque atingiu sistemas automatizados de processamento, não contas de clientes.",
+   "O banco descartou erro humano e classificou o ataque como sofisticado e externo.",
+   "O prejuízo estimado é cerca de R$ 615,3 milhões na cotação atual.",
+   "Crédit Mutuel Arkéa teve lucro líquido de €230 milhões no primeiro semestre.",
+   "A fraude foi detectada por um pesquisador independente, ZachXBT, que analisou a blockchain.",
+   "O banco não confirmou estimativa maior de €133 milhões divulgada pela imprensa."
+  ],
+  "explicacao": [
+   "O banco francês Crédit Mutuel Arkéa comunicou em 4 de outubro que sofreu um ataque hacker que resultou no roubo de aproximadamente €100 milhões, valor preliminar que equivale a R$615,3 milhões. A fraude ocorreu por meio de transferências para outros bancos, não afetando as contas dos clientes.",
+   "O Ministério Público de Paris abriu inquérito formal para apurar o caso, que envolveria uma organização criminosa atacando um sistema automatizado de processamento de dados do banco. O banco afirmou que o ataque foi sofisticado e internacional.",
+   "Os valores desviados foram convertidos em criptomoedas via plataformas especializadas, dificultando o rastreamento. Embora o banco não tenha detalhado os métodos usados nem o responsável, descartou erro humano e ressaltou não haver risco à sua saúde financeira.",
+   "O caso ocorre poucos dias após o ataque à Binance, que resultou em perdas estimadas de US$ 6,3 bilhões. O Crédit Mutuel Arkéa, com lucro líquido de €230 milhões no primeiro semestre, continua avaliando o prejuízo e coopera com a investigação."
+  ],
+  "detalhes": [
+   "O ataque foi comunicado oficialmente pelo banco na noite de 4 de outubro de 2023.",
+   "O Crédit Mutuel Arkéa é uma subsidiária da gigante financeira francesa Crédit Mutuel, atuando na Bretanha e oeste da França.",
+   "O prejuízo ocorreu por acesso a contas internas, com transferência para outras instituições, sem afetar clientes.",
+   "Os fundos foram convertidos em criptomoedas usando plataformas de câmbio especializadas, dificultando o rastreamento.",
+   "A investigação apura ataque por organização criminosa em sistema automatizado de dados.",
+   "O banco segue avaliando o impacto financeiro e mantém a saúde financeira e a solidez do grupo.",
+   "O ataque ocorre menos de uma semana após o roubo histórico na Binance, referência mundial em criptomoedas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Crédit Mutuel Arkéa, comunicado oficial",
+    "oque": "O ataque foi sofisticado e externo, sem risco à saúde financeira do banco."
+   },
+   {
+    "quem": "Ministério Público de Paris",
+    "oque": "Investiga ataque contra sistema automatizado de processamento de dados."
+   },
+   {
+    "quem": "ZachXBT, pesquisador independente",
+    "oque": "Demonstrou que fundos roubados foram convertidos em criptomoedas via múltiplas contas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "final de setembro e início de",
+    "oque": "Ataque hacker contra Crédit Mutuel Arkéa e roubo milionário."
+   },
+   {
+    "quando": "4 de outubro de 2023",
+    "oque": "Banco anuncia oficialmente o ataque e prejuízo provisório."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Blockchain",
+    "significado": "Tecnologia que registra transações digitais em um livro seguro e descentralizado."
+   },
+   {
+    "termo": "Criptomoedas",
+    "significado": "Moedas digitais criptografadas usadas para transações online."
+   }
+  ],
+  "pergunta": "Você considera os bancos preparados contra ataques cibernéticos atualmente?",
+  "tamanhoTexto": 3455,
+  "numeros": [
+   {
+    "valor": "100 milhões de euros",
+    "rotulo": "Prejuízo estimado no ataque contra Crédit Mutuel Arkéa"
+   },
+   {
+    "valor": "615,3 milhões de reais",
+    "rotulo": "Valor aproximado em reais do prejuízo"
+   },
+   {
+    "valor": "230 milhões de euros",
+    "rotulo": "Lucro líquido do banco no primeiro semestre de 2023"
+   },
+   {
+    "valor": "6,3 bilhões de dólares",
+    "rotulo": "Prejuízo estimado da Binance em ataque hacker recente"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "€100 milhões de",
+  "porQueImporta": "O ataque mostra a vulnerabilidade de sistemas financeiros mesmo em grandes bancos, impactando patrimônio e confiança. Investidores precisam entender riscos cibernéticos que podem influenciar valor e operações das instituições financeiras.",
+  "impactoMercado": "Esse tipo de ataque reforça a importância de segurança cibernética no setor financeiro, afetando ativos digitais e tradicionais. Pode elevar a cautela de investidores em bancos e firmas ligadas a criptoativos, além de pressionar custos com prevenção e regulação.",
+  "entenda": "O ataque hacker foi um ataque cibernético focado em sistemas automatizados internos do banco, desviando fundos convertidos depois em criptomoedas. Esses ataques dificultam rastreamento e recuperação, desafiando segurança e regulação no mercado financeiro.",
+  "observar": "Acompanhe as atualizações da investigação do Ministério Público de Paris e possíveis medidas do banco para reforçar a segurança e recuperar os valores desviados.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia destaca a importância de entender segurança digital e riscos para patrimônio, essenciais para quem quer operar ou investir com mais conhecimento e cautela no mercado financeiro.",
+  "gancho": "*Roubo cibernético* no banco francês",
+  "ideias": [
+   "Como ataques hackers afetam bancos tradicionais?",
+   "O impacto das criptomoedas em crimes financeiros recentes",
+   "Por que segurança digital é vital no mercado financeiro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "cadeado",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "url": "https://www.estadao.com.br/economia/banco-frances-roubo-100-milhoes-euros-ataque-hacker/",
+  "publicadoEm": "2026-11-05T12:40:43-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-06"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-november-2-8-2026",
+  "titulo": "Mercado de previsões vê 64,5% de chance de Ethereum abaixo de 2.200 em novembro",
+  "resumo": "Essas chances refletem as opiniões dos apostadores e não constituem uma previsão formal para o preço do Ethereum.",
+  "probs": [
+   {
+    "opcao": "↓ 2,200",
+    "prob": 64.5
+   },
+   {
+    "opcao": "↓ 2,100",
+    "prob": 20.5
+   },
+   {
+    "opcao": "↓ 2,000",
+    "prob": 6.3
+   },
+   {
+    "opcao": "↑ 2,500",
+    "prob": 4.5
+   }
+  ],
+  "prazo": "2026-11-09",
+  "volume24h": "US$ 320 mil",
+  "fatos": [
+   "↓ 2,200: 64,5%",
+   "↓ 2,100: 20,5%",
+   "↓ 2,000: 6,3%",
+   "↑ 2,500: 4,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "64,5%",
+    "rotulo": "↓ 2,200"
+   },
+   {
+    "valor": "20,5%",
+    "rotulo": "↓ 2,100"
+   },
+   {
+    "valor": "6,3%",
+    "rotulo": "↓ 2,000"
+   },
+   {
+    "valor": "4,5%",
+    "rotulo": "↑ 2,500"
+   }
+  ],
+  "destaque": "64,5%",
+  "gancho": "*Expectativas dos apostadores* sobre Ethereum",
+  "entenda": "Ethereum é uma plataforma de blockchain que permite contratos inteligentes e aplicativos descentralizados, e seu valor pode oscilar rapidamente.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-november-2-8-2026",
+  "publicadoEm": "2026-11-05T14:40:07-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-05T14:40:07-03:00",
+  "data": "2026-11-05",
+  "status": "nova",
+  "id": "2026-11-05-p1"
+ },
+ {
   "titulo": "Dólar cai a R$ 5,45 após eleições nos EUA e expectativa pelo Copom",
   "resumo": "O dólar fechou a R$ 5,45 com queda de 0,64% após vitória democrata nas midterms dos EUA. Ibovespa subiu 1,23%, recuperando os 167 mil pontos antes da decisão do Copom.",
   "fatos": [
@@ -923,53 +1743,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-december-20260729232808632",
-  "titulo": "Mercado de previsões vê 77.5% de chance de aumento de 25 bps pelo Fed em dezembro",
-  "resumo": "Os apostadores atribuem alta probabilidade a um aumento das taxas de juros pelo Fed na próxima reunião.",
+  "titulo": "Mercado de previsões vê 67,5% de chance de aumento de 25 bps pelo Fed em dezembro",
+  "resumo": "Aprobabilidades mostradas refletem o que os apostadores acreditam sobre a decisão do Fed, não uma previsão oficial.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 77.5
+    "prob": 67.5
    },
    {
     "opcao": "Sem alteração",
-    "prob": 21.5
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 0.8
+    "prob": 30.5
    },
    {
     "opcao": "Redução de 25 bps",
-    "prob": 0.4
+    "prob": 0.9
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
+    "prob": 0.7
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 1,4 mi",
+  "volume24h": "US$ 1,8 mi",
   "fatos": [
-   "Aumento de 25 bps: 77,5%",
-   "Sem alteração: 21,5%",
-   "Aumento de 50+ bps: 0,8%",
-   "Redução de 25 bps: 0,4%"
+   "Aumento de 25 bps: 67,5%",
+   "Sem alteração: 30,5%",
+   "Redução de 25 bps: 0,9%",
+   "Aumento de 50+ bps: 0,7%"
   ],
   "numeros": [
    {
-    "valor": "77,5%",
+    "valor": "67,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "21,5%",
+    "valor": "30,5%",
     "rotulo": "Sem alteração"
    },
    {
-    "valor": "0,8%",
-    "rotulo": "Aumento de 50+ bps"
+    "valor": "0,9%",
+    "rotulo": "Redução de 25 bps"
    },
    {
-    "valor": "0,4%",
-    "rotulo": "Redução de 25 bps"
+    "valor": "0,7%",
+    "rotulo": "Aumento de 50+ bps"
    }
   ],
-  "destaque": "77,5%",
+  "destaque": "67,5%",
   "gancho": "*Expectativa* alta de aumento de juros",
   "entenda": "O Fed define as taxas de juros que influenciam a economia. Aumento pode indicar luta contra a inflação.",
   "categoria": "Previsões",
@@ -982,8 +1802,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-04T18:29:41-03:00",
   "data": "2026-11-04",
-  "status": "nova",
-  "id": "2026-11-04-p1"
+  "status": "atualizada",
+  "id": "2026-11-04-p1",
+  "atualizadoEm": "2026-11-05T14:40:07-03:00"
  },
  {
   "titulo": "Dólar cai e Ibovespa sobe após vitória democrata no Congresso dos EUA",
@@ -2115,71 +2936,6 @@
   "publicadoEm": "2026-11-03T18:09:00-03:00",
   "data": "2026-11-03",
   "id": "2026-11-03-27"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-on-november-3-2026",
-  "titulo": "Mercado de previsões vê 85% de chance de Bitcoin a 78,000",
-  "resumo": "Os apostadores acreditam que o preço do Bitcoin pode alcançar 78,000 até 3 de novembro de 2026.",
-  "probs": [
-   {
-    "opcao": "↑ 78,000",
-    "prob": 85.0
-   },
-   {
-    "opcao": "↑ 79,000",
-    "prob": 17.5
-   },
-   {
-    "opcao": "↓ 76,000",
-    "prob": 8.5
-   },
-   {
-    "opcao": "↑ 80,000",
-    "prob": 4.5
-   }
-  ],
-  "prazo": "2026-11-04",
-  "volume24h": "US$ 229 mil",
-  "fatos": [
-   "↑ 78,000: 85,0%",
-   "↑ 79,000: 17,5%",
-   "↓ 76,000: 8,5%",
-   "↑ 80,000: 4,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "85,0%",
-    "rotulo": "↑ 78,000"
-   },
-   {
-    "valor": "17,5%",
-    "rotulo": "↑ 79,000"
-   },
-   {
-    "valor": "8,5%",
-    "rotulo": "↓ 76,000"
-   },
-   {
-    "valor": "4,5%",
-    "rotulo": "↑ 80,000"
-   }
-  ],
-  "destaque": "85,0%",
-  "gancho": "*Expectativa* para o Bitcoin",
-  "entenda": "Os preços do Bitcoin são influenciados pela oferta, demanda e condições de mercado. As apostas refletem as percepções do mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-november-3-2026",
-  "publicadoEm": "2026-11-03T18:16:09-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-03T18:16:09-03:00",
-  "data": "2026-11-03",
-  "status": "nova",
-  "id": "2026-11-03-p2"
  },
  {
   "titulo": "Itaú rebaixa recomendação da bolsa brasileira para neutra após eleição Lula",
@@ -6935,35 +7691,35 @@
  {
   "tipo": "sinal",
   "slug": "another-fed-rate-hike-in-2026",
-  "titulo": "Mercado de previsões vê 74,5% de chance de nova alta",
-  "resumo": "Apostadores acreditam que haverá um novo aumento de juros pelo Fed em 2026, com probabilidade de 74,5%.",
+  "titulo": "Mercado de previsões vê 66% de chance de novo aumento de juros pelo Fed em 2026",
+  "resumo": "Essas probabilidades apreendem as expectativas dos apostadores sobre as ações do Fed, não uma previsão oficial.",
   "probs": [
    {
     "opcao": "Sim",
-    "prob": 74.5
+    "prob": 66.0
    },
    {
     "opcao": "Não",
-    "prob": 25.5
+    "prob": 34.0
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 21 mil",
+  "volume24h": "US$ 68 mil",
   "fatos": [
-   "Sim: 74,5%",
-   "Não: 25,5%"
+   "Sim: 66,0%",
+   "Não: 34,0%"
   ],
   "numeros": [
    {
-    "valor": "74,5%",
+    "valor": "66,0%",
     "rotulo": "Sim"
    },
    {
-    "valor": "25,5%",
+    "valor": "34,0%",
     "rotulo": "Não"
    }
   ],
-  "destaque": "74,5%",
+  "destaque": "66,0%",
   "gancho": "*Nova alta* no horizonte",
   "entenda": "A probabilidade de um novo aumento na taxa de juros sugere que a política monetária poderá permanecer restritiva, impactando o mercado financeiro.",
   "categoria": "Previsões",
@@ -6976,8 +7732,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-02T16:48:19-03:00",
   "data": "2026-11-02",
-  "status": "nova",
-  "id": "2026-11-02-p5"
+  "status": "atualizada",
+  "id": "2026-11-02-p5",
+  "atualizadoEm": "2026-11-05T14:40:07-03:00"
  },
  {
   "tipo": "sinal",
@@ -7803,71 +8560,6 @@
  },
  {
   "tipo": "sinal",
-  "slug": "reserve-bank-of-australia-decision-in-november",
-  "titulo": "Mercado de previsões vê 90.9% de chance de aumento de juros na Austrália em novembro",
-  "resumo": "A expectativa é de que o Reserve Bank aumente a taxa em 25 bps, indicando uma política monetária mais restritiva.",
-  "probs": [
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 90.9
-   },
-   {
-    "opcao": "Sem alteração",
-    "prob": 9.2
-   },
-   {
-    "opcao": "Redução de 50+ bps",
-    "prob": 0.1
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2026-11-04",
-  "volume24h": "US$ 18 mil",
-  "fatos": [
-   "Aumento de 25 bps: 90,9%",
-   "Sem alteração: 9,2%",
-   "Redução de 50+ bps: 0,1%",
-   "Redução de 25 bps: 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "90,9%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "9,2%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Redução de 50+ bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "destaque": "90,9%",
-  "gancho": "*Expectativa* para juros australianos",
-  "entenda": "As decisões dos bancos centrais sobre juros impactam a economia local e as taxas de câmbio.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/reserve-bank-of-australia-decision-in-november",
-  "publicadoEm": "2026-11-02T07:38:05-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-02T07:38:05-03:00",
-  "data": "2026-11-02",
-  "status": "nova",
-  "id": "2026-11-02-p2"
- },
- {
-  "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
   "titulo": "Mercado de previsões vê 69.5% de chance de manutenção dos juros em janeiro",
   "resumo": "Os apostadores acreditam que o Fed não fará alterações na taxa na próxima reunião, sinalizando estabilidade.",
@@ -7995,515 +8687,5 @@
   "data": "2026-11-02",
   "status": "nova",
   "id": "2026-11-02-p4"
- },
- {
-  "titulo": "Movida tem lucro sólido, mas juros altos derrubam ações em 18%",
-  "resumo": "Movida registrou lucro líquido de R$ 152 milhões no 3º trimestre, acima do esperado, mas papel caiu 18,15% devido à expectativa de juros altos por mais tempo.",
-  "fatos": [
-   "Movida teve lucro líquido de R$ 152 milhões no 3º trimestre de 2026.",
-   "Lucro superou a faixa do guidance de R$ 130 a 150 milhões.",
-   "Receita líquida foi R$ 3,87 bilhões, abaixo do consenso.",
-   "Frota aumentou em 8 mil veículos no trimestre.",
-   "Depreciação por veículo está estável em R$ 7,3 mil para aluguel de carros.",
-   "Ações MOVI3 caíram 18,15%, cotadas a R$ 6,44 em 28/10/2026.",
-   "Juros futuros para 2028 chegaram a 14,505%.",
-   "BTG Pactual mantém recomendação de compra para MOVI3.",
-   "JPMorgan tem recomendação neutra e preço-alvo de R$ 18 para MOVI3.",
-   "Bradesco BBI mantém recomendação de compra e preço-alvo em R$ 22."
-  ],
-  "explicacao": [
-   "A Movida reportou no 3º trimestre de 2026 um lucro líquido de R$ 152 milhões, superando o topo da faixa prevista pelo guidance (R$ 130 a 150 milhões). A receita líquida foi de R$ 3,87 bilhões, com desempenho operacional robusto e aumento da frota em 8 mil veículos.",
-   "Apesar dos resultados positivos, as ações MOVI3 caíram 18,15%, negociadas a R$ 6,44, pressionadas pela expectativa de juros elevados no Brasil por um período prolongado, que afetam o apetite dos investidores por ações com maior sensibilidade a juros.",
-   "Analistas do BTG Pactual e da XP destacam a solidez operacional da empresa, com frota maior e estabilidade na depreciação por veículo, mas ressaltam que o ambiente macroeconômico, com juros futuros subindo, pesa no desempenho das ações.",
-   "O JPMorgan manteve recomendação neutra, com preço-alvo de R$ 18, enquanto Bradesco BBI e BTG Pactual mantiveram recomendação de compra, confiantes na operação da Movida apesar da pressão dos juros. O mercado aguarda o desenrolar do cenário econômico e das políticas de juros."
-  ],
-  "detalhes": [
-   "Relatório do 3º trimestre foi divulgado em 28 de outubro de 2026.",
-   "Lucro anual da Movida cresceu 117% em relação ao mesmo período de 2025.",
-   "Receita em Seminovos ficou abaixo da estimativa, impactando resultado geral.",
-   "EBITDA ajustado ficou em R$ 1,86 bilhão, ligeiramente acima do esperado.",
-   "Movida enfrentou maior pressão nos juros futuros do Brasil, afetando ações.",
-   "Taxa média de depreciação no segmento de gestão e terceirização subiu para R$ 11,2 mil.",
-   "Expectativa de juros altos prolongados ofuscou balanço positivo da empresa."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Analistas do BTG Pactual",
-    "oque": "Ambiente favorável para queda dos juros traria melhora ao sentimento dos investidores."
-   },
-   {
-    "quem": "Analistas da XP Investimentos",
-    "oque": "Lucro foi beneficiado pelo forte desempenho operacional e menor alíquota de impostos."
-   },
-   {
-    "quem": "Analistas do JPMorgan",
-    "oque": "Resultados estão em linha com números preliminares, apesar da receita menor em Seminovos."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "28/10/2026",
-    "oque": "Movida divulga balanço do 3º trimestre com lucro de R$ 152 milhões."
-   },
-   {
-    "quando": "28/10/2026, 13h15",
-    "oque": "Ações MOVI3 caem 18,15%, cotadas a R$ 6,44."
-   },
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Juros futuros no Brasil sobem, renovando pressão sobre ações sensíveis a juros."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Guidance",
-    "significado": "Estimativa oficial da empresa para seu desempenho futuro."
-   },
-   {
-    "termo": "EBITDA",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização."
-   },
-   {
-    "termo": "Juros futuros",
-    "significado": "Taxas de juros projetadas pelo mercado para datas futuras."
-   }
-  ],
-  "pergunta": "Como você avalia a influência dos juros altos nas ações da Movida?",
-  "tamanhoTexto": 9538,
-  "numeros": [
-   {
-    "valor": "152 milhões",
-    "rotulo": "Lucro líquido do 3º trimestre da Movida em R$"
-   },
-   {
-    "valor": "3,87 bilhões",
-    "rotulo": "Receita líquida da Movida no 3º trimestre em R$"
-   },
-   {
-    "valor": "18,15%",
-    "rotulo": "Queda das ações MOVI3 no dia 28/10/2026"
-   },
-   {
-    "valor": "8 mil",
-    "rotulo": "Veículos adicionados à frota da Movida no trimestre"
-   },
-   {
-    "valor": "7,3 mil",
-    "rotulo": "Depreciação por veículo no segmento de aluguel, em R$"
-   },
-   {
-    "valor": "14,505%",
-    "rotulo": "Taxa de juros DI para janeiro de 2028, percentual ao ano"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "18,15% queda das",
-  "porQueImporta": "A queda das ações da Movida mostra como o cenário de juros altos afeta diretamente empresas com operação intensiva em ativo e dívida, mesmo com resultados sólidos. Entender isso ajuda investidores a avaliar risco e timing em setores sensíveis a política monetária e financiamentos.",
-  "impactoMercado": "Pressão por juros elevados deve continuar a limitar a alta das ações de empresas como Movida, especialmente as mais alavancadas. Investidores podem observar setores afetados pela política de juros e buscar estratégias para lidar com maior custo financeiro e volatilidade no mercado acionário.",
-  "entenda": "A Movida é uma locadora de veículos que reporta trimestralmente seu lucro e receita. Sua ação, MOVI3, é negociada na B3. Juros altos no país encarecem crédito e reduzem o apetite por risco, afetando o preço das ações, mesmo quando a empresa apresenta bons resultados operacionais.",
-  "observar": "Acompanhe os próximos resultados da Movida e os relatórios dos bancos centrais, além da evolução dos juros futuros para entender o impacto na ação MOVI3.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra como o mercado financeiro reage não só ao desempenho das empresas, mas ao cenário econômico mais amplo, especialmente juros, motivando o estudo de análise fundamentalista e macroeconômica na faculdade do mercado financeiro.",
-  "gancho": "*Juros Altos* e Movida em queda",
-  "ideias": [
-   "Por que ações da Movida caíram apesar do lucro recorde?",
-   "Entenda o impacto dos juros altos no setor de locação de veículos",
-   "Como analisar balanços e cenário macro para decisões na bolsa"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "InfoMoney; Valor Econômico",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-10-28T13:17:31-03:00",
-  "url": "https://www.infomoney.com.br/mercados/movida-expectativa-de-juro-alto-por-mais-tempo-ofusca-balanco-e-movi3-cai-quase-20/",
-  "publicadoEm": "2026-10-28T13:15:49-03:00",
-  "data": "2026-10-28",
-  "id": "2026-10-28-01"
- },
- {
-  "titulo": "Klabin cai 6% mesmo com lucro acima do esperado no 3T26",
-  "resumo": "Klabin teve lucro de R$ 393 mi no 3T26, acima da expectativa de R$ 329,5 mi, mas ações caíram 6%. Custos aumentaram e preocupam analistas.",
-  "fatos": [
-   "Lucro líquido de R$ 393 mi no 3T26, acima dos R$ 329,5 mi esperados.",
-   "Ações da Klabin caíram 6% em 28/10/2026, cotadas a R$ 17,56.",
-   "Custo caixa consolidado aumentou 8% para R$ 3,5 mil por tonelada.",
-   "EBITDA ajustado no 3T26 foi de R$ 1,86 bi, estável em relação ao trimestre anterior.",
-   "Fluxo de caixa livre foi negativo em R$ 1 milhão no trimestre.",
-   "Segmento de Celulose teve resultados acima das expectativas, com preços da celulose fluff em alta.",
-   "Divisão de Papel e Embalagens apresentou custos mais altos e desempenho abaixo do esperado.",
-   "Parada para manutenção ocorreu na unidade de Otacílio Costa.",
-   "Inflação nos insumos, especialmente químicos e combustíveis, pressionou custos.",
-   "Analistas da XP, Itaú BBA, JPMorgan e Goldman Sachs mantêm recomendação neutra para as ações."
-  ],
-  "explicacao": [
-   "A Klabin registrou lucro líquido de R$ 393 milhões no terceiro trimestre de 2026 (3T26), superando a expectativa média do mercado que era de R$ 329,5 milhões. Apesar disso, as ações da empresa caíram 6%, cotadas a R$ 17,56.",
-   "O motivo da queda das ações está relacionado ao aumento de 8% no custo caixa consolidado, que chegou a R$ 3,5 mil por tonelada, impactado principalmente pelos preparativos para o fenômeno climático El Niño. Isso elevou os custos totais, afetando a avaliação dos resultados.",
-   "Além disso, paradas programadas para manutenção e a inflação dos insumos industriais, como produtos químicos e combustíveis, aumentaram custos e despesas, especialmente na divisão de Papel e Embalagens — que ficou abaixo do esperado pelos analistas.",
-   "Os analistas mantêm atenção sobre a evolução dos custos, geração de fluxo de caixa livre e a redução do endividamento da Klabin. Para os próximos meses, a demanda doméstica e a valorização ou desvalorização do real podem influenciar o desempenho da empresa."
-  ],
-  "detalhes": [
-   "Lucro no 3T26 foi R$ 393 milhões, superando consenso IBES de R$ 329,5 milhões.",
-   "Custo caixa subiu por conta dos preparativos para o El Niño, um fenômeno climático que afeta produção.",
-   "Manutenção programada na fábrica de Otacílio Costa elevou o custo fixo.",
-   "Celulose fluff teve preços altos, principalmente usados em produtos absorventes.",
-   "Custos e despesas ajustadas foram impactados por inflação e logística.",
-   "Fluxo de caixa livre negativo sugere atenção na geração de recursos futuros.",
-   "Preço-alvo dos analistas variam entre R$ 18,50 e R$ 21 para as ações Klabin."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Analistas da XP Investimentos",
-    "oque": "Destacaram aumento do custo caixa e alertaram para impacto no fluxo de caixa livre."
-   },
-   {
-    "quem": "Daniel Sasson, analista do Itaú BBA",
-    "oque": "Comentou que EBITDA ajustado ficou em linha com expectativas, mas com custos e despesas elevados."
-   },
-   {
-    "quem": "Analistas do JPMorgan",
-    "oque": "Apontaram que segmento de Papel e Embalagens ficou abaixo das estimativas, enquanto Celulose superou."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3T26",
-    "oque": "Klabin registra lucro líquido de R$ 393 milhões."
-   },
-   {
-    "quando": "2T26",
-    "oque": "Vendas de terrenos geraram receita de R$ 64 milhões."
-   },
-   {
-    "quando": "28/10/2026",
-    "oque": "Ações da Klabin caem 6% mesmo com lucro acima do esperado."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "EBITDA",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
-   },
-   {
-    "termo": "Fluxo de caixa livre",
-    "significado": "Dinheiro disponível após investimentos e despesas"
-   },
-   {
-    "termo": "Custo caixa consolidado",
-    "significado": "Custo total para produzir por tonelada"
-   }
-  ],
-  "pergunta": "Como você acha que os custos influenciam os resultados da Klabin?",
-  "tamanhoTexto": 3969,
-  "numeros": [
-   {
-    "valor": "393 milhões",
-    "rotulo": "lucro líquido no 3T26"
-   },
-   {
-    "valor": "329,5 milhões",
-    "rotulo": "expectativa média de lucro no 3T26"
-   },
-   {
-    "valor": "6%",
-    "rotulo": "queda das ações em 28/10/2026"
-   },
-   {
-    "valor": "3,5 mil",
-    "rotulo": "custo caixa por tonelada (em R$)"
-   },
-   {
-    "valor": "8%",
-    "rotulo": "aumento do custo caixa comparado ao trimestre anterior"
-   },
-   {
-    "valor": "1,86 bilhão",
-    "rotulo": "EBITDA ajustado no 3T26"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Lucro de R$",
-  "porQueImporta": "Para investidores e traders, entender o impacto dos custos altos e manutenção afeta a percepção sobre a rentabilidade da Klabin. Mesmo com lucro acima do esperado, a pressão nos custos e a queda das ações mostram que fatores operacionais influenciam o preço das ações.",
-  "impactoMercado": "O aumento dos custos e alerta sobre fluxo de caixa livre podem gerar volatilidade nas ações da Klabin. Setores ligados a papel, celulose e embalagens podem apresentar ajustes nos preços, e o câmbio pode ser um fator relevante na valorização dos papéis.",
-  "entenda": "O EBITDA mede o lucro operacional antes de juros e impostos para avaliar desempenho ajustado. Fluxo de caixa livre representa a capacidade da empresa de gerar recursos após investimentos. Custos caixa consolidado indicam despesas diretas para produzir cada tonelada, impactando a margem e lucro.",
-  "observar": "Fique de olho nos próximos resultados trimestrais da Klabin para acompanhar evolução dos custos e geração de caixa, além das variações no câmbio que podem afetar o desempenho da empresa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos em detalhes como os custos elevados e a manutenção impactaram o lucro e as ações da Klabin, mostrando o que analisar para entender resultados no mercado financeiro.",
-  "gancho": "*Klabin* cai com *custos* altos",
-  "ideias": [
-   "Por que o lucro da Klabin não evitou queda nas ações?",
-   "Entenda o impacto do El Niño nos custos da Klabin",
-   "Como custos de manutenção afetam resultados empresariais"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "queda",
-  "fonte": "InfoMoney",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-28T13:17:31-03:00",
-  "url": "https://www.infomoney.com.br/mercados/klabin-klbn11-analise-resultados-terceiro-trimestre-2026-desempenho-acoes/",
-  "publicadoEm": "2026-10-28T13:13:45-03:00",
-  "data": "2026-10-28",
-  "id": "2026-10-28-02"
- },
- {
-  "titulo": "GE HealthCare eleva metas após lucro subir no 3º trimestre",
-  "resumo": "GE HealthCare aumentou projeções anuais após lucro de US$ 615 milhões no 3º trimestre, ante US$ 446 milhões em 2025. Demanda aquecida impulsionou receita e vendas de 93 mil unidades.",
-  "fatos": [
-   "Lucro líquido no 3º trimestre de 2026: US$ 615 milhões",
-   "Lucro líquido no 3º trimestre de 2025: US$ 446 milhões",
-   "Unidades comercializadas no 3º trimestre: 93 mil",
-   "Preço aproximado do produto: R$ 300, 66% menor que referência",
-   "Projeções para o ano elevadas após resultados do 3º trimestre",
-   "Expectativa de vendas em outubro é de dobrar o volume do trimestre",
-   "Motivo principal para alta nas projeções: demanda aquecida"
-  ],
-  "explicacao": [
-   "A GE HealthCare reportou um lucro líquido de US$ 615 milhões no terceiro trimestre de 2026, acima dos US$ 446 milhões registrados no mesmo período de 2025, refletindo crescimento significativo. A empresa vendeu 93 mil unidades de seu produto durante o trimestre.",
-   "O aumento da demanda foi o principal motivo para que a empresa elevasse suas projeções para o ano. A expectativa é que as vendas em outubro dobrem em relação ao terceiro trimestre, impulsionadas pelo preço competitivo do produto, cerca de R$ 300, que equivale a 66% a menos do valor da referência no mercado.",
-   "Este cenário mostra que a estratégia da empresa está alinhada com o crescimento do setor de tecnologia médica, favorecendo aumento de receitas e lucro. A demanda contínua indica potencial para manutenção do ritmo de crescimento recente.",
-   "Para os próximos meses, a empresa deverá manter foco na comercialização e produção, otimizar custos e acompanhar o mercado para sustentar suas projeções elevadas. Investidores e operadores devem observar o impacto desses resultados nos setores de saúde e tecnologia."
-  ],
-  "detalhes": [
-   "Quem: GE HealthCare, fabricante de tecnologia médica",
-   "Quanto lucrou no 3º trimestre: US$ 615 milhões",
-   "Quando: resultados divulgados em outubro de 2026",
-   "Vendas de unidades: 93 mil no 3º trimestre, previsão de 186 mil em outubro",
-   "Produto vendido por cerca de R$ 300, valor competitivamente menor",
-   "Crescimento puxado por alta demanda do mercado",
-   "Projeções elevadas para o ano considerando esses resultados"
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2025",
-    "oque": "Lucro líquido de US$ 446 milhões pela GE HealthCare"
-   },
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Lucro líquido de US$ 615 milhões, aumento significativo"
-   },
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Projeções anuais elevadas e expectativa de vendas duplicadas"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro Líquido",
-    "significado": "Resultado financeiro após todas as despesas serem pagas"
-   },
-   {
-    "termo": "Projeções",
-    "significado": "Estimativas futuras de receita e lucro"
-   },
-   {
-    "termo": "Demanda aquecida",
-    "significado": "Aumento na procura por produtos ou serviços"
-   }
-  ],
-  "pergunta": "Você sabia que a demanda pode elevar as metas de uma empresa? Qual setor você acha mais promissor?",
-  "tamanhoTexto": 1765,
-  "numeros": [
-   {
-    "valor": "615 milhões",
-    "rotulo": "Lucro líquido no 3º trimestre de 2026 em dólares"
-   },
-   {
-    "valor": "446 milhões",
-    "rotulo": "Lucro líquido no 3º trimestre de 2025 em dólares"
-   },
-   {
-    "valor": "93 mil",
-    "rotulo": "Unidades vendidas no 3º trimestre"
-   },
-   {
-    "valor": "66%",
-    "rotulo": "Redução no preço do produto comparado à referência"
-   },
-   {
-    "valor": "R$ 300",
-    "rotulo": "Preço aproximado do produto vendido"
-   },
-   {
-    "valor": "2",
-    "rotulo": "Expectativa de dobrar vendas em outubro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro líquido no 3º trimestre",
-    "antes": "US$ 446 milhões",
-    "depois": "US$ 615 milhões"
-   }
-  ],
-  "destaque": "US$ 615 milhões",
-  "porQueImporta": "O crescimento de lucro e a alta demanda demonstram a solidez da GE HealthCare no setor de tecnologia médica. Para investidores, isso indica potencial estabilidade e relevância de uma empresa que responde rápido ao mercado e amplia suas vendas.",
-  "impactoMercado": "O aumento nas metas da GE HealthCare pode refletir em maior interesse dos investidores no setor de tecnologia médica e saúde, setores que geralmente reagem bem a resultados fortes e perspectivas elevadas, além de influenciar papéis relacionados e mercados de commodities para saúde.",
-  "entenda": "Lucro líquido é o resultado final da empresa após custos e despesas. A sustentabilidade desse lucro, reforçada pela demanda crescente, gera confiança para elevar as projeções anuais, indicando um crescimento esperado nas vendas e receitas pela empresa.",
-  "observar": "Fique atento às próximas divulgações de resultados trimestrais da GE HealthCare e às vendas de outubro para acompanhar se as projeções elevadas se mantêm ou ajustam.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia explica como resultados financeiros concretos influenciam a confiança do mercado, ajudando quem quer aprender sobre análise de empresas e gerar conhecimento para operar melhor.",
-  "gancho": "*Lucro* e *Demanda* impulsionam GE HealthCare",
-  "ideias": [
-   "Como a demanda crescente ajudou GE HealthCare a crescer",
-   "O que o lucro do 3º trimestre revela sobre o mercado de saúde",
-   "Por que acompanhar as projeções comerciais da GE HealthCare"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-28T13:17:31-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/10/28/ge-healthcare-eleva-metas-para-o-ano-apos-resultados-do-3o-trimestre-superarem-expectativas.ghtml",
-  "publicadoEm": "2026-10-28T12:50:53-03:00",
-  "data": "2026-10-28",
-  "id": "2026-10-28-03"
- },
- {
-  "titulo": "TCU aprova alíquota de referência da CBS em 11,3% na reforma tributária",
-  "resumo": "O Tribunal de Contas da União definiu a alíquota da CBS em 11,3%, substituindo o PIS/Pasep e Cofins. O percentual será aplicado na transição até 2033 do novo sistema tributário sobre consumo.",
-  "fatos": [
-   "TCU aprovou alíquota da CBS em 28 de junho.",
-   "Alíquota calculada foi de 11,3468%, arredondada para 11,3%.",
-   "Redutor para compras públicas definido em 44,16%.",
-   "CBS substituirá PIS/Pasep e Cofins na reforma tributária.",
-   "Cobrança da CBS começará em 2027, em caráter de teste.",
-   "Transição do novo sistema tributário seguirá até 2033.",
-   "Alíquota visa manter a arrecadação agregada dos tributos substituídos.",
-   "CBS integrará o novo modelo junto ao IBS, tributo estadual e municipal."
-  ],
-  "explicacao": [
-   "Nesta quarta-feira (28), o TCU aprovou a alíquota de referência da Contribuição sobre Bens e Serviços (CBS) em 11,3%, resultante do arredondamento do cálculo original de 11,3468%. A decisão ocorreu em sessão plenária extraordinária e corrigiu também o redutor para compras públicas, fixado em 44,16%.",
-   "A CBS é um tributo federal criado na reforma tributária para substituir as contribuições sobre consumo PIS/Pasep e Cofins. O cálculo da alíquota tem o objetivo de garantir a manutenção da arrecadação desses tributos durante a transição para o novo modelo tributário.",
-   "Essa alíquota de referência é fundamental para estimar o impacto da mudança e monitorar como exceções, benefícios e regimes especiais poderão afetar a arrecadação. Quanto mais tratamentos diferenciados forem concedidos, maior deverá ser a alíquota para preservar a arrecadação total.",
-   "O início da cobrança da CBS será em caráter de teste em 2027, com a transição gradual até 2033, quando o novo sistema de tributação sobre consumo vigora integralmente, ao lado do Imposto sobre Bens e Serviços (IBS), que fica a cargo de estados e municípios."
-  ],
-  "detalhes": [
-   "A decisão foi tomada em sessão plenária extraordinária do TCU",
-   "O redutor de 44,16% é para compras da administração pública direta, autarquias e fundações públicas",
-   "A CBS faz parte da reforma tributária federal para tributar consumo",
-   "Antes da CBS, PIS/Pasep e Cofins incidiam sobre o consumo com alíquotas diferentes",
-   "O percentual de 11,3% será encaminhado ao Senado, que definirá a alíquota por resolução",
-   "A CBS terá aplicação gradual até 2033 para substituir o sistema atual",
-   "O IBS será cobrado por estados e municípios em regime compartilhado junto à CBS"
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "28 de junho",
-    "oque": "TCU aprova alíquota de referência da CBS em 11,3%"
-   },
-   {
-    "quando": "2027",
-    "oque": "CBS começará a ser cobrada em caráter de teste"
-   },
-   {
-    "quando": "2033",
-    "oque": "Novo sistema tributário de consumo vigora integralmente"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "CBS",
-    "significado": "Contribuição sobre Bens e Serviços, tributo federal unificador."
-   },
-   {
-    "termo": "PIS/Pasep",
-    "significado": "Antigos tributos federais sobre o consumo substituídos pela CBS."
-   },
-   {
-    "termo": "Cofins",
-    "significado": "Contribuição para financiamento da seguridade social, substituída pela CBS."
-   }
-  ],
-  "pergunta": "Você entende como a CBS vai substituir o PIS e Cofins no seu dia a dia?",
-  "tamanhoTexto": 2515,
-  "numeros": [
-   {
-    "valor": "11,3468%",
-    "rotulo": "alíquota de referência calculada para CBS"
-   },
-   {
-    "valor": "11,3%",
-    "rotulo": "alíquota de referência arredondada da CBS"
-   },
-   {
-    "valor": "44,16%",
-    "rotulo": "redutor para compras da administração pública"
-   },
-   {
-    "valor": "2027",
-    "rotulo": "ano para início da cobrança em teste da CBS"
-   },
-   {
-    "valor": "2033",
-    "rotulo": "ano final da transição para o novo sistema tributário"
-   },
-   {
-    "valor": "86%",
-    "rotulo": "notas fiscais que destacam a CBS em cobertura mencionada"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "11,3%",
-  "porQueImporta": "A definição da alíquota de 11,3% para a CBS é crucial para investidores entenderem o impacto da reforma tributária no custo das empresas, na arrecadação pública e na composição dos preços de bens e serviços. Isso orienta a análise de setores que poderão ser mais afetados durante a transição.",
-  "impactoMercado": "Com a implantação gradual da CBS, empresas podem ajustar preços e operações para se adaptar ao novo tributo. Setores com regimes tributários especiais podem redefinir estratégias fiscais, e investidores devem acompanhar como a arrecadação e a carga tributária evoluirão até 2033.",
-  "entenda": "A CBS é um novo tributo federal que unifica antigas contribuições sobre consumo como PIS/Pasep e Cofins, simplificando o sistema. A alíquota de referência indica o peso médio do tributo para manter a arrecadação atual durante a transição para o novo modelo que inclui o IBS estadual e municipal.",
-  "observar": "É importante acompanhar a votação da resolução no Senado que fixará oficialmente a alíquota da CBS e os testes a partir de 2027 para verificar impactos reais na arrecadação e nos preços ao consumidor.",
-  "publico": [
-   "Investidores",
-   "Iniciantes",
-   "Empresários"
-  ],
-  "angulo": "Explicamos a decisão do TCU e a lógica da alíquota da CBS para ajudar investidores e iniciantes a entenderem a reforma tributária e seus efeitos nos tributos sobre consumo.",
-  "gancho": "Reforma tributária: *CBS* aprovada",
-  "ideias": [
-   "O que é CBS e como vai substituir o PIS e Cofins?",
-   "Entenda a alíquota de 11,3% da CBS aprovada pelo TCU",
-   "Como a reforma tributária muda a tributação sobre consumo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "escudo",
-  "fonte": "Agência Brasil Economia",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-10-28T13:17:31-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113",
-  "publicadoEm": "2026-10-28T12:38:00-03:00",
-  "data": "2026-10-28",
-  "id": "2026-10-28-04"
  }
 ]
