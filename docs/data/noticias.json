@@ -1,5 +1,667 @@
 [
  {
+  "titulo": "Ibovespa cai 0,82% com incertezas fiscais e queda nos EUA; dólar sobe a R$ 5,49",
+  "resumo": "Ibovespa fechou em 166.191,45 pontos, recuando 0,82%, impactado por preocupações fiscais e queda forte em Wall Street. Dólar comercial valorizou 0,67%, cotado a R$ 5,489.",
+  "fatos": [
+   "Ibovespa caiu 0,82%, encerrando em 166.191,45 pontos.",
+   "Dólar comercial subiu 0,67%, cotado a R$ 5,489.",
+   "Volume financeiro do pregão foi de R$ 34,4 bilhões.",
+   "Nas bolsas americanas, Nasdaq recuou 5,52%, S&P 500 caiu 4,36%, Dow Jones perdeu 3,44%.",
+   "Ministro da Fazenda Dario Durigan declarou que medidas fiscais virão após viagem internacional do presidente Lula.",
+   "Banco Central manteve a Selic em 13,75% ao ano.",
+   "B3 registrou saldo negativo de R$ 12 bilhões em investimentos estrangeiros nos últimos oito pregões.",
+   "C&A (CEAB3) valorizou 8,22% após balanço positivo, enquanto Tenda (TEND3) caiu 17,52% após resultados fracos.",
+   "Petróleo Brent fechou com alta de 3,88%, a US$ 98,29 por barril.",
+   "Juros futuros registraram predominância de quedas na curva pós decisão do Copom."
+  ],
+  "explicacao": [
+   "O Ibovespa terminou o pregão do dia 5 de novembro de 2026 em baixa de 0,82%, a 166.191,45 pontos, influenciado por fatores internos e externos. O dólar comercial subiu 0,67%, alcançando R$ 5,489 no fechamento. A volume financeiro da bolsa somou R$ 34,4 bilhões.",
+   "Internamente, investidores reagiram com cautela após reunião do presidente Lula com ministros e economistas, onde não foram apresentadas medidas concretas para a política fiscal, segundo o ministro da Fazenda, Dario Durigan. Ele indicou que ações virão após a viagem presidencial na semana seguinte, gerando insatisfação e falta de urgência no mercado.",
+   "No exterior, Wall Street sofreu fortes perdas com o Nasdaq caindo 5,52%, S&P 500 recuando 4,36% e Dow Jones com queda de 3,44%, pressionados pela vitória dos democratas nas eleições legislativas e preocupações sobre regulações futuras da inteligência artificial. Esses acontecimentos aumentaram a aversão ao risco globalmente.",
+   "O Banco Central manteve a taxa Selic em 13,75%, interrompendo corte contínuo e ressaltando preocupações com a inflação. Juros futuros fecharam mistos, com predominância de quedas. Investidores aguardam sinais claros de ajuste fiscal doméstico para definir estratégias, especialmente diante da volatilidade externa e do cenário político."
+  ],
+  "detalhes": [
+   "Reunião do presidente Lula com economistas e equipe econômica discutiu o futuro da política fiscal, sem medidas específicas.",
+   "O Copom interrompeu cinco cortes consecutivos da Selic e manteve a taxa em 13,75%, citando aceleração da inflação e seus núcleos.",
+   "Os investidores esperam sinalizações claras do governo para ajustar contas públicas e conter aumento da dívida.",
+   "A volatilidade das bolsas americanas foi associada a preocupações com regulações da inteligência artificial e impacto político das eleições legislativas.",
+   "Ibovespa alcançou máxima intradiária de 168.994 pontos e mínima de 166.189 pontos, mostrando oscilação durante o pregão.",
+   "Setores ligados a tecnologia e bancos tiveram desempenho misto, com algumas ações em alta e outras em queda expressiva.",
+   "O dólar valorizou frente ao real e a outras moedas emergentes, refletindo um movimento global de aversão ao risco."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Medidas fiscais sairão após viagem internacional do presidente, sem fórmulas mágicas."
+   },
+   {
+    "quem": "Tim Holland, diretor de investimentos da Orion",
+    "oque": "Investidores estão longe dos ativos até entender melhor o impacto político nas ações de IA."
+   },
+   {
+    "quem": "Lucas Xavier, head da renda variável da AW Capital",
+    "oque": "Queda forte em Wall Street amplia aversão ao risco e contamina mercados globais."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Copom mantém Selic em 13,75%, interrompendo cortes consecutivos."
+   },
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Ibovespa fecha em queda de 0,82% e dólar sobe a R$ 5,489."
+   },
+   {
+    "quando": "Semana de 8 a 14 de",
+    "oque": "Presidente Lula fará viagem internacional para COP e após isso anunciou medidas fiscais."
+   },
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Divulgação do payroll norte-americano pode impactar mercado global."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede o desempenho das ações mais negociadas na B3."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira definida pelo Banco Central."
+   },
+   {
+    "termo": "Juros Futuros (DIs)",
+    "significado": "Contrato que indica o juro esperado para datas futuras."
+   }
+  ],
+  "pergunta": "Como as incertezas fiscais influenciam sua decisão de investir?",
+  "tamanhoTexto": 20698,
+  "numeros": [
+   {
+    "valor": "166191,45",
+    "rotulo": "Ibovespa no fechamento, pontos"
+   },
+   {
+    "valor": "-0,82%",
+    "rotulo": "Queda do Ibovespa no dia"
+   },
+   {
+    "valor": "5,489",
+    "rotulo": "Dólar comercial no fechamento, em reais"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic mantida pelo Copom"
+   },
+   {
+    "valor": "34,4 bilhões",
+    "rotulo": "Volume financeiro negociado na B3 em reais"
+   },
+   {
+    "valor": "-5,52%",
+    "rotulo": "Queda do Nasdaq no pregão"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Selic",
+    "antes": "redução em pregões anteriores",
+    "depois": "mantida em 13,75%"
+   }
+  ],
+  "destaque": "0,82% queda do",
+  "porQueImporta": "O recuo do Ibovespa diante de incertezas fiscais mostra que o mercado ainda avalia com cautela o controle das contas públicas no Brasil, especialmente num cenário de alta de juros e dólar. Isso influencia as decisões de investidores e traders sobre exposição ao risco no mercado brasileiro.",
+  "impactoMercado": "A queda das bolsas americanas e a alta do dólar pressionam o Ibovespa, reduzindo o apetite por risco e alta em ações mais sensíveis a juros e cenário econômico. O clima fiscal indefinido no Brasil pode limitar entradas no mercado e aumentar a volatilidade de ativos.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira e representa a performance dos maiores papéis negociados. A taxa Selic é o juro básico do Brasil, que influencia economia e mercado financeiro. Juros futuros indicam expectativa para custo do dinheiro no futuro. O dólar reflete o valor da nossa moeda diante do dólar americano.",
+  "observar": "Fique atento ao resultado do payroll nos EUA na sexta-feira, que pode balançar ainda mais os mercados globais. Também acompanhe a volta do presidente Lula e os anúncios de medidas fiscais que podem impactar o ritmo da economia e a bolsa brasileira.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A notícia reúne diversos elementos — política fiscal, decisões do Copom, oscilações globais — que ajudam a entender o comportamento do mercado e a necessidade de análise cuidadosa antes de operar ou investir.",
+  "gancho": "*Ibovespa* cai; *Dólar* sobe",
+  "ideias": [
+   "Por que o Ibovespa caiu mesmo com alta do petróleo?",
+   "Como eleições nos EUA impactaram o mercado brasileiro?",
+   "O que esperar da política fiscal após reunião com Lula?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "InfoMoney; BP Money; Valor Econômico",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:34:11-03:00",
+  "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05112026/",
+  "publicadoEm": "2026-11-05T18:28:10-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-07"
+ },
+ {
+  "titulo": "Nasdaq entra em correção com queda forte após eleições nos EUA",
+  "resumo": "Após vitória democrata nas midterms, bolsas dos EUA caíram forte em 5/11/2026. Nasdaq perdeu 5,52%, entrou em correção; S&P 500 e Dow Jones também tiveram fortes quedas.",
+  "fatos": [
+   "Nasdaq caiu 5,52%, fechando aos 24.315 pontos em 5/11/2026.",
+   "S&P 500 recuou 4,36%, fechando aos 7.353,73 pontos no mesmo dia.",
+   "Dow Jones despencou 3,44%, aos 51.523,06 pontos.",
+   "Setor de tecnologia perdeu 7,30% em um dia.",
+   "ETF BlackRock de semicondutores caiu 12,79%.",
+   "Ações da Nvidia recuaram quase 9% e da AMD mais de 15%.",
+   "Índice Kospi da Coreia do Sul caiu 5,28%, refletindo pessimismo asiático.",
+   "Venha forte queda de ações dos setores de finanças (-2,74%) e consumo discricionário (-3,74%).",
+   "Preocupação principal: possíveis regulações e desaceleração da expansão da IA após vitórias democratas."
+  ],
+  "explicacao": [
+   "Na quinta-feira, 5 de novembro de 2026, as bolsas americanas caíram significativamente após as eleições de meio mandato nos EUA, com o Nasdaq recuando 5,52% e entrando em território de correção. Os demais índices, S&P 500 e Dow Jones, também sofreram perdas expressivas, refletindo preocupações do mercado.",
+   "A queda foi motivada pelo temor de um aperto regulatório no setor de tecnologia e pela possível desaceleração dos investimentos em inteligência artificial (IA), principalmente na construção de novos data centers, após a vitória do Partido Democrata em eleições importantes do Congresso americano.",
+   "Esse cenário gerou uma elevada aversão ao risco, que se espalhou por todos os setores da bolsa, com destaque negativo para tecnologia (-7,30%), semicondutores, finanças e consumo discricionário. Empresas de chips como Nvidia e AMD tiveram perdas de dois dígitos no pregão.",
+   "O mercado agora focará nos próximos movimentos políticos e decisões regulatórias que podem limitar o avanço da infraestrutura tecnológica, com impacto direto nos investimentos e no desempenho das ações ligadas ao setor de IA."
+  ],
+  "detalhes": [
+   "Data do evento: quinta-feira, 5 de novembro de 2026.",
+   "Nas eleições de meio mandato, o Partido Democrata venceu a Câmara e o Senado dos EUA.",
+   "O temor é que essa vitória leve a regras mais rígidas para data centers e investimentos em IA.",
+   "O efeito negativo refletiu também nas bolsas asiáticas e europeias.",
+   "Setores de chips e semicondutores foram os mais afetados, incluindo ETF especial da BlackRock.",
+   "A Nvidia, grande beneficiária da expansão de IA, sentiu forte pressão negativa.",
+   "Analistas apontam dúvidas sobre a continuidade dos investimentos bilionários em IA."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ipek Ozkardeskaya, analista sênior do Swissquote Bank",
+    "oque": "Espera maior escrutínio regulatório na agressiva expansão da inteligência artificial nos EUA."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "05/11/2026",
+    "oque": "Bolsas americanas caem após eleições e Nasdaq entra em correção."
+   },
+   {
+    "quando": "04/11/2026",
+    "oque": "Ações de finanças e consumo discrecionário tiveram desempenho positivo no mercado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Data center",
+    "significado": "Local que reúne equipamentos para processar dados de sistemas e internet."
+   },
+   {
+    "termo": "Correção",
+    "significado": "Queda de pelo menos 10% em um índice após alta anterior."
+   },
+   {
+    "termo": "Inteligência Artificial (IA)",
+    "significado": "Tecnologia que simula inteligência humana em máquinas e softwares."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da regulação da IA no mercado de tecnologia?",
+  "tamanhoTexto": 9280,
+  "numeros": [
+   {
+    "valor": "5,52%",
+    "rotulo": "queda do Nasdaq em 5/11/2026"
+   },
+   {
+    "valor": "7,30%",
+    "rotulo": "queda do setor de tecnologia no mesmo dia"
+   },
+   {
+    "valor": "12,79%",
+    "rotulo": "perda do ETF BlackRock de semicondutores"
+   },
+   {
+    "valor": "9%",
+    "rotulo": "queda das ações da Nvidia durante o pregão"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "queda das ações da AMD no pregão"
+   },
+   {
+    "valor": "5,28%",
+    "rotulo": "queda do índice Kospi na bolsa de Seul"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Nasdaq caiu 5,52%",
+  "porQueImporta": "A correção do Nasdaq e a queda acentuada nas ações de tecnologia indicam maior cautela dos investidores diante dos riscos regulatórios sobre inteligência artificial, um setor que impulsionou o mercado recentemente. Isso sinaliza volatilidade e revisão de expectativas para ativos de tecnologia.",
+  "impactoMercado": "Investidores devem observar o desempenho do setor de tecnologia e semicondutores, além de setores sensíveis a regulações. O movimento reforça a importância do monitoramento político-americano para entender o rumo dos investimentos em inovação e infraestrutura tecnológica nos EUA.",
+  "entenda": "Correção no mercado ocorre quando um índice cai pelo menos 10% do seu pico recente, indicando ajuste de preços. O Nasdaq reúne ações de tecnologia e é sensível a expectativas sobre inovação e regulação. Ações de empresas de IA e semicondutores têm impacto relevante nesse índice.",
+  "observar": "Fique atento às próximas decisões regulatórias e políticas nos EUA que podem limitar investimentos em IA, além dos relatórios trimestrais das empresas de tecnologia e semicondutores, que podem indicar o impacto das novas regras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia mostra como eventos políticos influenciam diretamente o mercado financeiro, especialmente ações de tecnologia. Entender essa dinâmica é essencial para quem quer operar ou investir com conhecimento sobre riscos e oportunidades na bolsa.",
+  "gancho": "*Nasdaq* cai com *IA* e *eleições*",
+  "ideias": [
+   "Por que o Nasdaq entrou em correção após as eleições?",
+   "Como a regulação de IA pode afetar o mercado de tecnologia?",
+   "Setores que mais caíram na bolsa americana em 5/11/2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Valor Econômico; Suno Notícias; Money Times",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:34:11-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/05/bolsas-de-ny-despencam-e-nasdaq-entra-em-correcao-com-sell-off-no-setor-de-tecnologia.ghtml",
+  "publicadoEm": "2026-11-05T18:25:14-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-08"
+ },
+ {
+  "titulo": "Tenda (TEND3) cai 17,7% após lucro no 3T26 ficar 40% abaixo do consenso",
+  "resumo": "No 3º trimestre de 2026, o lucro recorrente da Tenda foi de R$ 106 milhões, 40% menor que a expectativa do mercado. A margem bruta ajustada caiu de 39,9% para 34,6%, pressionada por preços, descontos e cancelamentos.",
+  "fatos": [
+   "Ação TEND3 caiu 17,72% em 5 de novembro de 2026",
+   "Lucro recorrente do 3T26 foi R$ 106 milhões, 40% abaixo do consenso",
+   "Margem bruta ajustada caiu de 39,9% no 2T26 para 34,6% no 3T26",
+   "Ajuste exclui perda de R$ 49 milhões com marcação a mercado no share swap",
+   "JPMorgan mantém preço-alvo de R$ 52,50 e recomendação de compra",
+   "XP projeta lucro líquido ex-swap entre R$ 180 milhões e R$ 240 milhões no 4T26",
+   "Itaú BBA destaca queda de 530 pontos-base na margem bruta ajustada do 3T26",
+   "Goldman Sachs cita receita acima do esperado, mas margens pressionadas",
+   "Bradesco BBI vê risco de revisão para baixo nas estimativas de 2027"
+  ],
+  "explicacao": [
+   "A Tenda divulgou resultados fracos para o terceiro trimestre de 2026, com lucro recorrente de R$ 106 milhões, abaixo das expectativas do mercado em 40%. As ações da empresa caíram 17,72% no dia 5 de novembro, encerrando a R$ 16,25.",
+   "Esse desempenho inferior foi causado por margens brutas menores, que recuaram de 39,9% para 34,6%. Fatores como redução de preços, desconto em imóveis no Rio de Janeiro, inflação, mix desfavorável de produtos e cancelamentos afetaram os resultados.",
+   "O mercado reconhece que parte da pressão pode se dissipar ao longo do tempo, com a retirada dos descontos e melhora nas vendas, mas o desafio para a Tenda é obter lucro de R$ 180 milhões no último trimestre de 2026 para alcançar a meta anual.",
+   "Analistas do JPMorgan, Itaú BBA, XP Investimentos e Goldman Sachs qualificam o trimestre como fraco, porém mantêm recomendações de compra com preços-alvo que variam de R$ 29 a R$ 58, destacando múltiplos de preço/lucro mais atraentes que concorrentes."
+  ],
+  "detalhes": [
+   "Data da queda das ações: 5 de novembro de 2026",
+   "Lucro recorrente exclui impacto negativo de R$ 49 milhões relacionado ao share swap",
+   "Principais fatores de pressão: descontos no Rio, cancelamentos e inflação",
+   "Meta anual de lucro líquido para 2026 é R$ 600 milhões",
+   "Para atingir essa meta, deve ter lucro de R$ 180 milhões no 4T26",
+   "Múltiplo Preço/Lucro projetado para 2027 da Tenda é 2,9 vezes",
+   "Comparação P/L: Cury (4,2x) e Direcional (4,2 a 5,7x)"
+  ],
+  "declaracoes": [
+   {
+    "quem": "JPMorgan",
+    "oque": "Avalia o trimestre da Tenda como muito fraco, com lucro abaixo do esperado devido às margens menores"
+   },
+   {
+    "quem": "XP Investimentos",
+    "oque": "Classifica os resultados como fracos, destacando margens brutas mais baixas e o desafio para atingir o guidance"
+   },
+   {
+    "quem": "Itaú BBA",
+    "oque": "Destaque para a queda de 530 pontos-base na margem bruta ajustada entre o segundo e terceiro trimestre"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Tenda divulga balanço do 3T26 e ações caem 17,72%"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro Recorrente",
+    "significado": "Lucro da operação principal, sem efeitos não recorrentes"
+   },
+   {
+    "termo": "Margem Bruta Ajustada",
+    "significado": "Percentual do lucro sobre vendas após ajustes contábeis"
+   },
+   {
+    "termo": "Share Swap",
+    "significado": "Operação de troca de ações entre empresas ou investidores"
+   }
+  ],
+  "pergunta": "Você já investe em construtoras ou acompanha resultados desse setor?",
+  "tamanhoTexto": 8763,
+  "numeros": [
+   {
+    "valor": "17,72%",
+    "rotulo": "queda da ação TEND3 em 5/11/2026"
+   },
+   {
+    "valor": "R$ 106 milhões",
+    "rotulo": "lucro recorrente da Tenda no 3T26"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "diferença negativa do lucro recorrente ante consenso"
+   },
+   {
+    "valor": "34,6%",
+    "rotulo": "margem bruta ajustada da Tenda no 3T26"
+   },
+   {
+    "valor": "39,9%",
+    "rotulo": "margem bruta ajustada no 2T26"
+   },
+   {
+    "valor": "R$ 600 milhões",
+    "rotulo": "meta de lucro líquido para 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Margem bruta ajustada",
+    "antes": "39,9%",
+    "depois": "34,6%"
+   }
+  ],
+  "destaque": "lucro 40% abaixo",
+  "porQueImporta": "O desempenho abaixo do esperado implica maior risco e volatilidade para os papéis da Tenda, alertando investidores para margens pressionadas e desafios para cumprir a meta anual de lucro. Isso reflete dificuldades no setor imobiliário, como descontos e restrições de crédito, que impactam o resultado das construtoras.",
+  "impactoMercado": "A queda das ações e a pressão nas margens da Tenda podem afetar a percepção sobre o setor de construção no Ibovespa. Setores ligados a crédito imobiliário e vendas de imóveis, além de FIIs atrelados a esses ativos, também podem ser influenciados, demandando atenção especial dos investidores a múltiplos e fundamentos.",
+  "entenda": "O lucro recorrente é o resultado da operação principal da empresa, excluindo efeitos pontuais. Margem bruta ajustada mostra a relação entre vendas e custos diretos. Queda nesse indicador indica perda de rentabilidade, que pode ser causada por redução de preços, custos maiores ou descontos concedidos.",
+  "observar": "Fique atento à divulgação do resultado do quarto trimestre de 2026, esperado para o início de 2027, e aos próximos relatórios de bancos sobre o desempenho e orientações para 2027 da Tenda.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar a queda das ações da Tenda conecta a pessoa ao funcionamento das margens e lucros das empresas no mercado, estimulando o interesse em análises financeiras e a Faculdade de Mercado Financeiro para entender essas métricas.",
+  "gancho": "*Tenda* e Margens em Queda",
+  "ideias": [
+   "O que derrubou as ações da Tenda em 2026?",
+   "Entenda por que as margens brutas da Tenda caíram no 3T26",
+   "Como o lucro recorrente afeta o preço das ações?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "BP Money; InfoMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:34:11-03:00",
+  "url": "https://bpmoney.com.br/mercado/acoes/tenda-tend3-cai-17-apos-balanco-fraco-3t26/",
+  "publicadoEm": "2026-11-05T18:28:16-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-09"
+ },
+ {
+  "titulo": "Camex prorroga Imposto de Exportação sobre petróleo até 31 de dezembro",
+  "resumo": "A Camex decidiu estender a alíquota de 12% do Imposto de Exportação sobre petróleo bruto até 31/12. A medida é a terceira prorrogação e já gerou R$ 12,87 bilhões em arrecadação em 2026.",
+  "fatos": [
+   "A alíquota vigente do Imposto de Exportação sobre petróleo bruto é de 12%.",
+   "A vigência atual terminaria em 7 de novembro de 2026.",
+   "Esta será a terceira vez que o governo estende a cobrança do tributo.",
+   "Em 9 de julho, a Camex manteve a alíquota após expirar a MP original.",
+   "Em 8 de setembro, houve nova prorrogação por 60 dias.",
+   "A arrecadação até setembro atingiu R$ 12,87 bilhões em 2026.",
+   "A arrecadação em setembro foi R$ 2,94 bilhões.",
+   "Exportações cresceram 9% em agosto, 40% em setembro e 22% em outubro.",
+   "Há defasagem aproximada de dois meses entre exportação e recolhimento do imposto.",
+   "O governo aponta caráter regulatório ao imposto, não apenas arrecadatório."
+  ],
+  "explicacao": [
+   "A Câmara de Comércio Exterior (Camex) prorrogou a cobrança do Imposto de Exportação sobre o petróleo bruto, mantendo a alíquota de 12% até 31 de dezembro de 2026. Essa será a terceira extensão do tributo, que venceria originalmente em 7 de novembro.",
+   "A primeira extensão ocorreu em 9 de julho, após a medida provisória que criava o imposto expirar. Na época, a Camex decidiu manter a alíquota de 12% devido à alta dos preços do petróleo. Em 8 de setembro, houve nova prorrogação por mais 60 dias.",
+   "O tributo tem caráter regulatório, segundo o governo, e até setembro de 2026 gerou R$ 12,87 bilhões em receitas. A arrecadação mensal em setembro foi de R$ 2,94 bilhões, refletindo a defasagem de dois meses entre exportação e recolhimento do imposto.",
+   "O volume exportado cresceu 9% em agosto, 40% em setembro e 22% em outubro, indicando que a arrecadação poderá quase dobrar nos próximos meses. Empresas do setor contestam judicialmente o imposto, mas o governo defende sua legalidade."
+  ],
+  "detalhes": [
+   "Quem: Câmara de Comércio Exterior (Camex) e Comitê-Executivo de Gestão (Gecex).",
+   "Quanto: alíquota de 12% sobre petróleo bruto exportado.",
+   "Quando: prorrogação até 31 de dezembro de 2026.",
+   "Onde: Brasil, para exportações de petróleo bruto.",
+   "Como: medidas provisórias expiraram, e o governo usa prorrogações para manter o tributo.",
+   "Comparação: arrecadação mensal pode quase dobrar pelo aumento das exportações.",
+   "Contexto: empresas do setor contestam judicialmente a cobrança do imposto."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fonte do Valor Econômico",
+    "oque": "A Camex decidiu prorrogar até 31 de dezembro a alíquota de 12% do imposto sobre petróleo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "9 de julho de 2026",
+    "oque": "Primeira prorrogação do imposto após expiração da MP."
+   },
+   {
+    "quando": "8 de setembro de 2026",
+    "oque": "Segunda prorrogação do imposto por 60 dias."
+   },
+   {
+    "quando": "7 de novembro de 2026",
+    "oque": "Vencimento original da vigência da alíquota de 12%."
+   },
+   {
+    "quando": "31 de dezembro de 2026",
+    "oque": "Nova data de prorrogação da alíquota pelo Camex."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Imposto de Exportação",
+    "significado": "Tributo sobre venda de produtos para o exterior"
+   },
+   {
+    "termo": "Alíquota",
+    "significado": "Porcentagem aplicada sobre o valor da exportação"
+   },
+   {
+    "termo": "Camex",
+    "significado": "Câmara de Comércio Exterior, gestor de políticas de comércio"
+   }
+  ],
+  "pergunta": "Como você acha que a prorrogação do imposto afeta as empresas exportadoras de petróleo?",
+  "tamanhoTexto": 3164,
+  "numeros": [
+   {
+    "valor": "12%",
+    "rotulo": "alíquota do Imposto de Exportação sobre petróleo bruto"
+   },
+   {
+    "valor": "R$ 12,87 bilhões",
+    "rotulo": "arrecadação do tributo em 2026 até setembro"
+   },
+   {
+    "valor": "R$ 2,94 bilhões",
+    "rotulo": "arrecadação do imposto em setembro de 2026"
+   },
+   {
+    "valor": "9%",
+    "rotulo": "crescimento das exportações em agosto sobre julho"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "crescimento das exportações em setembro sobre agosto"
+   },
+   {
+    "valor": "22%",
+    "rotulo": "crescimento das exportações em outubro sobre setembro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "vigência do imposto",
+    "antes": "7 de novembro de 2026",
+    "depois": "31 de dezembro de 2026"
+   }
+  ],
+  "destaque": "Prorrogação até 31",
+  "porQueImporta": "A prorrogação mantém uma fonte significativa de arrecadação para o governo e influencia a dinâmica das exportações de petróleo. Entender esse tributo ajuda investidores a analisar o impacto em setores ligados à commodity e à indústria petrolífera.",
+  "impactoMercado": "A extensão do imposto pode afetar a receita das empresas exportadoras de petróleo e o fluxo de commodities, influenciando ativos relacionados ao setor energético e petróleo na Bolsa. Também pode impactar o dólar e juros ligados ao comércio exterior.",
+  "entenda": "O Imposto de Exportação é uma cobrança do governo sobre a venda de produtos brasileiros ao exterior. No caso do petróleo, visa controlar a saída da commodity e gerar receita, podendo ter efeito regulatório para o mercado interno e externo.",
+  "observar": "Acompanhe possíveis novas prorrogações e os efeitos nas estatísticas de arrecadação e exportações entre novembro e dezembro de 2026 para entender o impacto no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos o que significa a prorrogação do imposto sobre o petróleo, seu impacto na arrecadação e no mercado, mostrando como entender políticas fiscais pode ajudar quem quer operar com commodities.",
+  "gancho": "*Imposto* sobre petróleo prorrogado",
+  "ideias": [
+   "O que é o Imposto de Exportação sobre petróleo?",
+   "Como a prorrogação do imposto pode impactar seus investimentos?",
+   "Por que a Camex insiste em manter a alíquota de 12%?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:34:11-03:00",
+  "url": "https://valor.globo.com/brasil/noticia/2026/11/05/camex-deve-prorrogar-imposto-de-exportacao-sobre-petroleo-ate-31-de-dezembro-segundo-fonte.ghtml",
+  "publicadoEm": "2026-11-05T18:26:15-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-10"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bitcoin-above-on-november-7-2026",
+  "titulo": "Mercado de previsões vê 99.2% de chance de Bitcoin acima de 68,000 em 7 de novembro",
+  "resumo": "A probabilidade é precificada por apostadores, refletindo o otimismo em relação ao preço do Bitcoin.",
+  "probs": [
+   {
+    "opcao": "Acima de 68,000",
+    "prob": 99.2
+   },
+   {
+    "opcao": "Acima de 70,000",
+    "prob": 97.9
+   },
+   {
+    "opcao": "Acima de 72,000",
+    "prob": 94.7
+   },
+   {
+    "opcao": "Acima de 74,000",
+    "prob": 81.7
+   }
+  ],
+  "prazo": "2026-11-07",
+  "volume24h": "US$ 115 mil",
+  "fatos": [
+   "Acima de 68,000: 99,2%",
+   "Acima de 70,000: 97,9%",
+   "Acima de 72,000: 94,7%",
+   "Acima de 74,000: 81,7%"
+  ],
+  "numeros": [
+   {
+    "valor": "99,2%",
+    "rotulo": "Acima de 68,000"
+   },
+   {
+    "valor": "97,9%",
+    "rotulo": "Acima de 70,000"
+   },
+   {
+    "valor": "94,7%",
+    "rotulo": "Acima de 72,000"
+   },
+   {
+    "valor": "81,7%",
+    "rotulo": "Acima de 74,000"
+   }
+  ],
+  "destaque": "99,2%",
+  "gancho": "*Perspectivas otimistas para o Bitcoin*",
+  "entenda": "O preço do Bitcoin é influenciado por diversos fatores, como a adoção institucional e as mudanças de regulação no mercado cripto.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bitcoin-above-on-november-7-2026",
+  "publicadoEm": "2026-11-05T18:34:11-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-05T18:34:11-03:00",
+  "data": "2026-11-05",
+  "status": "nova",
+  "id": "2026-11-05-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-november-2-8-2026",
+  "titulo": "Mercado de previsões vê 45.7% de chance de Bitcoin abaixo de 74,000 de 2 a 8 de novembro",
+  "resumo": "Essa probabilidade reflete a incerteza dos apostadores sobre os movimentos dos preços do Bitcoin.",
+  "probs": [
+   {
+    "opcao": "Abaixo de 74,000",
+    "prob": 45.7
+   },
+   {
+    "opcao": "Acima de 78,000",
+    "prob": 35.5
+   },
+   {
+    "opcao": "Abaixo de 72,000",
+    "prob": 17.6
+   },
+   {
+    "opcao": "Acima de 80,000",
+    "prob": 15.5
+   }
+  ],
+  "prazo": "2026-11-09",
+  "volume24h": "US$ 480 mil",
+  "fatos": [
+   "Abaixo de 74,000: 45,7%",
+   "Acima de 78,000: 35,5%",
+   "Abaixo de 72,000: 17,6%",
+   "Acima de 80,000: 15,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "45,7%",
+    "rotulo": "Abaixo de 74,000"
+   },
+   {
+    "valor": "35,5%",
+    "rotulo": "Acima de 78,000"
+   },
+   {
+    "valor": "17,6%",
+    "rotulo": "Abaixo de 72,000"
+   },
+   {
+    "valor": "15,5%",
+    "rotulo": "Acima de 80,000"
+   }
+  ],
+  "destaque": "45,7%",
+  "gancho": "*Volatilidade esperada no Bitcoin*",
+  "entenda": "A volatilidade do Bitcoin oferece oportunidades e riscos, sendo afetada por eventos de mercado, especulação e sentimento do investidor.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-2-8-2026",
+  "publicadoEm": "2026-11-05T18:34:11-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-05T18:34:11-03:00",
+  "data": "2026-11-05",
+  "status": "nova",
+  "id": "2026-11-05-p3"
+ },
+ {
   "titulo": "Derrota de Trump abre caminho para Fed focar no controle da inflação",
   "resumo": "A derrota do Partido Republicano nas midterms dos EUA pode aliviar pressões políticas sobre o presidente do Fed, Kevin Warsh, possibilitando mais liberdade para agir na política monetária e ajustar juros.",
   "fatos": [
@@ -757,53 +1419,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-november-2-8-2026",
-  "titulo": "Mercado de previsões vê 64,5% de chance de Ethereum abaixo de 2.200 em novembro",
-  "resumo": "Essas chances refletem as opiniões dos apostadores e não constituem uma previsão formal para o preço do Ethereum.",
+  "titulo": "Mercado de previsões vê 74.0% de chance de Ethereum abaixo de 2,200 de 2 a 8 de novembro",
+  "resumo": "Essa probabilidade indica a confiança dos apostadores em um preço mais baixo para o Ethereum nesse período.",
   "probs": [
    {
-    "opcao": "↓ 2,200",
-    "prob": 64.5
+    "opcao": "Abaixo de 2,200",
+    "prob": 74.0
    },
    {
-    "opcao": "↓ 2,100",
-    "prob": 20.5
+    "opcao": "Acima de 2,300",
+    "prob": 56.5
    },
    {
-    "opcao": "↓ 2,000",
-    "prob": 6.3
+    "opcao": "Abaixo de 2,100",
+    "prob": 25.2
    },
    {
-    "opcao": "↑ 2,500",
-    "prob": 4.5
+    "opcao": "Acima de 2,400",
+    "prob": 12.0
    }
   ],
   "prazo": "2026-11-09",
-  "volume24h": "US$ 320 mil",
+  "volume24h": "US$ 248 mil",
   "fatos": [
-   "↓ 2,200: 64,5%",
-   "↓ 2,100: 20,5%",
-   "↓ 2,000: 6,3%",
-   "↑ 2,500: 4,5%"
+   "Abaixo de 2,200: 74,0%",
+   "Acima de 2,300: 56,5%",
+   "Abaixo de 2,100: 25,2%",
+   "Acima de 2,400: 12,0%"
   ],
   "numeros": [
    {
-    "valor": "64,5%",
-    "rotulo": "↓ 2,200"
+    "valor": "74,0%",
+    "rotulo": "Abaixo de 2,200"
    },
    {
-    "valor": "20,5%",
-    "rotulo": "↓ 2,100"
+    "valor": "56,5%",
+    "rotulo": "Acima de 2,300"
    },
    {
-    "valor": "6,3%",
-    "rotulo": "↓ 2,000"
+    "valor": "25,2%",
+    "rotulo": "Abaixo de 2,100"
    },
    {
-    "valor": "4,5%",
-    "rotulo": "↑ 2,500"
+    "valor": "12,0%",
+    "rotulo": "Acima de 2,400"
    }
   ],
-  "destaque": "64,5%",
+  "destaque": "74,0%",
   "gancho": "*Expectativas dos apostadores* sobre Ethereum",
   "entenda": "Ethereum é uma plataforma de blockchain que permite contratos inteligentes e aplicativos descentralizados, e seu valor pode oscilar rapidamente.",
   "categoria": "Previsões",
@@ -816,8 +1478,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-05T14:40:07-03:00",
   "data": "2026-11-05",
-  "status": "nova",
-  "id": "2026-11-05-p1"
+  "status": "atualizada",
+  "id": "2026-11-05-p1",
+  "atualizadoEm": "2026-11-05T18:34:11-03:00"
  },
  {
   "titulo": "Dólar cai a R$ 5,45 após eleições nos EUA e expectativa pelo Copom",
