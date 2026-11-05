@@ -1,5 +1,393 @@
 [
  {
+  "titulo": "Dólar cai a R$ 5,45 após eleições nos EUA e expectativa pelo Copom",
+  "resumo": "O dólar fechou a R$ 5,45 com queda de 0,64% após vitória democrata nas midterms dos EUA. Ibovespa subiu 1,23%, recuperando os 167 mil pontos antes da decisão do Copom.",
+  "fatos": [
+   "Dólar fechou a R$ 5,4518, com queda de 0,64% em 4 de novembro.",
+   "Ibovespa subiu 1,23%, alcançando 167.563,47 pontos após seis baixas seguidas.",
+   "Democratas conquistaram maioria no Senado e Câmara dos Deputados nos EUA.",
+   "Taxa Selic mantida em 13,75% ao ano pelo Copom após fechamento do mercado.",
+   "Índice DXY do dólar global caiu 0,2%, para 101,520 pontos.",
+   "Petróleo Brent caiu 8,67%, cotado a US$ 94,62 o barril.",
+   "Dólar atingiu máxima intradia de R$ 5,498 por volta das 13h30 antes de recuar.",
+   "Mercado reagiu a dados do Caged com abertura de 121.305 vagas formais em setembro.",
+   "Expectativa do mercado era pela manutenção da Selic com 72,5% de chance.",
+   "Dow Jones subiu 3,03%, S&P 500 avançou 1,59% e Nasdaq 1,48% após eleições."
+  ],
+  "explicacao": [
+   "Na quarta-feira, 4 de novembro, o dólar encerrou o dia em queda de 0,64%, cotado a R$ 5,4518, após três sessões seguidas de alta. A bolsa brasileira, Ibovespa, subiu 1,23%, atingindo 167.563,47 pontos, recuperando-se após seis quedas consecutivas.",
+   "A queda do dólar e a alta da bolsa foram influenciadas pela vitória do Partido Democrata nas eleições de meio de mandato nos Estados Unidos, que conquistou maioria no Senado e na Câmara dos Deputados, reduzindo incertezas sobre mudanças bruscas na política econômica do país.",
+   "Além disso, a redução dos rendimentos dos títulos do Tesouro norte-americano beneficiou moedas emergentes como o real. No entanto, a valorização do real foi limitada pela cautela dos investidores diante das incertezas fiscais brasileiras e a expectativa sobre a decisão do Comitê de Política Monetária (Copom) do Banco Central, que manteve a Selic em 13,75% ao ano naquela noite.",
+   "O resultado das eleições e o cenário local apontam para uma estabilidade momentânea nos juros básicos, mas os investidores seguem atentos a sinais futuros da política econômica brasileira e mundial, que podem impactar mercado cambial, ações e setores sensíveis a juros."
+  ],
+  "detalhes": [
+   "As eleições nos EUA ocorreram em 3 de novembro, definindo o controle do Congresso.",
+   "Democratas mantiveram 54 cadeiras no Senado, maioria requerida era 51.",
+   "Copom divulgou a decisão da taxa Selic após o fechamento do mercado em 4 de novembro.",
+   "Real teve valorização limitada devido a preocupações fiscais no Brasil.",
+   "Queda do dólar global reflete menor percepção de risco pós eleições americanas.",
+   "Ibovespa teve alta influenciada pelas ações de bancos e da Vale, enquanto Petrobras caiu com queda do petróleo.",
+   "O resultado do Caged indicou desaceleração gradual do mercado de trabalho diante dos juros altos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Francesco Pesole, estrategista cambial da ING",
+    "oque": "Eleições terão impacto neutro ou ligeiramente positivo no dólar, dominância republicana no Senado mantém estabilidade."
+   },
+   {
+    "quem": "Kathleen Brooks, diretora de pesquisa da XTB",
+    "oque": "Investidores passam a negociar a realidade da política pública após eleições, com impacto moderado no mercado."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Disse estar disposto a aceitar resultados e buscar acordos com democratas após votação."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro",
+    "oque": "Eleições legislativas nos EUA; democratas conquistam maioria no Congresso."
+   },
+   {
+    "quando": "4 de novembro - sessão de",
+    "oque": "Dólar cai, Ibovespa sobe, mercado aguarda decisão do Copom."
+   },
+   {
+    "quando": "4 de novembro - após fechamento",
+    "oque": "Copom mantém Selic em 13,75% ao ano."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Copom",
+    "significado": "Comitê do Banco Central que decide a taxa básica de juros no Brasil."
+   },
+   {
+    "termo": "Midterms",
+    "significado": "Eleições legislativas nos EUA realizadas no meio do mandato presidencial."
+   },
+   {
+    "termo": "Índice DXY",
+    "significado": "Mede a variação do dólar frente a uma cesta de moedas estrangeiras."
+   }
+  ],
+  "pergunta": "Como você avalia a influência das eleições americanas no dólar e no mercado brasileiro?",
+  "tamanhoTexto": 12654,
+  "numeros": [
+   {
+    "valor": "5,4518",
+    "rotulo": "Cotação do dólar em reais no fechamento"
+   },
+   {
+    "valor": "-0,64%",
+    "rotulo": "Queda percentual do dólar em 4 de novembro"
+   },
+   {
+    "valor": "167.563,47",
+    "rotulo": "Pontos do Ibovespa no fechamento"
+   },
+   {
+    "valor": "+1,23%",
+    "rotulo": "Alta percentual do Ibovespa no dia"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic mantida pelo Copom"
+   },
+   {
+    "valor": "121.305",
+    "rotulo": "Vagas formais abertas em setembro segundo Caged"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,45",
+  "porQueImporta": "A valorização do real e a queda do dólar refletem alterações políticas nos EUA e expectativas sobre juros locais, que impactam estratégias de investidores e traders ao avaliarem riscos e oportunidades em câmbio, ações e renda fixa.",
+  "impactoMercado": "O cenário menor de risco político nos EUA e manutenção da Selic indica possível estabilidade para ativos de risco no Brasil, beneficiando a bolsa e moedas emergentes, mas mantém cautela diante da pressão fiscal e inflação local.",
+  "entenda": "O dólar refletiu o resultado das eleições americanas, que influenciam a percepção de risco global. A Selic é a taxa básica de juros, e sua manutenção pelo Copom indica a política monetária do Brasil para controlar inflação e estimular a economia.",
+  "observar": "Fique atento à próxima comunicação do Copom e eventos fiscais no Brasil, que podem alterar expectativas de juros e câmbio. Também acompanhe novas pesquisas sobre dados econômicos e a evolução política internacional pós-eleições.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entenda o impacto das eleições nos EUA e da decisão do Copom no dólar e na bolsa para operar com mais segurança e conhecer a faculdade de mercado.",
+  "gancho": "*Dólar* e *Copom*: impacto nas *Eleições*",
+  "ideias": [
+   "Eleições nos EUA: efeito no dólar e no Ibovespa",
+   "Copom mantém Selic: o que muda para o investidor?",
+   "Mercado após midterms: dólar cai e bolsa sobe"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; Money Times; G1 Economia",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:48:05-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-r-545-apos-eleicoes-nos-eua-e-antes-do-copom",
+  "publicadoEm": "2026-11-04T20:17:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-09"
+ },
+ {
+  "titulo": "Wall Street salta com ‘onda azul’ no Congresso e Dow Jones dispara",
+  "resumo": "Vitória dos democratas nas eleições dos EUA leva Dow Jones a subir 3,03% e atingir 53.356 pontos, maior alta diária em 18 meses. Mercado reage à aceitação de Trump sobre os resultados, diminuindo risco político.",
+  "fatos": [
+   "Dow Jones subiu 3,03%, aos 53.356,12 pontos.",
+   "S&P 500 teve alta de 1,58%, aos 7.688,62 pontos.",
+   "Nasdaq avançou 1,44%, chegando a 25.736,51 pontos.",
+   "Democratas conquistaram maioria na Câmara e no Senado dos EUA.",
+   "Trump aceitou os resultados eleitorais, minimizando incertezas.",
+   "Preços do petróleo Brent caíram 8,66%, para US$ 94,62 o barril.",
+   "Setor privado dos EUA criou 86 mil vagas de trabalho em outubro.",
+   "Ibovespa subiu 1,23%, aos 167.563 pontos, acompanhando Wall Street.",
+   "Dólar fechou em queda de 0,65%, cotado a R$ 5,45.",
+   "Expectativa de manutenção da taxa Selic em 13,75% ao ano pelo Copom."
+  ],
+  "explicacao": [
+   "Os índices de Wall Street tiveram forte valorização após as eleições de meio de mandato nos EUA, em que os democratas conquistaram maioria na Câmara e no Senado. O Dow Jones subiu 3,03%, alcançando 53.356,12 pontos, maior nível desde setembro e melhor desempenho diário desde abril de 2025.",
+   "Essa reação se deve à aceitação dos resultados pelo presidente Donald Trump, que eliminou a incerteza política. Anteriormente, o risco de instabilidade política pressionava os mercados, mas o anúncio do respeito ao resultado reduziu essa preocupação.",
+   "Apesar do otimismo geral, o Nasdaq avançou menos, com ganhos de 1,44%, devido à expectativa de que um Congresso democrata será mais rigoroso na fiscalização das empresas de tecnologia, especialmente no setor de inteligência artificial.",
+   "Agora, o mercado acompanha como Trump atuará com um Congresso de maioria democrata, que pode limitar sua agenda doméstica, mas ainda lhe permite liberdade na política externa. A diminuição das tensões políticas e sinais de ajuste fiscal no Brasil também impactam os mercados hoje."
+  ],
+  "detalhes": [
+   "Eleições renovaram 435 cadeiras da Câmara e 35 do Senado nos EUA.",
+   "Democratas ganharam eleições para governador, incluindo no Texas.",
+   "Dow Jones bateu maior alta diária desde abril de 2025.",
+   "Trump sinalizou possível colaboração com democratas para avanços.",
+   "Petróleo recuou mais de 8% após sinais de mudança no conflito com Irã.",
+   "Relatório ADP mostrou criação de 86 mil empregos no setor privado.",
+   "Na Europa, índices fecharam em alta com destaque para bancos e energia limpa."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analistas do ING",
+    "oque": "Congresso democrata deve restringir agenda doméstica de Trump nos últimos dois anos"
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Aceito os resultados eleitorais e posso trabalhar com democratas em muitos temas"
+   },
+   {
+    "quem": "Neil Shearing, economista-chefe da Capital Economics",
+    "oque": "Trump pode focar mais na política externa, área pouco afetada pelo Congresso"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Eleições de meio de mandato nos EUA com vitória democrata"
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Mercados de Wall Street e Europa registram forte alta"
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Trump aceita resultados eleitorais e sinaliza colaboração"
+   },
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Divulgação do relatório oficial de empregos dos EUA (payroll)"
+   },
+   {
+    "quando": "8 de novembro de 2026",
+    "oque": "Pronunciamento de Lula com anúncio de ajuste fiscal"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dow Jones",
+    "significado": "Índice com 30 das maiores empresas americanas."
+   },
+   {
+    "termo": "Nasdaq",
+    "significado": "Índice que reúne muitas empresas de tecnologia."
+   },
+   {
+    "termo": "Eleições de meio de mandato",
+    "significado": "Eleições que renovam parte do Congresso dos EUA."
+   }
+  ],
+  "pergunta": "Como você acha que um Congresso democrata impacta as ações de tecnologia?",
+  "tamanhoTexto": 15743,
+  "numeros": [
+   {
+    "valor": "53.356,12",
+    "rotulo": "Pontos do Dow Jones no fechamento"
+   },
+   {
+    "valor": "+3,03%",
+    "rotulo": "Alta do Dow Jones no dia"
+   },
+   {
+    "valor": "7.688,62",
+    "rotulo": "Pontos do S&P 500 no fechamento"
+   },
+   {
+    "valor": "+1,58%",
+    "rotulo": "Alta do S&P 500"
+   },
+   {
+    "valor": "25.736,51",
+    "rotulo": "Pontos do Nasdaq no fechamento"
+   },
+   {
+    "valor": "+1,44%",
+    "rotulo": "Alta do Nasdaq"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "3,03%",
+  "porQueImporta": "A vitória democrata e a aceitação por Trump reduzem o risco político nos EUA, principal economia do mundo. Isso influencia as decisões dos investidores globalmente, traz mais estabilidade e impacta setores sensíveis a regulamentações, juros e política externa, fundamentais para quem opera ou investe.",
+  "impactoMercado": "O movimento reforça a recuperação dos índices americanos e melhora o apetite por risco global. O setor de tecnologia deve enfrentar maior regulação, enquanto o petróleo e ações ligadas à energia respondem à expectativa de desarmamento do conflito com Irã. No Brasil, o Ibovespa acompanha alta e o dólar recua.",
+  "entenda": "Wall Street é o principal conjunto de bolsas dos EUA, onde o Dow Jones reúne 30 gigantes do mercado. As eleições de meio de mandato alteram o Congresso, influenciando políticas econômicas e regulatórias. A aceitação dos resultados reduz a instabilidade, o que normalmente favorece a valorização das ações e melhora o clima nos mercados financeiros.",
+  "observar": "Fique atento ao relatório payroll dos EUA na sexta, decisão do Copom sobre juros no Brasil, e ao pronunciamento de Lula neste domingo, que pode detalhar medidas fiscais para o mercado brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender o efeito das eleições e da política americana no mercado ajuda o investidor a interpretar movimentos dos índices e ativos, conhecendo melhor a dinâmica global que influencia desde ações até commodities e moedas.",
+  "gancho": "Wall Street e *onda azul* histórica",
+  "ideias": [
+   "O que significa a ‘onda azul’ nos EUA para o mercado?",
+   "Dow Jones dispara: entenda o impacto das eleições americanas",
+   "Como o Congresso democrata pode mudar a regulação das gigantes de tecnologia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Global",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:48:05-03:00",
+  "url": "https://www.moneytimes.com.br/wall-street-4-11-26-lils/",
+  "publicadoEm": "2026-11-04T18:08:24-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-10"
+ },
+ {
+  "titulo": "Brasil registra maior fluxo cambial positivo de 2026 em outubro",
+  "resumo": "Em outubro, o Brasil teve entrada total de US$ 18,151 bilhões, maior fluxo cambial do ano. Dados do Banco Central mostram alta nos canais financeiro e comercial.",
+  "fatos": [
+   "Fluxo cambial total positivo de US$ 18,151 bilhões em outubro de 2026.",
+   "Entrada líquida pelo canal financeiro foi de US$ 8,812 bilhões.",
+   "Saldo positivo pelo canal comercial foi de US$ 9,339 bilhões.",
+   "Dados divulgados pelo Banco Central do Brasil em 4 de novembro.",
+   "Na semana de 26 a 30 de outubro, houve entrada líquida de US$ 9,498 bilhões.",
+   "Período coincide com os dois turnos das eleições presidenciais no país.",
+   "Resultado surpreendeu mercados após vitória de Lula sobre Bolsonaro no segundo turno.",
+   "Entrada cambial é a maior do ano até outubro de 2026."
+  ],
+  "explicacao": [
+   "Em outubro de 2026, o Brasil registrou um fluxo cambial positivo total de US$ 18,151 bilhões, o maior valor mensal do ano, conforme divulgou o Banco Central em 4 de novembro. O período incluiu os dois turnos das eleições presidenciais.",
+   "A forte movimentação cambial veio tanto do canal financeiro, com entrada líquida de US$ 8,812 bilhões, que inclui investimentos estrangeiros diretos, carteira, remessas e juros; quanto do canal comercial, que teve saldo positivo de US$ 9,339 bilhões, contabilizando exportações e importações.",
+   "Esse resultado indica confiança e movimentação significativa no mercado cambial brasileiro em outubro, mesmo após a surpresa dos mercados com o resultado eleitoral, que derrubou ativos domésticos logo após o segundo turno.",
+   "Para os próximos meses, o mercado continuará observando o comportamento do fluxo cambial e seus impactos diante da instabilidade política e econômica, assim como a atuação do Banco Central para conter volatilidades."
+  ],
+  "detalhes": [
+   "Banco Central divulgou dados preliminares sobre câmbio contratado em 4 de novembro.",
+   "Período das eleições contribuiu para maior fluxo cambial do ano.",
+   "Canal financeiro inclui investimentos e operações financeiras diversas.",
+   "Canal comercial refere-se à balança de exportações e importações.",
+   "Semana pós-segundo turno eleitoral teve forte entrada líquida cambial.",
+   "Surpresa no resultado eleitoral derrubou ativos brasileiros no mercado.",
+   "Fluxo positivo indica elevada movimentação de recursos cambiais no país."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "outubro de 2026",
+    "oque": "Brasil registrou maior entrada cambial do ano com US$ 18,151 bilhões"
+   },
+   {
+    "quando": "26 a 30 de outubro de",
+    "oque": "Semana pós-segundo turno teve fluxo líquido de US$ 9,498 bilhões"
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Banco Central divulgou dados preliminares do fluxo cambial"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fluxo Cambial",
+    "significado": "Movimento de dólares entrando e saindo do país via comércio e finanças."
+   },
+   {
+    "termo": "Canal Financeiro",
+    "significado": "Operações financeiras como investimentos, juros e remessas de lucros."
+   },
+   {
+    "termo": "Canal Comercial",
+    "significado": "Transações de exportação e importação de bens e serviços."
+   }
+  ],
+  "pergunta": "Como você acha que o fluxo cambial positivo impacta o mercado financeiro brasileiro?",
+  "tamanhoTexto": 4720,
+  "numeros": [
+   {
+    "valor": "18,151 bilhões",
+    "rotulo": "fluxo cambial total positivo em outubro (US$)"
+   },
+   {
+    "valor": "8,812 bilhões",
+    "rotulo": "entrada líquida pelo canal financeiro (US$)"
+   },
+   {
+    "valor": "9,339 bilhões",
+    "rotulo": "saldo positivo pelo canal comercial (US$)"
+   },
+   {
+    "valor": "9,498 bilhões",
+    "rotulo": "entrada líquida cambial da semana pós-segundo turno (US$)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 18,151 bilhões",
+  "porQueImporta": "O fluxo de recursos positivo sinaliza vitalidade do mercado cambial mesmo em períodos políticos turbulentos, indicando que investidores e empresas continuam confiantes para movimentar capital no Brasil. Isso é importante para quem investe pois afeta liquidez e volatilidade do dólar e ativos locais.",
+  "impactoMercado": "Entradas cambiais elevadas ajudam a estabilizar o real e podem reduzir pressões inflacionárias decorrentes da moeda forte, beneficiando setores exportadores e o mercado financeiro. Investidores devem acompanhar a influência dessas movimentações em ações, câmbio e juros.",
+  "entenda": "Fluxo cambial é o registro de entradas e saídas de dólares no país, pela balança comercial (exportações e importações) e financeira (investimentos e empréstimos). O saldo indica se há mais dinheiro entrando ou saindo, influenciando a cotação do dólar e a economia.",
+  "observar": "Fique atento aos próximos dados oficiais do Banco Central sobre fluxo cambial e às reuniões que podem influenciar políticas monetárias e câmbio, principalmente em cenário pós-eleitoral e com incertezas econômicas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra um movimento importante do mercado financeiro real, ideal para quem quer entender como eleições e economia afetam o câmbio e investimentos, incentivando aprendizado para operar com conhecimento na Trader School.",
+  "gancho": "*Fluxo Cambial* atinge recorde em outubro",
+  "ideias": [
+   "Entenda o que é fluxo cambial e sua importância",
+   "Por que outubro teve a maior entrada cambial do ano?",
+   "Impactos do resultado eleitoral no mercado cambial brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:48:05-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fluxo-cambial-do-brasil-registra-entrada-de-us-1815-bilhoes-em-outubro-maior-valor-do-ano.shtml",
+  "publicadoEm": "2026-11-04T17:49:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-11"
+ },
+ {
   "titulo": "Itaú registra lucro sólido no 3T26 e destaca qualidade da carteira",
   "resumo": "Itaú Unibanco alcançou lucro recorrente de R$ 12,6 bi no 3º tri de 2026, com ROE de 23,6%. A carteira de crédito cresceu 10,2% em 12 meses, e a ação ITUB4 subiu 3,17% no dia.",
   "fatos": [
@@ -5724,53 +6112,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 76,5% de chance do Bitcoin ultrapassar 80.000 em novembro.",
-  "resumo": "As apostas indicam uma expectativa otimista para o Bitcoin até o início de novembro.",
+  "titulo": "Mercado de previsões vê 81,5% de chance do Bitcoin atingir 82.500 em novembro",
+  "resumo": "Projeções de preço da criptomoeda refletem as expectativas do mercado quanto à volatilidade e à demanda.",
   "probs": [
    {
-    "opcao": "↑ 80,000",
-    "prob": 76.5
-   },
-   {
-    "opcao": "↓ 75,000",
-    "prob": 70.5
+    "opcao": "↑ 82,500",
+    "prob": 81.5
    },
    {
     "opcao": "↓ 77,500",
-    "prob": 70.0
+    "prob": 67.5
    },
    {
-    "opcao": "↑ 82,500",
-    "prob": 54.5
+    "opcao": "↑ 85,000",
+    "prob": 58.5
+   },
+   {
+    "opcao": "↓ 75,000",
+    "prob": 46.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 323 mil",
+  "volume24h": "US$ 562 mil",
   "fatos": [
-   "↑ 80,000: 76,5%",
-   "↓ 75,000: 70,5%",
-   "↓ 77,500: 70,0%",
-   "↑ 82,500: 54,5%"
+   "↑ 82,500: 81,5%",
+   "↓ 77,500: 67,5%",
+   "↑ 85,000: 58,5%",
+   "↓ 75,000: 46,5%"
   ],
   "numeros": [
    {
-    "valor": "76,5%",
-    "rotulo": "↑ 80,000"
+    "valor": "81,5%",
+    "rotulo": "↑ 82,500"
    },
    {
-    "valor": "70,5%",
-    "rotulo": "↓ 75,000"
-   },
-   {
-    "valor": "70,0%",
+    "valor": "67,5%",
     "rotulo": "↓ 77,500"
    },
    {
-    "valor": "54,5%",
-    "rotulo": "↑ 82,500"
+    "valor": "58,5%",
+    "rotulo": "↑ 85,000"
+   },
+   {
+    "valor": "46,5%",
+    "rotulo": "↓ 75,000"
    }
   ],
-  "destaque": "76,5%",
+  "destaque": "81,5%",
   "gancho": "*Otimismo* nas apostas sobre Bitcoin",
   "entenda": "As expectativas dos preços do Bitcoin refletem a confiança do mercado em sua valorização futura, embora as criptos sejam notoriamente voláteis.",
   "categoria": "Previsões",
@@ -5785,7 +6173,7 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p9",
-  "atualizadoEm": "2026-11-03T14:21:50-03:00"
+  "atualizadoEm": "2026-11-04T22:48:05-03:00"
  },
  {
   "titulo": "Petróleo cai mais de 8% com avanço em negociações no Oriente Médio",
@@ -6594,53 +6982,53 @@
  {
   "tipo": "sinal",
   "slug": "bank-of-mexico-decision-in-november",
-  "titulo": "Mercado de previsões vê 62,5% de chance de manutenção da taxa pelo Banco do México em novembro",
-  "resumo": "As apostas indicam uma probabilidade maior de não alteração na taxa de juros.",
+  "titulo": "Mercado de previsões vê 77,5% de chance de manutenção de taxa pelo Banco do México em novembro",
+  "resumo": "A expectativa de estabilidade pode indicar confiança na atual política monetária e na economia mexicana.",
   "probs": [
    {
-    "opcao": "Sem alteração",
-    "prob": 62.5
+    "opcao": "sem mudança",
+    "prob": 77.5
    },
    {
-    "opcao": "Redução de 25 bps",
-    "prob": 36.0
+    "opcao": "redução de 25 bps",
+    "prob": 23.2
    },
    {
-    "opcao": "Redução de 50+ bps",
+    "opcao": "redução de 50+ bps",
     "prob": 0.1
    },
    {
-    "opcao": "Aumento de 25 bps",
+    "opcao": "aumento de 25 bps",
     "prob": 0.1
    }
   ],
   "prazo": "2026-11-05",
-  "volume24h": "US$ 78 mil",
+  "volume24h": "US$ 56 mil",
   "fatos": [
-   "Sem alteração: 62,5%",
-   "Redução de 25 bps: 36,0%",
-   "Redução de 50+ bps: 0,1%",
-   "Aumento de 25 bps: 0,1%"
+   "sem mudança: 77,5%",
+   "redução de 25 bps: 23,2%",
+   "redução de 50+ bps: 0,1%",
+   "aumento de 25 bps: 0,1%"
   ],
   "numeros": [
    {
-    "valor": "62,5%",
-    "rotulo": "Sem alteração"
+    "valor": "77,5%",
+    "rotulo": "sem mudança"
    },
    {
-    "valor": "36,0%",
-    "rotulo": "Redução de 25 bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Redução de 50+ bps"
+    "valor": "23,2%",
+    "rotulo": "redução de 25 bps"
    },
    {
     "valor": "0,1%",
-    "rotulo": "Aumento de 25 bps"
+    "rotulo": "redução de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "aumento de 25 bps"
    }
   ],
-  "destaque": "62,5%",
+  "destaque": "77,5%",
   "gancho": "*Taxa estável* em vista",
   "entenda": "O consenso de que o Banco do México deve manter os juros aponta para uma perspectiva de estabilidade econômica no país.",
   "categoria": "Previsões",
@@ -6655,7 +7043,7 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p6",
-  "atualizadoEm": "2026-11-03T22:39:26-03:00"
+  "atualizadoEm": "2026-11-04T22:48:05-03:00"
  },
  {
   "tipo": "sinal",

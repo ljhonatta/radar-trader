@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-04T18:29:41-03:00",
-  "novas": 5,
-  "atualizadas": 3,
+  "ultimaColeta": "2026-11-04T22:48:05-03:00",
+  "novas": 3,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "5 nova(s) e 3 atualizada(s): Itaú lucra R$12,6bi no 3T26; Tractian cresce muito em AI; Dívida e Juros: discurso de Lula.",
+  "mensagem": "3 nova(s) e 2 atualizada(s): Dólar e Copom: impacto nas Eleições; Wall Street e onda azul histórica; Fluxo Cambial atinge recorde em outubro.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-04T22:48:05-03:00",
    "2026-11-04T18:29:41-03:00",
    "2026-11-04T14:33:38-03:00",
    "2026-11-03T22:39:26-03:00",
@@ -20,12 +21,11 @@
    "2026-11-02T16:48:19-03:00",
    "2026-11-02T07:38:05-03:00",
    "2026-11-01T22:01:52-03:00",
-   "2026-11-01T16:53:49-03:00",
-   "2026-11-01T13:25:21-03:00"
+   "2026-11-01T16:53:49-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 10
+  "textosCompletos": 7
  },
  "placar": {
   "itens": [
@@ -39,19 +39,19 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,46",
-    "var": "-0,56%"
+    "var": ""
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,13",
-    "var": "-0,31%"
+    "v": "R$ 6,15",
+    "var": "+0,18%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 80,1 mil",
-    "var": "+2,87%"
+    "v": "US$ 80,7 mil",
+    "var": "+5,14%"
    },
    {
     "k": "SPX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.075,90",
-    "var": "+3,44%"
+    "v": "US$ 4.129,10",
+    "var": "+1,38%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "qua 18h",
+  "hora": "qua 22h",
   "data": "2026-11-04",
-  "atualizadoEm": "2026-11-04T18:29:41-03:00",
+  "atualizadoEm": "2026-11-04T22:48:05-03:00",
   "ibov": "167.563",
   "ibovVar": "+1,23%",
   "dolar": "R$ 5,46",
-  "dolarVar": "-0,56%",
-  "btc": "US$ 80,1 mil"
+  "dolarVar": "",
+  "btc": "US$ 80,7 mil"
  }
 }
