@@ -1,5 +1,691 @@
 [
  {
+  "titulo": "Dólar sobe perto de R$ 5,49 com Instabilidade e Selic mantida",
+  "resumo": "Dólar fechou a R$ 5,488 em alta de 0,67% nesta quinta-feira (5), diante de aversão ao risco global e manutenção da Selic em 13,75%. Ibovespa caiu 0,82%, refletindo perdas em ações de tecnologia e discussões sobre política econômica.",
+  "fatos": [
+   "Dólar fechou em alta de 0,67%, a R$ 5,488 na quinta-feira (5).",
+   "Ibovespa recuou 0,82%, aos 166.191,45 pontos no mesmo dia.",
+   "Selic foi mantida em 13,75% ao ano pelo Banco Central, interrompendo cinco cortes.",
+   "Produção industrial brasileira caiu 0,8% em setembro, pior resultado para o mês desde 2022.",
+   "Índice DXY, que mede o dólar contra seis moedas fortes, subiu 0,09%, para 101,560 pontos.",
+   "Nasdaq caiu 5,52%, S&P 500 recuou 4,36% e Dow Jones caiu 3,44%, pressionados por ações de tecnologia.",
+   "Governo Lula realizou reunião com ministros e economistas, sem anunciar medidas econômicas.",
+   "Pronunciamento de Lula sobre disciplina orçamentária está previsto para domingo (8).",
+   "Volume financeiro da bolsa somou R$ 31,16 bilhões no pregão do dia 5.",
+   "Fluxo estrangeiro negativo na bolsa brasileira foi de R$ 12 bilhões nos últimos oito pregões."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira (5), o dólar comercial valorizou 0,67%, fechando cotado a R$ 5,488. A bolsa brasileira, pelo índice Ibovespa, recuou 0,82%, aos 166.191,45 pontos, em um cenário de maior aversão ao risco global, especialmente nas ações ligadas à inteligência artificial e tecnologia.",
+   "O movimento foi influenciado principalmente por fortes perdas em Wall Street após eleições de meio de mandato nos EUA, com temores de regulação mais rigorosa para empresas de tecnologia e IA. No Brasil, o Banco Central manteve a Selic em 13,75%, interrompendo sequência de cinco cortes, e o governo Lula discutiu a política econômica, gerando cautela.",
+   "O aumento da aversão ao risco fez investidores buscarem proteção no dólar, causando valorização frente a moedas emergentes como o real. Além disso, a produção industrial brasileira caiu 0,8% em setembro na comparação mensal, o pior resultado para o mês desde 2022, pressionando o mercado acionário local.",
+   "O presidente Lula deve realizar um pronunciamento no domingo (8) prometendo compromisso com disciplina fiscal, mas sem anunciar medidas específicas ainda. O cenário permanece de incertezas para juros e política econômica, com destaque para próximos dados econômicos e decisões do BC nos EUA."
+  ],
+  "detalhes": [
+   "Dólar comercial cotado a R$ 5,488 após alta de 0,67% no dia 5 de outubro.",
+   "Ibovespa oscilou entre máxima de 168.994,33 e mínima de 166.249,09 pontos no pregão.",
+   "Manutenção da Selic em 13,75% foi decisão unânime do Comitê de Política Monetária do Banco Central.",
+   "Perdas em Wall Street foram motivadas por temores de regulação após vitória dos democratas nas eleições nos EUA.",
+   "Declínio de 0,8% na produção industrial ocorreu ao comparar setembro com agosto de 2023.",
+   "Reunião em Brasília contou com Lula, ministros, ex-ministros e conselheiros para debater política econômica.",
+   "Pronunciamento do presidente Lula sobre política fiscal está programado para o domingo seguinte."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Governar quer aprofundar análise econômica, reafirmando compromisso com contas públicas sustentáveis."
+   },
+   {
+    "quem": "Vitor Kayo, Nomad",
+    "oque": "Diferencial de juros elevado entre Brasil e EUA deve dar suporte ao real, mas dólar segue sensível à política fiscal."
+   },
+   {
+    "quem": "Lucas Xavier, AW Capital",
+    "oque": "Mudança no dólar indica que investidores estrangeiros estão mais avessos ao risco e exigentes."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "5 de outubro de 2023",
+    "oque": "Dólar sobe 0,67% e Ibovespa cai 0,82%, Selic mantida em 13,75%."
+   },
+   {
+    "quando": "4 de outubro de 2023",
+    "oque": "Copom decide manter Selic em 13,75%, após cinco cortes consecutivos."
+   },
+   {
+    "quando": "8 de outubro de 2023 (domingo)",
+    "oque": "Pronunciamento do presidente Lula sobre disciplina orçamentária está previsto."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira, usada para controlar inflação."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da Bolsa de Valores de São Paulo, mede desempenho das ações."
+   },
+   {
+    "termo": "Índice DXY",
+    "significado": "Mede o valor do dólar frente a uma cesta de seis moedas fortes."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da manutenção da Selic na economia e seus investimentos?",
+  "tamanhoTexto": 13530,
+  "numeros": [
+   {
+    "valor": "5,488",
+    "rotulo": "Cotação do dólar comercial em reais na quinta (5)"
+   },
+   {
+    "valor": "0,67%",
+    "rotulo": "Alta do dólar na quinta (5)"
+   },
+   {
+    "valor": "166191,45",
+    "rotulo": "Pontos do Ibovespa no fechamento do pregão"
+   },
+   {
+    "valor": "-0,82%",
+    "rotulo": "Queda do Ibovespa na quinta (5)"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic mantida pelo Banco Central"
+   },
+   {
+    "valor": "-0,8%",
+    "rotulo": "Queda da produção industrial em setembro ante agosto"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Selic",
+    "antes": "sequência de cinco cortes até 13,75%",
+    "depois": "mantida em 13,75%, sem novo corte"
+   },
+   {
+    "item": "Dólar comercial",
+    "antes": "R$ 5,4511 na quarta (4)",
+    "depois": "R$ 5,488 na quinta (5)"
+   }
+  ],
+  "destaque": "0,67% alta do",
+  "porQueImporta": "A alta do dólar e a manutenção dos juros refletem um cenário de cautela e incerteza, que afeta custos de importação, investimentos e rentabilidade de ativos. Para quem opera ou investe, entender esse contexto é crucial para avaliar riscos na renda variável, câmbio e juros.",
+  "impactoMercado": "A valorização do dólar e a queda do Ibovespa indicam aversão a risco, especialmente em setores ligados à tecnologia. Manutenção da Selic pode conter pressões inflacionárias, mas mantém custos de crédito elevados, influenciando o mercado de renda fixa e ações brasileiras.",
+  "entenda": "O índice Ibovespa reúne as ações mais negociadas na bolsa brasileira e reflete o humor do mercado. A Selic é a taxa básica de juros que influencia todos os demais juros da economia. O dólar é a moeda americana, utilizada como referência global. A aversão ao risco faz investidores preferirem ativos mais seguros, valorizando o dólar.",
+  "observar": "Acompanhe o pronunciamento de Lula no domingo (8) e o payroll dos EUA, que podem afetar o cenário de juros, câmbio e bolsa nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Notícia mostra detalhes econômicos reais que influenciam câmbio e bolsa, ajudando seguidores a entenderem decisões de juros, dinâmica global e mudanças no perfil do investidor.",
+  "gancho": "*dólar* e *Selic*: impacto no mercado",
+  "ideias": [
+   "Por que o dólar subiu e o que isso significa para o Brasil?",
+   "Entenda a importância da manutenção da Selic a 13,75%",
+   "Como a aversão ao risco global pressiona a bolsa brasileira?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; Money Times; BP Money",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T23:30:41-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-volta-aproximar-se-de-r-549-em-dia-de-instabilidade-global",
+  "publicadoEm": "2026-11-05T19:11:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-14"
+ },
+ {
+  "titulo": "Flávio Bolsonaro nomeia dois assessores após viajar para os EUA",
+  "resumo": "Senador Flávio Bolsonaro indicou Fabiano Araújo e Maria Carolina para seu gabinete em 3/11. Ele está nos EUA após determinação judicial entregar passaportes.",
+  "fatos": [
+   "Flávio Bolsonaro nomeou dois assessores em 3 de novembro de 2026.",
+   "Os cargos indicados foram auxiliar parlamentar pleno e sênior.",
+   "O senador está nos Estados Unidos desde a semana anterior.",
+   "Ministro Alexandre de Moraes determinou entrega dos passaportes do senador.",
+   "Flávio é investigado por lavagem de dinheiro no STF.",
+   "Segundo a Constituição, senador pode perder mandato se deixar de justificar faltas.",
+   "Antes de fugir, Flávio afirmou que não sairia do país e que entregaria passaportes.",
+   "Polícia Federal apontou risco concreto de evasão.",
+   "Willer Tomaz, amigo e advogado de Flávio, também está nos EUA sob investigação."
+  ],
+  "explicacao": [
+   "Na última quarta-feira, 3 de novembro de 2026, o senador Flávio Bolsonaro nomeou dois novos assessores para seu gabinete no Senado: Fabiano Augusto de Souza Araújo como auxiliar parlamentar pleno e Maria Carolina Albuquerque e Silva como auxiliar parlamentar sênior.",
+   "Essa nomeação ocorre após Flávio Bolsonaro deixar o Brasil e ir para os Estados Unidos, fugindo de uma decisão do ministro Alexandre de Moraes do STF, que determinou a entrega de seus passaportes devido a investigações envolvendo lavagem de dinheiro.",
+   "A saída do país traz riscos ao mandato do senador, pois a Constituição prevê a perda do cargo se ele faltar às sessões legislativas sem justificativa adequada, e a Justiça teme uma evasão. Mesmo assim, ele mantém cargo com equipe ampliada no Senado.",
+   "O caso continua nos tribunais e o senador ainda pode perder o mandato, enquanto a investigação sobre sua conduta avança ao lado do processo judicial que motivou a medida da Polícia Federal."
+  ],
+  "detalhes": [
+   "As nomeações ocorreram no Senado, onde Flávio mantém gabinete ativo.",
+   "Fabiano Araújo e Maria Carolina Silva foram os assessores nomeados.",
+   "A decisão de deixar o Brasil ocorreu após ordem do STF.",
+   "Flávio Bolsonaro é ex-candidato à Presidência pelo PL.",
+   "A investigação inclui os casos Dark Horse e lavagem de dinheiro.",
+   "A falta do senador às sessões pode levar à perda do mandato conforme artigo 55 da Constituição.",
+   "O episódio está ligado a medidas cautelares da Polícia Federal."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Flávio Bolsonaro, senador",
+    "oque": "Eu nunca pensei em sair do país e vou entregar meus passaportes para me defender."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Flávio publica vídeo dizendo que não deixaria o país."
+   },
+   {
+    "quando": "Última semana antes de 3 de",
+    "oque": "Flávio Bolsonaro viaja para os Estados Unidos."
+   },
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Nomeação de dois assessores no gabinete de Flávio Bolsonaro."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Mandato parlamentar",
+    "significado": "Cargo eletivo de representante no Legislativo."
+   },
+   {
+    "termo": "Constituição",
+    "significado": "Conjunto de leis fundamentais do país."
+   },
+   {
+    "termo": "STF",
+    "significado": "Supremo Tribunal Federal, a mais alta corte do Brasil."
+   }
+  ],
+  "pergunta": "Você acha que a ausência do senador pode comprometer seu mandato?",
+  "tamanhoTexto": 10606,
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "número de assessores nomeados em 3 de novembro"
+   },
+   {
+    "valor": "5",
+    "rotulo": "assessores no gabinete com cargo sênior"
+   },
+   {
+    "valor": "4",
+    "rotulo": "assessores no gabinete com cargo pleno"
+   },
+   {
+    "valor": "26/10/2026",
+    "rotulo": "data do vídeo em que Flávio negava saída do Brasil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Nomeação de assessores",
+  "porQueImporta": "Essa notícia é importante porque mostra como movimentações políticas e judiciais podem impactar a estrutura e a continuidade do trabalho legislativo, além de evidenciar o risco que investigações judiciais trazem para a permanência de um mandato no Senado.",
+  "impactoMercado": "Para investidores, essa instabilidade política e judicial pode aumentar a percepção de risco no ambiente político, influenciando o humor do mercado e podendo afetar setores sensíveis à governança e regulação.",
+  "entenda": "O senador é um representante eleito que pode perder seu mandato se faltar às sessões sem justificativa. Nomear assessores é manter a equipe para executar as atividades legislativas, mas a ausência física prolongada pode resultar na perda do cargo conforme a Constituição.",
+  "observar": "Acompanhe as próximas sessões do Senado para ver se o senador Flávio Bolsonaro ressurgirá ou se o processo para perda de mandato avança. Também fique atento a novas decisões do STF.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Day traders"
+  ],
+  "angulo": "A notícia ilustra como acontecimentos jurídicos influenciam a estrutura política e podem afetar o ambiente para quem opera ou investe, reforçando a importância de conhecer o funcionamento do cenário político para entender riscos no mercado.",
+  "gancho": "*Política* e *mercado*: impactos de uma nomeação",
+  "ideias": [
+   "Flávio Bolsonaro e os riscos de perder o mandato",
+   "O que acontece quando um senador deixa o país?",
+   "Como nomeação de assessores influencia o trabalho no Senado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "alvo",
+  "fonte": "Times Brasil; Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T23:30:41-03:00",
+  "url": "https://timesbrasil.com.br/brasil/flavio-bolsonaro-indica-dois-funcionarios-para-seu-gabinete-depois-de-fugir-do-pais/",
+  "publicadoEm": "2026-11-05T22:47:53-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-15"
+ },
+ {
+  "titulo": "Lucro do Assaí cresce 119% no 3º trimestre com reconhecimento tributário",
+  "resumo": "Assaí teve lucro líquido de R$ 427 milhões no 3º trimestre de 2026, alta de 119% ante 2025. O resultado inclui R$ 179 milhões de créditos tributários de PIS/Cofins.",
+  "fatos": [
+   "Lucro líquido do Assaí no 3º trimestre de 2026 foi de R$ 427 milhões",
+   "Alta de 119% em relação ao 3º trimestre de 2025",
+   "Inclui R$ 179 milhões de créditos de PIS/Cofins reconhecidos",
+   "Lucro líquido recorrente foi de R$ 248 milhões, avanço de 55,2%",
+   "Margem bruta subiu de 16,7% para 17,2% entre 2025 e 2026",
+   "Vendas nas mesmas lojas cresceram apenas 0,1% no trimestre",
+   "Ebitda ajustado foi de R$ 1,08 bilhão, estável em comparação anual",
+   "Alavancagem caiu de 3,03 para 2,15 vezes a relação dívida líquida/Ebitda",
+   "Geração de caixa operacional caiu R$ 871 milhões, para R$ 3,34 bilhões",
+   "Estratégia priorizou rentabilidade e redução do endividamento"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, o Assaí registrou lucro líquido de R$ 427 milhões, um crescimento de 119% em relação ao mesmo período de 2025. Esse montante considera R$ 179 milhões relativos ao reconhecimento de créditos tributários de PIS/Cofins extemporâneos.",
+   "A estabilidade das vendas e das margens da companhia indicam que a melhora no lucro foi influenciada também pela redução dos custos financeiros e pelo reconhecimento dos créditos tributários que impactaram positivamente o custo das mercadorias vendidas.",
+   "Se desconsiderarmos esses efeitos não recorrentes, o lucro líquido recorrente do Assaí foi de R$ 248 milhões, crescendo 55,2% em relação ao terceiro trimestre de 2025, enquanto a margem bruta subiu de 16,7% para 17,2% no período.",
+   "O presidente Belmiro de Figueiredo Gomes destacou que a empresa optou por priorizar a rentabilidade e a redução do endividamento, mesmo que isso levasse a um crescimento mais modesto das vendas em um cenário macroeconômico desafiador, mantendo preços competitivos e reduzindo promoções."
+  ],
+  "detalhes": [
+   "Os créditos tributários reconheceram ganhos relacionados a PIS/Cofins extemporâneos",
+   "A empresa tem mais de 310 lojas no Brasil",
+   "As vendas nas mesmas lojas evoluíram pouco, 0,1% no trimestre",
+   "Margem do Ebitda foi mantida em 5,7%, quase igual a 2025",
+   "A redução do custo financeiro contribuiu para o aumento do lucro",
+   "Alavancagem caiu para 2,15 vezes em setembro de 2026",
+   "Geração de caixa livre recuou ligeiramente para R$ 2,76 bilhões"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Belmiro de Figueiredo Gomes, presidente do Assaí",
+    "oque": "Priorizar rentabilidade e redução do endividamento foi melhor que crescer vendas a qualquer custo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Lucro líquido do Assaí de R$ 427 milhões, crescimento de 119% ano a ano"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido",
+    "significado": "Resultado final da empresa após despesas e impostos"
+   },
+   {
+    "termo": "Créditos tributários",
+    "significado": "Valores recuperáveis de tributos pagos a mais ou indevidamente"
+   },
+   {
+    "termo": "Margem bruta",
+    "significado": "Percentual que sobra das vendas após custos diretos"
+   }
+  ],
+  "pergunta": "Você já conhecia o impacto dos créditos tributários nos resultados financeiros da empresa?",
+  "tamanhoTexto": 7477,
+  "numeros": [
+   {
+    "valor": "427 milhões",
+    "rotulo": "Lucro líquido no 3º trimestre 2026"
+   },
+   {
+    "valor": "179 milhões",
+    "rotulo": "Créditos tributários de PIS/Cofins reconhecidos"
+   },
+   {
+    "valor": "248 milhões",
+    "rotulo": "Lucro líquido recorrente no 3º trimestre"
+   },
+   {
+    "valor": "17,2%",
+    "rotulo": "Margem bruta no 3º trimestre 2026"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Crescimento das vendas mesmas lojas"
+   },
+   {
+    "valor": "1,08 bilhão",
+    "rotulo": "Ebitda ajustado no trimestre"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Lucro líquido subiu",
+  "porQueImporta": "Esse resultado mostra como o reconhecimento de créditos tributários e a redução de custos financeiros podem melhorar significativamente o lucro de uma empresa. Para quem investe ou opera, é importante entender esse impacto nos resultados e como estratégias de rentabilidade influenciam o desempenho diante da economia desaﬁadora.",
+  "impactoMercado": "A estratégia do Assaí focada em rentabilidade e controle do endividamento pode reforçar a percepção positiva sobre a gestão da empresa no mercado. Setores com margens apertadas e alta concorrência, como o varejo, precisam monitorar esses efeitos nos balanços para avaliar riscos e oportunidades.",
+  "entenda": "Lucro líquido é o resultado final que a empresa tem depois de todas as despesas e impostos. Créditos tributários são valores que a empresa tem direito a recuperar do governo, o que pode aumentar o lucro do período. Margem bruta indica o quanto sobra das vendas após o custo das mercadorias vendidas.",
+  "observar": "Fique atento aos próximos resultados financeiros trimestrais do Assaí e à divulgação de estratégias sobre preços e endividamento, que podem refletir no desempenho futuro da companhia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entenda como fatores contábeis e estratégias de rentabilidade afetam o lucro das empresas do varejo, uma base essencial para quem quer operar e entender balanços no mercado financeiro.",
+  "gancho": "*Lucro* em alta no *Assaí*",
+  "ideias": [
+   "Como créditos tributários ajudaram o lucro do Assaí?",
+   "Entenda o que impactou a margem e as vendas do Assaí no trimestre",
+   "Estratégia do Assaí: prioridade em rentabilidade e endividamento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T23:30:41-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/05/lucro-do-assai-no-3o-trimestre-cresce-119percent.ghtml",
+  "publicadoEm": "2026-11-05T22:07:57-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-16"
+ },
+ {
+  "titulo": "Dívida externa de países em desenvolvimento alcança US$ 9,4 tri em 2025",
+  "resumo": "Banco Mundial revela aumento de 5,5% na dívida externa para US$ 9,4 trilhões em 2025, com juros altos para países mais pobres.",
+  "fatos": [
+   "A dívida externa de países em desenvolvimento atingiu US$ 9,4 trilhões em 2025.",
+   "O crescimento da dívida foi de 5,5% em 2025, o maior aumento anual desde 2021.",
+   "Países mais pobres pagam em média 8,2% de juros sobre novas dívidas privadas, maior desde 1989.",
+   "Empréstimos privados e emissões de títulos públicos desses países subiram 35%, para US$ 251 bilhões.",
+   "Dívida externa cresceu 8,1%, para US$ 1,3 trilhão, nos países elegíveis à AID.",
+   "Países pagaram US$ 1,4 trilhão em principal e juros em 2025, aumento pelo quinto ano consecutivo.",
+   "Pagamentos a credores privados cresceram 13,7% em 2025, chegando a US$ 363 bilhões.",
+   "Desvalorização do dólar foi responsável por 28% do aumento da dívida em moeda estrangeira.",
+   "Mais de dez países já excederam a meta anual de emissões de títulos até agosto de 2026.",
+   "Países em desenvolvimento tiveram influxo líquido de US$ 45 bilhões em novos fundos em 2025."
+  ],
+  "explicacao": [
+   "O Banco Mundial informou que em 2025 a dívida externa dos países de baixa e média renda atingiu um recorde de US$ 9,4 trilhões, um crescimento de 5,5% em relação ao ano anterior. Essa elevação representa o maior aumento anual desde 2021, logo após a pandemia da Covid-19.",
+   "Esse aumento ocorreu porque esses países estão contraindo mais empréstimos, principalmente no mercado internacional de títulos, porém pagando juros mais elevados — chegando a 8,2% em média para países mais pobres, a maior taxa desde 1989. Uma desvalorização do dólar contribuiu, elevando o valor da dívida em moeda estrangeira.",
+   "Isso significa que, apesar do maior acesso a financiamentos, os custos financeiros das dívidas dificultam investimentos essenciais em educação, saúde, infraestrutura e empregos nos países em desenvolvimento, impactando seu crescimento sustentável.",
+   "O Banco Mundial alerta para a necessidade de gestão responsável da dívida e transparência nos acordos, pois o aumento dos custos e o alto endividamento podem deixar essas nações vulneráveis a choques econômicos e comprometer seu desenvolvimento futuro."
+  ],
+  "detalhes": [
+   "Fonte da informação: Banco Mundial, Relatório Anual sobre Dívida Internacional.",
+   "Dados referentes a 2025 e início de 2026, divulgados em 5 de novembro de 2026.",
+   "Países de baixa e média renda incluem os elegíveis à Associação Internacional de Desenvolvimento (AID).",
+   "Juros médios para países que não se qualificam para empréstimos com juros baixos caíram de 5,8% para 5,5%.",
+   "Emissão de novos títulos frequentemente estende prazos a custos maiores, sem reduzir o saldo da dívida.",
+   "O aumento da dívida pode comprometer investimentos essenciais para o desenvolvimento sustentável.",
+   "O Banco Mundial recomenda maior transparência e gestão responsável da dívida para evitar vulnerabilidades."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Haishan Fu, estatístico-chefe do Banco Mundial",
+    "oque": "Países tomam mais empréstimos e pagam mais, mas destinam menos recursos para desenvolvimento a longo prazo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2025",
+    "oque": "Dívida externa alcança recorde de US$ 9,4 trilhões, aumento de 5,5%."
+   },
+   {
+    "quando": "Até agosto de 2026",
+    "oque": "Mais de dez países excedem meta anual de emissões de títulos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dívida externa",
+    "significado": "Empréstimos de um país tomados junto a credores estrangeiros."
+   },
+   {
+    "termo": "Associação Internacional de Desenvolvimento (AID)",
+    "significado": "Parte do Banco Mundial que concede empréstimos em condições favoráveis para países pobres."
+   },
+   {
+    "termo": "Serviço da dívida",
+    "significado": "Pagamento de juros e amortização de empréstimos."
+   }
+  ],
+  "pergunta": "Como o aumento da dívida externa impacta o seu entendimento sobre risco em investimentos internacionais?",
+  "tamanhoTexto": 11845,
+  "numeros": [
+   {
+    "valor": "US$ 9,4 trilhões",
+    "rotulo": "Dívida externa total em 2025"
+   },
+   {
+    "valor": "5,5%",
+    "rotulo": "Crescimento anual da dívida externa em 2025"
+   },
+   {
+    "valor": "8,2%",
+    "rotulo": "Juros médios pagos por países mais pobres em novos empréstimos privados"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "Aumento dos empréstimos privados e emissões de títulos em 2025"
+   },
+   {
+    "valor": "US$ 251 bilhões",
+    "rotulo": "Valor total de empréstimos e emissões em 2025"
+   },
+   {
+    "valor": "13,7%",
+    "rotulo": "Aumento dos pagamentos a credores privados em 2025"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 9,4 trilhões",
+  "porQueImporta": "O aumento recorde da dívida externa dos países em desenvolvimento, somado aos juros elevados, pode limitar investimentos em setores essenciais e aumentar o risco financeiro dessas nações, afetando a estabilidade econômica global e as oportunidades de negócios internacionais.",
+  "impactoMercado": "Investidores e operadores devem monitorar o endividamento crescente e custos elevados, pois podem influenciar o apetite por risco, fluxos de capital e o desempenho de ativos ligados a mercados emergentes e moedas dessas economias.",
+  "entenda": "A dívida externa consiste nos empréstimos que um país toma de credores estrangeiros, com prazos e juros definidos. Juros elevados aumentam o custo desse endividamento, pressionando as finanças públicas e podendo afetar o crescimento econômico do país.",
+  "observar": "Acompanhe as próximas atualizações do Banco Mundial e eventos econômicos globais que possam afetar a dívida externa e a sustentabilidade fiscal dos países em desenvolvimento.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia ajuda quem quer entender os riscos globais do endividamento e suas consequências, mostrando o papel da educação financeira para interpretar esses dados e preparar estratégias conscientes no mercado.",
+  "gancho": "*Dívida* externa bate *recorde*",
+  "ideias": [
+   "O que significa o recorde da dívida externa em países emergentes?",
+   "Como juros altos afetam países em desenvolvimento?",
+   "Dívida externa: impacto no crescimento e investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "cadeado",
+  "fonte": "Folha Mercado; InvestNews",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T23:30:41-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/divida-externa-de-paises-em-desenvolvimento-atinge-recorde-de-us-94-tri-em-2025-diz-banco-mundial.shtml",
+  "publicadoEm": "2026-11-05T19:40:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-17"
+ },
+ {
+  "titulo": "Lara Resende nega tabelamento e propõe Selic a 7,5% em 12 meses",
+  "resumo": "Economista Lara Resende defende baixar Selic para 7,5% em um ano, negando tabelamento. Ele propõe alinhar juros à realidade internacional e coordenação fiscal e monetária.",
+  "fatos": [
+   "André Lara Resende propõe reduzir a Selic para 7,5% em 12 meses.",
+   "Meta de inflação atualmente está em 3%.",
+   "Crescimento nominal potencial da economia estimado em 5,5%.",
+   "Proposta publicada em artigo de 25 de setembro.",
+   "Economista participou da criação da URV em 1994.",
+   "Lara Resende negou reunião marcada com presidente Lula.",
+   "Deputada federal Gleisi Hoffman apoia a proposta.",
+   "Resistência veio principalmente do mercado financeiro.",
+   "Declaração dada em entrevista à BBC Brasil em 05/11/2026."
+  ],
+  "explicacao": [
+   "O economista André Lara Resende esclareceu que sua sugestão de reduzir a taxa Selic para cerca de 7,5% dentro de 12 meses não configura tabelamento de juros. Ele argumenta que a proposta busca equiparar os juros brasileiros aos internacionais, que seriam, segundo ele, metade da taxa real vigente.",
+   "A proposta está baseada na redução gradual da Selic, buscando manter a taxa dentro de uma faixa delimitada pela meta de inflação de 3% e o crescimento nominal potencial da economia, estimado em 5,5%. Lara Resende também recomenda uma melhor coordenação entre políticas fiscal e monetária para equilibrar as contas públicas.",
+   "Ele lembra que propostas econômicas inovadoras podem encontrar resistência no início, citando o exemplo da URV em 1994, iniciativa que ele ajudou a criar. Embora não haja garantias de sucesso, considera que a proposta tem grande chance de funcionar se bem compreendida e implementada.",
+   "Sobre especulações de reuniões com o presidente Lula, Lara Resende as negou, afirmando que não tem contato nem encontro marcado com o presidente. Ele vê esses rumores como tentativas de desqualificar a proposta e destaca descontentamento entre profissionais de mercado financeiro."
+  ],
+  "detalhes": [
+   "A proposta busca alinhar juros brasileiros com os internacionais, reduzindo a taxa Selic atual para metade da taxa real.",
+   "O artigo original da proposta foi publicado em 25 de setembro de 2026.",
+   "O economista usa a experiência da URV para ilustrar possíveis resistências a mudanças econômicas importantes.",
+   "A proposta sugere uma taxa Selic ancorada entre a meta de inflação e o crescimento nominal potencial da economia.",
+   "Lara Resende afirmou que não tem interesse em participar do governo Lula.",
+   "Gleisi Hoffman, ex-presidente do PT, apoia a ideia de reduzir a taxa Selic.",
+   "Rumores de encontro com Lula foram desmentidos e vistos como tentativa de desqualificar a proposta."
+  ],
+  "declaracoes": [
+   {
+    "quem": "André Lara Resende, economista",
+    "oque": "Proposta visa baixar juros para nível compatível com os internacionais, não tabelamento."
+   },
+   {
+    "quem": "André Lara Resende, economista",
+    "oque": "Não tenho reunião marcada com Lula; rumores são para queimar a proposta."
+   },
+   {
+    "quem": "André Lara Resende, economista",
+    "oque": "Proposta, se bem entendida e implementada, tem alta probabilidade de dar certo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de setembro de 2026",
+    "oque": "Lara Resende publica artigo propondo redução gradual da Selic."
+   },
+   {
+    "quando": "05 de novembro de 2026",
+    "oque": "Economista concede entrevista negando tabelamento e encontro com Lula."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros usada para controlar a inflação no Brasil."
+   },
+   {
+    "termo": "Meta de inflação",
+    "significado": "Objetivo oficial de aumento anual de preços no país."
+   },
+   {
+    "termo": "URV",
+    "significado": "Unidade Real de Valor, criada para controlar a hiperinflação em 1994."
+   }
+  ],
+  "pergunta": "Você acredita que baixar a Selic para 7,5% pode equilibrar a economia?",
+  "tamanhoTexto": 3247,
+  "numeros": [
+   {
+    "valor": "7,5%",
+    "rotulo": "taxa Selic proposta em 12 meses"
+   },
+   {
+    "valor": "3%",
+    "rotulo": "meta atual de inflação"
+   },
+   {
+    "valor": "5,5%",
+    "rotulo": "crescimento nominal potencial da economia"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "7,5% Selic em",
+  "porQueImporta": "Reduzir a taxa Selic influencia o custo do dinheiro, afetando empréstimos e investimentos. Ajustar os juros à realidade internacional pode reduzir desequilíbrios fiscais e impactar decisões de investidores e operadores.",
+  "impactoMercado": "A proposta pode provocar ajustes em setores sensíveis a juros, como crédito e investimentos. O mercado financeiro pode reagir à expectativa de uma Selic mais baixa, influenciando preços de títulos e ações e a percepção de risco do Brasil.",
+  "entenda": "A taxa Selic é o principal instrumento do Banco Central para controlar a inflação. Quando alta, ela encarece crédito e controla preços; quando baixa, estimula consumo e investimento. Modificar a Selic afeta toda a economia e o mercado financeiro.",
+  "observar": "Fique atento a próximos comunicados do Banco Central sobre a definição da Selic e a postura do governo diante da coordenação fiscal e monetária proposta.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia explica uma proposta importante para entender o funcionamento da política monetária e seus efeitos, mostrando como o mercado reage e porque acompanhar o cenário econômico é fundamental para operar melhor.",
+  "gancho": "*Selic* em queda proposta",
+  "ideias": [
+   "Entenda a proposta de Lara Resende para a Selic",
+   "Por que falar em Selic a 7,5% causa polêmica?",
+   "O que significa alinhar juros à meta de inflação?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T23:30:41-03:00",
+  "url": "https://valor.globo.com/brasil/noticia/2026/11/05/lara-resende-nega-que-proponha-tabelamento-de-juros.ghtml",
+  "publicadoEm": "2026-11-05T23:07:06-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-18"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "largest-company-end-of-december-2026",
+  "titulo": "Mercado de previsões vê 67.0% de chance da Apple ser a maior empresa em dezembro de 2026.",
+  "resumo": "A previsão é baseada nas apostas de participantes do mercado, refletindo confiança no desempenho da empresa.",
+  "probs": [
+   {
+    "opcao": "Apple",
+    "prob": 67.0
+   },
+   {
+    "opcao": "NVIDIA",
+    "prob": 32.0
+   },
+   {
+    "opcao": "Microsoft",
+    "prob": 1.1
+   },
+   {
+    "opcao": "Alphabet",
+    "prob": 0.4
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 243 mil",
+  "fatos": [
+   "Apple: 67,0%",
+   "NVIDIA: 32,0%",
+   "Microsoft: 1,1%",
+   "Alphabet: 0,4%"
+  ],
+  "numeros": [
+   {
+    "valor": "67,0%",
+    "rotulo": "Apple"
+   },
+   {
+    "valor": "32,0%",
+    "rotulo": "NVIDIA"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "Microsoft"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Alphabet"
+   }
+  ],
+  "destaque": "67,0%",
+  "gancho": "*Maior empresa* em 2026?",
+  "entenda": "A classificação das maiores empresas geralmente reflete o desempenho financeiro e o valor de mercado delas, influenciando o sentimento do investidor.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+  "publicadoEm": "2026-11-05T23:30:41-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-05T23:30:41-03:00",
+  "data": "2026-11-05",
+  "status": "nova",
+  "id": "2026-11-05-p4"
+ },
+ {
   "titulo": "Colapso do Ueno Bank no Paraguai derruba presidente em crise política",
   "resumo": "A intervenção no Ueno Bank, com quase 3 milhões de clientes, gerou crise política e a renúncia do presidente Santiago Peña.",
   "fatos": [

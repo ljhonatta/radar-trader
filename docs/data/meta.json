@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-05T22:47:25-03:00",
-  "novas": 3,
+  "ultimaColeta": "2026-11-05T23:30:41-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "3 nova(s): Crise no Ueno Bank derruba presidente; Petrorecôncavo cresce 94% no lucro; Aura Minerals cresce 24x no lucro.",
+  "mensagem": "6 nova(s): dólar e Selic: impacto no mercado; Política e mercado: impactos de uma nomeação; Lucro em alta no Assaí.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
-  "manual": false,
+  "manual": true,
   "historico": [
+   "2026-11-05T23:30:41-03:00",
    "2026-11-05T22:47:25-03:00",
    "2026-11-05T18:34:11-03:00",
    "2026-11-05T14:40:07-03:00",
@@ -20,12 +21,11 @@
    "2026-11-03T18:16:09-03:00",
    "2026-11-03T14:21:50-03:00",
    "2026-11-03T00:03:53-03:00",
-   "2026-11-02T20:13:25-03:00",
-   "2026-11-02T16:48:19-03:00"
+   "2026-11-02T20:13:25-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 6
+  "textosCompletos": 8
  },
  "placar": {
   "itens": [
@@ -45,13 +45,13 @@
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 6,17",
-    "var": "-0,12%"
+    "var": "-0,19%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
     "v": "US$ 76,0 mil",
-    "var": "-5,80%"
+    "var": "-5,74%"
    },
    {
     "k": "SPX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.081,00",
-    "var": "-0,79%"
+    "v": "US$ 4.075,70",
+    "var": "-0,92%"
    },
    {
     "k": "SELIC",
@@ -85,9 +85,9 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "qui 22h",
+  "hora": "qui 23h",
   "data": "2026-11-05",
-  "atualizadoEm": "2026-11-05T22:47:25-03:00",
+  "atualizadoEm": "2026-11-05T23:30:41-03:00",
   "ibov": "166.191",
   "ibovVar": "-0,82%",
   "dolar": "R$ 5,50",
