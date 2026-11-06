@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-05T18:34:11-03:00",
-  "novas": 6,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-05T22:47:25-03:00",
+  "novas": 3,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 nova(s) e 1 atualizada(s): Ibovespa cai; Dólar sobe; Nasdaq cai com IA e eleições; Tenda e Margens em Queda.",
+  "mensagem": "3 nova(s): Crise no Ueno Bank derruba presidente; Petrorecôncavo cresce 94% no lucro; Aura Minerals cresce 24x no lucro.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-05T22:47:25-03:00",
    "2026-11-05T18:34:11-03:00",
    "2026-11-05T14:40:07-03:00",
    "2026-11-04T22:48:05-03:00",
@@ -20,12 +21,11 @@
    "2026-11-03T14:21:50-03:00",
    "2026-11-03T00:03:53-03:00",
    "2026-11-02T20:13:25-03:00",
-   "2026-11-02T16:48:19-03:00",
-   "2026-11-02T07:38:05-03:00"
+   "2026-11-02T16:48:19-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 4
+  "textosCompletos": 6
  },
  "placar": {
   "itens": [
@@ -39,19 +39,19 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,50",
-    "var": "+0,81%"
+    "var": "-0,02%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 6,17",
-    "var": "+0,62%"
+    "var": "-0,12%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,9 mil",
-    "var": "-5,13%"
+    "v": "US$ 76,0 mil",
+    "var": "-5,80%"
    },
    {
     "k": "SPX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.100,00",
-    "var": "+0,66%"
+    "v": "US$ 4.081,00",
+    "var": "-0,79%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "qui 18h",
+  "hora": "qui 22h",
   "data": "2026-11-05",
-  "atualizadoEm": "2026-11-05T18:34:11-03:00",
+  "atualizadoEm": "2026-11-05T22:47:25-03:00",
   "ibov": "166.191",
   "ibovVar": "-0,82%",
   "dolar": "R$ 5,50",
-  "dolarVar": "+0,81%",
-  "btc": "US$ 75,9 mil"
+  "dolarVar": "-0,02%",
+  "btc": "US$ 76,0 mil"
  }
 }

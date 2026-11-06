@@ -1,5 +1,383 @@
 [
  {
+  "titulo": "Colapso do Ueno Bank no Paraguai derruba presidente em crise política",
+  "resumo": "A intervenção no Ueno Bank, com quase 3 milhões de clientes, gerou crise política e a renúncia do presidente Santiago Peña.",
+  "fatos": [
+   "Ueno Bank tinha cerca de 3 milhões de clientes em um país com pouco mais de 6 milhões de habitantes.",
+   "Banco Central do Paraguai interveio no Ueno Bank em 3 de novembro de 2026.",
+   "Santiago Peña foi acionista do grupo controlador do Ueno Bank até 2025.",
+   "Presidente do Banco Central, Carlos Carvallo, renunciou após a intervenção no banco.",
+   "Congresso iniciou processo de impeachment contra Peña e seu vice Pedro Alliana.",
+   "Peña renunciou em 5 de novembro de 2026, mas Câmara decidiu continuar o impeachment.",
+   "Depósitos bloqueados no Ueno somam cerca de 17 trilhões de guaranis, cerca de US$ 2,8 bilhões.",
+   "S&P Global Ratings e Fitch rebaixaram a nota do Ueno Bank para default.",
+   "Mais de 50 mil novas contas foram abertas em outros bancos em dois dias após o colapso."
+  ],
+  "explicacao": [
+   "A crise começou quando o Ueno Bank, um dos maiores bancos do Paraguai, bloqueou o acesso de milhares de clientes aos seus recursos, resultando em caos financeiro e protestos em novembro de 2026.",
+   "A intervenção do Banco Central paraguaio revelou fragilidades financeiras do banco e acusou conflitos de interesse envolvendo o presidente Santiago Peña, que foi acionista do grupo controlador até 2025.",
+   "O escândalo político escalou rapidamente: o presidente do Banco Central renunciou, deputados pediram impeachment de Peña e do vice-presidente, e manifestações públicas aumentaram a pressão.",
+   "Peña renunciou para preservar a estabilidade institucional, mas o Congresso decidiu prosseguir com o processo de impeachment, mantendo a crise política e financeira ativa e sem resolução imediata."
+  ],
+  "detalhes": [
+   "O Ueno Bank era símbolo da modernização financeira paraguaia até a crise.",
+   "Irregularidades foram alertadas em relatórios internos desde 2025, incluindo conflito de interesses e concessão inadequada de crédito.",
+   "A crise levou a confrontos entre manifestantes e polícia em Assunção.",
+   "O Banco Central buscou desmentir rumores para evitar pânico no sistema financeiro.",
+   "Partido Colorado, base governista, dividiu-se com líderes apoiando impeachment.",
+   "Institutos públicos, como o Instituto de Previdência Social, têm grandes depósitos bloqueados no Ueno.",
+   "A renúncia de Peña tenta evitar perda do foro privilegiado, mas o Congresso não aceitou renúncia."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Santiago Peña, presidente do Paraguai",
+    "oque": "Renunciou para preservar a estabilidade e pediu desculpas aos afetados pela crise do banco."
+   },
+   {
+    "quem": "Horacio Cartes, líder do partido governista",
+    "oque": "Apoiou o impeachment de Peña, condenando o saque de recursos públicos e privados."
+   },
+   {
+    "quem": "Banco Central do Paraguai",
+    "oque": "Afirmou que rumores sobre pânico no sistema bancário eram falsos e que sistema está solvente."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Banco Central intervém no Ueno Bank e clientes perdem acesso ao dinheiro."
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Presidente do Banco Central renuncia e oposição protocola pedido de impeachment."
+   },
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Santiago Peña anuncia renúncia; Congresso decide manter processo de impeachment."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Intervenção Bancária",
+    "significado": "Controle temporário do banco pelo Estado para proteger clientes e o sistema."
+   },
+   {
+    "termo": "Impeachment",
+    "significado": "Procedimento político de julgamento para afastar autoridades públicas."
+   },
+   {
+    "termo": "Solvência",
+    "significado": "Capacidade da instituição de pagar suas dívidas."
+   }
+  ],
+  "pergunta": "Como você acha que uma crise bancária pode afetar a política de um país?",
+  "tamanhoTexto": 19187,
+  "numeros": [
+   {
+    "valor": "3 milhões",
+    "rotulo": "Clientes do Ueno Bank"
+   },
+   {
+    "valor": "6 milhões",
+    "rotulo": "População do Paraguai"
+   },
+   {
+    "valor": "17 trilhões de guaranis",
+    "rotulo": "Depósitos bloqueados no Ueno Bank (US$ 2,8 bilhões)"
+   },
+   {
+    "valor": "355 milhões de dólares",
+    "rotulo": "Débitos do Instituto de Previdência Social no Ueno Bank"
+   },
+   {
+    "valor": "2 dias",
+    "rotulo": "Período em que 50 mil contas foram abertas em bancos alternativos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "3 milhões clientes",
+  "porQueImporta": "A crise do Ueno Bank mostra como problemas em grandes instituições financeiras locais podem impactar governos e a confiança dos investidores, evidenciando riscos que vão além do setor bancário, afetando estabilidade política e econômica.",
+  "impactoMercado": "Investidores devem observar o ambiente de risco na América do Sul, pois crises financeiras com repercussão política podem aumentar volatilidade e afetar moedas, bolsas e setores ligados ao crédito e sistema financeiro.",
+  "entenda": "O impeachment é um processo legal para destituir um governante acusado de irregularidades. A intervenção bancária ocorre quando autoridades assumem controle para garantir estabilidade diante de problemas financeiros, protegendo depositantes e o sistema.",
+  "observar": "Acompanhe o desfecho do processo de impeachment, análises do Banco Central do Paraguai e pagamentos aos depositantes, pois impactarão a confiança no sistema financeiro regional.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos como uma crise bancária significativa no Paraguai levou à queda de um presidente, mostrando a relação entre finanças e política, e convidando a entender riscos e mecanismos do mercado.",
+  "gancho": "*Crise* no Ueno Bank derruba presidente",
+  "ideias": [
+   "Como a crise do Ueno Bank afetou a política do Paraguai",
+   "O que é intervenção bancária e quais seus impactos?",
+   "Liçōes da queda do presidente paraguaio para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Política monetária",
+  "icone": "cadeado",
+  "fonte": "Seu Dinheiro; G1 Economia; InvestNews",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:47:25-03:00",
+  "url": "https://www.seudinheiro.com/2026/internacional/ueno-bank-colapso-crise-relampago-abala-paraguai-derruba-presidente-ainda-parece-longe-fim-rsgp/",
+  "publicadoEm": "2026-11-05T16:00:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-11"
+ },
+ {
+  "titulo": "Petrorecôncavo registra lucro 94% maior no 3º trimestre de 2026",
+  "resumo": "A Petrorecôncavo teve lucro líquido de R$ 236 milhões no 3º trimestre, alta de 94% sobre 2025. Receita líquida ficou estável em R$ 786,2 milhões no período.",
+  "fatos": [
+   "Lucro líquido de R$ 236 milhões no 3º trimestre de 2026",
+   "Alta de 94% no lucro em relação ao 3º trimestre de 2025 (R$ 121,9 milhões)",
+   "Receita líquida estável em R$ 786,2 milhões entre julho e setembro",
+   "Lucro Ebitda ajustado de R$ 378,6 milhões, crescimento de 8% anual",
+   "Produção diária de 23,6 mil barris de óleo equivalente, queda de 10%",
+   "Custo de extração foi US$ 16,52 por barril, 6% acima do ano anterior",
+   "Preço médio do barril de petróleo foi US$ 86,02, alta de 45%",
+   "Preço médio do gás foi US$ 10,18 por milhão de BTUs, alta de 6%"
+  ],
+  "explicacao": [
+   "A Petrorecôncavo divulgou seu balanço do terceiro trimestre de 2026, registrando lucro líquido de R$ 236 milhões, crescimento de 94% em relação aos R$ 121,9 milhões do mesmo período do ano passado. A receita líquida ficou praticamente estável em R$ 786,2 milhões.",
+   "O lucro antes de juros, impostos, depreciação e amortização (Ebitda) ajustado ficou em R$ 378,6 milhões, alta de 8% sobre os R$ 349,9 milhões do 3º trimestre de 2025. A produção diária caiu 10%, para 23,6 mil barris de óleo equivalente, e os custos de extração por barril aumentaram 6%.",
+   "A alta expressiva no lucro se deve ao aumento do preço médio do barril de petróleo, que subiu 45% para US$ 86,02, assim como o preço do gás, que cresceu 6%. Isso compensou a menor produção e custos maiores, mantendo a receita estável.",
+   "O resultado reforça a importância dos preços internacionais no desempenho das petroleiras. Para os próximos trimestres, a petroleira deve acompanhar as variações de preço do petróleo no mercado global e seus impactos nos custos e produção."
+  ],
+  "detalhes": [
+   "Balanço divulgado em 5 de novembro de 2026",
+   "Comparação dos resultados feita com o terceiro trimestre de 2025",
+   "Produção menor explica parte da estabilidade da receita frente ao preço elevado",
+   "Custos de extração subiram, mas efeito compensado pelo aumento do preço do petróleo",
+   "Ebitda ajustado destaca força operacional, com aumento apesar dos custos maiores",
+   "Preço do petróleo e gás segue como fator decisivo para os resultados financeiros da Petrorecôncavo",
+   "Resultado reflete a volatilidade do mercado internacional de commodities"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "05/11/2026",
+    "oque": "Divulgação do balanço do 3º trimestre da Petrorecôncavo"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido",
+    "significado": "Lucro após todos os custos, despesas, impostos e juros"
+   },
+   {
+    "termo": "Ebitda ajustado",
+    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização, ajustado"
+   },
+   {
+    "termo": "Barris de óleo equivalente (boe)",
+    "significado": "Unidade que converte petróleo e gás em um só número"
+   }
+  ],
+  "pergunta": "Como você acha que o preço do petróleo impacta o lucro das petroleiras?",
+  "tamanhoTexto": 8488,
+  "numeros": [
+   {
+    "valor": "236 milhões",
+    "rotulo": "Lucro líquido no 3º trimestre de 2026"
+   },
+   {
+    "valor": "121,9 milhões",
+    "rotulo": "Lucro líquido no 3º trimestre de 2025"
+   },
+   {
+    "valor": "786,2 milhões",
+    "rotulo": "Receita líquida no 3º trimestre de 2026"
+   },
+   {
+    "valor": "378,6 milhões",
+    "rotulo": "Lucro Ebitda ajustado no 3º trimestre de 2026"
+   },
+   {
+    "valor": "23,6 mil",
+    "rotulo": "Barris de óleo equivalente producidos por dia"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Queda na produção diária comparado a 2025"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "94% aumento no",
+  "porQueImporta": "O crescimento expressivo do lucro da Petrorecôncavo mostra como os preços globais do petróleo influenciam diretamente os resultados das petroleiras, mesmo com produção e custos oscilando. Isso é relevante para investidores entenderem os riscos e oportunidades nos negócios de commodities.",
+  "impactoMercado": "Resultados como este indicam que setores ligados a petróleo podem refletir ganhos significativos em cenários de preço alto, afetando as cotações de ações e os investimentos no setor. A estabilidade da receita mesmo com produção menor mostra adaptação operacional importante.",
+  "entenda": "O lucro líquido é o ganho da empresa após custos e despesas. Ebitda ajustado é um indicador de lucro operacional sem considerar juros e impostos, mostrando a capacidade de geração de caixa. Barris de óleo equivalente agregam petróleo e gás em uma unidade comum.",
+  "observar": "Próximos balanços trimestrais e flutuações nos preços internacionais do petróleo serão cruciais para acompanhar o desempenho da Petrorecôncavo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos com números e conceitos claros o resultado da Petrorecôncavo e como fatores como preços do petróleo afetam o lucro, abrindo portas para entender o mercado financeiro e nossa faculdade.",
+  "gancho": "*Petrorecôncavo* cresce 94% no lucro",
+  "ideias": [
+   "Como o preço do petróleo elevou o lucro da Petrorecôncavo",
+   "Entenda o que é Ebitda e por que ele subiu na Petrorecôncavo",
+   "Por que produção caiu, mas lucro da Petrorecôncavo não"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:47:25-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/05/petroreconcavo-tem-alta-de-94percent-no-lucro-do-3o-trimestre.ghtml",
+  "publicadoEm": "2026-11-05T22:04:24-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-12"
+ },
+ {
+  "titulo": "Aura Minerals tem lucro 24 vezes maior no 3º trimestre de 2026",
+  "resumo": "A mineradora Aura Minerals registrou lucro líquido de US$ 135 milhões no 3º trimestre, 24 vezes superior ao mesmo período de 2025. O crescimento resultou de maior lucro operacional e ganhos com operações de hedge do ouro.",
+  "fatos": [
+   "Lucro líquido no 3º trimestre de 2026 foi US$ 135 milhões",
+   "Lucro líquido no 3º trimestre de 2025 foi US$ 5,6 milhões",
+   "Ganho não caixa com hedge do ouro foi US$ 12,7 milhões em 2026",
+   "Perda com hedge do ouro foi US$ 75,3 milhões em 2025",
+   "Lucro líquido ajustado subiu 77% para US$ 121,2 milhões",
+   "Receita líquida aumentou 56%, para US$ 386 milhões",
+   "Lucro operacional cresceu 50%, chegando a US$ 204,6 milhões",
+   "Ebitda ajustado subiu 56%, para US$ 236,9 milhões",
+   "Margem Ebitda ajustada foi 61%, contra zero no ano anterior",
+   "Dívida líquida subiu 6% para US$ 178,8 milhões"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a Aura Minerals reportou lucro líquido de US$ 135 milhões, um aumento de 24 vezes comparado aos US$ 5,6 milhões no mesmo período de 2025. O lucro operacional também cresceu 50%, alcançando US$ 204,6 milhões.",
+   "O crescimento do lucro se deve principalmente ao desempenho operacional melhor e a um ganho não caixa de US$ 12,7 milhões relacionado à marcação a mercado (MTM) das operações de proteção da cotação do ouro, que representou uma reversão em relação à perda de US$ 75,3 milhões no 3º trimestre de 2025.",
+   "Além disso, o lucro líquido ajustado, que exclui o ganho não caixa das operações de hedge, subiu 77% ano a ano, para US$ 121,2 milhões. A receita líquida da mineradora cresceu 56%, alcançando US$ 386 milhões, impulsionada principalmente pelo maior volume de vendas.",
+   "O Ebitda ajustado também aumentou 56% para US$ 236,9 milhões, com margem de 61%, contrastando com margem zerada no mesmo trimestre de 2025. A dívida líquida subiu levemente 6% no trimestre para US$ 178,8 milhões, enquanto a relação dívida/Ebitda melhorou para 0,2 vez."
+  ],
+  "detalhes": [
+   "Comparação da empresa entre 3º trimestre de 2025 e 2026",
+   "Crescimento impulsionado por ganhos operacionais e questões contábeis (MTM do hedge do ouro)",
+   "Lucro ajustado exclui ganhos não caixa para medir resultado operacional real",
+   "Volume de vendas maior contribuiu para aumento da receita líquida",
+   "Melhora na margem Ebitda indica maior eficiência operacional",
+   "Dívida líquida e relação com Ebitda mantêm níveis saudáveis",
+   "Contexto econômico e previsto aumento da demanda global por ouro"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Aura Minerals (informações oficiais da empresa)",
+    "oque": "Crescimento do lucro resultou do maior lucro operacional e ganhos com hedge do ouro"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2025",
+    "oque": "Lucro líquido de US$ 5,6 milhões e perda de US$ 75,3 milhões com hedge"
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Lucro líquido de US$ 135 milhões, com ganho de US$ 12,7 milhões no hedge"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido",
+    "significado": "Resultado final da empresa após custos e impostos"
+   },
+   {
+    "termo": "Ebitda ajustado",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização, ajustado"
+   },
+   {
+    "termo": "Hedge",
+    "significado": "Proteção financeira contra variação de preços"
+   }
+  ],
+  "pergunta": "Você já conhece como funciona o hedge em operações com ouro?",
+  "tamanhoTexto": 7887,
+  "numeros": [
+   {
+    "valor": "135 milhões",
+    "rotulo": "Lucro líquido em US$ no 3º trimestre de 2026"
+   },
+   {
+    "valor": "5,6 milhões",
+    "rotulo": "Lucro líquido em US$ no 3º trimestre de 2025"
+   },
+   {
+    "valor": "12,7 milhões",
+    "rotulo": "Ganho não caixa com hedge no 3º trimestre de 2026"
+   },
+   {
+    "valor": "75,3 milhões",
+    "rotulo": "Perda não caixa com hedge no 3º trimestre de 2025"
+   },
+   {
+    "valor": "121,2 milhões",
+    "rotulo": "Lucro líquido ajustado em US$ no 3º trimestre de 2026"
+   },
+   {
+    "valor": "386 milhões",
+    "rotulo": "Receita líquida em US$ no 3º trimestre de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "US$ 5,6 milhões",
+    "depois": "US$ 135 milhões"
+   },
+   {
+    "item": "Ganho/perda com hedge do ouro",
+    "antes": "Perda de US$ 75,3 milhões (2025)",
+    "depois": "Ganho de US$ 12,7 milhões (2026)"
+   },
+   {
+    "item": "Receita líquida",
+    "antes": "US$ 247 milhões (calculado por aproximação)",
+    "depois": "US$ 386 milhões"
+   }
+  ],
+  "destaque": "Lucro líquido de",
+  "porQueImporta": "Essa alta significativa no lucro da Aura Minerals mostra como operações e estratégias de hedge bem-sucedidas podem impulsionar os resultados financeiros de mineradoras, impactando a geração de caixa e a confiança dos investidores no setor.",
+  "impactoMercado": "O crescimento forte de lucro e receita reforça o desempenho sólido das empresas de mineração, podendo afetar a atratividade dos papéis do setor e influenciar decisões relacionadas a investimentos em commodities e ações de mineradoras.",
+  "entenda": "O lucro líquido é o que sobra após todas as despesas. O Ebitda ajustado mede a geração operacional de caixa. Hedge é uma estratégia para proteger preços, e a marcação a mercado (MTM) ajusta esses ganhos ou perdas ao valor atual.",
+  "observar": "Acompanhar próximos resultados trimestrais da Aura Minerals e relatórios do mercado de ouro para avaliar continuidade do desempenho e impactos de variações no preço do ouro e operações de hedge.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia traz uma oportunidade para entender como resultados financeiros são influenciados por estratégias operacionais e contábeis, despertando interesse pela análise de balanços e pelo estudo do mercado de commodities.",
+  "gancho": "*Aura Minerals* cresce 24x no lucro",
+  "ideias": [
+   "Como a Aura Minerals multiplicou seu lucro em um ano",
+   "Entenda o impacto do hedge nos resultados da mineradora Aura Minerals",
+   "O que é lucro ajustado e por que ele importa para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "alvo",
+  "fonte": "Valor Econômico; InvestNews",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:47:25-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/05/aura-minerals-reporta-lucro-24-vezes-maior-no-3o-trimestre.ghtml",
+  "publicadoEm": "2026-11-05T21:08:12-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-13"
+ },
+ {
   "titulo": "Ibovespa cai 0,82% com incertezas fiscais e queda nos EUA; dólar sobe a R$ 5,49",
   "resumo": "Ibovespa fechou em 166.191,45 pontos, recuando 0,82%, impactado por preocupações fiscais e queda forte em Wall Street. Dólar comercial valorizou 0,67%, cotado a R$ 5,489.",
   "fatos": [
