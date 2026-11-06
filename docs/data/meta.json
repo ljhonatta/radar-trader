@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-06T13:56:28-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-06T18:04:20-03:00",
+  "novas": 11,
   "atualizadas": 2,
   "status": "ok",
-  "mensagem": "6 nova(s) e 2 atualizada(s): Criptomoedas bloqueadas temporariamente; Payroll dos EUA surpreende mercado; Calculadoras para ganhos CLT e PJ.",
+  "mensagem": "11 nova(s) e 2 atualizada(s): IPCA desacelera: entenda por quê; Garantia de depósitos Paraguai; Juros em queda: alivio fiscal?.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-06T18:04:20-03:00",
    "2026-11-06T13:56:28-03:00",
    "2026-11-05T23:30:41-03:00",
    "2026-11-05T22:47:25-03:00",
@@ -20,56 +21,55 @@
    "2026-11-04T14:33:38-03:00",
    "2026-11-03T22:39:26-03:00",
    "2026-11-03T18:16:09-03:00",
-   "2026-11-03T14:21:50-03:00",
-   "2026-11-03T00:03:53-03:00"
+   "2026-11-03T14:21:50-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 9
+  "textosCompletos": 13
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "168.678",
-    "var": "+1,50%"
+    "v": "168.368",
+    "var": "+1,31%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,49",
-    "var": "-0,24%"
+    "v": "R$ 5,51",
+    "var": "+0,14%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,13",
-    "var": "-0,86%"
+    "v": "R$ 6,14",
+    "var": "-0,61%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,9 mil",
-    "var": "-0,69%"
+    "v": "US$ 75,8 mil",
+    "var": "-0,29%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.429",
-    "var": "+1,02%"
+    "v": "7.377",
+    "var": "+0,31%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "27.166",
-    "var": "+2,01%"
+    "v": "26.990",
+    "var": "+1,35%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.068,80",
-    "var": "-1,09%"
+    "v": "US$ 4.074,50",
+    "var": "-0,95%"
    },
    {
     "k": "SELIC",
@@ -84,14 +84,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "sex 13h",
+  "obs": "Fechamento",
+  "hora": "sex 18h",
   "data": "2026-11-06",
-  "atualizadoEm": "2026-11-06T13:56:28-03:00",
-  "ibov": "168.678",
-  "ibovVar": "+1,50%",
-  "dolar": "R$ 5,49",
-  "dolarVar": "-0,24%",
-  "btc": "US$ 75,9 mil"
+  "atualizadoEm": "2026-11-06T18:04:20-03:00",
+  "ibov": "168.368",
+  "ibovVar": "+1,31%",
+  "dolar": "R$ 5,51",
+  "dolarVar": "+0,14%",
+  "btc": "US$ 75,8 mil"
  }
 }

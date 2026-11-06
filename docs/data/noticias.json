@@ -1,5 +1,1372 @@
 [
  {
+  "titulo": "IPCA deve desacelerar para 0,23% em outubro, segundo ASA",
+  "resumo": "Projeção do ASA indica queda do IPCA de 0,82% em setembro para 0,23% em outubro, com inflação acumulada de 4,72%. Energia elétrica e passagens aéreas aliviam, enquanto alimentos e serviços pressionam o índice.",
+  "fatos": [
+   "IPCA projetado em alta de 0,23% para outubro de 2026.",
+   "Inflação mensal de setembro foi 0,82%.",
+   "Inflação acumulada em 12 meses estimada em 4,72%.",
+   "Queda nos preços da energia elétrica residencial e passagens aéreas contribui para a desaceleração.",
+   "Alimentos in natura e carnes pressionam a inflação do domicílio.",
+   "Média dos núcleos de inflação deve desacelerar de 0,36% para 0,28%.",
+   "Alta acumulada de 4,56% nos núcleos em 12 meses.",
+   "Serviços subjacentes ainda pressionam o índice.",
+   "Desaceleração do IPCA não representa queda generalizada dos preços, apenas redução do ritmo.",
+   "Leandro Padulla, economista do ASA, comentou sobre os efeitos."
+  ],
+  "explicacao": [
+   "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve registrar alta de 0,23% em outubro de 2026, segundo projeção do ASA, em desaceleração significativa frente a setembro, quando a inflação mensal foi de 0,82%.",
+   "A desaceleração é atribuída principalmente à queda nos preços da energia elétrica residencial e nas passagens aéreas, que aliviaram o avanço do índice em outubro, compensando aumentos em outros setores.",
+   "Por outro lado, os alimentos no domicílio, especialmente produtos in natura e carnes, continuam exercendo pressão de alta sobre a inflação, limitando a redução do ritmo inflacionário.",
+   "Além do IPCA cheio, a média dos núcleos de inflação, que removem oscilações pontuais, também deve desacelerar de 0,36% para 0,28% em outubro, sinalizando redução das pressões subjacentes, mas com resistência em serviços."
+  ],
+  "detalhes": [
+   "Estimativa exclui queda generalizada; desaceleração é seletiva.",
+   "Pressão de alta nos alimentos inclui principalmente carnes e alimentos frescos.",
+   "Serviços subjacentes mostram desaceleração desigual nos grupos de preços.",
+   "Núcleos de inflação removem oscilações pontuais para mostrar tendência.",
+   "Especialista do ASA explica que resultado do IPCA indica alívio, mas persistem grupos com alta pressão.",
+   "Redução no preço da energia residencial e passagens ajuda a conter alta.",
+   "IPCA é indicador oficial que mede variação do custo de vida no Brasil."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Leandro Padulla, economista do ASA",
+    "oque": "Desaceleração do IPCA ocorre por queda nos preços de energia elétrica e passagens aéreas, apesar da pressão de alimentos e serviços."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "setembro de 2026",
+    "oque": "IPCA teve alta de 0,82%."
+   },
+   {
+    "quando": "outubro de 2026 (projeção)",
+    "oque": "IPCA previsto em alta de 0,23%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPCA",
+    "significado": "Índice oficial que mede a inflação para famílias brasileiras."
+   },
+   {
+    "termo": "Núcleos de inflação",
+    "significado": "Indicadores que mostram a tendência da inflação sem oscilações pontuais."
+   },
+   {
+    "termo": "Inflação acumulada",
+    "significado": "Variação percentual dos preços em um período de 12 meses."
+   }
+  ],
+  "pergunta": "Você já percebeu mudanças nos preços da energia ou alimentos recentemente?",
+  "tamanhoTexto": 16037,
+  "numeros": [
+   {
+    "valor": "0,23%",
+    "rotulo": "IPCA projetado para outubro de 2026"
+   },
+   {
+    "valor": "0,82%",
+    "rotulo": "IPCA de setembro de 2026"
+   },
+   {
+    "valor": "4,72%",
+    "rotulo": "Inflação acumulada em 12 meses até outubro"
+   },
+   {
+    "valor": "0,28%",
+    "rotulo": "Média dos núcleos de inflação projetada em outubro"
+   },
+   {
+    "valor": "0,36%",
+    "rotulo": "Média dos núcleos de inflação em setembro"
+   },
+   {
+    "valor": "4,56%",
+    "rotulo": "Alta acumulada dos núcleos em 12 meses"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA mensal",
+    "antes": "0,82% em setembro",
+    "depois": "0,23% em outubro"
+   },
+   {
+    "item": "Média dos núcleos de inflação",
+    "antes": "0,36% em setembro",
+    "depois": "0,28% em outubro"
+   }
+  ],
+  "destaque": "0,23% do IPCA",
+  "porQueImporta": "A desaceleração do IPCA indica um alívio na inflação mensal, especialmente por quedas nos preços de energia e passagens aéreas, que impactam o custo de vida. Isso é relevante para investidores e operadores que monitoram inflação para decisões financeiras e estratégias diante de cenários de juros e consumo.",
+  "impactoMercado": "A expectativa de menor inflação pode influenciar perspectivas para juros e política monetária. Pressões distintas entre grupos de preços, como alimentos e serviços, indicam que o mercado deve continuar atento aos setores sensíveis à inflação para ajustar posições e estratégias de investimentos.",
+  "entenda": "O IPCA é o índice oficial que mede a inflação no Brasil, calculando a variação dos preços de bens e serviços consumidos pelas famílias. Núcleos de inflação ajudam a identificar tendências retirando efeitos de variações pontuais, mostrando pressões mais constantes e relevantes para decisões econômicas.",
+  "observar": "Acompanhe a divulgação oficial do IPCA e o comportamento dos preços da energia, passagens aéreas e alimentos nos próximos meses para avaliar a continuidade da desaceleração ou pressão inflacionária.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Essa notícia explica como os fatores específicos influenciam a inflação no Brasil, mostrando a importância de entender os componentes do IPCA para quem quer operar ou investir com mais segurança, alinhado ao aprendizado na faculdade de mercado financeiro.",
+  "gancho": "*IPCA* desacelera: entenda por quê",
+  "ideias": [
+   "O que é o IPCA e por que ele importa?",
+   "Por que a energia elétrica caiu e impacta a inflação?",
+   "Como alimentos pressionam a inflação mesmo com queda geral?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "grafico",
+  "fonte": "BP Money; Estadão Economia; Agência Brasil Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://bpmoney.com.br/noticias/ipca-deve-desacelerar-para-023-em-outubro-projeta-asa/",
+  "publicadoEm": "2026-11-06T16:18:46-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-06"
+ },
+ {
+  "titulo": "Fundo paraguaio garante até R$195 mil por cliente do Ueno Bank",
+  "resumo": "Após intervenção do Banco Central do Paraguai, Fundo de Garantia de Depósitos começa a pagar clientes do Ueno Bank, incluindo brasileiros. Cobertura alcança até 75 salários mínimos, cerca de R$195 mil por cliente.",
+  "fatos": [
+   "Procedimento de resolução do Ueno Bank abriu em 2 de novembro.",
+   "Quase 3 milhões de clientes estão sem acesso às contas.",
+   "FGD cobre até 75 salários mínimos, cerca de 228,3 milhões de guaranis.",
+   "Isso equivale a aproximadamente R$195 mil pelo câmbio comercial do dia 6.",
+   "Garantia cobre depósitos em guaranis e moedas estrangeiras.",
+   "FGD começou a pagar na mesma data da intervenção, 2 de novembro.",
+   "Pagamento inicial para clientes com saldo até 10 milhões de guaranis.",
+   "Lei recente permite antecipar até 40 salários mínimos por cliente.",
+   "Pagamentos são feitos em moeda paraguaia.",
+   "Aproximadamente 97% dos depositantes devem ser cobertos integralmente."
+  ],
+  "explicacao": [
+   "Em 2 de novembro, o Banco Central do Paraguai (BCP) iniciou o procedimento de resolução do Ueno Bank, que tem quase 3 milhões de clientes sem acesso às contas. A decisão veio após balanços revelarem índice de solvência muito abaixo do exigido.",
+   "O Fundo de Garantia de Depósitos (FGD), equivalente paraguaio do FGC brasileiro, começou a pagar os clientes na mesma data. O fundo cobre até 75 salários mínimos mensais, totalizando cerca de 228,3 milhões de guaranis, ou aproximadamente R$195 mil pelo câmbio atual.",
+   "A garantia é válida por cliente, cobre depósitos em guaranis e moedas estrangeiras, e inclui residentes estrangeiros, como brasileiros. O pagamento é feito em guaranis, e o valor em reais pode variar conforme a cotação da moeda.",
+   "O BCP faz os pagamentos em etapas, priorizando pequenos saldos. Até 40 salários mínimos são liberados antecipadamente, com descontos para dívidas. O restante será pago até 2 de dezembro após conciliação dos valores."
+  ],
+  "detalhes": [
+   "O Ueno Bank pertence ao grupo Vázquez, e perdeu acesso a transferências, saques e cartões após a intervenção.",
+   "O índice de solvência do banco estava abaixo da metade do mínimo exigido pelo BCP.",
+   "O FGD é financiado por contribuições trimestrais dos bancos, 0,12% sobre saldo médio de depósitos.",
+   "A garantia cobre tanto pessoas físicas quanto jurídicas, e o limite é por cliente, não por conta.",
+   "Depósitos em cooperativas e bônus de bancos não são cobertos pelo FGD.",
+   "Para receber valores acima do teto, é preciso comprovar saldo e ter advogado no Paraguai.",
+   "Clientes brasileiros devem verificar valor e banco pagador na plataforma do Banco Central do Paraguai."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Marcelo Godke, sócio do Godke Advogados",
+    "oque": "Nacionalidade não altera a cobertura do fundo; brasileiros têm o mesmo direito que paraguaios."
+   },
+   {
+    "quem": "Carlos Akira Sato, cofundador da Syscapital",
+    "oque": "O fundo paraguaio tem vantagem sobre o brasileiro no prazo para pagamento aos clientes."
+   },
+   {
+    "quem": "Liana Caballero, presidente interina do BCP",
+    "oque": "Pagamentos acima do teto priorizam a previdência estatal antes de grandes poupadores."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2 de novembro",
+    "oque": "Início do procedimento de resolução do Ueno Bank e início dos pagamentos do FGD."
+   },
+   {
+    "quando": "Semana da última quinta-feira",
+    "oque": "Pagamento inicial do FGD para clientes com até 10 milhões de guaranis."
+   },
+   {
+    "quando": "Até 2 de dezembro",
+    "oque": "Prazo para pagamento do saldo restante após conciliação de contas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "FGD",
+    "significado": "Fundo paraguaio que garante depósitos bancários em caso de falência."
+   },
+   {
+    "termo": "Procedimento de resolução",
+    "significado": "Processo para controlar e liquidar bancos insolventes."
+   },
+   {
+    "termo": "Índice de solvência",
+    "significado": "Mede a capacidade do banco de honrar suas dívidas."
+   }
+  ],
+  "pergunta": "Você já conhecia a garantia de depósitos no Paraguai para brasileiros?",
+  "tamanhoTexto": 8104,
+  "numeros": [
+   {
+    "valor": "3 milhões",
+    "rotulo": "Número de clientes do Ueno Bank afetados"
+   },
+   {
+    "valor": "0,12%",
+    "rotulo": "Contribuição trimestral dos bancos para o FGD"
+   },
+   {
+    "valor": "228,3 milhões de guaranis",
+    "rotulo": "Valor máximo garantido pelo FGD por cliente"
+   },
+   {
+    "valor": "R$ 195 mil",
+    "rotulo": "Equivalência aproximada do teto da garantia em reais"
+   },
+   {
+    "valor": "75 salários mínimos",
+    "rotulo": "Limite da garantia do FGD por pessoa ou empresa"
+   },
+   {
+    "valor": "40 salários mínimos",
+    "rotulo": "Quantidade antecipada permitida por lei nesta liquidação"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$195 mil",
+  "porQueImporta": "Para investidores e depositantes, entender a garantia do FGD é crucial para saber a extensão da proteção sobre seus valores no Paraguai. O caso do Ueno Bank mostra a importância da solvência das instituições e dos mecanismos que asseguram o reembolso em crise financeira.",
+  "impactoMercado": "A resolução e pagamento via FGD impactam diretamente clientes e investidores com contas no Paraguai, especialmente brasileiros, gerando buscas por novas instituições seguras. O evento ressalta o efeito da supervisão bancária e a importância da diversificação diante de riscos cambiais e regulatórios.",
+  "entenda": "O Fundo de Garantia de Depósitos (FGD) é um mecanismo que protege clientes ao garantir o reembolso de depósitos até certo limite se um banco falir. Ele funciona de maneira parecida com o Fundo Garantidor de Créditos (FGC) no Brasil, protegendo o dinheiro de pessoas físicas e jurídicas.",
+  "observar": "Acompanhe os prazos de pagamento do fundo, especialmente até 2 de dezembro, e consulte a plataforma do Banco Central do Paraguai para valores e bancos designados. Também fique atento a eventuais mudanças cambiais que afetam o valor recebido.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos detalhadamente como funciona a garantia de depósitos no Paraguai, um conhecimento fundamental para quem investe ou mantém recursos no exterior. Entender esses detalhes é parte do aprendizado que a faculdade Trader School Wendell Guimarães oferece.",
+  "gancho": "*Garantia* de depósitos Paraguai",
+  "ideias": [
+   "Como funciona o Fundo de Garantia no Paraguai?",
+   "Proteção para brasileiros no Ueno Bank: o que saber?",
+   "Diferenças entre FGC no Brasil e FGD no Paraguai"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "escudo",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://investnews.com.br/economia/caso-ueno-garantia-de-depositos-paraguai/",
+  "publicadoEm": "2026-11-06T17:19:06-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-07"
+ },
+ {
+  "titulo": "Juros futuros recuam após estresse pós-eleição e ajustes fiscais",
+  "resumo": "Juros futuros caíram pela terceira sessão seguido, aliviando prêmios pós-releição de Lula. BC deve segurar aumentos da Selic, enquanto governo sinaliza ajuste fiscal.",
+  "fatos": [
+   "Juros do DI jan/2028 caíram de 14,325% para 14,31% na sexta-feira.",
+   "Juros do DI jan/2029 recuaram de 14,73% a 14,67% no mesmo período.",
+   "Desde o dia 3/11, juros futuros recuaram 40 pontos-base em prazos médios e longos.",
+   "Taxa Selic não deve subir tão cedo segundo analistas e comunicado do Copom.",
+   "Lula afirmou compromisso com economia “arrumada” e sustentabilidade fiscal.",
+   "Dados de emprego dos EUA: 165 mil vagas criadas em outubro, acima das 59 mil previstas.",
+   "Taxa de desemprego americana caiu de 4,2% para 4,1%, surpreendendo mercado.",
+   "Analistas da Legacy Capital preveem estagflação em 2027 com inflação acima de 5,5%.",
+   "Salários nos EUA cresceram acima do esperado em outubro.",
+   "Revisão de vagas criadas em setembro nos EUA passou de 29 mil para 60 mil."
+  ],
+  "explicacao": [
+   "Na sexta-feira (6/11/2026), os juros futuros no Brasil recuaram pelo terceiro pregão consecutivo, diminuindo cerca de 40 pontos-base desde o último aumento na terça-feira, 3 de novembro. Isso reverteu parte da alta acumulada após a reeleição do presidente Lula.",
+   "Essa queda ocorreu diante da percepção de que o Banco Central não deve elevar a taxa Selic tão cedo. Além disso, primeiras sinalizações do governo Lula indicam disposição para algum ajuste fiscal. Esses fatores ajudaram a aliviar a pressão sobre os juros futuros locais, superando até o custo maior da renda fixa americana.",
+   "Em contraste, as taxas dos títulos americanos (Treasuries) subiram após dados mais fortes do mercado de trabalho dos EUA, com 165 mil vagas criadas em outubro e queda na taxa de desemprego. Apesar disso, os juros futuros brasileiros seguiram em baixa, ancorados pelo comunicado do Copom e a expectativa de estabilidade da Selic.",
+   "Para o futuro, o cenário fiscal brasileiro segue incerto. O governo reforçou o compromisso com sustentabilidade fiscal, mas ainda não apresentou medidas específicas. Alguns analistas já alertam para risco de estagflação em 2027, combinando crescimento próximo de zero e inflação alta, com Selic elevada por mais tempo."
+  ],
+  "detalhes": [
+   "O BC brasileiro indicou no comunicado que subir juros está difícil com o câmbio, commodities e inflação atuais.",
+   "Apesar da forte criação de vagas nos EUA, os juros no Brasil não seguiram a alta dos Treasuries.",
+   "O discurso do presidente Lula após reunião com economistas reforçou compromisso fiscal, mas sem medidas específicas.",
+   "Juros futuros com maior queda foram os de vencimento a partir de 2028, perto de 40 pontos-base.",
+   "O payroll (relatório de empregos dos EUA) influenciou a alta dos Treasuries, não dos juros domésticos.",
+   "Estimativas para inflação brasileira em 2027 estão em cerca de 5,7%, com tendência de alta.",
+   "Há preocupação no mercado sobre a falta de um ajuste fiscal claro do governo nas despesas públicas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "gestor de renda fixa da Faria Lima",
+    "oque": "Juros estão ancorados pelo comunicado do Copom que dificulta nova alta da Selic."
+   },
+   {
+    "quem": "presidente Luiz Inácio Lula da Silva",
+    "oque": "Brasil precisa de uma economia arrumada para atrair investimentos."
+   },
+   {
+    "quem": "sócio da Legacy Capital, Leonardo De Paoli",
+    "oque": "Taxa Selic elevada deve reduzir consumo e investimento, levando a PIB zerado em 2027."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Último dia em que juros futuros subiram antes da queda nesta semana."
+   },
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Juros futuros recuam pela terceira sessão seguida, reduzindo prêmios."
+   },
+   {
+    "quando": "outubro de 2026",
+    "oque": "Mercado de trabalho dos EUA cria 165 mil vagas, supera expectativas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia definida pelo Banco Central."
+   },
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxa negociada hoje para empréstimos ou investimentos em datas futuras."
+   },
+   {
+    "termo": "Copom",
+    "significado": "Comitê do BC que decide a taxa Selic em reuniões periódicas."
+   }
+  ],
+  "pergunta": "Você acha que o BC vai subir a Selic logo ou manterá a política atual?",
+  "tamanhoTexto": 5709,
+  "numeros": [
+   {
+    "valor": "14,31%",
+    "rotulo": "Juros do DI janeiro de 2028 na sexta (6/11)"
+   },
+   {
+    "valor": "40 pontos-base",
+    "rotulo": "Queda aproximada dos juros futuros desde 3/11"
+   },
+   {
+    "valor": "165 mil",
+    "rotulo": "Vagas de emprego criadas nos EUA em outubro"
+   },
+   {
+    "valor": "4,1%",
+    "rotulo": "Taxa de desemprego dos EUA em outubro"
+   },
+   {
+    "valor": "5,7%",
+    "rotulo": "Projeção de inflação para 2027 pela Legacy Capital"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Juros do DI jan/2028",
+    "antes": "14,325%",
+    "depois": "14,31%"
+   },
+   {
+    "item": "Taxa desemprego EUA",
+    "antes": "4,2%",
+    "depois": "4,1%"
+   }
+  ],
+  "destaque": "Juros futuros recuaram",
+  "porQueImporta": "Para investidores e traders, a queda dos juros futuros sinaliza temporário alívio no custo da dívida pública e no risco fiscal, influenciando decisões em renda fixa. Entender a relação entre política monetária e sinais de ajuste fiscal ajuda a antecipar movimentos e volatilidade do mercado.",
+  "impactoMercado": "Esse movimento pode diminuir a pressão sobre os preços dos títulos públicos e fortalecer a renda fixa local, mesmo com juros americanos subindo. Setores sensíveis a juros, câmbio e política fiscal, como bancos e consumo, também são afetados pelas expectativas alteradas.",
+  "entenda": "Juros futuros indicam a expectativa do mercado sobre as taxas de juros no futuro. Quando as taxas recuam, o custo do dinheiro tende a ser menor, impactando investimentos em renda fixa. A Selic é a taxa básica de juros definida pelo Banco Central, influenciando todo o mercado financeiro.",
+  "observar": "Acompanhe reuniões do Copom e declarações do governo para sinais de ajuste fiscal, além dos próximos dados de inflação e emprego, que impactam as expectativas de juros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia explica como a política monetária e fiscal influenciam os juros futuros, ajudando a entender oscilações do mercado e a importância de acompanhar decisões do BC e governo.",
+  "gancho": "*Juros* em queda: alivio fiscal?",
+  "ideias": [
+   "Como funciona a curva de juros futuros no Brasil?",
+   "Por que a política fiscal afeta os juros?",
+   "Impacto dos dados americanos no mercado brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/06/juros-futuros-recuam-e-tem-semana-de-alivio-depois-de-estresse-pos-eleicao.ghtml",
+  "publicadoEm": "2026-11-06T17:43:19-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-08"
+ },
+ {
+  "titulo": "Safra rebaixa recomendação para Klabin por custos altos e demanda fraca",
+  "resumo": "Banco Safra cortou recomendação da Klabin (KLBN11) para neutra, reduzindo preço-alvo para R$ 20,60 até 2027. Altos custos e baixa demanda pressionam recuperação da papeleira.",
+  "fatos": [
+   "Safra cortou recomendação de Klabin de compra para neutra.",
+   "Preço-alvo reduzido de R$ 21,40 para R$ 20,60 até fim de 2027.",
+   "Cotação usada no relatório: R$ 18,08.",
+   "Potencial de valorização estimado em 14%.",
+   "Retorno total estimado com dividendos em 21%.",
+   "Custo-caixa consolidado de R$ 3.483 por tonelada no 3º trimestre de 2026.",
+   "Custos elevados devem persistir até o 1º trimestre de 2027, alívio a partir do 2º trimestre.",
+   "Demanda doméstica projetada para crescer só 1,9% em embarques de papelão ondulado em 2026.",
+   "Alavancagem financeira estimada de 3,6 vezes dívida líquida/Ebitda em 2026, cairá para 2,9 vezes em 2029.",
+   "Projeção de Ebitda de R$ 7,7 bilhões para 2027."
+  ],
+  "explicacao": [
+   "O Banco Safra reduziu a recomendação das units da Klabin (KLBN11) de compra para neutra e cortou o preço-alvo de R$ 21,40 para R$ 20,60 até o final de 2027, considerando a cotação de R$ 18,08. Isso indica menor otimismo com a ação.",
+   "A decisão foi motivada por fatores como custos operacionais elevados, que devem permanecer altos até 2027, e uma demanda mais fraca no mercado doméstico, principalmente para o kraftliner, tipo de papel para embalagens, que apresenta pouco espaço para reajustes.",
+   "Além disso, o Safra observa que a recuperação das margens será mais lenta, o crescimento do mercado de papel e embalagens deverá ser limitado, e a alavancagem financeira da Klabin diminuirá lentamente até 2029, o que limita a atratividade da ação.",
+   "Com essas perspectivas, o banco projeta um Ebitda de R$ 7,7 bilhões em 2027 e um retorno médio do fluxo de caixa livre em torno de 5% entre 2027 e 2029, indicando geração de caixa moderada para os investidores."
+  ],
+  "detalhes": [
+   "Banco Safra fez a análise e reduziu a recomendação.",
+   "Klabin é uma das maiores papeleiras brasileiras, com ações negociadas como units (KLBN11).",
+   "O preço-alvo revisado considera um horizonte até o fim de 2027.",
+   "Kraftliner é papel usado para embalagens e enfrenta limitação para reajustes.",
+   "Demanda doméstica em papelão ondulado crescerá abaixo do esperado, segundo Empapel.",
+   "Pressão nos custos inclui logística, fibras, produtos químicos e óleo combustível.",
+   "A normalização completa dos custos com impactos do evento climático El Niño deverá ocorrer apenas no início de 2028."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analistas Ricardo Monegaglia e Caique Isidoro, Banco Safra",
+    "oque": "A tese de investimento perdeu atratividade devido a custos elevados e demanda fraca."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Custo-caixa consolidado da Klabin atingiu R$ 3.483 por tonelada."
+   },
+   {
+    "quando": "Fim de 2027",
+    "oque": "Prazo considerado para preço-alvo revisado da Klabin."
+   },
+   {
+    "quando": "Início de 2028",
+    "oque": "Estimativa para normalização completa dos custos relacionados ao El Niño."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Kraftliner",
+    "significado": "Papel usado na fabricação de embalagens resistentes."
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização."
+   },
+   {
+    "termo": "Preço-alvo",
+    "significado": "Estimativa futura do valor da ação feita por analistas."
+   }
+  ],
+  "pergunta": "Como você vê o impacto dos custos elevados na recuperação das empresas de papel e celulose?",
+  "tamanhoTexto": 7325,
+  "numeros": [
+   {
+    "valor": "R$ 20,60",
+    "rotulo": "novo preço-alvo Safra para Klabin até 2027"
+   },
+   {
+    "valor": "R$ 18,08",
+    "rotulo": "cotação considerada no relatório"
+   },
+   {
+    "valor": "14%",
+    "rotulo": "potencial de valorização da Klabin segundo Safra"
+   },
+   {
+    "valor": "21%",
+    "rotulo": "retorno total estimado com dividendos"
+   },
+   {
+    "valor": "R$ 3.483",
+    "rotulo": "custo-caixa por tonelada no 3T26"
+   },
+   {
+    "valor": "1,9%",
+    "rotulo": "crescimento projetado dos embarques de papelão ondulado em 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Preço-alvo Klabin",
+    "antes": "R$ 21,40",
+    "depois": "R$ 20,60"
+   },
+   {
+    "item": "Recomendação Klabin",
+    "antes": "Compra (outperform)",
+    "depois": "Neutra"
+   }
+  ],
+  "destaque": "Redução da recomendação",
+  "porQueImporta": "Para investidores, o corte do Safra indica que os resultados da Klabin podem ser afetados por custos altos e demanda fraca, tornando a ação menos atraente no curto e médio prazo frente a concorrentes e outras opções do mercado.",
+  "impactoMercado": "A redução da recomendação pode refletir em menor interesse pelo papel da Klabin no mercado, principalmente frente à Suzano, que pode se beneficiar mais da recuperação internacional e do câmbio, afetando o desempenho das ações do setor de celulose.",
+  "entenda": "O valor do preço-alvo é a estimativa que analistas fazem do preço justo da ação em um prazo futuro. A recomendação indica se o ativo é considerado uma boa compra, venda ou manter. Ebitda é um indicador de lucro operacional, enquanto FCF yield revela a geração de caixa da empresa.",
+  "observar": "Fique de olho nos próximos resultados trimestrais da Klabin e eventuais atualizações do Safra, além dos dados de demanda de papelão e movimentos de custo no setor para entender a evolução do cenário.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Essa notícia é um exemplo prático de como fatores como custos operacionais e demanda impactam recomendações de ações, mostrando a complexidade por trás das decisões de investimento no mercado financeiro.",
+  "gancho": "Klabin em *análise*: *custos* e *demanda*",
+  "ideias": [
+   "Entenda a redução da recomendação para Klabin",
+   "O que elevou os custos da Klabin e como isso afeta investidores",
+   "Demanda fraca no papel e o impacto nas ações da Klabin"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/nem-a-celulose-salva-safra-perde-otimismo-com-klabin-klbn11-rebaixa-acao-e-corta-preco-alvo-pads/",
+  "publicadoEm": "2026-11-06T18:00:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-09"
+ },
+ {
+  "titulo": "Essence Health inaugura centro de medicina regenerativa em Belo Horizonte",
+  "resumo": "A Essence Health abriu um centro que integra exossomos, Glowtox, peptídeos e lasers à medicina funcional para tratar pele e organismo juntos.",
+  "fatos": [
+   "Data de inauguração: 6 de novembro de 2026;",
+   "Local: Belo Horizonte (MG);",
+   "Centro de medicina regenerativa da Essence Health integra exossomos autólogos, Glowtox, peptídeos e lasers;",
+   "Tratamento iniciado por avaliação funcional do organismo, incluindo vitaminas, minerais, hormônios e estado inflamatório;",
+   "Dra. Kenya Gandra lidera dermatologia e procedimentos estéticos no centro (CRM-MG 54442 / RQE 46478);",
+   "Exossomos autólogos vêm do próprio paciente e são nova tecnologia no Brasil;",
+   "Glowtox é uma evolução da toxina botulínica que melhora a qualidade da pele mantendo expressividade;",
+   "Tecnologias tradicionais, como ultrassom microfocado e radiofrequência, também são usadas para firmeza e contorno;",
+   "Fundador da Essence Health: Dr. Vinicius de Andrade, médico com especialização em medicina funcional e outras áreas."
+  ],
+  "explicacao": [
+   "A Essence Health inaugurou em 6 de novembro de 2026, em Belo Horizonte, um centro de medicina regenerativa que combina tecnologias como exossomos autólogos, Glowtox, peptídeos e lasers com a medicina funcional, visando tratar a pele em conjunto com o organismo.",
+   "Essa iniciativa surgiu porque pacientes acima de 40 anos frequentemente apresentam dificuldade para resultados em tratamentos estéticos convencionais, devido a deficiências nutricionais e hormonais que prejudicam a regeneração da pele, segundo avaliação da equipe médica do centro.",
+   "O tratamento começa por uma investigação aprofundada de micronutrientes, hormônios, metabolismo e inflamação, seguida da correção das deficiências para preparar o «solo biológico» da pele, a base para que as terapias estéticas e regenerativas funcionem adequadamente.",
+   "Após essa preparação, entra a medicina regenerativa com tecnologias avançadas e pouco comuns no Brasil, que atuam na renovação celular e estímulo do colágeno, garantindo resultados naturais e sustentáveis, acompanhados individualmente do início ao fim do protocolo."
+  ],
+  "detalhes": [
+   "A medicina funcional foca em corrigir deficiências de ferro, vitamina D, zinco e desequilíbrios hormonais como estrogênio em queda e cortisol alto;",
+   "Peptídeos atuam como mensageiros biológicos que estimulam colágeno e regeneração dos tecidos;",
+   "Laser regenerativo combinado com fotobiomodulação acelera recuperação e reduz inflamação;",
+   "Ozonioterapia é usada para oxigenação dos tecidos e modulação inflamatória como terapia complementar;",
+   "A radiofrequência aquece tecidos controladamente para estimular produção de colágeno e promover lifting;",
+   "Sessões são individualizadas, sem pacotes prontos, adaptadas ao mapa funcional de cada paciente;",
+   "O objetivo é envelhecer com saúde, mantendo pele firme e energia, sem apenas parar o tempo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dra. Kenya Gandra, dermatologista em Belo Horizonte",
+    "oque": "Trata a pele junto com o organismo, garantindo protocolos personalizados e naturais."
+   },
+   {
+    "quem": "Dr. Vinicius de Andrade, fundador da Essence Health",
+    "oque": "Beleza sustentável é resultado da saúde interna, e o centro concretiza esse método."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "06/11/2026",
+    "oque": "Inauguração do centro de medicina regenerativa Essence Health em Belo Horizonte."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Exossomos autólogos",
+    "significado": "Vesículas celulares do próprio paciente que ajudam na renovação da pele."
+   },
+   {
+    "termo": "Glowtox",
+    "significado": "Toxina botulínica que melhora textura da pele sem perder expressão facial."
+   },
+   {
+    "termo": "Peptídeos",
+    "significado": "Pequenas cadeias que estimulam a recuperação e produção de colágeno."
+   }
+  ],
+  "pergunta": "Você já conhecia a medicina funcional na estética? Conte sua opinião!",
+  "tamanhoTexto": 7705,
+  "numeros": [
+   {
+    "valor": "42.984",
+    "rotulo": "CRM do Dr. Vinicius de Andrade"
+   },
+   {
+    "valor": "54442",
+    "rotulo": "CRM da Dra. Kenya Gandra"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "centro de medicina",
+  "porQueImporta": "Para quem investe ou opera, conhecer inovações em saúde e estética mostra como avanços tecnológicos e multidisciplinares podem criar novos mercados e serviços personalizados, refletindo tendências de consumo e potencial demanda em saúde integrativa e regenerativa.",
+  "impactoMercado": "O centro traz tecnologias avançadas e integradas que podem impulsionar o crescimento do segmento de medicina estética e funcional, valorizando clínicas especializadas e gerando maior atenção para investimentos em saúde personalizada, bioestimuladores e terapias regenerativas.",
+  "entenda": "A medicina funcional avalia o organismo como um todo para melhorar saúde e estética, corrigindo deficiências internas que impedem a regeneração da pele. As tecnologias aplicadas na medicina regenerativa estimulam a renovação celular e produção de colágeno, resultando em tratamentos personalizados e naturais.",
+  "observar": "Acompanhe a evolução dos tratamentos, novas tecnologias em medicina regenerativa e protocolos adaptados ao perfil hormonal e nutricional dos pacientes para entender impactos na saúde e estética.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia mostra como o mercado de saúde estética está inovando com medicina funcional e regenerativa, tema que desperta interesse para entender como cuidar da saúde e investir em serviços diferenciados.",
+  "gancho": "*Medicina Regenerativa* em BH",
+  "ideias": [
+   "O que é medicina funcional e como ajuda na estética?",
+   "Conheça os benefícios dos exossomos autólogos para a pele",
+   "Glowtox: evolução da toxina botulínica para um rosto natural"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "foguete",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/11/06/dermatologista-em-belo-horizonte-bh-a-beleza-que-nasce-de-dentro-1.ghtml",
+  "publicadoEm": "2026-11-06T17:23:55-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-10"
+ },
+ {
+  "titulo": "Braskem: acionistas retiram aporte de US$ 1,4 bi após rejeição de credores",
+  "resumo": "Petrobras e IG4 desistiram da proposta de aporte na Braskem após credores rejeitarem conversão de US$ 3,8 bi em dívida.",
+  "fatos": [
+   "Proposta de aporte na Braskem de US$ 1,4 bilhão foi retirada.",
+   "Conversão de dívida proposta era de US$ 3,8 bilhões.",
+   "Negociações aconteceram em reuniões com credores em Nova York.",
+   "Credores rejeitaram plano que incluía conversão de dívida em participação acionária.",
+   "Acionistas envolvidos são Petrobras e IG4.",
+   "Recuperação judicial voltou a ser considerada.",
+   "Braskem afirmou manter comunicação regular com o mercado.",
+   "Petrobras e IG4 não comentaram até o momento."
+  ],
+  "explicacao": [
+   "A Braskem enfrenta dificuldades em sua negociação para reestruturação extrajudicial da dívida. Acionistas Petrobras e IG4 retiraram a proposta de aporte de US$ 1,4 bilhão após rejeição dos credores a um plano de conversão de US$ 3,8 bilhões da dívida em ações.",
+   "O impasse ocorreu após reuniões com credores em Nova York, quando os detentores de títulos (bondholders) não concordaram com os termos da conversão de dívida, fundamental para o aporte ser realizado.",
+   "Diante da distância entre as partes em pontos essenciais da negociação, a possibilidade de uma recuperação judicial voltou a ser avaliada como alternativa para a Braskem e seus acionistas.",
+   "A Braskem declarou que mantém comunicação regular com o mercado e divulgará novidades oportunamente. Petrobras e IG4 não se manifestaram até o momento da reportagem."
+  ],
+  "detalhes": [
+   "A negociação era para uma reestruturação extrajudicial da dívida da Braskem.",
+   "O aporte estava condicionado à concordância dos credores com a conversão da dívida em ações.",
+   "As reuniões com credores ocorreram nesta semana em Nova York.",
+   "A rejeição dos bondholders foi determinante para a retirada da proposta.",
+   "A recuperação judicial é uma alternativa considerada diante do impasse.",
+   "Braskem divulgou nota oficial à Bloomberg News sobre a situação.",
+   "As fontes preferiram anonimato por se tratar de discussões privadas."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "nesta semana",
+    "oque": "Reuniões entre Braskem, acionistas e credores em Nova York"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Aporte de capital",
+    "significado": "Investimento em dinheiro feito por acionistas na empresa."
+   },
+   {
+    "termo": "Recuperação judicial",
+    "significado": "Processo legal para reorganizar dívidas e evitar falência."
+   },
+   {
+    "termo": "Bondholders",
+    "significado": "Detentores de títulos de dívida emitidos pela empresa."
+   }
+  ],
+  "pergunta": "O que você acha que pode acontecer com a Braskem agora?",
+  "tamanhoTexto": 2139,
+  "numeros": [
+   {
+    "valor": "1,4 bilhão",
+    "rotulo": "Proposta de aporte retirada (US$)"
+   },
+   {
+    "valor": "3,8 bilhões",
+    "rotulo": "Dívida proposta para conversão em ações (US$)"
+   },
+   {
+    "valor": "2.700",
+    "rotulo": "Número de jornalistas da plataforma global citada"
+   },
+   {
+    "valor": "120",
+    "rotulo": "Países onde a plataforma global atua"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 1,4 bilhão",
+  "porQueImporta": "Esse impasse afetará a capacidade da Braskem de reestruturar sua dívida, criando incertezas para investidores e mercado. A possível recuperação judicial pode influenciar avaliação de riscos e estratégias de quem acompanha ações ou títulos ligados à empresa.",
+  "impactoMercado": "A rejeição dos credores e ausência do aporte podem tensionar os papéis da Braskem na Bolsa e influenciar setores ligados a petroquímicos. Também pode afetar negociações futuras de crédito e a percepção sobre empresas com dívida elevada.",
+  "entenda": "A reestruturação extrajudicial é um acordo para renegociar dívidas fora da Justiça, buscando evitar recuperação judicial. Quando não há acordo, a recuperação judicial é alternativa para proteger a empresa e credores, mas traz mais intervenção e riscos ao mercado.",
+  "observar": "Fique atento a novos comunicados da Braskem, Petrobras ou IG4 e possíveis atualizações sobre a recuperação judicial ou futuras negociações com credores.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Entenda como disputas na reestruturação de dívidas impactam empresas e investidores, despertando interesse para aprofundar no mercado financeiro e nas estratégias que envolvem ações, dívidas e recuperação judicial.",
+  "gancho": "*Braskem* e o aporte travado",
+  "ideias": [
+   "Por que a Braskem teve que retirar aporte de US$ 1,4 bilhão?",
+   "O que a rejeição dos credores significa para a Braskem?",
+   "Recuperação judicial: quando é a opção para empresas em crise?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "cadeado",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://investnews.com.br/negocios/braskem-petrobras-e-ig4-retiram-proposta-de-aporte-apos-impasse-com-credores/",
+  "publicadoEm": "2026-11-06T17:11:15-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-11"
+ },
+ {
+  "titulo": "Fed pode elevar juros mais para conter inflação, diz Mary Daly",
+  "resumo": "Mary Daly, presidente do Fed de São Francisco, afirmou que aumentos adicionais nas taxas são prováveis para reduzir a inflação nos EUA.",
+  "fatos": [
+   "Mary Daly é presidente da distrital do Fed de São Francisco.",
+   "Comentou a necessidade provável de mais altas nas taxas de juros para conter a inflação.",
+   "Declaração foi dada em 6 de novembro de 2026.",
+   "Ela afirmou que o ritmo e o momento do aperto monetário ainda são incertos.",
+   "Daly terá direito a voto nas decisões do Fed em 2027.",
+   "Inflação está elevada há quase seis anos nos EUA.",
+   "Mercado de trabalho americano está estável e robusto, não em expansão.",
+   "Daly destacou o impacto da inflação nas finanças das famílias americanas."
+  ],
+  "explicacao": [
+   "Mary Daly, presidente do Federal Reserve de São Francisco, comentou em 6 de novembro que o banco central americano deve elevar ainda mais os juros para controlar a inflação.",
+   "Ela destacou que o momento e a intensidade desses aumentos ainda são incertos, pois precisam considerar diversas variáveis econômicas que surgem.",
+   "Daly ressaltou que a inflação americana permanece alta há quase seis anos e afeta negativamente as finanças das famílias, apesar da estabilidade atual no mercado de trabalho.",
+   "Para 2027, Daly terá direito a voto no Comitê de Política Monetária do Fed, o que reforça o impacto de suas opiniões sobre as decisões futuras de juros nos EUA."
+  ],
+  "detalhes": [
+   "Declarações feitas à CNBC em 6/11/2026.",
+   "Mary Daly é voz importante no Fed por ter voto em política monetária em 2027.",
+   "O Fed usa a taxa de juros como ferramenta para controlar a inflação.",
+   "A inflação prolongada impacta o custo de vida, pressionando os gastos familiares.",
+   "O ‘payroll’ americano, relatório oficial de empregos, mostrou resultados positivos para trabalhadores.",
+   "Daly indicou estar preparada para aumentar juros se a economia exigir.",
+   "A decisão depende das variáveis econômicas emergentes e do comportamento da economia."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Mary Daly, presidente do Fed de São Francisco",
+    "oque": "Será preciso apertar ainda mais a política monetária para conter a inflação."
+   },
+   {
+    "quem": "Mary Daly, presidente do Fed de São Francisco",
+    "oque": "O momento e a magnitude das medidas ainda precisam ser definidos."
+   },
+   {
+    "quem": "Mary Daly, presidente do Fed de São Francisco",
+    "oque": "Estou preparada para adotar medidas adicionais se a economia assim exigir."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "06/11/2026",
+    "oque": "Mary Daly alerta para novas altas de juros nos EUA"
+   },
+   {
+    "quando": "2027",
+    "oque": "Mary Daly terá direito a voto no comitê de política monetária do Fed"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos EUA que define políticas de juros e controle da inflação."
+   },
+   {
+    "termo": "Política monetária",
+    "significado": "Conjunto de ações do banco central para controlar inflação e crescimento econômico."
+   },
+   {
+    "termo": "Payroll",
+    "significado": "Relatório mensal oficial dos EUA sobre criação de empregos."
+   }
+  ],
+  "pergunta": "Como você acha que a alta dos juros nos EUA afeta seu investimento no Brasil?",
+  "tamanhoTexto": 2614,
+  "numeros": [
+   {
+    "valor": "quase seis anos",
+    "rotulo": "tempo da inflação elevada nos EUA"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "novas altas de",
+  "porQueImporta": "A declaração de Mary Daly indica que o Fed pode intensificar o aperto monetário para combater a inflação prolongada. Isso é fundamental para investidores e operadores, pois influencia a dinâmica dos juros, do dólar e dos mercados globais, afetando custos de financiamento e retorno dos investimentos.",
+  "impactoMercado": "Novos aumentos nas taxas de juros pelo Fed podem elevar os juros nos EUA, pressionar o dólar e impactar setores sensíveis a crédito, além de movimentar o mercado de ações global. Investidores acompanham para ajustar posições conforme cenário econômico e política monetária evoluem.",
+  "entenda": "O Federal Reserve (Fed) é o banco central dos EUA que regula a economia por meio da taxa de juros. Aumentar os juros torna o crédito mais caro, reduzindo o consumo e a inflação, mas pode desacelerar a economia. O comitê de política monetária decide quando e quanto aumentar as taxas.",
+  "observar": "Acompanhe os próximos relatórios econômicos dos EUA e reuniões do Fed em 2027 para sinais sobre mudanças nas taxas de juros e seus impactos no mercado global.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia facilita a compreensão do aperto monetário do Fed, tema crucial para entender oscilações dos juros e dólar e despertar interesse em aprendizado financeiro realista e consciente.",
+  "gancho": "*Juros* em alta no Fed",
+  "ideias": [
+   "Por que o Fed pode subir mais os juros?",
+   "O que a alta dos juros significa para o investidor brasileiro?",
+   "Como o relatório de empregos impacta a política do Fed?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/06/novas-altas-de-juros-pelo-fed-devem-ser-necessarias-para-reduzir-inflacao-diz-mary-daly.ghtml",
+  "publicadoEm": "2026-11-06T16:42:52-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-12"
+ },
+ {
+  "titulo": "Tesouro Nacional aumenta emissões com cautela após estresse no mercado",
+  "resumo": "Equipe econômica avalia que emissões de títulos públicos subirão gradualmente, com R$ 31,6 bi recomprados para estabilizar o mercado pós-eleição de 2026.",
+  "fatos": [
+   "R$ 31,6 bilhões foram recomprados em títulos públicos pelo Tesouro Nacional.",
+   "Recompras foram feitas em 26 de outubro (R$ 14,81 bilhões) e 27 de outubro (R$ 16,79 bilhões).",
+   "Recompra de R$ 16,79 bilhões foi o terceiro maior da história, atrás de março de 2020 e março de 2026.",
+   "Aumento das emissões será gradual e cauteloso, monitorando a recuperação do mercado.",
+   "Avaliação de que o mercado financeiro ficou 'bastante machucado' após a eleição presidencial.",
+   "Pacote fiscal bem recebido poderia antecipar a estabilização da dívida pública.",
+   "Parte relevante dos juros futuros que pressionam a dívida já está contratada.",
+   "Preocupação com reação adversa do mercado que pode pressionar dólar e inflação.",
+   "Expectativa de desaceleração do crescimento econômico para 2027.",
+   "Equipe econômica do governo Lula avalia impacto das medidas no curto e médio prazo."
+  ],
+  "explicacao": [
+   "Após as turbulências causadas pelo resultado da eleição presidencial de 2026, o Tesouro Nacional decidiu aumentar de forma gradual e cautelosa as emissões de títulos públicos. As intervenções recentes demonstram preocupação com a liquidez e profundidade dos mercados financeiros.",
+   "O Tesouro precisou recomprar R$ 31,6 bilhões em títulos, incluindo operações nos dias 26 e 27 de outubro, para contribuir à normalização, após o mercado ter ficado \"bastante machucado\" por causa da virada histórica na eleição de Lula contra Flávio Bolsonaro.",
+   "Apesar de o mercado já funcionar melhor, a equipe econômica ainda monitora a reação dos investidores e espera que a recuperação das negociações permita uma retomada gradual aos níveis habituais. A sinalização da política fiscal do governo é vista como fator importante para reduzir incertezas.",
+   "O governo estuda medidas para ajustar as contas públicas e melhorar a trajetória da dívida, mas há cautela devido ao risco de reações negativas que afetem dólar, inflação e juros, especialmente diante da expectativa de desaceleração do crescimento econômico em 2027."
+  ],
+  "detalhes": [
+   "Intervenções do Tesouro foram necessárias após a virada histórica de Lula sobre Flávio Bolsonaro na eleição presidencial de 2026.",
+   "Recompras de títulos públicos aconteceram logo após o segundo turno das eleições.",
+   "Mesmo com o mercado funcionando, liquidez e profundidade das negociações ainda estão abaixo do ideal.",
+   "Tesouro não testou a capacidade do mercado para absorver grandes volumes de emissões ainda.",
+   "O pacote fiscal está em fase de estudo e será avaliado pelo presidente Lula.",
+   "Recompra de títulos em 27 de outubro foi maior que a de 2026 durante a guerra no Oriente Médio.",
+   "Recuperação do mercado depende da sinalização clara da política econômica do governo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Equipe econômica do presidente Lula",
+    "oque": "Avalia que emissões de títulos públicos devem ser graduais e que o mercado ainda precisa cicatrizar."
+   },
+   {
+    "quem": "Fonte da equipe econômica",
+    "oque": "Sem a atuação do Tesouro, a turbulência teria sido pior e a estabilização mais lenta."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Recompra de R$ 14,81 bilhões em títulos públicos após o segundo turno."
+   },
+   {
+    "quando": "27 de outubro de 2026",
+    "oque": "Recompra de R$ 16,79 bilhões, terceira maior da história."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Tesouro Nacional",
+    "significado": "Órgão que emite títulos para financiar o governo federal."
+   },
+   {
+    "termo": "Liquidez",
+    "significado": "Facilidade de comprar ou vender um ativo no mercado."
+   },
+   {
+    "termo": "Títulos públicos",
+    "significado": "Dívida emitida pelo governo para captar recursos."
+   }
+  ],
+  "pergunta": "Você acha que o Tesouro deve aumentar as emissões rapidamente ou ser mais cauteloso?",
+  "tamanhoTexto": 4601,
+  "numeros": [
+   {
+    "valor": "31,6 bilhões",
+    "rotulo": "Total recomprado em títulos públicos pelo Tesouro"
+   },
+   {
+    "valor": "14,81 bilhões",
+    "rotulo": "Recompra em 26 de outubro"
+   },
+   {
+    "valor": "16,79 bilhões",
+    "rotulo": "Recompra em 27 de outubro"
+   },
+   {
+    "valor": "2026",
+    "rotulo": "Ano da eleição presidencial e das recompras"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 31,6 bilhões",
+  "porQueImporta": "Essa notícia é fundamental para investidores que acompanham a dívida pública, pois demonstra como o governo responde a crises de mercado. A cautela nas emissões mostra um esforço para evitar novos choques e manter a estabilidade econômica, fator importante para o ambiente de investimentos no Brasil.",
+  "impactoMercado": "O aumento gradual das emissões e as recompras influenciam a liquidez do mercado de títulos públicos, o dólar e a inflação. Setores dependentes de curvas de juros e crédito público podem se mover com as decisões do Tesouro, impactando o portfólio dos investidores.",
+  "entenda": "O Tesouro Nacional emite títulos públicos para financiar o governo. Quando o mercado está instável, como após uma eleição, a emissão pode ser ajustada para evitar maior desequilíbrio. A recompra de títulos ajuda a reduzir volumes no mercado, melhorando liquidez e evitando pânico.",
+  "observar": "Fique atento aos próximos anúncios da equipe econômica e aos dados econômicos que indicam a recuperação do mercado, como volume de negociações e reação do dólar, além da aprovação e recepção do pacote fiscal anunciado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Aposentados"
+  ],
+  "angulo": "Entender os movimentos do Tesouro ajuda o investidor a interpretar as oscilações do mercado de renda fixa e a importância da política fiscal para a estabilidade econômica.",
+  "gancho": "*Tesouro* e emissões cautelosas",
+  "ideias": [
+   "Como o Tesouro Nacional reage a choques no mercado financeiro",
+   "Entenda o papel das recompras de títulos públicos na crise recente",
+   "Por que o aumento gradual das emissões importa para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/06/com-mercado-machucado-tesouro-aumentara-emissoes-de-forma-gradual-e-com-cautela.ghtml",
+  "publicadoEm": "2026-11-06T16:17:14-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-13"
+ },
+ {
+  "titulo": "CNI aciona STF contra fim da escala 6x1 e limita Justiça do Trabalho",
+  "resumo": "A Confederação Nacional da Indústria entrou com ação no STF pedindo limite à Justiça do Trabalho sobre jornada 5x2, que reduz férias para 42 horas semanais a partir de dezembro.",
+  "fatos": [
+   "CNI entrou com ação no STF contra fim da escala 6x1.",
+   "Nova jornada 5x2 deve valer a partir de 16 de dezembro.",
+   "Carga horária semanal reduzirá de 44 para 42 horas.",
+   "CNI pede limitação da competência da Justiça do Trabalho e MPT.",
+   "CNI também protocolou Arguição de Descumprimento de Preceito Fundamental.",
+   "Audiência de conciliação marcada para 10 de junho no STF.",
+   "Ministro Flávio Dino negou liminar da CNC para adiar a escala 5x2.",
+   "CNI argumenta que decisões trabalhistas têm causado insegurança jurídica.",
+   "Sindicalistas, governo e empresários participam da conciliação."
+  ],
+  "explicacao": [
+   "A CNI protocolou uma nova ação no Supremo Tribunal Federal contra o fim da escala 6x1, buscando restringir a atuação da Justiça do Trabalho e do Ministério Público do Trabalho em processos relacionados à nova jornada 5x2 e à carga horária reduzida.",
+   "Essa iniciativa surge após a aprovação da emenda constitucional que, desde 16 de dezembro, exige a redução da jornada semanal de 44 para 42 horas e a implantação da escala 5x2, com dois dias de descanso semanal remunerado.",
+   "A CNI sustenta que decisões da Justiça do Trabalho têm extrapolado competências constitucionais, gerando insegurança jurídica e impactos negativos para a economia, o que justificaria a intervenção do STF para definir limites claros.",
+   "Com audiências marcadas, o STF busca um consenso envolvendo empresários, sindicatos e governo para uma implementação coordenada da nova jornada, enquanto analisa a constitucionalidade da mudança."
+  ],
+  "detalhes": [
+   "A ação da CNI visa restringir processos que envolvam a implantação da escala 5x2 e jornada reduzida.",
+   "A escala 6x1 permitiria um descanso semanal remunerado a cada seis dias trabalhados, substituída pela 5x2 com dois dias de descanso fixos.",
+   "A Confederação Nacional do Comércio pediu adiamento da escala para dezembro de 2027, pedido negado pelo STF.",
+   "A CNI alega invasão indevida da Justiça do Trabalho em temas regulatórios e administrativos.",
+   "O ministro Flávio Dino é o relator das ações no STF após sorteio.",
+   "A ADPF questiona artigo 643 da CLT, anterior à Constituição de 1988.",
+   "Audiência busca um consenso para garantir segurança jurídica e ordem econômica."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Alexandre Vitorino, diretor Jurídico da CNI",
+    "oque": "Defende o respeito à distribuição constitucional das competências entre Judiciário, Ministério Público e administração pública."
+   },
+   {
+    "quem": "Ministro Flávio Dino, relator no STF",
+    "oque": "Derrubar normas constitucionais exige provas robustas; é preciso consenso para a redução da jornada."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "16 de dezembro de 2026",
+    "oque": "Início da vigência da jornada 5x2 e redução para 42 horas semanais."
+   },
+   {
+    "quando": "10 de junho de 2026",
+    "oque": "Audiência de conciliação marcada no STF entre partes envolvidas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Escala 6x1",
+    "significado": "Regime de trabalho com seis dias seguidos de trabalho e um dia de descanso."
+   },
+   {
+    "termo": "Escala 5x2",
+    "significado": "Regime com cinco dias de trabalho e dois dias consecutivos de descanso semanal."
+   },
+   {
+    "termo": "STF",
+    "significado": "Supremo Tribunal Federal, a corte máxima do Brasil."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da jornada 5x2 no seu trabalho ou empresa?",
+  "tamanhoTexto": 7751,
+  "numeros": [
+   {
+    "valor": "16/12/2026",
+    "rotulo": "Data para início da escala 5x2"
+   },
+   {
+    "valor": "42 horas",
+    "rotulo": "Nova carga semanal de trabalho"
+   },
+   {
+    "valor": "44 horas",
+    "rotulo": "Carga semanal anterior"
+   },
+   {
+    "valor": "10/06/2026",
+    "rotulo": "Audiência de conciliação no STF"
+   },
+   {
+    "valor": "7 acessos",
+    "rotulo": "Número diário de acessos liberados para leitores não assinantes"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Carga horária semanal",
+    "antes": "44 horas",
+    "depois": "42 horas"
+   },
+   {
+    "item": "Escala de descanso semanal",
+    "antes": "6x1",
+    "depois": "5x2"
+   }
+  ],
+  "destaque": "Redução da jornada",
+  "porQueImporta": "A ação da CNI no STF e a discussão sobre limites da Justiça do Trabalho são relevantes pois impactam diretamente as regras de jornada, fundamentais para trabalhadores e empresas. Essa mudança define como o tempo de trabalho e descanso será organizado em vários setores, afetando custos e produtividade.",
+  "impactoMercado": "Se a Justiça do Trabalho tiver sua competência limitada, empresas podem sentir menos risco de multas ou sanções ao testar novas jornadas. A mudança na escala 5x2 também influencia setores industriais e comerciais, que precisarão se adaptar à carga horária menor e novos regimes de descanso.",
+  "entenda": "A escala 6x1 significa trabalhar seis dias seguidos com um dia de descanso. A nova escala 5x2 prevê dois dias consecutivos de descanso. A Justiça do Trabalho é um ramo judiciário que resolve conflitos trabalhistas, e sua atuação em decisões regulatórias pode afetar como leis são aplicadas na prática.",
+  "observar": "Acompanhe a audiência de conciliação no STF em 10 de junho e futuras decisões sobre a constitucionalidade e aplicação da nova jornada 5x2 e limites da Justiça do Trabalho.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Entenda como decisões judiciais e mudanças nas regras de trabalho influenciam a economia e a rotina de empresas, importante para quem busca conhecer o funcionamento do mercado e seus impactos.",
+  "gancho": "*Jornada* 5x2 e Justiça do Trabalho",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Como a Justiça do Trabalho influencia a jornada 5x2?",
+   "Entenda a ação da CNI no STF e seus efeitos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/industria-entra-com-nova-acao-no-stf-contra-fim-da-escala-6x1-e-quer-limitar-justica-do-trabalho.shtml",
+  "publicadoEm": "2026-11-06T17:55:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-14"
+ },
+ {
+  "titulo": "JPMorgan destaca lucro resiliente das empresas brasileiras no 3º trimestre",
+  "resumo": "Banco mantém Brasil entre emergentes preferidos com crescimento médio de 7% no lucro líquido das empresas brasileiras no 3º trimestre, mesmo diante de juros elevados e incertezas macroeconômicas.",
+  "fatos": [
+   "JPMorgan mantém Brasil entre mercados emergentes favoritos.",
+   "Crescimento médio de 7% no lucro líquido das empresas brasileiras no 3º trimestre.",
+   "Lucro líquido das empresas do MSCI Emerging Markets avançou 57% anual.",
+   "Setor de energia no Brasil tem resultados positivos com PRIO e Vibra em destaque.",
+   "Vale apresentou Ebitda ligeiramente superior às estimativas do banco.",
+   "Alta de 28% no lucro líquido anual para empresas mexicanas analisadas.",
+   "Samsung, SK Hynix e TSMC superaram estimativas, semiconductores têm fundamentos sólidos.",
+   "Juros elevados e incertezas macroeconômicas limitam valorização das ações brasileiras.",
+   "JPMorgan recomenda exposição acima da média em Brasil, China, Coreia do Sul e Taiwan.",
+   "Conclusão das eleições de meio de mandato nos EUA pode ser catalisador para bolsas."
+  ],
+  "explicacao": [
+   "O JPMorgan confirmou o Brasil como um dos mercados emergentes favoritos, apoiado pela resiliência das empresas locais. No terceiro trimestre, as companhias brasileiras que divulgaram balanços apresentaram um crescimento médio de 7% no lucro líquido, superando expectativas em várias ocasiões.",
+   "Esse desempenho ocorreu mesmo em um ambiente doméstico desafiador, marcado por juros elevados e incertezas macroeconômicas, que limitam a valorização expressiva das ações no curto prazo, segundo o banco.",
+   "O banco reforça que, apesar da valorização expressiva em outros mercados, especialmente asiáticos com tecnologia, o Brasil oferece avaliações historicamente descontadas e baixa exposição dos investidores internacionais, criando espaço para entrada de recursos.",
+   "Ainda de acordo com o JPMorgan, o setor de energia, com destaques para PRIO e Vibra, tem sido o principal suporte nos resultados brasileiros. A mineradora Vale também superou estimativas de Ebitda, especialmente na divisão de cobre."
+  ],
+  "detalhes": [
+   "Dados baseados nas empresas brasileiras que divulgaram balanços do 3º trimestre.",
+   "Setores industrial e financeiro também mostraram crescimento anual dos lucros.",
+   "Bancos brasileiros enfrentam desaceleração do crédito e risco de pressão nas margens.",
+   "Lucro das empresas mexicanas impulsionado por mineração, petroquímica e construção.",
+   "Setores de semicondutores apoiam avaliação positiva para emergentes até pelo menos 2028.",
+   "JPMorgan mantém avaliação positiva apesar da correção de ações ligadas à inteligência artificial.",
+   "Potencial entrada de capital estrangeiro no Brasil devido a preços descontados e ganhos futuros."
+  ],
+  "declaracoes": [
+   {
+    "quem": "JPMorgan",
+    "oque": "Destaca resiliência dos lucros brasileiros mesmo com juros elevados e incertezas macro."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2023",
+    "oque": "Empresas brasileiras registram crescimento médio de 7% no lucro líquido."
+   },
+   {
+    "quando": "em breve, eleições de meio de",
+    "oque": "Podem reduzir incertezas políticas globais e catalisar bolsas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido",
+    "significado": "Resultado final da empresa após deduzir custos e impostos."
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização."
+   },
+   {
+    "termo": "MSCI Emerging Markets",
+    "significado": "Índice que reúne ações dos principais mercados emergentes."
+   }
+  ],
+  "pergunta": "Você acha que o Brasil vai continuar atraindo investimentos mesmo com juros altos?",
+  "tamanhoTexto": 4801,
+  "numeros": [
+   {
+    "valor": "7%",
+    "rotulo": "crescimento médio do lucro líquido das empresas brasileiras no 3º trimestre"
+   },
+   {
+    "valor": "57%",
+    "rotulo": "avanço anual do lucro líquido das empresas do MSCI Emerging Markets"
+   },
+   {
+    "valor": "28%",
+    "rotulo": "alta anual do lucro líquido das empresas mexicanas analisadas"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic mantida no Brasil, impactando juros elevados"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "7% de crescimento",
+  "porQueImporta": "Lucros corporativos mais fortes sustentam a atratividade do mercado brasileiro, mesmo com juros altos e turbulências econômicas. Para investidores e traders, entender essa resiliência ajuda a avaliar riscos e oportunidades para entrar no mercado emergente do Brasil.",
+  "impactoMercado": "A resistência dos lucros pode limitar quedas abruptas e favorecer a entrada gradual de investidores estrangeiros. Setores como energia e mineração tendem a ser mais observados, enquanto bancos enfrentam desafios por crédito mais conservador e margens menores.",
+  "entenda": "Lucro líquido é o resultado final de uma empresa após despesas e impostos. Quando cresce, indica melhor desempenho e pode influenciar o preço das ações e a confiança dos investidores no mercado local.",
+  "observar": "Fique atento às próximas divulgações de balanços no Brasil e ao resultado das eleições nos EUA, que podem influenciar o fluxo de investimentos nos mercados emergentes.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Mostramos como entender os lucros resistentes das empresas brasileiras influencia a análise de riscos e oportunidades para investidores e traders, aproximando o público da dinâmica do mercado emergente brasileiro sem prometer ganhos.",
+  "gancho": "*Lucro* Resiliente no Brasil",
+  "ideias": [
+   "Por que o lucro das empresas brasileiras surpreende o JPMorgan?",
+   "Impacto dos juros elevados nos resultados corporativos do Brasil",
+   "Setores que sustentam os lucros brasileiros no 3º trimestre"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/jpmorgan-mantem-brasil-entre-favoritos-com-lucro-resiliente-no-pais/",
+  "publicadoEm": "2026-11-06T10:57:28-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-15"
+ },
+ {
+  "titulo": "Anthropic reavalia IPO após queda forte das ações de IA nos EUA",
+  "resumo": "Anthropic enfrenta pressão para reduzir valuation do IPO para US$ 1,2-1,3 tri após queda no Nasdaq 100. Volatilidade e mudanças políticas afetam avaliação prevista de até US$ 2 trilhões.",
+  "fatos": [
+   "Investidores reduziram avaliação esperada do IPO de Anthropic para US$ 1,2-1,3 trilhão.",
+   "No início de outubro, avaliação projetada era até US$ 2 trilhões.",
+   "Queda do Nasdaq 100 em 6,4% eliminou US$ 2,3 trilhões numa só quinta-feira.",
+   "Índice de volatilidade Cboe atingiu maior nível desde abril de 2025.",
+   "Vitória dos democratas no Congresso elevou perspectivas de maior regulação.",
+   "Anthropic desenvolve o chatbot Claude.",
+   "Analistas sugerem avaliação confortável em US$ 1 trilhão para menor risco.",
+   "Empresas como Cerebras Systems e Figma ampliaram IPOs após aumento na demanda.",
+   "Empresas precisam manter documentos do IPO públicos por pelo menos 15 dias antes do marketing formal."
+  ],
+  "explicacao": [
+   "A Anthropic, empresa de inteligência artificial, enfrenta incertezas antes da apresentação formal do seu IPO, após fortes quedas das ações de IA nos EUA reduzirem sua avaliação projetada. Investidores agora discutem um valor entre US$ 1,2 trilhão e US$ 1,3 trilhão.",
+   "A queda no índice Nasdaq 100 em 6,4%, que eliminou US$ 2,3 trilhões em valor de mercado, junto com a vitória democrata no Congresso americano e o aumento do escrutínio regulatório, pressionaram os múltiplos e aumentaram a volatilidade, prejudicando a avaliação da Anthropic.",
+   "Essa revisão reflete o cenário de alta volatilidade no setor de tecnologia e IA, que torna os IPOs mais desafiadores e aumenta o risco para investidores iniciais, exigindo avaliações mais conservadoras para garantir demanda.",
+   "Agora, a Anthropic pode ajustar sua meta de IPO para um valor menor, começando com uma oferta conservadora e talvez ampliando se a demanda surpreender, ou até mesmo adiar o IPO para aguardar condições de mercado mais favoráveis."
+  ],
+  "detalhes": [
+   "A Anthropic está se preparando para o seu primeiro IPO no setor de IA de ponta.",
+   "A volatilidade recente do mercado de tecnologia impactou avaliações de empresas similares.",
+   "O índice Nasdaq 100 serve como referência para ações de tecnologia e IA.",
+   "A vitória dos democratas no Congresso americano pode aumentar o escrutínio regulatório sobre expansão dos data centers.",
+   "Documentos do IPO devem ficar disponíveis publicamente por 15 dias antes do marketing.",
+   "A Anthropic pode começar o marketing com avaliação mais baixa e aumentar conforme a demanda.",
+   "Empresas têm opção de adiar IPO para atualizar dados financeiros e aguardar melhora no mercado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Stephan Kemper, diretor de investimentos do BNP Paribas Wealth Management",
+    "oque": "Avaliação da Anthropic deve ficar no extremo inferior da faixa, 10% a 15% abaixo do estimado."
+   },
+   {
+    "quem": "Michael Alfaro, diretor de investimentos da Gallo Partners",
+    "oque": "Anthropic precisa de avaliação entre US$ 1,3 tri e US$ 1,4 tri para montar livro de ordens de qualidade."
+   },
+   {
+    "quem": "David Rainville, gestor de portfólio da Sycomore Asset Management",
+    "oque": "Avaliação próxima a US$ 1,2 trilhão não deverá dificultar encontrar investidores."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "início de outubro de 2026",
+    "oque": "Avaliação inicial projetada para Anthropic era de até US$ 2 trilhões."
+   },
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Queda de 6,4% no índice Nasdaq 100."
+   },
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Relato do recuo da avaliação para US$ 1,2-1,3 trilhão."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial de ações na bolsa"
+   },
+   {
+    "termo": "Valuation",
+    "significado": "Avaliação do valor de mercado de uma empresa"
+   },
+   {
+    "termo": "Nasdaq 100",
+    "significado": "Índice das 100 maiores ações não financeiras da Nasdaq"
+   }
+  ],
+  "pergunta": "Você acha que a Anthropic deve ajustar ainda mais o valor do IPO?",
+  "tamanhoTexto": 6156,
+  "numeros": [
+   {
+    "valor": "6,4%",
+    "rotulo": "queda do índice Nasdaq 100 em 5 de novembro"
+   },
+   {
+    "valor": "US$ 2,3 trilhões",
+    "rotulo": "valor de mercado eliminado no Nasdaq em um dia"
+   },
+   {
+    "valor": "US$ 1,2 trilhão a US$ 1,3 trilhão",
+    "rotulo": "faixa atual discutida para avaliação da Anthropic"
+   },
+   {
+    "valor": "US$ 1,4 trilhão a US$ 1,5 trilhão",
+    "rotulo": "avaliação revisada após dados financeiros recentes"
+   },
+   {
+    "valor": "US$ 2 trilhões",
+    "rotulo": "avaliação estimada no início de outubro"
+   },
+   {
+    "valor": "15 dias",
+    "rotulo": "tempo mínimo para manter documentos públicos antes do marketing"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Avaliação Anthropic IPO",
+    "antes": "até US$ 2 trilhões (início de outubro)",
+    "depois": "US$ 1,2-1,3 trilhão (novembro)"
+   }
+  ],
+  "destaque": "US$ 1,2-1,3 trilhão",
+  "porQueImporta": "Esse ajuste significativo no valuation do IPO da Anthropic mostra como a volatilidade do mercado e fatores políticos podem afetar o lançamento de ações de alta tecnologia. Para investidores e traders, entender essa dinâmica ajuda a avaliar riscos e expectativas em ações de tecnologia e IPOs atuais.",
+  "impactoMercado": "A volatilidade e a revisão para baixo da avaliação podem levar a maior cautela em IPOs de tecnologia e IA. Isso pode influenciar setores relacionados, como data centers e softwares, além de impactar o interesse dos investidores no Nasdaq e em ações desse segmento.",
+  "entenda": "O IPO (oferta pública inicial) é o processo pelo qual uma empresa abre seu capital para o mercado, vendendo ações pela primeira vez. O valuation é a avaliação do valor da empresa, que influencia o preço das ações no IPO. Alterações no mercado e política podem alterar essa avaliação e afetar o sucesso da oferta.",
+  "observar": "Vale acompanhar a divulgação dos documentos públicos do IPO da Anthropic, o andamento do marketing da oferta e os movimentos no Nasdaq, especialmente em ações de tecnologia, além de possíveis atualizações sobre a regulação dos data centers nos EUA.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia ajuda quem quer entender como fatores externos e a volatilidade influenciam grandes IPOs de tecnologia e IA, mostrando como se preparar para oscilações do mercado e decisões estratégicas das empresas.",
+  "gancho": "*IPO* Anthropic e volatilidade no mercado",
+  "ideias": [
+   "Como a volatilidade do Nasdaq afeta IPOs de IA?",
+   "Por que a avaliação da Anthropic caiu antes do IPO?",
+   "O que investidores esperam do IPO da Anthropic?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:04:20-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/06/anthropic-enfrenta-pressao-para-reduzir-avaliacao-do-ipo-apos-tombo-das-acoes-de-ia.ghtml",
+  "publicadoEm": "2026-11-06T17:35:01-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-16"
+ },
+ {
   "titulo": "Nubank e Mercado Pago suspendem temporariamente operações com criptomoedas",
   "resumo": "Nubank e Mercado Pago interromperam saques e depósitos de criptomoedas em 6 de novembro devido a instabilidades técnicas. Ambas garantem segurança dos ativos e seguem trabalhando para retomar os serviços.",
   "fatos": [
@@ -9152,53 +10519,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 95.5% de chance de Ethereum abaixo de 2.400 em novembro",
-  "resumo": "Quase todos os apostadores esperam que o preço do Ethereum permaneça nessa faixa no próximo mês.",
+  "titulo": "What price will Ethereum hit in November?",
+  "resumo": "Mercado de previsões vê 89.5% de chance de Ethereum ficar abaixo de 2,200 em novembro de 2026.",
   "probs": [
    {
-    "opcao": "↓ 2,400",
-    "prob": 95.5
+    "opcao": "↓ 2,200",
+    "prob": 89.5
    },
    {
-    "opcao": "↑ 2,500",
-    "prob": 77.5
+    "opcao": "↑ 2,300",
+    "prob": 79.5
    },
    {
-    "opcao": "↓ 2,300",
-    "prob": 74.5
+    "opcao": "↓ 2,100",
+    "prob": 64.5
    },
    {
-    "opcao": "↑ 2,600",
-    "prob": 56.5
+    "opcao": "↑ 2,400",
+    "prob": 57.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 227 mil",
+  "volume24h": "US$ 264 mil",
   "fatos": [
-   "↓ 2,400: 95,5%",
-   "↑ 2,500: 77,5%",
-   "↓ 2,300: 74,5%",
-   "↑ 2,600: 56,5%"
+   "↓ 2,200: 89,5%",
+   "↑ 2,300: 79,5%",
+   "↓ 2,100: 64,5%",
+   "↑ 2,400: 57,5%"
   ],
   "numeros": [
    {
-    "valor": "95,5%",
-    "rotulo": "↓ 2,400"
+    "valor": "89,5%",
+    "rotulo": "↓ 2,200"
    },
    {
-    "valor": "77,5%",
-    "rotulo": "↑ 2,500"
+    "valor": "79,5%",
+    "rotulo": "↑ 2,300"
    },
    {
-    "valor": "74,5%",
-    "rotulo": "↓ 2,300"
+    "valor": "64,5%",
+    "rotulo": "↓ 2,100"
    },
    {
-    "valor": "56,5%",
-    "rotulo": "↑ 2,600"
+    "valor": "57,5%",
+    "rotulo": "↑ 2,400"
    }
   ],
-  "destaque": "95,5%",
+  "destaque": "89,5%",
   "gancho": "*Expectativa alta* para Ethereum",
   "entenda": "Os preços das criptomoedas como Ethereum são altamente voláteis e influenciados por tendências de mercado e sentimento geral.",
   "categoria": "Previsões",
@@ -9213,58 +10580,58 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p8",
-  "atualizadoEm": "2026-11-04T18:29:41-03:00"
+  "atualizadoEm": "2026-11-06T18:04:20-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 81,5% de chance do Bitcoin atingir 82.500 em novembro",
-  "resumo": "Projeções de preço da criptomoeda refletem as expectativas do mercado quanto à volatilidade e à demanda.",
+  "titulo": "What price will Bitcoin hit in November?",
+  "resumo": "Mercado de previsões vê 86.5% de chance de Bitcoin ficar abaixo de 75,000 em novembro de 2026.",
   "probs": [
    {
-    "opcao": "↑ 82,500",
+    "opcao": "↓ 75,000",
+    "prob": 86.5
+   },
+   {
+    "opcao": "↑ 77,500",
     "prob": 81.5
    },
    {
-    "opcao": "↓ 77,500",
-    "prob": 67.5
+    "opcao": "↓ 72,500",
+    "prob": 61.5
    },
    {
-    "opcao": "↑ 85,000",
+    "opcao": "↑ 80,000",
     "prob": 58.5
-   },
-   {
-    "opcao": "↓ 75,000",
-    "prob": 46.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 562 mil",
+  "volume24h": "US$ 393 mil",
   "fatos": [
-   "↑ 82,500: 81,5%",
-   "↓ 77,500: 67,5%",
-   "↑ 85,000: 58,5%",
-   "↓ 75,000: 46,5%"
+   "↓ 75,000: 86,5%",
+   "↑ 77,500: 81,5%",
+   "↓ 72,500: 61,5%",
+   "↑ 80,000: 58,5%"
   ],
   "numeros": [
    {
-    "valor": "81,5%",
-    "rotulo": "↑ 82,500"
+    "valor": "86,5%",
+    "rotulo": "↓ 75,000"
    },
    {
-    "valor": "67,5%",
-    "rotulo": "↓ 77,500"
+    "valor": "81,5%",
+    "rotulo": "↑ 77,500"
+   },
+   {
+    "valor": "61,5%",
+    "rotulo": "↓ 72,500"
    },
    {
     "valor": "58,5%",
-    "rotulo": "↑ 85,000"
-   },
-   {
-    "valor": "46,5%",
-    "rotulo": "↓ 75,000"
+    "rotulo": "↑ 80,000"
    }
   ],
-  "destaque": "81,5%",
+  "destaque": "86,5%",
   "gancho": "*Otimismo* nas apostas sobre Bitcoin",
   "entenda": "As expectativas dos preços do Bitcoin refletem a confiança do mercado em sua valorização futura, embora as criptos sejam notoriamente voláteis.",
   "categoria": "Previsões",
@@ -9279,7 +10646,7 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p9",
-  "atualizadoEm": "2026-11-04T22:48:05-03:00"
+  "atualizadoEm": "2026-11-06T18:04:20-03:00"
  },
  {
   "titulo": "Petróleo cai mais de 8% com avanço em negociações no Oriente Médio",
