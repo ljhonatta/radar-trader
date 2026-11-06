@@ -1,5 +1,693 @@
 [
  {
+  "titulo": "Nubank e Mercado Pago suspendem temporariamente operações com criptomoedas",
+  "resumo": "Nubank e Mercado Pago interromperam saques e depósitos de criptomoedas em 6 de novembro devido a instabilidades técnicas. Ambas garantem segurança dos ativos e seguem trabalhando para retomar os serviços.",
+  "fatos": [
+   "Data da suspensão: 6 de novembro de 2026",
+   "Nubank apontou instabilidade em fornecedor externo de dados",
+   "Mercado Pago identificou instabilidade em sistema para monitoramento de riscos",
+   "Fireblocks afirmou que sua plataforma não teve problemas",
+   "Compra e venda de criptomoedas permanecem normais nos dois serviços",
+   "Mercado Pago avisou que depósitos poderão ser creditados com atraso",
+   "Ambas as instituições garantiram que a segurança dos clientes não foi afetada",
+   "Incidente ocorre uma semana após ataque de US$ 6 bilhões na Binance",
+   "Mercado Bitcoin também suspendeu operações após incidente de segurança na semana anterior"
+  ],
+  "explicacao": [
+   "No dia 6 de novembro de 2026, Nubank e Mercado Pago anunciaram a suspensão temporária de saques e depósitos de criptomoedas nos seus aplicativos. A interrupção foi notificada aos usuários, que também tiveram os créditos de depósitos afetados por atrasos.",
+   "A causa da suspensão no Nubank foi uma instabilidade em um fornecedor externo de dados, sem detalhes do nome revelados. Já o Mercado Pago enfrentou problemas em um sistema ligado ao monitoramento de risco e prevenção à lavagem de dinheiro, também de um fornecedor externo.",
+   "Apesar da paralisação nessas funções, ambas as instituições afirmaram que a segurança dos ativos dos clientes não foi comprometida. Operações como compra e venda de criptoativos continuam normalmente nesses serviços.",
+   "O Nubank acompanha a situação junto ao fornecedor para restaurar o sistema, sem prazo definido para normalização. O Mercado Pago acompanha o incidente em tempo real e prevê o restabelecimento das operações em breve."
+  ],
+  "detalhes": [
+   "O Nubank não revelou o nome do fornecedor externo responsável pela instabilidade.",
+   "A Fireblocks, provedora de custódia para o Nubank, negou problemas em sua infraestrutura.",
+   "O Mercado Pago atribuiu o problema a um incidente com fornecedor de monitoramento de risco e prevenção à lavagem de dinheiro.",
+   "As suspensões abrangem saques, depósitos e transferências, e afetam temporariamente os usuários.",
+   "Compra e venda de ativos virtuais continuam normalmente, conforme nota das instituições.",
+   "A medida preventiva evita transferências envolvendo carteiras suspeitas ou comprometidas.",
+   "Os usuários foram comunicados via aplicativo e receberão atualizações sobre a normalização."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Nubank (nota oficial)",
+    "oque": "A instabilidade em fornecedor externo não compromete a segurança dos clientes e o serviço será restabelecido."
+   },
+   {
+    "quem": "Fireblocks (provedora de custódia)",
+    "oque": "A interrupção dos serviços do Nubank não decorre de problemas na plataforma Fireblocks."
+   },
+   {
+    "quem": "Mercado Pago (nota oficial)",
+    "oque": "Parte das transferências foi bloqueada preventivamente para proteger recursos dos clientes."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Nubank e Mercado Pago suspendem temporariamente saques e depósitos em criptomoedas."
+   },
+   {
+    "quando": "1º de novembro de 2026",
+    "oque": "Binance sofre roubo de US$ 6 bilhões em criptomoedas."
+   },
+   {
+    "quando": "2 de novembro de 2026",
+    "oque": "Mercado Bitcoin anuncia incidente e bloqueio de US$ 11,2 milhões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fornecedor externo de dados",
+    "significado": "Empresa que fornece informações ou serviços usados pelas plataformas financeiras."
+   },
+   {
+    "termo": "Monitoramento de risco",
+    "significado": "Sistema que analisa transações para identificar atividades suspeitas."
+   },
+   {
+    "termo": "Criptomoedas",
+    "significado": "Ativos digitais que usam criptografia para garantir segurança."
+   }
+  ],
+  "pergunta": "Você já enfrentou suspensão em operações com criptomoedas? Como reagiu?",
+  "tamanhoTexto": 11448,
+  "numeros": [
+   {
+    "valor": "6 de novembro de 2026",
+    "rotulo": "Data da suspensão temporária das operações"
+   },
+   {
+    "valor": "US$ 6 bilhões",
+    "rotulo": "Valor roubado da Binance na semana anterior"
+   },
+   {
+    "valor": "US$ 11,2 milhões",
+    "rotulo": "Ativos bloqueados pelo Mercado Bitcoin após incidente"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Suspensão temporária das",
+  "porQueImporta": "Para quem opera ou quer operar com criptomoedas, interrupções em grandes plataformas podem significar atrasos e dificuldades de acesso aos ativos. Entender os motivos ajuda a manter a segurança e a planejar movimentos no mercado, sem surpresas.",
+  "impactoMercado": "Interrupções em serviços de transações impactam a liquidez e a confiança no mercado de cripto, especialmente para usuários que dependem dessas transferências para day trade ou investimentos. Setores ligados a custódia e monitoramento ganham atenção, reforçando a importância da segurança.",
+  "entenda": "A suspensão temporária de saques e depósitos ocorre geralmente para proteger os ativos dos clientes quando há falhas técnicas ou riscos identificados. Isso acontece para evitar perdas ou transferências indevidas enquanto o problema é resolvido junto aos fornecedores externos.",
+  "observar": "Fique atento às atualizações oficiais do Nubank e Mercado Pago para saber quando as operações serão normalizadas e acompanhe notícias sobre a segurança no setor de criptomoedas.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicar como instabilidades técnicas e sistemas de segurança afetam o uso de cripto ajuda o seguidor a entender riscos e proteger investimentos, mostrando o valor de um aprendizado estruturado no mercado financeiro.",
+  "gancho": "*Criptomoedas* bloqueadas temporariamente",
+  "ideias": [
+   "Por que Nubank e Mercado Pago suspenderam saques em criptomoedas?",
+   "Como instabilidades em fornecedores impactam suas operações de cripto",
+   "Entenda o que fazer quando sua corretora suspende serviços"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "cadeado",
+  "fonte": "Folha Mercado; Valor Econômico; CNN Brasil",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T13:56:28-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/nubank-e-mercado-pago-suspendem-saques-e-depositos-de-criptomoedas-entenda.shtml",
+  "publicadoEm": "2026-11-06T13:39:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-01"
+ },
+ {
+  "titulo": "Payroll dos EUA surpreende e reforça expectativa de alta dos juros",
+  "resumo": "Economia dos EUA criou 165 mil empregos em outubro, acima das 70 mil previstas. Taxa de desemprego caiu para 4,1%, indicando resiliência do mercado de trabalho, segundo economista do ASA.",
+  "fatos": [
+   "165 mil empregos criados em outubro de 2026 nos EUA.",
+   "Expectativa do mercado era de 70 mil vagas naquele mês.",
+   "Taxa de desemprego caiu de 4,2% para 4,1%.",
+   "Salário por hora aumentou 0,4% no mês e 3,1% em 12 meses.",
+   "Revisões de agosto e setembro acrescentaram 84 mil vagas.",
+   "Média móvel trimestral de criação de empregos chegou a 137 mil.",
+   "Setor de serviços profissionais e empresariais gerou 70 mil empregos.",
+   "Taxa U-6 subiu de 7,6% para 7,9%, com acréscimo de 339 mil trabalhadores em tempo parcial involuntário.",
+   "Federal Reserve pode elevar juros novamente em dezembro."
+  ],
+  "explicacao": [
+   "Em outubro de 2026, os Estados Unidos geraram 165 mil novas vagas de emprego, mais que o dobro das 70 mil esperadas pelo mercado. A taxa de desemprego recuou de 4,2% para 4,1%, enquanto os salários por hora tiveram aumento de 0,4% no mês, com alta acumulada de 3,1% em 12 meses.",
+   "As revisões positivas nos dados de agosto e setembro acrescentaram 84 mil vagas às estimativas anteriores, elevando a média trimestral de empregos criados para 137 mil. Os serviços profissionais e empresariais foram o setor que mais contratou, com 70 mil novas vagas em outubro.",
+   "Essa evolução reforça a percepção de que o mercado de trabalho americano permanece resiliente, contrariando sinais de enfraquecimento observados em setembro. Ainda assim, a taxa de desemprego ampliada U-6 subiu de 7,6% para 7,9%, devido ao aumento de 339 mil trabalhadores atuando em tempo parcial involuntário.",
+   "Com esses resultados, especialistas do ASA avaliam haver espaço para o Federal Reserve realizar uma nova alta na taxa de juros em dezembro, mantendo o foco no combate à inflação diante do cenário robusto de emprego e crescimento salarial."
+  ],
+  "detalhes": [
+   "A criação de 165 mil empregos superou em mais de 130% a previsão do mercado de 70 mil vagas.",
+   "A média móvel trimestral avançou para 137 mil graças às revisões positivas e à criação de empregos de outubro.",
+   "Destaque para o crescimento de 70 mil vagas no setor de serviços profissionais e empresariais.",
+   "Apesar da queda da taxa oficial de desemprego, a taxa ampliada U-6, que mede subutilização, subiu para 7,9%.",
+   "A alta do índice U-6 aponta aumento no número de trabalhadores com jornada reduzida por falta de oportunidade.",
+   "Os salários por hora cresceram 0,4% somente em outubro, impactando diretamente o consumo e a inflação.",
+   "A análise do ASA prevê que esses dados sustentam a possibilidade de aumento dos juros pelo Fed em dezembro."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Andressa Durão, economista do ASA",
+    "oque": "O payroll reduz preocupações sobre fraqueza no emprego após dado fraco de setembro."
+   },
+   {
+    "quem": "Andressa Durão, economista do ASA",
+    "oque": "Alta dos empregos e revisões indicam resiliência da economia americana."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Estados Unidos criaram 165 mil empregos, acima das expectativas."
+   },
+   {
+    "quando": "Agosto e setembro de 2026",
+    "oque": "Revisões positivas somaram 84 mil vagas aos dados originais."
+   },
+   {
+    "quando": "Dezembro de 2026 (previsto)",
+    "oque": "Federal Reserve pode aumentar juros novamente."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Payroll",
+    "significado": "Relatório mensal que mostra empregos criados nos EUA."
+   },
+   {
+    "termo": "Taxa U-6",
+    "significado": "Mede desemprego e subutilização da força de trabalho."
+   },
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos Estados Unidos responsável pela política monetária."
+   }
+  ],
+  "pergunta": "Você acha que a alta dos empregos nos EUA vai impactar o câmbio e os juros no Brasil?",
+  "tamanhoTexto": 13960,
+  "numeros": [
+   {
+    "valor": "165.000",
+    "rotulo": "Empregos criados em outubro nos EUA"
+   },
+   {
+    "valor": "70.000",
+    "rotulo": "Previsão do mercado para empregos em outubro"
+   },
+   {
+    "valor": "4,1%",
+    "rotulo": "Taxa de desemprego em outubro"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Crescimento dos salários por hora em outubro"
+   },
+   {
+    "valor": "3,1%",
+    "rotulo": "Alta salarial acumulada em 12 meses"
+   },
+   {
+    "valor": "7,9%",
+    "rotulo": "Taxa ampliada U-6 de desemprego"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa de desemprego",
+    "antes": "4,2%",
+    "depois": "4,1%"
+   },
+   {
+    "item": "Taxa U-6 ampliada",
+    "antes": "7,6%",
+    "depois": "7,9%"
+   }
+  ],
+  "destaque": "165 mil empregos",
+  "porQueImporta": "O relatório de empregos força a reavaliação do cenário econômico e das decisões do Federal Reserve. Um mercado de trabalho mais aquecido pode aumentar as chances de alta dos juros para conter a inflação, impactando vários ativos financeiros e estratégias de investimento.",
+  "impactoMercado": "A surpresa positiva no payroll reforça a expectativa de aumento da taxa de juros pelo Fed em dezembro, o que pode influenciar o dólar, os juros futuros e o comportamento de ativos americanos e globais, além de afetar o sentimento em mercados de risco como ações e criptomoedas.",
+  "entenda": "O payroll é o relatório mensal que mede o número de empregos criados nos EUA, importante para indicar a saúde do mercado de trabalho. Taxas como a desemprego U-3 e a ampliada U-6 avaliam impactos diferentes no emprego. O Fed usa esses dados para ajustar a política de juros visando controlar a inflação.",
+  "observar": "Acompanhe o anúncio da decisão de juros do Federal Reserve em dezembro e os próximos relatórios de emprego para verificar a continuidade da tendência do mercado de trabalho americano.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entender como dados do payroll influenciam a política monetária e os juros é fundamental para quem opera no mercado. Essa notícia mostra claramente o papel dos indicadores econômicos para decisões do Fed e como isso afeta ativos globais, complementando a",
+  "gancho": "*Payroll* dos EUA surpreende mercado",
+  "ideias": [
+   "O que é o payroll e por que ele importa para seu investimento?",
+   "Entenda a relação entre empregos nos EUA e alta dos juros pelo Fed",
+   "Como os dados de emprego impactam o dólar e o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "BP Money; Valor Econômico; Exame",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T13:56:28-03:00",
+  "url": "https://bpmoney.com.br/economia/analise-payroll-dos-eua-surpreende-e-reforca-expectativa-de-alta-dos-juros/",
+  "publicadoEm": "2026-11-06T12:52:56-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-02"
+ },
+ {
+  "titulo": "InfoMoney lança hub com calculadora para comparar ganhos CLT e PJ",
+  "resumo": "InfoMoney inaugura hub com simuladores financeiros, incluindo calculadora para comparar ganhos CLT e PJ. Ferramentas auxiliam no planejamento e acompanhamento do mercado.",
+  "fatos": [
+   "Lançamento da nova área de ferramentas em 6/11/2026 pelo InfoMoney.",
+   "Presença da Calculadora de Juros Compostos para simulações de rendimento.",
+   "Disponibilidade da Calculadora CLT x PJ para comparação financeira dos regimes de trabalho.",
+   "Inclui comparação de produtos de renda fixa, fundos de investimento e fundos imobiliários.",
+   "Oferece carteira para monitorar cotações e variações de ações escolhidas.",
+   "Ferramentas também englobam consultas a ações, índices, câmbio, criptomoedas e juros futuros.",
+   "Calendário econômico e dados de inflação compõem o conjunto do hub.",
+   "Objetivo de atender diversas etapas da jornada financeira, do planejamento pessoal à análise de produtos.",
+   "Hub reúne simuladores, comparadores e ferramentas para acompanhar o mercado em um só espaço."
+  ],
+  "explicacao": [
+   "O InfoMoney lançou em 6 de novembro de 2026 uma nova área de ferramentas, reunindo simuladores e calculadoras para facilitar o acompanhamento financeiro e de mercado, tudo em um único hub digital.",
+   "Entre as novidades, destacam-se a Calculadora de Juros Compostos, que permite simular o rendimento de investimentos, e a Calculadora CLT x PJ, que ajuda a comparar os ganhos financeiros entre os regimes de trabalho CLT e PJ.",
+   "Esses recursos tiram dúvidas práticas, como o rendimento futuro de valores investidos e qual regime de contratação pode ser financeiramente mais vantajoso, oferecendo apoio na tomada de decisão pessoal e profissional.",
+   "Além disso, o hub oferece comparadores de produtos financeiros, carteira para monitorar ações e índices, e um calendário econômico para acompanhar indicadores importantes para o mercado financeiro."
+  ],
+  "detalhes": [
+   "InfoMoney é o maior ecossistema de conteúdo financeiro do Brasil.",
+   "A área de ferramentas é um hub digital com múltiplas soluções financeiras.",
+   "A calculadora CLT x PJ visa ajudar avaliação de opções de contratação.",
+   "O hub inclui recursos para monitoramento de ativos na B3 e câmbio.",
+   "O lançamento ocorreu em 6 de novembro de 2026.",
+   "Usuários podem simular ganhos e comparar alternativas financeiras online.",
+   "Informações para planejamento financeiro e decisões de investimento são facilitadas."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "InfoMoney lança hub com calculadoras financeiras"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CLT",
+    "significado": "Contrato de trabalho formal com carteira assinada"
+   },
+   {
+    "termo": "PJ",
+    "significado": "Contratação como pessoa jurídica, sem vínculo CLT"
+   },
+   {
+    "termo": "Juros Compostos",
+    "significado": "Rendimento acumulado sobre principal mais juros anteriores"
+   }
+  ],
+  "pergunta": "Você já comparou seus ganhos como CLT e PJ com alguma ferramenta?",
+  "tamanhoTexto": 7860,
+  "numeros": [
+   {
+    "valor": "6/11/2026",
+    "rotulo": "data de lançamento do hub InfoMoney"
+   },
+   {
+    "valor": "1",
+    "rotulo": "nova área de ferramentas reunida em um único hub"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Lançamento de hub",
+  "porQueImporta": "Esse lançamento facilita a vida de quem quer entender como diferentes regimes de trabalho impactam financeiramente, além de oferecer ferramentas para planejamento e acompanhamento do mercado, essenciais para decisões mais informadas.",
+  "impactoMercado": "Ao reunir simuladores e comparadores em um único espaço, o hub pode aumentar o engajamento dos investidores, ajudando-os a analisar produtos financeiros e monitorar o mercado, influenciando a forma como tomam decisões sobre ativos e contratações.",
+  "entenda": "A Calculadora CLT x PJ auxilia a comparar ganhos líquidos entre empregos com carteira assinada e contratos de pessoa jurídica, levando em conta impostos e benefícios. Já a Calculadora de Juros Compostos mostra como um investimento cresce ao longo do tempo, importantíssimo para planejamento financeiro.",
+  "observar": "Fique de olho na utilização do hub para comparar seus ganhos e simular investimentos; atualização constante do calendário econômico pode impactar suas decisões.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa novidade do InfoMoney proporciona um aprendizado prático e direto sobre finanças pessoais e mercado, despertando interesse para aprofundar esse conhecimento na faculdade de mercado financeiro.",
+  "gancho": "*Calculadoras* para *ganhos* CLT e PJ",
+  "ideias": [
+   "Como usar a calculadora CLT x PJ do InfoMoney",
+   "Simule seus investimentos com a Calculadora de Juros Compostos",
+   "Conheça o novo hub do InfoMoney para acompanhar o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "grafico",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T13:56:28-03:00",
+  "url": "https://www.infomoney.com.br/minhas-financas/clt-ou-pj-veja-como-comparar-os-ganhos-na-nova-area-de-calculadoras-do-infomoney/",
+  "publicadoEm": "2026-11-06T13:52:19-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-03"
+ },
+ {
+  "titulo": "Western Union registra salto de 21% nas transações digitais no 3º tri de 2026",
+  "resumo": "A Western Union cresceu 21% nas transações digitais no terceiro trimestre de 2026, mas receita total caiu 2%, e lucro recuou 44%. A transformação digital avança, mas não compensou o menor volume presencial.",
+  "fatos": [
+   "Crescimento de 21% nas transações digitais no 3º trimestre de 2026",
+   "Receita total caiu 2%, atingindo US$ 1,01 bilhão no período",
+   "Lucro líquido recuou 44%, para US$ 78 milhões",
+   "Despesas operacionais subiram 6%, influenciadas pelo programa Beyond",
+   "Margem operacional contábil caiu de 20% para 13%",
+   "Segmento digital representa 45% das transações e 32% da receita",
+   "Lucro por ação caiu de US$ 0,43 para US$ 0,25",
+   "Lucro líquido ajustado caiu 13,7%, para US$ 130,5 milhões",
+   "Aquisição da Intermex aguarda liberação regulatória na Califórnia",
+   "Projeções de receita variam entre retração de 2% e crescimento de 1% dependendo da aquisição"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a Western Union teve um aumento de 21% no número de transações digitais, mostrando a maior adesão dos clientes às plataformas online para enviar dinheiro internacionalmente. Apesar disso, a receita total da empresa caiu 2%, totalizando US$ 1,01 bilhão.",
+   "O crescimento digital não compensou a queda das operações presenciais, que ainda têm participação significativa, principalmente na América do Norte. As despesas operacionais aumentaram 6%, pressionando o lucro líquido, que caiu 44% para US$ 78 milhões devido também a custos ligados à reestruturação.",
+   "A diferença entre o alto volume digital e receita menor nesse segmento demonstra que aumentar a rentabilidade desses serviços é o desafio atual da companhia. A Western Union aposta em inteligência artificial e ativos digitais, como stablecoins, para impulsionar sua transformação.",
+   "A empresa ainda aguarda a aprovação regulatória para concluir a compra da Intermex, o que pode influenciar positivamente seu desempenho em 2026, podendo levar receita a crescer até 1%. Sem essa aquisição, a expectativa é de leve retração nas receitas."
+  ],
+  "detalhes": [
+   "O crescimento digital ocorre enquanto as operações presenciais perdem mercado, principalmente na América do Norte",
+   "O programa Beyond visa simplificar a estrutura da companhia e reduzir custos futuros",
+   "BDR WUNI34 permite exposição ao mercado americano pela B3 no Brasil",
+   "O aumento das despesas incluiu custos extraordinários ligados à reestruturação",
+   "A receita do segmento Branded Digital cresceu 8% versus 2025",
+   "A transação para comprar a Intermex está pendente por questão regulatória na Califórnia",
+   "Lucro ajustado é menor que o contábil por causa de ajustes extraordinários"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Devin McGranahan, presidente e CEO da Western Union",
+    "oque": "Destacou os investimentos digitais e uso de inteligência artificial para melhorar processos"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Divulgação do balanço do terceiro trimestre da Western Union"
+   },
+   {
+    "quando": "2025",
+    "oque": "Anúncio da aquisição da Intermex pela Western Union"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "BDR",
+    "significado": "Recibo de ações estrangeiras negociado no Brasil"
+   },
+   {
+    "termo": "Stablecoin",
+    "significado": "Criptoativo atrelado a moedas tradicionais para estabilidade"
+   },
+   {
+    "termo": "Lucro líquido ajustado",
+    "significado": "Lucro excluindo efeitos extraordinários e ajustes"
+   }
+  ],
+  "pergunta": "Você já usou ou conhece algum serviço de transferência digital como a Western Union?",
+  "tamanhoTexto": 5632,
+  "numeros": [
+   {
+    "valor": "21%",
+    "rotulo": "Crescimento nas transações digitais no 3º trimestre de 2026"
+   },
+   {
+    "valor": "US$ 1,01 bilhão",
+    "rotulo": "Receita total no 3º trimestre de 2026"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "Queda do lucro líquido no 3º trimestre de 2026"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "Aumento nas despesas operacionais"
+   },
+   {
+    "valor": "20% para 13%",
+    "rotulo": "Queda da margem operacional contábil"
+   },
+   {
+    "valor": "US$ 0,25",
+    "rotulo": "Lucro por ação no 3º trimestre de 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "21% crescimento em",
+  "porQueImporta": "Entender a mudança da Western Union para canais digitais mostra como empresas financeiras se adaptam às preferências do consumidor e às pressões operacionais, importantes para acompanhar a rentabilidade e riscos de ações e BDRs como o WUNI34.",
+  "impactoMercado": "O crescimento digital pode influenciar setores de tecnologia financeira, enquanto a queda nas receitas presenciais e aumento de custos podem afetar o resultado e o preço dos ativos da Western Union, em especial sua presença via BDR no mercado brasileiro.",
+  "entenda": "As transações digitais são movimentações feitas pela internet ou aplicativos móveis, que crescem pela facilidade ao consumidor. Stablecoins são moedas digitais vinculadas a moedas tradicionais, usadas para transferências internacionais rápidas e estáveis.",
+  "observar": "Acompanhe o desenvolvimento da aquisição da Intermex e próximos balanços para avaliar impacto na receita e lucro da Western Union, além da evolução das despesas relacionadas ao programa Beyond.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra a transformação digital na Western Union, revelando tendências do mercado financeiro e desafios de rentabilidade, temas essenciais para quem quer entender ou investir na área.",
+  "gancho": "*Western Union* e a transformação *digital*",
+  "ideias": [
+   "Como as transações digitais mudam a Western Union",
+   "Por que lucro da Western Union caiu apesar do crescimento digital",
+   "BDR WUNI34: o que o balanço do 3º tri de 2026 revela"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Suno Notícias",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T13:56:28-03:00",
+  "url": "https://www.suno.com.br/noticias/western-union-wuni34-bdr/",
+  "publicadoEm": "2026-11-06T13:31:47-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-04"
+ },
+ {
+  "titulo": "Vitória democrata pressiona secretário de Defesa dos EUA, Pete Hegseth",
+  "resumo": "Após derrota republicana nas eleições de meio de mandato em 3/11/2026, aliados de Trump culpam Pete Hegseth pela guerra contra o Irã. Há pressão por impeachment do secretário do Pentágono, acusado de manter conflito sem autorização do Congresso.",
+  "fatos": [
+   "Eleições de meio de mandato em 3 de novembro de 2026 com vitória democrata.",
+   "Deputado Thomas Massie lidera pedido de impeachment contra Pete Hegseth.",
+   "Hegseth acusado de manter guerra contra Irã sem autorização do Congresso.",
+   "Guerra começou em 28 de fevereiro de 2026 entre EUA, Israel e Irã.",
+   "Custo estimado da guerra chegou a US$ 47,1 bilhões em outubro de 2026.",
+   "Pedido de verbas adicionais para guerra soma US$ 67,1 bilhões.",
+   "Democratas assumem maioria no Congresso em janeiro de 2027.",
+   "Trump mantém apoio público a Hegseth e à ofensiva contra o Irã.",
+   "Pesquisa Reuters/Ipsos mostra 48% dos eleitores citando custo de vida como maior preocupação."
+  ],
+  "explicacao": [
+   "Na eleição de meio de mandato dos EUA, em 3 de novembro de 2026, o Partido Democrata conquistou a maioria no Congresso, enfraquecendo os republicanos aliados de Donald Trump. O resultado foi atribuído amplamente ao descontentamento com a guerra contra o Irã, conflito defendido pelo secretário de Defesa, Pete Hegseth.",
+   "A culpa por essa derrota foi direcionada a Hegseth por parlamentares como o deputado Thomas Massie. Eles acusam o secretário de violar a Resolução dos Poderes de Guerra de 1973, mantendo hostilidades contra o Irã por mais de 90 dias sem autorização do Congresso, e já solicitam o seu impeachment.",
+   "A guerra, iniciada em fevereiro de 2026 entre EUA e Israel contra o Irã, não tem previsão de fim e acumulou um custo estimado de US$ 47,1 bilhões em outubro, quase o dobro do registrado em abril. O impacto financeiro afetou a população americana, influenciando os votos contra os republicanos.",
+   "Enquanto os democratas assumem o controle em janeiro, o processo de impeachment depende da Câmara, hoje ainda controlada por republicanos. Pete Hegseth reafirma sua postura firme na guerra, respaldado pelo presidente Trump e pelo Pentágono, que negam recuar diante da pressão política."
+  ],
+  "detalhes": [
+   "O processo de impeachment precisa de maioria simples na Câmara e dois terços no Senado.",
+   "Segundo impeachment contra Hegseth já havia sido apresentado por democratas em 2025 e 2026.",
+   "Relatório do Pentágono indicou violação de normas por Hegseth ao divulgar horários de ataques.",
+   "Custo da guerra inclui US$ 30 bilhões só em munições usadas até outubro de 2026.",
+   "Pressão política ocorre em meio à falta de sinais de rendição do Irã.",
+   "A guerra gerou alta nos combustíveis após fechamento do Estreito de Ormuz.",
+   "Vice-presidente J.D. Vance atribui derrota republicana aos efeitos da guerra."
+  ],
+  "declaracoes": [
+   {
+    "quem": "deputado Thomas Massie",
+    "oque": "Promete forçar votação de impeachment contra Hegseth quando o Congresso retomar sessões."
+   },
+   {
+    "quem": "porta-voz do Pentágono, Sean Parnell",
+    "oque": "Afirmou que Hegseth não vai recuar ou se intimidar por políticos."
+   },
+   {
+    "quem": "secretário de Defesa, Pete Hegseth",
+    "oque": "Disse que não vai recuar, seguindo a mesma posição do presidente Trump."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "28 de fevereiro de 2026",
+    "oque": "Início da guerra entre EUA, Israel e Irã."
+   },
+   {
+    "quando": "15 de setembro de 2026",
+    "oque": "Deputado Massie apresentou pedido de impeachment contra Hegseth."
+   },
+   {
+    "quando": "3 de novembro de 2026",
+    "oque": "Vitória democrata nas eleições de meio de mandato."
+   },
+   {
+    "quando": "Próxima semana após 4 de novembro",
+    "oque": "Retorno do Congresso para votar possível impeachment."
+   },
+   {
+    "quando": "Janeiro de 2027",
+    "oque": "Democratas assumem maioria no Congresso."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Impeachment",
+    "significado": "Processo para afastar um governante acusado de ilegalidades."
+   },
+   {
+    "termo": "Resolução dos Poderes de Guerra",
+    "significado": "Lei que limita ações militares do governo sem autorização do Congresso."
+   },
+   {
+    "termo": "Pentágono",
+    "significado": "Sede do Departamento de Defesa dos Estados Unidos."
+   }
+  ],
+  "pergunta": "Como o conflito com o Irã pode afetar seus investimentos e custos no dia a dia?",
+  "tamanhoTexto": 4585,
+  "numeros": [
+   {
+    "valor": "3 de novembro de 2026",
+    "rotulo": "Data da eleição de meio de mandato nos EUA"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "Tempo da guerra contra o Irã sem autorização do Congresso"
+   },
+   {
+    "valor": "US$ 47,1 bilhões",
+    "rotulo": "Custo estimado da guerra enviado em outubro ao Congresso"
+   },
+   {
+    "valor": "US$ 67,1 bilhões",
+    "rotulo": "Pedido de verbas suplementares para guerra pelo Pentágono"
+   },
+   {
+    "valor": "48%",
+    "rotulo": "Eleitores que apontaram custo de vida como principal preocupação"
+   },
+   {
+    "valor": "750",
+    "rotulo": "Dólares perdidos por domicílio americano pela guerra e alta de combustíveis"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 47,1 bilhões",
+  "porQueImporta": "A pressão política sobre o secretário de Defesa americano reflete o impacto direto de decisões militares no cenário eleitoral e econômico, afetando a estabilidade política e os gastos públicos, elementos fundamentais para investidores acompanharem riscos e oportunidades de mercado.",
+  "impactoMercado": "O prolongamento e custo elevado da guerra aumentam a incerteza política, influenciando setores ligados a defesa e energia, além de afetar o comportamento do dólar e da renda fixa diante de maior gasto público e possível instabilidade no cenário global.",
+  "entenda": "Impeachment é um processo político para destituir autoridades acusadas de ilegalidades. A Resolução dos Poderes de Guerra exige autorização do Congresso para ações militares prolongadas, o que impacta decisões de governo e, consequentemente, o mercado financeiro.",
+  "observar": "Acompanhe a retomada das sessões do Congresso na próxima semana para votação do impeachment e a posse dos democratas em janeiro, eventos que podem definir a condução da guerra e a estabilidade política dos EUA.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Esta notícia mostra como decisões políticas e militares influenciam o mercado e eleições, despertando o interesse por entender temas como impeachment, políticas de guerra e seus efeitos econômicos, que a faculdade de mercado aborda de forma prática.",
+  "gancho": "Conflito, *Impeachment* e *Mercado*",
+  "ideias": [
+   "Entenda o pedido de impeachment contra Pete Hegseth",
+   "Guerra EUA-Irã: impactos econômicos e políticos explicados",
+   "Como eleições influenciam decisões militares e mercados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T13:56:28-03:00",
+  "url": "https://www.infomoney.com.br/mundo/vitoria-democrata-nos-eua-pressiona-secretario-de-defesa-pete-hegseth-entenda/",
+  "publicadoEm": "2026-11-06T13:23:02-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-05"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bank-of-england-decision-in-december-2026",
+  "titulo": "Mercado de previsões vê 54% de chance de estabilidade nas taxas pelo Banco da Inglaterra em dezembro",
+  "resumo": "A decisão sobre taxas do Banco da Inglaterra é amplamente esperada pelos apostadores no próximo mês.",
+  "probs": [
+   {
+    "opcao": "Sem alteração",
+    "prob": 54.0
+   },
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 44.0
+   },
+   {
+    "opcao": "Redução de 50+ bps",
+    "prob": 0.1
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2026-12-17",
+  "volume24h": "US$ 21 mil",
+  "fatos": [
+   "Sem alteração: 54,0%",
+   "Aumento de 25 bps: 44,0%",
+   "Redução de 50+ bps: 0,1%",
+   "Redução de 25 bps: 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "54,0%",
+    "rotulo": "Sem alteração"
+   },
+   {
+    "valor": "44,0%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "destaque": "54,0%",
+  "gancho": "*Expectativa* de decisão cautelosa",
+  "entenda": "As decisões de taxas do Banco da Inglaterra influenciam o valor da libra esterlina e os investimentos no Reino Unido.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bank-of-england-decision-in-december-2026",
+  "publicadoEm": "2026-11-06T13:56:28-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-06T13:56:28-03:00",
+  "data": "2026-11-06",
+  "status": "nova",
+  "id": "2026-11-06-p1"
+ },
+ {
   "titulo": "Dólar sobe perto de R$ 5,49 com Instabilidade e Selic mantida",
   "resumo": "Dólar fechou a R$ 5,488 em alta de 0,67% nesta quinta-feira (5), diante de aversão ao risco global e manutenção da Selic em 13,75%. Ibovespa caiu 0,82%, refletindo perdas em ações de tecnologia e discussões sobre política econômica.",
   "fatos": [
@@ -3470,53 +4158,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-december-20260729232808632",
-  "titulo": "Mercado de previsões vê 67,5% de chance de aumento de 25 bps pelo Fed em dezembro",
-  "resumo": "Aprobabilidades mostradas refletem o que os apostadores acreditam sobre a decisão do Fed, não uma previsão oficial.",
+  "titulo": "Mercado de previsões vê 77,5% de chance de aumento de 25 bps pelo Fed em dezembro",
+  "resumo": "Apostadores acreditam que um aumento de 25 bps é o mais provável na próxima reunião do Fed.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 67.5
+    "prob": 77.5
    },
    {
     "opcao": "Sem alteração",
-    "prob": 30.5
+    "prob": 20.5
    },
    {
     "opcao": "Redução de 25 bps",
-    "prob": 0.9
+    "prob": 0.7
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 0.7
+    "prob": 0.5
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 1,8 mi",
+  "volume24h": "US$ 2,0 mi",
   "fatos": [
-   "Aumento de 25 bps: 67,5%",
-   "Sem alteração: 30,5%",
-   "Redução de 25 bps: 0,9%",
-   "Aumento de 50+ bps: 0,7%"
+   "Aumento de 25 bps: 77,5%",
+   "Sem alteração: 20,5%",
+   "Redução de 25 bps: 0,7%",
+   "Aumento de 50+ bps: 0,5%"
   ],
   "numeros": [
    {
-    "valor": "67,5%",
+    "valor": "77,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "30,5%",
+    "valor": "20,5%",
     "rotulo": "Sem alteração"
    },
    {
-    "valor": "0,9%",
+    "valor": "0,7%",
     "rotulo": "Redução de 25 bps"
    },
    {
-    "valor": "0,7%",
+    "valor": "0,5%",
     "rotulo": "Aumento de 50+ bps"
    }
   ],
-  "destaque": "67,5%",
+  "destaque": "77,5%",
   "gancho": "*Expectativa* alta de aumento de juros",
   "entenda": "O Fed define as taxas de juros que influenciam a economia. Aumento pode indicar luta contra a inflação.",
   "categoria": "Previsões",
@@ -3531,7 +4219,7 @@
   "data": "2026-11-04",
   "status": "atualizada",
   "id": "2026-11-04-p1",
-  "atualizadoEm": "2026-11-05T14:40:07-03:00"
+  "atualizadoEm": "2026-11-06T13:56:28-03:00"
  },
  {
   "titulo": "Dólar cai e Ibovespa sobe após vitória democrata no Congresso dos EUA",
@@ -5990,71 +6678,6 @@
   "publicadoEm": "2026-11-03T10:30:57-03:00",
   "data": "2026-11-03",
   "id": "2026-11-03-25"
- },
- {
-  "tipo": "sinal",
-  "slug": "bank-of-england-decision-in-november-20260730150602252",
-  "titulo": "Mercado de previsões vê 98,6% de chance de aumento de 25 bps na taxa do Banco da Inglaterra",
-  "resumo": "A expectativa de aumento nas taxas reflete a percepção dos investidores sobre a economia britânica.",
-  "probs": [
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 98.6
-   },
-   {
-    "opcao": "Sem alteração",
-    "prob": 1.2
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 0.4
-   },
-   {
-    "opcao": "Redução de 50+ bps",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2026-11-05",
-  "volume24h": "US$ 21 mil",
-  "fatos": [
-   "Aumento de 25 bps: 98,6%",
-   "Sem alteração: 1,2%",
-   "Aumento de 50+ bps: 0,4%",
-   "Redução de 50+ bps: 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "98,6%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "1,2%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Redução de 50+ bps"
-   }
-  ],
-  "destaque": "98,6%",
-  "gancho": "*Expectativa* alta de aumento",
-  "entenda": "O aumento das taxas pelo Banco da Inglaterra visa controlar a inflação e ajustar a política monetária do país.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bank-of-england-decision-in-november-20260730150602252",
-  "publicadoEm": "2026-11-03T14:21:50-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-03T14:21:50-03:00",
-  "data": "2026-11-03",
-  "status": "nova",
-  "id": "2026-11-03-p1"
  },
  {
   "titulo": "Piora na percepção de risco pós-eleição pressiona BC a interromper cortes na Selic",
@@ -9418,35 +10041,35 @@
  {
   "tipo": "sinal",
   "slug": "another-fed-rate-hike-in-2026",
-  "titulo": "Mercado de previsões vê 66% de chance de novo aumento de juros pelo Fed em 2026",
-  "resumo": "Essas probabilidades apreendem as expectativas dos apostadores sobre as ações do Fed, não uma previsão oficial.",
+  "titulo": "Mercado de previsões vê 76% de chance de mais um aumento de juros pelo Fed em 2026",
+  "resumo": "Expectativa de outra alta nas taxas de juros é alta entre os apostadores.",
   "probs": [
    {
     "opcao": "Sim",
-    "prob": 66.0
+    "prob": 76.0
    },
    {
     "opcao": "Não",
-    "prob": 34.0
+    "prob": 24.0
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 68 mil",
+  "volume24h": "US$ 80 mil",
   "fatos": [
-   "Sim: 66,0%",
-   "Não: 34,0%"
+   "Sim: 76,0%",
+   "Não: 24,0%"
   ],
   "numeros": [
    {
-    "valor": "66,0%",
+    "valor": "76,0%",
     "rotulo": "Sim"
    },
    {
-    "valor": "34,0%",
+    "valor": "24,0%",
     "rotulo": "Não"
    }
   ],
-  "destaque": "66,0%",
+  "destaque": "76,0%",
   "gancho": "*Nova alta* no horizonte",
   "entenda": "A probabilidade de um novo aumento na taxa de juros sugere que a política monetária poderá permanecer restritiva, impactando o mercado financeiro.",
   "categoria": "Previsões",
@@ -9461,73 +10084,7 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p5",
-  "atualizadoEm": "2026-11-05T14:40:07-03:00"
- },
- {
-  "tipo": "sinal",
-  "slug": "bank-of-mexico-decision-in-november",
-  "titulo": "Mercado de previsões vê 77,5% de chance de manutenção de taxa pelo Banco do México em novembro",
-  "resumo": "A expectativa de estabilidade pode indicar confiança na atual política monetária e na economia mexicana.",
-  "probs": [
-   {
-    "opcao": "sem mudança",
-    "prob": 77.5
-   },
-   {
-    "opcao": "redução de 25 bps",
-    "prob": 23.2
-   },
-   {
-    "opcao": "redução de 50+ bps",
-    "prob": 0.1
-   },
-   {
-    "opcao": "aumento de 25 bps",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2026-11-05",
-  "volume24h": "US$ 56 mil",
-  "fatos": [
-   "sem mudança: 77,5%",
-   "redução de 25 bps: 23,2%",
-   "redução de 50+ bps: 0,1%",
-   "aumento de 25 bps: 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "77,5%",
-    "rotulo": "sem mudança"
-   },
-   {
-    "valor": "23,2%",
-    "rotulo": "redução de 25 bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "redução de 50+ bps"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "aumento de 25 bps"
-   }
-  ],
-  "destaque": "77,5%",
-  "gancho": "*Taxa estável* em vista",
-  "entenda": "O consenso de que o Banco do México deve manter os juros aponta para uma perspectiva de estabilidade econômica no país.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bank-of-mexico-decision-in-november",
-  "publicadoEm": "2026-11-02T16:48:19-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-02T16:48:19-03:00",
-  "data": "2026-11-02",
-  "status": "atualizada",
-  "id": "2026-11-02-p6",
-  "atualizadoEm": "2026-11-04T22:48:05-03:00"
+  "atualizadoEm": "2026-11-06T13:56:28-03:00"
  },
  {
   "tipo": "sinal",
