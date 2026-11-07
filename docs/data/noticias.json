@@ -1,5 +1,271 @@
 [
  {
+  "titulo": "Dólar fecha em alta e maior valor desde dezembro de 2025 com payroll dos EUA",
+  "resumo": "O dólar fechou a sexta-feira (6) a R$ 5,5087, maior valor desde dezembro de 2025, com alta de 0,37%. Na semana, subiu 1,18%, influenciado por dados fortes do mercado de trabalho dos EUA e cautela na política fiscal brasileira.",
+  "fatos": [
+   "Dólar fechou a R$ 5,5087 na sexta (6), alta de 0,37%",
+   "Valor de fechamento mais alto desde 30 de dezembro de 2025",
+   "Dólar subiu 1,18% na semana",
+   "Relatório de emprego dos EUA indicou criação de 165 mil vagas, acima das 65 mil previstas",
+   "Taxa de desemprego dos EUA recuou em outubro",
+   "Índice DXY do dólar global avançou 0,76%, aos 102,31 pontos",
+   "Maxima diária do dólar no Brasil foi R$ 5,5345",
+   "Ibovespa fechou em alta de 1,39%, aos 168.498,45 pontos",
+   "Setores de bancos, varejo e mineração apoiaram a recuperação do índice",
+   "Petrobras e Natura tiveram quedas após avanço do Ibovespa"
+  ],
+  "explicacao": [
+   "O dólar à vista encerrou o pregão de sexta (6) cotado a R$ 5,5087, subindo 0,37% e alcançando o maior fechamento desde 30 de dezembro de 2025. Na semana, a moeda teve alta acumulada de 1,18%, acompanhando a valorização global do dólar.",
+   "O principal motivo do avanço foi a divulgação do relatório de empregos dos EUA, o payroll, que mostrou criação de 165 mil vagas muito acima das 65 mil esperadas e uma queda da taxa de desemprego. Isso reforçou a ideia de um mercado de trabalho americano resiliente.",
+   "Esse cenário fortaleceu as expectativas de uma nova alta na taxa básica de juros americana pelo Fed em dezembro, pressionando o dólar para cima. Além disso, no Brasil, investidores permaneceram cautelosos diante dos próximos passos da política fiscal do governo Lula 4.",
+   "A moeda chegou a atingir máxima intradiária de R$ 5,5345 devido a essa combinação de fatores externos e domésticos. Para as próximas sessões, o mercado vai monitorar dados econômicos nos EUA e sinais sobre ajustes fiscais no Brasil, influenciando a direção do câmbio."
+  ],
+  "detalhes": [
+   "A alta do dólar ocorreu no mercado à vista brasileiro",
+   "O relatório payroll reforça a expectativa de alta de juros pelo Fed na reunião de dezembro",
+   "Investidores brasileiros estão cautelosos diante da política fiscal do governo Lula 4",
+   "Ibovespa recuperou perdas da semana com auxílio de ações de tecnologia e bancos",
+   "A Vale (VALE3) subiu 2,19%, mesmo com estabilidade na cotação do minério na China",
+   "Petrobras (PETR3 e PETR4) fecharam no vermelho com queda de 1,10% e 1,28%, respectivamente",
+   "O índice financeiro (setor bancário) registrou alta de 1,85% no fim do pregão"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Vinicius Flores, gestor de investimentos e sócio da Stratton Capital",
+    "oque": "Os dados do payroll confirmam que a economia dos EUA está acelerando."
+   },
+   {
+    "quem": "Luca Girardi, analista de investimentos da Nomad",
+    "oque": "O payroll reforçou a leitura de um mercado de trabalho resiliente e potencial aumento dos juros pelo Fed."
+   },
+   {
+    "quem": "Presidente Luiz Inácio Lula da Silva",
+    "oque": "O governo pretende manter responsabilidade fiscal com foco social no próximo mandato."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Dólar fecha a R$ 5,5087 após payroll e expectativas de juros"
+   },
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Ibovespa tem queda perante temores no setor de tecnologia"
+   },
+   {
+    "quando": "6 de novembro de 2026",
+    "oque": "Ibovespa recupera e fecha em alta de 1,39%"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Payroll",
+    "significado": "Relatório mensal de empregos nos EUA, indica saúde econômica"
+   },
+   {
+    "termo": "DXY",
+    "significado": "Índice que mede o dólar frente a seis moedas globais principais"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que representa as ações mais negociadas na B3"
+   }
+  ],
+  "pergunta": "Como você acha que a alta do dólar influencia seus investimentos no Brasil?",
+  "tamanhoTexto": 12488,
+  "numeros": [
+   {
+    "valor": "5,5087",
+    "rotulo": "cotação do dólar no fechamento da sexta"
+   },
+   {
+    "valor": "0,37%",
+    "rotulo": "alta percentual do dólar no dia"
+   },
+   {
+    "valor": "1,18%",
+    "rotulo": "valorização do dólar na semana"
+   },
+   {
+    "valor": "165 mil",
+    "rotulo": "vagas criadas nos EUA em outubro, segundo payroll"
+   },
+   {
+    "valor": "65 mil",
+    "rotulo": "expectativa de criação de vagas antes do payroll"
+   },
+   {
+    "valor": "102,31",
+    "rotulo": "pontos do índice DXY no fechamento"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar à vista",
+    "antes": "R$ 5,48 (no pregão anterior)",
+    "depois": "R$ 5,5087"
+   },
+   {
+    "item": "Índice DXY",
+    "antes": "101,56 pontos (pré-pagamento)",
+    "depois": "102,31 pontos"
+   }
+  ],
+  "destaque": "R$ 5,5087",
+  "porQueImporta": "Essa alta do dólar mostra como dados econômicos dos EUA e a percepção sobre a política fiscal brasileira influenciam a cotação da moeda. Para investidores e operadores, entender esses movimentos é crucial para gerenciar riscos cambiais e decisões relacionadas a ativos em dólar.",
+  "impactoMercado": "A valorização do dólar pode pressionar ações e setores dependentes de insumos importados, ao passo que fortalece empresas exportadoras. Além disso, reforça expectativas sobre juros americanos, que afetam os mercados financeiros globalmente, inclusive a bolsa e títulos públicos brasileiros.",
+  "entenda": "O payroll é um relatório mensal dos Estados Unidos que apresenta a quantidade de empregos criados, influenciando expectativas sobre a economia americana. O índice DXY mede a força do dólar contra moedas principais. O Ibovespa é o principal índice de ações da Bolsa brasileira. Juntos, esses elementos ajudam a explicar a movimentação do câmbio e da bolsa.",
+  "observar": "Fique atento para o pronunciamento do presidente Lula no domingo (8) que pode sinalizar novos ajustes fiscais e para próximos dados econômicos dos EUA que influenciam a direção do dólar e do mercado brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia conecta dados econômicos globais e política doméstica para explicar as oscilações do dólar, ingrediente essencial para quem quer entender o mercado e buscar conhecimento na faculdade de mercado financeiro.",
+  "gancho": "*Dólar* em alta com *payroll*",
+  "ideias": [
+   "Entenda o impacto do payroll na cotação do dólar",
+   "Como a política fiscal do Brasil influencia o dólar hoje",
+   "Ibovespa e dólar: cenário para investidores em novembro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times; Agência Brasil Economia",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T12:55:57-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-06-11-2026-davs/",
+  "publicadoEm": "2026-11-06T17:32:40-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-07-01"
+ },
+ {
+  "titulo": "Petróleo fecha em alta, mas recua 13% na semana por tensão no Golfo Pérsico",
+  "resumo": "Na sexta-feira (6), petróleo Brent fechou a US$ 98,32 e WTI a US$ 90,83 o barril. Apesar da alta no dia, a commodity caiu 13% na semana com ameaças militares na região.",
+  "fatos": [
+   "Petróleo Brent fechou em alta de 0,03% a US$ 98,32 o barril em 6/10.",
+   "Petróleo WTI avançou 0,34% e fechou a US$ 90,83 o barril na mesma data.",
+   "A commodity recuou 13% no acumulado da semana.",
+   "JP Morgan projeta excesso de oferta de 1,1 milhão bpd em setembro e 1,4 milhão bpd em outubro.",
+   "Demanda global caiu 3,3 milhões bpd desde o início do conflito em fevereiro.",
+   "França liberou 3,6 milhões de barris de diesel de reservas estratégicas.",
+   "Brasil prorrogou imposto de exportação de 12% sobre óleo bruto até 31 de dezembro.",
+   "Ataques a navios no Golfo Pérsico seguem ameaçando exportações de petróleo."
+  ],
+  "explicacao": [
+   "Os preços do petróleo Brent e WTI fecharam em alta em 6 de outubro, com o Brent a US$ 98,32 o barril e o WTI a US$ 90,83, refletindo uma oscilação no mercado diante dos riscos políticos na região do Golfo Pérsico. A semana, no entanto, terminou com queda acumulada de 13%.",
+   "A vitória dos democratas nas eleições de meio de mandato nos EUA gerou expectativas de maior pressão para soluções diplomáticas na guerra entre EUA, Israel e Irã. Ainda assim, os ataques contínuos a navios no Golfo Pérsico mantêm a tensão alta e afastam uma paz próxima.",
+   "A situação é agravada pelas projeções do JP Morgan, que indicam excesso de oferta de petróleo – com superávit de 1,1 milhão de barris por dia em setembro e 1,4 milhão em outubro – e queda na demanda em 3,3 milhões de barris desde fevereiro, quando o conflito começou.",
+   "Além disso, a França liberou 3,6 milhões de barris de diesel de suas reservas estratégicas, enquanto o Brasil estendeu até 31 de dezembro a alíquota de 12% do imposto de exportação sobre óleo bruto, visando garantir o abastecimento doméstico diante das incertezas."
+  ],
+  "detalhes": [
+   "Data da alta: sexta-feira, 6 de outubro.",
+   "Local de negociação: ICE para Brent em Londres e Nymex para WTI nos EUA.",
+   "Contexto político: vitória dos democratas no Congresso dos EUA nas eleições de meio de mandato.",
+   "Conflito envolvido: guerra entre EUA e Israel contra Irã.",
+   "Ações governamentais: França e Brasil liberam reservas e prorroga imposto para conter impactos.",
+   "Impacto do conflito: queda de demanda e riscos à exportação no Golfo Pérsico.",
+   "Perspectiva diplomática: solução esperada, mas distante devido à continuidade dos ataques."
+  ],
+  "declaracoes": [
+   {
+    "quem": "JP Morgan",
+    "oque": "Projeta excesso de oferta e queda na demanda global de petróleo em 2023."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Final de fevereiro de 2023",
+    "oque": "Início do conflito entre Irã, Israel e EUA, impactando a demanda."
+   },
+   {
+    "quando": "6 de outubro de 2023",
+    "oque": "Petróleo fecha em alta no dia, mas acumula queda semanal de 13%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Brent",
+    "significado": "Tipo de petróleo cru referência no mercado europeu."
+   },
+   {
+    "termo": "WTI",
+    "significado": "West Texas Intermediate, referência do petróleo nos EUA."
+   },
+   {
+    "termo": "bpd",
+    "significado": "Barris por dia, medida de volume de petróleo."
+   }
+  ],
+  "pergunta": "Como você acha que a política influencia o preço do petróleo?",
+  "tamanhoTexto": 3492,
+  "numeros": [
+   {
+    "valor": "0,03%",
+    "rotulo": "alta diária do petróleo Brent em 6/10"
+   },
+   {
+    "valor": "98,32",
+    "rotulo": "US$ por barril do Brent em 6/10"
+   },
+   {
+    "valor": "0,34%",
+    "rotulo": "alta diária do petróleo WTI em 6/10"
+   },
+   {
+    "valor": "90,83",
+    "rotulo": "US$ por barril do WTI em 6/10"
+   },
+   {
+    "valor": "13%",
+    "rotulo": "queda acumulada do petróleo na semana"
+   },
+   {
+    "valor": "1,1 milhão bpd",
+    "rotulo": "excesso de oferta em setembro segundo JP Morgan"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "13% queda semanal",
+  "porQueImporta": "O recuo de 13% no preço do petróleo em meio a tensões geopolíticas e mudanças políticas impacta diretamente quem opera commodities e acompanha custos globais de energia. Entender esses fatores ajudam na avaliação de riscos e oportunidades do mercado.",
+  "impactoMercado": "As oscilações no petróleo refletem incertezas sobre oferta, demanda e conflitos no Golfo Pérsico. Isso pode influenciar setores ligados à energia, petróleo e gás, além de afetar índices e estratégias de operadores que negociam contratos futuros de petróleo.",
+  "entenda": "O Brent e o WTI são tipos principais de petróleo negociados globalmente com preços referenciais. A oferta, a demanda e questões geopolíticas, como conflitos no Oriente Médio, são fatores essenciais que determinam variações desses preços no mercado internacional.",
+  "observar": "Acompanhe próximos dados de oferta e demanda do petróleo, além de possíveis desdobramentos da guerra no Golfo Pérsico e decisões políticas nos EUA, que podem continuar influenciando os preços da commodity.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia conecta política internacional e mercado de petróleo, mostrando como eventos geopolíticos influenciam preços. Entender essas relações é essencial para quem quer aprofundar conhecimentos com a faculdade de mercado financeiro.",
+  "gancho": "*Petróleo* em alta e baixa no Golfo",
+  "ideias": [
+   "Como a guerra no Golfo afeta o petróleo?",
+   "Entenda a queda de 13% do petróleo na semana",
+   "Efeito das eleições dos EUA no mercado de petróleo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "foguete",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T12:55:57-03:00",
+  "url": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-nesta-sexta-feira-mas-recua-13-na-semana-davs/",
+  "publicadoEm": "2026-11-06T17:12:59-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-07-02"
+ },
+ {
   "titulo": "Raízen aprova aumento de capital de até R$ 39,8 bilhões em recuperação extrajudicial",
   "resumo": "Raízen aprovou aumento de capital entre R$ 3,5 bilhões e R$ 39,8 bilhões, etapa crucial do plano de recuperação homologado pela Justiça. A operação fortalece caixa, reduz dívidas e inclui conversão de créditos em ações.",
   "fatos": [
