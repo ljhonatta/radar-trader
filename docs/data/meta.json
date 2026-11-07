@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-06T18:04:20-03:00",
-  "novas": 11,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-11-06T22:12:07-03:00",
+  "novas": 3,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "11 nova(s) e 2 atualizada(s): IPCA desacelera: entenda por quê; Garantia de depósitos Paraguai; Juros em queda: alivio fiscal?.",
+  "mensagem": "3 nova(s): Raízen aprova aumento bilionário; IFIX em alta e baixa semanal.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-06T22:12:07-03:00",
    "2026-11-06T18:04:20-03:00",
    "2026-11-06T13:56:28-03:00",
    "2026-11-05T23:30:41-03:00",
@@ -20,38 +21,37 @@
    "2026-11-04T18:29:41-03:00",
    "2026-11-04T14:33:38-03:00",
    "2026-11-03T22:39:26-03:00",
-   "2026-11-03T18:16:09-03:00",
-   "2026-11-03T14:21:50-03:00"
+   "2026-11-03T18:16:09-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 13
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "168.368",
-    "var": "+1,31%"
+    "v": "168.498",
+    "var": "+1,39%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,51",
-    "var": "+0,14%"
+    "v": "R$ 5,50",
+    "var": ""
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 6,14",
-    "var": "-0,61%"
+    "var": "-0,68%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,8 mil",
-    "var": "-0,29%"
+    "v": "US$ 75,9 mil",
+    "var": "-0,45%"
    },
    {
     "k": "SPX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.074,50",
-    "var": "-0,95%"
+    "v": "US$ 4.079,50",
+    "var": "-0,83%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "sex 18h",
+  "hora": "sex 22h",
   "data": "2026-11-06",
-  "atualizadoEm": "2026-11-06T18:04:20-03:00",
-  "ibov": "168.368",
-  "ibovVar": "+1,31%",
-  "dolar": "R$ 5,51",
-  "dolarVar": "+0,14%",
-  "btc": "US$ 75,8 mil"
+  "atualizadoEm": "2026-11-06T22:12:07-03:00",
+  "ibov": "168.498",
+  "ibovVar": "+1,39%",
+  "dolar": "R$ 5,50",
+  "dolarVar": "",
+  "btc": "US$ 75,9 mil"
  }
 }
