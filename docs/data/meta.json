@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-07T12:55:57-03:00",
-  "novas": 2,
+  "ultimaColeta": "2026-11-07T16:37:19-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "2 nova(s): Dólar em alta com payroll; Petróleo em alta e baixa no Golfo.",
+  "mensagem": "4 nova(s): Superávit recorde e petróleo em alta; Nubank e criptomoedas normalizam serviços; BTG compra carteira BRB.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-07T16:37:19-03:00",
    "2026-11-07T12:55:57-03:00",
    "2026-11-06T22:12:07-03:00",
    "2026-11-06T18:04:20-03:00",
@@ -20,12 +21,11 @@
    "2026-11-05T14:40:07-03:00",
    "2026-11-04T22:48:05-03:00",
    "2026-11-04T18:29:41-03:00",
-   "2026-11-04T14:33:38-03:00",
-   "2026-11-03T22:39:26-03:00"
+   "2026-11-04T14:33:38-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 5
+  "textosCompletos": 6
  },
  "placar": {
   "itens": [
@@ -50,8 +50,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,6 mil",
-    "var": "-0,08%"
+    "v": "US$ 75,7 mil",
+    "var": "+0,09%"
    },
    {
     "k": "SPX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.074,90",
-    "var": "+2,65%"
+    "v": "US$ 4.079,50",
+    "var": "-0,83%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 12h",
+  "hora": "sáb 16h",
   "data": "2026-11-07",
-  "atualizadoEm": "2026-11-07T12:55:57-03:00",
+  "atualizadoEm": "2026-11-07T16:37:19-03:00",
   "ibov": "168.498",
   "ibovVar": "+1,39%",
   "dolar": "R$ 5,50",
   "dolarVar": "",
-  "btc": "US$ 75,6 mil"
+  "btc": "US$ 75,7 mil"
  }
 }

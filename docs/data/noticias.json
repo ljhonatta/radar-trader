@@ -1,5 +1,426 @@
 [
  {
+  "titulo": "Superávit comercial brasileiro em outubro alcança maior patamar em 37 anos",
+  "resumo": "Em outubro de 2026, o superávit da balança comercial do Brasil atingiu US$ 9,32 bilhões, o maior da série histórica iniciada em 1989, impulsionado pelo petróleo e acordo com UE.",
+  "fatos": [
+   "Superávit comercial em outubro de 2026 foi de US$ 9,32 bilhões.",
+   "Exportações em outubro somaram US$ 31,51 bilhões, alta de 20%.",
+   "Importações ficaram em US$ 24,82 bilhões, crescimento de 14,8%.",
+   "Exportações de petróleo bruto cresceram 122,6% em outubro.",
+   "Preços médios do petróleo subiram 36,7% no período.",
+   "Acordo Mercosul-União Europeia zerou tarifas para milhares de produtos.",
+   "Saldo com Europa alcançou US$ 6,89 bilhões no ano.",
+   "Exportações para os EUA avançaram 11,4% em outubro.",
+   "Balança comercial acumula superávit de US$ 71,04 bilhões em 10 meses de 2026.",
+   "Projeção para superávit de 2026 revisada para US$ 84,4 bilhões pelo Mdic."
+  ],
+  "explicacao": [
+   "Em outubro de 2026, o superávit comercial brasileiro chegou a US$ 9,32 bilhões, valor recorde para esse mês em 37 anos, conforme dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic). As exportações somaram US$ 31,51 bilhões, alta de 20%, e as importações totalizaram US$ 24,82 bilhões, aumento de 14,8%.",
+   "O principal fator para esse crescimento foi o aumento das vendas de petróleo bruto, cujas exportações subiram 122,6% em outubro, devido ao agravamento da guerra no Oriente Médio, que elevou os preços médios da commodity em 36,7%. Outra influência relevante foi o acordo comercial entre Mercosul e União Europeia, que zerou tarifas para diversos produtos, impulsionando as exportações brasileiras ao bloco europeu.",
+   "Esse resultado indica um comércio exterior brasileiro fortalecido, com maior diversificação de mercados e crescimento expressivo em segmentos extrativos, agropecuários e de transformação. A alta do preço do petróleo e as negociações comerciais têm dado sustentação à balança comercial positiva, mesmo diante da desaceleração da economia mundial e tensão comercial com outros países.",
+   "Para os próximos meses e para o ano de 2027, a expectativa é que o superávit continue sólido, condicionado à manutenção dos preços elevados do petróleo e à diversificação das exportações. Projeções indicam superávit entre US$ 90 bilhões e US$ 97 bilhões, com desafios como a demanda chinesa e efeitos de tarifas nos Estados Unidos acompanhados de perto pelos analistas."
+  ],
+  "detalhes": [
+   "Recorde da série histórica do Ministério do Desenvolvimento, iniciada em 1989.",
+   "Guerra no Oriente Médio elevou preços do petróleo para acima de US$ 100 o barril.",
+   "Acordo Mercosul-UE entrou em aplicação provisória em 1º de maio de 2026.",
+   "Exportações para a China caíram 5,3% em outubro por fim da cota para carnes.",
+   "Alta de 35,8% nas vendas ao bloco europeu em outubro, totalizando US$ 7,76 bilhões.",
+   "Combustíveis tiveram alta de 84,2% nos preços nas importações em outubro.",
+   "Venda de minério de ferro caiu 27,6% em outubro, impacto da desaceleração na China."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Herlon Brandão, diretor da Secretaria de Comércio Exterior",
+    "oque": "Outubro de 2026 foi o maior mês da série histórica para comércio, com recordes em exportação e importação."
+   },
+   {
+    "quem": "Luíza Pinese, economista da XP",
+    "oque": "O petróleo deve ampliar sua contribuição nas exportações com a normalização dos registros."
+   },
+   {
+    "quem": "José Pimenta, sócio-diretor da BMJ Consultoria",
+    "oque": "Diversificação de mercados amplia presença do Brasil no comércio internacional."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "06/11/2026",
+    "oque": "Dados oficiais do superávit comercial de outubro são divulgados pelo Mdic."
+   },
+   {
+    "quando": "01/05/2026",
+    "oque": "Início da aplicação provisória do acordo comercial Mercosul-União Europeia."
+   },
+   {
+    "quando": "Março a Outubro 2026",
+    "oque": "Preços do petróleo acumulam alta de mais de 40% devido à guerra no Oriente Médio."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Superávit comercial",
+    "significado": "Quando as exportações são maiores que as importações em um período."
+   },
+   {
+    "termo": "Balança comercial",
+    "significado": "Diferença entre exportações e importações de bens e serviços."
+   },
+   {
+    "termo": "Commodity",
+    "significado": "Produto básico vendido em grandes quantidades, como petróleo e soja."
+   }
+  ],
+  "pergunta": "Como você acha que o aumento do petróleo impacta a economia do Brasil?",
+  "tamanhoTexto": 16460,
+  "numeros": [
+   {
+    "valor": "9,32 bilhões",
+    "rotulo": "superávit comercial em outubro de 2026 (US$)"
+   },
+   {
+    "valor": "31,51 bilhões",
+    "rotulo": "exportações em outubro de 2026 (US$)"
+   },
+   {
+    "valor": "24,82 bilhões",
+    "rotulo": "importações em outubro de 2026 (US$)"
+   },
+   {
+    "valor": "122,6%",
+    "rotulo": "crescimento das exportações de petróleo em outubro"
+   },
+   {
+    "valor": "36,7%",
+    "rotulo": "alta nos preços médios do petróleo em outubro"
+   },
+   {
+    "valor": "71,04 bilhões",
+    "rotulo": "superávit acumulado em 10 meses de 2026 (US$)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Superávit comercial em outubro",
+    "antes": "US$ 6,69 bilhões em 2025",
+    "depois": "US$ 9,32 bilhões em 2026"
+   },
+   {
+    "item": "Exportações de petróleo bruto em outubro",
+    "antes": "Base inferior em 2025",
+    "depois": "Crescimento de 122,6% em 2026"
+   },
+   {
+    "item": "Exportações para China em outubro",
+    "antes": "Crescimento anterior",
+    "depois": "Queda de 5,3% em 2026"
+   }
+  ],
+  "destaque": "US$ 9,32 bilhões",
+  "porQueImporta": "O recorde do superávit mostra a força das exportações brasileiras, especialmente do petróleo, e a importância de acordos comerciais como o Mercosul-UE para ampliar mercados e proteger a economia contra choques externos.",
+  "impactoMercado": "O cenário reforça a relevância de setores como petróleo e agroindústria no comércio exterior, influencia perspectivas de câmbio e juros e pode afetar a demanda por ativos ligados à exportação e à indústria extrativa.",
+  "entenda": "Superávit comercial é o saldo positivo da balança quando exportações superam importações, indicando que o país vende mais ao exterior do que compra, gerando entrada de recursos que impactam o crescimento econômico e o mercado financeiro.",
+  "observar": "Acompanhe a divulgação dos dados anuais do comércio exterior para 2026 e monitorar o comportamento dos preços do petróleo e as negociações comerciais com principais parceiros em 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "Explicar a relação entre eventos globais, como guerra e acordos comerciais, e o impacto direto nas estatísticas brasileiras, mostrando o valor do conhecimento para operar ou investir no mercado financeiro.",
+  "gancho": "*Superávit* recorde e petróleo em alta",
+  "ideias": [
+   "Por que o petróleo impulsionou o superávit comercial em 2026?",
+   "Como o acordo Mercosul-UE ajuda as exportações brasileiras?",
+   "Impactos das tensões globais na balança comercial do Brasil"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "InvestNews; Agência Brasil Economia; Valor Econômico",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T16:37:19-03:00",
+  "url": "https://investnews.com.br/economia/petroleo-e-acordo-com-ue-sustentam-maior-superavit-comercial-brasileiro-em-quase-40-anos/",
+  "publicadoEm": "2026-11-07T14:10:04-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-03"
+ },
+ {
+  "titulo": "Nubank retoma saques e depósitos de criptomoedas após instabilidade",
+  "resumo": "Nubank retomou às 22h de 6/11 as operações de cripto após suspensão por instabilidade em fornecedor externo.",
+  "fatos": [
+   "Nubank retomou operações com criptomoedas às 22h do dia 6 de novembro de 2026.",
+   "Suspensão das operações foi comunicada em 5 de novembro de 2026.",
+   "Motivo da suspensão: instabilidade em fornecedor externo de dados.",
+   "Infraestrutura do Nubank não foi afetada pela instabilidade.",
+   "Fireblocks, citada como provedor, negou envolvimento em problemas na sua plataforma.",
+   "Mercado Pago também suspendeu depósitos e saques em criptomoedas por instabilidade.",
+   "Mercado Pago atribuiu instabilidade a fornecedor de monitoramento de riscos e compliance.",
+   "Nubank e Mercado Pago não informaram nomes dos fornecedores envolvidos.",
+   "Recursos dos clientes permaneceram preservados durante a suspensão das operações."
+  ],
+  "explicacao": [
+   "O Nubank comunicou que voltou a operar saques e depósitos de criptomoedas na noite de 6 de novembro, após suspender temporariamente os serviços.",
+   "A interrupção, anunciada no dia anterior, ocorreu devido a uma instabilidade de um fornecedor externo de dados, sem impactar a infraestrutura interna do banco digital.",
+   "A empresa garantiu que os ativos e informações dos clientes continuaram protegidos durante a suspensão, mostrando o cuidado com a segurança dos investimentos digitais.",
+   "Além do Nubank, o Mercado Pago também suspendeu transações em criptomoedas pelo mesmo motivo, indicando que o problema afeta várias instituições no setor."
+  ],
+  "detalhes": [
+   "Quem: Nubank, banco digital brasileiro; Mercado Pago, banco do Mercado Livre.",
+   "Quando: suspensão anunciada em 5/11, normalização às 22h de 6/11.",
+   "Como: suspensão devido a problemas em serviços de terceiros, não na infraestrutura do Nubank.",
+   "Contexto: outras instituições enfrentando instabilidade semelhante em criptoativos.",
+   "Fornecedor: Fireblocks mencionada, mas sem relação comprovada no problema.",
+   "Medidas: bloqueio preventivo de transferências externas para proteger clientes.",
+   "Transparência: empresas comunicaram situação e garantiram segurança dos ativos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Nubank",
+    "oque": "Garantiu que ativos e informações dos clientes permaneceram protegidos durante a suspensão."
+   },
+   {
+    "quem": "Fireblocks",
+    "oque": "Afirmou que a interrupção não foi causada por sua plataforma."
+   },
+   {
+    "quem": "Mercado Pago",
+    "oque": "Disse que bloqueou preventivamente transferências para proteger recursos dos clientes."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "5 de novembro de 2026",
+    "oque": "Nubank e Mercado Pago anunciam suspensão dos serviços de cripto."
+   },
+   {
+    "quando": "22h de 6 de novembro de",
+    "oque": "Nubank retoma operações de saques e depósitos em criptomoedas."
+   },
+   {
+    "quando": "7 de novembro de 2026",
+    "oque": "Mercado Pago ainda não confirmou retomada dos serviços."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fornecedor externo",
+    "significado": "Empresa parceira que fornece dados ou serviços essenciais para operações bancárias."
+   },
+   {
+    "termo": "Custódia de ativos",
+    "significado": "Serviço que guarda e protege os ativos digitais dos clientes."
+   }
+  ],
+  "pergunta": "Você já enfrentou problemas em transações de criptomoedas por instabilidade de serviços?",
+  "tamanhoTexto": 3039,
+  "numeros": [
+   {
+    "valor": "22h de 6/11/2026",
+    "rotulo": "Horário de retomada das operações do Nubank"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Retomada às 22h",
+  "porQueImporta": "A retomada das operações de criptomoedas pelo Nubank é importante porque reflete o cuidado com a segurança dos ativos digitais em meio a instabilidades externas, mostrando como fornecedores terceiros podem impactar serviços financeiros. Investidores e operadores devem acompanhar essas interrupções para entender riscos relacionados à infraestrutura das plataformas.",
+  "impactoMercado": "A instabilidade em fornecedores de dados pode afetar várias instituições que operam com criptoativos, gerando atrasos e suspensão temporária de serviços. Isso influencia a confiança do mercado em operações digitais, podendo afetar o volume de transações em bancos digitais e plataformas de criptomoedas.",
+  "entenda": "Criptomoedas são ativos digitais que podem ser sacados ou depositados em plataformas como o Nubank. Operações dependem de infraestrutura própria e de parceiros fornecedores de dados. Instabilidades nesses fornecedores podem suspender temporariamente as transações, mas não necessariamente comprometem a segurança dos ativos.",
+  "observar": "Fique atento a novos comunicados do Nubank e do Mercado Pago para verificar a normalização completa dos serviços de criptomoedas e possíveis críticas sobre fornecedores externos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostre como eventos técnicos fora da instituição influenciam a negociação e segurança de ativos digitais, despertando interesse por entender a estrutura do mercado cripto e a faculdade de mercado financeiro.",
+  "gancho": "*Nubank* e *criptomoedas* normalizam serviços",
+  "ideias": [
+   "O que causou a suspensão das operações em criptomoedas no Nubank?",
+   "Como fornecedores externos impactam suas operações digitais?",
+   "Entenda a segurança dos seus ativos durante instabilidades."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T16:37:19-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/07/nubank-retoma-saques-e-depsitos-de-criptomoedas-aps-suspenso.ghtml",
+  "publicadoEm": "2026-11-07T11:57:40-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-04"
+ },
+ {
+  "titulo": "BTG avança na compra de ativos do BRB, inclusive crédito imobiliário",
+  "resumo": "BTG Pactual adquiriu mais da metade da carteira de crédito imobiliário do BRB, ampliando seu portfólio sem mudar controle do banco público.",
+  "fatos": [
+   "BTG Pactual adquiriu mais da metade da carteira de crédito imobiliário do BRB.",
+   "A operação não altera o controle do Banco de Brasília, que permanece público.",
+   "A situação financeira do BRB é crítica, com saques de clientes e depósitos judiciais elevados.",
+   "O BTG está interessado também em ativos fiduciários como imóveis e terrenos do banco.",
+   "As negociações tiveram ritmo maior e depois desaceleraram, por causa da eleição presidencial.",
+   "Governadora Celina Leão (PP), reeleita em outubro, avalia alternativas para o banco.",
+   "Há possibilidade de criação de uma nova empresa para operações do Governo do Distrito Federal.",
+   "Banco Central e governo do DF não comentaram o assunto.",
+   "Recente pausa nas compras pode levar o BRB a oferecer condições mais vantajosas ao BTG.",
+   "Liquidação imediata do Banco de Brasília é considerada pouco viável."
+  ],
+  "explicacao": [
+   "O BTG Pactual está comprando parcelas relevantes das carteiras do Banco de Brasília (BRB), incluindo mais de 50% do crédito imobiliário. Essas aquisições aumentam o portfólio do BTG, mas não envolvem participação acionária, mantendo a estrutura pública do BRB.",
+   "A iniciativa busca ampliar a sobrevida do BRB, que enfrenta situação financeira crítica, com retirada expressiva de recursos por clientes e grande volume de depósitos judiciais. Uma liquidação imediata do banco seria inviável e prejudicaria a viabilidade da instituição.",
+   "Além da carteira de crédito imobiliário, o BTG também está interessado em ativos lastreados por imóveis, como terrenos que pertencem ao BRB, aproveitando descontos oferecidos pelo banco para adquirir esses ativos.",
+   "As negociações já vinham acontecendo há algum tempo e tiveram desaceleração recentemente, possivelmente em função das incertezas da eleição presidencial e da estratégia de negociar condições melhores. O governo do Distrito Federal ainda estuda alternativas, como a criação de uma empresa para administrar operações hoje feitas pelo BRB."
+  ],
+  "detalhes": [
+   "Comprador: BTG Pactual, banco privado.",
+   "Vendedor: Banco de Brasília (BRB), banco estatal do DF.",
+   "Data: operações avançam em 2023, com maior ritmo antes da eleição presidencial.",
+   "Contexto: BRB tem alta quantidade de depósitos judiciais e perda de clientes.",
+   "Governança: Sem mudança no controle acionário do BRB.",
+   "Governança local: Governadora Celina Leão estuda soluções para a crise do banco.",
+   "Estratégia: Venda de ativos para manter caixa e evitar liquidação do BRB."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "outubro de 2023",
+    "oque": "Governadora Celina Leão reeleita no DF"
+   },
+   {
+    "quando": "momento atual",
+    "oque": "BTG desacelera compra de ativos do BRB por incertezas políticas"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Carteira de Crédito Imobiliário",
+    "significado": "Conjunto de empréstimos para compra de imóveis concedidos por um banco."
+   },
+   {
+    "termo": "Depósitos Judiciais",
+    "significado": "Valores depositados em banco relacionados a processos judiciais e que ficam bloqueados."
+   },
+   {
+    "termo": "Ativos Fiduciários",
+    "significado": "Bens usados como garantia em operações financeiras."
+   }
+  ],
+  "pergunta": "O que você acha da compra de ativos públicos por bancos privados como saída para crises?",
+  "tamanhoTexto": 2338,
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "parte da carteira de crédito imobiliário adquirida pelo BTG"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Mais de 50%",
+  "porQueImporta": "A compra dos ativos do BRB pelo BTG é relevante pois mostra como instituições financeiras privadas podem ajudar bancos públicos em dificuldades com a venda de carteiras, sem alterar o controle bancário. Para quem investe, é uma forma de livrar o banco da liquidação, preservando operações e valor.",
+  "impactoMercado": "Essa movimentação pode estabilizar o mercado financeiro do Distrito Federal, impedindo uma liquidação do BRB que afetaria crédito e confiança. Setores ligados a crédito imobiliário podem ter repercussão na liquidez. Para investidores, o cenário indica maior foco em ativos lastreados e operações estruturadas sem mudança acionária.",
+  "entenda": "Carteira de crédito imobiliário são os empréstimos concedidos a clientes para compra de imóveis. A venda desses ativos significa que o BTG passa a receber pagamentos desses empréstimos, melhorando o caixa do BRB sem comprar ações ou controlar o banco público. Assim, o BRB ganha fôlego financeiro.",
+  "observar": "Fique atento às decisões da governadora Celina Leão sobre o futuro do BRB e à definição do governo do Distrito Federal sobre a criação de nova empresa para operações atualmente feitas pelo banco.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A notícia invita a entender como bancos públicos podem usar venda de ativos para sobreviver e como instituições privadas participam desse processo, despertando interesse em estudar mercado financeiro e operações estruturadas.",
+  "gancho": "BTG compra carteira BRB",
+  "ideias": [
+   "Entenda a compra dos ativos do BRB pelo BTG",
+   "Como função a aquisição da carteira imobiliária no setor bancário",
+   "O que muda com a venda parcial do BRB para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T16:37:19-03:00",
+  "url": "https://www.estadao.com.br/economia/btg-avanca-na-compra-de-ativos-do-brb-incluindo-mais-da-metade-da-carteira-de-credito-imobiliario/",
+  "publicadoEm": "2026-11-06T18:25:43-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-07-05"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-before-2027",
+  "titulo": "Mercado de previsões vê 49,5% de chance do Ethereum cair abaixo de 2.000 em 2026",
+  "resumo": "As previsões indicam uma expectativa de queda do Ethereum, impactando o mercado de criptoativos.",
+  "probs": [
+   {
+    "opcao": "↓ 2,000",
+    "prob": 49.5
+   },
+   {
+    "opcao": "↓ 1,750",
+    "prob": 20.5
+   },
+   {
+    "opcao": "↑ 3,000",
+    "prob": 16.5
+   },
+   {
+    "opcao": "↓ 1,500",
+    "prob": 10.4
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 72 mil",
+  "fatos": [
+   "↓ 2,000: 49,5%",
+   "↓ 1,750: 20,5%",
+   "↑ 3,000: 16,5%",
+   "↓ 1,500: 10,4%"
+  ],
+  "numeros": [
+   {
+    "valor": "49,5%",
+    "rotulo": "↓ 2,000"
+   },
+   {
+    "valor": "20,5%",
+    "rotulo": "↓ 1,750"
+   },
+   {
+    "valor": "16,5%",
+    "rotulo": "↑ 3,000"
+   },
+   {
+    "valor": "10,4%",
+    "rotulo": "↓ 1,500"
+   }
+  ],
+  "destaque": "49,5%",
+  "gancho": "*Expectativa de baixa* para o Ethereum",
+  "entenda": "Esse evento analisa as expectativas sobre o preço do Ethereum, que é relevante para investidores e usuários do criptoespço.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
+  "publicadoEm": "2026-11-07T16:37:19-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-07T16:37:19-03:00",
+  "data": "2026-11-07",
+  "status": "nova",
+  "id": "2026-11-07-p1"
+ },
+ {
   "titulo": "Dólar fecha em alta e maior valor desde dezembro de 2025 com payroll dos EUA",
   "resumo": "O dólar fechou a sexta-feira (6) a R$ 5,5087, maior valor desde dezembro de 2025, com alta de 0,37%. Na semana, subiu 1,18%, influenciado por dados fortes do mercado de trabalho dos EUA e cautela na política fiscal brasileira.",
   "fatos": [
