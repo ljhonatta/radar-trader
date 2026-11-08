@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-08T13:21:42-03:00",
-  "novas": 4,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-11-08T16:57:34-03:00",
+  "novas": 3,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "4 nova(s): CSN vende unidade de cimentos; TAG Heuer, F1 e crescimento no Brasil; Onda azul no emprego americano.",
+  "mensagem": "3 nova(s) e 2 atualizada(s): Inflação e juros em dilema; Iraque, Ormuz e petróleo; IA e eletrificação na COP31.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-08T16:57:34-03:00",
    "2026-11-08T13:21:42-03:00",
    "2026-11-07T21:54:37-03:00",
    "2026-11-07T16:37:19-03:00",
@@ -20,8 +21,7 @@
    "2026-11-05T23:30:41-03:00",
    "2026-11-05T22:47:25-03:00",
    "2026-11-05T18:34:11-03:00",
-   "2026-11-05T14:40:07-03:00",
-   "2026-11-04T22:48:05-03:00"
+   "2026-11-05T14:40:07-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -50,8 +50,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 76,0 mil",
-    "var": "+0,32%"
+    "v": "US$ 75,8 mil",
+    "var": "+0,17%"
    },
    {
     "k": "SPX",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 13h",
+  "hora": "dom 16h",
   "data": "2026-11-08",
-  "atualizadoEm": "2026-11-08T13:21:42-03:00",
+  "atualizadoEm": "2026-11-08T16:57:34-03:00",
   "ibov": "168.498",
   "ibovVar": "+1,39%",
   "dolar": "R$ 5,50",
   "dolarVar": "",
-  "btc": "US$ 76,0 mil"
+  "btc": "US$ 75,8 mil"
  }
 }

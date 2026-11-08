@@ -1,18 +1,397 @@
 [
  {
-  "titulo": "CSN vende unidade de cimentos à chinesa Huaxin por R$ 12,7 bilhões",
-  "resumo": "A CSN assinou contrato para vender a CSN Cimentos ao grupo chinês Huaxin por R$ 12,7 bilhões, operação que visa reduzir o endividamento da empresa.",
+  "titulo": "BC pode aceitar reinflação lenta diante de desafios econômicos em 2027",
+  "resumo": "Inflação piora e BC enfrenta dilema entre alta de juros e atividade fraca para 2027. Projeções do BTG indicam IPCA em 5,9%, enquanto crescimento econômico pode ser próximo de zero ou recessão.",
+  "fatos": [
+   "O IPCA projetado para 2027 é de 5,9% pelo BTG Pactual.",
+   "Taxa Selic mantida em 13,75% pelo Copom na última reunião.",
+   "PMI serviços caiu de 49,2 em setembro para 44,5 em outubro.",
+   "Projeção de crescimento do PIB para 2027 gira em torno de 1%, com possibilidade de recessão.",
+   "Inadimplência no Brasil atingiu 84,2 milhões em setembro, o maior número da série.",
+   "Endividamento das famílias está em máximas históricas.",
+   "Gastadel governo avançou 21% contra 11% de crescimento da economia.",
+   "Juros reais domésticos variaram entre 9,5% e 9,7% ao ano recentemente."
+  ],
+  "explicacao": [
+   "As expectativas de inflação pioraram com novos choques, como mudanças na jornada de trabalho, efeitos climáticos do super-El Niño e incertezas na reforma tributária, considerada a mais importante desde o Plano Real. O IPCA pode alcançar 5,9% em 2027, segundo estimativa do BTG Pactual.",
+   "O Banco Central manteve a Selic em 13,75% em reunião recente, mas enfrentará um dilema: aumentar juros para controlar a inflação ou manter a taxa para evitar recessão, já que o crescimento do PIB pode ficar perto de zero, com serviços mostrando contração.",
+   "A economia está pressionada por gastos públicos acima do crescimento econômico, endividamento elevado, e o risco de um aperto monetário intenso prejudicar empresas e famílias, podendo levar o BC a aceitar um processo lento de reinflação sem novas altas nos juros.",
+   "Para 2027, projeções indicam uma possível recessão ou estagnação do PIB, impactada por juros altos, câmbio elevado e desaceleração de setores importantes. O cenário exige atenção a reformas estruturais e monitoramento dos efeitos secundários dos choques inflacionários."
+  ],
+  "detalhes": [
+   "O dilema do BC surge porque maior alta de juros para conter inflação pode agravar a recessão econômica.",
+   "Choques de oferta, como a alta dos preços do petróleo pelo conflito no Oriente Médio, influenciam a inflação.",
+   "Reforma tributária do governo Lula é vista como legado estrutural importante, mas com incertezas na implementação.",
+   "Setores exógenos como agropecuária e indústria extrativa sustentaram a economia recentemente, mas devem desacelerar em 2027.",
+   "A inadimplência média é de 51,1% da população adulta, com dívida média de R$ 7.094 por inadimplente.",
+   "A Selic de 13,75% era a mesma desde o início do terceiro mandato de Lula em janeiro de 2023.",
+   "Empresas enfrentam onda recorde de recuperações judiciais devido à situação financeira delicada."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Banco Central, ata do Copom",
+    "oque": "O BC monitorará os efeitos secundários dos choques de oferta e reagirá com firmeza se necessário."
+   },
+   {
+    "quem": "Samuel Pessoa, pesquisador do BTG e FGV IBRE",
+    "oque": "O BC poderá aceitar uma reinflação lenta se o custo de alta de juros para o setor real for muito grande."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Copom manteve a Selic em 13,75%."
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "Inadimplência no Brasil atingiu 84,2 milhões de pessoas."
+   },
+   {
+    "quando": "outubro de 2026",
+    "oque": "PMI serviços caiu para 44,5, indicando contração da atividade."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Reinflação",
+    "significado": "Aumento gradual e persistente dos preços na economia."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros usada pelo BC para controlar inflação."
+   },
+   {
+    "termo": "PMI",
+    "significado": "Indicador que mostra a atividade do setor de serviços."
+   }
+  ],
+  "pergunta": "Como você acha que o BC deve agir diante da inflação e risco de recessão?",
+  "tamanhoTexto": 14533,
+  "numeros": [
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic atual mantida"
+   },
+   {
+    "valor": "5,9%",
+    "rotulo": "IPCA projetado para 2027 pelo BTG"
+   },
+   {
+    "valor": "44,5",
+    "rotulo": "PMI serviços em outubro 2026"
+   },
+   {
+    "valor": "84,2 milhões",
+    "rotulo": "inadimplentes no Brasil em setembro 2026"
+   },
+   {
+    "valor": "21%",
+    "rotulo": "crescimento dos gastos públicos x 11% PIB"
+   },
+   {
+    "valor": "9,5% a 9,7%",
+    "rotulo": "faixa dos juros reais domésticos recentes"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "PMI serviços",
+    "antes": "49,2 em setembro 2026",
+    "depois": "44,5 em outubro 2026"
+   }
+  ],
+  "destaque": "5,9% IPCA projetado",
+  "porQueImporta": "Controlar a inflação é crucial para manter o poder de compra e estabilidade econômica. O dilema do BC em elevar ou não os juros impacta diretamente decisões de investidores e operadores, pois afeta crédito, consumo e setores sensíveis à política monetária.",
+  "impactoMercado": "Se o BC aceitar uma reinflação lenta, isso pode segurar taxas de juros elevadas por mais tempo, afetar o mercado de crédito e a Bolsa, e influenciar setores como consumo e serviços. O câmbio e o custo de capital também podem responder a esse cenário.",
+  "entenda": "Reinflação significa aumento gradual da inflação depois de um período de controle. O Copom ajusta a taxa Selic para influenciar preços e consumo, tentando equilibrar inflação e crescimento. Um PMI abaixo de 50 indica contração econômica, sinal importante para investidores.",
+  "observar": "Acompanhe decisões do Copom, dados de inflação, atividade econômica e atualizações sobre a reforma tributária e indicadores de inadimplência para entender os próximos passos do BC.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia oferece uma análise clara sobre o dilema do BC, mostrando na prática os desafios da política monetária e estrutural, mostrando que entender esses movimentos é essencial para quem quer dominar o mercado financeiro.",
+  "gancho": "*Inflação* e *juros* em dilema",
+  "ideias": [
+   "O que é reinflação e como afeta seus investimentos",
+   "Dilema do BC: juros altos versus recessão em 2027",
+   "Por que a reforma tributária é o legado estrutural do governo Lula"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Folha Mercado; CNN Brasil",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-08T16:57:34-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/bc-podera-ter-de-aceitar-lento-processo-de-reinflacao.shtml",
+  "publicadoEm": "2026-11-07T23:59:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-08-04"
+ },
+ {
+  "titulo": "Iraque e EUA fecham acordo para exportar petróleo via Estreito de Ormuz",
+  "resumo": "O Iraque acertou com os EUA a exportação de petróleo pelo Estreito de Ormuz, próximo a Omã. As perdas do país pela guerra com o Irã e interrupções somam US$ 60 bilhões.",
+  "fatos": [
+   "O acordo foi confirmado pelo ministro Fuad Hussein.",
+   "O Estreito de Ormuz será utilizado para exportações via rota próxima a Omã.",
+   "Perdas devido à guerra e exportações interrompidas somam US$ 60 bilhões para o Iraque.",
+   "Exportações de petróleo em outubro foram de 3,5 milhões de barris por dia.",
+   "Exportações em setembro estavam em 2,65 milhões de barris por dia.",
+   "O acordo foi divulgado em entrevista à Al Jazeera em 8 de novembro de 2026."
+  ],
+  "explicacao": [
+   "O Iraque firmou entendimentos com os Estados Unidos para permitir que o país exporte petróleo pelo Estreito de Ormuz, utilizando uma rota marítima próxima a Omã. A confirmação foi dada pelo ministro das Relações Exteriores, Fuad Hussein, em entrevista recente.",
+   "Essa negociação é importante porque o Iraque sofreu perdas de cerca de US$ 60 bilhões em decorrência da guerra com o Irã e de interrupções nas exportações de petróleo, segundo o ministro. Essas perdas impactaram fortemente a economia do país.",
+   "As exportações de petróleo do Iraque têm se recuperado: em outubro de 2026, elas atingiram cerca de 3,5 milhões de barris por dia, contra 2,65 milhões em setembro, refletindo melhora após uma forte queda naquele mês.",
+   "Com o acordo, o Iraque pode usar uma via estratégica para escoar sua produção, o que pode trazer mais estabilidade e fluxo para suas vendas internacionais. O cenário influencia o mercado global de petróleo e pode impactar preços e abastecimento futuro."
+  ],
+  "detalhes": [
+   "Quem: Iraque e Estados Unidos.",
+   "O que: acordo para exportar petróleo via Estreito de Ormuz.",
+   "Quando: noticiado em novembro de 2026, com dados de outubro.",
+   "Quanto: perdas do Iraque avaliadas em US$ 60 bilhões.",
+   "Como: utilização de rota marítima próxima a Omã.",
+   "Comparativo: exportações subiram de 2,65 para 3,5 milhões de barris por dia entre setembro e outubro.",
+   "Contexto: recuperação das exportações após forte queda no mês anterior."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fuad Hussein, ministro das Relações Exteriores do Iraque",
+    "oque": "Confirmou o entendimento com os EUA para exportação de petróleo via Ormuz e destacou perdas de US$ 60 bilhões."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "setembro de 2026",
+    "oque": "Exportações de petróleo do Iraque caíram para 2,65 milhões de barris por dia."
+   },
+   {
+    "quando": "outubro de 2026",
+    "oque": "Exportações subiram para 3,5 milhões de barris por dia."
+   },
+   {
+    "quando": "8 de novembro de 2026",
+    "oque": "Ministro iraquiano anunciou acordo com EUA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Estreito de Ormuz",
+    "significado": "Canal marítimo estratégico para transporte global de petróleo."
+   },
+   {
+    "termo": "bpd",
+    "significado": "Barris por dia, unidade para medir produção ou exportação diária de petróleo."
+   }
+  ],
+  "pergunta": "Como você vê o impacto do acordo entre Iraque e EUA no mercado de petróleo?",
+  "tamanhoTexto": 2106,
+  "numeros": [
+   {
+    "valor": "60 bilhões",
+    "rotulo": "perdas do Iraque em dólares por guerra e interrupções"
+   },
+   {
+    "valor": "3,5 milhões",
+    "rotulo": "barris de petróleo exportados por dia em outubro"
+   },
+   {
+    "valor": "2,65 milhões",
+    "rotulo": "barris de petróleo exportados por dia em setembro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Exportações de petróleo do Iraque",
+    "antes": "2,65 milhões bpd em setembro",
+    "depois": "3,5 milhões bpd em outubro"
+   }
+  ],
+  "destaque": "US$ 60 bilhões",
+  "porQueImporta": "Esse acordo pode afetar o fluxo global de petróleo, uma commodity central para a economia mundial. Ao viabilizar exportações via uma rota estratégica, o Iraque busca retomar receita e estabilidade, impactando participantes do mercado ligados ao petróleo e energia.",
+  "impactoMercado": "O uso do Estreito de Ormuz pode melhorar a logística para exportação de petróleo do Iraque, influenciando preços e volume de oferta neste corredor essencial. Setores ligados ao petróleo poderão observar movimentações, e investidores devem acompanhar esse desdobramento.",
+  "entenda": "O Estreito de Ormuz é um canal marítimo estratégico no Golfo Pérsico, por onde passa uma parcela significativa do petróleo global. Alterações na rota ou bloqueios ali podem afetar o preço e oferta mundial do petróleo, o que influencia muitos investimentos.",
+  "observar": "Acompanhe os próximos dados de exportação iraquiana e declarações oficiais para verificar o andamento do acordo, além de eventuais impactos no preço do barril de petróleo.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia expõe uma movimentação geopolítica que afeta diretamente o mercado de petróleo, tema central para investimentos globais. Entender esse cenário ajuda a compreender fatores que levam a oscilações de preço e volume, além de ilustrar a dinâmica do mercado",
+  "gancho": "*Iraque*, *Ormuz* e petróleo",
+  "ideias": [
+   "Entenda o papel do Estreito de Ormuz na exportação de petróleo",
+   "Como perdas bilionárias afetam a economia do Iraque?",
+   "Acordo entre Iraque e EUA e seu impacto no mercado global de petróleo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "globo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-08T16:57:34-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/08/iraque-chega-a-entendimento-com-os-eua-para-permitir-exportacoes-de-petroleo-via-ormuz-diz-ministro.ghtml",
+  "publicadoEm": "2026-11-08T16:35:49-03:00",
+  "data": "2026-11-08",
+  "id": "2026-11-08-05"
+ },
+ {
+  "titulo": "Banqueiros focam IA e eletrificação na COP31 na Turquia",
+  "resumo": "Na 31ª COP em Antália, banqueiros debatem investimentos em IA e eletrificação para combater a crise climática. A eletrificação deve subir de 23% para 35% no consumo global até 2035, segundo a Turquia e AIE.",
+  "fatos": [
+   "31ª Conferência das Partes (COP31) inicia em Antália, Turquia, em 09/11/2026.",
+   "Turquia quer elevar a eletrificação do consumo global de energia de 23% para 35% até 2035.",
+   "IA consumirá até três vezes mais eletricidade em data centers até 2030, segundo AIE.",
+   "Barclays e Standard Chartered destacam a IA como central para acelerar energia limpa.",
+   "JPMorgan Chase participa com equipe de banqueiros e executivos de sustentabilidade.",
+   "Eleições legislativas americanas aumentam expectativas por regulação mais rígida da IA.",
+   "Standard Chartered alerta que crescimento dos data centers depende das escolhas tecnológicas.",
+   "IA representa risco ambiental controverso, apontada como 'devoradora de energia' pela ONU.",
+   "Investimentos necessários para IA e eletrificação podem somar trilhões de dólares.",
+   "COP31 enfatiza segurança energética e uso de renováveis contra volatilidade no mercado."
+  ],
+  "explicacao": [
+   "Banqueiros seniores reunidos na 31ª Conferência das Partes da ONU (COP31), em Antália, Turquia, destacam a inteligência artificial (IA) como tema central para negócios ambientais. A Turquia propõe eletrificar mais a economia mundial como pilar principal, aumentando eletricidade no consumo global de 23% para 35% até 2035.",
+   "Essa mobilização ocorre diante do desgaste da tese de investimento em IA, combinado com preocupações sobre o alto consumo energético dos data centers e regulações americanas mais rígidas após eleições legislativas. A infraestrutura para IA deve demandar trilhões em investimentos, segundo líderes bancários.",
+   "A posição é controversa, pois a IA consome muita energia e recursos, mas também pode acelerar o avanço das energias limpas se adotadas tecnologias eficientes e escolhas sustentáveis. Políticas públicas para guiar essas decisões serão foco da COP31, que também enfatiza segurança energética diante de crises globais.",
+   "Os bancos presentes, como JPMorgan Chase e Barclays, buscam fomentar negócios e financiamentos para ampliar redes elétricas, renováveis, armazenamento e infraestrutura digital. Essa agenda pode se tornar um novo motor para investimentos de longo prazo ligados à transição energética e sustentabilidade."
+  ],
+  "detalhes": [
+   "Local: Antália, costa mediterrânea da Turquia.",
+   "Evento: 31ª Conferência das Partes das Nações Unidas sobre clima.",
+   "Data: começa na segunda-feira, 09/11/2026.",
+   "Turquia como país anfitrião direciona foco para eletrificação e IA.",
+   "Bank Barclays declara que IA estará presente em 'todas as conversas' da COP31.",
+   "Regulação esperada nos EUA visa reduzir impacto ambiental dos data centers.",
+   "AIE indica que data centers responderão por 3% da demanda global de eletricidade até 2030."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Daniel Hanna, diretor global de finanças sustentáveis do Barclays",
+    "oque": "A IA estará em todas as conversas e pode acelerar energia limpa a longo prazo."
+   },
+   {
+    "quem": "Marisa Drew, diretora de sustentabilidade do Standard Chartered",
+    "oque": "Regras que aumentem transparência ajudarão a apoiar empresas responsáveis ambientalmente."
+   },
+   {
+    "quem": "Simon Stiell, secretário-executivo da Convenção-Quadro da ONU sobre Mudanças Climáticas",
+    "oque": "A IA é uma tecnologia devoradora de energia que contribui para emissões."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "09/11/2026",
+    "oque": "Início da 31ª Conferência das Partes (COP31) em Antália, Turquia."
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "AIE estimou aumento do consumo de eletricidade por data centers até 2030."
+   },
+   {
+    "quando": "outubro de 2026",
+    "oque": "Eleições legislativas americanas aumentam expectativa por regulação da IA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Eletrificação",
+    "significado": "Uso maior de eletricidade em substituição a combustíveis fósseis."
+   },
+   {
+    "termo": "Data center",
+    "significado": "Local com servidores que armazenam e processam dados digitais."
+   },
+   {
+    "termo": "Regulação",
+    "significado": "Normas e leis que controlam funcionamento de mercados e tecnologias."
+   }
+  ],
+  "pergunta": "Como você vê a influência da IA na transição energética?",
+  "tamanhoTexto": 8228,
+  "numeros": [
+   {
+    "valor": "31",
+    "rotulo": "edição da Conferência das Partes da ONU"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "meta de eletrificação no consumo global até 2035"
+   },
+   {
+    "valor": "23%",
+    "rotulo": "eletrificação atual do consumo global de energia"
+   },
+   {
+    "valor": "3%",
+    "rotulo": "participação estimada dos data centers na demanda global de eletricidade até 2030"
+   },
+   {
+    "valor": "US$ 1,5 trilhão",
+    "rotulo": "iniciativa do JPMorgan Chase para segurança e resiliência"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "eletrificação do consumo de energia global",
+    "antes": "23%",
+    "depois": "35% até 2035"
+   }
+  ],
+  "destaque": "35% eletrificação até",
+  "porQueImporta": "Essa movimentação une bancos e governos para financiar a expansão da inteligência artificial e eletrificação, elementos cruciais para a transição energética global. Entender como esses investimentos podem ocorrer ajuda investidores a acompanhar novas oportunidades sustentáveis alinhadas à agenda climática internacional.",
+  "impactoMercado": "A ênfase em eletrificação e IA pode impulsionar setores ligados a energia renovável, infraestrutura elétrica e tecnologia verde. A expectativa por regulações mais rigorosas nos EUA também pode gerar volatilidade em empresas de tecnologia e data centers, influenciando decisões de investimentos e alocações.",
+  "entenda": "COP31 é a conferência anual da ONU para discutir mudanças climáticas. Eletrificação significa aumentar o uso de eletricidade no consumo de energia, particularmente com energia limpa, para reduzir emissões. Inteligência artificial refere-se a sistemas que processam dados e podem ajudar na gestão energética, mas também consome muita energia.",
+  "observar": "Acompanhe os desdobramentos da COP31 até seu encerramento e fique atento às decisões sobre regulação da IA, metas de eletrificação e planos de investimento em energia limpa nos próximos anos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Mostre como a inteligência artificial e a eletrificação estão no centro das decisões financeiras globais, despertando o interesse para entender o mercado sustentável e o impacto das políticas climáticas na bolsa.",
+  "gancho": "*IA* e *eletrificação* na *COP31*",
+  "ideias": [
+   "Por que a IA vai dominar as conversas na COP31?",
+   "Eletrificação global: oportunidade de investimento para 2035",
+   "Como bancos planejam financiar a transição energética na COP31"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Global",
+  "icone": "foguete",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-08T16:57:34-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/08/banqueiros-se-preparam-para-falar-de-ia-em-todas-as-conversas-durante-cupula-climatica-na-turquia.ghtml",
+  "publicadoEm": "2026-11-08T12:53:30-03:00",
+  "data": "2026-11-08",
+  "id": "2026-11-08-06"
+ },
+ {
+  "titulo": "CSN fecha acordo de R$12,7 bi com Huaxin para unidade de cimento",
+  "resumo": "A CSN assinou um acordo para vender a unidade de cimento à Huaxin por R$12,7 bilhões, visando reduzir a dívida da empresa.",
   "fatos": [
    "A CSN assinou o contrato de venda da CSN Cimentos em 7 de agosto de 2026.",
    "O valor da operação foi de R$ 12,7 bilhões, sujeito a ajustes.",
    "A Huaxin apresentou a proposta mais vantajosa em um processo iniciado em março de 2026.",
    "A venda depende das aprovações do Cade, Aneel e órgãos reguladores chineses.",
    "O novo CEO da CSN é Fabio Schvartsman, que assumiu após Benjamin Steinbruch.",
-   "A CSN estimou prejuízo líquido entre R$ 1,3 bi e R$ 1,4 bi no 1º semestre de 2026.",
-   "A CSN Cimentos detinha cerca de 20% do mercado brasileiro de cimento.",
-   "As ações da CSN subiram 8,89% na B3 após o anúncio.",
-   "Outros potenciais compradores incluíam Votorantim, Polimix e Cementir.",
-   "A negociação passou de busca por R$ 15 bilhões para cerca de R$ 12 bilhões."
+   "A CSN estimou prejuízo líquido entre R$ 1,3 bi e R$ 1,4 bi no 1º semestre de 2026."
   ],
   "explicacao": [
    "A CSN fechou a venda da CSN Cimentos para a chinesa Huaxin Building Materials Group por aproximadamente R$ 12,7 bilhões, conforme fato relevante divulgado em 8 de agosto de 2026. O valor da operação representa o enterprise value e poderá sofrer ajustes por dívida líquida e capital de giro.",
@@ -129,15 +508,16 @@
   ],
   "categoria": "Empresas",
   "icone": "seta",
-  "fonte": "Folha Mercado; Estadão Economia",
+  "fonte": "Folha Mercado; Estadão Economia; InfoMoney",
   "impacto": "alto",
   "ordem": 2,
-  "status": "nova",
+  "status": "atualizada",
   "coletadoEm": "2026-11-08T13:21:42-03:00",
   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/csn-assina-contrato-para-vender-unidade-de-cimentos-a-chinesa-huaxin-por-r-127-bi.shtml",
   "publicadoEm": "2026-11-08T09:42:00-03:00",
   "data": "2026-11-08",
-  "id": "2026-11-08-01"
+  "id": "2026-11-08-01",
+  "atualizadoEm": "2026-11-08T16:57:34-03:00"
  },
  {
   "titulo": "TAG Heuer investe na F1 e acordo Mercosul-UE para crescer no Brasil",
@@ -14246,53 +14626,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 69.5% de chance de manutenção dos juros em janeiro",
-  "resumo": "Os apostadores acreditam que o Fed não fará alterações na taxa na próxima reunião, sinalizando estabilidade.",
+  "titulo": "Mercado de previsões vê 77.5% de chance de manutenção da taxa pelo Fed em janeiro",
+  "resumo": "As apostas sugerem que o Fed não deverá alterar as taxas em sua reunião de janeiro de 2027.",
   "probs": [
    {
     "opcao": "Sem alteração",
-    "prob": 69.5
+    "prob": 77.5
    },
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 25.5
+    "prob": 18.5
    },
    {
     "opcao": "Redução de 25 bps",
-    "prob": 1.7
+    "prob": 3.5
    },
    {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 0.8
+    "opcao": "Redução de 50+ bps",
+    "prob": 0.9
    }
   ],
   "prazo": "2027-01-28",
-  "volume24h": "US$ 24 mil",
+  "volume24h": "US$ 28 mil",
   "fatos": [
-   "Sem alteração: 69,5%",
-   "Aumento de 25 bps: 25,5%",
-   "Redução de 25 bps: 1,7%",
-   "Aumento de 50+ bps: 0,8%"
+   "Sem alteração: 77,5%",
+   "Aumento de 25 bps: 18,5%",
+   "Redução de 25 bps: 3,5%",
+   "Redução de 50+ bps: 0,9%"
   ],
   "numeros": [
    {
-    "valor": "69,5%",
+    "valor": "77,5%",
     "rotulo": "Sem alteração"
    },
    {
-    "valor": "25,5%",
+    "valor": "18,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "1,7%",
+    "valor": "3,5%",
     "rotulo": "Redução de 25 bps"
    },
    {
-    "valor": "0,8%",
-    "rotulo": "Aumento de 50+ bps"
+    "valor": "0,9%",
+    "rotulo": "Redução de 50+ bps"
    }
   ],
-  "destaque": "69,5%",
+  "destaque": "77,5%",
   "gancho": "*Manutenção* das taxas de juros",
   "entenda": "A decisão do Fed em janeiro pode afetar o sentimento do mercado e as expectativas econômicas.",
   "categoria": "Previsões",
@@ -14305,8 +14685,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-02T07:38:05-03:00",
   "data": "2026-11-02",
-  "status": "nova",
-  "id": "2026-11-02-p3"
+  "status": "atualizada",
+  "id": "2026-11-02-p3",
+  "atualizadoEm": "2026-11-08T16:57:34-03:00"
  },
  {
   "tipo": "sinal",
