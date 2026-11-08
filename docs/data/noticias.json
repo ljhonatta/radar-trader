@@ -1,5 +1,633 @@
 [
  {
+  "titulo": "Subsídios a combustíveis fósseis chegam a R$ 54,1 bi no Brasil em 2025",
+  "resumo": "Brasil destinou R$ 54,12 bilhões em subsídios federais aos combustíveis fósseis em 2025, representando 70,14% do total de R$ 77,16 bilhões às fontes de energia.",
+  "fatos": [
+   "Subsídios federais destinados a combustíveis fósseis somam R$ 54,12 bilhões em 2025.",
+   "Esse valor representa 70,14% dos R$ 77,16 bilhões totais concedidos às fontes de energia.",
+   "Incentivos às fontes renováveis somam R$ 23,04 bilhões em 2025.",
+   "Subsídios fósseis recuaram 1,27% frente a 2024.",
+   "Incentivos às renováveis cresceram 20,89% comparado a 2024.",
+   "Conta de Consumo de Combustíveis (CCC) teve aumento de 26,62%, totalizando R$ 14,11 bilhões.",
+   "Bandeiras tarifárias cresceram 103,72% e movimentaram R$ 7,78 bilhões.",
+   "Financiamento dos subsídios fósseis incluiu R$ 27,38 bilhões em renúncias fiscais e R$ 3,67 bilhões em gastos diretos.",
+   "Repetro teve renúncias fiscais de R$ 9,25 bilhões, 46,35% abaixo de 2024."
+  ],
+  "explicacao": [
+   "O Instituto de Estudos Socioeconômicos (Inesc) divulgou na quarta-feira (4) o monitoramento que mostra que os subsídios federais aos combustíveis fósseis no Brasil totalizarão R$ 54,12 bilhões em 2025, equivalendo a 70,14% dos R$ 77,16 bilhões concedidos às fontes de energia.",
+   "Este montante corresponde a 2,35 vezes o valor destinado às fontes renováveis, que receberam R$ 23,04 bilhões. O levantamento considerou 27 mecanismos federais, incluindo benefícios tributários, despesas orçamentárias e encargos cobrados dos consumidores.",
+   "Embora os subsídios às fontes fósseis tenham recuado 1,27% em relação a 2024, os incentivos às renováveis cresceram 20,89%, elevando o total de subsídios energéticos em 4,44%, de R$ 73,88 bilhões para R$ 77,16 bilhões.",
+   "O Inesc recomenda uma revisão gradual dos subsídios fósseis, mais transparência e salvaguardas sociais para proteger famílias vulneráveis, ressaltando que a transição energética depende de justiça social na distribuição dos custos e incentivos."
+  ],
+  "detalhes": [
+   "Monitoramento do Inesc abrange 27 mecanismos federais relacionados a energia.",
+   "Subsídios a petróleo, gás natural e carvão mineral chegam a R$ 41,03 bilhões em benefícios.",
+   "Incentivos ao consumo de combustíveis fósseis somam R$ 13,10 bilhões, com alta de quase 3%.",
+   "Financiamento de subsídios fósseis por tarifas de energia elétrica totaliza R$ 23,11 bilhões.",
+   "Geração distribuída de energia renovável recebeu R$ 14,71 bilhões, 63,9% dos incentivos renováveis.",
+   "Proinfa recebeu R$ 6,16 bilhões para fontes alternativas de energia elétrica.",
+   "Parte dos custos dos incentivos renováveis é repassada a consumidores sem energia própria."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Instituto de Estudos Socioeconômicos (Inesc)",
+    "oque": "Recomenda revisão gradual dos subsídios aos combustíveis fósseis com transparência e proteção social."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2025",
+    "oque": "Subsídios aos combustíveis fósseis previstos em R$ 54,12 bilhões."
+   },
+   {
+    "quando": "2024",
+    "oque": "Ano-base para comparação de subsídios em estudo."
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Divulgação do monitoramento do Inesc."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Subsídio",
+    "significado": "Apoio financeiro governamental que reduz o custo de bens ou serviços."
+   },
+   {
+    "termo": "Conta de Consumo de Combustíveis",
+    "significado": "Instrumento que cobre custos da geração em sistemas isolados com combustíveis fósseis."
+   },
+   {
+    "termo": "Renúncia fiscal",
+    "significado": "Desconto ou isenção que reduz arrecadação tributária."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto dos subsídios fósseis no mercado de energia e na conta de luz?",
+  "tamanhoTexto": 5456,
+  "numeros": [
+   {
+    "valor": "54,12 bilhões",
+    "rotulo": "Subsídios federais aos combustíveis fósseis em 2025"
+   },
+   {
+    "valor": "77,16 bilhões",
+    "rotulo": "Total de subsídios federais concedidos às fontes de energia em 2025"
+   },
+   {
+    "valor": "2,35 vezes",
+    "rotulo": "Subsídios fósseis em relação aos renováveis"
+   },
+   {
+    "valor": "1,27%",
+    "rotulo": "Recuperação dos subsídios fósseis em relação a 2024"
+   },
+   {
+    "valor": "20,89%",
+    "rotulo": "Crescimento dos subsídios às fontes renováveis em relação a 2024"
+   },
+   {
+    "valor": "14,11 bilhões",
+    "rotulo": "Valor da Conta de Consumo de Combustíveis (CCC)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Subsídios aos combustíveis fósseis",
+    "antes": "R$ 54,82 bilhões (2024)",
+    "depois": "R$ 54,12 bilhões (2025)"
+   },
+   {
+    "item": "Subsídios às fontes renováveis",
+    "antes": "R$ 19,05 bilhões (2024)",
+    "depois": "R$ 23,04 bilhões (2025)"
+   },
+   {
+    "item": "Total de subsídios energéticos",
+    "antes": "R$ 73,88 bilhões (2024)",
+    "depois": "R$ 77,16 bilhões (2025)"
+   }
+  ],
+  "destaque": "R$ 54,12 bilhões",
+  "porQueImporta": "Esses subsídios impactam o custo da energia, especialmente para famílias vulneráveis, e influenciam a dinâmica de mercado entre fontes energéticas fósseis e renováveis, afetando decisões de investidores e operadores.",
+  "impactoMercado": "O repasse dos subsídios via tarifas pode pressionar empresas do setor elétrico e afetar o perfil de investimento em energia, destacando a importância para investidores acompanharem mudanças regulatórias e ambientais.",
+  "entenda": "Subsídios energéticos são benefícios financeiros que governos oferecem para incentivar ou reduzir custos relativos a fontes específicas, como combustíveis fósseis ou renováveis, influenciando o preço final para o consumidor e o mercado.",
+  "observar": "Fique atento ao resultado das revisões da Aneel e propostas de mudanças nos subsídios, especialmente em 2026, pois podem alterar custos e incentivos no setor energético brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicamos de forma simples a distribuição e impacto dos subsídios energéticos, mostrando a dinâmica entre energia fóssil e renovável, fundamental para entender o mercado atual e oportunidades de aprendizado na faculdade.",
+  "gancho": "*Subsídios* energia 2025",
+  "ideias": [
+   "O que são subsídios e por que combustíveis fósseis lideram?",
+   "Comparativo entre incentivos a combustíveis fósseis e renováveis no Brasil",
+   "Impactos dos subsídios fósseis nas contas de luz e consumidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Times Brasil",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:54:37-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/energia/subsidios-aos-combustiveis-fosseis-chegam-a-r-541-bi-no-brasil/",
+  "publicadoEm": "2026-11-07T20:30:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-06"
+ },
+ {
+  "titulo": "Binance troca CFO após roubo recorde de US$ 6,3 bilhões em criptomoedas",
+  "resumo": "A Binance substituiu o CFO Kaiser Ng por Justin Yek após um ataque hacker que roubou US$ 6,3 bilhões. O FBI atribuiu a ação à Coreia do Norte, mas a corretora recuperou 90% dos valores.",
+  "fatos": [
+   "O roubo chegou a US$ 6,3 bilhões, o maior da história das criptomoedas.",
+   "Kaiser Ng estava na Binance desde janeiro de 2022.",
+   "Justin Yek, ex-vice-presidente financeiro da Airwallex, assumiu como novo CFO.",
+   "O FBI atribuiu o ataque hacker à Coreia do Norte.",
+   "A Binance recuperou cerca de 90% do valor roubado.",
+   "A substituição de CFO faz parte de um plano de transição de seis meses.",
+   "Outras corretoras como Bitget e Bybit sofreram ataques cibernéticos recentes.",
+   "As operações da Binance foram restabelecidas às 22h do dia 6 de novembro de 2026.",
+   "Kaiser Ng atuava na Kraken por cerca de cinco anos antes da Binance."
+  ],
+  "explicacao": [
+   "A Binance, maior corretora de criptomoedas do mundo, trocou seu diretor financeiro Kaiser Ng, após ele atuar por mais de cinco anos na empresa. A substituição ocorreu poucos dias depois do ataque hacker que resultou no roubo de US$ 6,3 bilhões.",
+   "O ataque, considerado o maior da história das criptomoedas, foi atribuído pelo FBI à Coreia do Norte. O incidente aconteceu num momento em que o mercado cripto se consolida e enfrenta desafios de segurança, inclusive devido à ascensão da inteligência artificial.",
+   "Apesar da dimensão do roubo, a Binance conseguiu recuperar cerca de 90% do montante perdido, mantendo sua promessa de reembolsar integralmente os clientes afetados. Isso é importante para preservar a confiança dos investidores e a credibilidade da corretora.",
+   "A troca no comando financeiro faz parte de um plano de transição iniciado seis meses antes. O novo CFO, Justin Yek, chega da Airwallex com a missão de liderar a organização financeira e garantir crescimento responsável, com foco global."
+  ],
+  "detalhes": [
+   "A troca do CFO foi oficializada por comunicado da Binance em 7 de novembro de 2026.",
+   "Justin Yek tem experiência em finanças na plataforma de pagamentos Airwallex.",
+   "O roubo ocorreu em um contexto de aumento das ameaças cibernéticas no setor.",
+   "O FBI divulgou a responsabilidade da Coreia do Norte pelo ataque em 31 de outubro de 2026.",
+   "Apesar do valor inicialmente perdido, a corretora conseguiu reembolsar os clientes integralmente.",
+   "O plano de transição do CFO já vinha sendo implementado pela empresa há 6 meses.",
+   "O crime impactou a segurança e percepção do mercado em corretoras de criptomoedas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Yi He, co-CEO da Binance",
+    "oque": "Confirmou que Kaiser Ng saiu para seguir novo caminho e desejou sucesso na nova fase."
+   },
+   {
+    "quem": "Justin Yek, novo CFO da Binance",
+    "oque": "Expressou entusiasmo em assumir a posição e liderar o crescimento responsável da empresa."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "31 de outubro de 2026",
+    "oque": "FBI atribui ataque à Coreia do Norte."
+   },
+   {
+    "quando": "6 de novembro de 2026, 22h",
+    "oque": "Binance restabelece operações após ataque."
+   },
+   {
+    "quando": "7 de novembro de 2026",
+    "oque": "Anúncio da troca de CFO na Binance."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CFO",
+    "significado": "Diretor financeiro responsável pelas finanças da empresa"
+   },
+   {
+    "termo": "Corretora de criptomoedas",
+    "significado": "Plataforma onde se compra e vende moedas digitais"
+   },
+   {
+    "termo": "Hackers",
+    "significado": "Criminosos digitais que invadem sistemas para roubar dinheiro ou dados"
+   }
+  ],
+  "pergunta": "Você acha que o mercado cripto está preparado para evitar ataques tão grandes?",
+  "tamanhoTexto": 2948,
+  "numeros": [
+   {
+    "valor": "6,3 bilhões",
+    "rotulo": "Valor total roubado em dólares"
+   },
+   {
+    "valor": "90%",
+    "rotulo": "Percentual do valor roubado recuperado"
+   },
+   {
+    "valor": "5 anos",
+    "rotulo": "Tempo de Kaiser Ng na Binance"
+   },
+   {
+    "valor": "6 meses",
+    "rotulo": "Duração do plano de transição do CFO"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 6,3 bilhões",
+  "porQueImporta": "Esse roubo significativo à Binance mostra os riscos de segurança que o mercado de criptomoedas enfrenta, impactando a confiança dos investidores. A troca de CFO indica tentativas da empresa de fortalecer a gestão financeira e a credibilidade após o incidente.",
+  "impactoMercado": "O episódio pode intensificar a atenção dos investidores para segurança em corretoras e reforçar medidas contra ataques cibernéticos. Setores ligados a criptomoedas devem observar mudanças operacionais, e a recuperação de 90% do valor ajuda a manter a estabilidade do mercado.",
+  "entenda": "Um CFO (diretor financeiro) é responsável por controlar as finanças da empresa, garantindo saúde financeira e transparência. Ataques hackers são roubos digitais que afetam o dinheiro nas corretoras, e a rápida recuperação do valor perdido protege clientes e o funcionamento do mercado.",
+  "observar": "Fique de olho em eventuais novas posições na equipe da Binance, relatórios sobre a recuperação total dos fundos e atualizações sobre segurança cibernética no setor de criptomoedas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender essa troca no CFO e o ataque ajuda a compreender os desafios de segurança e gestão financeira no mercado cripto, estimulando o interesse em educação para operar com mais conhecimento e responsabilidade.",
+  "gancho": "*Binance* e o maior roubo histórico",
+  "ideias": [
+   "O que muda com a saída do CFO da Binance?",
+   "Como a Binance recuperou 90% do roubo de US$ 6,3 bilhões?",
+   "Ataques cibernéticos no mercado cripto: riscos e lições"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "cadeado",
+  "fonte": "Exame",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:54:37-03:00",
+  "url": "https://exame.com/future-of-money/corretora-troca-de-cfo-apos-sofrer-maior-assalto-da-historia-das-criptomoedas/",
+  "publicadoEm": "2026-11-07T14:44:06-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-07"
+ },
+ {
+  "titulo": "Inflação, emprego e habitação dominam agenda econômica dos EUA na próxima semana",
+  "resumo": "EUA divulgarão dados de inflação, mercado imobiliário, emprego e resultados empresariais após eleições legislativas.",
+  "fatos": [
+   "Eleições legislativas nos EUA ocorreram há uma semana, resultando em controle democrata das duas casas do Congresso.",
+   "Inflação medida pelo CPI era 3,7% em setembro, com previsão de alta para 3,9% em outubro.",
+   "Índice de preços ao produtor de setembro teve maior alta desde dezembro de 2022.",
+   "Preços internacionais do petróleo recuaram fortemente após eleições legislativas.",
+   "Vendas de imóveis usados esperam estabilidade em outubro, em torno de 4 milhões anuais.",
+   "Preços dos imóveis estão em alta há 39 meses consecutivos na comparação anual.",
+   "Taxa média de financiamento de imóveis de 30 anos está próxima do maior patamar em quase três anos.",
+   "Criação de 165 mil vagas de emprego em outubro nos EUA.",
+   "Empresas de tecnologia e entretenimento divulgarão balanços, incluindo CoreWeave, Cisco, Applied Materials e Skydance.",
+   "Aquisição da Warner Bros. Discovery por US$ 81 bilhões foi concluída pela Paramount."
+  ],
+  "explicacao": [
+   "Na próxima semana, os Estados Unidos terão na agenda econômica principais indicadores como inflação, dados do mercado imobiliário, emprego e balanços de grandes empresas do setor de tecnologia e entretenimento, com destaque para os impactos dos recentes eventos políticos e conflito internacional.",
+   "Os dados de inflação, especialmente o índice de preços ao consumidor (CPI) de outubro, são esperados para mostrar alta de 3,7% em setembro para 3,9% em outubro, refletindo pressões dos preços de energia e alimentos agravadas pela guerra dos EUA com o Irã iniciada em fevereiro.",
+   "O mercado imobiliário americano segue pressionado por preços altos e taxas de juros elevadas, que dificultam a compra de imóveis, com vendas de imóveis usados projetadas em estabilidade para outubro, confirmando a tendência de vendas abaixo da média histórica.",
+   "Os dados do mercado de trabalho indicam resistência, com 165 mil vagas criadas em outubro e pedidos de seguro-desemprego em níveis baixos, embora o crescimento dos salários não acompanhe a inflação, reduzindo o poder de compra das famílias."
+  ],
+  "detalhes": [
+   "Dados de inflação serão divulgados na terça-feira nos EUA, refletindo impacto do conflito com o Irã.",
+   "Mercado imobiliário mantém vendas estagnadas, com alta nos preços e juros altos que dificultam financiamento.",
+   "Pedidos semanais de seguro-desemprego estarão disponíveis na quinta-feira, indicador de mercado laboral.",
+   "Balanços de empresas tecnológicas e de entretenimento na semana trarão sinais sobre investimentos em inteligência artificial.",
+   "O Federal Reserve (Fed) avalia possível aumento da taxa básica de juros em reunião de dezembro.",
+   "Conflito EUA-Irã iniciado em fevereiro aumentou custos de energia, impactando custos para consumidores e empresas.",
+   "Vendas de imóveis oscilam desde 2023 em torno de 4 milhões unidades, abaixo da média histórica de 5,2 milhões."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "março 2026",
+    "oque": "Inflação CPI permanece acima de 3% desde março"
+   },
+   {
+    "quando": "fevereiro 2026",
+    "oque": "Início da guerra entre Estados Unidos e Irã"
+   },
+   {
+    "quando": "07/11/2026",
+    "oque": "Divulgação da agenda econômica da próxima semana"
+   },
+   {
+    "quando": "próxima terça-feira",
+    "oque": "Divulgação do índice de preços ao consumidor (CPI) de outubro"
+   },
+   {
+    "quando": "próxima quinta-feira",
+    "oque": "Divulgação de pedidos semanais de seguro-desemprego e balanços empresariais"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CPI",
+    "significado": "Índice que mede a inflação ao consumidor final"
+   },
+   {
+    "termo": "PPI",
+    "significado": "Índice que mede a variação dos preços na produção"
+   },
+   {
+    "termo": "Fed",
+    "significado": "Banco central dos Estados Unidos"
+   }
+  ],
+  "pergunta": "Você acha que a inflação nos EUA deve continuar pressionada nos próximos meses?",
+  "tamanhoTexto": 7370,
+  "numeros": [
+   {
+    "valor": "3,9%",
+    "rotulo": "Inflação projetada para outubro pelo CPI"
+   },
+   {
+    "valor": "3,7%",
+    "rotulo": "Inflação em setembro pelo CPI"
+   },
+   {
+    "valor": "165 mil",
+    "rotulo": "Vagas de emprego criadas em outubro nos EUA"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "Queda das ações da CoreWeave na última semana"
+   },
+   {
+    "valor": "39 meses",
+    "rotulo": "Alta consecutiva dos preços dos imóveis"
+   },
+   {
+    "valor": "4 milhões",
+    "rotulo": "Vendas anuais de imóveis usados, em ritmo estável"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Inflação CPI",
+    "antes": "3,7% em setembro",
+    "depois": "3,9% em outubro (projeção)"
+   }
+  ],
+  "destaque": "3,9% inflação CPI",
+  "porQueImporta": "A inflação persistente nos EUA influencia diretamente o poder de compra das famílias e os custos das empresas, impactando decisões de política monetária do Fed e a estabilidade econômica. Entender esses indicadores ajuda investidores e operadores a avaliar os riscos e oportunidades no mercado doméstico e internacional.",
+  "impactoMercado": "A divulgação desses dados pode trazer volatilidade a setores como energia, imobiliário e tecnologia. Juros elevados no mercado imobiliário e pressão inflacionária influenciam ativos ligados a consumo e crédito, enquanto resultados empresariais revelam como a indústria reage a desafios macroeconômicos.",
+  "entenda": "O índice de preços ao consumidor (CPI) mede a variação média dos preços de uma cesta de produtos e serviços, refletindo a inflação que afeta a população. O índice de preços ao produtor (PPI) antecipa pressões de custo para consumidores. Taxas de juros influenciam financiamentos, especialmente no mercado imobiliário.",
+  "observar": "Fique atento à divulgação dos índices CPI na terça-feira, dos pedidos de seguro-desemprego e balanços das empresas tecnológicas e de entretenimento na quinta, e do PPI na sexta-feira. Também acompanhe a reunião do Fed em dezembro para possíveis alterações na taxa de juros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar a agenda econômica norte-americana conecta o investidor às movimentações globais e mostra como indicadores-chave refletem no mercado e na tomada de decisão estratégica em investimentos e operações.",
+  "gancho": "*Inflação* e *Emprego* nos EUA",
+  "ideias": [
+   "Entenda a importância do CPI para o mercado financeiro",
+   "Por que o mercado imobiliário dos EUA está estagnado?",
+   "Como os balanços empresariais refletem mudanças globais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:54:37-03:00",
+  "url": "https://valor.globo.com/valor-data/internacional/noticia/2026/11/07/inflacao-habitacao-emprego-e-lucros-empresariais-dominarao-a-agenda-economica-na-proxima-semana-nos-eua.ghtml",
+  "publicadoEm": "2026-11-07T18:51:39-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-08"
+ },
+ {
+  "titulo": "Juros não baixam sem ajuste nos gastos obrigatórios, diz UBS",
+  "resumo": "Solange Srour, do UBS, afirma que juros altos ampliam dívida/PIB em 4 pontos ao ano. Gestor da Ibiuna rebate mudança na meta como solução para juros.",
+  "fatos": [
+   "Solange Srour é diretora de macroeconomia para Brasil do UBS WM.",
+   "Dívida/PIB pode subir 4 pontos ao ano se juros ficarem altos.",
+   "Sugestões incluem revisão da indexação salarial e previdenciária.",
+   "Rodrigo Azevedo é gestor e co-diretor de investimentos da Ibiuna.",
+   "Azevedo considera debate sobre mudança na meta de inflação inútil.",
+   "Painel ocorreu na conferência da ONG MBA Brasil em 7 de novembro de 2026.",
+   "Evento foi na Kellogg School of Management.",
+   "Azevedo diz que só ajuste fiscal gera credibilidade e queda de juros."
+  ],
+  "explicacao": [
+   "Solange Srour, diretora de macroeconomia do UBS para o Brasil, afirmou em evento na Kellogg School of Management que a taxa básica de juros atualmente está alta e pressiona as contas públicas do país.",
+   "Ela ressaltou que se os juros se mantiverem nesse nível, a relação da dívida pública com o PIB cresce cerca de 4 pontos percentuais ao ano, comprometendo a sustentabilidade fiscal.",
+   "Para Srour, o ajuste fiscal necessário deve focar em gastos obrigatórios, como a indexação entre salário mínimo e previdência, despesas com saúde e educação, e revisão de programas sociais para controlar o crescimento das despesas.",
+   "Em contraponto, Rodrigo Azevedo, gestor da Ibiuna, afirmou que a solução para os altos juros passa pelo ajuste fiscal geral e criticou propostas de mudança na meta de inflação, considerando-as ineficazes."
+  ],
+  "detalhes": [
+   "Solange Srour participou de um painel no sábado, 7 de novembro de 2026.",
+   "Ela relaciona alta dos juros ao aumento rápido da dívida pública relativa ao PIB.",
+   "Defende que o ajuste trate diretamente os gastos obrigatórios para reduzir juros.",
+   "Rodrigo Azevedo rebateu a proposta de André Lara Resende de mudar meta de inflação.",
+   "Ele chamou o debate recente sobre isso de 'muito barulho por nada'.",
+   "Segundo Azevedo, histórico mostra que mudar a meta de inflação não resolve o problema.",
+   "Ambos discutiram política econômica brasileira em evento promovido pela MBA Brasil."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Solange Srour, diretora de macroeconomia para Brasil do UBS WM",
+    "oque": "Juros altos mantêm relação dívida/PIB subindo 4 pontos ao ano, exigindo ajuste em gastos obrigatórios."
+   },
+   {
+    "quem": "Rodrigo Azevedo, gestor e co-diretor de investimentos da Ibiuna",
+    "oque": "Só ajuste fiscal gera credibilidade para queda dos juros; mudança na meta de inflação não é solução."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "7 de novembro de 2026",
+    "oque": "Painel com economistas do UBS e Ibiuna na Kellogg School de Management."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dívida/PIB",
+    "significado": "Relação total da dívida pública em comparação ao tamanho da economia (PIB)."
+   },
+   {
+    "termo": "Gastos obrigatórios",
+    "significado": "Despesas que o governo é obrigado a pagar, como previdência e saúde."
+   },
+   {
+    "termo": "Meta de inflação",
+    "significado": "Objetivo formal do Banco Central para controlar a inflação."
+   }
+  ],
+  "pergunta": "Como você acha que os gastos obrigatórios influenciam a taxa de juros brasileira?",
+  "tamanhoTexto": 2774,
+  "numeros": [
+   {
+    "valor": "4 pontos",
+    "rotulo": "crescimento anual da relação dívida/PIB se juros continuarem altos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "4 pontos",
+  "porQueImporta": "Para investidores e traders, entender que juros altos podem ampliar dívida e impactar riscos fiscais ajuda a avaliar cenários econômicos e a volatilidade de ativos no Brasil.",
+  "impactoMercado": "A discussão sobre gastos obrigatórios e credibilidade fiscal influencia a expectativa de juros, que afeta desde títulos públicos até ações e o dólar no mercado brasileiro.",
+  "entenda": "A relação dívida/PIB mostra quanto da dívida pública equivale a porcentagem do PIB. Juros altos encarecem essa dívida e podem elevar gastos com o pagamento, pressionando o governo a ajustar as contas fiscais.",
+  "observar": "Acompanhe dados de inflação, anúncios do Banco Central e debates sobre reforma fiscal para entender possíveis impactos na percepção dos juros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra a importância do ajuste fiscal e do controle dos gastos para a trajetória dos juros e da dívida pública, tema essencial para quem quer operar ou investir com fundamento no Brasil.",
+  "gancho": "*Juros* e *Gastos Obrigatórios* em Debate",
+  "ideias": [
+   "Por que juros altos elevam a dívida do Brasil?",
+   "Gastos obrigatórios e seu impacto na economia brasileira",
+   "Mudança na meta de inflação resolve juros altos? Debate atual"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:54:37-03:00",
+  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/juros-e-selic/juros-nao-vao-cair-sem-ajuste-gasto-obrigatorio-solange-srour/",
+  "publicadoEm": "2026-11-07T19:53:47-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-09"
+ },
+ {
+  "titulo": "Lula vai às Filipinas para reforçar parceria do Brasil com a Asean",
+  "resumo": "Em 15 de novembro, Lula participa da Cúpula da Asean nas Filipinas para buscar o status máximo de parceria. Comércio Brasil-Asean cresceu de US$ 3 bi em 2003 para US$ 38 bi em 2025.",
+  "fatos": [
+   "Lula participa da Cúpula da Asean em Manilla em 15 de novembro.",
+   "Brasil solicitou em janeiro status de Parceiro de Diálogo na Asean.",
+   "O novo patamar é o mais alto de engajamento no bloco.",
+   "Comércio Brasil-Asean cresceu de US$ 3 bilhões em 2003 para US$ 38 bilhões em 2025.",
+   "Taxa média anual de crescimento do comércio de 12%.",
+   "Lula fará visita de Estado nas Filipinas em 14 de novembro.",
+   "Viagem de Antália, na Turquia, às Filipinas dura cerca de 14 horas.",
+   "Seis países da Asean já solicitaram reuniões com Lula.",
+   "A Asean inclui países como Indonésia, Malásia, Filipinas, entre outros."
+  ],
+  "explicacao": [
+   "O presidente Lula viajará para Manilla, nas Filipinas, para participar da Cúpula da Asean em 15 de novembro. A visita ocorre após sua participação na COP31, na Turquia. O objetivo é avançar no relacionamento entre o Brasil e o bloco do Sudeste Asiático.",
+   "Em janeiro, o Brasil solicitou oficialmente ser elevado de Parceiro de Diálogo Setorial para Parceiro de Diálogo, o mais alto grau de engajamento com a Asean, status já concedido a países como EUA, Japão e Coreia do Sul. A diplomacia vê isso como reconhecimento crescente.",
+   "Esse avanço abriria espaço para maior cooperação comercial e política, refletindo o crescimento do comércio bilateral, que saltou de US$ 3 bilhões em 2003 para US$ 38 bilhões previstos para 2025, com uma taxa média de crescimento anual de 12%.",
+   "Além da cúpula, Lula fará visita de Estado às Filipinas, marcando os 80 anos de relações entre os países, com agendas bilaterais em negociação para aumentar a cooperação, inclusive no comércio de produtos brasileiros como café e açaí."
+  ],
+  "detalhes": [
+   "Brasil pediu elevação à categoria Parceiro de Diálogo em janeiro de 2024.",
+   "Lula irá participar da cúpula na sequência da COP31, ocorrida na Turquia.",
+   "O pronunciamento de abertura do presidente brasileiro é raro para países fora da Asean.",
+   "O comércio bilateral tem produtos como café, açaí, sucos e industrializados.",
+   "2026 marca 80 anos das relações diplomáticas entre Brasil e Filipinas.",
+   "A participação do Brasil nesse grupo coloca-o entre EUA, Japão e Coreia do Sul em nível de parceria.",
+   "A visita inclui agendas bilaterais ainda em definição."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Susan Kleebanka, secretária de Ásia e Pacífico do Itamaraty",
+    "oque": "A elevação da parceria vai fortalecer a relação do Brasil com a Asean."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Janeiro de 2024",
+    "oque": "Brasil pediu elevação para Parceiro de Diálogo junto à Asean."
+   },
+   {
+    "quando": "14 de novembro de 2024",
+    "oque": "Lula fará visita de Estado nas Filipinas."
+   },
+   {
+    "quando": "15 de novembro de 2024",
+    "oque": "Lula participa da Cúpula da Asean."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Asean",
+    "significado": "Associação de Nações do Sudeste Asiático para cooperação regional"
+   },
+   {
+    "termo": "Parceiro de Diálogo",
+    "significado": "Categoria de maior engajamento externo da Asean com países"
+   },
+   {
+    "termo": "Cúpula",
+    "significado": "Encontro anual de líderes para discutir políticas e cooperação"
+   }
+  ],
+  "pergunta": "Como você vê o Brasil ampliando parcerias com países da Asean?",
+  "tamanhoTexto": 5385,
+  "numeros": [
+   {
+    "valor": "3 bilhões",
+    "rotulo": "comércio Brasil-Asean em 2003 (US$)"
+   },
+   {
+    "valor": "38 bilhões",
+    "rotulo": "comércio Brasil-Asean previsto para 2025 (US$)"
+   },
+   {
+    "valor": "12%",
+    "rotulo": "crescimento médio anual do comércio Brasil-Asean"
+   },
+   {
+    "valor": "14 horas",
+    "rotulo": "duração do voo da Turquia às Filipinas"
+   },
+   {
+    "valor": "15 de novembro",
+    "rotulo": "data da Cúpula da Asean"
+   },
+   {
+    "valor": "80 anos",
+    "rotulo": "relações diplomáticas Brasil-Filipinas em 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Nível de parceria com Asean",
+    "antes": "Parceiro de Diálogo Setorial",
+    "depois": "Parceiro de Diálogo (mais alto)"
+   }
+  ],
+  "destaque": "US$ 38 bilhões",
+  "porQueImporta": "Essa aproximação do Brasil com a Asean representa um potencial aumento da cooperação comercial e estratégica, refletindo a importância crescente do Sudeste Asiático como mercado emergente e parceiro global. Para investidores, essa integração pode indicar maior dinamismo e oportunidades no comércio internacional.",
+  "impactoMercado": "O crescimento do comércio com a Asean, aliado à elevação do nível de parceria, pode fomentar setores exportadores brasileiros, influenciar a balança comercial e criar condições favoráveis para negociações internacionais, afetando moedas e empresas ligadas ao comércio exterior.",
+  "entenda": "A Asean é uma associação regional dos países do Sudeste Asiático que promove integração econômica e política. Ser Parceiro de Diálogo significa um grau avançado de cooperação, com direito a reuniões e participação em cúpulas, fortalecendo laços e acordos comerciais.",
+  "observar": "Acompanhe a confirmação das reuniões bilaterais durante a visita, o discurso de abertura de Lula na cúpula e eventuais anúncios que possam ampliar a cooperação econômica e política entre Brasil e Asean.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra como o Brasil busca fortalecer laços estratégicos internacionais, um tema fundamental para entender o impacto do comércio global e aprender sobre diplomacia econômica, essencial na faculdade de mercado financeiro.",
+  "gancho": "Parceria *Brasil-Asean* em alta",
+  "ideias": [
+   "O que é ser Parceiro de Diálogo na Asean?",
+   "Como o comércio Brasil-Asean cresceu em 20 anos?",
+   "Por que a visita de Lula à Filipinas importa para o mercado?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Global",
+  "icone": "globo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:54:37-03:00",
+  "url": "https://bpmoney.com.br/internacional/lula-filipinas-cupula-asean-parceria-bloco-asiatico/",
+  "publicadoEm": "2026-11-07T14:30:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-10"
+ },
+ {
   "titulo": "Superávit comercial brasileiro em outubro alcança maior patamar em 37 anos",
   "resumo": "Em outubro de 2026, o superávit da balança comercial do Brasil atingiu US$ 9,32 bilhões, o maior da série histórica iniciada em 1989, impulsionado pelo petróleo e acordo com UE.",
   "fatos": [
@@ -4728,53 +5356,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-november-2-8-2026",
-  "titulo": "Mercado de previsões vê 45.7% de chance de Bitcoin abaixo de 74,000 de 2 a 8 de novembro",
-  "resumo": "Essa probabilidade reflete a incerteza dos apostadores sobre os movimentos dos preços do Bitcoin.",
+  "titulo": "Probabilidade de 83% de Bitcoin a 76,000 de 2 a 8 de novembro de 2026",
+  "resumo": "As expectativas de apostas apontam que Bitcoin pode superar os 76 mil durante este período específico, refletindo otimismo moderado.",
   "probs": [
    {
-    "opcao": "Abaixo de 74,000",
-    "prob": 45.7
+    "opcao": "↑ 76,000",
+    "prob": 83.0
    },
    {
-    "opcao": "Acima de 78,000",
-    "prob": 35.5
+    "opcao": "↓ 74,000",
+    "prob": 14.5
    },
    {
-    "opcao": "Abaixo de 72,000",
-    "prob": 17.6
+    "opcao": "↑ 78,000",
+    "prob": 10.5
    },
    {
-    "opcao": "Acima de 80,000",
-    "prob": 15.5
+    "opcao": "↓ 72,000",
+    "prob": 2.1
    }
   ],
   "prazo": "2026-11-09",
-  "volume24h": "US$ 480 mil",
+  "volume24h": "US$ 271 mil",
   "fatos": [
-   "Abaixo de 74,000: 45,7%",
-   "Acima de 78,000: 35,5%",
-   "Abaixo de 72,000: 17,6%",
-   "Acima de 80,000: 15,5%"
+   "↑ 76,000: 83,0%",
+   "↓ 74,000: 14,5%",
+   "↑ 78,000: 10,5%",
+   "↓ 72,000: 2,1%"
   ],
   "numeros": [
    {
-    "valor": "45,7%",
-    "rotulo": "Abaixo de 74,000"
+    "valor": "83,0%",
+    "rotulo": "↑ 76,000"
    },
    {
-    "valor": "35,5%",
-    "rotulo": "Acima de 78,000"
+    "valor": "14,5%",
+    "rotulo": "↓ 74,000"
    },
    {
-    "valor": "17,6%",
-    "rotulo": "Abaixo de 72,000"
+    "valor": "10,5%",
+    "rotulo": "↑ 78,000"
    },
    {
-    "valor": "15,5%",
-    "rotulo": "Acima de 80,000"
+    "valor": "2,1%",
+    "rotulo": "↓ 72,000"
    }
   ],
-  "destaque": "45,7%",
+  "destaque": "83,0%",
   "gancho": "*Volatilidade esperada no Bitcoin*",
   "entenda": "A volatilidade do Bitcoin oferece oportunidades e riscos, sendo afetada por eventos de mercado, especulação e sentimento do investidor.",
   "categoria": "Previsões",
@@ -4787,8 +5415,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-05T18:34:11-03:00",
   "data": "2026-11-05",
-  "status": "nova",
-  "id": "2026-11-05-p3"
+  "status": "atualizada",
+  "id": "2026-11-05-p3",
+  "atualizadoEm": "2026-11-07T21:54:37-03:00"
  },
  {
   "titulo": "Derrota de Trump abre caminho para Fed focar no controle da inflação",
