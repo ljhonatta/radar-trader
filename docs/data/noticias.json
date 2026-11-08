@@ -1,5 +1,465 @@
 [
  {
+  "titulo": "CSN vende unidade de cimentos à chinesa Huaxin por R$ 12,7 bilhões",
+  "resumo": "A CSN assinou contrato para vender a CSN Cimentos ao grupo chinês Huaxin por R$ 12,7 bilhões, operação que visa reduzir o endividamento da empresa.",
+  "fatos": [
+   "A CSN assinou o contrato de venda da CSN Cimentos em 7 de agosto de 2026.",
+   "O valor da operação foi de R$ 12,7 bilhões, sujeito a ajustes.",
+   "A Huaxin apresentou a proposta mais vantajosa em um processo iniciado em março de 2026.",
+   "A venda depende das aprovações do Cade, Aneel e órgãos reguladores chineses.",
+   "O novo CEO da CSN é Fabio Schvartsman, que assumiu após Benjamin Steinbruch.",
+   "A CSN estimou prejuízo líquido entre R$ 1,3 bi e R$ 1,4 bi no 1º semestre de 2026.",
+   "A CSN Cimentos detinha cerca de 20% do mercado brasileiro de cimento.",
+   "As ações da CSN subiram 8,89% na B3 após o anúncio.",
+   "Outros potenciais compradores incluíam Votorantim, Polimix e Cementir.",
+   "A negociação passou de busca por R$ 15 bilhões para cerca de R$ 12 bilhões."
+  ],
+  "explicacao": [
+   "A CSN fechou a venda da CSN Cimentos para a chinesa Huaxin Building Materials Group por aproximadamente R$ 12,7 bilhões, conforme fato relevante divulgado em 8 de agosto de 2026. O valor da operação representa o enterprise value e poderá sofrer ajustes por dívida líquida e capital de giro.",
+   "A negociação, iniciada em março de 2026, ganhou força com a troca de CEO da CSN, quando Fabio Schvartsman assumiu o cargo e acelerou medidas para levantar recursos e reduzir o endividamento, que estava em alta com prejuízo líquido estimado de até R$ 1,4 bilhão no primeiro semestre de 2026.",
+   "A transação é estratégica para a CSN reequacionar sua estrutura de capital, mas depende da aprovação do Cade, da Aneel e das autoridades regulatórias chinesas. A Huaxin levou a melhor em um processo competitivo que envolveu concorrentes como o consórcio Votorantim e Cementir.",
+   "Após o anúncio do acordo, as ações da CSN subiram quase 9% na B3, refletindo a percepção positiva do mercado. A conclusão da venda deve ocorrer após o cumprimento das condições regulatórias e ajustes contratuais."
+  ],
+  "detalhes": [
+   "A venda é da totalidade da CSN Cimentos, controlada pela CSN.",
+   "O valor de R$ 12,7 bilhões representa o enterprise value, com ajustes previstos.",
+   "A operação consolida a estratégia da CSN para reduzir seu endividamento elevado.",
+   "O Cade e a Aneel precisam aprovar por questões regulatórias e concorrenciais.",
+   "A Huaxin é um grande grupo chinês de materiais de construção, com interesse estratégico no Brasil.",
+   "O processo competitivo começou em março e destacou a oferta da Huaxin contra consórcio local e europeu.",
+   "O acordo foi celebrado oficialmente em 7 de agosto de 2026 e divulgado em 8 de agosto."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fato relevante da CSN",
+    "oque": "A venda é importante para reduzir o endividamento e reequacionar estrutura de capital."
+   },
+   {
+    "quem": "CSN",
+    "oque": "A Huaxin apresentou a proposta mais vantajosa no processo competitivo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Março de 2026",
+    "oque": "Início do processo competitivo para venda da CSN Cimentos."
+   },
+   {
+    "quando": "Final de julho de 2026",
+    "oque": "CSN estimou prejuízo líquido entre R$ 1,3 bi e R$ 1,4 bi no primeiro semestre."
+   },
+   {
+    "quando": "6 de agosto de 2026",
+    "oque": "Ações da CSN sobem 8,89% após expectativa da venda."
+   },
+   {
+    "quando": "7 de agosto de 2026",
+    "oque": "Contrato de venda assinado entre CSN e Huaxin."
+   },
+   {
+    "quando": "8 de agosto de 2026",
+    "oque": "CSN divulga fato relevante sobre a venda."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Enterprise value",
+    "significado": "Valor total da empresa incluindo dívidas e capital próprio"
+   },
+   {
+    "termo": "Cade",
+    "significado": "Conselho que regula a concorrência no Brasil"
+   },
+   {
+    "termo": "Aneel",
+    "significado": "Agência reguladora de energia elétrica no Brasil"
+   }
+  ],
+  "pergunta": "Como você vê o impacto da venda da CSN Cimentos no mercado brasileiro?",
+  "tamanhoTexto": 5461,
+  "numeros": [
+   {
+    "valor": "12,7 bilhões",
+    "rotulo": "Valor da venda da CSN Cimentos em reais"
+   },
+   {
+    "valor": "8,89%",
+    "rotulo": "Alta das ações da CSN após o anúncio"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "Participação da CSN Cimentos no mercado brasileiro de cimento"
+   },
+   {
+    "valor": "1,3 a 1,4 bilhão",
+    "rotulo": "Prejuízo líquido estimado da CSN no 1º semestre de 2026"
+   },
+   {
+    "valor": "Março de 2026",
+    "rotulo": "Início do processo competitivo de venda"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Preço pretendido pela CSN",
+    "antes": "R$ 15 bilhões",
+    "depois": "R$ 12,7 bilhões"
+   }
+  ],
+  "destaque": "R$ 12,7 bilhões",
+  "porQueImporta": "Essa venda representa uma etapa crucial para a CSN reduzir seu endividamento e reorganizar sua estrutura financeira, o que afeta diretamente sua capacidade de investimento e estabilidade no mercado financeiro, refletindo na confiança dos investidores.",
+  "impactoMercado": "O anúncio impulsionou as ações da CSN, mostrando como negociações estratégicas de ativos impactam o preço dos papéis. A operação também sinaliza mudanças no setor de cimento e pode influenciar investidores que acompanham o desempenho da empresa e do segmento.",
+  "entenda": "Enterprise value é o valor total de uma empresa, incluindo dívidas e capital próprio, usado para avaliar o preço da venda. O Cade é o órgão que regula a concorrência no Brasil e precisa aprovar operações relevantes que possam afetar o mercado.",
+  "observar": "Acompanhe as próximas aprovações do Cade, Aneel e autoridades chinesas, que definirão a conclusão definitiva da venda da CSN Cimentos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "A notícia destaca como reestruturações financeiras ocorrem no mercado real, mostrando os passos estratégicos e regulatórios para quem quer entender decisões de grandes empresas e atuar no mercado financeiro.",
+  "gancho": "*CSN* vende unidade de cimentos",
+  "ideias": [
+   "O que é enterprise value na venda de empresas?",
+   "Como a venda da CSN Cimentos afeta investidores?",
+   "Passo a passo da venda da CSN para a Huaxin"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Folha Mercado; Estadão Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-08T13:21:42-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/csn-assina-contrato-para-vender-unidade-de-cimentos-a-chinesa-huaxin-por-r-127-bi.shtml",
+  "publicadoEm": "2026-11-08T09:42:00-03:00",
+  "data": "2026-11-08",
+  "id": "2026-11-08-01"
+ },
+ {
+  "titulo": "TAG Heuer investe na F1 e acordo Mercosul-UE para crescer no Brasil",
+  "resumo": "TAG Heuer reforça imagem com F1 e Ayrton Senna e aposta no acordo Mercosul-UE para ampliar mercado brasileiro, que é o segundo maior na América Latina.",
+  "fatos": [
+   "TAG Heuer fez eventos no GP do Brasil em Interlagos em 2026",
+   "A marca foi cronometrista oficial da F1 em 1992, perdeu em 2003, retomou em 2025",
+   "Morgan Stanley/Luxe Consult estima vendas de 720 milhões de francos suíços em 2025",
+   "Brasil é o segundo maior mercado latino-americano para a TAG Heuer",
+   "Preços de relógios variam entre R$ 12 mil e R$ 500 mil em edições limitadas",
+   "Em parceria histórica, Ferrari colocou logo da TAG Heuer nos carros em 1971",
+   "Estratégia inclui lançamento de novo relógio com a marca Ayrton Senna",
+   "Seis em cada dez contatos da empresa são para relacionamento, não venda direta"
+  ],
+  "explicacao": [
+   "A TAG Heuer, marca suíça de relógios de luxo, celebra sua ligação histórica com a Fórmula 1 e Ayrton Senna, em eventos na véspera do GP do Brasil em Interlagos. O patrocínio à F1 é estratégico para fortalecer sua imagem no mercado brasileiro.",
+   "A empresa tem uma história centenária no mundo dos esportes a motor, iniciando parcerias em 1969 e desenvolvendo cronômetros inovadores para a Ferrari na década de 1970. Atualmente, retomou o posto de cronometrista oficial da F1 em 2025.",
+   "O Brasil é o segundo maior mercado latino-americano para a TAG Heuer, atrás apenas do México. Com a entrada em vigor do acordo comercial entre Mercosul e União Europeia, a marca espera aumentar a variedade de produtos e vendas no país.",
+   "A estratégia inclui lançar novos modelos, incluindo uma edição especial com a marca Ayrton Senna, mantendo foco em consumidores de alto luxo, e aprofundar o relacionamento com clientes em eventos exclusivos, sem vendas online direta."
+  ],
+  "detalhes": [
+   "Gabriela Monteiro é head de marketing da 356, distribuidora da TAG Heuer no Brasil",
+   "A entrada em vigor do acordo Mercosul-UE deve facilitar importações e ampliar portfólio",
+   "Histórico de patrocínio inclui piloto Jo Siffert em 1969 e acordo com Ferrari em 1971",
+   "A TAG Heuer disputada por Rolex e Cartier no segmento de luxo no Brasil",
+   "O modelo Monaco, famoso por ter sido usado no filme 'As 24 Horas de Le Mans' em 1971, faz parte da identidade da marca",
+   "Vendas diretas e eventos exclusivos são foco para criar vínculo com consumidores",
+   "Dez anos atrás, a TAG Heuer no Brasil tinha metade do volume atual de negócios"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Gabriela Monteiro, head de marketing da 356",
+    "oque": "Cada marca tem seu território e nosso é a F1; queremos ser a marca do motorsport no Brasil"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "1969",
+    "oque": "TAG Heuer patrocinou o piloto suíço Jo Siffert"
+   },
+   {
+    "quando": "1971",
+    "oque": "Fechou acordo com Ferrari e desenvolveu cronômetro para F1"
+   },
+   {
+    "quando": "1992",
+    "oque": "Tornou-se cronometrista oficial da Fórmula 1"
+   },
+   {
+    "quando": "2003",
+    "oque": "Perdeu posto de cronometrista oficial para Rolex"
+   },
+   {
+    "quando": "2025",
+    "oque": "Retomou o posto de cronometrista oficial da Fórmula 1"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Cronometrista oficial",
+    "significado": "Empresa responsável pela medição oficial do tempo em competições esportivas"
+   },
+   {
+    "termo": "Mercosul-UE",
+    "significado": "Acordo comercial entre o bloco econômico sul-americano Mercosul e União Europeia"
+   },
+   {
+    "termo": "Edição limitada",
+    "significado": "Produto fabricado em quantidade restrita para colecionadores ou clientes exclusivos"
+   }
+  ],
+  "pergunta": "Como você vê o impacto de parcerias esportivas no sucesso de marcas de luxo?",
+  "tamanhoTexto": 4452,
+  "numeros": [
+   {
+    "valor": "720 milhões",
+    "rotulo": "vendas em francos suíços da TAG Heuer em 2025"
+   },
+   {
+    "valor": "R$ 4,7 bilhões",
+    "rotulo": "vendas convertidas da TAG Heuer em 2025"
+   },
+   {
+    "valor": "R$ 12 mil a R$ 500 mil",
+    "rotulo": "preço dos relógios em edições limitadas"
+   },
+   {
+    "valor": "6 em 10",
+    "rotulo": "contatos com clientes focados em relacionamento, não vendas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 4,7 bilhões",
+  "porQueImporta": "O crescimento da TAG Heuer no Brasil mostra como alianças estratégicas com esportes a motor e acordos comerciais internacionais podem expandir mercados de luxo. Isso interessa a investidores e operadores que acompanham setores ligados a consumo premium e impactos regulatórios.",
+  "impactoMercado": "A ampliação do portfólio da TAG Heuer via acordo Mercosul-UE reforça potencial demanda por bens importados de luxo, afetando varejo e cadeia de suprimentos. O mercado financeiro pode observar tendência positiva para empresas ligadas a importação e consumo de alto padrão.",
+  "entenda": "Fórmula 1 (F1) é esporte de alta velocidade com grande visibilidade global, ideal para marcas se posicionarem como inovadoras e sofisticadas. A estratégia de marketing no setor de luxo envolve associações históricas e experiências exclusivas para clientes, sem vendas diretas online.",
+  "observar": "Fique atento ao avanço da implementação do acordo Mercosul-UE e futuros lançamentos da TAG Heuer, especialmente a nova linha Ayrton Senna, que pode refletir em mudanças no portfólio e no mercado de luxo brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esta notícia mostra como associar marcas a esportes de precisão, como a F1, e acordos comerciais podem ampliar o mercado de luxo no Brasil, incentivando o aprendizado sobre estratégias de marketing e impacto econômico no setor.",
+  "gancho": "*TAG Heuer*, *F1* e crescimento no Brasil",
+  "ideias": [
+   "Confira a história da TAG Heuer e a Fórmula 1",
+   "Como o acordo Mercosul-UE abre portas para o mercado de luxo",
+   "O que faz um relógio de luxo ser tão valorizado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "relogio",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-08T13:21:42-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/tag-heuer-aposta-na-f1-e-no-acordo-mercosul-ue-para-crescer-no-brasil.shtml",
+  "publicadoEm": "2026-11-07T15:00:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-08-02"
+ },
+ {
+  "titulo": "Onda azul nos EUA pode afetar mercado de trabalho lentamente",
+  "resumo": "Mercado de trabalho dos EUA mantém desemprego em 4,5% e contratação alta. Mudanças políticas, como o 'blue tsunami', impactam, mas efeitos levam tempo.",
+  "fatos": [
+   "Taxa de desemprego nos EUA está em 4,5% ou menos pelo maior período em 5 anos",
+   "Setor manufatureiro criou 101 mil empregos até outubro, após perder 113 mil no ano anterior",
+   "Cortes no financiamento do Medicaid para saúde estão previstos a partir de 1º de janeiro de 2027",
+   "Adoção da IA mostra pouca transformação concreta no mercado de trabalho até agora",
+   "45% dos data centers planejados estão em estados que podem aumentar restrições políticas",
+   "Mercado de trabalho sofre com envelhecimento da população e menor imigração líquida",
+   "Empresas enfrentam incertezas em tarifas e preços de energia, mas incertezas podem cair",
+   "Economistas citam que mudanças políticas costumam levar tempo para afetar empregos",
+   "Governo federal dividido pode levar a impasses e paradas administrativas",
+   "Salários ficam atrasados diante da inflação, e desemprego de longa duração cresce"
+  ],
+  "explicacao": [
+   "O mercado de trabalho americano segue resiliente, com taxa de desemprego em 4,5% ou menos pelo maior período em cinco anos e ritmo acelerado de contratações no último relatório de outubro. No entanto, o desemprego de longa duração cresce e salários não acompanham a inflação.",
+   "O fenômeno político 'blue tsunami', ou onda azul democrata, traz expectativas de mudanças, mas especialistas alertam que transformações estruturais, como envelhecimento da força de trabalho e avanços da IA, não mudam rapidamente. Políticas de estímulo à imigração ou natalidade tardam a apresentar resultados.",
+   "Governos estaduais podem promover ações locais que movimentem a economia, como ampliar transporte e moradia, porém seus efeitos são graduais. No âmbito federal, impasses e vetos limitam alterações rápidas, embora isso gere um ambiente de menor incerteza para empresas e trabalhadores.",
+   "Tarifas comerciais e conflitos internacionais influenciam custos e empregos, com sinais positivos no setor manufatureiro. Já a adoção da inteligência artificial preocupa quanto ao futuro do emprego, sem, até o momento, impacto transformador no mercado. Cortes no Medicaid em 2027 ameaçam o setor de saúde."
+  ],
+  "detalhes": [
+   "Relatório de empregos de outubro mostra contratações no ritmo mais rápido dos últimos 3 anos",
+   "Envelhecimento e aposentadoria dos Baby Boomers reduzem a força de trabalho",
+   "Políticas para aumentar a imigração ou incentivar natalidade têm impacto a longo prazo",
+   "Estados podem investir em transporte e moradia, mas retorno demora a aparecer",
+   "Tarifas elevam custos ao consumidor e pressionam a inflação",
+   "Conflitos EUA-Israel-Irã geraram choque energético que agravou inflação",
+   "Risco de cortes no Medicaid pode afetar emprego e serviços em áreas vulneráveis"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Cory Stahle, economista sênior do Indeed",
+    "oque": "Mudanças políticas não alteram o mercado de trabalho da noite para o dia"
+   },
+   {
+    "quem": "Tyler Schipper, professor associado de economia",
+    "oque": "Medidas estaduais podem impactar a economia mais rápido que ações federais"
+   },
+   {
+    "quem": "Gus Faucher, economista-chefe da PNC",
+    "oque": "Redução da incerteza em tarifas é positiva para o mercado de trabalho"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "outubro de 2023",
+    "oque": "Relatório mostra alta de contratações no mercado de trabalho dos EUA"
+   },
+   {
+    "quando": "1º de janeiro de 2027",
+    "oque": "Cortes previstos no Medicaid que podem afetar o setor de saúde"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Blue Tsunami",
+    "significado": "Fenômeno de vitória democrata nas eleições americanas"
+   },
+   {
+    "termo": "Medicaid",
+    "significado": "Programa de assistência médica para pessoas de baixa renda nos EUA"
+   },
+   {
+    "termo": "Inteligência Artificial (IA)",
+    "significado": "Tecnologia que simula inteligência humana em máquinas"
+   }
+  ],
+  "pergunta": "Como você acha que a política pode afetar seu emprego ou investimentos?",
+  "tamanhoTexto": 11420,
+  "numeros": [
+   {
+    "valor": "4,5%",
+    "rotulo": "taxa de desemprego nos EUA mantida pelos últimos cinco anos"
+   },
+   {
+    "valor": "101.000",
+    "rotulo": "novos empregos no setor manufatureiro até outubro"
+   },
+   {
+    "valor": "113.000",
+    "rotulo": "empregos perdidos no setor manufatureiro em 2022"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "capacidade planejada de data centers em estados com restrições políticas"
+   },
+   {
+    "valor": "1º de janeiro de 2027",
+    "rotulo": "data para os cortes no Medicaid no setor de saúde"
+   },
+   {
+    "valor": "12,7 milhões",
+    "rotulo": "pessoas empregadas no setor manufatureiro nos EUA"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Desemprego em 4,5%",
+  "porQueImporta": "Quem opera ou investe deve entender que o mercado de trabalho americano, mesmo estável, enfrenta mudanças lentas que impactam oferta de empregos, renda e setores como manufatura e saúde. Mudanças políticas demoram a refletir, exigindo análise cuidadosa das notícias para decisões mais conscientes.",
+  "impactoMercado": "O cenário político e econômico nos EUA pode afetar ações, dólar e setores como saúde, manufatura e tecnologia. Expectativas com IA e tarifas influenciam custos e investimentos. Para investidores, acompanhar esses movimentos é crucial para entender riscos e oportunidades dentro do ambiente global.",
+  "entenda": "O mercado de trabalho mede a saúde do emprego e renda em um país. A taxa de desemprego indica a parcela sem trabalho. Fatores como políticas públicas, tecnologia e envelhecimento da população influenciam seu funcionamento. Mudanças políticas, como as eleições, costumam gerar efeitos graduais, não imediatos.",
+  "observar": "Fique atento ao impacto dos cortes no Medicaid em 2027, novas políticas estaduais sobre habitação e transporte, negociações orçamentárias no Congresso federal, e relatórios trimestrais de emprego para sinais de mudanças no mercado.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes",
+   "CLT"
+  ],
+  "angulo": "Explicar a relação entre política americana, emprego e economia ajuda traders e investidores a entenderem os efeitos gradativos no mercado e a importância de se informar, destacando a carreira no mercado financeiro.",
+  "gancho": "*Onda azul* no emprego americano",
+  "ideias": [
+   "O que é o 'blue tsunami' e seus impactos?",
+   "Por que o desemprego dos EUA está parado mesmo com contratações?",
+   "Como a IA muda o mercado de trabalho americano?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-08T13:21:42-03:00",
+  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/onda-azul-na-politica-pode-sacudir-mercado-de-trabalho-nos-eua/",
+  "publicadoEm": "2026-11-08T01:31:01-03:00",
+  "data": "2026-11-08",
+  "id": "2026-11-08-03"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "core-cpi-yoy-october-2026",
+  "titulo": "Mercado de previsões vê 85.5% de chance do Core CPI ser 2.6% em outubro de 2026",
+  "resumo": "Essa probabilidade é uma indicação do controle da inflação, sendo monitorada por investidores.",
+  "probs": [
+   {
+    "opcao": "2.6%",
+    "prob": 85.5
+   },
+   {
+    "opcao": "2.5%",
+    "prob": 9.6
+   },
+   {
+    "opcao": "2.7%",
+    "prob": 2.4
+   },
+   {
+    "opcao": "2.3%",
+    "prob": 0.2
+   }
+  ],
+  "prazo": "2026-11-11",
+  "volume24h": "US$ 6 mil",
+  "fatos": [
+   "2.6%: 85,5%",
+   "2.5%: 9,6%",
+   "2.7%: 2,4%",
+   "2.3%: 0,2%"
+  ],
+  "numeros": [
+   {
+    "valor": "85,5%",
+    "rotulo": "2.6%"
+   },
+   {
+    "valor": "9,6%",
+    "rotulo": "2.5%"
+   },
+   {
+    "valor": "2,4%",
+    "rotulo": "2.7%"
+   },
+   {
+    "valor": "0,2%",
+    "rotulo": "2.3%"
+   }
+  ],
+  "destaque": "85,5%",
+  "gancho": "Inflação *em foco*",
+  "entenda": "O índice de preços ao consumidor é essencial para avaliar a inflação e as políticas monetárias futuras.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/core-cpi-yoy-october-2026",
+  "publicadoEm": "2026-11-08T13:21:42-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-08T13:21:42-03:00",
+  "data": "2026-11-08",
+  "status": "nova",
+  "id": "2026-11-08-p1"
+ },
+ {
   "titulo": "Subsídios a combustíveis fósseis chegam a R$ 54,1 bi no Brasil em 2025",
   "resumo": "Brasil destinou R$ 54,12 bilhões em subsídios federais aos combustíveis fósseis em 2025, representando 70,14% do total de R$ 77,16 bilhões às fontes de energia.",
   "fatos": [
@@ -5287,71 +5747,6 @@
   "publicadoEm": "2026-11-05T18:26:15-03:00",
   "data": "2026-11-05",
   "id": "2026-11-05-10"
- },
- {
-  "tipo": "sinal",
-  "slug": "bitcoin-above-on-november-7-2026",
-  "titulo": "Mercado de previsões vê 99.2% de chance de Bitcoin acima de 68,000 em 7 de novembro",
-  "resumo": "A probabilidade é precificada por apostadores, refletindo o otimismo em relação ao preço do Bitcoin.",
-  "probs": [
-   {
-    "opcao": "Acima de 68,000",
-    "prob": 99.2
-   },
-   {
-    "opcao": "Acima de 70,000",
-    "prob": 97.9
-   },
-   {
-    "opcao": "Acima de 72,000",
-    "prob": 94.7
-   },
-   {
-    "opcao": "Acima de 74,000",
-    "prob": 81.7
-   }
-  ],
-  "prazo": "2026-11-07",
-  "volume24h": "US$ 115 mil",
-  "fatos": [
-   "Acima de 68,000: 99,2%",
-   "Acima de 70,000: 97,9%",
-   "Acima de 72,000: 94,7%",
-   "Acima de 74,000: 81,7%"
-  ],
-  "numeros": [
-   {
-    "valor": "99,2%",
-    "rotulo": "Acima de 68,000"
-   },
-   {
-    "valor": "97,9%",
-    "rotulo": "Acima de 70,000"
-   },
-   {
-    "valor": "94,7%",
-    "rotulo": "Acima de 72,000"
-   },
-   {
-    "valor": "81,7%",
-    "rotulo": "Acima de 74,000"
-   }
-  ],
-  "destaque": "99,2%",
-  "gancho": "*Perspectivas otimistas para o Bitcoin*",
-  "entenda": "O preço do Bitcoin é influenciado por diversos fatores, como a adoção institucional e as mudanças de regulação no mercado cripto.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bitcoin-above-on-november-7-2026",
-  "publicadoEm": "2026-11-05T18:34:11-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-05T18:34:11-03:00",
-  "data": "2026-11-05",
-  "status": "nova",
-  "id": "2026-11-05-p2"
  },
  {
   "tipo": "sinal",

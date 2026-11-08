@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-07T21:54:37-03:00",
-  "novas": 5,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-08T13:21:42-03:00",
+  "novas": 4,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 nova(s) e 1 atualizada(s): Subsídios energia 2025; Binance e o maior roubo histórico; Inflação e Emprego nos EUA.",
+  "mensagem": "4 nova(s): CSN vende unidade de cimentos; TAG Heuer, F1 e crescimento no Brasil; Onda azul no emprego americano.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-08T13:21:42-03:00",
    "2026-11-07T21:54:37-03:00",
    "2026-11-07T16:37:19-03:00",
    "2026-11-07T12:55:57-03:00",
@@ -20,12 +21,11 @@
    "2026-11-05T22:47:25-03:00",
    "2026-11-05T18:34:11-03:00",
    "2026-11-05T14:40:07-03:00",
-   "2026-11-04T22:48:05-03:00",
-   "2026-11-04T18:29:41-03:00"
+   "2026-11-04T22:48:05-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 8
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
@@ -50,14 +50,14 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,7 mil",
-    "var": "-0,19%"
+    "v": "US$ 76,0 mil",
+    "var": "+0,32%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.377",
-    "var": "-2,68%"
+    "var": "+0,31%"
    },
    {
     "k": "NDX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.074,90",
-    "var": "+2,65%"
+    "v": "US$ 4.079,50",
+    "var": "-0,83%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 21h",
-  "data": "2026-11-07",
-  "atualizadoEm": "2026-11-07T21:54:37-03:00",
+  "hora": "dom 13h",
+  "data": "2026-11-08",
+  "atualizadoEm": "2026-11-08T13:21:42-03:00",
   "ibov": "168.498",
   "ibovVar": "+1,39%",
   "dolar": "R$ 5,50",
   "dolarVar": "",
-  "btc": "US$ 75,7 mil"
+  "btc": "US$ 76,0 mil"
  }
 }
