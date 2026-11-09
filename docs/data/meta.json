@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-08T16:57:34-03:00",
-  "novas": 3,
+  "ultimaColeta": "2026-11-08T22:12:31-03:00",
+  "novas": 1,
   "atualizadas": 2,
   "status": "ok",
-  "mensagem": "3 nova(s) e 2 atualizada(s): Inflação e juros em dilema; Iraque, Ormuz e petróleo; IA e eletrificação na COP31.",
+  "mensagem": "1 nova(s) e 2 atualizada(s): Tributos e mercado: alíquota CBS.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-08T22:12:31-03:00",
    "2026-11-08T16:57:34-03:00",
    "2026-11-08T13:21:42-03:00",
    "2026-11-07T21:54:37-03:00",
@@ -20,12 +21,11 @@
    "2026-11-06T13:56:28-03:00",
    "2026-11-05T23:30:41-03:00",
    "2026-11-05T22:47:25-03:00",
-   "2026-11-05T18:34:11-03:00",
-   "2026-11-05T14:40:07-03:00"
+   "2026-11-05T18:34:11-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 5
+  "textosCompletos": 3
  },
  "placar": {
   "itens": [
@@ -38,26 +38,26 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,50",
-    "var": ""
+    "v": "R$ 5,51",
+    "var": "+0,04%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 6,14",
-    "var": "-0,68%"
+    "var": "+0,06%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,8 mil",
-    "var": "+0,17%"
+    "v": "US$ 75,2 mil",
+    "var": "-0,66%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.377",
-    "var": "+0,31%"
+    "var": "-2,68%"
    },
    {
     "k": "NDX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.079,50",
-    "var": "-0,83%"
+    "v": "US$ 4.112,70",
+    "var": "+0,93%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 16h",
+  "hora": "dom 22h",
   "data": "2026-11-08",
-  "atualizadoEm": "2026-11-08T16:57:34-03:00",
+  "atualizadoEm": "2026-11-08T22:12:31-03:00",
   "ibov": "168.498",
   "ibovVar": "+1,39%",
-  "dolar": "R$ 5,50",
-  "dolarVar": "",
-  "btc": "US$ 75,8 mil"
+  "dolar": "R$ 5,51",
+  "dolarVar": "+0,04%",
+  "btc": "US$ 75,2 mil"
  }
 }
