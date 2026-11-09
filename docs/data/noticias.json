@@ -1,5 +1,929 @@
 [
  {
+  "titulo": "Ibovespa cresce 2,22%, impulsionado pela queda do petróleo e bolsa externa",
+  "resumo": "Ibovespa subiu 2,22% e alcançou 172.236 pontos na segunda (9), após forte queda do petróleo e alta das bolsas nos EUA. Dólar recuou 0,06%, fechando a R$ 5,5056, revertendo alta durante o dia.",
+  "fatos": [
+   "Ibovespa fechou aos 172.236,05 pontos, alta de 2,22%",
+   "Dólar comercial fechou em queda de 0,06%, a R$ 5,5056",
+   "Petróleo Brent caiu 5,85%, a US$ 92,57 o barril",
+   "Petróleo WTI recuou 4,38%, a US$ 86,85 o barril",
+   "S&P 500 subiu 2,41%, Dow Jones avançou 2,21%, Nasdaq ganhou 2,67%",
+   "MBRF teve alta de 13%, liderando os ganhos do Ibovespa",
+   "CSN Mineração subiu 6% após venda da CSN Cimentos por R$ 12,7 bilhões",
+   "Petrobras caiu 1,03% nas ações ordinárias e 0,4% nas preferenciais",
+   "Boletim Focus elevou projeção da Selic para 13,75% em 2026"
+  ],
+  "explicacao": [
+   "Na segunda-feira, 9 de outubro, o Ibovespa avançou 2,22%, encerrando o pregão em 172.236 pontos, sua máxima do dia. O movimento acompanhou a recuperação dos mercados internacionais e a forte queda no preço do petróleo, que caiu abaixo de US$ 93 o barril do Brent.",
+   "A causa principal foi o recuo da tensão geopolítica quando o presidente dos EUA, Donald Trump, indicou improbabilidade de novos ataques ao Irã, diminuindo o temor de efeito inflacionário e estimulando o apetite por ativos de risco, como ações.",
+   "Com menos pressão inflacionária, investidores locais se mostraram mais confiantes com o cenário econômico e também assimilaram o pronunciamento do presidente Lula reafirmando o compromisso com a responsabilidade fiscal, ainda que sem medidas concretas anunciadas.",
+   "Agora, o mercado seguirá atento ao desenvolvimento das negociações internacionais e a divulgação dos próximos dados econômicos, como o Boletim Focus e resultados trimestrais das empresas, que podem confirmar o rumo do índice e do câmbio."
+  ],
+  "detalhes": [
+   "Ibovespa oscilou entre 168.498 e 172.236 pontos durante o dia",
+   "Declarações de Trump sobre Irã reduziram risco de conflito",
+   "Lula reafirmou compromisso fiscal em pronunciamento no domingo 8",
+   "Setores bancário e de mineração lideraram ganhos do índice",
+   "Dólar oscilou durante o dia entre R$ 5,489 e R$ 5,528",
+   "Ações da Brava Energia recuaram quase 4%, entre maiores perdas",
+   "Expectativa de reversão da suspensão de importação das Filipinas impulsionou frigoríficas"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Perri, economista-chefe da Forum Investimentos",
+    "oque": "Lula mudou tom ao mencionar preocupação com dívida em rede nacional, apesar de pouca clareza fiscal."
+   },
+   {
+    "quem": "Emerson Junior, head de câmbio da Convexa Investimentos",
+    "oque": "Mercado permanece cauteloso pela ausência de detalhes em medidas fiscais e equipe econômica indefinida."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "8 de outubro",
+    "oque": "Pronunciamento de Lula reafirmou compromisso fiscal, sem medidas concretas"
+   },
+   {
+    "quando": "9 de outubro",
+    "oque": "Ibovespa subiu 2,22% após queda de petróleo e alta de bolsas nos EUA"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede o desempenho das ações mais negociadas na bolsa brasileira."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia usada para controlar inflação e condições de crédito."
+   },
+   {
+    "termo": "Petróleo Brent",
+    "significado": "Referência internacional para o preço do petróleo bruto negociado em Londres."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da queda do petróleo nas ações brasileiras?",
+  "tamanhoTexto": 13484,
+  "numeros": [
+   {
+    "valor": "172.236",
+    "rotulo": "fechamento do Ibovespa"
+   },
+   {
+    "valor": "2,22%",
+    "rotulo": "alta diária do Ibovespa"
+   },
+   {
+    "valor": "0,06%",
+    "rotulo": "queda do dólar contra real"
+   },
+   {
+    "valor": "92,57",
+    "rotulo": "preço barril do petróleo Brent (US$)"
+   },
+   {
+    "valor": "86,85",
+    "rotulo": "preço barril do petróleo WTI (US$)"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "projeção Selic fim de 2026 pelo Boletim Focus"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "2,22% de alta",
+  "porQueImporta": "Essa alta mostra como o mercado é sensível a fatores externos como política internacional e preços de commodities, impactando diretamente a disposição dos investidores para assumir riscos e afetando índices e moedas no Brasil.",
+  "impactoMercado": "O movimento recente pode favorecer ações de setores ligados à mineração e bancos, enquanto a queda do petróleo afeta negativamente empresas de energia como a Petrobras. O dólar mais estável indica menor volatilidade cambial no curto prazo.",
+  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, que reflete a média do desempenho das ações mais negociadas. Quando o preço do petróleo cai, reduz o risco inflacionário global, o que tende a melhorar o sentimento dos investidores e elevar as bolsas.",
+  "observar": "Nas próximas semanas, fique de olho em novas declarações internacionais sobre o Irã, dados do Boletim Focus, e os resultados das empresas ligadas à mineração e ao setor bancário.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A notícia mostra como eventos globais como política externa podem afetar índices e ativos no Brasil, despertando o interesse para entender a bolsa e a economia, com foco na importância da análise macro e notícias para operar melhor.",
+  "gancho": "*Ibovespa* sobe com *petróleo* em queda",
+  "ideias": [
+   "Como o petróleo influencia o Ibovespa?",
+   "Entenda a relação do dólar e a bolsa na segunda-feira",
+   "Lula reafirma compromisso fiscal e mercado reage"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InvestNews; Agência Brasil Economia; Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://investnews.com.br/investimentos/ibovespa-salta-mais-de-2-puxado-por-exterior-dolar-reverte-alta/",
+  "publicadoEm": "2026-11-09T19:09:44-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-02"
+ },
+ {
+  "titulo": "Itaúsa registra lucro recorrente de R$ 5,1 bi no 3º trimestre, alta de 25%",
+  "resumo": "A holding Itaúsa alcançou lucro líquido recorrente de R$ 5,1 bilhões no terceiro trimestre de 2026, com crescimento de 25% na comparação anual, impulsionada por Itaú Unibanco, Aegea e NTS, segundo balanço divulgado em 9 de novembro.",
+  "fatos": [
+   "Lucro recorrente de R$ 5,1 bilhões no 3º trimestre de 2026",
+   "Crescimento de 25% na comparação anual",
+   "Setor não financeiro mais que dobrou resultado, alcançando R$ 593 milhões",
+   "NTS aumentou lucro de R$ 84 milhões para R$ 213 milhões",
+   "Itaú Unibanco contribuiu com R$ 4,693 bilhões para o lucro",
+   "Rah retorno sobre patrimônio líquido (ROE) de 21,1% no trimestre",
+   "Dívida líquida da holding subiu 29%, para R$ 901 milhões",
+   "Patrimônio líquido chegou a R$ 97,982 bilhões, alta de 6%",
+   "Dexco apresentou prejuízo de R$ 10 milhões no trimestre",
+   "Despesas administrativas cresceram 7,9% e despesas tributárias caíram 50,7%"
+  ],
+  "explicacao": [
+   "A Itaúsa apresentou lucro líquido recorrente de R$ 5,1 bilhões no terceiro trimestre de 2026, aumento de 25% em relação ao mesmo período do ano anterior. O setor não financeiro da holding mais que dobrou seu resultado para R$ 593 milhões, beneficiado pela NTS.",
+   "A alta no lucro foi liderada pelas contribuições positivas do Itaú Unibanco, da Aegea e da NTS. A NTS quase triplicou seu resultado, de R$ 84 milhões para R$ 213 milhões, impulsionada pela valorização dos investimentos e aumento de capital na Aegea.",
+   "O retorno sobre patrimônio líquido da Itaúsa subiu para 21,1% no trimestre, mostrando maior rentabilidade em comparação ao ano anterior. Apesar do crescimento, a dívida líquida aumentou 29%, chegando a R$ 901 milhões, em função dos aportes na Aegea.",
+   "O presidente Alfredo Setubal destacou a resiliência da Itaúsa diante da incerteza econômica global, apontando a consistência do crescimento do Itaú Unibanco, além do desempenho operacional das investidas NTS, Alpargatas, Motiva e Copa Energia como fatores positivos."
+  ],
+  "detalhes": [
+   "Data do balanço: 9 de novembro de 2026",
+   "Portfólio da Itaúsa inclui Itaú Unibanco, Aegea, Alpargatas, Motiva, Dexco, NTS e Copa Energia",
+   "Contribuição das empresas não financeiras resultou em R$ 593 milhões no trimestre",
+   "Aumento de capital na Aegea impactou positivamente seus resultados no trimestre",
+   "Motiva, Alpargatas e Copa Energia tiveram crescimento de resultados entre 8,7% e 9,6%",
+   "Melhora operacional da Dexco veio da divisão de madeira, apesar do prejuízo",
+   "Lucro contábil total foi de R$ 4,955 bilhões, menor que o recorrente devido a efeitos não recorrentes"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Alfredo Setubal, presidente da Itaúsa",
+    "oque": "Destacou a solidez do portfólio e disciplina na alocação de capital mesmo em cenário de incertezas globais"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Itaúsa registrou lucro líquido recorrente recorde"
+   },
+   {
+    "quando": "9 de novembro de 2026",
+    "oque": "Divulgação do balanço financeiro do 3º trimestre"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro recorrente",
+    "significado": "Resultado financeiro das operações principais da empresa, sem efeitos extraordinários"
+   },
+   {
+    "termo": "Holding",
+    "significado": "Empresa que controla outras empresas, consolidando seus resultados"
+   },
+   {
+    "termo": "Retorno sobre patrimônio líquido (ROE)",
+    "significado": "Mede a rentabilidade do capital investido pelos acionistas"
+   }
+  ],
+  "pergunta": "Como você vê o impacto dos resultados da Itaúsa no mercado financeiro atual?",
+  "tamanhoTexto": 7484,
+  "numeros": [
+   {
+    "valor": "5,1 bilhões",
+    "rotulo": "Lucro líquido recorrente em reais no 3º trimestre de 2026"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "Crescimento do lucro recorrente anual"
+   },
+   {
+    "valor": "593 milhões",
+    "rotulo": "Lucro do setor não financeiro no trimestre"
+   },
+   {
+    "valor": "21,1%",
+    "rotulo": "Retorno recorrente sobre patrimônio líquido"
+   },
+   {
+    "valor": "29%",
+    "rotulo": "Alta na dívida líquida da holding"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro recorrente",
+    "antes": "R$ 4,1 bilhões no 3º trimestre de 2025",
+    "depois": "R$ 5,1 bilhões no 3º trimestre de 2026"
+   },
+   {
+    "item": "Lucro setor não financeiro",
+    "antes": "R$ 267 milhões no 3º trimestre de 2025",
+    "depois": "R$ 593 milhões no 3º trimestre de 2026"
+   },
+   {
+    "item": "Lucro NTS",
+    "antes": "R$ 84 milhões",
+    "depois": "R$ 213 milhões"
+   },
+   {
+    "item": "Prejuízo Dexco",
+    "antes": "R$ 17 milhões",
+    "depois": "R$ 10 milhões"
+   }
+  ],
+  "destaque": "R$ 5,1 bi",
+  "porQueImporta": "O lucro crescente da Itaúsa reflete a força das principais empresas do grupo, especialmente o Itaú Unibanco e as investidas não financeiras, mostrando a capacidade da holding de gerar valor mesmo em cenário econômico desafiador, importante para investidores e interessados no setor financeiro.",
+  "impactoMercado": "O resultado positivo pode impulsionar a confiança do mercado em ações da Itaúsa e de suas empresas controladas, influenciando setores bancário, de serviços e infraestrutura, além de indicar potencial valorização frente ao aumento do retorno sobre patrimônio e melhora operacional das investidas.",
+  "entenda": "Lucro recorrente é o resultado operacional atribuído às atividades principais de uma empresa, excluindo eventos extraordinários. A Itaúsa é uma holding que controla várias empresas como o Itaú Unibanco, agregando resultados financeiros e operacionais para apresentar seu desempenho consolidado.",
+  "observar": "Acompanhe os próximos balanços trimestrais e o desempenho financeiro das investidas Aegea e NTS, especialmente os efeitos dos aportes de capital programados em 2026, para entender como isso impactará os resultados futuros da Itaúsa.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como uma holding diversificada consegue crescer mesmo em ambiente desafiador, despertando interesse de quem quer entender o funcionamento e os resultados das maiores empresas no mercado financeiro.",
+  "gancho": "*Itaúsa* registra lucro recorde",
+  "ideias": [
+   "Como o Itaú Unibanco impulsiona a Itaúsa?",
+   "Entenda o papel das investidas não financeiras da Itaúsa",
+   "O que é lucro recorrente e por que importa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Folha Mercado; Valor Econômico",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/itausa-tem-alta-de-25-no-lucro-recorrente-para-r-51-bi-no-3o-tri.shtml",
+  "publicadoEm": "2026-11-09T20:40:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-03"
+ },
+ {
+  "titulo": "Magazine Luiza tem prejuízo de R$ 10,7 mi no 3º tri de 2026",
+  "resumo": "Magazine Luiza reverte lucro de R$ 84,6 mi em 2025 para prejuízo de R$ 10,7 mi no 3º trimestre de 2026. Lucro ajustado de R$ 13,9 mi caiu 34,6% ante igual período do ano passado.",
+  "fatos": [
+   "Magazine Luiza teve prejuízo de R$ 10,7 milhões no 3º trimestre de 2026.",
+   "Lucro ajustado no 3º trimestre foi de R$ 13,9 milhões, queda de 34,6%.",
+   "Receita líquida caiu 0,9%, totalizando R$ 8,9 bilhões.",
+   "Vendas totais somaram R$ 14,6 bilhões, recuo de 3,6% na base anual.",
+   "Vendas em lojas físicas cresceram 10% na comparação anual.",
+   "E-commerce teve queda de 9,8% nas vendas totais.",
+   "Ebitda ajustado ficou praticamente estável em R$ 710,1 milhões.",
+   "Dívida líquida no fim de setembro foi de R$ 3,11 bilhões, redução em relação a junho.",
+   "A empresa tem 1.238 lojas ao fim de setembro, sete a menos que ano anterior.",
+   "Parcerias com Shopee, Mercado Livre e Amazon ajudaram na expansão do marketplace."
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, o Magazine Luiza registrou prejuízo líquido de R$ 10,7 milhões, revertendo o lucro de R$ 84,6 milhões do mesmo período em 2025. O lucro ajustado foi de R$ 13,9 milhões, melhorando ante o prejuízo ajustado de R$ 50,4 milhões do segundo trimestre, mas ficando 34,6% menor que no terceiro trimestre de 2025.",
+   "A piora no resultado contábil se deve principalmente ao impacto das despesas financeiras elevadas, influenciadas pelas taxas de juros altas, além de ajustes não recorrentes, como provisões para riscos tributários, cíveis e despesas de reestruturação. O diretor financeiro Roberto Bellissimo destacou que houve início de reversão dessa tendência neste trimestre.",
+   "A receita líquida no período foi de R$ 8,9 bilhões, praticamente estável com ligeira queda de 0,9% em relação ao ano anterior. As vendas totais caíram 3,6%, devido ao crescimento de 10% nas lojas físicas e queda de 9,8% no e-commerce, que é o principal ponto de atenção para recuperação.",
+   "A empresa expressou confiança em acelerar as vendas no último trimestre do ano, citando crescimento nas vendas físicas de 12% em setembro e 16% em outubro, além da recuperação do e-commerce de estoque próprio, que registrou alta de 5% e 14% nestes meses respectivamente."
+  ],
+  "detalhes": [
+   "O prejuízo de R$ 10,7 milhões no trimestre reverte o lucro de R$ 84,6 milhões do mesmo trimestre do ano anterior.",
+   "Os ajustes incluíram provisões para riscos tributários e despesas de reestruturação.",
+   "O impacto das taxas de juros altas aumentou as despesas financeiras da empresa.",
+   "As vendas das lojas físicas cresceram, mitigando a queda maior do e-commerce.",
+   "As vendas de e-commerce com estoque próprio (1P) aceleraram nos últimos meses, após queda acumulada de 12% no ano.",
+   "O Magazine Luiza tem 1.012 lojas convencionais e 226 virtuais, totalizando 1.238.",
+   "O Ebitda ajustado do trimestre registrou leve queda de 0,2%, ficando estável em R$ 710,1 milhões."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Roberto Bellissimo, diretor financeiro do Magazine Luiza",
+    "oque": "Destacou que o impacto das altas taxas de juros afetou a rentabilidade, mas que em 2026 houve reversão dessa tendência."
+   },
+   {
+    "quem": "Roberto Bellissimo, diretor financeiro",
+    "oque": "Comentou que a consolidação do mercado, após concorrente fechar lojas, cria oportunidade para ganhar participação."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2025",
+    "oque": "Magazine Luiza teve lucro de R$ 84,6 milhões."
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Apresentou prejuízo de R$ 10,7 milhões, com lucro ajustado de R$ 13,9 milhões."
+   },
+   {
+    "quando": "Setembro e outubro de 2026",
+    "oque": "Vendas físicas cresceram 12% e 16%, e e-commerce 1P cresceu 5% e 14% respectivamente."
+   },
+   {
+    "quando": "2º trimestre de 2026",
+    "oque": "Magazine Luiza teve prejuízo ajustado de R$ 50,4 milhões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido ajustado",
+    "significado": "Lucro da empresa excluindo efeitos não recorrentes para análise clara."
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização."
+   },
+   {
+    "termo": "Receita líquida",
+    "significado": "Total de vendas descontados impostos e devoluções."
+   }
+  ],
+  "pergunta": "Você acredita que o e-commerce do Magalu vai se recuperar ainda em 2026?",
+  "tamanhoTexto": 7821,
+  "numeros": [
+   {
+    "valor": "R$ 10,7 milhões",
+    "rotulo": "Prejuízo líquido no 3º trimestre de 2026"
+   },
+   {
+    "valor": "R$ 13,9 milhões",
+    "rotulo": "Lucro líquido ajustado no 3º trimestre de 2026"
+   },
+   {
+    "valor": "-34,6%",
+    "rotulo": "Queda do lucro ajustado em relação ao 3º trimestre de 2025"
+   },
+   {
+    "valor": "R$ 8,9 bilhões",
+    "rotulo": "Receita líquida no 3º trimestre de 2026"
+   },
+   {
+    "valor": "-0,9%",
+    "rotulo": "Queda da receita líquida ano a ano"
+   },
+   {
+    "valor": "R$ 14,6 bilhões",
+    "rotulo": "Vendas totais no 3º trimestre de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "R$ 84,6 milhões (3º tri 2025)",
+    "depois": "Prejuízo de R$ 10,7 milhões (3º tri 2026)"
+   },
+   {
+    "item": "Lucro líquido ajustado",
+    "antes": "R$ 21,3 milhões (3º tri 2025, cálculo implícito)",
+    "depois": "R$ 13,9 milhões (3º tri 2026)"
+   },
+   {
+    "item": "Prejuízo líquido ajustado",
+    "antes": "R$ 50,4 milhões (2º tri 2026)",
+    "depois": "Lucro de R$ 13,9 milhões (3º tri 2026)"
+   },
+   {
+    "item": "Dívida líquida",
+    "antes": "R$ 3,18 bilhões (junho 2026)",
+    "depois": "R$ 3,11 bilhões (setembro 2026)"
+   }
+  ],
+  "destaque": "Prejuízo de R$",
+  "porQueImporta": "Este resultado mostra como o ambiente de juros altos e custos financeiros impacta diretamente a lucratividade das varejistas. Para quem investe, representa maior atenção ao endividamento e ao desempenho operacional, principalmente com a recuperação ainda incerta do e-commerce.",
+  "impactoMercado": "A queda do lucro e o prejuízo podem afetar o desempenho das ações do Magazine Luiza e de varejistas. Setores ligados a lojas físicas e e-commerce podem apresentar volatilidade, assim como áreas ligadas a crédito e dívidas, dada a influência da taxa de juros nas despesas financeiras.",
+  "entenda": "O lucro líquido indica o resultado final após todos os custos e impostos. Já o lucro ajustado exclui impactos financeiros e provisões não recorrentes, mostrando uma visão mais clara da operação do negócio. Ebitda é lucro antes de juros, impostos, depreciação e amortização, medindo o desempenho operacional.",
+  "observar": "Fique atento aos resultados do 4º trimestre de 2026 e aos dados mensais de vendas como setembro e outubro, que indicam recuperação nas vendas físicas e e-commerce.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "O caso da Magazine Luiza exemplifica como taxas de juros e decisões operacionais impactam resultados financeiros, mostrando a importância de entender balanços para quem quer operar ou investir conscientemente.",
+  "gancho": "*Magalu* registra *prejuízo* no trimestre",
+  "ideias": [
+   "Entenda o prejuízo do Magazine Luiza no 3º trimestre de 2026",
+   "Impacto dos juros nas finanças do Magalu neste ano",
+   "Como as vendas nas lojas físicas ajudam a conter perdas do Magalu"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Valor Econômico; Folha Mercado",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/09/magazine-luiza-reverte-lucro-e-registra-prejuizo-de-r-107-milhoes-no-3o-trimestre.ghtml",
+  "publicadoEm": "2026-11-09T19:28:55-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-04"
+ },
+ {
+  "titulo": "Governo Lula prorroga desoneração da gasolina e etanol por 30 dias",
+  "resumo": "O governo Lula estende por mais um mês a desoneração de tributos federais sobre a gasolina e o etanol, além da subvenção para produtores de etanol. A medida valerá até 9 de dezembro, com impacto estimado em R$ 3,57 bilhões.",
+  "fatos": [
+   "Prorrogação da desoneração valerá até 9 de dezembro de 2026.",
+   "Impacto financeiro estimado da prorrogação é de R$ 3,57 bilhões.",
+   "Tributos federais sobre gasolina e etanol estão zerados desde outubro.",
+   "Subvenção ao etanol está fixada em R$ 0,428 por litro.",
+   "Compensação esperada pelo governo virá de receitas extras ligadas ao aumento do petróleo.",
+   "Desoneração foi anunciada originalmente em 9 de outubro de 2026.",
+   "Subvenção adicional de R$ 1,40 por litro ao diesel importado criada em outubro ainda está sob análise para continuidade.",
+   "A atual política mantém o diferencial competitivo do etanol em relação à gasolina conforme lei complementar 235/2016.",
+   "Preços do petróleo permanecem acima de US$ 90 por barril em novembro de 2026."
+  ],
+  "explicacao": [
+   "O governo de Luiz Inácio Lula da Silva decidiu prorrogar a desoneração federal sobre a gasolina e o etanol, bem como a subvenção adicional para os produtores de etanol por mais 30 dias, até 9 de dezembro de 2026. Essa ação consta em um decreto que será assinado pelo presidente.",
+   "A decisão decorre do aumento recente nos preços do petróleo no mercado internacional e das dificuldades políticas e econômicas para retirar os benefícios, dado o cenário geopolítico instável envolvendo o Oriente Médio e a guerra entre Rússia e Ucrânia.",
+   "Essa prorrogação mantém zerados os tributos federais sobre a gasolina (R$ 0,89 por litro) e o etanol (R$ 0,19 por litro), além de assegurar a subvenção ao etanol em R$ 0,428 por litro, preservando a competitividade do etanol frente à gasolina conforme a legislação vigente.",
+   "Para compensar o custo estimado de R$ 3,57 bilhões da medida, o governo espera arrecadar receitas extras pelas altas nos preços do petróleo, como royalties, tributos do setor e o imposto sobre exportação de petróleo, prorrogado até o final de 2026."
+  ],
+  "detalhes": [
+   "A desoneração foi implementada a 16 dias do segundo turno das eleições presidenciais de 2026.",
+   "O governo tentou inicialmente retirar os benefícios, mas reverteu a decisão após alta internacional do preço do petróleo.",
+   "O custo da desoneração da gasolina e do etanol é estimado em R$ 2,76 bilhões.",
+   "A subvenção adicional ao etanol consumirá R$ 813,41 milhões em 30 dias.",
+   "O governo deve manter a subvenção ao diesel, que já foi renovada por mais 30 dias no fim de outubro.",
+   "A prorrogação visa evitar repasse imediato de custos aos preços finais, especialmente do diesel, para não pressionar a inflação.",
+   "A volatilidade no Oriente Médio e o conflito Rússia-Ucrânia dificultam a retirada total dos subsídios."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "9 de outubro de 2026",
+    "oque": "Anúncio inicial da desoneração da gasolina e do etanol"
+   },
+   {
+    "quando": "13 de outubro de 2026",
+    "oque": "Publicação da portaria sobre subvenção adicional ao diesel importado"
+   },
+   {
+    "quando": "Fim de outubro de 2026",
+    "oque": "Renovação da subvenção ao diesel nacional por mais 30 dias"
+   },
+   {
+    "quando": "9 de novembro de 2026",
+    "oque": "Prorrogação da desoneração da gasolina e etanol anunciada"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Desoneração",
+    "significado": "Isenção ou redução temporária de tributos para baratear um produto."
+   },
+   {
+    "termo": "Subvenção",
+    "significado": "Ajuda financeira do governo para baixar o preço de um produto."
+   },
+   {
+    "termo": "Royalties",
+    "significado": "Receitas do governo sobre exploração de recursos naturais como petróleo."
+   }
+  ],
+  "pergunta": "Como você acha que a prorrogação da desoneração afeta o mercado de combustíveis?",
+  "tamanhoTexto": 6915,
+  "numeros": [
+   {
+    "valor": "R$ 3,57 bilhões",
+    "rotulo": "custo total da prorrogação dos benefícios"
+   },
+   {
+    "valor": "R$ 0,89 por litro",
+    "rotulo": "tributo federal zerado na gasolina"
+   },
+   {
+    "valor": "R$ 0,19 por litro",
+    "rotulo": "tributo federal zerado no etanol"
+   },
+   {
+    "valor": "R$ 0,428 por litro",
+    "rotulo": "subvenção ao etanol"
+   },
+   {
+    "valor": "R$ 2,76 bilhões",
+    "rotulo": "custo da desoneração da gasolina e do etanol"
+   },
+   {
+    "valor": "R$ 813,41 milhões",
+    "rotulo": "custo da subvenção adicional ao etanol"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 3,57 bilhões",
+  "porQueImporta": "Essa prorrogação impacta o custo dos combustíveis, fator que afeta diretamente a inflação e o custo de vida. Para investidores, entender como o governo administra subsídios ajuda a avaliar riscos macroeconômicos e pressões sobre juros e setores ligados a energia.",
+  "impactoMercado": "A manutenção dos subsídios pode segurar, temporariamente, os preços dos combustíveis e controlar pressões inflacionárias, afetando setores sensitivos como transporte e indústria. O mercado acompanha possíveis ajustes que podem influenciar juros futuros e a cotação do dólar.",
+  "entenda": "A desoneração é a redução ou isenção temporária de tributos para aliviar os preços de produtos como gasolina e etanol. Isso é feito para controlar a inflação e proteger a economia quando há alta dos preços internacionais, mas tem um custo para o governo, que pode ser compensado por receitas extras.",
+  "observar": "Fique atento às atualizações do decreto e possíveis decisões sobre a subvenção ao diesel importado, além da evolução dos preços internacionais do petróleo, que podem influenciar a permanência ou ajuste dos benefícios.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Essa notícia ajuda quem quer entender como decisões políticas influenciam preços de combustíveis e os efeitos dessas medidas no mercado financeiro, mostrando a importância do acompanhamento das políticas econômicas para a atuação no mercado.",
+  "gancho": "Desoneração dos *combustíveis* prorrogada",
+  "ideias": [
+   "Entenda a desoneração de gasolina e etanol em 2026",
+   "Como a prorrogação da desoneração impacta o mercado de energia",
+   "Por que o governo mantém subsídios nos combustíveis?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-vai-prorrogar-desoneracao-da-gasolina-e-do-etanol-por-mais-30-dias.shtml",
+  "publicadoEm": "2026-11-09T20:44:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-05"
+ },
+ {
+  "titulo": "Samarco tem prejuízo de US$ 544,3 mi no 3º trimestre de 2026",
+  "resumo": "Samarco registrou prejuízo líquido de US$ 544,3 milhões no 3º tri de 2026, queda de 48% frente a 2025. O resultado foi impactado por despesas de reparação da bacia do Rio Doce e custos financeiros.",
+  "fatos": [
+   "Prejuízo líquido de US$ 544,3 milhões no 3º tri de 2026",
+   "Queda de 48% no prejuízo líquido comparado ao 3º tri de 2025",
+   "Despesas de reparação da bacia do Rio Doce foram US$ 610,3 milhões no trimestre",
+   "Receita líquida de US$ 450,3 milhões, alta de 2%",
+   "Produção de pelotas e finos foi de 4,3 milhões de toneladas, alta de 4%",
+   "Vendas recuaram 5% para 3,9 milhões de toneladas",
+   "Ebitda ajustado foi US$ 222,1 milhões, recuo de 3%",
+   "Rompimento da barragem em Mariana ocorreu em 2015",
+   "Samarco é joint venture da Vale e da BHP",
+   "Gustavo Selayzim é diretor Financeiro, de Estratégia e Suprimentos"
+  ],
+  "explicacao": [
+   "A Samarco, empresa controlada pela Vale e pela BHP, divulgou prejuízo líquido de US$ 544,3 milhões no terceiro trimestre de 2026. Esse valor representa uma redução de 48% em relação às perdas de US$ 1,05 bilhão registradas no mesmo período de 2025.",
+   "Essa melhora ocorreu principalmente devido à diminuição das despesas relacionadas ao programa de reparação da bacia do Rio Doce após o rompimento da barragem em Mariana, Minas Gerais, em 2015, e à redução das despesas financeiras. As despesas de reparação passaram de US$ 1,63 bilhão para US$ 610,3 milhões no trimestre.",
+   "A receita líquida da mineradora cresceu 2%, totalizando US$ 450,3 milhões, sustentada por preços mais altos das pelotas de minério de ferro, mesmo com queda de 5% no volume de vendas. O Ebitda ajustado caiu 3%, refletindo custos maiores com efeito cambial e insumos.",
+   "A produção atingiu 4,3 milhões de toneladas, o maior volume trimestral desde a retomada das operações em 2020. O diretor financeiro Gustavo Selayzim destacou a consistência operacional e a trajetória gradual de melhora da Samarco."
+  ],
+  "detalhes": [
+   "Samarco atua na produção de pelotas e finos de minério de ferro",
+   "Receita subiu apesar da queda nos volumes vendidos, devido a preços maiores",
+   "Custos aumentaram principalmente por efeitos cambiais e gastos com insumos",
+   "A empresa retomou operações em 2020 após o desastre da barragem",
+   "Despesas financeiras também caíram, contribuindo para menor prejuízo",
+   "Compromissos socioambientais são amplos devido ao desastre de Mariana",
+   "Produção foi a maior trimestral desde a retomada da empresa"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Gustavo Selayzim, diretor Financeiro, de Estratégia e Suprimentos da Samarco",
+    "oque": "Resultados mostram resiliência e trajetória sustentável da Samarco"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2015",
+    "oque": "Rompimento da barragem em Mariana (MG)"
+   },
+   {
+    "quando": "Final de 2020",
+    "oque": "Retomada das operações da Samarco"
+   },
+   {
+    "quando": "9 de setembro de 2026",
+    "oque": "Divulgação do resultado financeiro do 3º trimestre"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Prejuízo líquido",
+    "significado": "Saldo negativo após todas receitas e despesas"
+   },
+   {
+    "termo": "Ebitda ajustado",
+    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Despesas socioambientais",
+    "significado": "Custos relacionados a reparações ambientais e sociais"
+   }
+  ],
+  "pergunta": "Você acha que a Samarco conseguirá reduzir ainda mais seus prejuízos futuros?",
+  "tamanhoTexto": 2855,
+  "numeros": [
+   {
+    "valor": "544,3 milhões",
+    "rotulo": "Prejuízo líquido no 3º tri de 2026 (US$)"
+   },
+   {
+    "valor": "1,05 bilhão",
+    "rotulo": "Prejuízo líquido no 3º tri de 2025 (US$)"
+   },
+   {
+    "valor": "610,3 milhões",
+    "rotulo": "Despesas com reparação no 3º tri de 2026 (US$)"
+   },
+   {
+    "valor": "1,63 bilhão",
+    "rotulo": "Despesas com reparação no 3º tri de 2025 (US$)"
+   },
+   {
+    "valor": "450,3 milhões",
+    "rotulo": "Receita líquida no 3º tri de 2026 (US$)"
+   },
+   {
+    "valor": "4,3 milhões",
+    "rotulo": "Produção de minério de ferro (toneladas) no 3º tri de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Prejuízo líquido",
+    "antes": "US$ 1,05 bilhão (3º tri 2025)",
+    "depois": "US$ 544,3 milhões (3º tri 2026)"
+   },
+   {
+    "item": "Despesas com reparação",
+    "antes": "US$ 1,63 bilhão (3º tri 2025)",
+    "depois": "US$ 610,3 milhões (3º tri 2026)"
+   }
+  ],
+  "destaque": "US$ 544,3 mi",
+  "porQueImporta": "A Samarco ainda enfrenta grandes desafios financeiros e socioambientais, mas a queda no prejuízo e o maior volume de produção indicam sinais de recuperação relevante para o setor de mineração. Isso impacta acionistas e fornecedores ligados à empresa e ao mercado de minério de ferro.",
+  "impactoMercado": "A redução do prejuízo pode influenciar a percepção dos investidores sobre a Samarco e suas controladoras Vale e BHP, afetando setores ligados à mineração. Custos e receitas ajustados refletem a importância da gestão financeiramente sustentável e dos compromissos ambientais na indústria.",
+  "entenda": "Prejuízo líquido representa o saldo negativo após todas as receitas e despesas. EBITDA é o lucro antes de juros, impostos, depreciação e amortização, mostrando a geração operacional. Despesas socioambientais são custos para reparar impactos ambientais, como acidentes com barragens.",
+  "observar": "Fique atento às próximas divulgações trimestrais da Samarco para acompanhar a evolução das despesas de reparação e resultados financeiros, além de dados sobre volumes de produção e vendas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia mostra como eventos socioambientais afetam financeiramente as mineradoras, destacando a importância de entender custos e receitas no setor. É essencial para quem quer operar ou investir em companhias minerais.",
+  "gancho": "*Samarco* e seus desafios financeiros",
+  "ideias": [
+   "Como a Samarco reduziu seu prejuízo em 2026?",
+   "Impacto das despesas socioambientais no resultado da Samarco",
+   "Produção em alta, prejuízo em queda: análise da Samarco no 3º tri"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/samarco-registra-prejuizo-liquido-de-us-5443-mi-no-3o-tri.shtml",
+  "publicadoEm": "2026-11-09T20:00:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-06"
+ },
+ {
+  "titulo": "TJ-SP suspende exclusão de CBS e IBS da base do ICMS",
+  "resumo": "O Tribunal de Justiça de São Paulo suspendeu 10 decisões que excluíam CBS e IBS da base de cálculo do ICMS. A medida evita perda estimada de R$ 10,2 bilhões em 2027 para o Estado.",
+  "fatos": [
+   "10 decisões judiciais sobre exclusão de CBS e IBS foram suspensas.",
+   "Decisão liminar dada em 9 de setembro de 2026 pelo desembargador Francisco Eduardo Loureiro.",
+   "Perda estimada de arrecadação em 2027: R$ 10,2 bilhões para São Paulo.",
+   "Além disso, municípios paulistas perderiam R$ 2,6 bilhões.",
+   "CBS e IBS substituirão PIS e Cofins a partir de 2027.",
+   "Mais de 60 mandados de segurança defendem exclusão desses tributos da base do ICMS.",
+   "Lei Kandir define a base do ICMS como o valor da operação, incluindo CBS e IBS.",
+   "Há precedente vinculante do STJ permitindo inclusão de PIS/Cofins na base do ICMS.",
+   "Supremo Tribunal Federal discutiu exclusão do ICMS da base do PIS/Cofins, não o contrário.",
+   "Projeto de lei sobre o tema está em debate no Congresso, sem votação."
+  ],
+  "explicacao": [
+   "O Tribunal de Justiça de São Paulo, por meio do desembargador Francisco Eduardo Loureiro, suspendeu dez decisões judiciais que autorizavam a exclusão das contribuições CBS e IBS da base de cálculo do ICMS no estado. A PGE-SP obteve essa liminar em 9 de setembro de 2026.",
+   "Essa suspensão ocorreu porque a exclusão dos tributos, que substituem o PIS e a Cofins a partir de 2027 pela reforma tributária, geraria uma perda estimada em R$ 10,2 bilhões para o Estado e R$ 2,6 bilhões para os municípios paulistas. A PGE-SP alega que a base do ICMS inclui CBS e IBS, conforme a Lei Kandir e precedentes judiciais.",
+   "A decisão entende que a redução da base de cálculo deve ser definida por lei específica, que ainda está em debate no Congresso Nacional. O presidente do TJ-SP destacou o risco de grave lesão à economia pública e repercussões financeiras relevantes caso as decisões que retiram CBS e IBS permaneçam vigentes.",
+   "Agora, as decisões que favoreciam os contribuintes foram suspensas, aguardando um exame definitivo pelos órgãos competentes. A controvérsia segue no Congresso e no campo jurídico, impactando a arrecadação estadual e municipal em 2027."
+  ],
+  "detalhes": [
+   "Quem: Tribunal de Justiça de São Paulo e PGE-SP, representada pelo desembargador Francisco Eduardo Loureiro.",
+   "Quando: decisão liminar em 9 de setembro de 2026; tributos começariam a ser cobrados em 2027.",
+   "Quanto: R$ 10,2 bilhões em perda para São Paulo, R$ 2,6 bilhões para municípios.",
+   "Como: suspensão de liminares e sentenças que permitiam exclusão da base do ICMS.",
+   "Contexto: CBS e IBS são novos tributos da reforma tributária que substituem PIS e Cofins.",
+   "Comparação: há precedente no STJ para inclusão de PIS/Cofins no ICMS, reforçando o argumento do estado.",
+   "Debate em aberto: Projeto de lei debate exclusão na base do ICMS, mas sem votação ainda."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Francisco Eduardo Loureiro, presidente do TJ-SP",
+    "oque": "Destacou risco de grave lesão à economia pública com as decisões suspensas, justificando a liminar."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "9/9/2026",
+    "oque": "TJ-SP concede liminar suspendendo decisões que excluíam CBS e IBS da base do ICMS."
+   },
+   {
+    "quando": "2027",
+    "oque": "Ano em que CBS e IBS começam a ser cobrados, substituindo PIS e Cofins."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CBS",
+    "significado": "Contribuição sobre Bens e Serviços, tributo federal substituto do PIS/Cofins."
+   },
+   {
+    "termo": "IBS",
+    "significado": "Imposto sobre Bens e Serviços, tributo estadual e municipal da reforma tributária."
+   },
+   {
+    "termo": "ICMS",
+    "significado": "Imposto sobre Circulação de Mercadorias e Serviços, tributo estadual tradicional."
+   }
+  ],
+  "pergunta": "Você entende como a base do ICMS influencia a arrecadação estadual?",
+  "tamanhoTexto": 6709,
+  "numeros": [
+   {
+    "valor": "10",
+    "rotulo": "decisões suspensas pelo TJ-SP"
+   },
+   {
+    "valor": "R$ 10,2 bilhões",
+    "rotulo": "perda estimada para São Paulo em 2027"
+   },
+   {
+    "valor": "R$ 2,6 bilhões",
+    "rotulo": "perda estimada para municípios paulistas em 2027"
+   },
+   {
+    "valor": "3,8%",
+    "rotulo": "percentual da receita do ICMS estimada em perda"
+   },
+   {
+    "valor": "mais de 60",
+    "rotulo": "mandados de segurança contra base do ICMS"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 10,2 bilhões",
+  "porQueImporta": "A suspensão da exclusão de CBS e IBS da base do ICMS protege a arrecadação paulista, essencial para investimentos públicos e serviços. Investidores e operadores no mercado financeiro acompanham, pois a arrecadação do estado impacta finanças públicas e a economia local.",
+  "impactoMercado": "Essa decisão traz segurança jurídica para receitas estaduais e municipais, reduzindo riscos fiscais. Ativos ligados a São Paulo e setores dependentes de investimentos públicos podem reagir, assim como o mercado fiscal do estado, influenciando títulos públicos e negociações regionais.",
+  "entenda": "ICMS é um imposto estadual sobre circulação de mercadorias e serviços. A base de cálculo do ICMS inclui valores que compõem o preço final da operação, como tributos federais (CBS e IBS). A discussão é se esses novos tributos entram ou não nessa base, alterando a quantidade de imposto recolhido.",
+  "observar": "Acompanhe o andamento do projeto de lei no Congresso sobre exclusão de CBS e IBS da base do ICMS e decisões judiciais futuras que podem confirmar ou modificar a liminar.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Iniciantes",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como decisões jurídicas influenciam diretamente a arrecadação tributária e a economia local, incentivando o aprendizado sobre o funcionamento dos impostos e suas relações com o mercado financeiro.",
+  "gancho": "*CBS* e *IBS* na base do ICMS",
+  "ideias": [
+   "O que são CBS, IBS e ICMS e como eles se relacionam?",
+   "Por que o TJ-SP suspendeu exclusão de CBS e IBS do ICMS?",
+   "Impactos da decisão judicial para a economia paulista e investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/justica-suspende-decisoes-sobre-cbsibs-na-base-do-icms-em-sp-que-evita-perda-de-r-102-bi.shtml",
+  "publicadoEm": "2026-11-09T20:17:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-07"
+ },
+ {
+  "titulo": "Lucro da JBS cai 72% no 3º trimestre para US$ 164 milhões",
+  "resumo": "JBS reportou lucro líquido de US$ 164 milhões no 3º trimestre de 2026, queda de 72% na comparação anual. O EBITDA ajustado caiu 35,6%, afetado pela maior oferta de carne e fim de cota chinesa.",
+  "fatos": [
+   "Lucro líquido do 3º trimestre de 2026: US$ 164 milhões, queda de 72% em 12 meses.",
+   "EBITDA ajustado de US$ 1,181 bilhão, redução de 35,6% em relação a 2025.",
+   "Alavancagem da empresa subiu para 3,54 vezes no 3º trimestre, ante 2,39 vezes em 2025.",
+   "Vendas da divisão bovina nos EUA alcançaram US$ 7,56 bilhões no trimestre, alta de 4,3%.",
+   "Margem positiva de 0,3% na unidade bovina dos EUA pela primeira vez depois de vários trimestres negativas.",
+   "Dívida líquida totalizou US$ 19,3 bilhões; liquidez disponível de US$ 8,2 bilhões.",
+   "CEO Global Gilberto Tomazoni destacou margens positivas em todas as unidades, mesmo com dificuldades como maior oferta de porco e frango.",
+   "Seara registrou recorde nas exportações em setembro, mas carne suína teve pressão pela ampla oferta global.",
+   "Fluxo de caixa livre negativo em US$ 167 milhões, por aumento de estoques para cota chinesa de 2027."
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a JBS registrou lucro líquido de US$ 164 milhões (R$ 902 milhões), uma queda significativa de 72% em relação ao mesmo período de 2025. O EBITDA ajustado somou US$ 1,181 bilhão (R$ 6,5 bilhões), 35,6% menor que no ano anterior.",
+   "Essa redução ocorreu devido a desafios em diversas operações, incluindo maior oferta de carne suína e de frango que pressionou margens, e o impacto do fim da cota chinesa com tarifa preferencial para exportações brasileiras. Operações na Austrália e Brasil foram afetadas.",
+   "Apesar disso, a divisão de carne bovina dos EUA apresentou melhora, revertendo margens negativas em trimestres anteriores e registrando margem positiva de 0,3%. A reabertura da fronteira dos EUA para importação de gado do México trouxe perspectivas de melhora para 2027.",
+   "Para o próximo ano, executivos esperam cenário mais favorável, com aumento da oferta de gado nos EUA e novas cotas para exportação à China, o que deve beneficiar a receita da JBS, especialmente sua divisão de carne bovina, que responde por cerca de 30% do faturamento."
+  ],
+  "detalhes": [
+   "Lucro líquido e EBITDA referentes ao terceiro trimestre de 2026, divulgados em 9 de setembro.",
+   "Fim da cota preferencial de exportação de carne bovina para China em 2026 afetou receita brasileira.",
+   "A melhora nos EUA está relacionada à reabertura do mercado para importação de gado do México e demanda aquecida.",
+   "Divisão bovina dos EUA representa pouco mais de 30% da receita total da JBS.",
+   "Margens recuaram nas demais divisões: JBS Brasil, Seara, Pilgrim's Pride, Austrália e JBS Pork.",
+   "Dívida tem prazo médio longo (14,4 anos) e custo médio de 5,8%, indicando perfil estável de financiamento.",
+   "Fluxo de caixa negativo foi influenciado por estoques de carne para exportação e pagamentos extras de impostos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Wesley Batista Filho, CEO da JBS USA",
+    "oque": "Espera que 2027 seja um ano bem melhor para o negócio de carne bovina nos EUA, com melhora na oferta de gado."
+   },
+   {
+    "quem": "Gilberto Tomazoni, CEO Global da JBS",
+    "oque": "Apesar das dificuldades do trimestre, todos os negócios operaram com margens positivas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "9 de setembro de 2026",
+    "oque": "JBS divulgou resultados financeiros do 3º trimestre de 2026."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "EBITDA ajustado",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização, sem efeitos não recorrentes."
+   },
+   {
+    "termo": "Alavancagem",
+    "significado": "Razão entre dívida e geração de caixa medida pelo EBITDA."
+   },
+   {
+    "termo": "Margem",
+    "significado": "Porcentagem do lucro em relação à receita da operação."
+   }
+  ],
+  "pergunta": "Você acha que a melhora nos EUA em 2027 vai recuperar os resultados da JBS?",
+  "tamanhoTexto": 5599,
+  "numeros": [
+   {
+    "valor": "164 milhões",
+    "rotulo": "lucro líquido em dólares no 3º trimestre"
+   },
+   {
+    "valor": "72%",
+    "rotulo": "queda do lucro líquido em 12 meses"
+   },
+   {
+    "valor": "1,181 bilhão",
+    "rotulo": "EBITDA ajustado no 3º trimestre em dólares"
+   },
+   {
+    "valor": "35,6%",
+    "rotulo": "queda do EBITDA ajustado em 12 meses"
+   },
+   {
+    "valor": "3,54x",
+    "rotulo": "alavancagem financeira (dívida/EBITDA) no 3º trimestre"
+   },
+   {
+    "valor": "7,56 bilhões",
+    "rotulo": "vendas da divisão bovina nos EUA no trimestre em dólares"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "72% queda no",
+  "porQueImporta": "A queda expressiva no lucro da JBS afeta a percepção dos investidores sobre o setor de proteínas e traz atenção para fatores como oferta global e políticas tarifárias. Para operadores, entender essas variações ajuda a analisar riscos e oportunidades em commodities e ações do setor.",
+  "impactoMercado": "A redução do lucro e do EBITDA pode influenciar o desempenho das ações da JBS e de outras empresas do setor de alimentos, afetando indicadores financeiros e estratégias. A melhora esperada nos EUA e novas cotas para China em 2027 poderão ser sinais positivos para resultados futuros.",
+  "entenda": "Lucro líquido é o resultado final da empresa após todas as despesas. EBITDA ajustado mostra o desempenho operacional sem efeitos financeiros e contábeis. Alavancagem indica quanto a empresa está endividada em relação à geração de caixa. Margem positiva significa que a operação está lucrando.",
+  "observar": "Fique atento aos resultados do quarto trimestre de 2026 e às primeiras projeções para 2027, especialmente sobre a oferta de gado nos EUA e a cota chinesa para exportações, que impactam diretamente a receita da JBS.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "Esta notícia mostra como fatores globais e locais impactam os resultados de uma grande empresa, despertando interesse para entender operações, finanças e influências do mercado, incentivando o conhecimento aprofundado sobre o setor.",
+  "gancho": "*Lucro* da JBS em queda",
+  "ideias": [
+   "Queda de 72% no lucro da JBS: entenda motivos",
+   "Como a oferta global afeta a JBS e o mercado",
+   "Perspectivas da JBS para 2027 após trimestre difícil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T20:51:12-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-jbs-cai-72-no-3o-trimestre-para-us-164-milhoes.shtml",
+  "publicadoEm": "2026-11-09T19:25:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-08"
+ },
+ {
   "titulo": "Nvidia cai 6% após investigação sobre CEO e suspeita de espionagem chinesa",
   "resumo": "Ações da Nvidia recuaram cerca de 6% após o conselho investigar relacionamento do CEO Jensen Huang com suspeita de espionagem. Casos envolvem empresa Megaspeed e possíveis riscos de segurança nacional nos EUA.",
   "fatos": [
@@ -14076,35 +15000,35 @@
  {
   "tipo": "sinal",
   "slug": "another-fed-rate-hike-in-2026",
-  "titulo": "Mercado de previsões vê 76% de chance de mais um aumento de juros pelo Fed em 2026",
-  "resumo": "Expectativa de outra alta nas taxas de juros é alta entre os apostadores.",
+  "titulo": "Mercado vê 82,5% de chance de novo aumento de juros do Fed em 2026",
+  "resumo": "Os apostadores estão confiantes em um aumento das taxas pelo Fed no próximo ano.",
   "probs": [
    {
     "opcao": "Sim",
-    "prob": 76.0
+    "prob": 82.5
    },
    {
     "opcao": "Não",
-    "prob": 24.0
+    "prob": 17.5
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 80 mil",
+  "volume24h": "US$ 111 mil",
   "fatos": [
-   "Sim: 76,0%",
-   "Não: 24,0%"
+   "Sim: 82,5%",
+   "Não: 17,5%"
   ],
   "numeros": [
    {
-    "valor": "76,0%",
+    "valor": "82,5%",
     "rotulo": "Sim"
    },
    {
-    "valor": "24,0%",
+    "valor": "17,5%",
     "rotulo": "Não"
    }
   ],
-  "destaque": "76,0%",
+  "destaque": "82,5%",
   "gancho": "*Nova alta* no horizonte",
   "entenda": "A probabilidade de um novo aumento na taxa de juros sugere que a política monetária poderá permanecer restritiva, impactando o mercado financeiro.",
   "categoria": "Previsões",
@@ -14119,7 +15043,7 @@
   "data": "2026-11-02",
   "status": "atualizada",
   "id": "2026-11-02-p5",
-  "atualizadoEm": "2026-11-06T13:56:28-03:00"
+  "atualizadoEm": "2026-11-09T20:51:12-03:00"
  },
  {
   "tipo": "sinal",
