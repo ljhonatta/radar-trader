@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-08T22:12:31-03:00",
+  "ultimaColeta": "2026-11-09T17:09:11-03:00",
   "novas": 1,
   "atualizadas": 2,
   "status": "ok",
-  "mensagem": "1 nova(s) e 2 atualizada(s): Tributos e mercado: alíquota CBS.",
+  "mensagem": "1 nova(s) e 2 atualizada(s): Nvidia e crise de governança.",
   "falhas": [
-   "Sem cotação confiável: Petróleo Brent"
+   "Sem cotação confiável: Euro, Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-09T17:09:11-03:00",
    "2026-11-08T22:12:31-03:00",
    "2026-11-08T16:57:34-03:00",
    "2026-11-08T13:21:42-03:00",
@@ -20,56 +21,49 @@
    "2026-11-06T18:04:20-03:00",
    "2026-11-06T13:56:28-03:00",
    "2026-11-05T23:30:41-03:00",
-   "2026-11-05T22:47:25-03:00",
-   "2026-11-05T18:34:11-03:00"
+   "2026-11-05T22:47:25-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 3
+  "textosCompletos": 6
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "168.498",
-    "var": "+1,39%"
+    "v": "171.587",
+    "var": "+1,83%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,51",
-    "var": "+0,04%"
-   },
-   {
-    "k": "EUR",
-    "nome": "Euro",
-    "v": "R$ 6,14",
-    "var": "+0,06%"
+    "var": "+0,03%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,2 mil",
-    "var": "-0,66%"
+    "v": "US$ 74,8 mil",
+    "var": "-1,30%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.377",
-    "var": "-2,68%"
+    "v": "7.564",
+    "var": "+2,54%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "26.990",
-    "var": "+1,35%"
+    "v": "27.928",
+    "var": "+3,48%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.112,70",
-    "var": "+0,93%"
+    "v": "US$ 4.141,90",
+    "var": "+1,64%"
    },
    {
     "k": "SELIC",
@@ -84,14 +78,14 @@
     "var": ""
    }
   ],
-  "obs": "Último fechamento",
-  "hora": "dom 22h",
-  "data": "2026-11-08",
-  "atualizadoEm": "2026-11-08T22:12:31-03:00",
-  "ibov": "168.498",
-  "ibovVar": "+1,39%",
+  "obs": "Parcial do pregão",
+  "hora": "seg 17h",
+  "data": "2026-11-09",
+  "atualizadoEm": "2026-11-09T17:09:11-03:00",
+  "ibov": "171.587",
+  "ibovVar": "+1,83%",
   "dolar": "R$ 5,51",
-  "dolarVar": "+0,04%",
-  "btc": "US$ 75,2 mil"
+  "dolarVar": "+0,03%",
+  "btc": "US$ 74,8 mil"
  }
 }

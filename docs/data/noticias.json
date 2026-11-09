@@ -1,5 +1,140 @@
 [
  {
+  "titulo": "Nvidia cai 6% após investigação sobre CEO e suspeita de espionagem chinesa",
+  "resumo": "Ações da Nvidia recuaram cerca de 6% após o conselho investigar relacionamento do CEO Jensen Huang com suspeita de espionagem. Casos envolvem empresa Megaspeed e possíveis riscos de segurança nacional nos EUA.",
+  "fatos": [
+   "Ações da Nvidia caíram cerca de 6% no pré-mercado dia 9 de outubro.",
+   "Jensen Huang admitiu relacionamento extraconjugal com Alice Huang.",
+   "Megaspeed comprou mais de US$ 4,6 bilhões em chips da Nvidia nos últimos anos.",
+   "Investigações apontam Alice Huang como possível agente chinesa de espionagem.",
+   "A Nvidia concluiu que Megaspeed é controlada fora da China e não tem acionistas chineses.",
+   "Jensen Huang pedirá desculpas e disse querer reconquistar a confiança dos funcionários.",
+   "Investigação independente foi iniciada pelo conselho da Nvidia no domingo 8.",
+   "Sessão fechada no Congresso dos EUA está marcada para 18 de novembro para ouvir Jensen Huang.",
+   "Desde outubro, operações da Nvidia e Megaspeed estão sob auditoria por discrepâncias em chips.",
+   "Os papéis da Nvidia caíram cerca de 22% desde a máxima de outubro."
+  ],
+  "explicacao": [
+   "Na segunda-feira 9, as ações da Nvidia caíram aproximadamente 6% no pré-mercado, reagindo à abertura de uma investigação pelo seu conselho sobre o CEO Jensen Huang. Ele admitiu um relacionamento extraconjugal com Alice Huang, executiva suspeita de espionagem para a China.",
+   "Alice Huang, também conhecida como Huang Le, foi executiva da Megaspeed International, que comprou mais de US$ 4,6 bilhões em chips da Nvidia, e é acusada de ter ligação com o Ministério da Segurança do Estado de Pequim para obter dados estratégicos dos chips americanos.",
+   "A investigação vem em um momento delicado, com crescentes restrições dos EUA à venda de semicondutores avançados à China e disputas geopolíticas sobre inteligência artificial. A Nvidia afirma que não há evidências atuais de comprometimento de dados sigilosos.",
+   "Mesmo com a crise, analistas acreditam que as operações da Nvidia continuarão sólidas, mas o episódio aumenta a volatilidade e gera dúvidas sobre governança, especialmente pelo papel central de Jensen Huang e ausência de sucessor declarado."
+  ],
+  "detalhes": [
+   "Jensen Huang é fundador e CEO da Nvidia, figura chave da empresa há mais de 30 anos.",
+   "Alice Huang não tem parentesco com Jensen Huang, apesar do mesmo sobrenome.",
+   "Megaspeed é sediada em Singapura e aluga capacidade computacional para IA na Ásia.",
+   "Autoridades americanas levantam suspeitas de uso dos chips para aplicações militares chinesas.",
+   "O caso ocorre em meio à guerra tecnológica entre EUA e China por domínio da IA.",
+   "A Nvidia programou divulgar resultados trimestrais em 17 de novembro.",
+   "Presidente Trump defendeu Jensen Huang publicamente diante das acusações."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Jensen Huang, CEO da Nvidia",
+    "oque": "Admitiu infidelidade e pediu desculpas à família e funcionários."
+   },
+   {
+    "quem": "Conselho da Nvidia",
+    "oque": "Iniciou investigação independente por suspeitas envolvendo o CEO e segurança nacional."
+   },
+   {
+    "quem": "Kunjan Sobhani, analista Bloomberg Intelligence",
+    "oque": "Diz que a apuração aumenta risco de volatilidade, mas não altera projeções financeiras."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "8 de outubro",
+    "oque": "Jensen Huang admite infidelidade e Nvidia abre investigação."
+   },
+   {
+    "quando": "9 de outubro",
+    "oque": "Ações da Nvidia caem 6% no pré-mercado após a notícia."
+   },
+   {
+    "quando": "17 de novembro",
+    "oque": "Divulgação dos resultados trimestrais da Nvidia."
+   },
+   {
+    "quando": "18 de novembro",
+    "oque": "Jensen Huang convocado para depoimento fechado no Congresso dos EUA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Semicondutores",
+    "significado": "Componentes eletrônicos essenciais para computadores e IA."
+   },
+   {
+    "termo": "Inteligência Artificial (IA)",
+    "significado": "Tecnologia que simula inteligência humana em máquinas."
+   },
+   {
+    "termo": "Investigação independente",
+    "significado": "Apuração conduzida por um grupo externo para garantir transparência."
+   }
+  ],
+  "pergunta": "Como você enxerga o impacto da governança corporativa em crises como esta?",
+  "tamanhoTexto": 18214,
+  "numeros": [
+   {
+    "valor": "6%",
+    "rotulo": "Queda das ações da Nvidia no pré-mercado dia 9 de outubro"
+   },
+   {
+    "valor": "US$ 4,6 bilhões",
+    "rotulo": "Valor das compras da Megaspeed em chips da Nvidia"
+   },
+   {
+    "valor": "22%",
+    "rotulo": "Queda acumulada das ações da Nvidia desde máxima em outubro"
+   },
+   {
+    "valor": "R$ 1,4 trilhão",
+    "rotulo": "Perda aproximada no valor de mercado da Nvidia com queda das ações"
+   },
+   {
+    "valor": "50 mil",
+    "rotulo": "Número de chips faltantes segundo auditoria da Nvidia com Megaspeed"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "6% queda nas",
+  "porQueImporta": "A crise envolvendo o CEO da Nvidia amplia a preocupação com segurança nacional e governança corporativa, impactando a confiança dos investidores num setor estratégico da tecnologia mundial.",
+  "impactoMercado": "O episódio pode aumentar a volatilidade das ações da Nvidia e reforçar cautela no mercado de semicondutores, sobretudo em empresas expostas a tensões geopolíticas e restrições comerciais entre EUA e China.",
+  "entenda": "A Nvidia é líder global em chips para inteligência artificial, setor estratégico. A investigação sobre seu CEO e a suspeita de espionagem refletem o risco associado à dependência de líderes e os impactos de relações comerciais e políticas internacionais.",
+  "observar": "Fique atento à divulgação dos resultados em 17/11 e ao depoimento de Jensen Huang no Congresso em 18/11, que podem gerar nova movimentação das ações.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Entenda a relação entre liderança, segurança nacional e volatilidade no mercado de tecnologia global, tema essencial para quem quer dominar o mercado financeiro.",
+  "gancho": "*Nvidia* e crise de *governança*",
+  "ideias": [
+   "O que a queda da Nvidia ensina sobre riscos corporativos?",
+   "Entenda a investigação contra o CEO da Nvidia e seus impactos no mercado",
+   "Espionagem e tecnologia: por que a Nvidia está no centro da disputa EUA-China?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "escudo",
+  "fonte": "InvestNews; Seu Dinheiro; Estadão Economia",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:09:11-03:00",
+  "url": "https://investnews.com.br/negocios/nvidia-cai-6-apos-ceo-admitir-caso-com-mulher-suspeita-de-espionagem-para-china/",
+  "publicadoEm": "2026-11-09T08:31:01-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-01"
+ },
+ {
   "titulo": "Senado inicia audiências para decidir alíquota da nova CBS até 15/12",
   "resumo": "Comissão do Senado começa debates sobre alíquota da CBS, tributo que substituirá PIS e Cofins. Prazo para definir percentual termina em 15 de dezembro; senadores podem rever 11,3% fixados pelo TCU.",
   "fatos": [
@@ -5274,53 +5409,53 @@
  {
   "tipo": "sinal",
   "slug": "largest-company-end-of-december-2026",
-  "titulo": "Mercado de previsões vê 67.0% de chance da Apple ser a maior empresa em dezembro de 2026.",
-  "resumo": "A previsão é baseada nas apostas de participantes do mercado, refletindo confiança no desempenho da empresa.",
+  "titulo": "Mercado vê 74,2% de chance de Apple ser a maior empresa em dezembro de 2026",
+  "resumo": "Apostas sugerem que Apple continuará dominando o mercado em 2026.",
   "probs": [
    {
     "opcao": "Apple",
-    "prob": 67.0
+    "prob": 74.2
    },
    {
     "opcao": "NVIDIA",
-    "prob": 32.0
+    "prob": 22.5
    },
    {
     "opcao": "Microsoft",
-    "prob": 1.1
+    "prob": 1.7
    },
    {
     "opcao": "Alphabet",
-    "prob": 0.4
+    "prob": 0.7
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 243 mil",
+  "volume24h": "US$ 126 mil",
   "fatos": [
-   "Apple: 67,0%",
-   "NVIDIA: 32,0%",
-   "Microsoft: 1,1%",
-   "Alphabet: 0,4%"
+   "Apple: 74,2%",
+   "NVIDIA: 22,5%",
+   "Microsoft: 1,7%",
+   "Alphabet: 0,7%"
   ],
   "numeros": [
    {
-    "valor": "67,0%",
+    "valor": "74,2%",
     "rotulo": "Apple"
    },
    {
-    "valor": "32,0%",
+    "valor": "22,5%",
     "rotulo": "NVIDIA"
    },
    {
-    "valor": "1,1%",
+    "valor": "1,7%",
     "rotulo": "Microsoft"
    },
    {
-    "valor": "0,4%",
+    "valor": "0,7%",
     "rotulo": "Alphabet"
    }
   ],
-  "destaque": "67,0%",
+  "destaque": "74,2%",
   "gancho": "*Maior empresa* em 2026?",
   "entenda": "A classificação das maiores empresas geralmente reflete o desempenho financeiro e o valor de mercado delas, influenciando o sentimento do investidor.",
   "categoria": "Previsões",
@@ -5333,8 +5468,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-05T23:30:41-03:00",
   "data": "2026-11-05",
-  "status": "nova",
-  "id": "2026-11-05-p4"
+  "status": "atualizada",
+  "id": "2026-11-05-p4",
+  "atualizadoEm": "2026-11-09T17:09:11-03:00"
  },
  {
   "titulo": "Colapso do Ueno Bank no Paraguai derruba presidente em crise política",
@@ -14434,265 +14570,22 @@
   "id": "2026-11-02-03"
  },
  {
-  "titulo": "Agenda econômica agitada com decisão do Copom e payroll dos EUA",
-  "resumo": "Na semana com feriado de Finados, destaque para decisão do Copom sobre a Selic e o relatório payroll americano. Outros indicadores domésticos também prometem mexer com os mercados financeiros.",
-  "fatos": [
-   "Feriado de Finados em 2 de novembro, segunda-feira.",
-   "Decisão do Copom sobre Selic em 4 de novembro, às 18h30.",
-   "Boletim Focus divulgado em 3 de novembro, às 8h25.",
-   "PMI Industrial no Brasil em 3 de novembro, às 10h.",
-   "Divulgação dos dados do Caged e IPC-Fipe em 4 de novembro.",
-   "Produção Industrial e PMIs de serviços e composto em 5 de novembro.",
-   "Balança comercial do Brasil em 6 de novembro.",
-   "Nos EUA, relatório payroll às 10h30 do dia 6 de novembro.",
-   "Decisão do Banco da Inglaterra em 5 de novembro, às 9h.",
-   "Discurso da presidente do BCE, Christine Lagarde, em 5 de novembro."
-  ],
-  "explicacao": [
-   "Com a pausa do feriado de Finados na segunda-feira (2), o mercado brasileiro terá uma semana mais curta, mas repleta de eventos econômicos importantes. O principal será a decisão do Copom, marcada para quarta-feira (4), que definirá a taxa Selic e sinalizará a direção da política monetária.",
-   "Além do Copom, a agenda doméstica inclui divulgação do Boletim Focus, PMIs industrial e de serviços, índices de emprego do Caged, IPC-Fipe, produção industrial, PMI composto e a balança comercial, entre outros. Esses dados ajudam investidores a entender o cenário econômico brasileiro, influenciando bolsa, renda fixa e câmbio.",
-   "No âmbito internacional, o relatório payroll dos EUA, divulgado na sexta-feira (6), ganhará destaque mundial por trazer informações sobre o mercado de trabalho americano, como geração de empregos e salários, indicadores cruciais para influenciar investimentos globais e as expectativas sobre juros nos EUA.",
-   "Essa combinação de dados domésticos e internacionais cria um ambiente intenso para a tomada de decisão dos investidores. O resultado da reunião do Copom, especialmente, deverá ser monitorado para avaliar possíveis ajustes futuros na taxa básica de juros."
-  ],
-  "detalhes": [
-   "O Copom do Banco Central brasileiro divulgará sua decisão sobre a Selic na quarta-feira (4) às 18h30.",
-   "O Boletim Focus apresenta projeções para inflação, Selic, PIB e dólar, auxiliando investidores na análise de cenário.",
-   "Nos EUA, o payroll mensal informa a criação de empregos fora da agricultura, taxa de desemprego e salários, influenciando a política monetária local.",
-   "Os PMIs indicam o nível de atividade econômica nos setores industrial e de serviços no Brasil, com dados divulgados em dias distintos da semana.",
-   "A decisão do Banco da Inglaterra e discursos do Fed e do BCE também podem afetar mercados globais nessa semana.",
-   "O feriado no Brasil reduz os dias úteis, concentrando as divulgações em quatro dias, o que pode amplificar a volatilidade.",
-   "A divulgação da ata do Banco do Japão no dia 4 e de PMIs chineses também complementam o cenário global."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "02/11",
-    "oque": "Feriado de Finados, mercado brasileiro com dia útil reduzido."
-   },
-   {
-    "quando": "03/11",
-    "oque": "Divulgação do Boletim Focus e PMI Industrial no Brasil."
-   },
-   {
-    "quando": "04/11",
-    "oque": "Decisão do Copom sobre a Selic e divulgação do Caged e IPC-Fipe."
-   },
-   {
-    "quando": "05/11",
-    "oque": "Produção Industrial e decisões de juros do Banco da Inglaterra."
-   },
-   {
-    "quando": "06/11",
-    "oque": "Relatório payroll dos EUA principal destaque global."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Copom",
-    "significado": "Comitê que define a taxa básica de juros (Selic) no Brasil."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros que orienta a economia brasileira."
-   },
-   {
-    "termo": "Payroll",
-    "significado": "Relatório mensal de empregos nos EUA, indicado para decisões de juros."
-   }
-  ],
-  "pergunta": "Você já acompanha as decisões do Copom e o payroll dos EUA para suas operações?",
-  "tamanhoTexto": 7880,
-  "numeros": [
-   {
-    "valor": "18h30",
-    "rotulo": "Horário da divulgação da decisão do Copom"
-   },
-   {
-    "valor": "10h30",
-    "rotulo": "Horário da divulgação do payroll dos EUA"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Decisão do Copom",
-  "porQueImporta": "Decisão do Copom sobre a Selic e o payroll dos EUA são fundamentais para calibrar expectativas sobre juros e inflação. Para quem opera ou investe, esses dados impactam as estratégias na bolsa, renda fixa e câmbio, determinando possíveis ajustes de risco e oportunidades.",
-  "impactoMercado": "A definição da taxa Selic influencia diretamente os rendimentos da renda fixa, o comportamento do dólar e o apetite por ações brasileiras. Já o payroll dos EUA pode afetar o mercado global e o fluxo de investimentos internacionais, com impacto direto em setores sensíveis a juros e câmbio.",
-  "entenda": "O Copom é o comitê do Banco Central responsável por definir a taxa Selic, principal instrumento para controlar a inflação no Brasil. O payroll é um relatório mensal dos EUA que mostra a criação de empregos fora do setor agrícola, indicando a saúde da economia americana e influenciando decisões do Fed sobre juros.",
-  "observar": "Acompanhe a decisão do Copom na quarta-feira e o payroll americano na sexta, além do Boletim Focus e principais PMIs, que são fundamentais para ajustar estratégias de investimento.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Esta notícia mostra como a política monetária e dados econômicos influenciam o mercado, ajudando quem quer entender e operar melhor, incentivando o conhecimento aprofundado no mercado financeiro.",
-  "gancho": "*Copom* e *Payroll*: semana-chave",
-  "ideias": [
-   "Entenda a importância da decisão do Copom para seus investimentos",
-   "Payroll dos EUA e seu impacto no mercado brasileiro",
-   "Agenda econômica da semana: prepare-se para eventos-chave"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Agenda",
-  "icone": "relogio",
-  "fonte": "Seu Dinheiro",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-02T07:38:05-03:00",
-  "url": "https://www.seudinheiro.com/2026/economia/queda-selic-copom-payroll-semana-brasil-agenda-economica-davs/",
-  "publicadoEm": "2026-11-01T15:04:00-03:00",
-  "data": "2026-11-01",
-  "id": "2026-11-02-04"
- },
- {
-  "titulo": "Jato executivo cai na Flórida e mata nove pessoas",
-  "resumo": "Um Learjet 60 com nove ocupantes caiu em Palm Beach, Flórida, no dia 1º/11/2026. Todos morreram; aeronave seguia para as Bahamas e enfrentou turbulência, gelo e mergulho rápido antes do impacto.",
-  "fatos": [
-   "A queda ocorreu em 1º de novembro de 2026, às 12h50, em Palm Beach, Flórida.",
-   "Todas as nove pessoas a bordo morreram no acidente.",
-   "O jato era um Learjet 60, privado, vindo do Texas com destino às Bahamas.",
-   "Pilotos relataram gelo, turbulência moderada e solicitaram subida antes da perda de altitude.",
-   "A descida rápida chegou a 30.000 pés por minuto, com pressão acima do tolerado pela fuselagem.",
-   "O secretário de Transportes dos EUA, Sean Duffy, classificou o acidente como uma “tragédia horrenda”.",
-   "O governador Ron DeSantis disse que não houve feridos ou mortes em solo.",
-   "Cerca de 600 moradores de uma comunidade próxima foram evacuados preventivamente.",
-   "O local da queda teve uma grande cratera e fumaça densa visível.",
-   "A Administração Federal de Aviação (FAA) enviou equipe para apoiar a investigação do NTSB."
-  ],
-  "explicacao": [
-   "No dia 1º de novembro de 2026, um jato executivo Learjet 60 caiu em um bairro residencial no condado de Palm Beach, Flórida, por volta das 12h50. O acidente matou as nove pessoas a bordo e causou uma enorme bola de fogo próxima a uma via movimentada.",
-   "A aeronave havia decolado do Aeroporto Internacional Austin-Bergstrom, no Texas, com destino às Bahamas. Durante o voo a 35.000 pés, pilotos relataram turbulência, formação de gelo e solicitaram subir 2.000 pés para evitar riscos. Logo depois, o jato entrou em mergulho acentuado com perda de altitude rápida.",
-   "O piloto declarou emergência, relatando descidas que chegaram a 30.000 pés por minuto e variações de altitude causadas pela turbulência. Apesar das tentativas de controle, a fuselagem foi submetida a pressões além do limite, culminando na queda em uma área residencial, sem vítimas em solo.",
-   "As autoridades locais evacuaram cerca de 600 pessoas próximas e investigam as causas com o apoio da FAA e do Conselho Nacional de Segurança nos Transportes dos EUA (NTSB). Informações detalhadas sobre os ocupantes e motivos do acidente ainda são aguardadas."
-  ],
-  "detalhes": [
-   "O avião decolou do Aeroporto Internacional Austin-Bergstrom, em Austin, Texas.",
-   "O destino do voo era o arquipélago das Bahamas, no Caribe.",
-   "O acidente gerou uma explosão com bola de fogo perto de uma avenida movimentada.",
-   "Variações de altitude de até 700 pés foram relatadas antes do mergulho crítico.",
-   "O piloto relatou “gelo leve e transparente, controlável”, mas a situação piorou.",
-   "A investigação ocorrerá com participação da FAA e do Conselho Nacional de Segurança nos Transportes (NTSB).",
-   "As condições climáticas incluíam chuva forte e alerta para inundações na região."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Sean Duffy, secretário de Transportes dos EUA",
-    "oque": "Chamou o acidente de \"tragédia horrenda\" e confirmou as nove mortes."
-   },
-   {
-    "quem": "Ron DeSantis, governador da Flórida",
-    "oque": "Disse que não houve vítimas em solo e classificou a queda como \"catastrófica\"."
-   },
-   {
-    "quem": "Piloto do Learjet 60",
-    "oque": "Relatou gelo e turbulência moderada antes do mergulho e declarou emergência no rádio."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "01/11/2026 12h50",
-    "oque": "Jato cai em área residencial na Flórida e explode."
-   },
-   {
-    "quando": "Minutos antes da queda",
-    "oque": "Pilotos relatam gelo, turbulência e solicitam subida."
-   },
-   {
-    "quando": "Momentos antes do impacto",
-    "oque": "Aeronave entra em mergulho a até 30.000 pés por minuto."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Learjet 60",
-    "significado": "Jato executivo de médio porte usado para transporte privativo."
-   },
-   {
-    "termo": "FAA",
-    "significado": "Administração Federal de Aviação dos EUA, órgão que regula o setor aéreo."
-   },
-   {
-    "termo": "NTSB",
-    "significado": "Conselho Nacional de Segurança nos Transportes dos EUA, investiga acidentes."
-   }
-  ],
-  "pergunta": "Você já pensou nos riscos e desafios da aviação privada?",
-  "tamanhoTexto": 5267,
-  "numeros": [
-   {
-    "valor": "9",
-    "rotulo": "Número de ocupantes mortos"
-   },
-   {
-    "valor": "12h50",
-    "rotulo": "Horário em que ocorreu a queda"
-   },
-   {
-    "valor": "35.000 pés",
-    "rotulo": "Altitude inicial do voo antes dos problemas"
-   },
-   {
-    "valor": "20.000 pés por minuto",
-    "rotulo": "Velocidade da queda rápida do avião"
-   },
-   {
-    "valor": "600",
-    "rotulo": "Número de moradores evacuados da região próxima"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "9 mortos no",
-  "porQueImporta": "A queda do jato executivo com nove mortes impacta diretamente a aviação privada e a segurança aérea. Para investidores e operadores, esse tipo de tragédia pode influenciar regulações e custos de seguros, além de afetar setores ligados a voos privados e infraestrutura aeroportuária.",
-  "impactoMercado": "Incidentes graves na aviação privada podem resultar em maior fiscalização e mudanças regulatórias, o que pode refletir em ativos relacionados ao setor aéreo e seguradoras. Investidores devem monitorar potenciais alterações em normas e custos operacionais pós-acidente.",
-  "entenda": "O Learjet 60 é um jato executivo usado para transporte privativo, voando em altitudes elevadas. Turbulência severa e acúmulo de gelo no avião podem comprometer o controle, provocando quedas rápidas denominadas mergulhos, que sobrecarregam a estrutura e podem levar ao acidente.",
-  "observar": "Acompanhe os próximos boletins das autoridades FAA e NTSB sobre a investigação e possíveis medidas oficiais para segurança da aviação, além de notícias sobre a situação da comunidade evacuada.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Esta notícia mostra como fatores técnicos e climáticos podem afetar voos privados, ampliando a compreensão sobre riscos e protocolos de segurança, conectando os seguidores aos conceitos de mercado ligados à aviação e seguros.",
-  "gancho": "*Acidente* aéreo: lições e impactos",
-  "ideias": [
-   "Como a turbulência e o gelo podem causar acidentes aéreos?",
-   "O que acontece após uma queda de jato executivo: quem investiga?",
-   "Impactos econômicos e de mercado após incidentes na aviação privada"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Global",
-  "icone": "raio",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-02T07:38:05-03:00",
-  "url": "https://valor.globo.com/mundo/noticia/2026/11/01/jatinho-cai-em-area-residencial-em-miami-e-deixa-nove-mortos.ghtml",
-  "publicadoEm": "2026-11-01T18:39:22-03:00",
-  "data": "2026-11-01",
-  "id": "2026-11-02-05"
- },
- {
   "tipo": "sinal",
   "slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
-  "titulo": "Mercado de previsões vê 72.5% de chance de 2 aumentos de juros em 2026",
-  "resumo": "Apostadores esperam que o Fed aumente os juros em 50 bps ao longo do ano, sinalizando uma política monetária restritiva.",
+  "titulo": "Mercado vê 79,5% de chance de 2 aumentos de 50 bps pelo Fed em 2026",
+  "resumo": "Expectativa elevada de múltiplos aumentos de juros pelo Fed com base nas apostas do mercado.",
   "probs": [
    {
     "opcao": "2 (50 bps)",
-    "prob": 72.5
+    "prob": 79.5
    },
    {
     "opcao": "1 (25 bps)",
-    "prob": 27.5
+    "prob": 18.5
    },
    {
     "opcao": "3 (75 bps)",
-    "prob": 1.2
+    "prob": 0.9
    },
    {
     "opcao": "4 (100 bps)",
@@ -14702,22 +14595,22 @@
   "prazo": "2027-01-01",
   "volume24h": "US$ 12 mil",
   "fatos": [
-   "2 (50 bps): 72,5%",
-   "1 (25 bps): 27,5%",
-   "3 (75 bps): 1,2%",
+   "2 (50 bps): 79,5%",
+   "1 (25 bps): 18,5%",
+   "3 (75 bps): 0,9%",
    "4 (100 bps): 0,1%"
   ],
   "numeros": [
    {
-    "valor": "72,5%",
+    "valor": "79,5%",
     "rotulo": "2 (50 bps)"
    },
    {
-    "valor": "27,5%",
+    "valor": "18,5%",
     "rotulo": "1 (25 bps)"
    },
    {
-    "valor": "1,2%",
+    "valor": "0,9%",
     "rotulo": "3 (75 bps)"
    },
    {
@@ -14725,7 +14618,7 @@
     "rotulo": "4 (100 bps)"
    }
   ],
-  "destaque": "72,5%",
+  "destaque": "79,5%",
   "gancho": "*Perspectivas* sobre política monetária",
   "entenda": "O número de aumentos de juros influencia a economia, afetando investimentos e crescimento econômico.",
   "categoria": "Previsões",
@@ -14738,8 +14631,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-02T07:38:05-03:00",
   "data": "2026-11-02",
-  "status": "nova",
-  "id": "2026-11-02-p1"
+  "status": "atualizada",
+  "id": "2026-11-02-p1",
+  "atualizadoEm": "2026-11-09T17:09:11-03:00"
  },
  {
   "tipo": "sinal",
