@@ -1,5 +1,592 @@
 [
  {
+  "titulo": "Dólar salta a R$ 5,60 após inflação dos EUA acima do esperado",
+  "resumo": "Dólar subiu quase 2%, chegando a R$ 5,607 na venda, após CPI dos EUA crescer 0,4% em outubro, superando expectativa de 0,3%. Também pesou a ata do Copom sobre choques de oferta e inflação no Brasil.",
+  "fatos": [
+   "Dólar à vista subiu 1,85% às 12h57, cotado a R$ 5,607 na venda.",
+   "O índice CPI dos EUA avançou 0,4% em outubro, acima dos 0,3% previstos.",
+   "Na comparação anual, a alta esperada era de 3,9%, mas dados completos não foram divulgados.",
+   "A ata do Copom citou choques de oferta e pressões de demanda como fatores que elevam inflação.",
+   "Banco Central vê expectativas de inflação mais altas e crescimento econômico menor.",
+   "Presidente do BC, Gabriel Galípolo, falou em evento da Abracam, em São Paulo, às 14h30 do dia 10.",
+   "Mercado espera aumento de 25 pontos-base na taxa de juros dos EUA em dezembro.",
+   "Ibovespa recuou 0,57% no mesmo dia, refletindo cautela com cenário econômico.",
+   "Rendimento dos títulos do Tesouro americano a 10 anos subiu para 5,002%.",
+   "Ata do Copom mencionou guerra no Oriente Médio, El Niño, fim da escala 6x1 e disparada do dólar como choques."
+  ],
+  "explicacao": [
+   "Nesta terça-feira, 10 de novembro, o dólar chegou a R$ 5,607 na venda, alta de cerca de 1,85%, impulsionado pelos dados de inflação dos Estados Unidos e pela ata do Copom brasileiras. O CPI americano registrou alta mensal de 0,4%, acima dos 0,3% aguardados pelo mercado.",
+   "A inflação mais alta nos EUA indica pressões de preços persistentes, levando o mercado a esperar aumento da taxa de juros pelo Fed na próxima reunião em dezembro. Por outro lado, a ata do Copom apontou que choques de oferta aliado a pressões de demanda elevaram a inflação no Brasil, com expectativas de crescimento econômico mais fracas.",
+   "Isso cria um cenário de cautela para investidores que operam no câmbio e na renda fixa, pois juros altos e inflação elevada geram incertezas na economia e influenciam o valor do dólar frente ao real. Também reflete as preocupações com a política doméstica brasileira e a conjuntura global.",
+   "Nos próximos dias, os agentes seguirão atentos à inflação americana, à fala do presidente do Banco Central Gabriel Galípolo, e aos desdobramentos da política econômica brasileira para avaliar possíveis impactos no câmbio e nos juros futuros."
+  ],
+  "detalhes": [
+   "Dólar disparou no mercado à vista no horário próximo de meio-dia no Brasil em 10/11.",
+   "Inflação americana acima do esperado foi calculada pelo CPI do Departamento do Trabalho dos EUA.",
+   "Copom divulgou a ata no mesmo dia, confirmando pressão inflacionária e expectativa de juros estáveis em 13,75%.",
+   "Choques de oferta citados pelo BC incluem efeitos climáticos e tensões políticas domésticas brasileiras.",
+   "Mercado projeta alta da Selic estável e sem cortes antecipados, de acordo com economistas consultados.",
+   "A conjuntura internacional, com guerra no Oriente Médio e o mercado global de petróleo, impacta o cenário cambial.",
+   "Futuros de juros exibiram alta no dia, indicando precificação de manutenção de juros ainda elevados."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Leandro Padulla, economista do ASA",
+    "oque": "Ata do Copom manteve tom hawkish e reforçou cenário de Selic estável em 13,75% por longo período."
+   },
+   {
+    "quem": "Vitor Kayo, economista sênior da Nomad",
+    "oque": "Ata indicou choques que pioram inflação, mas também apontou desaceleração econômica limitando impacto."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10 de novembro",
+    "oque": "CPI dos EUA divulgou alta de 0,4% em outubro, acima do esperado."
+   },
+   {
+    "quando": "10 de novembro",
+    "oque": "Ata do Copom foi publicada e repercutiu no mercado cambial e de juros brasileiro."
+   },
+   {
+    "quando": "10 de novembro, 14h30",
+    "oque": "Presidente do BC, Gabriel Galípolo, palestra em evento da Abracam em SP."
+   },
+   {
+    "quando": "Próximos dias",
+    "oque": "Mercados acompanham reunião do Fed em dezembro, com expectativa de aumento de juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CPI",
+    "significado": "Índice que mede a inflação sobre produtos e serviços ao consumidor."
+   },
+   {
+    "termo": "Copom",
+    "significado": "Comitê do Banco Central que define a taxa básica Selic."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira."
+   }
+  ],
+  "pergunta": "Como você acha que a alta do dólar afeta seu bolso no dia a dia?",
+  "tamanhoTexto": 15348,
+  "numeros": [
+   {
+    "valor": "1,85%",
+    "rotulo": "alta do dólar em 10/11 nas primeiras horas"
+   },
+   {
+    "valor": "R$ 5,607",
+    "rotulo": "cotação do dólar à vista na venda em 10/11"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "alta do CPI americano em outubro"
+   },
+   {
+    "valor": "0,3%",
+    "rotulo": "projeção do mercado para a inflação mensal dos EUA"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa básica Selic mantida no Brasil pelo Copom"
+   },
+   {
+    "valor": "5,002%",
+    "rotulo": "rendimento dos títulos americanos de 10 anos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Dólar a R$",
+  "porQueImporta": "A alta do dólar e a inflação americana acima do esperado impactam diretamente os custos de importação, juros futuros e o desempenho do mercado financeiro brasileiro, influenciando decisões de investidores e operadores diante de pressões inflacionárias globais e domésticas.",
+  "impactoMercado": "A valorização do dólar reflete maior aversão ao risco e expectativa de juros mais altos nos EUA, o que pode pressionar ainda mais os juros no Brasil e afetar setores exportadores e importadores, além de provocar volatilidade no mercado de câmbio e renda fixa.",
+  "entenda": "O CPI (Índice de Preços ao Consumidor) mede a variação dos preços no varejo e é usado para avaliar a inflação. Quando o CPI supera a expectativa, indica pressões inflacionárias, levando bancos centrais a aumentarem juros para conter a alta de preços. O Copom é o comitê do Banco Central do Brasil que decide a Selic, a taxa básica de juros.",
+  "observar": "Fique atento aos próximos dados de inflação dos EUA e à reunião do Fed em dezembro para entender impactos futuros. No Brasil, acompanhe declarações e decisões do Banco Central sobre juros e cenários econômicos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos o impacto da inflação americana e da ata do Copom na alta do dólar para ajudar quem quer entender o mercado financeiro e operar com mais conhecimento.",
+  "gancho": "*Dólar* dispara e inflação *EUA* surpreende",
+  "ideias": [
+   "Entenda por que o dólar subiu para R$ 5,60",
+   "Influência da inflação americana na cotação do dólar",
+   "Ata do Copom: o que diz sobre inflação e juros no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "BP Money; Folha Mercado; Folha Mercado",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:18:46-03:00",
+  "url": "https://bpmoney.com.br/mercado/cambio/dolar-sobe-r-5-60-inflacao-eua-acima-esperado/",
+  "publicadoEm": "2026-11-10T13:45:48-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-03"
+ },
+ {
+  "titulo": "Petróleo Brent cai abaixo de US$ 90 pela primeira vez desde agosto",
+  "resumo": "O barril de petróleo Brent recuou para US$ 89,66 em 10/11/2026, impactado pela redução das tensões no Oriente Médio e recuperação do transporte, aliviando temores sobre o fornecimento global.",
+  "fatos": [
+   "O petróleo Brent chegou a US$ 89,66 (R$ 494,44) em 10/11/2026 pela manhã.",
+   "O preço do Brent voltou a ficar pouco acima de US$ 90 (R$ 496,31) posteriormente no mesmo dia.",
+   "O petróleo WTI recuou 2,08%, para US$ 85,04 (R$ 468,96) em 10/11/2026.",
+   "Donald Trump indicou menor disposição para novos ataques contra o Irã após reunião com o primeiro-ministro do Catar.",
+   "Os fluxos de petróleo no Golfo estão próximos dos níveis anteriores à guerra graças a rotas alternativas ao Estreito de Ormuz.",
+   "A produção da Opep aumentou em outubro de 2026.",
+   "A queda dos preços acontece após tensões menores no Oriente Médio e expectativas de maior oferta.",
+   "Ainda não há sinais concretos de acordo de paz, mas o risco de escalada militar diminuiu."
+  ],
+  "explicacao": [
+   "Nesta terça-feira, 10 de novembro de 2026, o preço do barril de petróleo Brent, referência internacional, caiu para US$ 89,66 pela manhã, uma marca abaixo de US$ 90 que não acontecia desde agosto do mesmo ano. O preço voltou a ficar pouco acima de US$ 90 ao longo do dia.",
+   "Essa queda foi motivada pela expectativa de redução das tensões no Oriente Médio. O presidente Donald Trump indicou menor disposição para novos ataques contra o Irã após reunião com o primeiro-ministro do Catar, o que aliviou o receio do mercado sobre possíveis problemas no fornecimento global de petróleo.",
+   "Além disso, a recuperação do transporte de petróleo na região do Golfo, próximo aos níveis pré-guerra graças a rotas alternativas ao Estreito de Ormuz, também ajudou a pressionar os preços para baixo. Isso indica menor risco de interrupção do fluxo de petróleo no mercado.",
+   "Mesmo com a queda de preços, não há confirmação de acordo de paz e a situação na região ainda é incerta. A oferta global mostra sinais de excesso e a Opep aumentou produção em outubro, sinais que podem continuar influenciando os preços no curto prazo."
+  ],
+  "detalhes": [
+   "Data da queda abaixo de US$ 90: 10 de novembro de 2026.",
+   "Preço mínimo registrado: US$ 89,66 pelo barril de Brent.",
+   "Local: mercado internacional, referência Brent e WTI dos EUA.",
+   "Causa: menor tensão no Oriente Médio após conversa entre Trump e o primeiro-ministro do Catar.",
+   "Impacto da recuperação do transporte no Golfo próximo aos níveis pré-guerra com rotas alternativas ao Estreito de Ormuz.",
+   "Opep aumentou produção em outubro, indicando maior oferta.",
+   "Situação política permanece incerta, sem confirmação de acordo de paz."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Indicação de menor vontade de lançar novos ataques contra o Irã após reunião com Catar."
+   },
+   {
+    "quem": "Arne Lohmann Rasmussen, analista da Global Risk Management",
+    "oque": "Risco de nova escalada militar diminuiu, mas pouco sinal concreto de paz."
+   },
+   {
+    "quem": "Analistas do ING",
+    "oque": "Fluxos de petróleo no Golfo se recuperam próximos aos níveis pré-guerra graças a rotas alternativas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Produção da Opep aumentou."
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Petróleo Brent caiu abaixo de US$ 90 pela primeira vez desde agosto."
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Trump se reuniu com primeiro-ministro do Catar e indicou menor disposição para ataques."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Brent",
+    "significado": "Referência internacional de preço do petróleo cru leve produzido no Mar do Norte."
+   },
+   {
+    "termo": "WTI",
+    "significado": "West Texas Intermediate, referência do petróleo nos Estados Unidos."
+   },
+   {
+    "termo": "Opep",
+    "significado": "Organização dos Países Exportadores de Petróleo, que coordena a produção."
+   }
+  ],
+  "pergunta": "Você acompanha como eventos geopolíticos afetam o preço do petróleo?",
+  "tamanhoTexto": 11726,
+  "numeros": [
+   {
+    "valor": "89,66",
+    "rotulo": "US$ preço mínimo do barril Brent em 10/11/2026"
+   },
+   {
+    "valor": "90",
+    "rotulo": "US$ valor de referência do barril Brent que foi ultrapassado para baixo"
+   },
+   {
+    "valor": "85,04",
+    "rotulo": "US$ preço do barril WTI em 10/11/2026"
+   },
+   {
+    "valor": "2,08%",
+    "rotulo": "Queda percentual do petróleo WTI em 10/11/2026"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic mencionada no mercado brasileiro (contexto geral)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 89,66",
+  "porQueImporta": "A queda do petróleo abaixo de US$ 90 indica redução do risco geopolítico, essencial para custos globais de transporte e produção. Isso impacta setores ligados ao combustível e a inflação, além de afetar a receita de empresas produtoras brasileiras.",
+  "impactoMercado": "Com menor pressão dos riscos no Oriente Médio, preços do petróleo diminuem, influenciando ações de empresas do setor petróleo e gás, commodities e inflação. Investidores podem acompanhar variações no dólar e juros ligados ao cenário econômico global.",
+  "entenda": "O petróleo Brent é uma referência global para precificação do petróleo, usado como base para contratos. Mudanças nos seus preços revelam expectativas sobre oferta, demanda e riscos, especialmente em regiões produtoras como o Oriente Médio.",
+  "observar": "Fique atento a possíveis mudanças nas tensões no Oriente Médio, produção da Opep nas próximas reuniões e indicadores econômicos globais que influenciam a demanda por petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia ajuda a entender como tensões internacionais e fluxo de oferta impactam o preço do petróleo, importante ativo ligado a vários setores. É conteúdo essencial para quem quer operar ou investir com mais conhecimento.",
+  "gancho": "*Petróleo* cai e tensão cai",
+  "ideias": [
+   "O que faz o preço do petróleo subir ou cair?",
+   "Como a geopolítica mexe no mercado de petróleo?",
+   "Impacto da queda do petróleo para a economia e investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "globo",
+  "fonte": "G1 Economia; Folha Mercado; Money Times",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:18:46-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml",
+  "publicadoEm": "2026-11-10T12:46:41-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-04"
+ },
+ {
+  "titulo": "Bradesco revisa inflação para 5,3% em 2027 e vê juros em queda",
+  "resumo": "Bradesco elevou projeção da inflação para 5,3% em 2027, ante 4,1% anterior, e espera corte da Selic para 12,75%. Banco destaca incertezas sobre impacto da reforma tributária e fim da escala 6x1.",
+  "fatos": [
+   "Inflação projetada para 2027 aumentou de 4,1% para 5,3%.",
+   "Selic prevista em 12,75% no final de 2027, acima dos 11% da projeção anterior.",
+   "Projeção para 2026 da Selic subiu de 13,25% para 13,75%.",
+   "Dólar estimado em R$ 5,50 para 2026 e 2027, acima de R$ 5 e R$ 5,20 anteriormente.",
+   "Corte de 4 vezes de 0,25 ponto na Selic esperado no 2º semestre de 2027.",
+   "Impactos estimados: fim da escala 6x1 acrescenta 0,3 ponto no IPCA 2027.",
+   "Efeito do câmbio a R$ 5,50 soma 0,35 ponto ao IPCA.",
+   "Reoneração dos combustíveis adiciona 0,25 ponto ao IPCA.",
+   "Reforma tributária adiciona 0,3 ponto ao IPCA de 2027.",
+   "PIB de 2027 revisado de 1% para 0,4%."
+  ],
+  "explicacao": [
+   "O Bradesco atualizou sua projeção para a inflação de 2027, aumentando o índice esperado de 4,1% para 5,3%. A expectativa foi apresentada em 10 de outubro por Fernando Honorato Barbosa, economista-chefe do banco, durante coletiva com jornalistas.",
+   "Essa subida na inflação está ligada a choques como o fim da escala 6x1, reforma tributária e possíveis aumentos nos combustíveis. O banco incorporou parcialmente esses impactos, mas reconhece que é difícil prever seus efeitos exatos nos preços.",
+   "Apesar da alta projeção inflacionária, o Bradesco prevê quatro cortes de 0,25 ponto na taxa Selic no segundo semestre de 2027, terminando o ano em 12,75%, além de revisar o câmbio para R$ 5,50 em 2026 e 2027, valorizando o real frente ao cenário anterior.",
+   "O banco também reduziu a perspectiva de crescimento do PIB para 0,4% em 2027, ante 1% antes, atribuindo o recuo principalmente ao impacto dos choques inflacionários sobre o consumo. O cenário ainda depende do cumprimento da meta fiscal e da estabilidade do dólar global."
+  ],
+  "detalhes": [
+   "Dados divulgados em 10 de outubro de 2026 por Fernando Honorato Barbosa, economista-chefe do Bradesco.",
+   "Projeções levam em conta efeitos parciais do fim da escala 6x1 e da reforma tributária, consideradas inéditas.",
+   "Projeção do Brent para 2027 está em US$ 75 por barril, abaixo do preço atual de US$ 90.",
+   "Impacto do petróleo pode levar o governo a retirar subvenção em combustível se preço alcançar US$ 100.",
+   "Real está considerado barato em relação à média histórica, apesar de estabilização do câmbio prevista.",
+   "A pesquisa interna revelou que 75% das empresas ainda não sabem os impactos da reforma tributária.",
+   "Choques inflacionários devem reduzir o crescimento do consumo de bens em 1 a 1,5 ponto percentual."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fernando Honorato Barbosa, economista-chefe do Bradesco",
+    "oque": "A barra para alta de juros está alta; mesmo com choques, o BC pode cortar juros."
+   },
+   {
+    "quem": "Fernando Honorato Barbosa",
+    "oque": "É difícil prever quanto a reforma tributária ou o fim da escala 6x1 vão impactar a inflação."
+   },
+   {
+    "quem": "Myriã Bast, superintendente de Pesquisa Econômica do Bradesco",
+    "oque": "Choques geram aumento de custos, incertezas e perda de poder de compra para famílias."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10/10/2026",
+    "oque": "Bradesco apresenta nova projeção econômica para inflação e juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia usada para controlar inflação."
+   },
+   {
+    "termo": "IPCA",
+    "significado": "Índice oficial que mede a inflação ao consumidor no Brasil."
+   },
+   {
+    "termo": "Escala 6x1",
+    "significado": "Modelo de jornada de trabalho com seis dias seguidos e um de descanso."
+   }
+  ],
+  "pergunta": "Como você acha que a alta da inflação impacta seu dia a dia?",
+  "tamanhoTexto": 3687,
+  "numeros": [
+   {
+    "valor": "5,3%",
+    "rotulo": "Inflação projetada para 2027 pelo Bradesco"
+   },
+   {
+    "valor": "12,75%",
+    "rotulo": "Taxa Selic projetada para o final de 2027"
+   },
+   {
+    "valor": "0,25 ponto percentual",
+    "rotulo": "Cada corte esperado na taxa Selic no 2º semestre de 2027"
+   },
+   {
+    "valor": "R$ 5,50",
+    "rotulo": "Projeção do dólar para o fim de 2026 e 2027"
+   },
+   {
+    "valor": "0,3 ponto",
+    "rotulo": "Impacto estimado do fim da escala 6x1 no IPCA 2027"
+   },
+   {
+    "valor": "0,35 ponto",
+    "rotulo": "Impacto do câmbio a R$ 5,50 no IPCA 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Inflação para 2027",
+    "antes": "4,1%",
+    "depois": "5,3%"
+   },
+   {
+    "item": "Selic no final de 2027",
+    "antes": "11%",
+    "depois": "12,75%"
+   },
+   {
+    "item": "Projeção do dólar para 2026",
+    "antes": "R$ 5,00",
+    "depois": "R$ 5,50"
+   },
+   {
+    "item": "PIB para 2027",
+    "antes": "1%",
+    "depois": "0,4%"
+   }
+  ],
+  "destaque": "Inflação de 5,3%",
+  "porQueImporta": "A revisão para cima da inflação reflete novos choques econômicos, incluindo reformas e políticas públicas inéditas que impactam os preços. Para quem opera ou investe, entender esses movimentos é essencial para avaliar cenários de juros e dólar, que afetam custo de capital e rentabilidade.",
+  "impactoMercado": "Com a Selic projetada mais alta, mas com possível queda no segundo semestre de 2027, setores sensíveis a juros, câmbio e inflação podem apresentar volatilidade. A instabilidade nas estimativas dos impactos de reformas e câmbio reforça a necessidade de acompanhar decisões do Banco Central e dados econômicos.",
+  "entenda": "A Selic é a taxa básica de juros que influencia o custo do crédito e investimentos. Inflação mede o aumento médio dos preços. Reformas tributárias e mudanças trabalhistas podem afetar os custos e preços na economia, impactando inflação e decisões de política monetária.",
+  "observar": "Fique atento às próximas divulgações do Banco Central sobre a Selic, aos dados de inflação mensal e à evolução da reforma tributária para entender futuros impactos no mercado e na economia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia explica como choques econômicos e políticas públicas alteram projeções essenciais para decisões financeiras, mostrando a importância de aprender a interpretar indicadores para operar com mais segurança.",
+  "gancho": "*Inflação*, juros e reforma 2027",
+  "ideias": [
+   "O que muda na inflação com a reforma tributária?",
+   "Por que a Selic pode cair mesmo com inflação alta?",
+   "Impacto do câmbio e petróleo nas projeções econômicas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:18:46-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bradesco-ve-juros-em-queda-e-inflacao-mais-alta-em-2027-mas-destaca-incerteza-do-cenario.shtml",
+  "publicadoEm": "2026-11-10T13:58:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-05"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "fed-decision-in-january-20260729233815502",
+  "titulo": "Mercado de previsões vê 49.5% de chance de aumento de 25 bps pelo Fed em janeiro",
+  "resumo": "Expectativa de que o Fed possa subir a taxa de juros, com apostas equilibradas entre aumento e manutenção.",
+  "probs": [
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 49.5
+   },
+   {
+    "opcao": "Sem alteração",
+    "prob": 48.5
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
+    "prob": 1.1
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 0.5
+   }
+  ],
+  "prazo": "2027-01-28",
+  "volume24h": "US$ 476 mil",
+  "fatos": [
+   "Aumento de 25 bps: 49,5%",
+   "Sem alteração: 48,5%",
+   "Aumento de 50+ bps: 1,1%",
+   "Redução de 25 bps: 0,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "49,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "48,5%",
+    "rotulo": "Sem alteração"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "destaque": "49,5%",
+  "gancho": "*Apostas* equilibradas* para janeiro",
+  "entenda": "Decisões sobre as taxas de juros influenciam a economia geral, afetando empréstimos e investimentos.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
+  "publicadoEm": "2026-11-10T14:18:46-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-10T14:18:46-03:00",
+  "data": "2026-11-10",
+  "status": "nova",
+  "id": "2026-11-10-p1"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bitcoin-above-on-november-11-2026",
+  "titulo": "Mercado de previsões vê 95.3% de chance de Bitcoin acima de 70,000 em 11 de novembro",
+  "resumo": "Probabilidade elevada de que o preço do Bitcoin ultrapasse os 70,000 até a data estipulada.",
+  "probs": [
+   {
+    "opcao": "70,000",
+    "prob": 95.3
+   },
+   {
+    "opcao": "72,000",
+    "prob": 77.2
+   },
+   {
+    "opcao": "74,000",
+    "prob": 30.1
+   },
+   {
+    "opcao": "76,000",
+    "prob": 5.0
+   }
+  ],
+  "prazo": "2026-11-11",
+  "volume24h": "US$ 182 mil",
+  "fatos": [
+   "70,000: 95,3%",
+   "72,000: 77,2%",
+   "74,000: 30,1%",
+   "76,000: 5,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "95,3%",
+    "rotulo": "70,000"
+   },
+   {
+    "valor": "77,2%",
+    "rotulo": "72,000"
+   },
+   {
+    "valor": "30,1%",
+    "rotulo": "74,000"
+   },
+   {
+    "valor": "5,0%",
+    "rotulo": "76,000"
+   }
+  ],
+  "destaque": "95,3%",
+  "gancho": "*Previsões* otimistas* para o Bitcoin",
+  "entenda": "Bitcoin é uma criptomoeda bastante volátil, e suas variações de preço refletem a confiança dos investidores no mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bitcoin-above-on-november-11-2026",
+  "publicadoEm": "2026-11-10T14:18:46-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-10T14:18:46-03:00",
+  "data": "2026-11-10",
+  "status": "nova",
+  "id": "2026-11-10-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "another-fed-rate-hike-in-2026",
+  "titulo": "Mercado de previsões vê 95.2% de chance de mais um aumento de juros pelo Fed em 2026",
+  "resumo": "Apostas indicam forte expectativa de que o Fed aumente as taxas de juros mais uma vez em 2026.",
+  "probs": [
+   {
+    "opcao": "Sim",
+    "prob": 95.2
+   },
+   {
+    "opcao": "Não",
+    "prob": 4.9
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 241 mil",
+  "fatos": [
+   "Sim: 95,2%",
+   "Não: 4,9%"
+  ],
+  "numeros": [
+   {
+    "valor": "95,2%",
+    "rotulo": "Sim"
+   },
+   {
+    "valor": "4,9%",
+    "rotulo": "Não"
+   }
+  ],
+  "destaque": "95,2%",
+  "gancho": "*Certeza* sobre aumento de juros*",
+  "entenda": "Os aumentos de juros pelo Fed visam controlar a inflação e estabilizar a economia, impactando o mercado financeiro.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+  "publicadoEm": "2026-11-10T14:18:46-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-10T14:18:46-03:00",
+  "data": "2026-11-10",
+  "status": "nova",
+  "id": "2026-11-10-p3"
+ },
+ {
   "titulo": "Mercado reage mal após discurso fiscal de Lula e incertezas econômicas",
   "resumo": "Após reeleição, Lula admitiu preocupação com dívida pública e altos juros em discurso. Mercado reagiu com queda da bolsa, alta do dólar e aumento da curva de juros devido à incerteza fiscal.",
   "fatos": [
@@ -3266,53 +3853,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-before-2027",
-  "titulo": "Mercado de previsões vê 49,5% de chance do Ethereum cair abaixo de 2.000 em 2026",
-  "resumo": "As previsões indicam uma expectativa de queda do Ethereum, impactando o mercado de criptoativos.",
+  "titulo": "Mercado de previsões vê 90.5% de chance de Ethereum abaixo de 2,000 até 2027",
+  "resumo": "Alta probabilidade de que o preço do Ethereum fique abaixo de 2,000 até o início de 2027.",
   "probs": [
    {
     "opcao": "↓ 2,000",
-    "prob": 49.5
+    "prob": 90.5
    },
    {
     "opcao": "↓ 1,750",
-    "prob": 20.5
-   },
-   {
-    "opcao": "↑ 3,000",
-    "prob": 16.5
+    "prob": 34.5
    },
    {
     "opcao": "↓ 1,500",
-    "prob": 10.4
+    "prob": 16.6
+   },
+   {
+    "opcao": "↑ 3,000",
+    "prob": 7.5
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 72 mil",
+  "volume24h": "US$ 162 mil",
   "fatos": [
-   "↓ 2,000: 49,5%",
-   "↓ 1,750: 20,5%",
-   "↑ 3,000: 16,5%",
-   "↓ 1,500: 10,4%"
+   "↓ 2,000: 90,5%",
+   "↓ 1,750: 34,5%",
+   "↓ 1,500: 16,6%",
+   "↑ 3,000: 7,5%"
   ],
   "numeros": [
    {
-    "valor": "49,5%",
+    "valor": "90,5%",
     "rotulo": "↓ 2,000"
    },
    {
-    "valor": "20,5%",
+    "valor": "34,5%",
     "rotulo": "↓ 1,750"
    },
    {
-    "valor": "16,5%",
-    "rotulo": "↑ 3,000"
+    "valor": "16,6%",
+    "rotulo": "↓ 1,500"
    },
    {
-    "valor": "10,4%",
-    "rotulo": "↓ 1,500"
+    "valor": "7,5%",
+    "rotulo": "↑ 3,000"
    }
   ],
-  "destaque": "49,5%",
+  "destaque": "90,5%",
   "gancho": "*Expectativa de baixa* para o Ethereum",
   "entenda": "Esse evento analisa as expectativas sobre o preço do Ethereum, que é relevante para investidores e usuários do criptoespço.",
   "categoria": "Previsões",
@@ -3325,8 +3912,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-07T16:37:19-03:00",
   "data": "2026-11-07",
-  "status": "nova",
-  "id": "2026-11-07-p1"
+  "status": "atualizada",
+  "id": "2026-11-07-p1",
+  "atualizadoEm": "2026-11-10T14:18:46-03:00"
  },
  {
   "titulo": "Dólar fecha em alta e maior valor desde dezembro de 2025 com payroll dos EUA",
@@ -9248,53 +9836,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-december-20260729232808632",
-  "titulo": "Mercado de previsões vê 77,5% de chance de aumento de 25 bps pelo Fed em dezembro",
-  "resumo": "Apostadores acreditam que um aumento de 25 bps é o mais provável na próxima reunião do Fed.",
+  "titulo": "Mercado de previsões vê 84.5% de chance de aumento de 25 bps pelo Fed em dezembro",
+  "resumo": "Chance alta de que o Fed aumente os juros em dezembro, de acordo com apostas do mercado.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 77.5
-   },
-   {
-    "opcao": "Sem alteração",
-    "prob": 20.5
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.7
+    "prob": 84.5
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 0.5
+    "prob": 10.5
+   },
+   {
+    "opcao": "Sem alteração",
+    "prob": 3.8
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 0.4
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 2,0 mi",
+  "volume24h": "US$ 6,2 mi",
   "fatos": [
-   "Aumento de 25 bps: 77,5%",
-   "Sem alteração: 20,5%",
-   "Redução de 25 bps: 0,7%",
-   "Aumento de 50+ bps: 0,5%"
+   "Aumento de 25 bps: 84,5%",
+   "Aumento de 50+ bps: 10,5%",
+   "Sem alteração: 3,8%",
+   "Redução de 25 bps: 0,4%"
   ],
   "numeros": [
    {
-    "valor": "77,5%",
+    "valor": "84,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "20,5%",
+    "valor": "10,5%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "3,8%",
     "rotulo": "Sem alteração"
    },
    {
-    "valor": "0,7%",
+    "valor": "0,4%",
     "rotulo": "Redução de 25 bps"
-   },
-   {
-    "valor": "0,5%",
-    "rotulo": "Aumento de 50+ bps"
    }
   ],
-  "destaque": "77,5%",
+  "destaque": "84,5%",
   "gancho": "*Expectativa* alta de aumento de juros",
   "entenda": "O Fed define as taxas de juros que influenciam a economia. Aumento pode indicar luta contra a inflação.",
   "categoria": "Previsões",
@@ -9309,7 +9897,7 @@
   "data": "2026-11-04",
   "status": "atualizada",
   "id": "2026-11-04-p1",
-  "atualizadoEm": "2026-11-06T13:56:28-03:00"
+  "atualizadoEm": "2026-11-10T14:18:46-03:00"
  },
  {
   "titulo": "Dólar cai e Ibovespa sobe após vitória democrata no Congresso dos EUA",
