@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-09T20:51:12-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-10T00:48:14-03:00",
+  "novas": 2,
   "atualizadas": 1,
   "status": "ok",
-  "mensagem": "7 nova(s) e 1 atualizada(s): Ibovespa sobe com petróleo em queda; Itaúsa registra lucro recorde; Magalu registra prejuízo no trimestre.",
+  "mensagem": "2 nova(s) e 1 atualizada(s): Economia & Mercado: desafios futuros; PepsiCo corta empregos e ajusta estratégia.",
   "falhas": [
-   "Sem cotação confiável: Euro, Petróleo Brent"
+   "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-10T00:48:14-03:00",
    "2026-11-09T20:51:12-03:00",
    "2026-11-09T17:09:11-03:00",
    "2026-11-08T22:12:31-03:00",
@@ -20,12 +21,11 @@
    "2026-11-07T12:55:57-03:00",
    "2026-11-06T22:12:07-03:00",
    "2026-11-06T18:04:20-03:00",
-   "2026-11-06T13:56:28-03:00",
-   "2026-11-05T23:30:41-03:00"
+   "2026-11-06T13:56:28-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 7
+  "textosCompletos": 3
  },
  "placar": {
   "itens": [
@@ -33,19 +33,25 @@
     "k": "IBOV",
     "nome": "Ibovespa",
     "v": "172.236",
-    "var": "+2,22%"
+    "var": "+2,57%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,51",
-    "var": "+0,06%"
+    "var": ""
+   },
+   {
+    "k": "EUR",
+    "nome": "Euro",
+    "v": "R$ 6,18",
+    "var": ""
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 75,2 mil",
-    "var": "+0,39%"
+    "v": "US$ 74,4 mil",
+    "var": "-0,72%"
    },
    {
     "k": "SPX",
@@ -62,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.146,50",
-    "var": "+0,78%"
+    "v": "US$ 4.122,60",
+    "var": "+0,20%"
    },
    {
     "k": "SELIC",
@@ -78,14 +84,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "seg 20h",
-  "data": "2026-11-09",
-  "atualizadoEm": "2026-11-09T20:51:12-03:00",
+  "obs": "Último fechamento",
+  "hora": "ter 0h",
+  "data": "2026-11-10",
+  "atualizadoEm": "2026-11-10T00:48:14-03:00",
   "ibov": "172.236",
-  "ibovVar": "+2,22%",
+  "ibovVar": "+2,57%",
   "dolar": "R$ 5,51",
-  "dolarVar": "+0,06%",
-  "btc": "US$ 75,2 mil"
+  "dolarVar": "",
+  "btc": "US$ 74,4 mil"
  }
 }
