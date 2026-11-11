@@ -1,5 +1,710 @@
 [
  {
+  "titulo": "Governo Lula propõe ajuste fiscal de até R$ 60 bi em 2027 com gatilhos e cortes",
+  "resumo": "Projeto enviado ao Congresso visa medidas para ajuste fiscal de R$ 50 a R$ 60 bilhões em 2027, incluindo cortes em benefícios fiscais, gatilhos para contenção de gastos e mudanças no piso da saúde.",
+  "fatos": [
+   "Projeto encaminhado em 11 de novembro de 2026 pelo senador Jaques Wagner (PT-BA).",
+   "Impacto fiscal estimado entre R$ 50 bilhões e R$ 60 bilhões para 2027.",
+   "Contingenciamento adicional pode congelar R$ 12,8 bilhões em despesas.",
+   "Corte linear de 10% em benefícios tributários previstos na proposta.",
+   "Mudança no cálculo do piso da saúde exclui receitas voláteis do setor de petróleo.",
+   "Retirada de R$ 10,5 bilhões em subsídios ao diesel da meta fiscal.",
+   "Superávit primário planejado de 0,5% do PIB (R$ 73,2 bilhões) para 2027.",
+   "Projeto será relatado pelo senador Eduardo Braga (MDB-AM).",
+   "Meta fiscal de 2026 já inclui abatimentos de R$ 67,3 bilhões autorizados pelo Congresso e STF.",
+   "Contingenciamento vigente em 2026 é de R$ 16,1 bilhões, com R$ 13,6 bi por instrumentos de contenção."
+  ],
+  "explicacao": [
+   "O governo Lula apresentou em 11 de novembro de 2026 um projeto de lei complementar (PLP) com medidas de ajuste fiscal que somam entre R$ 50 bilhões e R$ 60 bilhões para o ano de 2027, com o objetivo de estabilizar a trajetória da dívida pública e consolidar a situação fiscal.",
+   "O projeto, protocolado pelo senador Jaques Wagner, inclui gatilhos para ampliar o bloqueio de gastos, cortes lineares de 10% em benefícios tributários para setores econômicos, limitações em compensações tributárias, e uma revisão na metodologia do cálculo do piso mínimo de gastos com saúde.",
+   "Essas medidas permitirão, por exemplo, limitar o crescimento real das despesas públicas de 2,5% para 2%, criando um contingenciamento adicional de R$ 12,8 bilhões. Além disso, o projeto retira R$ 10,5 bilhões em subsídios ao diesel do cálculo da meta fiscal, aliviando a contenção orçamentária.",
+   "O ministro do Planejamento, Bruno Moretti, destacou que o ajuste fiscal será gradual, com meta de superávit de 0,5% do PIB em 2027 e melhora até 1,5% do PIB em 2030, protegendo direitos sociais e despesas essenciais como saúde e educação. O projeto deve ser pautado no Senado em breve."
+  ],
+  "detalhes": [
+   "Medidas buscam racionalizar despesas e rever gastos tributários considerados ineficazes ou privilégios.",
+   "Gatilho limita crescimento real das despesas ao reduzir o limite de 2,5% para 2% caso a meta fiscal não seja cumprida.",
+   "Limitação do uso de compensações tributárias, mecanismo que permite pagar tributos com créditos fiscais.",
+   "Mudança no cálculo do piso da saúde visa excluir receitas instáveis, diminuindo o gasto obrigatório.",
+   "Projeto incorpora medidas junto à regulamentação da obrigatoriedade do seguro rural, facilitando aprovação.",
+   "Contingenciamento adicional e corte de benefícios fiscais visam garantir cumprimento do resultado primário.",
+   "Projeto prorroga vigência de restos a pagar até 31 de dezembro de 2027 para despesas plurianuais."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Projeto propõe medidas para contenção de despesas e revisão de gastos tributários visando resultado primário."
+   },
+   {
+    "quem": "Bruno Moretti",
+    "oque": "Não há na agenda do governo retirada de direitos; intenção é equilíbrio fiscal com proteção social."
+   },
+   {
+    "quem": "Felipe Salto, economista-chefe da Warren",
+    "oque": "Medidas não resolvem todos os problemas, mas representam um bom caminho para ajustes fiscais."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "11 de novembro de 2026",
+    "oque": "Projeto de lei complementar com medidas de ajuste fiscal apresentado ao Senado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Contingenciamento",
+    "significado": "Congelamento temporário de gastos para cumprir metas fiscais."
+   },
+   {
+    "termo": "Meta fiscal",
+    "significado": "Objetivo de resultado primário do governo para equilíbrio das contas públicas."
+   },
+   {
+    "termo": "Benefícios fiscais",
+    "significado": "Descontos ou isenções de impostos concedidos a setores econômicos."
+   }
+  ],
+  "pergunta": "Como você acha que o ajuste fiscal pode impactar seus investimentos em 2027?",
+  "tamanhoTexto": 16370,
+  "numeros": [
+   {
+    "valor": "R$ 50 a R$ 60 bilhões",
+    "rotulo": "Impacto esperado das medidas em 2027"
+   },
+   {
+    "valor": "R$ 10,5 bilhões",
+    "rotulo": "Valor dos subsídios ao diesel retirados da meta fiscal"
+   },
+   {
+    "valor": "R$ 12,8 bilhões",
+    "rotulo": "Valor que pode ser contingenciado ao reduzir limite de despesas de 2,5% para 2%"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "Meta de superávit primário do PIB para 2027"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Corte linear em benefícios fiscais previsto"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Crescimento real das despesas públicas",
+    "antes": "2,5% ao ano",
+    "depois": "2% ao ano no gatilho de contingenciamento"
+   }
+  ],
+  "destaque": "R$ 60 bilhões",
+  "porQueImporta": "O ajuste fiscal é essencial para evitar deterioração das contas públicas do Brasil e assegurar estabilidade econômica. Para quem opera no mercado financeiro, medidas que dão mais segurança ao cumprimento da meta fiscal tendem a reduzir incertezas, contribuir para a manutenção do controle da dívida e influenciar indicadores econômicos fundamentais.",
+  "impactoMercado": "As medidas podem afetar setores que se beneficiam de isenções fiscais e o ritmo dos gastos públicos, impactando ativos vinculados ao setor público. Também podem favorecer um ambiente mais estável para os juros futuros e a confiança no real, importante para investidores e traders que acompanham as políticas fiscais do país.",
+  "entenda": "A meta fiscal é o resultado que o governo quer alcançar para equilibrar receitas e despesas, sem considerar o pagamento da dívida. Contingenciamento é o congelamento de despesas para cumprir essa meta. Benefícios fiscais são isenções e incentivos tributários dados a setores econômicos. O piso da saúde é o mínimo que a União deve gastar obrigatoriamente nessa área, calculado com base na receita.",
+  "observar": "Acompanhe a possível votação do projeto no Senado e a apresentação do relatório pelo senador Eduardo Braga. Observe também os relatórios bimestrais de receitas e despesas para monitorar o acionamento dos gatilhos de contenção.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Entenda as medidas propostas para conter gastos públicos, sua relação com a meta fiscal e o impacto na economia geral para operar com mais conhecimento no mercado financeiro e reconhecer a importância da disciplina fiscal.",
+  "gancho": "*Ajuste fiscal* Brasil 2027",
+  "ideias": [
+   "Conheça o projeto do governo para ajuste fiscal de 2027",
+   "Entenda o que é contingenciamento no Orçamento público",
+   "Como cortes fiscais podem influenciar a economia em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Estadão Economia; Folha Mercado; Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T19:16:47-03:00",
+  "url": "https://www.estadao.com.br/economia/governo-projeto-medidas-ajuste-fiscal-lula-4/",
+  "publicadoEm": "2026-11-11T15:09:07-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-07"
+ },
+ {
+  "titulo": "Nvidia reage na bolsa em meio a crise envolvendo CEO Jensen Huang",
+  "resumo": "Ações da Nvidia subiram 2,87% após quedas pela crise do CEO Jensen Huang, que enfrenta investigação por suposto vazamento de segredos comerciais.",
+  "fatos": [
+   "Ações da Nvidia subiram 2,87% em 11 de novembro de 2026.",
+   "Na terça-feira (10), as ações caíram 5,47%; na segunda-feira (9), recuaram 4,3%.",
+   "A investigação está sendo conduzida pelo escritório Wachtell, Lipton, Rosen & Katz.",
+   "Caso envolve suposto vazamento de segredos comerciais e segurança nacional.",
+   "CEO Jensen Huang retornou ao escritório na segunda-feira após revelação do caso.",
+   "Resultados trimestrais da Nvidia serão divulgados em 17 de novembro de 2026.",
+   "Bank of America analisou três cenários para possíveis impactos na empresa."
+  ],
+  "explicacao": [
+   "Nesta quarta-feira (11), as ações da Nvidia recuperaram 2,87% depois de sofrerem duas quedas consecutivas devido a revelações sobre um caso extraconjugal do CEO Jensen Huang, suspeito de envolvimento com uma espiã chinesa.",
+   "A crise ganhou maior dimensão com a contratação do escritório Wachtell, Lipton, Rosen & Katz para investigar possíveis vazamentos de informações sensíveis relacionados ao episódio, com o objetivo de preservar dados de segurança nacional.",
+   "Huang tentou mostrar normalidade retornando ao escritório e participando de reuniões antes da divulgação dos resultados trimestrais, agendada para 17 de novembro, mas a situação aumenta a incerteza entre investidores quanto ao impacto futuro.",
+   "Análise do Bank of America indicou três possíveis cenários para a Nvidia: consequências limitadas, prolongamento da crise com pressão no mercado ou agravamento com mudanças na liderança e revisão de projeções de resultados."
+  ],
+  "detalhes": [
+   "Jensen Huang, CEO da Nvidia, está no centro da crise por suposto caso extraconjugal ligado a espiã chinesa.",
+   "Nvidia é a empresa de tecnologia mais valiosa do mundo.",
+   "Empresa contratou escritório de advocacia para apurar riscos de vazamentos de informações.",
+   "Huang participou de reuniões na sede da companhia, sinalizando foco nos negócios.",
+   "Bank of America é o analista que avaliou os cenários futuros da Nvidia.",
+   "Próximos resultados financeiros serão fundamentais para avaliar os impactos da crise.",
+   "Motivações políticas aparecem pela acusação de um senador contra Trump, ligada ao caso."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Vivek Arya, analista do Bank of America",
+    "oque": "Descreveu três cenários possíveis para a crise na Nvidia, desde impactos limitados até mudanças na liderança."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "9 de novembro de 2026",
+    "oque": "Ações da Nvidia caíram 4,3% após os primeiros rumores do caso."
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Queda de 5,47% nas ações diante de detalhes do suposto caso do CEO."
+   },
+   {
+    "quando": "11 de novembro de 2026",
+    "oque": "Ações da Nvidia subiram 2,87% e empresa contratou escritório para investigar."
+   },
+   {
+    "quando": "17 de novembro de 2026",
+    "oque": "Divulgação dos resultados trimestrais da Nvidia prevista."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Vazamento de segredos comerciais",
+    "significado": "Divulgação não autorizada de informações estratégicas empresariais."
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização."
+   },
+   {
+    "termo": "Análise de cenário",
+    "significado": "Avaliação de possíveis desdobramentos futuros de um evento."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da crise do CEO na Nvidia para investidores e o mercado?",
+  "tamanhoTexto": 9859,
+  "numeros": [
+   {
+    "valor": "2,87%",
+    "rotulo": "alta das ações da Nvidia em 11/11/2026"
+   },
+   {
+    "valor": "5,47%",
+    "rotulo": "queda das ações em 10/11/2026"
+   },
+   {
+    "valor": "4,3%",
+    "rotulo": "queda das ações em 9/11/2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ações Nvidia (9/11/2026)",
+    "antes": "sem crise relativa",
+    "depois": "-4,3%"
+   },
+   {
+    "item": "Ações Nvidia (10/11/2026)",
+    "antes": "queda menor",
+    "depois": "-5,47%"
+   },
+   {
+    "item": "Ações Nvidia (11/11/2026)",
+    "antes": "queda contínua",
+    "depois": "+2,87%"
+   }
+  ],
+  "destaque": "2,87% alta das",
+  "porQueImporta": "A crise envolvendo o CEO da Nvidia pode afetar a confiança dos investidores e a estabilidade da empresa, que é líder global em tecnologia e inteligência artificial, influenciando seu valor de mercado e as decisões estratégicas.",
+  "impactoMercado": "A pressão sobre a liderança da Nvidia pode gerar volatilidade nas ações, afetar setores de tecnologia e inteligência artificial, enquanto investidores monitoram os desdobramentos para ajustar posições e avaliar riscos do cenário.",
+  "entenda": "A crise envolve a suspeita de vazamento de informações estratégicas da Nvidia ligadas a segurança nacional, o que pode comprometer a confiança dos investidores e a estabilidade da empresa no mercado financeiro.",
+  "observar": "A divulgação dos resultados trimestrais da Nvidia em 17 de novembro e o andamento da investigação serão decisivos para futuros movimentos da empresa no mercado financeiro.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia traz um caso real que mostra como riscos corporativos podem impactar ações, convidando o público a entender finanças, governança e risco para operar melhor o mercado.",
+  "gancho": "*Nvidia* enfrenta crise e reage na bolsa",
+  "ideias": [
+   "Entenda a crise do CEO da Nvidia e seus impactos",
+   "Como vazamento de segredos afeta o preço das ações",
+   "O que investidores devem olhar no balanço após crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Times Brasil; InfoMoney; InfoMoney",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T19:16:47-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/nvidia-se-recupera-na-bolsa-enquanto-jensen-huang-enfrenta-pressao-antes-de-balanco/",
+  "publicadoEm": "2026-11-11T19:01:34-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-08"
+ },
+ {
+  "titulo": "Petrobras tem lucro 21% maior no 3º tri e revisa projeção de produção",
+  "resumo": "Lucro da Petrobras no 3º trimestre de 2026 foi R$ 39,7 bilhões, 21,1% acima do ano passado. Produtividade e investimentos foram revisados para cima, e dividendos de R$ 15,3 bilhões foram aprovados.",
+  "fatos": [
+   "Lucro líquido de R$ 39,7 bilhões no 3º tri de 2026",
+   "Lucro ajustado de R$ 47,9 bilhões, alta de 67,2% na comparação anual",
+   "Produção recorde de 3,51 milhões de boed, 11,7% maior que 3º tri de 2025",
+   "Receita líquida de R$ 169,3 bilhões, aumento de 32,4%",
+   "Ebitda ajustado de R$ 94,5 bilhões, aumento de 34,3%",
+   "Dividendos aprovados no valor de R$ 15,3 bilhões para 2026",
+   "Capex revisado de US$ 19,4 bilhões para até US$ 25,5 bilhões em 2026",
+   "Gastos operacionais projetados entre US$ 24,2 bilhões e US$ 25,5 bilhões",
+   "Dívida líquida da Petrobras somou US$ 57,8 bilhões no trimestre",
+   "Produção revisada para 2026: 3,3 a 3,4 milhões de boed"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a Petrobras registrou um lucro líquido de R$ 39,7 bilhões, 21,1% maior que no mesmo período do ano anterior. O lucro ajustado, descontando eventos extraordinários, chegou a R$ 47,9 bilhões, alta de 67,2% anual. O Ebitda ajustado foi de R$ 94,5 bilhões, aumento de 34,3%.",
+   "Esse crescimento reflete a eficiência operacional e o sucesso dos investimentos realizados nos últimos anos, além do aumento dos preços do petróleo no mercado global. A produção também bateu recorde, atingindo 3,51 milhões de barris de óleo equivalente por dia, 11,7% acima do 3º tri de 2025.",
+   "A companhia revisou a projeção de produção própria para 2026, agora estimada entre 3,3 e 3,4 milhões de boed e a produção de óleo e líquidos de gás natural para entre 2,7 e 2,8 milhões de barris por dia, ressaltando ganhos operacionais e aumento de capacidade.",
+   "A Petrobras ainda aprovou o pagamento de dividendos e juros sobre capital próprio no valor de R$ 15,3 bilhões, pagos em duas parcelas em 2027. O aumento do capex total para 2026, de US$ 19,4 bilhões para até US$ 25,5 bilhões, mostrou a ambição da empresa em ampliar sua produção e infraestrutura."
+  ],
+  "detalhes": [
+   "Balanço enviado à Comissão de Valores Mobiliários em 10 de novembro de 2026",
+   "Dividendos pagos em duas parcelas: 22 de fevereiro e 22 de março de 2027",
+   "Dividendos corrigidos pela Selic a partir de 31 de dezembro de 2026",
+   "Projeção de capex elevada devido ao efeito cambial e melhor execução de projetos",
+   "Ajustes no lucro líquido desconsideram eventos como impostos e alienação de ativos",
+   "Venda de derivados interna com maior volume desde 3º tri de 2021 e 99% de utilização das refinarias",
+   "Investimento de US$ 6,4 bilhões entre julho e setembro, com US$ 5,3 bilhões em exploração e produção"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Petrobras, no fato relevante",
+    "oque": "Revisão das projeções reflete avanço consistente da eficiência operacional"
+   },
+   {
+    "quem": "Magda Chambriard, CEO da Petrobras",
+    "oque": "Desempenho demonstra a força da gestão operacional e capacidade de executar projetos"
+   },
+   {
+    "quem": "Petrobras, no relatório financeiro",
+    "oque": "Novos investimentos estão associados ao efeito cambial e melhor execução dos projetos"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Divulgação do balanço e aprovação do pagamento de dividendos"
+   },
+   {
+    "quando": "22 de fevereiro e 22 de",
+    "oque": "Pagamentos das parcelas dos dividendos aprovados"
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Registro do lucro e produção recorde"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Capex",
+    "significado": "Investimentos em infraestrutura e expansão"
+   },
+   {
+    "termo": "Dividendos",
+    "significado": "Parte do lucro distribuída aos acionistas"
+   }
+  ],
+  "pergunta": "Como você vê o impacto dos maiores investimentos da Petrobras nos próximos anos?",
+  "tamanhoTexto": 13076,
+  "numeros": [
+   {
+    "valor": "39,7 bilhões",
+    "rotulo": "Lucro líquido em reais no 3º trimestre"
+   },
+   {
+    "valor": "47,9 bilhões",
+    "rotulo": "Lucro líquido ajustado em reais no 3º trimestre"
+   },
+   {
+    "valor": "3,51 milhões",
+    "rotulo": "Produção de boed no 3º trimestre"
+   },
+   {
+    "valor": "15,3 bilhões",
+    "rotulo": "Valor dos dividendos aprovados em reais"
+   },
+   {
+    "valor": "25,5 bilhões",
+    "rotulo": "Estimativa máxima de capex em dólares para 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 39,7 bilhões",
+  "porQueImporta": "O forte lucro e as projeções revisadas da Petrobras indicam recuperação e expansão da produção, afetando diretamente investidores e o mercado de ações. A eficiência operacional e os investimentos suportam o potencial de ganhos futuros, mas o menor payout gera cautela na remuneração aos acionistas.",
+  "impactoMercado": "A reação do mercado com queda nas ações reflete a expectativa frustrada em dividendos maiores, apesar dos resultados robustos. O aumento do capex pode indicar mais gastos futuros, impactando a percepção do risco e o setor de petróleo e gás na bolsa.",
+  "entenda": "Lucro líquido é o resultado final da empresa após todos os gastos. Produção em boed (barris de óleo equivalente por dia) mede volume total de petróleo e gás. Capex indica investimentos para manter e ampliar operações, fundamental para crescimento da Petrobras.",
+  "observar": "Acompanhe os pagamentos dos dividendos em fevereiro e março de 2027 e a divulgação de novos resultados trimestrais para monitorar continuidade da produção e política de proventos da Petrobras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "A notícia traz um panorama completo de como a Petrobras estrutura seus resultados e projeções, mostrando operações, investimentos e a decisão sobre dividendos, ajudando quem quer entender a dinâmica do mercado de energia e investimentos.",
+  "gancho": "*Petrobras* avança: lucro e produção recorde",
+  "ideias": [
+   "Entenda o lucro recorde da Petrobras no 3º tri",
+   "Por que a Petrobras revisou para cima sua produção?",
+   "Dividendos de Petrobras: o que mudou e impacto para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Bloomberg Línea; InvestNews; Exame Invest",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T19:16:47-03:00",
+  "url": "https://www.bloomberglinea.com.br/negocios/petrobras-tem-alta-de-21-do-lucro-no-3-trimestre-e-eleva-projecao-de-producao/",
+  "publicadoEm": "2026-11-10T21:30:44-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-11-09"
+ },
+ {
+  "titulo": "Ultra (UGPA3) lucra R$ 2,7 bi no 3T; dividendo de R$ 1,1 bi anunciado",
+  "resumo": "No 3º trimestre de 2026, a Ultra registrou lucro de R$ 2,7 bilhões, alta de 249%. Distribuirá dividendos de R$ 1,1 bilhão, reforçando retorno aos acionistas.",
+  "fatos": [
+   "Lucro da Ultra no 3T26 foi de R$ 2,7 bilhões, aumento de 249% em um ano.",
+   "Ebitda ajustado recorrente da Ultra: R$ 3,1 bilhões, alta de 74%.",
+   "Receita líquida da Ultra cresceu 20%, alcançando R$ 44,4 bilhões no trimestre.",
+   "Volume vendido da Ipiranga aumentou 9% no período.",
+   "Dívida líquida da Ultra caiu para R$ 11 bilhões, alavancagem financeira de 1 vez.",
+   "Dividendos anunciados: R$ 1,085 bilhão, R$ 1,00 por ação, rendimento de 3,3%.",
+   "Pagamento dos dividendos começa em 3 de dezembro de 2026, ex-dividendo em 24 de novembro.",
+   "Novas operações iniciadas nas capacidades da Ultracargo em Suape e Itaqui.",
+   "Inauguração de ponto de abastecimento de biometano da Ultragaz em Paulínia.",
+   "Liquidação antecipada de dívidas de maior custo na Hidrovias do Brasil."
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, o grupo Ultra, dono da rede Ipiranga, alcançou lucro de R$ 2,7 bilhões, um crescimento de 249% em relação aos R$ 772 milhões do mesmo período em 2025. O Ebitda ajustado foi de R$ 3,1 bilhões, 74% maior comparado ao ano anterior.",
+   "O crescimento da empresa foi impulsionado principalmente pelo aumento de 20% na receita líquida, que ficou em R$ 44,4 bilhões, e pelo aumento no volume vendido pela Ipiranga em 9%. As ações governamentais contra o comércio ilegal de combustíveis também beneficiaram a rede de postos.",
+   "Com dívida líquida reduzida para R$ 11 bilhões e alavancagem financeira diminuída para 1 vez, a Ultra demonstrou solidez financeira. A empresa anunciou distribuição de dividendos de R$ 1,085 bilhão, equivalente a R$ 1,00 por ação, com pagamento em dezembro de 2026.",
+   "Além dos resultados financeiros, a Ultrapar iniciou operações em novas instalações da Ultracargo e ampliou pontos de abastecimento de biometano, além de liquidação de dívidas caras na Hidrovias do Brasil. Isso mostra uma estratégia alinhada à expansão e fortalecimento operacional."
+  ],
+  "detalhes": [
+   "Empresa: Grupo Ultra (UGPA3), com destaque para a rede Ipiranga.",
+   "Data do balanço: publicado em 11 de novembro de 2026.",
+   "Lucro do 3T26: R$ 2,7 bilhões, contra R$ 772 milhões em 3T25.",
+   "Ebitda esperado pelos analistas era R$ 3,3 bilhões, resultado veio abaixo disso com R$ 3,1 bilhões.",
+   "Dividendos equivalem a cerca de 3,3% de dividend yield.",
+   "Dívida líquida caiu de R$ 12 bilhões para R$ 11 bilhões em um ano.",
+   "Destaque operacional para expansão logística e maior capacidade em combustíveis renováveis."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ultra",
+    "oque": "O dividend yield reforça a estratégia de retorno de capital mesmo com investimentos em expansão."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3 de dezembro de 2026",
+    "oque": "Início do pagamento dos dividendos da Ultra."
+   },
+   {
+    "quando": "24 de novembro de 2026",
+    "oque": "Ações da Ultra passam a ser negociadas ex-dividendo na B3."
+   },
+   {
+    "quando": "Agosto de 2025",
+    "oque": "Começo da Operação Carbono Oculto contra comércio ilegal de combustíveis."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ebitda Ajustado Recorrente",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização, ajustado para itens não recorrentes."
+   },
+   {
+    "termo": "Dividend Yield",
+    "significado": "Rendimento percentual do dividendo pago em relação ao preço da ação."
+   },
+   {
+    "termo": "Dívida Líquida",
+    "significado": "Dívida total da empresa descontando o caixa disponível."
+   }
+  ],
+  "pergunta": "Você acompanha empresas que pagam dividendos altos como a Ultra?",
+  "tamanhoTexto": 10029,
+  "numeros": [
+   {
+    "valor": "2,7 bilhões",
+    "rotulo": "Lucro líquido da Ultra no 3T26"
+   },
+   {
+    "valor": "249%",
+    "rotulo": "Crescimento do lucro líquido anual da Ultra"
+   },
+   {
+    "valor": "3,1 bilhões",
+    "rotulo": "Ebitda ajustado recorrente do 3T26"
+   },
+   {
+    "valor": "44,4 bilhões",
+    "rotulo": "Receita líquida do grupo no 3T26"
+   },
+   {
+    "valor": "1,085 bilhão",
+    "rotulo": "Valor total do dividendo a ser pago"
+   },
+   {
+    "valor": "1,00",
+    "rotulo": "Dividendo por ação em reais"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "249%",
+  "porQueImporta": "O forte crescimento do lucro e o pagamento consistente de dividendos mostram a capacidade da Ultra em gerar retorno, mesmo investindo em expansão. Isso reforça a solidez financeira e a confiança para investidores, essencial em ambientes de mercado desafiadores.",
+  "impactoMercado": "Este resultado pode atrair a atenção para ações do setor de combustíveis e logística, principalmente pela redução da dívida e avanço operacional da Ultra. Dividendos relevantes também podem influenciar a renda variável, principalmente para investidores focados em renda passiva.",
+  "entenda": "Lucro líquido é o que sobra para a empresa após todos os custos e impostos. Ebitda é um indicador que mostra o lucro operacional com ajustes, importante para medir a geração de caixa. Dividendos são pagamentos aos acionistas como parte dos lucros da empresa.",
+  "observar": "Fique atento à data ex-dividendo em 24 de novembro e ao pagamento dos dividendos em dezembro. Também observe futuros balanços para verificar o impacto das expansões operacionais anunciadas no desempenho da Ultra.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como uma empresa sólida e consolidada no setor de combustíveis com boa gestão financeira pode crescer e remunerar acionistas, incentivando o entendimento sobre resultados e dividendos no mercado financeiro.",
+  "gancho": "*Lucro* e *Dividendos* em destaque",
+  "ideias": [
+   "Entenda o que impulsionou o salto de 249% no lucro da Ultra",
+   "Como o pagamento de R$ 1,1 bi em dividendos impacta o investidor?",
+   "O que é EBITDA ajustado e por que importa para a Ultra?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T19:16:47-03:00",
+  "url": "https://www.infomoney.com.br/mercados/grupo-ultra-ugpa3-resultados-terceiro-trimestre-2026-anuncio-dividendos/",
+  "publicadoEm": "2026-11-11T19:16:02-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-10"
+ },
+ {
+  "titulo": "Lucro da Equatorial cresce 53% no 3º trimestre de 2026",
+  "resumo": "Equatorial Energia teve lucro líquido de R$ 934 mi no 3º tri, alta de 53% em 1 ano. Lucro ajustado subiu 159,5%, para R$ 757 mi, apesar da queda de 1,2% nas receitas.",
+  "fatos": [
+   "Lucro líquido de R$ 934 milhões no 3º tri de 2026",
+   "Lucro líquido ajustado de R$ 757 milhões, alta de 159,5%",
+   "Receita de R$ 13,64 bilhões, queda de 1,2% em 12 meses",
+   "Redução de custos totais em 11,8% para R$ 8,45 bilhões",
+   "Ebitda ajustado de R$ 3,21 bilhões, alta de 4,1%",
+   "Dívida líquida alcançou R$ 52,8 bilhões em setembro",
+   "Alavancagem de 3,1 vezes (dívida líquida/Ebitda)",
+   "Setor de distribuição cresceu R$ 230 milhões no trimestre",
+   "Redução de R$ 131 milhões em equivalência patrimonial da Sabesp"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a Equatorial Energia registrou um lucro líquido de R$ 934 milhões, o que representa aumento de 53% em relação ao mesmo período do ano anterior. O lucro líquido ajustado por minoritários foi R$ 757 milhões, alta de 159,5% frente aos R$ 292 milhões do 3º tri de 2025.",
+   "A receita da empresa somou R$ 13,64 bilhões, queda de 1,2% na comparação anual. Apesar da receita menor, a empresa conseguiu reduzir os custos totais em 11,8%, para R$ 8,45 bilhões, o que ajudou a impulsionar o lucro final.",
+   "O Ebitda ajustado da Equatorial foi de R$ 3,21 bilhões no trimestre, subindo 4,1% na base anual. O crescimento do segmento de distribuição e a equivalência patrimonial da Copasa foram os principais fatores positivos, enquanto menores resultados da holding, renováveis e Sabesp prejudicaram o desempenho.",
+   "A dívida líquida da empresa encerrou setembro em R$ 52,8 bilhões, resultando numa alavancagem (dívida líquida/Ebitda) de 3,1 vezes. A empresa mantém foco em gestão financeira, monitorando riscos e resultados para os próximos trimestres."
+  ],
+  "detalhes": [
+   "Lucro líquido ajustado considera a parte de minoritários para visão mais aderente",
+   "Ebitda levou em conta crescimento do segmento Distribuição e Copasa",
+   "Redução de receita e desempenho negativo da comercializadora e holding influenciaram Ebitda",
+   "Dívida líquida subiu 14,5% em 12 meses",
+   "Alavancagem sobe para 3,6 vezes se excluir ganho de capital da venda da transmissão",
+   "Aumento do mercado Fio-B em 4,9% impactou positivamente o segmento de distribuição",
+   "Geração líquida das renováveis aumentou 14,3% no trimestre"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Equatorial Energia",
+    "oque": "Lucro ajustado cresceu significativamente impulsionado pela distribuição e Copasa."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Resultado financeiro e operacional declarado no balanço trimestral"
+   },
+   {
+    "quando": "Até setembro de 2026",
+    "oque": "Dívida líquida atingiu R$ 52,8 bilhões com alavancagem de 3,1 vezes"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido ajustado",
+    "significado": "Lucro da empresa ajustado para excluir impacto de minoritários, para melhor análise"
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Dívida líquida",
+    "significado": "Dívida total menos o dinheiro em caixa disponível"
+   }
+  ],
+  "pergunta": "Você já conhecia o impacto da alavancagem na avaliação das empresas?",
+  "tamanhoTexto": 5017,
+  "numeros": [
+   {
+    "valor": "934 milhões",
+    "rotulo": "Lucro líquido no 3º trimestre de 2026"
+   },
+   {
+    "valor": "757 milhões",
+    "rotulo": "Lucro líquido ajustado no 3º trimestre"
+   },
+   {
+    "valor": "13,64 bilhões",
+    "rotulo": "Receita total no 3º trimestre de 2026"
+   },
+   {
+    "valor": "8,45 bilhões",
+    "rotulo": "Custos totais no 3º trimestre"
+   },
+   {
+    "valor": "3,21 bilhões",
+    "rotulo": "Ebitda ajustado no trimestre"
+   },
+   {
+    "valor": "52,8 bilhões",
+    "rotulo": "Dívida líquida da Equatorial em setembro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Lucro líquido R$",
+  "porQueImporta": "Os resultados da Equatorial refletem a importância da gestão eficiente de custos e portfólio para enfrentar desafios como queda de receita. Isso destaca a capacidade da empresa em gerar lucro em contextos adversos, informação útil para investidores e operadores acompanharem a saúde financeira.",
+  "impactoMercado": "O desempenho forte no lucro e Ebitda, associado à alta dívida, mostra desafios e oportunidades no setor elétrico. Para o mercado, dados como custo, receita e alavancagem impactam a avaliação de risco e expectativa para ações, olhando também setores correlatos em distribuição e renováveis.",
+  "entenda": "Lucro líquido representa o resultado final da empresa após custos e despesas. O Ebitda mostra o lucro antes de juros, impostos, depreciação e amortização, refletindo a capacidade operacional. Dívida líquida indica as obrigações financeiras subtraindo caixa, e alavancagem mostra o nível de endividamento em relação ao lucro operacional.",
+  "observar": "Acompanhe próximos resultados trimestrais e balanços para avaliar evolução da dívida e impacto dos custos. Eventos relacionados ao setor de energia e regulações podem influenciar os próximos trimestres da empresa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra como entender lucro, Ebitda e dívida é essencial para tomar decisões informadas no mercado financeiro, demonstrando a relevância de estudar o mercado com a Trader School Wendell Guimarães.",
+  "gancho": "*Lucro* e *Dívida* em alta",
+  "ideias": [
+   "Como entender lucro líquido e Ebitda na prática",
+   "O que é alavancagem e por que importa para investidores",
+   "Por que queda na receita não eliminou alta no lucro da Equatorial"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Valor Econômico; InfoMoney; InfoMoney",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T19:16:47-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/lucro-da-equatorial-cresce-53percent-no-3o-trimestre.ghtml",
+  "publicadoEm": "2026-11-11T18:48:49-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-11"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-many-fed-rate-cuts-in-2026",
+  "titulo": "Mercado de previsões vê 98.4% de chance de nenhum corte de taxa pelo Fed em 2026",
+  "resumo": "As previsões sugerem que os apostadores não esperam cortes nas taxas de juros do Fed durante o ano.",
+  "probs": [
+   {
+    "opcao": "0 (0 bps)",
+    "prob": 98.4
+   },
+   {
+    "opcao": "1 (25 bps)",
+    "prob": 0.5
+   },
+   {
+    "opcao": "2 (50 bps)",
+    "prob": 0.2
+   },
+   {
+    "opcao": "3 (75 bps)",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 31 mil",
+  "fatos": [
+   "0 (0 bps): 98,4%",
+   "1 (25 bps): 0,5%",
+   "2 (50 bps): 0,2%",
+   "3 (75 bps): 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "98,4%",
+    "rotulo": "0 (0 bps)"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "1 (25 bps)"
+   },
+   {
+    "valor": "0,2%",
+    "rotulo": "2 (50 bps)"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "3 (75 bps)"
+   }
+  ],
+  "destaque": "98,4%",
+  "gancho": "*Estabilidade* nas taxas",
+  "entenda": "Mudanças nas taxas de juros do Fed afetam mercados financeiros e a economia. A expectativa de estabilidade pode influenciar decisões de investimento.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+  "publicadoEm": "2026-11-11T19:16:47-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-11T19:16:47-03:00",
+  "data": "2026-11-11",
+  "status": "nova",
+  "id": "2026-11-11-p2"
+ },
+ {
   "titulo": "Governo propõe 30 dias extras para ajuste do novo tributo CBS em 2027",
   "resumo": "Ministério da Fazenda sugere prorrogar prazo para que empresas ajustem a apuração da CBS, que substituirá PIS e Cofins. A proposta prevê pagamento inicial estimado e ajuste definitivo no mês seguinte.",
   "fatos": [
@@ -10385,53 +11090,53 @@
  {
   "tipo": "sinal",
   "slug": "largest-company-end-of-december-2026",
-  "titulo": "Mercado vê 74,2% de chance de Apple ser a maior empresa em dezembro de 2026",
-  "resumo": "Apostas sugerem que Apple continuará dominando o mercado em 2026.",
+  "titulo": "Mercado de previsões vê 84.6% de chance da Apple ser a maior empresa em dezembro de 2026",
+  "resumo": "As apostas indicam forte confiança na Apple como líder de mercado, apesar da competição de outras grandes empresas.",
   "probs": [
    {
     "opcao": "Apple",
-    "prob": 74.2
+    "prob": 84.6
    },
    {
     "opcao": "NVIDIA",
-    "prob": 22.5
+    "prob": 14.5
    },
    {
     "opcao": "Microsoft",
-    "prob": 1.7
+    "prob": 0.9
    },
    {
     "opcao": "Alphabet",
-    "prob": 0.7
+    "prob": 0.4
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 126 mil",
+  "volume24h": "US$ 142 mil",
   "fatos": [
-   "Apple: 74,2%",
-   "NVIDIA: 22,5%",
-   "Microsoft: 1,7%",
-   "Alphabet: 0,7%"
+   "Apple: 84,6%",
+   "NVIDIA: 14,5%",
+   "Microsoft: 0,9%",
+   "Alphabet: 0,4%"
   ],
   "numeros": [
    {
-    "valor": "74,2%",
+    "valor": "84,6%",
     "rotulo": "Apple"
    },
    {
-    "valor": "22,5%",
+    "valor": "14,5%",
     "rotulo": "NVIDIA"
    },
    {
-    "valor": "1,7%",
+    "valor": "0,9%",
     "rotulo": "Microsoft"
    },
    {
-    "valor": "0,7%",
+    "valor": "0,4%",
     "rotulo": "Alphabet"
    }
   ],
-  "destaque": "74,2%",
+  "destaque": "84,6%",
   "gancho": "*Maior empresa* em 2026?",
   "entenda": "A classificação das maiores empresas geralmente reflete o desempenho financeiro e o valor de mercado delas, influenciando o sentimento do investidor.",
   "categoria": "Previsões",
@@ -10446,7 +11151,7 @@
   "data": "2026-11-05",
   "status": "atualizada",
   "id": "2026-11-05-p4",
-  "atualizadoEm": "2026-11-09T17:09:11-03:00"
+  "atualizadoEm": "2026-11-11T19:16:47-03:00"
  },
  {
   "titulo": "Colapso do Ueno Bank no Paraguai derruba presidente em crise política",
