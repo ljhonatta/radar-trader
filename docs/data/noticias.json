@@ -1,5 +1,1070 @@
 [
  {
+  "titulo": "Petrobras tem lucro líquido de R$ 39,8 bi no 3º tri, alta de 21,5%",
+  "resumo": "No terceiro trimestre de 2026, a Petrobras registrou lucro líquido de R$ 39,8 bilhões, com aumento de 21,5% em relação ao mesmo período do ano anterior. O fluxo de caixa operacional cresceu 15%, alcançando R$ 61,8 bilhões.",
+  "fatos": [
+   "Lucro líquido de R$ 39,8 bilhões no 3º trimestre de 2026",
+   "Alta de 21,5% em relação ao mesmo período do ano anterior",
+   "Fluxo de caixa operacional de R$ 61,8 bilhões, alta de 15% em 12 meses",
+   "Produção média prevista entre 3,3 e 3,4 milhões de barris por dia",
+   "Vendas de derivados no mercado interno de 1,854 milhão de barris por dia",
+   "Recorde trimestral na produção de diesel: 769 mil barris por dia",
+   "Investimento de R$ 33 bilhões no trimestre, sendo R$ 27,5 bilhões em exploração e produção",
+   "R$ 15,3 bilhões aprovados para dividendos e juros sobre capital próprio",
+   "Dívida líquida de US$ 57,85 bilhões em setembro de 2026",
+   "Receita líquida do trimestre de R$ 169,3 bilhões, alta de 32,4% na comparação anual"
+  ],
+  "explicacao": [
+   "A Petrobras comunicou lucro líquido de R$ 39,8 bilhões no terceiro trimestre de 2026, o que representa alta de 21,5% em relação ao mesmo intervalo de 2025. Além disso, o fluxo de caixa operacional (FCO) atingiu R$ 61,8 bilhões, um crescimento de 15% em doze meses, segundo balanço divulgado em 10 de novembro.",
+   "O crescimento do lucro e do caixa operacional se devem à revisão para cima na produção, que passou da projeção inicial de 3,1 milhões de barris de óleo equivalente por dia para uma média entre 3,3 e 3,4 milhões. A petroleira também aumentou as vendas internas de derivados, chegando a 1,854 milhão de barris por dia, o maior volume desde 2021.",
+   "Esses números refletem avanços na eficiência operacional, com recordes consecutivos de produção e aumento do fator de utilização das refinarias. O investimento no trimestre foi de R$ 33 bilhões, com R$ 27,5 bilhões destinados à exploração e produção, o que fortalece a capacidade produtiva para o futuro.",
+   "A Petrobras aprovou o pagamento de R$ 15,3 bilhões em dividendos e juros sobre capital próprio, que serão distribuídos em fevereiro e março de 2027. A expectativa da empresa é manter o crescimento da produção, com investimentos e controle de custos, apesar do aumento dos gastos operacionais por efeito cambial."
+  ],
+  "detalhes": [
+   "Lucro divulgado em 10 de novembro de 2026, referente ao 3º trimestre do ano",
+   "Projeção da produção revisada para cima devido à eficiência operacional",
+   "Venda de derivados interna no maior volume desde 3º trimestre de 2021",
+   "Dividendos pagos em duas parcelas: 22 de fevereiro e 22 de março de 2027",
+   "Investimentos concentram-se em exploração, produção e inovação em plataformas",
+   "Dívida líquida caiu 4,2% em relação ao segundo trimestre de 2026",
+   "Receita e Ebitda ajustado também apresentaram crescimento expressivo no período"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Magda Chambriard, presidente da Petrobras",
+    "oque": "Revisamos a projeção de produção para uma média superior a 3,3 milhões de barris por dia em 2026"
+   },
+   {
+    "quem": "Magda Chambriard, CEO da Petrobras",
+    "oque": "Este desempenho demonstra nossa gestão operacional eficiente e execução dos projetos"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Petrobras registra lucro e fluxo de caixa operacional elevados"
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Balanço trimestral da Petrobras é divulgado"
+   },
+   {
+    "quando": "22 de fevereiro de 2027",
+    "oque": "Pagamento da primeira parcela dos dividendos aprovados"
+   },
+   {
+    "quando": "22 de março de 2027",
+    "oque": "Pagamento da segunda parcela dos dividendos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido",
+    "significado": "Resultado final da empresa após custos e impostos"
+   },
+   {
+    "termo": "Fluxo de caixa operacional",
+    "significado": "Dinheiro gerado pelas atividades principais da empresa"
+   },
+   {
+    "termo": "Barril de óleo equivalente por",
+    "significado": "Unidade que mede a produção diária de petróleo e gás"
+   }
+  ],
+  "pergunta": "Como você avalia a revisão para cima da produção da Petrobras em 2026?",
+  "tamanhoTexto": 10661,
+  "numeros": [
+   {
+    "valor": "R$ 39,8 bilhões",
+    "rotulo": "lucro líquido 3º trimestre 2026"
+   },
+   {
+    "valor": "21,5%",
+    "rotulo": "alta anual do lucro líquido"
+   },
+   {
+    "valor": "R$ 61,8 bilhões",
+    "rotulo": "fluxo de caixa operacional 3º trimestre"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "crescimento do fluxo de caixa em 12 meses"
+   },
+   {
+    "valor": "1,854 milhão barris/dia",
+    "rotulo": "vendas de derivados no mercado interno"
+   },
+   {
+    "valor": "R$ 33 bilhões",
+    "rotulo": "investimento total no trimestre"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "R$ 32,7 bilhões no 3º tri de 2025",
+    "depois": "R$ 39,8 bilhões no 3º tri de 2026"
+   },
+   {
+    "item": "Fluxo de caixa operacional",
+    "antes": "R$ 53,7 bilhões no 3º tri de 2025",
+    "depois": "R$ 61,8 bilhões no 3º tri de 2026"
+   },
+   {
+    "item": "Produção média prevista",
+    "antes": "3,1 milhões de barris por dia",
+    "depois": "3,3 a 3,4 milhões de barris por dia"
+   }
+  ],
+  "destaque": "R$ 39,8 bilhões",
+  "porQueImporta": "O lucro elevado da Petrobras e a perspectiva de maior produção indicam força operacional e capacidade de geração de caixa, essenciais para investidores e operadores avaliarem a saúde financeira da estatal e seu potencial para distribuir dividendos e financiar investimentos.",
+  "impactoMercado": "Resultados robustos e projeções positivas podem influenciar o desempenho das ações da Petrobras (PETR3, PETR4) e reforçam a dinâmica do setor de petróleo. Além disso, a distribuição de dividendos atrai investidores de renda variável, e o controle da dívida reduz riscos financeiros.",
+  "entenda": "O lucro líquido representa o resultado final da empresa após despesas e impostos. O fluxo de caixa operacional mostra a capacidade de gerar dinheiro pela atividade principal. A produção de barris equivale à quantidade diária de petróleo produzido, impacto direto na receita e lucratividade.",
+  "observar": "Fique atento ao pagamento dos dividendos nos meses de fevereiro e março de 2027, e à divulgação dos resultados do quarto trimestre. Acompanhe também os próximos relatórios sobre produção e investimentos para avaliar a continuidade do crescimento.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "A notícia ajuda a entender como resultados financeiros e operacionais impactam a Petrobras e o mercado de energia, mostrando a importância de acompanhar balanços para decisões no mercado financeiro e a oferta da faculdade de mercado e day trade, que",
+  "gancho": "*Lucro* e *Produção* recorde Petrobras",
+  "ideias": [
+   "Lucro recorde da Petrobras no 3º trimestre de 2026",
+   "O que significa a alta da produção da Petrobras para o mercado?",
+   "Dividendos da Petrobras: quando e como serão pagos em 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Agência Brasil Economia; Bloomberg Línea; Valor Econômico",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
+  "publicadoEm": "2026-11-10T21:37:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-15"
+ },
+ {
+  "titulo": "Anthropic prepara IPO histórico com forte alta esperada na estreia",
+  "resumo": "Anthropic, empresa de IA, caminha para um IPO histórico com forte valorização esperada. Contratos futuros indicam preço de US$ 98 por ação e valor de mercado de US$ 1,7 trilhão.",
+  "fatos": [
+   "Anthropic se prepara para IPO neste mês de novembro de 2026.",
+   "Contratos futuros perpétuos indicam preço de US$ 98 por ação da Anthropic.",
+   "Valor de mercado estimado da Anthropic: US$ 1,7 trilhão.",
+   "Negociações desses contratos são feitas em plataformas como Hyperliquid, Coinbase, Binance e OKX.",
+   "Expectativa de forte valorização na estreia das ações da Anthropic.",
+   "Mercado futuro ainda acompanha empresas antes de abrirem capital."
+  ],
+  "explicacao": [
+   "A Anthropic, empresa de inteligência artificial, está se preparando para uma oferta pública inicial (IPO) histórica ainda neste mês. As expectativas dos investidores estão otimistas, refletidas nas negociações realizadas no mercado futuro.",
+   "Essa percepção positiva é demonstrada pelos contratos perpétuos pré-IPO, que acompanham o preço de ações de empresas ainda fechadas. Esses contratos são ativos negociados em plataformas de criptoativos como Hyperliquid, Coinbase, Binance e OKX.",
+   "No caso da Anthropic, o contrato na plataforma Hyperliquid aponta para um preço sugerido de US$ 98 por ação, estimando um valor de mercado próximo de US$ 1,7 trilhão. Isso indica uma forte valorização esperada para o primeiro dia de negociação na bolsa.",
+   "Para o mercado, essa alta nas expectativas pode significar um maior interesse de investidores em tecnologia e IA, setores em expansão. O progresso do IPO da Anthropic será um evento importante para acompanhar em novembro."
+  ],
+  "detalhes": [
+   "Quem: Empresa americana de inteligência artificial Anthropic.",
+   "Quanto: US$ 98 preço por ação, valor total de US$ 1,7 trilhão.",
+   "Quando: IPO previsto para este mês de novembro de 2026.",
+   "Onde: Bolsa americana, com contratos futuros em plataformas cripto.",
+   "Como: Através de contratos perpétuos pré-IPO negociados em exchanges de criptomoedas.",
+   "Contexto: Alta expectativa no mercado tecnológico impulsiona valorização.",
+   "Comparação: Mercado futuro cria preço para ações antes da abertura oficial."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "Novembro de 2026",
+    "oque": "Anthropic prepara oferta pública inicial histórica"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Oferta Pública Inicial (IPO)",
+    "significado": "Primeira venda de ações de uma empresa na bolsa de valores."
+   },
+   {
+    "termo": "Contratos perpétuos",
+    "significado": "Instrumentos financeiros que acompanham preço de ativos sem data de vencimento."
+   },
+   {
+    "termo": "Valor de mercado",
+    "significado": "Preço total das ações de uma empresa no mercado."
+   }
+  ],
+  "pergunta": "Você já acompanhou o lançamento de uma empresa de IA na bolsa antes?",
+  "tamanhoTexto": 1585,
+  "numeros": [
+   {
+    "valor": "98",
+    "rotulo": "Preço sugerido por ação em contrato futuro (US$)"
+   },
+   {
+    "valor": "1.700.000.000.000",
+    "rotulo": "Valor de mercado estimado da Anthropic (US$)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 1,7 trilhão",
+  "porQueImporta": "Esse IPO pode influenciar o interesse em ações de tecnologia e IA, setores que apresentam rápido crescimento e impacto nos mercados financeiros globais, impactando estratégias e decisões de investidores e traders.",
+  "impactoMercado": "Com a forte valorização esperada da Anthropic, investidores podem direcionar capital para tecnologia e inovação. Plataformas e ativos relacionados a contratos futuros e ações de tecnologia podem ser mais observados no mercado.",
+  "entenda": "IPO é a oferta inicial de ações de uma empresa na bolsa. Contratos futuros perpétuos são instrumentos financeiros que permitem apostar no preço da ação antes dela abrir capital oficialmente.",
+  "observar": "Acompanhar o andamento do IPO da Anthropic neste mês, além das oscilações dos contratos futuros para entender o comportamento do mercado em tecnologia.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicar como o IPO da Anthropic reflete o interesse em tecnologia e contratos futuros ajuda iniciantes e traders a entender o funcionamento do mercado e as oportunidades dessa novidade.",
+  "gancho": "*IPO* histórico da *Anthropic*",
+  "ideias": [
+   "O que é IPO e por que a Anthropic é histórica",
+   "Como funcionam contratos futuros antes do IPO",
+   "Impacto do IPO da Anthropic para investidores em tecnologia"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Bolsa",
+  "icone": "foguete",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/operadores-preveem-forte-alta-na-estreia-da-anthropic-na-bolsa/",
+  "publicadoEm": "2026-11-10T22:12:23-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-16"
+ },
+ {
+  "titulo": "Plano Petrobras 2027-2031 pode investir até US$ 120 bi",
+  "resumo": "Plano de negócios da Petrobras para 2027-2031 deve alcançar US$ 115 a 120 bilhões. O tema transição energética e autossuficiência no diesel são pontos-chave do investimento.",
+  "fatos": [
+   "O plano deve ser divulgado em 23 de novembro de 2026.",
+   "Investimento previsto entre US$ 115 bilhões e US$ 120 bilhões.",
+   "Plano anterior para 2026-2030 previa US$ 109 bilhões.",
+   "Recorde anterior foi US$ 236,7 bilhões em 2013-2017.",
+   "Meta de autossuficiência no diesel prevista para os próximos cinco anos.",
+   "Consumo de diesel previsto para crescer 19% até 2036, segundo EPE.",
+   "Expansão da oferta de diesel em refinarias prevista em 13%.",
+   "US$ 2,5 bilhões estimados para perfuração de 15 poços na Margem Equatorial no plano anterior.",
+   "Poços como Morpho, Pitu Oeste e Anhangá são foco de investimentos recentes.",
+   "Petrobras aposta em projetos de biocombustíveis e combustíveis sustentáveis."
+  ],
+  "explicacao": [
+   "A Petrobras prepara seu Plano de Negócios para o período 2027-2031 com investimentos entre US$ 115 bilhões e US$ 120 bilhões, valor que será confirmado pelo Conselho de Administração ainda esta semana.",
+   "O aumento do orçamento em relação ao plano anterior, que previa US$ 109 bilhões, visa contemplar a autossuficiência no diesel, avanços na Margem Equatorial e o retorno ao setor de etanol.",
+   "A empresa enfatiza a importância da transição energética sustentável aliada à continuidade da produção de petróleo e gás, reforçando que seguirá como uma companhia de energia diversificada com projetos em biocombustíveis e renováveis.",
+   "Além disso, a Petrobras planeja expandir a produção de combustíveis renováveis como SAF, biodiesel e biobunker, enquanto explora novas reservas, principalmente na região da Margem Equatorial."
+  ],
+  "detalhes": [
+   "Conselho da Petrobras decide orçamento nesta semana, com anúncio previsto para 23/11/2026.",
+   "Plano traz ambições como autossuficiência no diesel e expansão na Margem Equatorial.",
+   "Magda Chambriard destaca que transição energética será paralela à produção de petróleo e gás.",
+   "Plano inclui retorno da Petrobras ao setor de etanol.",
+   "Construção do trem 2 da Refinaria Abreu e Lima e ampliação de outras refinarias contribuem para expansão.",
+   "Consumo futuro de diesel previsto pela EPE supera a capacidade projetada de oferta da Petrobras.",
+   "Estratégia inclui maior produção de combustíveis limpos e diversificação energética."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Magda Chambriard, presidente da Petrobras",
+    "oque": "Transição energética deve caminhar junto com manutenção da produção de petróleo e gás no Brasil."
+   },
+   {
+    "quem": "Magda Chambriard",
+    "oque": "Petrobras é empresa de energia desde os anos 1990 com atuação em biocombustíveis e renováveis."
+   },
+   {
+    "quem": "Magda Chambriard",
+    "oque": "Transição energética precisa ser justa e adequada ao poder de compra da sociedade brasileira."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23/11/2026",
+    "oque": "Previsão da divulgação oficial do Plano de Negócios 2027-2031."
+   },
+   {
+    "quando": "09/11/2026",
+    "oque": "Evento no Rio discutiu transição energética e estratégia da Petrobras."
+   },
+   {
+    "quando": "até final de novembro de 2026",
+    "oque": "Sonda NS-42 será relocada de Morpho para bacia Potiguar."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Plano de Negócios",
+    "significado": "Documento que define investimentos e estratégias da empresa para anos futuros."
+   },
+   {
+    "termo": "Autossuficiência no diesel",
+    "significado": "Capacidade da empresa em produzir todo o diesel que o Brasil consome."
+   },
+   {
+    "termo": "Margem Equatorial",
+    "significado": "Região de exploração offshore no Brasil, importante para novas descobertas."
+   }
+  ],
+  "pergunta": "Como você vê o equilíbrio entre petróleo e energia limpa no plano da Petrobras?",
+  "tamanhoTexto": 5573,
+  "numeros": [
+   {
+    "valor": "115-120 bilhões",
+    "rotulo": "Investimento planejado em dólares para 2027-2031"
+   },
+   {
+    "valor": "109 bilhões",
+    "rotulo": "Investimento previsto no plano 2026-2030"
+   },
+   {
+    "valor": "236,7 bilhões",
+    "rotulo": "Maior investimento já feito pela Petrobras em 2013-2017"
+   },
+   {
+    "valor": "5 anos",
+    "rotulo": "Prazo para atingir autossuficiência no diesel"
+   },
+   {
+    "valor": "19%",
+    "rotulo": "Crescimento previsto do consumo de diesel até 2036"
+   },
+   {
+    "valor": "13%",
+    "rotulo": "Aumento projetado da oferta de diesel nas refinarias"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Investimento Petrobras",
+    "antes": "US$ 109 bilhões (plano 2026-2030)",
+    "depois": "US$ 115-120 bilhões (plano 2027-2031)"
+   }
+  ],
+  "destaque": "US$ 115-120 bilhões",
+  "porQueImporta": "Este plano define o rumo dos maiores investimentos da Petrobras nos próximos cinco anos, impactando setores ligados a energia, petróleo e renováveis. Entender as prioridades da empresa ajuda investidores e operadores a avaliarem como o mercado pode reagir a mudanças na produção e na transição energética.",
+  "impactoMercado": "O aumento do investimento e a aposta na autossuficiência no diesel podem mudar o cenário do setor de energia no Brasil. A expansão em renováveis e combustíveis sustentáveis amplia oportunidades em novos mercados, enquanto o setor de petróleo mantém seu peso na economia e na matriz energética nacional.",
+  "entenda": "O Plano de Negócios da Petrobras é um documento estratégico que define onde a empresa vai investir e crescer nos próximos anos. Entre os focos estão petróleo, gás, biocombustíveis e energia limpa, equilibrando a produção tradicional e a transição energética para fontes renováveis.",
+  "observar": "Fique atento à divulgação oficial do Plano de Negócios em 23/11 e às reuniões do Conselho de Administração. Também acompanhe os desdobramentos na Margem Equatorial e os investimentos em renováveis e produção de diesel.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "Essa notícia serve para explicar como grandes empresas planejam investimentos estratégicos, conectando petróleo tradicional e energias renováveis, mostrando os desafios do mercado e incentivando o aprendizado sobre o setor.",
+  "gancho": "*Plano Petrobras* US$ 120 bi",
+  "ideias": [
+   "Entenda o Plano de Negócios da Petrobras 2027-2031",
+   "Autossuficiência no diesel: o que muda no mercado brasileiro",
+   "Petrobras e a transição energética: planejamento e desafios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/",
+  "publicadoEm": "2026-11-10T22:00:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-17"
+ },
+ {
+  "titulo": "Governo sinaliza cancelamento extra de R$ 12,8 bi em gastos para 2027",
+  "resumo": "Equipe econômica do governo Lula projeta cancelar até R$ 12,8 bilhões em 2027 para ajustar a meta fiscal, além de outras medidas que somam R$ 70 a R$ 80 bilhões.",
+  "fatos": [
+   "Cancelamento extra de gastos previsto é de R$ 12,8 bilhões em 2027.",
+   "Plano geral de ajuste prevê R$ 70 a R$ 80 bilhões em medidas.",
+   "Meta fiscal do ano é superávit de pelo menos R$ 8,5 bilhões, com margem até déficit de R$ 28,1 bilhões.",
+   "Limite legal do arcabouço fiscal é crescimento de gastos em 2,5% acima da inflação.",
+   "Cancelamento reduz crescimento real permitido para 2%, uma diferença de 0,5 ponto percentual.",
+   "Essa redução impacta a base de cálculo para os próximos anos, gerando economia permanente.",
+   "Medidas permitirão contingenciar gastos obrigatórios sem prejudicar obrigações já contratadas.",
+   "Regra para excluir receitas extraordinárias da base de cálculo da receita corrente líquida será permanente.",
+   "Essa exclusão reduz a obrigatoriedade mínima de gastos em saúde em pelo menos R$ 6 bilhões para 2027.",
+   "Projeto de lei complementar será apresentado pelo senador Jaques Wagner, com relatoria do senador Eduardo Braga."
+  ],
+  "explicacao": [
+   "Integrantes do governo Lula comunicaram ao mercado que, para cumprir a meta fiscal de 2027, poderão cancelar até R$ 12,8 bilhões em despesas orçamentárias. Essa medida é um recurso adicional para conter gastos, complementando ações já usadas, como o contingenciamento temporário de verbas.",
+   "Essa ação é motivada pela possibilidade de frustração na arrecadação do governo, que, se abaixo do esperado, pode comprometer o resultado das contas públicas. O esforço visa evitar que o déficit ultrapasse o piso da meta fiscal, estimado em déficit máximo de R$ 28,1 bilhões.",
+   "O cancelamento previsto limita o crescimento real dos gastos públicos a 2% acima da inflação, abaixo do limite atual de 2,5%, reduzindo a base de cálculo para o teto de gastos nos anos seguintes e gerando uma economia permanente. Essa estratégia oferece maior sustentabilidade fiscal.",
+   "O governo também planeja ampliar o uso do contingenciamento para despesas obrigatórias, sem afetar contratos já firmados. Um projeto de lei complementar será apresentado para formalizar essas medidas, com expectativa de análise no Congresso para garantir responsabilidade fiscal."
+  ],
+  "detalhes": [
+   "Quem: Governo do presidente Luiz Inácio Lula da Silva, Ministério da Fazenda e Planejamento.",
+   "Quando: Orçamento de 2027, com planejamento e discussões em outubro de 2026.",
+   "Onde: Medidas discutidas entre governo, mercado financeiro e Congresso Nacional.",
+   "Como: Cancelamento extra de despesas e contingenciamento, incluindo gastos obrigatórios.",
+   "Comparação: Limite do arcabouço fiscal atual é 2,5% acima da inflação, ajuste reduz para 2%.",
+   "Contexto: Ajustes necessários para cumprimento da meta fiscal dada possível frustração de receitas.",
+   "Próximos passos: Apresentação de projeto de lei complementar para regulamentar medidas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Davi Alcolumbre, presidente do Senado",
+    "oque": "Compromisso de analisar a proposta no Congresso com responsabilidade pelo Brasil."
+   },
+   {
+    "quem": "Presidente Luiz Inácio Lula da Silva",
+    "oque": "Compromisso com responsabilidade fiscal para manter políticas sociais e investimentos."
+   },
+   {
+    "quem": "Integrantes da equipe econômica (sob reserva)",
+    "oque": "Plano visa congelamentos que gerem impactos duradouros na trajetória de gastos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "9 de outubro de 2026",
+    "oque": "Ministros do governo se reuniram com o presidente do Senado para discutir ajuste."
+   },
+   {
+    "quando": "Agosto de 2026",
+    "oque": "Lei aprovada que exclui receitas com venda de petróleo da base da receita corrente líquida."
+   },
+   {
+    "quando": "8 de outubro de 2026",
+    "oque": "Lula reafirmou compromisso com responsabilidade fiscal em pronunciamento na TV."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Contingenciamento",
+    "significado": "Bloqueio temporário de verbas para controlar gastos públicos."
+   },
+   {
+    "termo": "Cancelamento de despesas",
+    "significado": "Ato de eliminar parte dos gastos previstos no orçamento para ajustar contas."
+   },
+   {
+    "termo": "Meta fiscal",
+    "significado": "Objetivo definido para o saldo das contas públicas em um período."
+   }
+  ],
+  "pergunta": "Você acha que o cancelamento extra vai ajudar a garantir a meta fiscal de 2027?",
+  "tamanhoTexto": 10653,
+  "numeros": [
+   {
+    "valor": "12,8 bilhões",
+    "rotulo": "Cancelamento extra previsto em 2027 (R$)"
+   },
+   {
+    "valor": "70 a 80 bilhões",
+    "rotulo": "Montante total estimado do ajuste fiscal (R$)"
+   },
+   {
+    "valor": "8,5 bilhões",
+    "rotulo": "Superávit mínimo para a meta fiscal 2027 (R$)"
+   },
+   {
+    "valor": "28,1 bilhões",
+    "rotulo": "Déficit máximo tolerado pela margem da meta (R$)"
+   },
+   {
+    "valor": "2,5%",
+    "rotulo": "Limite do arcabouço fiscal para crescimento real de gastos"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "Crescimento real de gastos após cancelamento extra"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Crescimento real permitido dos gastos públicos",
+    "antes": "2,5% acima da inflação",
+    "depois": "2% acima da inflação com cancelamento extra"
+   }
+  ],
+  "destaque": "R$ 12,8 bilhões",
+  "porQueImporta": "Essas medidas indicam esforço do governo para garantir o cumprimento da meta fiscal e a sustentabilidade das contas públicas. Para investidores e operadores, o ajuste reflete a prioridade em manter a estabilidade fiscal e controlar o crescimento dos gastos, influenciando o ambiente econômico e a percepção do risco Brasil.",
+  "impactoMercado": "O ajuste pode impactar setores ligados a gastos públicos, influenciar a trajetória dos juros e a confiança dos investidores estrangeiros. O uso do cancelamento de despesas e o contingenciamento ampliado sinalizam um controle mais rígido dos gastos, que afeta o orçamento e as expectativas para políticas públicas e investimentos.",
+  "entenda": "A meta fiscal é o resultado que o governo busca para o orçamento, medindo receitas e despesas para equilibrar as contas. Para ajustar a meta, o governo pode cancelar despesas previstas ou congelar verbas, garantindo que os gastos não ultrapassem limites definidos e mantendo a sustentabilidade das políticas públicas.",
+  "observar": "Fique atento à apresentação e votação do projeto de lei complementar no Congresso e aos próximos relatórios fiscais e arrecadação mensal para avaliar sinais de ajuste ou necessidade de medidas adicionais.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia explica como o governo usa mecanismos orçamentários para manter o equilíbrio fiscal, um conhecimento essencial para entender impactos macroeconômicos e decisões políticas que influenciam o mercado financeiro e a estabilidade econômica.",
+  "gancho": "*ajuste fiscal* e *cancelamento* de gastos",
+  "ideias": [
+   "O que significa cancelamento extra no orçamento público?",
+   "Como o governo tenta cumprir a meta fiscal em 2027?",
+   "Entenda o impacto do ajuste fiscal no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "cadeado",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-sinaliza-ao-mercado-cancelamento-extra-de-r-128-bi-em-gastos-em-2027-para-cumprir-meta.shtml",
+  "publicadoEm": "2026-11-10T21:19:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-18"
+ },
+ {
+  "titulo": "UE alerta sobre ataques hackers a geladeiras e roteadores conectados",
+  "resumo": "Após ataques a geladeiras em supermercados, UE alerta para risco em outros aparelhos conectados, diz Juhan Lepassaar, da ENISA.",
+  "fatos": [
+   "O alerta da UE foi feito em 10/11/2026 por Juhan Lepassaar, diretor da ENISA.",
+   "Ataques anteriores comprometeram geladeiras em supermercados europeus.",
+   "A França acusou uma unidade cibernética ligada à Guarda Revolucionária do Irã.",
+   "O ataque francês foi na madrugada de 12 de outubro de 2026.",
+   "Quase 700 unidades de distribuição foram atingidas na França.",
+   "Os ataques provocaram danos materiais e riscos de incêndio."
+  ],
+  "explicacao": [
+   "A União Europeia emitiu um alerta após invasões que comprometeram geladeiras em supermercados europeus, destacando que ataques hackers podem atingir outros aparelhos conectados, como roteadores e eletrodomésticos.",
+   "O aviso foi feito em 10 de novembro por Juhan Lepassaar, diretor executivo da Agência da União Europeia para a Cibersegurança (ENISA), que enfatizou a necessidade de aumentar investimentos em proteção tecnológica.",
+   "Essa preocupação surgiu depois que a França acusou uma unidade cibernética ligada à Guarda Revolucionária do Irã de atacar sistemas de refrigeração em 12 de outubro, danificando quase 700 unidades e causando riscos de incêndio.",
+   "O recado principal é que a segurança de dispositivos conectados à internet deve ser prioridade para evitar que ataques se multipliquem e atinjam equipamentos cada vez mais variados."
+  ],
+  "detalhes": [
+   "Quem alertou: Juhan Lepassaar, diretor executivo da ENISA.",
+   "Quando: 10 de novembro de 2026, alerta comunicado na UE.",
+   "Onde: Ataques ocorreram em supermercados europeus, foco na França.",
+   "Como: Ataques invasores hackers comprometeram equipamentos conectados.",
+   "Comparação: Primeiro geladeiras, depois roteadores e outros eletrodomésticos.",
+   "Contexto: Aumenta preocupação com segurança digital em dispositivos IoT."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Juhan Lepassaar, diretor executivo da ENISA",
+    "oque": "Segurança não pode ser tratada como algo secundário; risco se amplia para vários eletrodomésticos conectados."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de outubro de 2026",
+    "oque": "Ataque a sistemas de refrigeração na França por unidade ligada ao Irã."
+   },
+   {
+    "quando": "9 de novembro de 2026",
+    "oque": "França faz acusação formal contra unidade cibernética ligada à Guarda Revolucionária do Irã."
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "UE alerta sobre a ampliação dos riscos em aparelhos conectados."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "ENISA",
+    "significado": "Agência da União Europeia para a Cibersegurança."
+   },
+   {
+    "termo": "Guarda Revolucionária do Irã",
+    "significado": "Força militar com unidades cibernéticas ligadas ao governo iraniano."
+   }
+  ],
+  "pergunta": "Você confia na segurança dos seus dispositivos conectados em casa?",
+  "tamanhoTexto": 1678,
+  "numeros": [
+   {
+    "valor": "700",
+    "rotulo": "unidades de distribuição atingidas na França"
+   },
+   {
+    "valor": "12/10/2026",
+    "rotulo": "data do ataque cibernético na França"
+   },
+   {
+    "valor": "10/11/2026",
+    "rotulo": "data do alerta da ENISA"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "700 unidades de",
+  "porQueImporta": "Esse alerta é essencial para investidores e operadores porque destaca a vulnerabilidade crescente de dispositivos conectados, impactando setores que vão do varejo à tecnologia, o que pode afetar custos, seguros e estratégias de segurança empresarial.",
+  "impactoMercado": "O aumento dos ataques cibernéticos a dispositivos conectados pode gerar maior demanda por empresas de cibersegurança, influenciar setores de tecnologia e eletrônicos, além de elevar a atenção dos investidores para riscos associados a proteção digital.",
+  "entenda": "Dispositivos conectados à internet, conhecidos como Internet das Coisas (IoT), possuem risco de invasão se não forem protegidos. Ataques hackers podem desestabilizar sistemas, causar prejuízos materiais e impactar operações comerciais.",
+  "observar": "Fique atento a próximos relatórios da ENISA e ações de segurança na UE, além de possíveis novas acusações ou ataques envolvendo equipamentos conectados.",
+  "publico": [
+   "Day traders",
+   "Investidores",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "A notícia ajuda a entender a importância da cibersegurança para o mercado financeiro e tecnológico, mostrando riscos que podem impactar ativos e investimentos, incentivando o aprendizado na faculdade de mercado.",
+  "gancho": "*Ciberataques* em *aparelhos* conectados",
+  "ideias": [
+   "Por que geladeiras estão virando alvo de hackers?",
+   "Como proteger seus dispositivos conectados contra ataques",
+   "O impacto dos ataques cibernéticos no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "escudo",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/ue-alerta-para-frente-de-ataques-hackers-a-aparelhos-conectados/",
+  "publicadoEm": "2026-11-10T22:03:03-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-19"
+ },
+ {
+  "titulo": "Petrobras registra alta de 25% nas vendas internas no 3º trimestre",
+  "resumo": "No terceiro trimestre, Petrobras teve R$ 111,486 bi em vendas internas, 25% acima do ano passado. Vendas externas cresceram 49,3%, totalizando R$ 57,8 bi, elevando a receita total para R$ 169,35 bilhões.",
+  "fatos": [
+   "Receita interna no 3º trimestre: R$ 111,486 bilhões (+25% em relação a 2025).",
+   "Receita externa no 3º trimestre: R$ 57,8 bilhões (+49,3% em relação a 2025).",
+   "Receita total de vendas: R$ 169,35 bilhões (+32,4% em relação a 2025).",
+   "Receita de refino, transporte e comercialização: R$ 162,399 bilhões (+35%).",
+   "Preço dos derivados internos: R$ 580,81 por barril (+26,1%).",
+   "Receita com diesel: R$ 41,175 bilhões (+6,2%).",
+   "Subvenções para diesel: R$ 13,865 bilhões (sem valor em 2025).",
+   "Receita com gasolina: R$ 16 bilhões (-4,7%).",
+   "Receita com GLP: R$ 4,7 bilhões (-7,9%).",
+   "Receitas de subvenção para gasolina e GLP: R$ 1,769 bilhão."
+  ],
+  "explicacao": [
+   "A Petrobras divulgou resultados do terceiro trimestre de 2026, registrando uma receita de vendas no mercado interno de R$ 111,486 bilhões, um aumento de 25% em comparação ao mesmo período de 2025.",
+   "Esse crescimento se deu junto à alta significativa de 49,3% nas vendas externas, que totalizaram R$ 57,8 bilhões. Como resultado, a receita total de vendas da estatal foi de R$ 169,35 bilhões no trimestre.",
+   "A receita com refino, transporte e comercialização registrou alta de 35%, chegando a R$ 162,399 bilhões. Mesmo com algumas quedas nas vendas de gasolina e GLP, as subvenções governamentais ajudaram a compensar as receitas.",
+   "O aumento dos preços dos derivados, influenciado pela crise entre EUA e Irã, é uma das causas das maiores receitas. A Petrobras deve continuar monitorando os efeitos dos preços e das políticas públicas nas próximas divulgações."
+  ],
+  "detalhes": [
+   "Os dados correspondem ao terceiro trimestre de 2026, comparados ao mesmo período de 2025.",
+   "Subvenções governamentais foram criadas para conter os impactos da guerra entre EUA e Irã nos preços.",
+   "Apesar da queda nas receitas com gasolina e GLP, as subvenções ajudaram a equilibrar o resultado.",
+   "O preço dos derivados básicos no mercado interno subiu para R$ 580,81 por barril.",
+   "O diesel teve crescimento moderado de receita, acompanhado da primeira contabilização de subvenções.",
+   "A receita com querosene de aviação avançou significativamente, mostrando demanda robusta neste setor.",
+   "O balanço foi divulgado em 10 de novembro de 2026."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Receita total da Petrobras reportada com crescimento significativo"
+   },
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Divulgação oficial do balanço trimestral da Petrobras"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Receita",
+    "significado": "Dinheiro recebido pelas vendas de bens ou serviços"
+   },
+   {
+    "termo": "Subvenção",
+    "significado": "Apoio financeiro do governo para reduzir preços"
+   },
+   {
+    "termo": "Derivados",
+    "significado": "Produtos obtidos do petróleo, como gasolina e diesel"
+   }
+  ],
+  "pergunta": "Como você acha que as subvenções influenciam o preço final dos combustíveis?",
+  "tamanhoTexto": 2938,
+  "numeros": [
+   {
+    "valor": "111,486 bilhões",
+    "rotulo": "Receita interna no 3º trimestre (R$)"
+   },
+   {
+    "valor": "57,8 bilhões",
+    "rotulo": "Receita externa no 3º trimestre (R$)"
+   },
+   {
+    "valor": "169,35 bilhões",
+    "rotulo": "Receita total de vendas no 3º trimestre (R$)"
+   },
+   {
+    "valor": "580,81",
+    "rotulo": "Preço por barril de derivados no mercado interno (R$)"
+   },
+   {
+    "valor": "13,865 bilhões",
+    "rotulo": "Subvenções para diesel (R$)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Receita interna",
+    "antes": "R$ 89,158 bilhões",
+    "depois": "R$ 111,486 bilhões"
+   },
+   {
+    "item": "Receita externa",
+    "antes": "R$ 38,748 bilhões",
+    "depois": "R$ 57,8 bilhões"
+   },
+   {
+    "item": "Preço derivados básicos",
+    "antes": "R$ 460,54 por barril",
+    "depois": "R$ 580,81 por barril"
+   }
+  ],
+  "destaque": "Receita interna de",
+  "porQueImporta": "Esse aumento expressivo nas receitas da Petrobras no mercado interno e externo mostra como fatores globais e internos influenciam o desempenho da estatal. Para investidores e operadores, acompanhar essas variações ajuda a entender o impacto dos preços do petróleo e das políticas públicas no lucro e na valorização da empresa.",
+  "impactoMercado": "O crescimento das receitas pode reforçar o peso da Petrobras no Ibovespa e influencia setores ligados a combustíveis e energia. Além disso, os resultados refletem o efeito das subvenções e dos preços internacionais, que impactam diretamente as expectativas para preços dos combustíveis e a dinâmica de cargos futuros.",
+  "entenda": "A receita da Petrobras reúne as vendas internas e externas de petróleo e derivados, mostrando quanto a empresa fatura com esses produtos. O preço por barril é um indicador-chave que reflete o custo e o valor do petróleo no mercado. Subvenções são auxílios do governo para diminuir o preço dos combustíveis para o consumidor final.",
+  "observar": "Acompanhe próximos balanços trimestrais da Petrobras e variações nos preços do petróleo, além das decisões sobre subvenções pelo governo federal, que afetam receita e mercado.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos os resultados da Petrobras no 3º trimestre de forma simples, mostrando como preços internacionais e políticas influenciam o mercado financeiro e a vida do investidor.",
+  "gancho": "*Petrobras* cresce 25% nas vendas internas",
+  "ideias": [
+   "Por que a receita da Petrobras cresceu 25% no 3º trimestre?",
+   "Como as subvenções impactaram as vendas de combustíveis da Petrobras?",
+   "Entenda o efeito dos preços do petróleo nas receitas da estatal"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/10/vendas-da-petrobras-no-mercado-interno-sobem-25percent-no-terceiro-trimestre.ghtml",
+  "publicadoEm": "2026-11-10T21:12:14-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-20"
+ },
+ {
+  "titulo": "54% dos municípios fecham 2024 no vermelho com déficit de R$ 33 bi",
+  "resumo": "Segundo a CNM, 54% dos municípios tiveram déficit de R$ 33 bilhões em 2024. Em 2025, 80,2% dos gestores consideram a crise financeira o maior desafio.",
+  "fatos": [
+   "54% dos municípios fecharam 2024 com déficit",
+   "Déficit total estimado de R$ 33 bilhões em 2024",
+   "Quase R$ 50 bilhões de déficit municipal acumulado em dois anos",
+   "80,2% dos gestores relataram crise financeira como maior desafio em 2025",
+   "Piso dos agentes comunitários elevado para dois salários mínimos em 2022",
+   "Piso da enfermagem criado em 2022 com impacto de R$ 10,5 bilhões anuais",
+   "Nova lei aumenta piso do magistério para R$ 5.130,63, gerando R$ 8 bilhões anuais extras em 2026",
+   "16 pautas-bomba em tramitação no Congresso com impacto de R$ 295 bilhões para municípios",
+   "Proposta de Súmula Vinculante 150 tramita no STF para controlar criação de despesas sem previsão"
+  ],
+  "explicacao": [
+   "Todo ano eleitoral, a União anuncia benefícios financiados sem medidas compensatórias, pressionando os municípios. Em 2024, 54% fecharam com déficit total de R$ 33 bilhões, segundo a Confederação Nacional de Municípios (CNM).",
+   "A elevação de pisos salariais foi destaque em 2022 e 2026, com aumento dos custos municipais: o piso dos agentes comunitários cresceu para dois salários mínimos; o piso da enfermagem e do magistério também aumentaram, somando bilhões em despesas extras anuais.",
+   "Esse cenário evidencia o descompasso fiscal gerado por políticas públicas sem previsão orçamentária clara, tornando os municípios responsáveis por ajustar caixas já pressionados, gerando atrasos e cortes em serviços essenciais.",
+   "A Proposta de Súmula Vinculante n.º 150, em análise no STF, propõe tornar inconstitucional a criação ou alteração de despesas obrigatórias sem análise prévia de impacto financeiro e medidas compensatórias, buscando frear essa prática."
+  ],
+  "detalhes": [
+   "A CNM é a fonte dos dados financeiros sobre municípios",
+   "O déficit de R$ 33 bilhões refere-se ao ano eleitoral de 2024",
+   "Leis federais nos últimos anos elevaram pisos salariais com impacto significativo e sem fonte de custeio",
+   "Em 2026, reajuste do piso do magistério elevará custos municipais em R$ 8 bilhões",
+   "Pautas-bomba são projetos em tramitação que podem aumentar ainda mais a despesa municipal",
+   "A Súmula Vinculante 150 visa garantir responsabilidade fiscal na criação de despesas",
+   "O artigo 167, §7º, da Constituição veda transferência de encargos sem custeio explícito"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Presidente da Confederação Nacional de Municípios (CNM)",
+    "oque": "Responsabilidade fiscal não pode ser dura para quem paga e flexível para quem promete"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2022",
+    "oque": "Aumento dos pisos salariais dos agentes comunitários e da enfermagem"
+   },
+   {
+    "quando": "2024",
+    "oque": "54% dos municípios fecharam contas no vermelho"
+   },
+   {
+    "quando": "2025",
+    "oque": "80,2% dos gestores apontam crise financeira como principal desafio"
+   },
+   {
+    "quando": "2026",
+    "oque": "Lei aumenta piso do magistério com impacto de R$ 8 bilhões para municípios"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Déficit",
+    "significado": "Quando despesas são maiores que receitas em um orçamento"
+   },
+   {
+    "termo": "Piso salarial",
+    "significado": "Salário mínimo garantido por lei para uma categoria profissional"
+   },
+   {
+    "termo": "Responsabilidade Fiscal",
+    "significado": "Conjunto de regras para controlar gastos públicos e evitar endividamento"
+   }
+  ],
+  "pergunta": "Como você acha que os municípios devem lidar com o aumento das despesas sem receita garantida?",
+  "tamanhoTexto": 3240,
+  "numeros": [
+   {
+    "valor": "54%",
+    "rotulo": "Percentual de municípios que fecharam 2024 no vermelho"
+   },
+   {
+    "valor": "R$ 33 bilhões",
+    "rotulo": "Déficit acumulado dos municípios em 2024"
+   },
+   {
+    "valor": "80,2%",
+    "rotulo": "Gestores que avaliam crise financeira como maior desafio em 2025"
+   },
+   {
+    "valor": "R$ 1,7 bilhão",
+    "rotulo": "Impacto anual do piso dos agentes comunitários em 2022"
+   },
+   {
+    "valor": "R$ 10,5 bilhões",
+    "rotulo": "Impacto anual do piso da enfermagem em 2022"
+   },
+   {
+    "valor": "R$ 8 bilhões",
+    "rotulo": "Estimativa de impacto do piso do magistério em 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "54% dos municípios",
+  "porQueImporta": "Este cenário mostra a crescente pressão fiscal nos municípios, gerando desafios para manter serviços públicos essenciais. Para quem investe ou opera, entender os impactos das políticas públicas sobre as finanças municipais ajuda a avaliar riscos e oportunidades, especialmente em setores dependentes dessas receitas.",
+  "impactoMercado": "A pressão financeira nos municípios pode afetar o desempenho de empresas fornecedoras de serviços públicos e fornecedores locais, além de influenciar setores sensíveis a gastos públicos, como saúde e educação. O aumento de despesas sem fonte aumenta a incerteza fiscal.",
+  "entenda": "Déficit municipal ocorre quando despesas superam receitas, prejudicando serviços públicos locais. Pisos salariais são salários mínimos definidos por lei para categorias, que impactam diretamente os orçamentos dos municípios. A responsabilidade fiscal busca equilibrar gastos com receitas, evitando desequilíbrios que afetam a economia.",
+  "observar": "Acompanhe a tramitação da Proposta de Súmula Vinculante n.º 150 no STF e a evolução das pautas financeiras no Congresso em 2024 e 2025 para avaliar impactos futuros nas finanças municipais.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia mostra como políticas públicas influenciam a saúde financeira dos municípios, ajudando quem quer entender os impactos na economia real e explorar conhecimentos sobre finanças públicas na faculdade do mercado financeiro.",
+  "gancho": "*Déficit* municipal e *responsabilidade* fiscal",
+  "ideias": [
+   "Entenda por que mais da metade dos municípios fecham 2024 no vermelho",
+   "Como os pisos salariais impactam a dívida dos municípios",
+   "O que é a Proposta de Súmula Vinculante 150 e por que importa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://www.estadao.com.br/economia/responsabilidade-fiscal-nao-pode-ser-obrigacao-severa-de-quem-paga-e-licenca-poetica-a-quem-promete/",
+  "publicadoEm": "2026-11-10T22:00:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-21"
+ },
+ {
+  "titulo": "PPSA e GyP firmam acordo para estudar gás de Vaca Muerta ao Brasil",
+  "resumo": "PPSA e GyP assinaram em 10/10 memorando para avaliar fornecimento de gás de Vaca Muerta ao Brasil. Objetivo é ampliar oferta a preços competitivos para a indústria nacional.",
+  "fatos": [
+   "Memorando assinado em 10 de outubro de 2026.",
+   "PPSA representa a União nos contratos do Pré-Sal.",
+   "GyP é a companhia estatal argentina de gás natural do Neuquén.",
+   "Vaca Muerta é uma grande província produtora global de petróleo e gás.",
+   "Objetivo: ampliar oferta de gás a preços competitivos para indústria brasileira.",
+   "O CNPE permite fornecedores externos nos leilões de gás a partir de 2030.",
+   "A iniciativa foi firmada durante reunião na província argentina de Neuquén.",
+   "Luis Fernando Paroli é o presidente da PPSA.",
+   "O acordo visa novos e atuais empreendimentos industriais no Brasil."
+  ],
+  "explicacao": [
+   "No dia 10 de outubro, a PPSA, estatal brasileira que representa a União nos contratos do Pré-Sal, e a argentina GyP, companhia estatal do Neuquén, assinaram um memorando de entendimento. O acordo visa estudar a possibilidade de fornecimento de gás natural da região de Vaca Muerta para o mercado brasileiro.",
+   "Essa iniciativa faz parte da política energética do governo federal brasileiro, que busca ampliar a oferta de gás natural a preços competitivos para abastecer a indústria nacional. A região de Vaca Muerta é uma das maiores produtoras de petróleo e gás natural do mundo, o que torna essa aproximação estratégica para o Brasil.",
+   "O presidente da PPSA, Luis Fernando Paroli, ressaltou a importância de explorar todas as alternativas para aumentar a oferta de gás natural e a competitividade da indústria. O acordo não é uma comercialização imediata, mas um estudo de oportunidades conjunto entre os países.",
+   "Além disso, a possibilidade de importar gás natural de outras origens já foi prevista pelo Conselho Nacional de Política Energética (CNPE), que permite outros fornecedores participarem dos leilões da PPSA a partir de 2030, com o objetivo de expandir novos empreendimentos industriais no Brasil."
+  ],
+  "detalhes": [
+   "Quem: PPSA (Brasil) e GyP (Argentina).",
+   "Quando: acordado em 10 de outubro de 2026.",
+   "Onde: reunião na província argentina de Neuquén.",
+   "Por quê: aumentar oferta de gás natural para indústria a preços competitivos.",
+   "Como: memorando de entendimento para estudar oportunidades, não contrato imediato.",
+   "Contexto: CNPE permite importações e participação de outros fornecedores em leilões.",
+   "Comparação: Vaca Muerta é uma das maiores produtoras mundiais, importante para o mercado brasileiro."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luis Fernando Paroli, presidente da PPSA",
+    "oque": "Estudar todas as alternativas para ampliar oferta de gás e competitividade da indústria."
+   },
+   {
+    "quem": "PPSA em nota à imprensa",
+    "oque": "Iniciativa busca ampliar oferta de gás natural a preços competitivos, alinhada à política federal."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10 de outubro de 2026",
+    "oque": "Assinatura do memorando entre PPSA e GyP para estudar fornecimento de gás."
+   },
+   {
+    "quando": "2030",
+    "oque": "CNPE prevê entrada de fornecedores externos em leilões da PPSA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Memorando de Entendimento",
+    "significado": "Documento preliminar que formaliza intenção de cooperação sem compromisso imediato."
+   },
+   {
+    "termo": "Vaca Muerta",
+    "significado": "Grande província argentina produtora de petróleo e gás natural."
+   },
+   {
+    "termo": "CNPE",
+    "significado": "Conselho Nacional de Política Energética do Brasil, que regula mercado energético."
+   }
+  ],
+  "pergunta": "Como você acha que a entrada de gás argentino pode impactar a indústria brasileira?",
+  "tamanhoTexto": 1871,
+  "numeros": [
+   {
+    "valor": "10/10/2026",
+    "rotulo": "data da assinatura do memorando"
+   },
+   {
+    "valor": "2030",
+    "rotulo": "ano previsto para participação de fornecedores externos em leilões"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "10/10/2026 - memorando",
+  "porQueImporta": "Esse acordo pode ampliar o acesso do Brasil a fontes competitivas de gás natural, fundamental para a indústria. Mais oferta pode reduzir custos e aumentar a produção, impactando a economia industrial do país.",
+  "impactoMercado": "A possível importação de gás da Argentina e a ampliação de fornecimento pode influenciar preços de insumos industriais, contratos de gás e até setores ligados à energia e produção, podendo afetar negociações futuras.",
+  "entenda": "Gás natural é um combustível usado largamente na indústria. Vaca Muerta é uma vasta reserva na Argentina, importante globalmente. Memorandos como este avaliam possibilidades antes de firmar contratos, buscando garantir preços competitivos e segurança energética.",
+  "observar": "Fique atento às evoluções desse acordo e próximos leilões da PPSA previstos para 2030, que podem incluir fornecedores estrangeiros e impactar o mercado de gás natural no Brasil.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Explica como acordos internacionais em gás natural afetam a competitividade da indústria e mostram caminhos estratégicos no mercado energético para investidores e empresários.",
+  "gancho": "*Gás* de Vaca Muerta ao Brasil",
+  "ideias": [
+   "O que é Vaca Muerta e sua importância para o gás natural",
+   "Como acordos internacionais impactam o mercado de gás no Brasil",
+   "Entenda o papel da PPSA nos contratos do Pré-Sal e novos fornecedores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "foguete",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ppsa-e-argentina-gyp-assinam-acordo-para-estudar-fornecimento-de-gas-de-vaca-muerta-ao-brasil.shtml",
+  "publicadoEm": "2026-11-10T22:10:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-22"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
+  "titulo": "Mercado de previsões vê 85.5% de chance de 2 aumentos (50 bps)",
+  "resumo": "Expectativa de duas elevações nas taxas de juros ao longo de 2026, conforme apostadores decifram o cenário.",
+  "probs": [
+   {
+    "opcao": "2 (50 bps)",
+    "prob": 85.5
+   },
+   {
+    "opcao": "3 (75 bps)",
+    "prob": 9.7
+   },
+   {
+    "opcao": "1 (25 bps)",
+    "prob": 4.6
+   },
+   {
+    "opcao": "4 (100 bps)",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 68 mil",
+  "fatos": [
+   "2 (50 bps): 85,5%",
+   "3 (75 bps): 9,7%",
+   "1 (25 bps): 4,6%",
+   "4 (100 bps): 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "85,5%",
+    "rotulo": "2 (50 bps)"
+   },
+   {
+    "valor": "9,7%",
+    "rotulo": "3 (75 bps)"
+   },
+   {
+    "valor": "4,6%",
+    "rotulo": "1 (25 bps)"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "4 (100 bps)"
+   }
+  ],
+  "destaque": "85,5%",
+  "gancho": "*Previsões sobre aumentos* do Fed",
+  "entenda": "O número de elevações de juros afeta a economia e a direção dos investimentos no mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-many-fed-rate-hikes-in-2026-20260623190717369",
+  "publicadoEm": "2026-11-10T22:29:05-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-10T22:29:05-03:00",
+  "data": "2026-11-10",
+  "status": "nova",
+  "id": "2026-11-10-p5"
+ },
+ {
   "titulo": "Embraer salta 9,30% com resultado e projeções acima do consenso",
   "resumo": "Embraer reportou receita recorde de US$ 2,347 bi no 3T26, alta de 17% em um ano, e revisou projeções. Ações subiram 9,30% após resultados superarem expectativas.",
   "fatos": [
@@ -5692,53 +6757,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado prevê 53.5% de chance de Bitcoin cair para menos de 70,000 até 2026.",
-  "resumo": "Os apostadores esperam uma possível queda acentuada no preço do Bitcoin até o final de 2026.",
+  "titulo": "Mercado de previsões vê 69.5% de chance de Bitcoin abaixo de 70,000",
+  "resumo": "As apostas indicam um preço abaixo de 70,000 para o Bitcoin até o fim de 2026.",
   "probs": [
    {
-    "opcao": "Cai para 70,000",
-    "prob": 53.5
+    "opcao": "Abaixo de 70,000",
+    "prob": 69.5
    },
    {
-    "opcao": "Cai para 65,000",
-    "prob": 31.5
+    "opcao": "Abaixo de 65,000",
+    "prob": 37.5
    },
    {
-    "opcao": "Cresce para 90,000",
-    "prob": 23.5
+    "opcao": "Abaixo de 60,000",
+    "prob": 22.5
    },
    {
-    "opcao": "Cai para 60,000",
-    "prob": 19.5
+    "opcao": "Acima de 90,000",
+    "prob": 15.5
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 228 mil",
+  "volume24h": "US$ 516 mil",
   "fatos": [
-   "Cai para 70,000: 53,5%",
-   "Cai para 65,000: 31,5%",
-   "Cresce para 90,000: 23,5%",
-   "Cai para 60,000: 19,5%"
+   "Abaixo de 70,000: 69,5%",
+   "Abaixo de 65,000: 37,5%",
+   "Abaixo de 60,000: 22,5%",
+   "Acima de 90,000: 15,5%"
   ],
   "numeros": [
    {
-    "valor": "53,5%",
-    "rotulo": "Cai para 70,000"
+    "valor": "69,5%",
+    "rotulo": "Abaixo de 70,000"
    },
    {
-    "valor": "31,5%",
-    "rotulo": "Cai para 65,000"
+    "valor": "37,5%",
+    "rotulo": "Abaixo de 65,000"
    },
    {
-    "valor": "23,5%",
-    "rotulo": "Cresce para 90,000"
+    "valor": "22,5%",
+    "rotulo": "Abaixo de 60,000"
    },
    {
-    "valor": "19,5%",
-    "rotulo": "Cai para 60,000"
+    "valor": "15,5%",
+    "rotulo": "Acima de 90,000"
    }
   ],
-  "destaque": "53,5%",
+  "destaque": "69,5%",
   "gancho": "*Expectativa* de queda no Bitcoin",
   "entenda": "As previsões de preços de criptomoedas refletem a volatilidade do mercado, com base em fatores econômicos e tendências de investimento.",
   "categoria": "Previsões",
@@ -5751,8 +6816,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-06T22:12:07-03:00",
   "data": "2026-11-06",
-  "status": "nova",
-  "id": "2026-11-06-p2"
+  "status": "atualizada",
+  "id": "2026-11-06-p2",
+  "atualizadoEm": "2026-11-10T22:29:05-03:00"
  },
  {
   "titulo": "IPCA deve desacelerar para 0,23% em outubro, segundo ASA",

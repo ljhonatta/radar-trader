@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-10T18:25:57-03:00",
-  "novas": 10,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-11-10T22:29:05-03:00",
+  "novas": 9,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "10 nova(s) e 2 atualizada(s): Embraer: resultado e projeções positivas; Magalu e Inflação: Ação sobe 11%; Copom, Inflação e juros altos.",
+  "mensagem": "9 nova(s) e 1 atualizada(s): Lucro e Produção recorde Petrobras; IPO histórico da Anthropic; Plano Petrobras US$ 120 bi.",
   "falhas": [
    "Sem cotação confiável: Petróleo Brent"
   ],
   "manual": false,
   "historico": [
+   "2026-11-10T22:29:05-03:00",
    "2026-11-10T18:25:57-03:00",
    "2026-11-10T14:18:46-03:00",
    "2026-11-10T00:48:14-03:00",
@@ -20,12 +21,11 @@
    "2026-11-08T13:21:42-03:00",
    "2026-11-07T21:54:37-03:00",
    "2026-11-07T16:37:19-03:00",
-   "2026-11-07T12:55:57-03:00",
-   "2026-11-06T22:12:07-03:00"
+   "2026-11-07T12:55:57-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 12
+  "textosCompletos": 10
  },
  "placar": {
   "itens": [
@@ -39,19 +39,19 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,58",
-    "var": "+1,36%"
+    "var": ""
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 6,23",
-    "var": "+0,81%"
+    "var": "-0,06%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 73,9 mil",
-    "var": "-1,25%"
+    "v": "US$ 73,5 mil",
+    "var": "-2,15%"
    },
    {
     "k": "SPX",
@@ -68,8 +68,8 @@
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 4.039,00",
-    "var": "-1,83%"
+    "v": "US$ 4.034,30",
+    "var": "+0,10%"
    },
    {
     "k": "SELIC",
@@ -85,13 +85,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "ter 18h",
+  "hora": "ter 22h",
   "data": "2026-11-10",
-  "atualizadoEm": "2026-11-10T18:25:57-03:00",
+  "atualizadoEm": "2026-11-10T22:29:05-03:00",
   "ibov": "171.337",
   "ibovVar": "-0,52%",
   "dolar": "R$ 5,58",
-  "dolarVar": "+1,36%",
-  "btc": "US$ 73,9 mil"
+  "dolarVar": "",
+  "btc": "US$ 73,5 mil"
  }
 }
