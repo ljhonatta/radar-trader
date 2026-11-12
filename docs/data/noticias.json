@@ -1,5 +1,1879 @@
 [
  {
+  "titulo": "Dólar sobe a R$ 5,64 com pacote fiscal e inflação de outubro em foco",
+  "resumo": "Dólar comercial avançou 1,32% nesta quinta (12), alcançando R$ 5,636, após IPCA de 0,14% e pacote fiscal de até R$ 60 bilhões. O índice anual da inflação ficou em 4,63%, acima do teto da meta.",
+  "fatos": [
+   "IPCA de outubro subiu 0,14%, abaixo da previsão de 0,25%.",
+   "Inflação acumulada em 12 meses chegou a 4,63%, acima do teto da meta de inflação de 4,5%.",
+   "Dólar comercial subiu 1,32% e atingiu R$ 5,636 na venda às 14h18 do dia 12/11/2026.",
+   "Pacote fiscal do governo prevê ajuste fiscal de R$ 50 a R$ 60 bilhões para 2027.",
+   "Senado tem votação agendada para o dia 12/11/2026 às 16h do projeto de controle dos gastos públicos.",
+   "Banco do Brasil apresentou queda de 66,5% no lucro do terceiro trimestre de 2026, totalizando R$ 1,3 bilhão.",
+   "Aumento da inadimplência no agronegócio impactou o resultado do Banco do Brasil.",
+   "Dólar futuro para dezembro subiu 0,11%, cotado a R$ 5,608 na B3.",
+   "Ibovespa recuou 0,5%, pressionado pela queda das ações do Banco do Brasil.",
+   "Mercados internacionais acompanhavam dados do emprego nos EUA e repercussões da Nvidia."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira, 12 de novembro de 2026, o dólar comercial subiu 1,32%, chegando a R$ 5,636, refletindo a repercussão do índice de inflação oficial, IPCA, e da proposta de ajuste fiscal do governo anunciada na quarta-feira.",
+   "O IPCA de outubro registrou alta de 0,14%, abaixo da expectativa de 0,25%, mas acumulou 4,63% nos últimos 12 meses, ultrapassando o teto da meta de inflação de 4,5% definida pelo CMN, o que mantém a pressão inflacionária para investidores e política monetária.",
+   "O pacote fiscal apresentado prevê impacto fiscal de até R$ 60 bilhões para 2027, visando conter os gastos públicos sem alterar as metas de superávit primário. Essa iniciativa é acompanhada atentamente, pois influencia a confiança dos investidores e a estabilidade econômica.",
+   "Com a aprovação da proposta ainda a ser votada no Senado, o mercado segue em cautela, especialmente em relação aos possíveis ajustes em programas sociais e às incertezas políticas, que podem afetar a volatilidade do dólar e dos juros futuros."
+  ],
+  "detalhes": [
+   "O IPCA é o índice oficial usado pelo Banco Central para medir a inflação e definir as metas de juros.",
+   "O pacote fiscal inclui limites mais rígidos para despesas públicas e redução de benefícios fiscais.",
+   "O efeito real do pacote fiscal pode ser menor que o esperado, estimado em R$ 40 bilhões, devido a dificuldades políticas.",
+   "As ações do Banco do Brasil caíram 9,3%, liderando as perdas do Ibovespa.",
+   "O pacote fiscal visa equilibrar as contas públicas sem afetar programas sociais como o Pé-de-Meia Universitário.",
+   "A votação do projeto no Senado é considerada crucial para a confiança do mercado e aprovação do Orçamento de 2027.",
+   "A alta do dólar também foi influenciada por movimentos externos, como a queda das ações da Nvidia nos EUA."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento",
+    "oque": "Pacote fiscal deve gerar impacto de R$ 50 a R$ 60 bilhões em 2027, com efeito crescente nos anos seguintes."
+   },
+   {
+    "quem": "Vitor Kayo, economista sênior da Nomad",
+    "oque": "Resultado do IPCA abaixo do esperado traz alívio, mas alimentos pressionam inflação."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "11/11/2026",
+    "oque": "Governo anuncia pacote fiscal para 2027 com ajuste de até R$ 60 bilhões."
+   },
+   {
+    "quando": "12/11/2026",
+    "oque": "IBGE publica IPCA de outubro registrando alta de 0,14% no mês."
+   },
+   {
+    "quando": "12/11/2026, 16h",
+    "oque": "Senado deve votar projeto de ajuste fiscal para conter gastos públicos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPCA",
+    "significado": "Índice oficial que mede a inflação no Brasil."
+   },
+   {
+    "termo": "Pacote fiscal",
+    "significado": "Conjunto de medidas para controlar gastos e ajustar as contas públicas."
+   },
+   {
+    "termo": "Dólar à vista",
+    "significado": "Cotação do dólar para compra e venda imediata."
+   }
+  ],
+  "pergunta": "Você acompanha como a inflação afeta o dólar e seus investimentos?",
+  "tamanhoTexto": 13555,
+  "numeros": [
+   {
+    "valor": "0,14%",
+    "rotulo": "inflação oficial de outubro (IPCA)"
+   },
+   {
+    "valor": "4,63%",
+    "rotulo": "inflação acumulada em 12 meses pelo IPCA"
+   },
+   {
+    "valor": "R$ 5,636",
+    "rotulo": "cotação de venda do dólar às 14h18 em 12/11/2026"
+   },
+   {
+    "valor": "R$ 60 bilhões",
+    "rotulo": "impacto fiscal previsto para 2027 no pacote do governo"
+   },
+   {
+    "valor": "66,5%",
+    "rotulo": "queda do lucro do Banco do Brasil no 3º trimestre"
+   },
+   {
+    "valor": "R$ 1,3 bilhão",
+    "rotulo": "lucro líquido do Banco do Brasil no 3º trimestre de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA mensal (outubro)",
+    "antes": "0,82% (setembro)",
+    "depois": "0,14%"
+   },
+   {
+    "item": "Lucro Banco do Brasil 3T26",
+    "antes": "cerca de R$ 3 bilhões esperados",
+    "depois": "R$ 1,3 bilhão realizado"
+   }
+  ],
+  "destaque": "R$ 5,636",
+  "porQueImporta": "A valorização do dólar com base em dados de inflação e pacotes fiscais mostra a sensibilidade da moeda à política econômica e indicadores. Para investidores e operadores, é essencial acompanhar esses números para entender riscos e cenários futuros de mercado.",
+  "impactoMercado": "O pacote fiscal e o IPCA influenciam diretamente o dólar, a bolsa e juros. A alta do dólar pode afetar custos de importação, enquanto a inflação e déficit fiscal moldam decisões do Banco Central sobre a Selic e investimentos em renda fixa.",
+  "entenda": "O IPCA mede a inflação real para o consumidor, afetando o custo de vida e decisões do Banco Central sobre juros. O pacote fiscal busca controlar gastos públicos para manter a saúde das contas, o que afeta o câmbio e a confiança dos investidores.",
+  "observar": "Fique atento à votação do pacote fiscal no Senado às 16h, além da reunião do Banco Central em dezembro para definição da Selic, e aos próximos dados de inflação e desemprego nos EUA.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Esta notícia conecta inflação, política fiscal e câmbio, mostrando como o mercado reage a dados econômicos e decisões governamentais. Com explicações simples, ela aproxima o público do funcionamento real do mercado financeiro e dos impactos das medidas fiscais.",
+  "gancho": "*Dólar* e *inflação* em alta",
+  "ideias": [
+   "Como a inflação influencia o dólar?",
+   "Entenda o pacote fiscal e seus efeitos no mercado",
+   "Por que o lucro do Banco do Brasil decepcionou investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "InfoMoney; G1 Economia; Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12112026/",
+  "publicadoEm": "2026-11-12T14:19:41-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-01"
+ },
+ {
+  "titulo": "BTG Pactual cai 3,16% apesar de lucro recorde de R$5,33 bi",
+  "resumo": "BTG Pactual teve lucro 17% maior, alcançando R$ 5,33 bilhões, mas ação caiu 3,16% a R$ 54,18. Queda segue movimentos do Ibovespa e do setor bancário, além de avaliação negativa do Safra.",
+  "fatos": [
+   "Lucro do BTG Pactual cresceu 17%, chegando a R$ 5,33 bilhões.",
+   "Receita de crédito corporativo aumentou 10,7% em relação ao trimestre anterior.",
+   "Ação BPAC11 caiu 3,16%, cotada a R$ 54,18 por volta das 12h17.",
+   "Ibovespa caiu mais de 1% no mesmo período.",
+   "A ação Banco do Brasil (BBSA3) recuou 10%, pressionando o setor bancário.",
+   "Índice Estágio 3 da carteira de crédito subiu para 2,38%, contra 2,29% no 2º trimestre de 2026.",
+   "Despesas administrativas aumentaram por consolidação do HSBC Uruguai.",
+   "Safra classificou os resultados como ’ligeiramente negativos’ para ações.",
+   "Citi destaca perfil diversificado e sólida posição para rentabilidade futura.",
+   "Itaú BBA recomenda postura neutra com preço-alvo de R$ 60."
+  ],
+  "explicacao": [
+   "O BTG Pactual reportou lucro recorde de R$ 5,33 bilhões no trimestre, um crescimento de 17% com destaque para o crédito corporativo e gestão de patrimônio. Mesmo com esse desempenho, a ação (BPAC11) caiu 3,16%, cotada a R$ 54,18.",
+   "A queda no preço das ações reflete um cenário mais amplo: o Ibovespa recuou mais de 1% e o setor bancário foi pressionado pela queda de 10% do Banco do Brasil. Além disso, o Safra considerou os resultados “ligeiramente negativos” apesar do lucro.",
+   "Apesar das receitas cíclicas fracas, o BTG compensou com negócios de crédito, que cresceu 10,7%, e diversificação das linhas de negócios, fortalecendo sua resiliência. O banco melhorou qualidade da carteira, mas teve despesas maiores por expansão internacional.",
+   "Para o futuro, analistas destacam que o ambiente macroeconômico pode ficar menos favorável, principalmente para as receitas cíclicas. MT mantém recomendações cautelosas, com preço-alvo variando entre R$ 60 e R$ 71, sem garantia de valorização."
+  ],
+  "detalhes": [
+   "BTG Pactual é um banco que diversificou receitas de mercado de capitais e crédito para manter lucro crescente.",
+   "Queda do setor bancário influenciada pela performance ruim do Banco do Brasil e cenário incerto da economia.",
+   "Despesas maiores por expansão internacional, especialmente pela absorção do HSBC Uruguai.",
+   "Apesar do lucro alto, franjas cíclicas sofreram, mas foram compensadas por receitas mais constantes de crédito.",
+   "Analistas do Safra, Citi e Itaú BBA apresentaram visões distintas, variando entre positivo e cauteloso.",
+   "Preço-alvo oscilando entre R$ 60 e R$ 71, mostrando expectativa de valorização moderada.",
+   "Índice de inadimplência (Estágio 3) aumentou levemente, indicando cuidado na qualidade do crédito."
+  ],
+  "declaracoes": [
+   {
+    "quem": "analistas do Safra",
+    "oque": "Classificaram os números como ligeiramente negativos, mas destacaram a diversificação do BTG."
+   },
+   {
+    "quem": "analistas do Citi",
+    "oque": "Reforçaram o perfil diversificado, ressaltando que negócios de receitas recorrentes devem continuar crescendo."
+   },
+   {
+    "quem": "analistas do Itaú BBA",
+    "oque": "Adotam postura cautelosa, com recomendação neutra e alerta sobre múltiplos menores para crédito."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12h17 do dia da divulgação",
+    "oque": "Ação do BTG cai 3,16% cotada a R$ 54,18."
+   },
+   {
+    "quando": "2º trimestre de 2026",
+    "oque": "Índice Estágio 3 da carteira era 2,29%, agora subiu para 2,38%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Índice Estágio 3",
+    "significado": "percentual que indica a carteira de crédito inadimplente no banco"
+   },
+   {
+    "termo": "Receitas cíclicas",
+    "significado": "receitas influenciadas pelo ciclo econômico, como mercado de capitais"
+   },
+   {
+    "termo": "Receitas não cíclicas",
+    "significado": "receitas estáveis, como crédito e gestão de patrimônio"
+   }
+  ],
+  "pergunta": "Como você avalia a queda da ação BTG mesmo com lucro recorde?",
+  "tamanhoTexto": 5379,
+  "numeros": [
+   {
+    "valor": "17%",
+    "rotulo": "crescimento do lucro do BTG Pactual"
+   },
+   {
+    "valor": "R$ 5,33 bilhões",
+    "rotulo": "lucro reportado no trimestre"
+   },
+   {
+    "valor": "3,16%",
+    "rotulo": "queda no preço da ação BPAC11 na manhã do dia"
+   },
+   {
+    "valor": "R$ 54,18",
+    "rotulo": "preço da ação BPAC11 na queda"
+   },
+   {
+    "valor": "10,7%",
+    "rotulo": "aumento da receita de crédito corporativo no trimestre"
+   },
+   {
+    "valor": "2,38%",
+    "rotulo": "índice de Estágio 3 da carteira de crédito atual"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Índice Estágio 3 da carteira de crédito",
+    "antes": "2,29% no 2T26",
+    "depois": "2,38% no trimestre atual"
+   }
+  ],
+  "destaque": "Lucro de R$",
+  "porQueImporta": "A notícia mostra que resultado recorde nem sempre impacta positivamente o preço da ação. Entender a relação entre lucro, mercado, cenário macro e avaliação dos analistas é essencial para quem opera. Diversificação e qualidade do crédito são temas-chave para avaliar bancos hoje.",
+  "impactoMercado": "A queda das ações apesar de bons resultados mostra como o mercado reage a fatores externos, como desempenho geral do Ibovespa e riscos macro. Isso pode influenciar bancos e setores correlatos, além de gerar maior cautela para investidores em ações financeiras.",
+  "entenda": "A diversificação de receitas no BTG significa que ele não depende exclusivamente do mercado de capitais, o que ajuda a manter o lucro mesmo em momentos difíceis. O índice Estágio 3 mostra a inadimplência, uma medida da saúde do crédito que investidores acompanham para avaliar risco bancário.",
+  "observar": "Fique atento aos próximos balanços trimestrais do BTG e ao comportamento do Ibovespa. Também acompanhe notícias sobre a economia macro e decisões políticas que afetem o mercado de crédito.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explorar a queda da ação frente a bons resultados mostra a importância de entender fatores externos e análises, estimulando o público a aprender sobre avaliação de bancos e mercado financeiro.",
+  "gancho": "*BTG* cai apesar do *lucro* recorde",
+  "ideias": [
+   "Por que ação do BTG cai mesmo com lucro alto?",
+   "Diversificação ajuda BTG a enfrentar incertezas do mercado",
+   "Como avaliar resultados bancários além do lucro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://www.moneytimes.com.br/btg-bpac11-por-que-a-acao-cai-mesmo-com-bons-resultados/",
+  "publicadoEm": "2026-11-12T13:13:38-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-02"
+ },
+ {
+  "titulo": "Governo prevê convocar 1,3 mil aprovados em concursos públicos em 2026",
+  "resumo": "O governo planeja chamar 1,3 mil aprovados do CPNU 1 e convocar vagas do CPNU 2 ainda em 2026.",
+  "fatos": [
+   "1,3 mil vagas do CPNU 1 ainda serão convocadas em 2026.",
+   "Convocações para Analista Técnico do Poder Executivo no CPNU 2 estão previstas, número de vagas não divulgado.",
+   "Ministra Esther Dweck anunciou publicação da lista de vagas remanescentes para a semana após 12/11/2026.",
+   "Órgãos contemplados: Funai, Incra, IBGE, Inep, AGU, Agricultura, Justiça, Ciência e outros.",
+   "Mais de 500 vagas remanescentes do CPNU 2 serão convocadas, novo edital publicado substitui edital anulad.",
+   "Governo avalia modelo tipo Enem para CPNU 2027, com prova única e convocações conforme vagas surgirem.",
+   "PLOA 2027 precisa ser aprovada para viabilizar novos concursos e convocações.",
+   "Possível concurso para o INSS em 2027 para cargos de nível superior.",
+   "Polícia Federal pode fazer convocações adicionais em 2026 e início de 2027.",
+   "PRF poderá ter concurso público em 2027, ANM e órgãos ambientais continuam convocando aprovados."
+  ],
+  "explicacao": [
+   "O governo federal prepara a convocação de mais de 1,3 mil aprovados em concursos públicos ainda em 2026, referentes a vagas remanescentes do Concurso Público Nacional Unificado (CPNU 1). Além disso, há chamadas previstas para o cargo de Analista Técnico do Poder Executivo (ATE) no CPNU 2.",
+   "Essa decisão ocorre porque algumas vagas do CPNU 1 ficaram em aberto após candidatos aprovados não assumirem os cargos. Agora, o governo avalia o orçamento disponível para confirmar o número exato de convocações, com previsão de publicar a lista de vagas remanescentes na semana seguinte ao anúncio em 12/11/2026.",
+   "A convocação significa que órgãos como Funai, Incra, IBGE, Inep, AGU, ministérios diversos e agências reguladoras deverão preencher vagas ociosas, fortalecendo o quadro público. Também há análise para convocações adicionais em outros concursos ainda em 2026, e preparações para o edital do CPNU 2, que tem mais de 500 vagas remanescentes.",
+   "Para 2027, o governo estuda um novo modelo para o CPNU, semelhante ao Enem, que permitiria realizar provas com número reduzido de vagas inicialmente e convocar aprovados conforme abertura futura. A aprovação do orçamento anual será fundamental para definir concursos e contratações no próximo ano."
+  ],
+  "detalhes": [
+   "Ministra da Gestão e da Inovação em Serviços Públicos: Esther Dweck.",
+   "Entrevista concedida no programa 'Bom Dia, Ministra' em 12/11/2026.",
+   "Vagas remanescentes surgem quando aprovados não tomam posse.",
+   "Convocações dependem de saldo no orçamento federal e autorização da Secretaria de Orçamento Federal.",
+   "Novo edital do CPNU 2 substituiu o edital anuladopor inconsistências em vagas.",
+   "Proposta para CPNU 2027 visa reduzir tempo entre autorização e posse dos aprovados.",
+   "Orçamento 2027 enviado ao Congresso em agosto; aguardando aprovação para definir concursos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Esther Dweck, ministra da Gestão e da Inovação em Serviços",
+    "oque": "A previsão é publicar até próxima semana a lista de vagas remanescentes do CPNU 1"
+   },
+   {
+    "quem": "Esther Dweck",
+    "oque": "Estamos vendo quantas vagas podemos chamar pois há saldo remanescente no orçamento"
+   },
+   {
+    "quem": "Esther Dweck",
+    "oque": "Vamos avaliar novo modelo para o CPNU semelhante ao Enem para agilizar convocações futuras"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Ministra anunciou previsão da publicação da lista de vagas remanescentes do CPNU 1"
+   },
+   {
+    "quando": "Próxima semana após 12/11/2026",
+    "oque": "Governo deve publicar relação de vagas remanescentes do CPNU 1"
+   },
+   {
+    "quando": "Fim de agosto de 2026",
+    "oque": "Governo enviou o Projeto da Lei Orçamentária Anual de 2027 ao Congresso"
+   },
+   {
+    "quando": "Ano de 2027",
+    "oque": "Previsão para novos concursos e adoção do novo modelo do CPNU"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CPNU",
+    "significado": "Concurso Público Nacional Unificado, processo seletivo unificado para várias áreas do governo"
+   },
+   {
+    "termo": "Vagas remanescentes",
+    "significado": "Vagas não ocupadas após o concurso, disponíveis para convocação posterior"
+   },
+   {
+    "termo": "PLOA",
+    "significado": "Projeto de Lei Orçamentária Anual, orçamento anual do governo"
+   }
+  ],
+  "pergunta": "Você já pensou em prestar concurso para a carreira pública? Qual sua área de interesse?",
+  "tamanhoTexto": 7406,
+  "numeros": [
+   {
+    "valor": "1.300",
+    "rotulo": "vagas remanescentes do CPNU 1 para convocação em 2026"
+   },
+   {
+    "valor": "500+",
+    "rotulo": "vagas remanescentes no CPNU 2 para convocação"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "1,3 mil vagas",
+  "porQueImporta": "As convocações impactam quem busca carreira pública, ampliando oportunidades ainda em 2026. Entender o planejamento e orçamento ajuda candidatos a monitorar chamadas e oportunidades conforme o governo divulga vagas remanescentes e novos editais.",
+  "impactoMercado": "As convocações e novos concursos fortalecem a equipe pública, especialmente em setores estratégicos e ambientais, influenciando áreas administrativas e de segurança pública. Para investidores, estabilidade na gestão pública pode refletir em melhor execução de políticas.",
+  "entenda": "Concursos públicos selecionam candidatos para cargos no governo. Vagas remanescentes são oportunidades não preenchidas por desistência ou falta de posse, que o governo pode preencher sem abrir novo concurso. O orçamento é essencial para essas contratações.",
+  "observar": "Acompanhe a publicação da lista de vagas remanescentes prevista para a semana após 12/11/2026 e a aprovação do orçamento 2027, principais para autorização de convocações e novos concursos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Explique como as convocações em concursos públicos refletem o planejamento e orçamento do governo, incentivando seguidores a entenderem o funcionamento das seleções e a importância do CPNU para o setor público.",
+  "gancho": "*Concursos* e *Oportunidades* 2026",
+  "ideias": [
+   "Quantas vagas ainda sobraram no CPNU 1? Veja os números",
+   "Como funcionam as vagas remanescentes nos concursos públicos",
+   "Novo modelo para concurso: entenda a proposta para 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/concurso-governo-cnpu.ghtml",
+  "publicadoEm": "2026-11-12T14:43:10-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-03"
+ },
+ {
+  "titulo": "Entidades criticam proposta do 'plano Moretti' que limita compensação tributária",
+  "resumo": "Empresas rejeitam o plano do governo que restringe compensações tributárias, parte do pacote fiscal atual no Congresso.",
+  "fatos": [
+   "Proposta faz parte do pacote fiscal 'plano Moretti', analisado na semana do dia 11/12/2026.",
+   "Limitação do uso de compensações tributárias pode elevar ajuste fiscal em R$ 12,8 bilhões.",
+   "Proposta permite ao Executivo restringir créditos mediante ato infralegal.",
+   "Manifesto reúne 57 entidades, incluindo CNA, Abiec, Aprosoja BR, Fiesp e FIEMT.",
+   "Créditos tributários vêm do pagamento maior em aquisições sobre vendas, comuns em exportações e produtos agropecuários.",
+   "Legislativo rejeitou restrição semelhante em 2024, com o então presidente Rodrigo Pacheco.",
+   "Reforma tributária prevê que créditos de PIS e Cofins, extintos em 2027, sejam compensados ou ressarcidos.",
+   "Entidades pedem supressão do artigo 6º-F do PLP 299/2026 que limita compensações."
+  ],
+  "explicacao": [
+   "O governo enviou ao Congresso Nacional um pacote fiscal chamado 'plano Moretti', que inclui uma proposta para limitar a compensação de créditos tributários. Essa medida permite que o Executivo restrinja o uso desses créditos quando houver contingenciamento extra de despesas, ampliando o ajuste fiscal.",
+   "A ideia é que, em caso de bloqueio adicional nas despesas públicas por frustração de receitas, o governo possa reduzir o uso de créditos tributários, elevando o ajuste fiscal a até R$ 12,8 bilhões. Esse mecanismo flexibiliza como o governo controla seus gastos e receitas.",
+   "Entidades empresariais, principalmente do agronegócio e indústria, contestam a medida. Apontam que esses créditos não são recursos do governo, mas tributos pagos a mais pelas empresas, que devem ser compensados. Também citam que o Congresso já rejeitou proposta semelhante chamada 'MP do fim do mundo' em 2024.",
+   "Elas alertam que a restrição compromete a eficácia da reforma tributária, que prevê uso desses créditos para compensar novos tributos, como a CBS, a ser implantada em 2027. O tema está sendo debatido, com emendas para retirar essa limitação da proposta."
+  ],
+  "detalhes": [
+   "O 'plano Moretti' é um projeto enviado pelo governo para ajustar o Orçamento e o controle fiscal.",
+   "A limitação permite contingenciamento extra das despesas públicas e, em compensação, restringe créditos tributários para aumentar receitas.",
+   "Créditos tributários surgem porque o sistema tributário permite que tributos pagos em etapas anteriores sejam compensados, evitando cumulatividade.",
+   "Essa regra afeta especialmente setores ligados ao agronegócio, indústria e exportação, que têm créditos frequentes.",
+   "A proposta pode alterar a forma de devolução e compensação de créditos criados pela reforma tributária vigente desde 2025.",
+   "Medida pode afetar o novo tributo CBS, previsto para substituir PIS/Cofins a partir de 2027.",
+   "Confronta decisões anteriores do Congresso, que rejeitou restrições parecidas visando proteger o setor produtivo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Manifesto das 57 entidades empresariais",
+    "oque": "Créditos tributários não são dinheiro do governo, mas tributos pagos a mais que a lei manda devolver."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2024",
+    "oque": "Congresso rejeitou parte da MP que proibia compensação de créditos de PIS/Cofins."
+   },
+   {
+    "quando": "11/12/2026",
+    "oque": "Pacote fiscal com o 'plano Moretti' começou análise no Congresso."
+   },
+   {
+    "quando": "01/01/2027",
+    "oque": "PIS e Cofins serão extintos e substituídos pela CBS."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Compensação tributária",
+    "significado": "Desconto de tributos pagos a mais em etapas anteriores da cadeia produtiva."
+   },
+   {
+    "termo": "Contingenciamento",
+    "significado": "Bloqueio de recursos públicos para controlar gastos do governo."
+   },
+   {
+    "termo": "PIS/Cofins",
+    "significado": "Tributos federais sobre receitas, hoje substituídos pela CBS."
+   }
+  ],
+  "pergunta": "O que acha do governo limitar a compensação de créditos tributários das empresas?",
+  "tamanhoTexto": 7881,
+  "numeros": [
+   {
+    "valor": "57",
+    "rotulo": "Número de entidades empresariais contra a proposta"
+   },
+   {
+    "valor": "R$ 12,8 bilhões",
+    "rotulo": "Valor mínimo do ajuste fiscal pelo congelamento previsto"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 12,8 bilhões",
+  "porQueImporta": "Essa proposta pode alterar o caixa das empresas ao limitar créditos tributários que reduzem impostos a pagar. Para investidores e operadores, mudanças tributárias impactam o setor produtivo e podem afetar ações de empresas de agronegócio e indústria.",
+  "impactoMercado": "Se aprovada, a regra pode aumentar os custos tributários de setores exportadores e industriais, influenciando resultados e valuation. O debate sobre compensações e reforma tributária movimenta o mercado, especialmente em ações ligadas a esses segmentos.",
+  "entenda": "Compensação tributária é um mecanismo que evita a cobrança repetida de impostos em diferentes etapas da cadeia produtiva, permitindo que o contribuinte deduza créditos fiscais de tributos a pagar. Limitar essa compensação aumenta custos para empresas.",
+  "observar": "Acompanhe o debate no Congresso sobre o PLP 299/2026 e a votação de emendas que podem suprimir a limitação de compensações fiscais. Fique atento à implementação da reforma tributária e ao início da CBS em 2027.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia traz um tema fiscal complexo fundamental para quem quer entender impactos tributários na economia, mostrando como decisões políticas influenciam o ambiente para empresas e investimentos.",
+  "gancho": "*Compensação* tributária em risco",
+  "ideias": [
+   "O que é compensação tributária e por que importa?",
+   "Entenda o 'plano Moretti' e as críticas do agronegócio",
+   "Impactos da proposta fiscal no setor produtivo brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "cadeado",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-empresariais-criticam-proposta-prevista-no-plano-moretti-que-limita-compensacao-de-tributos.shtml",
+  "publicadoEm": "2026-11-12T14:41:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-04"
+ },
+ {
+  "titulo": "FIDCs superam R$ 1 trilhão em patrimônio e ganham mercado",
+  "resumo": "FIDCs alcançaram R$ 1 trilhão em julho, impulsionados por avanços regulatórios e fintechs. Setor oferece alternativa ao crédito bancário para empresas e investidores.",
+  "fatos": [
+   "Patrimônio dos FIDCs ultrapassou R$ 1 trilhão em julho de 2024.",
+   "Resolução CVM 175 modernizou a gestão e ampliou o acesso ao varejo.",
+   "Investidores de varejo podem adquirir cotas seniores com menor risco.",
+   "FIDCs compram direitos creditórios como duplicatas e notas fiscais.",
+   "Cotas são hierarquizadas em sênior, mezanino e subordinada, com riscos distintos.",
+   "FIDCs atuam como alternativa ao crédito bancário tradicional.",
+   "Os fundos não são garantidos pelo Fundo Garantidor de Créditos (FGC).",
+   "Taxa Selic elevada favorece retorno relevante sobre o CDI.",
+   "Novos players, principalmente fintechs, ampliam oferta e competição.",
+   "Inadimplência e falhas no mercado geram necessidade de mais transparência."
+  ],
+  "explicacao": [
+   "Em julho, os Fundos de Investimento em Direitos Creditórios (FIDCs) ultrapassaram R$ 1 trilhão em patrimônio líquido. A expansão ocorre com a entrada de novos participantes, principalmente fintechs, e o surgimento de mais produtos no mercado.",
+   "A Resolução CVM 175 foi crucial para esta evolução, modernizando a gestão dos fundos, fortalecendo controles antifraude e ampliando o acesso ao investidor de varejo, que pode investir nas cotas seniores, com menor risco.",
+   "Para as empresas, os FIDCs aceleram o fluxo de caixa ao antecipar direitos creditórios, enquanto investidores buscam retornos com base nos pagamentos dos recebíveis. Porém, os fundos não contam com garantia do Fundo Garantidor de Créditos, o que exige cuidado.",
+   "O mercado deve continuar crescendo, condicionado ao aprimoramento regulatório e à entrada de players mais robustos. A transparência e a governança serão decisivas para conquistar maior confiança dos investidores e evitar riscos de inadimplência e fraudes."
+  ],
+  "detalhes": [
+   "Quem: FIDCs, investidor de varejo e fintechs são os principais envolvidos.",
+   "Quanto: patrimônio líquido excedeu R$ 1 trilhão em julho de 2024.",
+   "Quando: crescimento recente impulsionado por regulamentos da CVM publicados em 2022-2023.",
+   "Onde: mercado brasileiro de fundos de crédito e direitos creditórios.",
+   "Como: através da securitização de recebíveis e estrutura de cotas hierarquizadas.",
+   "Por que: busca por fluxo de caixa rápido e diversificação de fontes de crédito.",
+   "Contexto: inovação, aumento da competição e cenário de juros elevados no Brasil."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Walter Fritzke, sócio-fundador da Vertau",
+    "oque": "Mudanças regulatórias favoreceram fintechs, ampliando o crédito além dos bancos tradicionais."
+   },
+   {
+    "quem": "Robson Casagrande, especialista em investimentos e sócio da GT Capital",
+    "oque": "Alta Selic e modernização regulatória impulsionam o setor e atraem investidores de alta renda."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "julho de 2024",
+    "oque": "FIDCs ultrapassam R$ 1 trilhão em patrimônio líquido."
+   },
+   {
+    "quando": "ano base da Resolução CVM 175",
+    "oque": "Norma reorganiza e amplia acesso do investidor aos FIDCs."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Direitos creditórios",
+    "significado": "Valores que uma empresa tem a receber no futuro, como duplicatas e boletos."
+   },
+   {
+    "termo": "Cotas seniores",
+    "significado": "Classe de cotas dos FIDCs com prioridade no pagamento e menor risco."
+   },
+   {
+    "termo": "Resolução CVM 175",
+    "significado": "Norma que trouxe avanços regulatórios para os FIDCs."
+   }
+  ],
+  "pergunta": "Você já conhece o funcionamento dos FIDCs e seus riscos?",
+  "tamanhoTexto": 10322,
+  "numeros": [
+   {
+    "valor": "R$ 1 trilhão",
+    "rotulo": "Patrimônio líquido dos FIDCs em julho de 2024"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 1 trilhão",
+  "porQueImporta": "O crescimento dos FIDCs indica maior diversificação e alternativas ao crédito bancário, impactando diretamente empresas em busca de capital e investidores que desejam exposição ao crédito privado, especialmente num cenário de juros elevados.",
+  "impactoMercado": "Com maior oferta e transparência, os FIDCs podem desconcentrar o mercado de crédito, estimulando financiamentos mais acessíveis para pequenas e médias empresas e aprimorando a concorrência sobre bancos tradicionais.",
+  "entenda": "FIDCs são fundos que investem em direitos creditórios, ou seja, recebem pagamentos futuros de empresas. Eles funcionam como uma espécie de empréstimo à economia real, entregando ao investidor retornos atrelados aos pagamentos desses créditos.",
+  "observar": "Acompanhe os impactos de futuras alterações regulatórias e o comportamento da inadimplência nos FIDCs para entender riscos e oportunidades desse segmento em evolução.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explica como os FIDCs se consolidam no mercado financeiro, ampliando alternativas de crédito e investimento, tema ideal para quem quer entender riscos e oportunidades do setor.",
+  "gancho": "*FIDCs* em crescimento sólido",
+  "ideias": [
+   "Como funcionam os FIDCs e por que cresceram tanto?",
+   "Entenda os riscos e retornos das cotas seniores e subordinadas",
+   "O que muda para o investidor com a Resolução CVM 175"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "seta",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/fidcs-em-destaque-por-que-investir-no-setor-que-ganha-espaco-como-alternativa-ao-credito-bancario/",
+  "publicadoEm": "2026-11-12T14:38:11-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-05"
+ },
+ {
+  "titulo": "Jensen Huang deixa a Nvidia e traz dúvidas para o futuro da IA",
+  "resumo": "Jensen Huang renunciou ao cargo de CEO da Nvidia, gerando incertezas sobre a sucessão e o futuro da inteligência artificial global.",
+  "fatos": [
+   "Jensen Huang cofundou a Nvidia há 33 anos.",
+   "Nvidia ultrapassou US$ 5 trilhões em valor de mercado.",
+   "Huang tinha 63 anos e era reconhecido mundialmente como rosto da Nvidia.",
+   "Huang renunciou após relatos de dois relacionamentos extraconjugais.",
+   "Colette Kress foi nomeada CEO interina da Nvidia.",
+   "Harvey Jones foi escolhido presidente do conselho.",
+   "Em agosto, Nvidia anunciou investimento de US$ 500 bilhões em infraestrutura de IA.",
+   "Huang acompanhou Donald Trump em visita à China em maio.",
+   "A saída ocorre em meio a um crescimento global impulsionado pela IA."
+  ],
+  "explicacao": [
+   "Jensen Huang, CEO e cofundador da Nvidia, anunciou sua renúncia após 33 anos na empresa, em meio a uma crise pessoal envolvendo relatos de relacionamentos extraconjugais que abalaram sua imagem.",
+   "Sua saída ocorre enquanto a Nvidia se firmava como líder no setor de IA, ultrapassando US$ 5 trilhões em valor de mercado e definindo investimentos bilionários para infraestrutura de inteligência artificial.",
+   "O conselho nomeou a diretora financeira Colette Kress como CEO interina e escolheu Harvey Jones presidente do conselho, abrindo um período de transição para uma empresa até então centrada na liderança de Huang.",
+   "Essa mudança levanta questões sobre a continuidade do papel da Nvidia na evolução da IA e o impacto nas áreas de tecnologia e mercado financeiro, que acompanham a empresa como referência estratégica."
+  ],
+  "detalhes": [
+   "Jensen Huang era visto como um visionário da IA, com alto prestígio entre líderes do setor de tecnologia.",
+   "Sua imagem influenciava não só a Nvidia, mas todo o mercado de inteligência artificial global.",
+   "A crise pessoal de Huang expôs riscos de sucessão na Nvidia, uma empresa muito focada em sua liderança.",
+   "Colette Kress assume interinamente, porém sem plano de sucessão definitivo divulgado.",
+   "Harvey Jones foi escalado para presidir o conselho em meio a essa transição.",
+   "Em 2026, a demanda por infraestrutura de IA cresce exponencialmente, pressionando capacidades das empresas.",
+   "Mercado financeiro observa a Nvidia como principal motor da revolução da IA."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Michael Dell",
+    "oque": "Descreveu Jensen Huang como um visionário da era da inteligência artificial."
+   },
+   {
+    "quem": "Tim Höttges, CEO da Deutsche Telekom",
+    "oque": "Destacou que uma foto com Huang gerou mais mídia que o lançamento do iPhone."
+   },
+   {
+    "quem": "Marc Benioff, CEO da Salesforce",
+    "oque": "Disse que todos estão seguindo Jensen Huang na conferência Dreamforce."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "maio de 2026",
+    "oque": "Jensen Huang acompanhou Donald Trump na visita à China."
+   },
+   {
+    "quando": "agosto de 2026",
+    "oque": "Nvidia anunciou US$ 500 bilhões para infraestrutura de IA."
+   },
+   {
+    "quando": "novembro de 2026",
+    "oque": "Huang renunciou ao cargo de CEO da Nvidia."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "GPU",
+    "significado": "Unidade de processamento gráfico usada para cálculos intensos, essencial em IA."
+   },
+   {
+    "termo": "Valor de mercado",
+    "significado": "Valor total das ações de uma empresa na bolsa."
+   },
+   {
+    "termo": "CEO",
+    "significado": "Chief Executive Officer, principal executivo da empresa."
+   }
+  ],
+  "pergunta": "Como você acha que a saída de Jensen Huang vai impactar o mercado de inteligência artificial?",
+  "tamanhoTexto": 2718,
+  "numeros": [
+   {
+    "valor": "33",
+    "rotulo": "anos de Jensen Huang na Nvidia"
+   },
+   {
+    "valor": "63",
+    "rotulo": "idade de Jensen Huang"
+   },
+   {
+    "valor": "US$ 5 trilhões",
+    "rotulo": "valor de mercado da Nvidia"
+   },
+   {
+    "valor": "US$ 500 bilhões",
+    "rotulo": "plano de investimento em infraestrutura de IA"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Saída de Jensen",
+  "porQueImporta": "A saída do CEO que liderava a Nvidia intensifica a incerteza sobre a direção da maior empresa no setor de inteligência artificial, afetando confiança de investidores e movimentos estratégicos em tecnologia.",
+  "impactoMercado": "Essa mudança pode influenciar o comportamento das ações da Nvidia e de setores ligados à IA, impactando desde títulos de tecnologia até investimentos em infraestrutura digital global.",
+  "entenda": "A Nvidia é uma das maiores fabricantes de GPUs usadas em inteligência artificial. A liderança forte é crucial para manter seu papel como motor da inovação, por isso a saída do CEO traz atenção para sucessão e continuidade da estratégia.",
+  "observar": "Fique de olho no anúncio oficial do sucessor de Jensen Huang e nos próximos resultados financeiros da Nvidia para avaliar impactos no mercado de IA.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia revela como a liderança é vital para empresas líderes em inovação e é um convite para entender melhor o funcionamento e riscos no mercado de ações e tecnologia.",
+  "gancho": "*Nvidia* e o Futuro da *IA*",
+  "ideias": [
+   "Quem é Jensen Huang e por que sua saída importa?",
+   "O papel da Nvidia no mercado global de inteligência artificial",
+   "Sucessão na Nvidia: riscos e oportunidades para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/saida-de-jensen-huang-da-nvidia-levanta-questoes-sobre-o-futuro-da-inteligencia-artificial/",
+  "publicadoEm": "2026-11-12T14:02:45-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-06"
+ },
+ {
+  "titulo": "Bitcoin cai abaixo de US$ 72.000 e soma perdas de 12% em 14 dias",
+  "resumo": "O Bitcoin opera em queda, negociado ao redor de US$ 71.500 nesta quinta (12), após perder 12% em duas semanas. O cenário negativo envolve ataques hacker, saídas de ETFs e incertezas políticas nos EUA.",
+  "fatos": [
+   "Bitcoin caiu para US$ 71.500 em 12 de novembro, menor valor em 84 dias",
+   "Bitcoin perdeu 12% de valor nas últimas duas semanas",
+   "Ataque hacker na Binance em 29 de outubro causou prejuízo de US$ 6,3 bilhões",
+   "Mais de 130 mil traders liquidados nas últimas 24 horas",
+   "Prejuízos com liquidações somaram US$ 737,13 milhões",
+   "ETF IBIT da BlackRock com nove dias consecutivos de vendas desde 30 de outubro",
+   "Democratas venceram eleições de meio de mandato nos EUA, afetando sentimento cripto",
+   "Inflação alta nos EUA aumentou apostas em alta de juros pelo Fed",
+   "MSCI removerá Strategy e Metaplanet de seus índices na virada do mês",
+   "Ethereum caiu 3,4%, testando suporte abaixo de US$ 2.000"
+  ],
+  "explicacao": [
+   "Nesta quinta-feira, 12 de novembro, o Bitcoin caiu para cerca de US$ 71.500, o menor preço desde agosto, acumulando uma queda de 12% nos últimos 14 dias. Outras criptomoedas, como Ethereum, também despencaram, testando suportes importantes.",
+   "A queda está ligada a vários fatores negativos no mercado: em 29 de outubro, a Binance sofreu um ataque hacker de US$ 6,3 bilhões que, mesmo absorvido pela corretora, gerou temor no mercado. Além disso, houve fortes retiradas de ETFs e o resultado das eleições de meio de mandato nos EUA, que enfraqueceram o apetite por cripto.",
+   "Também impactaram o mercado os dados recentes sobre a inflação alta nos EUA, que elevaram as expectativas de aumento de juros pelo Fed nas próximas reuniões. A MSCI anunciou a exclusão das maiores empresas de tesouraria cripto de seus índices, aumentando a pressão negativa.",
+   "No mercado de futuros, mais de 130 mil traders foram liquidados nas últimas 24 horas, totalizando prejuízos acima de US$ 737 milhões, demonstrando a alta volatilidade e o risco do ambiente atual. A tendência dependerá dos próximos dados econômicos e decisões políticas."
+  ],
+  "detalhes": [
+   "O ataque hacker na Binance ocorreu em 29 de outubro e gerou alto receio no mercado",
+   "Foram retirados US$ 2,5 bilhões em fundos de ETFs desde 30 de outubro",
+   "Resultado das eleições nos EUA é relacionado ao sentimento contra cripto devido a políticas democratas",
+   "Preços do Bitcoin e outras criptomoedas caíram de forma sincronizada nos últimos 14 dias",
+   "Mercado futuro de Bitcoin mostra liquidações recordes, evidenciando alta volatilidade",
+   "Empresas Strategy e Metaplanet perderão visibilidade no mercado pela exclusão da MSCI",
+   "Inflação elevada nos EUA reforça expectativa de aumento dos juros na próxima reunião do Fed"
+  ],
+  "declaracoes": [
+   {
+    "quem": "CoinGlass",
+    "oque": "Relatou liquidações no mercado futuro de Bitcoin superiores a 130 mil traders em 24 horas"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "29 de outubro",
+    "oque": "Ataque hacker na Binance causou prejuízo de US$ 6,3 bilhões"
+   },
+   {
+    "quando": "30 de outubro",
+    "oque": "Início das fortes saídas de US$ 2,5 bilhões em ETFs cripto"
+   },
+   {
+    "quando": "10 de novembro",
+    "oque": "Divulgação dos dados de inflação americana ainda elevada"
+   },
+   {
+    "quando": "11 de novembro",
+    "oque": "MSCI anuncia remoção da Strategy e Metaplanet de seus índices"
+   },
+   {
+    "quando": "12 de novembro",
+    "oque": "Bitcoin cai para US$ 71.500, menor valor dos últimos 84 dias"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Liquidação",
+    "significado": "Encerramento automático de posições alavancadas no mercado"
+   },
+   {
+    "termo": "ETF",
+    "significado": "Fundo negociado em bolsa que replica ativos ou índices"
+   },
+   {
+    "termo": "Futures",
+    "significado": "Contratos no mercado futuro que apostam na alta ou baixa de ativos"
+   }
+  ],
+  "pergunta": "Você já investe em criptomoedas ou prefere esperar períodos mais estáveis?",
+  "tamanhoTexto": 3133,
+  "numeros": [
+   {
+    "valor": "12%",
+    "rotulo": "Perda do Bitcoin em 14 dias"
+   },
+   {
+    "valor": "US$ 71.500",
+    "rotulo": "Preço do Bitcoin em 12/11"
+   },
+   {
+    "valor": "US$ 6,3 bilhões",
+    "rotulo": "Valor do ataque hacker à Binance"
+   },
+   {
+    "valor": "130 mil",
+    "rotulo": "Traders liquidados em 24 horas"
+   },
+   {
+    "valor": "US$ 737,13 milhões",
+    "rotulo": "Total das liquidações no mercado futuro"
+   },
+   {
+    "valor": "US$ 2.000",
+    "rotulo": "Nível de suporte testado pelo Ethereum"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "12%",
+  "porQueImporta": "A queda expressiva e prolongada do Bitcoin reflete o alto risco e volatilidade do mercado cripto, especialmente para investidores alavancados. Com múltiplos fatores negativos, entender esses movimentos é essencial para quem opera ou quer começar a navegar nesse ambiente dinâmico e de rápidas mudanças.",
+  "impactoMercado": "O momento de pressão no preço do Bitcoin afeta não só o mercado cripto, mas também ativos correlacionados, como ETFs de criptomoedas e ações de tecnologia. A possibilidade de aumentos de juros nos EUA reduz o apetite por ativos de risco, influenciando decisões de investimento e operação em criptomoedas e ações relacionadas.",
+  "entenda": "O Bitcoin é a principal criptomoeda negociada mundialmente, e seu valor oscila conforme fatores como notícias, dados econômicos e sentimento dos investidores. Liquidação significa o fechamento forçado de posições alavancadas quando o preço se move contra o investidor, provocando perdas automáticas.",
+  "observar": "Fique atento aos próximos dados de inflação dos EUA, resultados das reuniões do Fed e ações da Binance, pois podem impactar o sentimento e os preços das criptomoedas nos próximos dias.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia mostra como eventos externos e internos do mercado cripto influenciam diretamente os preços e o sentimento dos investidores. Explicar esses fatores ajuda o seguidor a entender o risco e a dinâmica do mercado, motivando a buscar educação especializada",
+  "gancho": "*Bitcoin* em queda significativa",
+  "ideias": [
+   "O que causou a queda do Bitcoin nos últimos 14 dias?",
+   "Entenda o impacto do ataque hacker na Binance no preço do BTC",
+   "Como a inflação americana influencia o mercado de criptomoedas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "moeda",
+  "fonte": "Livecoins (cripto)",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://livecoins.com.br/bitcoin-cai-abaixo-dos-us-72-000-e-estende-sequencia-de-liquidacoes/",
+  "publicadoEm": "2026-11-12T14:24:31-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-07"
+ },
+ {
+  "titulo": "Azul prevê alta contínua nas tarifas diante da crise do petróleo",
+  "resumo": "Presidente da Azul, Abhi Shah, acredita que aumento das tarifas seguirá por causa da crise do petróleo sem solução rápida.",
+  "fatos": [
+   "Abhi Shah é presidente da Azul Linhas Aéreas.",
+   "Em 12 de novembro de 2026, afirmou que tarifa continuará crescendo.",
+   "RASK da companhia atingiu 50 centavos de real.",
+   "Capacidade de assentos caiu 10,6% no 2º trimestre e 6,9% no 3º.",
+   "Azul planeja receber 32 aviões até 2030.",
+   "Quer recuperar frota de aviões widebody até janeiro 2027.",
+   "Dos 9 aviões que saíram, 4 já retornaram, 5 virão até janeiro.",
+   "Reforma tributária ainda com impactos a definir para aéreas.",
+   "Alta do petróleo deve persistir até pelo menos o primeiro trimestre 2027."
+  ],
+  "explicacao": [
+   "O presidente da Azul Linhas Aéreas, Abhi Shah, afirmou em teleconferência com analistas em 12 de novembro de 2026 que o crescimento das tarifas aéreas deve continuar devido à crise do petróleo, sem perspectiva de solução no curto prazo.",
+   "Segundo Shah, o consumidor tem se adaptado aos aumentos, e não existe um teto tarifário claro no Brasil. Ele citou que o RASK, receita por assento ofertado, chegou a 50 centavos de real, um valor que surpreendeu o mercado há um ano.",
+   "Para enfrentar a crise, a Azul reduziu sua capacidade de assentos em 10,6% e 6,9% nos dois primeiros trimestres do ano, além de ajustar seu plano de frota para manter flexibilidade operacional, planejando receber 32 aviões até 2030.",
+   "O CFO, Antonio Carlos Garcia, destacou que ainda avaliam o impacto da reforma tributária no setor aéreo, mas a expectativa é de efeito inicial pequeno, embora seja cedo para afirmar com certeza."
+  ],
+  "detalhes": [
+   "Declaração dada em teleconferência com analistas, 12/11/2026.",
+   "O crescimento da tarifa está ligado à crise do petróleo sem solução rápida.",
+   "A Azul não acredita que exista um limite de tarifa aceitável para passageiros no Brasil.",
+   "Capacidade operacional foi reduzida para enfrentar a crise mais eficientemente.",
+   "Frota ajustada dá flexibilidade para ajustar oferta conforme demanda.",
+   "Recuperação da frota internacional está atrasada, com reposição gradual até janeiro.",
+   "Reforma tributária pode impactar, mas efeitos ainda são incertos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Abhi Shah, presidente da Azul",
+    "oque": "A alta das tarifas vai continuar pois a crise do petróleo persiste; consumidor está se adaptando."
+   },
+   {
+    "quem": "Antonio Carlos Garcia, CFO da Azul",
+    "oque": "Estamos avaliando a reforma tributária e seus efeitos no setor aéreo, ainda incertos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Abhi Shah fala sobre continuidade do crescimento das tarifas aéreas."
+   },
+   {
+    "quando": "Segundo e terceiro trimestres de 2026",
+    "oque": "Redução da capacidade de assentos em 10,6% e 6,9%, respectivamente."
+   },
+   {
+    "quando": "Até janeiro 2027",
+    "oque": "Reposição gradativa da frota international widebody da Azul."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "RASK",
+    "significado": "Receita por assento ofertado; mede receita média por assento disponível"
+   },
+   {
+    "termo": "Frota widebody",
+    "significado": "Aviões de corredor duplo usados em voos internacionais mais longos"
+   }
+  ],
+  "pergunta": "Como você vê o impacto da alta do petróleo nas passagens aéreas?",
+  "tamanhoTexto": 3838,
+  "numeros": [
+   {
+    "valor": "50 centavos",
+    "rotulo": "RASK atingido pela Azul em real por assento ofertado"
+   },
+   {
+    "valor": "10,6%",
+    "rotulo": "Redução da oferta de assentos no 2º trimestre de 2026"
+   },
+   {
+    "valor": "6,9%",
+    "rotulo": "Redução da oferta de assentos no 3º trimestre de 2026"
+   },
+   {
+    "valor": "32",
+    "rotulo": "Quantidade de aviões que Azul espera receber até 2030"
+   },
+   {
+    "valor": "9",
+    "rotulo": "Número de aviões widebody que saíram da frota recentemente"
+   },
+   {
+    "valor": "4",
+    "rotulo": "Aviões widebody já repostos e em serviço"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Crescimento das tarifas",
+  "porQueImporta": "Esse aumento contínuo das tarifas impacta diretamente o custo das passagens aéreas, setor sensível à crise do petróleo. Para quem opera ou investe, entender esses custos auxilia na análise do desempenho e estratégia das companhias aéreas, influenciando decisões financeiras e operacionais.",
+  "impactoMercado": "O avanço do preço do combustível e a consequente alta nas tarifas podem pressionar margens das aéreas, afetando ações e resultados. Setores ligados ao transporte aéreo e turismo também podem observar oscilações em demanda e receita, além da importância do ajuste da capacidade operacional para manter competitividade.",
+  "entenda": "RASK (receita por assento ofertado) é um indicador fundamental para companhias aéreas, mostrando a receita média gerada por cada assento disponível em voos. É importante pois indica a capacidade da empresa de gerar receita mesmo com variações na demanda e preço dos combustíveis.",
+  "observar": "Fique atento às atualizações futuras da crise do petróleo e aos relatórios trimestrais da Azul, principalmente sobre capacidade, tarifas e efeitos da reforma tributária no setor aéreo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia ajuda a entender a dinâmica dos preços em um setor essencial como aviação, mostrando como o cenário externo afeta tarifas e estratégias. Isso aproxima o investidor ou operador das decisões reais das empresas e da influência dos custos",
+  "gancho": "*Tarifas* em alta persistente",
+  "ideias": [
+   "Por que as passagens aéreas vão continuar subindo?",
+   "Entenda o impacto da crise do petróleo nas empresas aéreas",
+   "Como a Azul está ajustando sua frota e tarifas em 2026"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/12/crescimento-de-tarifa-e-um-processo-que-vai-continuar-diz-diretor-da-azul.ghtml",
+  "publicadoEm": "2026-11-12T14:24:37-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-08"
+ },
+ {
+  "titulo": "Votorantim Cimentos vê custos altos e prevê consumo estável no Brasil em 2026",
+  "resumo": "CEO Osvaldo Ayres Filho revela que inflação alta pressiona custos da Votorantim Cimentos, que teve Ebitda 11% menor no 3º tri. Previsão para consumo no Brasil em 2026 é de crescimento lateral ou estabilizado.",
+  "fatos": [
+   "Ebitda ajustado da Votorantim Cimentos caiu 11% no 3º trimestre de 2026, para R$ 2,15 bilhões.",
+   "Vendas em volume da empresa cresceram 1%, totalizando 10,7 milhões de toneladas no trimestre.",
+   "Inflação de custo no Brasil é maior que o IPCA: INCC subiu 6,75% até outubro, contra 4,63% do IPCA.",
+   "Derivados do petróleo e energia elétrica pressionam os custos da empresa.",
+   "Previsão do Sindicato Nacional da Indústria do Cimento para 2026 era crescimento de 1% a 2%.",
+   "CEO Osvaldo Ayres Filho afirmou que o mercado brasileiro deve se manter estável, 'de lado', em 2026.",
+   "Votorantim vai acelerar investimento de R$ 5 bilhões entre 2024 e 2028, com R$ 3,3 bilhões já em execução.",
+   "América do Norte representou 31% da receita líquida da Votorantim no trimestre e teve previsão de alta nas vendas revisada para 2,2%.",
+   "CSN vendeu CSN Cimentos para chinesa Huaxin por R$ 12,7 bilhões; Votorantim estava interessada na compra."
+  ],
+  "explicacao": [
+   "A Votorantim Cimentos divulgou queda de 11% no Ebitda ajustado do terceiro trimestre de 2026, alcançando R$ 2,15 bilhões, em comparação ao ano anterior. A inflação do custo de produção preocupa, já que os reajustes de preço não compensaram totalmente o aumento das despesas.",
+   "Osvaldo Ayres Filho, CEO global da empresa, destaca que a inflação dos insumos, acima dos índices oficiais, decorre da alta nos preços de derivados de petróleo, como o coque e o diesel, além de custos elevados de energia elétrica e volatilidade geopolítica.",
+   "Enquanto a Votorantim conseguiu repassar esses aumentos na Ásia e na Europa, no Brasil o impacto foi maior devido a reajustes insuficientes. Além disso, trimestres com chuvas acima da média prejudicaram a demanda no setor de construção local, afetando as vendas.",
+   "A previsão otimista anterior do Sindicato Nacional da Indústria do Cimento estimava alta de até 2% no mercado brasileiro em 2026, mas a empresa agora acredita que o consumo poderá ficar praticamente estável no ano. O ritmo de investimentos para melhorar produtividade segue acelerado."
+  ],
+  "detalhes": [
+   "A queda no Ebitda ocorreu apesar do aumento de 1% no volume de vendas da Votorantim Cimentos no Brasil.",
+   "O Índice Nacional de Custo da Construção (INCC) com alta mais forte que o IPCA evidencia pressão maior nos custos da construção.",
+   "Chuvas mais intensas no terceiro e quarto trimestres afetaram negativamente o setor da construção civil, reduzindo demanda.",
+   "Os custos elevados são em parte resultado da instabilidade geopolítica que pressiona preços de petróleo e energia.",
+   "O plano de investimento de R$ 5 bilhões visa aumentar produtividade, reduzindo o impacto da inflação nos custos.",
+   "A América do Norte teve melhora na perspectiva de vendas, impulsionada pela crescente demanda da indústria de data centers.",
+   "Votorantim mantém foco no mercado brasileiro, onde atua há 90 anos, mesmo frente à venda da concorrente CSN Cimentos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Osvaldo Ayres Filho, CEO global da Votorantim Cimentos",
+    "oque": "Inflação dos custos preocupa muito e reajustes no Brasil não foram suficientes para compensar"
+   },
+   {
+    "quem": "Osvaldo Ayres Filho, CEO global da Votorantim Cimentos",
+    "oque": "Esperamos que consumo no mercado brasileiro fique mais de lado, estável ano a ano"
+   },
+   {
+    "quem": "Osvaldo Ayres Filho, CEO global da Votorantim Cimentos",
+    "oque": "Estamos acelerando plano de investimento para mitigar inflação e melhorar produtividade"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Divulgação da queda de 11% no Ebitda da empresa no 3º trimestre"
+   },
+   {
+    "quando": "até outubro de 2026",
+    "oque": "INCC acumulou alta de 6,75% no Brasil"
+   },
+   {
+    "quando": "2024 a 2028",
+    "oque": "Plano de investimento de R$ 5 bilhões em execução"
+   },
+   {
+    "quando": "3º e 4º trimestres de 2026",
+    "oque": "Chuvas acima da média prejudicaram o setor da construção"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "INCC",
+    "significado": "Índice Nacional de Custo da Construção, mede inflação na construção"
+   }
+  ],
+  "pergunta": "Como você acha que a inflação impacta empresas de construção e seus resultados?",
+  "tamanhoTexto": 4936,
+  "numeros": [
+   {
+    "valor": "11%",
+    "rotulo": "queda anual do Ebitda ajustado no 3º trimestre de 2026"
+   },
+   {
+    "valor": "R$ 2,15 bilhões",
+    "rotulo": "Ebitda ajustado da Votorantim Cimentos no 3º trimestre"
+   },
+   {
+    "valor": "1%",
+    "rotulo": "crescimento em volume de vendas da empresa no trimestre"
+   },
+   {
+    "valor": "6,75%",
+    "rotulo": "alta do INCC até outubro de 2026 no Brasil"
+   },
+   {
+    "valor": "4,63%",
+    "rotulo": "alta do IPCA até outubro de 2026 no Brasil"
+   },
+   {
+    "valor": "R$ 5 bilhões",
+    "rotulo": "investimento previsto entre 2024 e 2028"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Ebitda caiu 11%",
+  "porQueImporta": "A alta dos custos da Votorantim Cimentos e a dificuldade de repassá-los totalmente no Brasil mostram como a inflação pode afetar empresas do setor industrial. Para investidores e operadores, entender essa pressão ajuda a acompanhar os riscos e estratégias de empresas diante da economia e preços globais.",
+  "impactoMercado": "O cenário de custos elevados e demanda estável no mercado brasileiro indica um ambiente desafiador para setores ligados à construção e materiais. O reforço nos investimentos para produtividade pode influenciar resultados futuros, e o desempenho na América do Norte reflete a diversidade de mercados da empresa, importante para diversificação de receita.",
+  "entenda": "Ebitda é o lucro operacional da empresa antes de juros, impostos, depreciação e amortização, uma medida chave para avaliar a geração de caixa. O INCC mede a variação dos custos na construção civil, sendo referência para reajustes e previsão de demanda no setor. Entender esses índices ajuda a acompanhar os impactos financeiros da inflação.",
+  "observar": "Fique atento às próximas divulgações trimestrais da Votorantim, evolução do INCC e IPCA, além da execução do plano de investimentos até 2028, que podem mostrar como a empresa reage à inflação.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Notícia mostra como inflação e custo de produção afetam resultados e estratégias no mercado real, aproximando o investidor da prática e da gestão que o mercado exige.",
+  "gancho": "*Inflação* e *investimento* em cimento",
+  "ideias": [
+   "Por que os custos da Votorantim Cimentos sobem mais que a inflação oficial?",
+   "Ebitda: entenda a queda no lucro da Votorantim Cimentos",
+   "Como a Votorantim investe para mitigar inflação e melhorar produtividade"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/12/aumento-de-custos-preocupa-votorantim-cimentos-que-preve-ano-com-consumo-de-lado-no-brasil.ghtml",
+  "publicadoEm": "2026-11-12T14:25:23-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-09"
+ },
+ {
+  "titulo": "Ministério Público do Paraguai busca residência de Peña por caso Ueno",
+  "resumo": "MP do Paraguai realizou busca na casa do ex-presidente Santiago Peña, investigado pelo colapso do banco digital Ueno. Peña foi destituído por impeachment e está preso preventivamente desde 6 de junho.",
+  "fatos": [
+   "Operação de busca e apreensão foi realizada em 12 de junho na residência presidencial em Assunção.",
+   "Santiago Peña foi destituído por impeachment em 6 de junho pelo Congresso do Paraguai.",
+   "Peña está preso preventivamente em unidade militar desde a decisão judicial.",
+   "Os crimes investigados podem resultar em até 15 anos de prisão.",
+   "O caso envolve o colapso do banco digital Ueno após intervenção das autoridades por solvência.",
+   "Peña teve participação acionária na empresa controladora do banco até 2025.",
+   "A operação foi conduzida por agentes especializados em crimes econômicos.",
+   "Investigação avalia relações entre banco, empresas vinculadas e recursos públicos."
+  ],
+  "explicacao": [
+   "Na quinta-feira, 12 de junho, o Ministério Público do Paraguai fez uma operação de busca e apreensão na residência presidencial em Assunção, focada na investigação sobre o ex-presidente Santiago Peña e seu possível envolvimento no colapso do banco digital Ueno.",
+   "A operação ocorreu após a saída de Peña do cargo, com impeachment aprovado pelo Congresso em 6 de junho, motivado por problemas financeiros graves no banco Ueno, que levaram à intervenção das autoridades no banco.",
+   "O MP paraguaio busca dados e informações técnicas para esclarecer a atuação de Peña, que manteve participação acionária na empresa controladora do banco até 2025, e investiga crimes como lesão de confiança e administração em proveito próprio, que somam até 15 anos de prisão.",
+   "Além da ação contra Peña, a investigação mira irregularidades na gestão do banco Ueno, sua supervisão e possíveis usos indevidos de recursos públicos, com as buscas formando uma nova etapa para coleta de provas e responsabilidades."
+  ],
+  "detalhes": [
+   "Quem: Ministério Público do Paraguai e ex-presidente Santiago Peña.",
+   "Quando: busca em 12 de junho; impeachment em 6 de junho.",
+   "Onde: residência presidencial em Assunção, Paraguai.",
+   "Como: extração de dados e levantamento de informações pela unidade especializada.",
+   "Contexto: Peña foi afastado logo após intervenção no banco Ueno por problemas financeiros.",
+   "Comparação: antes estava no cargo de presidente, agora sob prisão preventiva.",
+   "Motivação: suspeitas de lesão de confiança e administração fraudulenta ligadas ao banco."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministério Público do Paraguai",
+    "oque": "Equipes técnicas coletaram dados para esclarecer participação do ex-presidente no caso Ueno."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "6 de junho",
+    "oque": "Peña destituído por impeachment pelo Congresso do Paraguai."
+   },
+   {
+    "quando": "12 de junho",
+    "oque": "MP realiza busca e apreensão na residência do ex-presidente."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Busca e apreensão",
+    "significado": "Ato legal para coletar provas mediante autorização judicial."
+   },
+   {
+    "termo": "Impeachment",
+    "significado": "Processo de afastamento de cargo público por irregularidades."
+   },
+   {
+    "termo": "Prisão preventiva",
+    "significado": "Medida cautelar para manter suspeito detido durante investigação."
+   }
+  ],
+  "pergunta": "Como crises políticas impactam o mercado financeiro latino-americano?",
+  "tamanhoTexto": 4326,
+  "numeros": [
+   {
+    "valor": "15 anos",
+    "rotulo": "pena máxima combinada para os crimes imputados a Peña"
+   },
+   {
+    "valor": "2025",
+    "rotulo": "ano até o qual Peña mantinha participação acionária no banco Ueno"
+   },
+   {
+    "valor": "12 de junho",
+    "rotulo": "data da operação de busca e apreensão"
+   },
+   {
+    "valor": "6 de junho",
+    "rotulo": "data da aprovação do impeachment de Peña"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Busca na residência",
+  "porQueImporta": "A investigação sobre Peña e o banco Ueno mostra o rigor no controle de irregularidades financeiras no Paraguai, impactando a confiança no mercado bancário daquele país. Para investidores, entender esses episódios ajuda a acompanhar riscos políticos e econômicos que influenciam o ambiente financeiro regional.",
+  "impactoMercado": "O caso pode criar instabilidade no mercado financeiro do Paraguai, especialmente no setor bancário, e afetar percepções de risco para ativos locais e regionais. Investidores devem acompanhar a evolução para avaliar possíveis efeitos em instituições financeiras e políticas públicas correlatas.",
+  "entenda": "O impeachment e a prisão preventiva são medidas legais para responsabilizar autoridades que possam ter cometido crimes relacionados à má gestão e corrupção. No mercado financeiro, crises em bancos digitais, como a do Ueno, podem gerar intervenções oficiais para proteger depositantes e preservar a estabilidade do sistema.",
+  "observar": "Acompanhe decisões judiciais próximas e eventuais novos desdobramentos da investigação contra Peña para entender o impacto na política e no mercado financeiro do Paraguai.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Esta notícia esclarece como investigações politicamente sensíveis podem afetar o mercado financeiro, despertando interesse para aprender sobre riscos e processos legais nessa área, temas abordados na faculdade Trader School Wendell Guimarães.",
+  "gancho": "*Paraguai*, *Impeachment* e *Mercado*",
+  "ideias": [
+   "Entenda o impeachment de Peña e seu impacto financeiro",
+   "Como o colapso do Ueno Bank afeta o mercado paraguaio",
+   "O que é prisão preventiva e quando ela acontece no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "cadeado",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://bpmoney.com.br/mundo/paraguai-busca-residencia-presidencial-investigacao-pena-banco-ueno/",
+  "publicadoEm": "2026-11-12T14:18:42-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-10"
+ },
+ {
+  "titulo": "Dívida externa do Brasil cresce 8,7% e atinge US$ 659,8 bilhões em 2025",
+  "resumo": "Banco Mundial aponta que dívida externa brasileira subiu 8,7% em 2025, chegando a US$ 659,8 bilhões, equivalente a 30% da renda nacional bruta.",
+  "fatos": [
+   "Dívida externa do Brasil chegou a US$ 659,803 bilhões em 2025.",
+   "Essa dívida equivale a 30% da renda nacional bruta e 150% das exportações brasileiras.",
+   "Brasil responde por quase 30% dos empréstimos externos na América Latina.",
+   "Empréstimos privados sem garantia somaram US$ 331,978 bilhões.",
+   "Pagamentos da dívida privada diminuíram 10,3% em 2025, para US$ 78 bilhões.",
+   "Novos desembolsos de empréstimos privados cresceram 27%, atingindo US$ 594,6 bilhões na América Latina.",
+   "Brasil emitiu US$ 19,8 bilhões em títulos privados sem garantia, com alta superior a 40% em relação a 2024.",
+   "Em 2026, títulos com vencimento de 10 anos ou mais representaram 41,5% das emissões públicas e com garantia.",
+   "Custo do financiamento internacional está alto devido a inflação e juros elevados nas economias desenvolvidas."
+  ],
+  "explicacao": [
+   "Em 2025, a dívida externa do Brasil alcançou US$ 659,8 bilhões, um aumento de 8,7% em relação ao ano anterior, segundo relatório do Banco Mundial. Esse estoque representa quase 30% dos empréstimos externos totais da América Latina e equivale a 30% da renda nacional bruta do país.",
+   "O crescimento da dívida brasileira foi influenciado pelo aumento dos empréstimos privados sem garantia, que cresceram 27% globalmente, com Brasil e China liderando as captações. O Brasil também ampliou a emissão de títulos internacionais em mais de 40%, chegando a US$ 19,8 bilhões em 2025.",
+   "Apesar da maior facilidade em acessar crédito internacional, o custo do financiamento aumentou devido à inflação persistente e juros altos nas economias desenvolvidas, elevando o custo de captação para países emergentes como o Brasil.",
+   "Para 2026, o Banco Mundial indica que o Brasil deve continuar emitindo títulos em prazos variados para refinanciar dívidas e alongar vencimentos, o que pode contribuir para uma melhor gestão do endividamento diante do cenário de juros elevados."
+  ],
+  "detalhes": [
+   "O Banco Mundial divulgou os dados em relatório de 2025, incluindo valores detalhados da dívida pública e privada brasileira.",
+   "Dos US$ 659,8 bilhões, US$ 215,3 bilhões são dívidas com garantia pública e US$ 112,6 bilhões de curto prazo.",
+   "Brasil e China lideram em novos empréstimos privados sem garantia na América Latina, contribuindo com 17,7% e 20,1%, respectivamente.",
+   "Pagamentos do principal da dívida privada do Brasil caíram em 2025, indicando fluxo líquido positivo de endividamento.",
+   "Emissões de títulos internacionais brasileiras cresceram mais de 40% no último ano, alcançando US$ 19,8 bilhões.",
+   "Em 2026, Brasil passou a emitir títulos com diferentes vencimentos em uma mesma operação para gerenciar melhor a dívida.",
+   "O relatório destaca que o aumento do custo dos empréstimos eleva o desafio da gestão da dívida em países emergentes."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Banco Mundial",
+    "oque": "O Brasil e a China concentram a maior parte dos empréstimos privados e enfrentam os maiores pagamentos relativos a eles."
+   },
+   {
+    "quem": "Banco Mundial",
+    "oque": "A estrutura de emissão com diferentes vencimentos permite ao Brasil alongar o perfil de suas dívidas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2025",
+    "oque": "Dívida externa do Brasil cresce 8,7% e atinge US$ 659,8 bilhões."
+   },
+   {
+    "quando": "Primeiro semestre de 2026",
+    "oque": "Títulos internacionais com prazo igual ou superior a 10 anos representam 41,5% das emissões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dívida externa",
+    "significado": "Empréstimos e financiamentos que um país toma de credores estrangeiros."
+   },
+   {
+    "termo": "Empréstimos privados sem garantia",
+    "significado": "Dívidas contraídas por empresas que não têm respaldo do governo."
+   },
+   {
+    "termo": "Título internacional",
+    "significado": "Papel de dívida emitido por um país ou empresa no mercado externo."
+   }
+  ],
+  "pergunta": "Como o crescimento da dívida externa pode afetar seus investimentos no mercado brasileiro?",
+  "tamanhoTexto": 7822,
+  "numeros": [
+   {
+    "valor": "659,8 bilhões",
+    "rotulo": "Dívida externa total do Brasil em 2025 (US$)"
+   },
+   {
+    "valor": "8,7%",
+    "rotulo": "Crescimento da dívida externa brasileira em 2025"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "Dívida equivale à renda nacional bruta"
+   },
+   {
+    "valor": "150%",
+    "rotulo": "Dívida equivalente às exportações brasileiras"
+   },
+   {
+    "valor": "19,8 bilhões",
+    "rotulo": "Emissão de títulos internacionais do Brasil em 2025 (US$)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dívida externa do Brasil",
+    "antes": "US$ 607,2 bilhões (2024)",
+    "depois": "US$ 659,8 bilhões (2025)"
+   },
+   {
+    "item": "Emissões brasileiras de títulos internacionais",
+    "antes": "menos de US$ 14 bilhões",
+    "depois": "US$ 19,8 bilhões (2025)"
+   }
+  ],
+  "destaque": "US$ 659,8 bilhões",
+  "porQueImporta": "Compreender o aumento da dívida externa brasileira ajuda investidores a avaliar riscos e oportunidades relacionados ao custo do crédito e sustentabilidade fiscal do país, afetando decisões em moedas, títulos públicos e setores mais sensíveis à economia global.",
+  "impactoMercado": "O crescimento da dívida com custo elevado pode pressionar o mercado financeiro, impactar juros futuros e a atratividade dos ativos locais, especialmente em momento de alta global dos juros e incertezas econômicas.",
+  "entenda": "Dívida externa é o valor total que um país deve a credores estrangeiros, incluindo governo e setor privado. O crescimento da dívida pode implicar aumento do custo do financiamento e desafios para a economia, influenciados por taxas de juros globais e fluxo cambial.",
+  "observar": "Acompanhe futuras emissões de títulos internacionais do Brasil e o comportamento das taxas de juros globais, que podem influenciar o custo e a sustentabilidade da dívida externa em 2026.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "Explicamos o crescimento da dívida externa brasileira e seu impacto nos custos e estratégias financeiras, mostrando a importância de entender o mercado global para operar melhor.",
+  "gancho": "*Dívida* Externa em Alta",
+  "ideias": [
+   "O que significa a alta da dívida externa do Brasil?",
+   "Como juros globais impactam o financiamento do Brasil?",
+   "Entenda os riscos do crescimento da dívida externa para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://bpmoney.com.br/economia/divida-externa-brasil-sobe-87-2025-659-bilhoes-banco-mundial/",
+  "publicadoEm": "2026-11-12T12:53:48-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-11"
+ },
+ {
+  "titulo": "Azul registra queda de 1,8% na receita líquida no 3º trimestre",
+  "resumo": "Azul teve receita líquida de R$ 5,6 bilhões entre julho e setembro, 1,8% abaixo do ano anterior. Resultado operacional caiu 55,9%, para R$ 560,1 milhões.",
+  "fatos": [
+   "Receita líquida de R$ 5,6 bilhões entre julho e setembro de 2026",
+   "Queda de 1,8% na receita líquida sobre o mesmo período em 2025",
+   "Resultado operacional de R$ 560,1 milhões, baixa de 55,9%",
+   "Ebitda alcançou R$ 1,2 bilhão, redução de 39,4%",
+   "Margem Ebitda caiu 13,3 pontos percentuais, ficando em 21,4%",
+   "Dados anunciados em 12 de dezembro de 2026"
+  ],
+  "explicacao": [
+   "A Azul divulgou em 12 de dezembro que a receita líquida no terceiro trimestre foi de R$ 5,6 bilhões, recuando 1,8% na comparação com o mesmo período de 2025.",
+   "Além da receita, o resultado operacional da companhia caiu 55,9%, atingindo R$ 560,1 milhões, enquanto o Ebitda recuou 39,4%, para R$ 1,2 bilhão.",
+   "Essa redução nos números reflete desafios operacionais e maiores custos, o que afetou a margem Ebitda, que caiu 13,3 pontos percentuais para 21,4%.",
+   "Os próximos trimestres vão mostrar se a Azul consegue reverter essas quedas, ajustando custos ou ampliando receitas para melhorar a rentabilidade."
+  ],
+  "detalhes": [
+   "Receita líquida recuou 1,8% em relação ao terceiro trimestre do ano anterior",
+   "O resultado operacional teve queda expressiva de mais da metade",
+   "Ebitda, que mede lucro operacional antes de juros e impostos, caiu quase 40%",
+   "Margem Ebitda revela eficiência operacional reduzida, caindo para 21,4%",
+   "A divulgação ocorreu por meio da empresa em 12/12/2026",
+   "A queda indica dificuldades financeiras e aumento de custos para a Azul",
+   "A companhia terá que ajustar estratégias para recuperar resultados"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "12 de dezembro de 2026",
+    "oque": "Azul divulgou os resultados do terceiro trimestre"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Receita líquida",
+    "significado": "Valor total vendido menos descontos e impostos"
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Margem Ebitda",
+    "significado": "Porcentagem do Ebitda sobre a receita líquida"
+   }
+  ],
+  "pergunta": "Como você avalia a queda nos resultados da Azul para o setor aéreo?",
+  "tamanhoTexto": 1021,
+  "numeros": [
+   {
+    "valor": "5,6 bilhões",
+    "rotulo": "Receita líquida no 3º trimestre de 2026 em reais"
+   },
+   {
+    "valor": "-1,8%",
+    "rotulo": "Queda da receita líquida ano a ano"
+   },
+   {
+    "valor": "560,1 milhões",
+    "rotulo": "Resultado operacional no 3º trimestre em reais"
+   },
+   {
+    "valor": "-55,9%",
+    "rotulo": "Redução do resultado operacional ano a ano"
+   },
+   {
+    "valor": "1,2 bilhão",
+    "rotulo": "Ebitda no 3º trimestre em reais"
+   },
+   {
+    "valor": "-39,4%",
+    "rotulo": "Queda do Ebitda ano a ano"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,6 bilhões",
+  "porQueImporta": "A receita líquida e a lucratividade da Azul impactam diretamente o valor de mercado e a confiança dos investidores, indicando a saúde financeira da companhia aérea num setor sensível a custos e demandas.",
+  "impactoMercado": "Resultados abaixo do esperado podem influenciar a cotação das ações da Azul e o interesse dos investidores no setor aéreo, além de afetar análises de risco e projeções de resultados futuros.",
+  "entenda": "Receita líquida é o total de vendas descontadas despesas, já o Ebitda mede o lucro operacional sem considerar juros, impostos e depreciação, mostrando a eficiência real da empresa na geração de caixa.",
+  "observar": "Acompanhe os resultados futuros da Azul e dados do setor aéreo para avaliar a recuperação ou persistência das dificuldades financeiras.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia ajuda a entender como a variação de receita e lucro operacional impacta empresas listadas e por que estudar esses números é importante para quem quer atuar no mercado financeiro.",
+  "gancho": "*Azul* e suas *queda* de receita",
+  "ideias": [
+   "Azul reporta queda de receita no 3º trimestre",
+   "Entenda o que é Ebitda após resultados da Azul",
+   "Impactos da queda operacional nas ações da Azul"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/azul-tem-queda-de-18-na-receita-liquida-no-terceiro-trimestre.shtml",
+  "publicadoEm": "2026-11-12T14:05:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-12"
+ },
+ {
+  "titulo": "STF mantém transição para fim da escala 6x1 e flexibiliza folgas",
+  "resumo": "Ministro Flávio Dino mantém início da nova jornada para 16 de dezembro. Flexibilização poderá permitir acordos coletivos para descanso semanal.",
+  "fatos": [
+   "Decisão monocrática do ministro Flávio Dino no dia 12 de novembro.",
+   "Nova jornada inicia em 16 de dezembro, como previsto na PEC.",
+   "PEC prevê redução da jornada de 44 para 42 horas em dezembro e para 40 em dezembro de 2027.",
+   "Audiência realizada em 10 de novembro com CNC, CNI, sindicatos e governo.",
+   "CNI pedia derrubada da emenda; CNC, adiamento da escala 5x2 para 2027.",
+   "Flexibilização permite modelo misto de escala 6x1 e 4x3 via acordo coletivo.",
+   "Decreto do MTE deve sair após retorno do presidente Lula de viagem ao exterior.",
+   "Sindicato dos Comerciários de São Paulo já negocia acordos dentro da nova regra."
+  ],
+  "explicacao": [
+   "O ministro do STF Flávio Dino decidiu manter o período de transição para o fim da escala 6x1, conforme a PEC já aprovada, com início da nova regra em 16 de dezembro. A decisão será analisada pelo plenário do Supremo.",
+   "A decisão ocorreu após pedido de entidades empresariais, como CNC e CNI, que queriam adiar ou derrubar a redução da jornada de 44 para 42 horas. Dino realizou audiência para ouvir empresários, sindicatos e governo.",
+   "Foi determinada a possibilidade de flexibilizar a escala de trabalho desde que previsto em acordo coletivo. Isso permite, por exemplo, variar semanas com 6x1 e 4x3, desde que o trabalhador tenha oito folgas mensais.",
+   "O decreto do Ministério do Trabalho deverá reforçar essa prevalência do acordo coletivo, podendo possibilitar um descanso semanal único em algumas semanas, respeitando o total de folgas mensais."
+  ],
+  "detalhes": [
+   "Flávio Dino é ministro sorteado para relatar ação da CNC e CNI no STF.",
+   "Entidades pedem adiamento ou derrubada da redução de jornada.",
+   "A nova regra permite flexibilização mediante acordo coletivo.",
+   "A carga horária cai inicialmente para 42 horas semanais em dezembro 2026.",
+   "A redução completa para 40 horas semanais será em dezembro de 2027.",
+   "Audiência no STF teve participação de representantes empresariais, sindicais e do governo.",
+   "O Ministério do Trabalho publicará decreto para regulamentar a norma."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministro Flávio Dino, STF",
+    "oque": "Mantém transição para nova jornada e permite flexibilização por acordo coletivo."
+   },
+   {
+    "quem": "Ministro do Trabalho Luiz Marinho",
+    "oque": "Decreto reforçará prevalência do acordo coletivo sobre a lei."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10 de novembro",
+    "oque": "Audiência convocada por ministro no STF com entidades e governo."
+   },
+   {
+    "quando": "12 de novembro",
+    "oque": "Decisão monocrática mantém início da nova jornada para 16 de dezembro."
+   },
+   {
+    "quando": "Dezembro de 2026",
+    "oque": "Redução da jornada de 44 para 42 horas semanais, início da nova regra."
+   },
+   {
+    "quando": "Dezembro de 2027",
+    "oque": "Aplicação da jornada completa de 40 horas semanais."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PEC",
+    "significado": "Proposta que altera regras da Constituição Federal"
+   },
+   {
+    "termo": "Escala 6x1",
+    "significado": "Formato de jornada com seis dias seguidos de trabalho e um de folga"
+   },
+   {
+    "termo": "Acordo coletivo",
+    "significado": "Negociação entre empregadores e sindicatos para condições de trabalho"
+   }
+  ],
+  "pergunta": "Você sabia que as folgas na nova escala podem ser flexíveis por acordo coletivo?",
+  "tamanhoTexto": 7335,
+  "numeros": [
+   {
+    "valor": "16 de dezembro de 2026",
+    "rotulo": "Início da nova regra para jornada de trabalho"
+   },
+   {
+    "valor": "42 horas semanais",
+    "rotulo": "Carga horária a partir de dezembro de 2026"
+   },
+   {
+    "valor": "40 horas semanais",
+    "rotulo": "Carga horária prevista para dezembro de 2027"
+   },
+   {
+    "valor": "8 folgas mensais",
+    "rotulo": "Folgas que o trabalhador deve ter mesmo com flexibilização"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "16 de dezembro",
+  "porQueImporta": "A decisão do STF mantém o cronograma para redução da jornada de trabalho, essencial para a adaptação de empresas e trabalhadores ao novo limite. A flexibilização via acordo coletivo evidência a importância do diálogo e negociação para ajustar as jornadas conforme realidades específicas.",
+  "impactoMercado": "Empresas terão que preparar sistemas e operações para reduzir a jornada em dezembro, influenciando custos trabalhistas e escalas de trabalho. A possibilidade de flexibilização pode alterar custos variáveis, como horas extras, e afetar setores com escalas intensas, influenciando negociações coletivas.",
+  "entenda": "A escala 6x1 significa trabalho por seis dias seguidos e uma folga semanal; o fim dela implica distribuição diferente de dias de trabalho e descanso. A PEC traz redução progressiva da jornada semanal, impactando contratos e acordos coletivos, que são negociações entre empregadores e sindicatos para definir condições específicas.",
+  "observar": "Fique atento à publicação do decreto do Ministério do Trabalho após o retorno do presidente Lula. O plenário do STF também deve avaliar a decisão monocrática para possíveis mudanças no calendário da jornada.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia traz uma decisão judicial importante para trabalhadores e empresas entenderem mudanças na jornada e sua negociação, essencial para quem quer compreender direitos, acordos coletivos e ajustar estratégias no mercado de trabalho.",
+  "gancho": "*Jornada* e *Escala*: o que muda?",
+  "ideias": [
+   "O que é a escala 6x1 e seu fim em 2026?",
+   "Como a PEC altera a jornada de trabalho no Brasil?",
+   "Entenda a flexibilização das folgas via acordo coletivo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "grafico",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 20,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dino-mantem-periodo-de-transicao-para-o-fim-da-escala-6x1-e-permite-flexibilizar-folgas.shtml",
+  "publicadoEm": "2026-11-12T14:08:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-13"
+ },
+ {
+  "titulo": "Saída do CEO Jensen Huang abala Nvidia e setor de IA global",
+  "resumo": "Jensen Huang deixa comando da Nvidia, gerando queda de quase 9% nas ações e impacto amplo na indústria de IA e semicondutores.",
+  "fatos": [
+   "Ações da Nvidia chegaram a cair 14% antes de reduzir perdas.",
+   "Às 14h, ação valia US$ 164,72, queda de 8,94%.",
+   "Mais de US$ 300 bilhões foram eliminados do valor de mercado em um dia.",
+   "Nvidia investia em empresas como OpenAI e Anthropic.",
+   "Setor de semicondutores e provedores de nuvem focados em IA foram afetados negativamente.",
+   "AMD e Broadcom tiveram alta nas ações no mesmo dia.",
+   "Conselho da Nvidia busca sucessor para Jensen Huang.",
+   "Jensen Huang centralizava decisões e tinha cerca de 60 executivos diretamente subordinados.",
+   "Desde o IPO em 1999, ações da Nvidia valorizaram mais de 700.000%.",
+   "Preço-alvo dos papéis foi reduzido para US$ 200 pelo analista Stacy Rasgon."
+  ],
+  "explicacao": [
+   "O CEO da Nvidia, Jensen Huang, anunciou sua saída, causando uma queda de até 14% nas ações da empresa, que recuaram 8,94% às 14h, com os papéis valendo US$ 164,72, eliminando mais de US$ 300 bilhões do valor de mercado em um dia.",
+   "Essa decisão impacta o setor de inteligência artificial, pois a Nvidia é crucial na cadeia produtiva com seus chips e investimentos em empresas como OpenAI e Anthropic; analistas apontam incertezas sobre a capacidade de manter a liderança da companhia sem Huang.",
+   "A saída também afetou de forma negativa empresas de semicondutores, provedores de nuvem focados em IA e fabricantes de equipamentos relacionados, enquanto concorrentes como AMD e Broadcom registraram ganhos; há preocupações sobre a continuidade da estratégia e relacionamentos da Nvidia.",
+   "O conselho já busca sucessores para Huang, com nomes como Lisa Su (AMD) e outros executivos do setor, mas o receio é grande, pois o CEO era considerado essencial e centralizador, com influência profunda sobre a operação e os investimentos relevantes para o mercado de IA."
+  ],
+  "detalhes": [
+   "Jensen Huang, CEO da Nvidia, é considerado responsável pela criação e expansão da liderança da empresa em IA.",
+   "A Nvidia tem protagonismo na indústria por fornecer chips essenciais para aplicações de inteligência artificial.",
+   "A saída provoca dúvidas sobre a continuidade dos investimentos e garantias financeiras da Nvidia no setor de IA.",
+   "O executivo mantinha grande controle sobre negócios e relacionamentos, dificultando a transição.",
+   "O valor de mercado da Nvidia já ultrapassou US$ 5 trilhões em momentos recentes.",
+   "Analistas e investidores tradicionais estão cautelosos, rebaixando recomendações e preferindo acompanhar a situação.",
+   "O impacto negativo atingiu até setores indiretos como fabricantes de equipamentos de energia ligados à infraestrutura de TI."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Asa Hiken, analista sênior da Emarketer",
+    "oque": "A saída de Huang cria incertezas amplas para o setor de IA dependente da Nvidia."
+   },
+   {
+    "quem": "Mandeep Singh, analista da Bloomberg Intelligence",
+    "oque": "A perda de Huang pode abalar gravemente a credibilidade e os acordos comerciais da Nvidia."
+   },
+   {
+    "quem": "Stacy Rasgon, analista da Bernstein",
+    "oque": "Há incertezas sobre a capacidade do novo CEO e os investimentos da Nvidia no setor."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Quarta-feira antes do anúncio",
+    "oque": "Conselho da Nvidia se reuniu para decidir o destino de Huang."
+   },
+   {
+    "quando": "Quinta-feira, 14h (Horário de Brasília)",
+    "oque": "Ações da Nvidia registram queda de 8,94% após anúncio da saída do CEO."
+   },
+   {
+    "quando": "A partir do IPO em 1999",
+    "oque": "As ações da Nvidia valorizaram mais de 700.000% sob liderança de Huang."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "chips",
+    "significado": "pequenos componentes eletrônicos que processam dados"
+   },
+   {
+    "termo": "neoclouds",
+    "significado": "provedores de nuvem focados em inteligência artificial"
+   },
+   {
+    "termo": "open-source",
+    "significado": "software com código aberto para uso livre"
+   }
+  ],
+  "pergunta": "Como você acha que a saída de um CEO impacta o setor de tecnologia?",
+  "tamanhoTexto": 7718,
+  "numeros": [
+   {
+    "valor": "14%",
+    "rotulo": "queda máxima das ações da Nvidia em um dia"
+   },
+   {
+    "valor": "8,94%",
+    "rotulo": "queda das ações da Nvidia às 14h (US$ 164,72)"
+   },
+   {
+    "valor": "US$ 300 bilhões",
+    "rotulo": "valor de mercado destruído em um dia na Nvidia"
+   },
+   {
+    "valor": "205.079%+",
+    "rotulo": "valorização das ações da Nvidia desde o IPO em 1999"
+   },
+   {
+    "valor": "US$ 200",
+    "rotulo": "novo preço-alvo para ações da Nvidia"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Preço-alvo Nvidia",
+    "antes": "valor anterior não mencionado explicitamente",
+    "depois": "US$ 200"
+   }
+  ],
+  "destaque": "8,94% queda das",
+  "porQueImporta": "A saída do CEO Jensen Huang mexe com o principal nome por trás da liderança da Nvidia, que é essencial para o ecossistema de IA global. Para quem investe, entender esse abalo ajuda a avaliar riscos na cadeia de produção e nas empresas ligadas, refletindo volatilidade e incertezas na tecnologia que lidera o mercado.",
+  "impactoMercado": "Essa mudança pode ampliar volatilidades em ações de semicondutores, provedores de nuvem e setores ligados a IA. A fugacidade e o temor sobre investimentos e liderança da Nvidia podem fazer investidores reverem posições, afetando principalmente papéis ligados à cadeia de chips e infraestrutura para inteligência artificial.",
+  "entenda": "A Nvidia é líder na produção de chips usados em inteligência artificial. O CEO Jensen Huang foi fundamental nesse crescimento. Sua saída levanta dúvidas porque ele tinha controle rígido sobre decisões e relacionamentos, e o mercado teme o impacto disso na continuidade da empresa e do setor de IA que depende dela.",
+  "observar": "Fique atento a anúncios sobre o novo CEO da Nvidia, relatório de resultados trimestrais e reações do mercado nas próximas semanas para avaliar impactos no setor de IA e semicondutores.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia ajuda a compreender a importância da liderança em empresas-chave do mercado financeiro e a dinâmica do setor de tecnologia, mostrando como mudanças internas podem influenciar o desempenho das ações e cadeias produtivas.",
+  "gancho": "Saída do CEO e impacto *Nvidia*",
+  "ideias": [
+   "Por que a saída de Jensen Huang abalou a Nvidia?",
+   "Entenda o papel da Nvidia na indústria de IA",
+   "Como a liderança afeta o mercado financeiro em tecnologia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "raio",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://investnews.com.br/financas/saida-de-ceo-da-nvidia-vai-causar-estrago-amplo-e-afetar-investimento-na-tese-de-ia-dizem-analistas/",
+  "publicadoEm": "2026-11-12T14:06:21-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-14"
+ },
+ {
+  "titulo": "Bolsas europeias sobem pouco após saída do CEO da Nvidia e balanços",
+  "resumo": "Em 12 de outubro, ações europeias fecharam com leves ganhos, impactadas pela renúncia de Jensen Huang, CEO da Nvidia, e resultados corporativos. Setores de tecnologia e varejo foram destaque na sessão.",
+  "fatos": [
+   "Bolsas europeias fecharam em alta modesta em 12 de outubro de 2023.",
+   "FTSE 100 subiu 0,25%, fechando aos 10.863,09 pontos.",
+   "DAX avançou 0,57%, encerrando nos 26.816,06 pontos.",
+   "CAC 40 teve alta de 0,34%, aos 8.361,36 pontos.",
+   "STOXX Europe 600 subiu 0,25%, aos 664,73 pontos.",
+   "Jensen Huang renunciou ao cargo de CEO da Nvidia após denúncias pessoais.",
+   "Colette Kress, CFO da Nvidia, assumirá a presidência da empresa.",
+   "Ações da Nvidia e setor tech global caíram após anúncio.",
+   "PIB do Reino Unido cresceu 0,7% no terceiro trimestre, acima do esperado.",
+   "Empresas Siemens e varejistas como B&M e Burberry registraram resultados positivos."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira (12), as bolsas europeias encerraram o dia com alta modesta, influenciadas pela saída do CEO da Nvidia, Jensen Huang, anunciada após denúncias de relacionamentos extraconjugais que afetaram a confiança do mercado no setor de tecnologia.",
+   "Além do caso da Nvidia, os investidores reagiram a balanços positivos de empresas como Siemens, Burberry e B&M, que sustentaram parte do movimento altista, embora setores defensivos tenham protagonizado a migração de capital ao longo do dia.",
+   "A economia britânica apresentou crescimento de 0,7% do PIB no terceiro trimestre, maior do que o esperado, reforçando a expectativa de ciclo de aperto monetário do Banco da Inglaterra, o que trouxe otimismo moderado para os índices locais.",
+   "Com a transferência do comando da Nvidia para a CFO Colette Kress, o mercado deve acompanhar a repercussão das mudanças executivas e os próximos balanços corporativos para ajustar as expectativas sobre o desempenho tecnológico e econômico regional."
+  ],
+  "detalhes": [
+   "Jensen Huang, CEO da Nvidia, renunciou em 12 de outubro devido a casos extraconjugais revelados.",
+   "Denúncias incluem relacionamento com uma suposta espiã chinesa e uma vice-presidente da Nvidia.",
+   "Colette Kress será a nova CEO; ela já era vice-presidente e CFO da empresa.",
+   "O setor tecnológico do índice Stoxx 600 caiu 0,3%, com ações de empresas como ASML caindo 1,5%.",
+   "Siemens Energy anunciou metas de crescimento até 2030, mas fechou com alta moderada de 0,4%.",
+   "Siemens subiu 1,8% com bons resultados do terceiro trimestre de 2026.",
+   "O PIB do Reino Unido cresceu 0,7% no 3º trimestre, acima da previsão de 0,4%."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Broadcast",
+    "oque": "Colette Kress assumirá o cargo de CEO da Nvidia após renúncia de Jensen Huang"
+   },
+   {
+    "quem": "ING",
+    "oque": "Crescimento do PIB britânico reforça expectativa de alta dos juros em fevereiro"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "8 de outubro de 2023",
+    "oque": "Denúncia sobre relacionamento de Jensen Huang com empresária chinesa divulgada"
+   },
+   {
+    "quando": "12 de outubro de 2023",
+    "oque": "Jensen Huang renuncia ao cargo de CEO da Nvidia"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PIB",
+    "significado": "Produto Interno Bruto, medida da riqueza produzida em um país"
+   },
+   {
+    "termo": "CEO",
+    "significado": "Chief Executive Officer, principal executivo de uma empresa"
+   },
+   {
+    "termo": "Stoxx Europe 600",
+    "significado": "Índice que reúne ações de 600 empresas em 17 países europeus"
+   }
+  ],
+  "pergunta": "Como você acha que a saída do CEO da Nvidia pode afetar o setor de tecnologia na bolsa?",
+  "tamanhoTexto": 4861,
+  "numeros": [
+   {
+    "valor": "0,25%",
+    "rotulo": "alta do FTSE 100 em 12/10"
+   },
+   {
+    "valor": "0,57%",
+    "rotulo": "alta do DAX em 12/10"
+   },
+   {
+    "valor": "0,7%",
+    "rotulo": "crescimento do PIB do Reino Unido no 3º trimestre"
+   },
+   {
+    "valor": "1,8%",
+    "rotulo": "alta da Siemens em 12/10"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "alta da varejista B&M após resultados"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,7% crescimento PIB",
+  "porQueImporta": "A saída do CEO da Nvidia e os resultados corporativos impactam diretamente a confiança no setor tecnológico e a percepção dos riscos geopolíticos. Entender esses movimentos é essencial para quem opera ou investe no mercado global, especialmente em ações de tecnologia e ações europeias.",
+  "impactoMercado": "A crise na Nvidia puxou para baixo o setor de tecnologia global, refletindo em índices europeus e no mercado americano. Resultados positivos de empresas industriais e varejistas equilibraram o humor, enquanto o PIB robusto do Reino Unido reforça a expectativa de alta dos juros locais, que pode impactar custos de financiamento e consumo.",
+  "entenda": "A bolsa de valores reage não só a números econômicos, mas também a fatores corporativos e notícias pessoais dos líderes das empresas, que podem afetar sua governança e desempenho. O PIB é o indicador do crescimento econômico e influencia decisões de política monetária, que por sua vez impactam juros, dólar e mercados financeiros.",
+  "observar": "Fique atento aos próximos balanços trimestrais das empresas europeias e às decisões de política monetária do Banco da Inglaterra, que podem alterar o cenário para os investidores nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Notícias como a saída do CEO de uma gigante tech mostram a importância da análise de governança e seu impacto no mercado, tema essencial para quem quer entender o funcionamento dos investimentos.",
+  "gancho": "*Crise* na Nvidia e impactos nas bolsas",
+  "ideias": [
+   "O que muda com a saída do CEO da Nvidia para o mercado",
+   "Como balanços corporativos influenciam as bolsas europeias",
+   "Crescimento do PIB britânico e expectativas de juros: entenda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T14:45:15-03:00",
+  "url": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-perto-da-estabilidade-com-balancos-e-de-olho-em-techs-apos-caso-nvidia-davs/",
+  "publicadoEm": "2026-11-12T14:21:28-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-15"
+ },
+ {
   "titulo": "Log-In Logística reverte lucro e tem prejuízo de R$ 92,3 milhões no 3º tri",
   "resumo": "Log-In registrou prejuízo de R$ 92,3 milhões no 3º trimestre, contra lucro de R$ 19,2 milhões em 2025. Receita subiu 1,2%, mas custos cresceram 13,2%, puxados por Tecmar e TVV.",
   "fatos": [
@@ -4735,71 +6609,6 @@
  },
  {
   "tipo": "sinal",
-  "slug": "bitcoin-above-on-november-11-2026",
-  "titulo": "Mercado de previsões vê 95.3% de chance de Bitcoin acima de 70,000 em 11 de novembro",
-  "resumo": "Probabilidade elevada de que o preço do Bitcoin ultrapasse os 70,000 até a data estipulada.",
-  "probs": [
-   {
-    "opcao": "70,000",
-    "prob": 95.3
-   },
-   {
-    "opcao": "72,000",
-    "prob": 77.2
-   },
-   {
-    "opcao": "74,000",
-    "prob": 30.1
-   },
-   {
-    "opcao": "76,000",
-    "prob": 5.0
-   }
-  ],
-  "prazo": "2026-11-11",
-  "volume24h": "US$ 182 mil",
-  "fatos": [
-   "70,000: 95,3%",
-   "72,000: 77,2%",
-   "74,000: 30,1%",
-   "76,000: 5,0%"
-  ],
-  "numeros": [
-   {
-    "valor": "95,3%",
-    "rotulo": "70,000"
-   },
-   {
-    "valor": "77,2%",
-    "rotulo": "72,000"
-   },
-   {
-    "valor": "30,1%",
-    "rotulo": "74,000"
-   },
-   {
-    "valor": "5,0%",
-    "rotulo": "76,000"
-   }
-  ],
-  "destaque": "95,3%",
-  "gancho": "*Previsões* otimistas* para o Bitcoin",
-  "entenda": "Bitcoin é uma criptomoeda bastante volátil, e suas variações de preço refletem a confiança dos investidores no mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bitcoin-above-on-november-11-2026",
-  "publicadoEm": "2026-11-10T14:18:46-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-10T14:18:46-03:00",
-  "data": "2026-11-10",
-  "status": "nova",
-  "id": "2026-11-10-p2"
- },
- {
-  "tipo": "sinal",
   "slug": "another-fed-rate-hike-in-2026",
   "titulo": "Mercado de previsões vê 95.2% de chance de mais um aumento de juros pelo Fed em 2026",
   "resumo": "Apostas indicam forte expectativa de que o Fed aumente as taxas de juros mais uma vez em 2026.",
@@ -7055,71 +8864,6 @@
   "id": "2026-11-08-03"
  },
  {
-  "tipo": "sinal",
-  "slug": "core-cpi-yoy-october-2026",
-  "titulo": "Mercado de previsões vê 85.5% de chance do Core CPI ser 2.6% em outubro de 2026",
-  "resumo": "Essa probabilidade é uma indicação do controle da inflação, sendo monitorada por investidores.",
-  "probs": [
-   {
-    "opcao": "2.6%",
-    "prob": 85.5
-   },
-   {
-    "opcao": "2.5%",
-    "prob": 9.6
-   },
-   {
-    "opcao": "2.7%",
-    "prob": 2.4
-   },
-   {
-    "opcao": "2.3%",
-    "prob": 0.2
-   }
-  ],
-  "prazo": "2026-11-11",
-  "volume24h": "US$ 6 mil",
-  "fatos": [
-   "2.6%: 85,5%",
-   "2.5%: 9,6%",
-   "2.7%: 2,4%",
-   "2.3%: 0,2%"
-  ],
-  "numeros": [
-   {
-    "valor": "85,5%",
-    "rotulo": "2.6%"
-   },
-   {
-    "valor": "9,6%",
-    "rotulo": "2.5%"
-   },
-   {
-    "valor": "2,4%",
-    "rotulo": "2.7%"
-   },
-   {
-    "valor": "0,2%",
-    "rotulo": "2.3%"
-   }
-  ],
-  "destaque": "85,5%",
-  "gancho": "Inflação *em foco*",
-  "entenda": "O índice de preços ao consumidor é essencial para avaliar a inflação e as políticas monetárias futuras.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/core-cpi-yoy-october-2026",
-  "publicadoEm": "2026-11-08T13:21:42-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-08T13:21:42-03:00",
-  "data": "2026-11-08",
-  "status": "nova",
-  "id": "2026-11-08-p1"
- },
- {
   "titulo": "Subsídios a combustíveis fósseis chegam a R$ 54,1 bi no Brasil em 2025",
   "resumo": "Brasil destinou R$ 54,12 bilhões em subsídios federais aos combustíveis fósseis em 2025, representando 70,14% do total de R$ 77,16 bilhões às fontes de energia.",
   "fatos": [
@@ -8696,53 +10440,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 69.5% de chance de Bitcoin abaixo de 70,000",
-  "resumo": "As apostas indicam um preço abaixo de 70,000 para o Bitcoin até o fim de 2026.",
+  "titulo": "Mercado de previsões vê 80,5% de chance de que o Bitcoin caia abaixo de 70.000 até 2027",
+  "resumo": "Uma significativa maioria acredita que o Bitcoin não atingirá novos altos até o início da próxima década.",
   "probs": [
    {
-    "opcao": "Abaixo de 70,000",
-    "prob": 69.5
+    "opcao": "↓ 70.000",
+    "prob": 80.5
    },
    {
-    "opcao": "Abaixo de 65,000",
-    "prob": 37.5
+    "opcao": "↓ 65.000",
+    "prob": 45.5
    },
    {
-    "opcao": "Abaixo de 60,000",
-    "prob": 22.5
+    "opcao": "↓ 60.000",
+    "prob": 26.0
    },
    {
-    "opcao": "Acima de 90,000",
-    "prob": 15.5
+    "opcao": "↓ 55.000",
+    "prob": 11.5
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 516 mil",
+  "volume24h": "US$ 501 mil",
   "fatos": [
-   "Abaixo de 70,000: 69,5%",
-   "Abaixo de 65,000: 37,5%",
-   "Abaixo de 60,000: 22,5%",
-   "Acima de 90,000: 15,5%"
+   "↓ 70.000: 80,5%",
+   "↓ 65.000: 45,5%",
+   "↓ 60.000: 26,0%",
+   "↓ 55.000: 11,5%"
   ],
   "numeros": [
    {
-    "valor": "69,5%",
-    "rotulo": "Abaixo de 70,000"
+    "valor": "80,5%",
+    "rotulo": "↓ 70.000"
    },
    {
-    "valor": "37,5%",
-    "rotulo": "Abaixo de 65,000"
+    "valor": "45,5%",
+    "rotulo": "↓ 65.000"
    },
    {
-    "valor": "22,5%",
-    "rotulo": "Abaixo de 60,000"
+    "valor": "26,0%",
+    "rotulo": "↓ 60.000"
    },
    {
-    "valor": "15,5%",
-    "rotulo": "Acima de 90,000"
+    "valor": "11,5%",
+    "rotulo": "↓ 55.000"
    }
   ],
-  "destaque": "69,5%",
+  "destaque": "80,5%",
   "gancho": "*Expectativa* de queda no Bitcoin",
   "entenda": "As previsões de preços de criptomoedas refletem a volatilidade do mercado, com base em fatores econômicos e tendências de investimento.",
   "categoria": "Previsões",
@@ -8757,7 +10501,7 @@
   "data": "2026-11-06",
   "status": "atualizada",
   "id": "2026-11-06-p2",
-  "atualizadoEm": "2026-11-10T22:29:05-03:00"
+  "atualizadoEm": "2026-11-12T14:45:15-03:00"
  },
  {
   "titulo": "IPCA deve desacelerar para 0,23% em outubro, segundo ASA",
@@ -13165,1507 +14909,5 @@
   "publicadoEm": "2026-11-05T12:40:43-03:00",
   "data": "2026-11-05",
   "id": "2026-11-05-06"
- },
- {
-  "titulo": "Dólar cai a R$ 5,45 após eleições nos EUA e expectativa pelo Copom",
-  "resumo": "O dólar fechou a R$ 5,45 com queda de 0,64% após vitória democrata nas midterms dos EUA. Ibovespa subiu 1,23%, recuperando os 167 mil pontos antes da decisão do Copom.",
-  "fatos": [
-   "Dólar fechou a R$ 5,4518, com queda de 0,64% em 4 de novembro.",
-   "Ibovespa subiu 1,23%, alcançando 167.563,47 pontos após seis baixas seguidas.",
-   "Democratas conquistaram maioria no Senado e Câmara dos Deputados nos EUA.",
-   "Taxa Selic mantida em 13,75% ao ano pelo Copom após fechamento do mercado.",
-   "Índice DXY do dólar global caiu 0,2%, para 101,520 pontos.",
-   "Petróleo Brent caiu 8,67%, cotado a US$ 94,62 o barril.",
-   "Dólar atingiu máxima intradia de R$ 5,498 por volta das 13h30 antes de recuar.",
-   "Mercado reagiu a dados do Caged com abertura de 121.305 vagas formais em setembro.",
-   "Expectativa do mercado era pela manutenção da Selic com 72,5% de chance.",
-   "Dow Jones subiu 3,03%, S&P 500 avançou 1,59% e Nasdaq 1,48% após eleições."
-  ],
-  "explicacao": [
-   "Na quarta-feira, 4 de novembro, o dólar encerrou o dia em queda de 0,64%, cotado a R$ 5,4518, após três sessões seguidas de alta. A bolsa brasileira, Ibovespa, subiu 1,23%, atingindo 167.563,47 pontos, recuperando-se após seis quedas consecutivas.",
-   "A queda do dólar e a alta da bolsa foram influenciadas pela vitória do Partido Democrata nas eleições de meio de mandato nos Estados Unidos, que conquistou maioria no Senado e na Câmara dos Deputados, reduzindo incertezas sobre mudanças bruscas na política econômica do país.",
-   "Além disso, a redução dos rendimentos dos títulos do Tesouro norte-americano beneficiou moedas emergentes como o real. No entanto, a valorização do real foi limitada pela cautela dos investidores diante das incertezas fiscais brasileiras e a expectativa sobre a decisão do Comitê de Política Monetária (Copom) do Banco Central, que manteve a Selic em 13,75% ao ano naquela noite.",
-   "O resultado das eleições e o cenário local apontam para uma estabilidade momentânea nos juros básicos, mas os investidores seguem atentos a sinais futuros da política econômica brasileira e mundial, que podem impactar mercado cambial, ações e setores sensíveis a juros."
-  ],
-  "detalhes": [
-   "As eleições nos EUA ocorreram em 3 de novembro, definindo o controle do Congresso.",
-   "Democratas mantiveram 54 cadeiras no Senado, maioria requerida era 51.",
-   "Copom divulgou a decisão da taxa Selic após o fechamento do mercado em 4 de novembro.",
-   "Real teve valorização limitada devido a preocupações fiscais no Brasil.",
-   "Queda do dólar global reflete menor percepção de risco pós eleições americanas.",
-   "Ibovespa teve alta influenciada pelas ações de bancos e da Vale, enquanto Petrobras caiu com queda do petróleo.",
-   "O resultado do Caged indicou desaceleração gradual do mercado de trabalho diante dos juros altos."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Francesco Pesole, estrategista cambial da ING",
-    "oque": "Eleições terão impacto neutro ou ligeiramente positivo no dólar, dominância republicana no Senado mantém estabilidade."
-   },
-   {
-    "quem": "Kathleen Brooks, diretora de pesquisa da XTB",
-    "oque": "Investidores passam a negociar a realidade da política pública após eleições, com impacto moderado no mercado."
-   },
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "Disse estar disposto a aceitar resultados e buscar acordos com democratas após votação."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3 de novembro",
-    "oque": "Eleições legislativas nos EUA; democratas conquistam maioria no Congresso."
-   },
-   {
-    "quando": "4 de novembro - sessão de",
-    "oque": "Dólar cai, Ibovespa sobe, mercado aguarda decisão do Copom."
-   },
-   {
-    "quando": "4 de novembro - após fechamento",
-    "oque": "Copom mantém Selic em 13,75% ao ano."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Copom",
-    "significado": "Comitê do Banco Central que decide a taxa básica de juros no Brasil."
-   },
-   {
-    "termo": "Midterms",
-    "significado": "Eleições legislativas nos EUA realizadas no meio do mandato presidencial."
-   },
-   {
-    "termo": "Índice DXY",
-    "significado": "Mede a variação do dólar frente a uma cesta de moedas estrangeiras."
-   }
-  ],
-  "pergunta": "Como você avalia a influência das eleições americanas no dólar e no mercado brasileiro?",
-  "tamanhoTexto": 12654,
-  "numeros": [
-   {
-    "valor": "5,4518",
-    "rotulo": "Cotação do dólar em reais no fechamento"
-   },
-   {
-    "valor": "-0,64%",
-    "rotulo": "Queda percentual do dólar em 4 de novembro"
-   },
-   {
-    "valor": "167.563,47",
-    "rotulo": "Pontos do Ibovespa no fechamento"
-   },
-   {
-    "valor": "+1,23%",
-    "rotulo": "Alta percentual do Ibovespa no dia"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic mantida pelo Copom"
-   },
-   {
-    "valor": "121.305",
-    "rotulo": "Vagas formais abertas em setembro segundo Caged"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 5,45",
-  "porQueImporta": "A valorização do real e a queda do dólar refletem alterações políticas nos EUA e expectativas sobre juros locais, que impactam estratégias de investidores e traders ao avaliarem riscos e oportunidades em câmbio, ações e renda fixa.",
-  "impactoMercado": "O cenário menor de risco político nos EUA e manutenção da Selic indica possível estabilidade para ativos de risco no Brasil, beneficiando a bolsa e moedas emergentes, mas mantém cautela diante da pressão fiscal e inflação local.",
-  "entenda": "O dólar refletiu o resultado das eleições americanas, que influenciam a percepção de risco global. A Selic é a taxa básica de juros, e sua manutenção pelo Copom indica a política monetária do Brasil para controlar inflação e estimular a economia.",
-  "observar": "Fique atento à próxima comunicação do Copom e eventos fiscais no Brasil, que podem alterar expectativas de juros e câmbio. Também acompanhe novas pesquisas sobre dados econômicos e a evolução política internacional pós-eleições.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Entenda o impacto das eleições nos EUA e da decisão do Copom no dólar e na bolsa para operar com mais segurança e conhecer a faculdade de mercado.",
-  "gancho": "*Dólar* e *Copom*: impacto nas *Eleições*",
-  "ideias": [
-   "Eleições nos EUA: efeito no dólar e no Ibovespa",
-   "Copom mantém Selic: o que muda para o investidor?",
-   "Mercado após midterms: dólar cai e bolsa sobe"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Agência Brasil Economia; Money Times; G1 Economia",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T22:48:05-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-r-545-apos-eleicoes-nos-eua-e-antes-do-copom",
-  "publicadoEm": "2026-11-04T20:17:00-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-09"
- },
- {
-  "titulo": "Wall Street salta com ‘onda azul’ no Congresso e Dow Jones dispara",
-  "resumo": "Vitória dos democratas nas eleições dos EUA leva Dow Jones a subir 3,03% e atingir 53.356 pontos, maior alta diária em 18 meses. Mercado reage à aceitação de Trump sobre os resultados, diminuindo risco político.",
-  "fatos": [
-   "Dow Jones subiu 3,03%, aos 53.356,12 pontos.",
-   "S&P 500 teve alta de 1,58%, aos 7.688,62 pontos.",
-   "Nasdaq avançou 1,44%, chegando a 25.736,51 pontos.",
-   "Democratas conquistaram maioria na Câmara e no Senado dos EUA.",
-   "Trump aceitou os resultados eleitorais, minimizando incertezas.",
-   "Preços do petróleo Brent caíram 8,66%, para US$ 94,62 o barril.",
-   "Setor privado dos EUA criou 86 mil vagas de trabalho em outubro.",
-   "Ibovespa subiu 1,23%, aos 167.563 pontos, acompanhando Wall Street.",
-   "Dólar fechou em queda de 0,65%, cotado a R$ 5,45.",
-   "Expectativa de manutenção da taxa Selic em 13,75% ao ano pelo Copom."
-  ],
-  "explicacao": [
-   "Os índices de Wall Street tiveram forte valorização após as eleições de meio de mandato nos EUA, em que os democratas conquistaram maioria na Câmara e no Senado. O Dow Jones subiu 3,03%, alcançando 53.356,12 pontos, maior nível desde setembro e melhor desempenho diário desde abril de 2025.",
-   "Essa reação se deve à aceitação dos resultados pelo presidente Donald Trump, que eliminou a incerteza política. Anteriormente, o risco de instabilidade política pressionava os mercados, mas o anúncio do respeito ao resultado reduziu essa preocupação.",
-   "Apesar do otimismo geral, o Nasdaq avançou menos, com ganhos de 1,44%, devido à expectativa de que um Congresso democrata será mais rigoroso na fiscalização das empresas de tecnologia, especialmente no setor de inteligência artificial.",
-   "Agora, o mercado acompanha como Trump atuará com um Congresso de maioria democrata, que pode limitar sua agenda doméstica, mas ainda lhe permite liberdade na política externa. A diminuição das tensões políticas e sinais de ajuste fiscal no Brasil também impactam os mercados hoje."
-  ],
-  "detalhes": [
-   "Eleições renovaram 435 cadeiras da Câmara e 35 do Senado nos EUA.",
-   "Democratas ganharam eleições para governador, incluindo no Texas.",
-   "Dow Jones bateu maior alta diária desde abril de 2025.",
-   "Trump sinalizou possível colaboração com democratas para avanços.",
-   "Petróleo recuou mais de 8% após sinais de mudança no conflito com Irã.",
-   "Relatório ADP mostrou criação de 86 mil empregos no setor privado.",
-   "Na Europa, índices fecharam em alta com destaque para bancos e energia limpa."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Analistas do ING",
-    "oque": "Congresso democrata deve restringir agenda doméstica de Trump nos últimos dois anos"
-   },
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "Aceito os resultados eleitorais e posso trabalhar com democratas em muitos temas"
-   },
-   {
-    "quem": "Neil Shearing, economista-chefe da Capital Economics",
-    "oque": "Trump pode focar mais na política externa, área pouco afetada pelo Congresso"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Eleições de meio de mandato nos EUA com vitória democrata"
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Mercados de Wall Street e Europa registram forte alta"
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Trump aceita resultados eleitorais e sinaliza colaboração"
-   },
-   {
-    "quando": "6 de novembro de 2026",
-    "oque": "Divulgação do relatório oficial de empregos dos EUA (payroll)"
-   },
-   {
-    "quando": "8 de novembro de 2026",
-    "oque": "Pronunciamento de Lula com anúncio de ajuste fiscal"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dow Jones",
-    "significado": "Índice com 30 das maiores empresas americanas."
-   },
-   {
-    "termo": "Nasdaq",
-    "significado": "Índice que reúne muitas empresas de tecnologia."
-   },
-   {
-    "termo": "Eleições de meio de mandato",
-    "significado": "Eleições que renovam parte do Congresso dos EUA."
-   }
-  ],
-  "pergunta": "Como você acha que um Congresso democrata impacta as ações de tecnologia?",
-  "tamanhoTexto": 15743,
-  "numeros": [
-   {
-    "valor": "53.356,12",
-    "rotulo": "Pontos do Dow Jones no fechamento"
-   },
-   {
-    "valor": "+3,03%",
-    "rotulo": "Alta do Dow Jones no dia"
-   },
-   {
-    "valor": "7.688,62",
-    "rotulo": "Pontos do S&P 500 no fechamento"
-   },
-   {
-    "valor": "+1,58%",
-    "rotulo": "Alta do S&P 500"
-   },
-   {
-    "valor": "25.736,51",
-    "rotulo": "Pontos do Nasdaq no fechamento"
-   },
-   {
-    "valor": "+1,44%",
-    "rotulo": "Alta do Nasdaq"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "3,03%",
-  "porQueImporta": "A vitória democrata e a aceitação por Trump reduzem o risco político nos EUA, principal economia do mundo. Isso influencia as decisões dos investidores globalmente, traz mais estabilidade e impacta setores sensíveis a regulamentações, juros e política externa, fundamentais para quem opera ou investe.",
-  "impactoMercado": "O movimento reforça a recuperação dos índices americanos e melhora o apetite por risco global. O setor de tecnologia deve enfrentar maior regulação, enquanto o petróleo e ações ligadas à energia respondem à expectativa de desarmamento do conflito com Irã. No Brasil, o Ibovespa acompanha alta e o dólar recua.",
-  "entenda": "Wall Street é o principal conjunto de bolsas dos EUA, onde o Dow Jones reúne 30 gigantes do mercado. As eleições de meio de mandato alteram o Congresso, influenciando políticas econômicas e regulatórias. A aceitação dos resultados reduz a instabilidade, o que normalmente favorece a valorização das ações e melhora o clima nos mercados financeiros.",
-  "observar": "Fique atento ao relatório payroll dos EUA na sexta, decisão do Copom sobre juros no Brasil, e ao pronunciamento de Lula neste domingo, que pode detalhar medidas fiscais para o mercado brasileiro.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Entender o efeito das eleições e da política americana no mercado ajuda o investidor a interpretar movimentos dos índices e ativos, conhecendo melhor a dinâmica global que influencia desde ações até commodities e moedas.",
-  "gancho": "Wall Street e *onda azul* histórica",
-  "ideias": [
-   "O que significa a ‘onda azul’ nos EUA para o mercado?",
-   "Dow Jones dispara: entenda o impacto das eleições americanas",
-   "Como o Congresso democrata pode mudar a regulação das gigantes de tecnologia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Global",
-  "icone": "grafico",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T22:48:05-03:00",
-  "url": "https://www.moneytimes.com.br/wall-street-4-11-26-lils/",
-  "publicadoEm": "2026-11-04T18:08:24-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-10"
- },
- {
-  "titulo": "Brasil registra maior fluxo cambial positivo de 2026 em outubro",
-  "resumo": "Em outubro, o Brasil teve entrada total de US$ 18,151 bilhões, maior fluxo cambial do ano. Dados do Banco Central mostram alta nos canais financeiro e comercial.",
-  "fatos": [
-   "Fluxo cambial total positivo de US$ 18,151 bilhões em outubro de 2026.",
-   "Entrada líquida pelo canal financeiro foi de US$ 8,812 bilhões.",
-   "Saldo positivo pelo canal comercial foi de US$ 9,339 bilhões.",
-   "Dados divulgados pelo Banco Central do Brasil em 4 de novembro.",
-   "Na semana de 26 a 30 de outubro, houve entrada líquida de US$ 9,498 bilhões.",
-   "Período coincide com os dois turnos das eleições presidenciais no país.",
-   "Resultado surpreendeu mercados após vitória de Lula sobre Bolsonaro no segundo turno.",
-   "Entrada cambial é a maior do ano até outubro de 2026."
-  ],
-  "explicacao": [
-   "Em outubro de 2026, o Brasil registrou um fluxo cambial positivo total de US$ 18,151 bilhões, o maior valor mensal do ano, conforme divulgou o Banco Central em 4 de novembro. O período incluiu os dois turnos das eleições presidenciais.",
-   "A forte movimentação cambial veio tanto do canal financeiro, com entrada líquida de US$ 8,812 bilhões, que inclui investimentos estrangeiros diretos, carteira, remessas e juros; quanto do canal comercial, que teve saldo positivo de US$ 9,339 bilhões, contabilizando exportações e importações.",
-   "Esse resultado indica confiança e movimentação significativa no mercado cambial brasileiro em outubro, mesmo após a surpresa dos mercados com o resultado eleitoral, que derrubou ativos domésticos logo após o segundo turno.",
-   "Para os próximos meses, o mercado continuará observando o comportamento do fluxo cambial e seus impactos diante da instabilidade política e econômica, assim como a atuação do Banco Central para conter volatilidades."
-  ],
-  "detalhes": [
-   "Banco Central divulgou dados preliminares sobre câmbio contratado em 4 de novembro.",
-   "Período das eleições contribuiu para maior fluxo cambial do ano.",
-   "Canal financeiro inclui investimentos e operações financeiras diversas.",
-   "Canal comercial refere-se à balança de exportações e importações.",
-   "Semana pós-segundo turno eleitoral teve forte entrada líquida cambial.",
-   "Surpresa no resultado eleitoral derrubou ativos brasileiros no mercado.",
-   "Fluxo positivo indica elevada movimentação de recursos cambiais no país."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "outubro de 2026",
-    "oque": "Brasil registrou maior entrada cambial do ano com US$ 18,151 bilhões"
-   },
-   {
-    "quando": "26 a 30 de outubro de",
-    "oque": "Semana pós-segundo turno teve fluxo líquido de US$ 9,498 bilhões"
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Banco Central divulgou dados preliminares do fluxo cambial"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fluxo Cambial",
-    "significado": "Movimento de dólares entrando e saindo do país via comércio e finanças."
-   },
-   {
-    "termo": "Canal Financeiro",
-    "significado": "Operações financeiras como investimentos, juros e remessas de lucros."
-   },
-   {
-    "termo": "Canal Comercial",
-    "significado": "Transações de exportação e importação de bens e serviços."
-   }
-  ],
-  "pergunta": "Como você acha que o fluxo cambial positivo impacta o mercado financeiro brasileiro?",
-  "tamanhoTexto": 4720,
-  "numeros": [
-   {
-    "valor": "18,151 bilhões",
-    "rotulo": "fluxo cambial total positivo em outubro (US$)"
-   },
-   {
-    "valor": "8,812 bilhões",
-    "rotulo": "entrada líquida pelo canal financeiro (US$)"
-   },
-   {
-    "valor": "9,339 bilhões",
-    "rotulo": "saldo positivo pelo canal comercial (US$)"
-   },
-   {
-    "valor": "9,498 bilhões",
-    "rotulo": "entrada líquida cambial da semana pós-segundo turno (US$)"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 18,151 bilhões",
-  "porQueImporta": "O fluxo de recursos positivo sinaliza vitalidade do mercado cambial mesmo em períodos políticos turbulentos, indicando que investidores e empresas continuam confiantes para movimentar capital no Brasil. Isso é importante para quem investe pois afeta liquidez e volatilidade do dólar e ativos locais.",
-  "impactoMercado": "Entradas cambiais elevadas ajudam a estabilizar o real e podem reduzir pressões inflacionárias decorrentes da moeda forte, beneficiando setores exportadores e o mercado financeiro. Investidores devem acompanhar a influência dessas movimentações em ações, câmbio e juros.",
-  "entenda": "Fluxo cambial é o registro de entradas e saídas de dólares no país, pela balança comercial (exportações e importações) e financeira (investimentos e empréstimos). O saldo indica se há mais dinheiro entrando ou saindo, influenciando a cotação do dólar e a economia.",
-  "observar": "Fique atento aos próximos dados oficiais do Banco Central sobre fluxo cambial e às reuniões que podem influenciar políticas monetárias e câmbio, principalmente em cenário pós-eleitoral e com incertezas econômicas.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra um movimento importante do mercado financeiro real, ideal para quem quer entender como eleições e economia afetam o câmbio e investimentos, incentivando aprendizado para operar com conhecimento na Trader School.",
-  "gancho": "*Fluxo Cambial* atinge recorde em outubro",
-  "ideias": [
-   "Entenda o que é fluxo cambial e sua importância",
-   "Por que outubro teve a maior entrada cambial do ano?",
-   "Impactos do resultado eleitoral no mercado cambial brasileiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T22:48:05-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fluxo-cambial-do-brasil-registra-entrada-de-us-1815-bilhoes-em-outubro-maior-valor-do-ano.shtml",
-  "publicadoEm": "2026-11-04T17:49:00-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-11"
- },
- {
-  "titulo": "Itaú registra lucro sólido no 3T26 e destaca qualidade da carteira",
-  "resumo": "Itaú Unibanco alcançou lucro recorrente de R$ 12,6 bi no 3º tri de 2026, com ROE de 23,6%. A carteira de crédito cresceu 10,2% em 12 meses, e a ação ITUB4 subiu 3,17% no dia.",
-  "fatos": [
-   "Lucro líquido recorrente de R$ 12,6 bilhões no 3T26.",
-   "ROE de 23,6% no período.",
-   "Carteira de crédito cresceu 10,2% em 12 meses.",
-   "Inadimplência acima de 90 dias subiu de 1,9% para 2,0%.",
-   "Margem financeira da tesouraria cresceu mais de 40%.",
-   "Alíquota efetiva de imposto revisada para 28%-29% em 2026.",
-   "Ação ITUB4 subiu 3,17% em 4 de novembro de 2026.",
-   "XP e Genial mantêm recomendação de compra para ITUB4.",
-   "Comparação: ROE Itaú 23,6%; Bradesco 15,6%; Santander 11,9%.",
-   "Carteira ampliada do Itaú atinge R$ 1,54 trilhão."
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, o Itaú Unibanco reportou lucro líquido recorrente de R$ 12,6 bilhões, alta de 2% em relação ao trimestre anterior e entre 6% e 13% em comparação anual, conforme diferentes metodologias dos analistas. O retorno sobre patrimônio líquido (ROE) atingiu 23,6%.",
-   "O desempenho sólido foi impulsionado por crescimento saudável da carteira de crédito, que avançou 10,2% em 12 meses, com destaque para linhas mais seguras como crédito imobiliário, consignado e para pequenas e médias empresas com garantia governamental. A qualidade dos ativos foi mantida, com inadimplência próxima a 2%.",
-   "Além disso, a margem financeira melhorou, principalmente devido à forte performance nas operações de tesouraria, que cresceram mais de 40% no trimestre, e à revisão para baixo da alíquota efetiva de imposto para 28%-29%, ampliando espaço para crescimento dos lucros apesar da pressão em receitas de serviços e seguros.",
-   "O resultado reforçou a percepção do mercado sobre o Itaú como banco mais resiliente para enfrentar ambiente de crédito mais desafiador, recebendo recomendações positivas de casas como XP, Genial, Morgan Stanley e JPMorgan, que destacam sua rentabilidade e geração consistente de capital."
-  ],
-  "detalhes": [
-   "Resultado divulgado em 4 de novembro de 2026.",
-   "Crescimento puxado por crédito imobiliário, consignado e PMEs garantidas pelo governo.",
-   "Indicador de inadimplência entre 15-90 dias caiu de 1,8% para 1,7%.",
-   "Pressão nas receitas de serviços por menor volume no mercado de capitais.",
-   "Segmento de seguros com aumento de sinistros em algumas carteiras.",
-   "Ações do Itaú (ITUB4) fecharam a R$ 39,71 no dia da divulgação.",
-   "Revisão da alíquota de imposto cria potencial para maiores lucros."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Morgan Stanley",
-    "oque": "Destaque para disciplina creditícia e controle de custos, reafirmando recomendação overweight"
-   },
-   {
-    "quem": "JPMorgan",
-    "oque": "Enfatiza estabilidade como diferencial em cenário econômico incerto, mantendo recomendação overweight"
-   },
-   {
-    "quem": "Genial Investimentos",
-    "oque": "Reitera compra, destaca rentabilidade superior e controle de risco"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3T26",
-    "oque": "Itaú reporta lucro recorrente de R$ 12,6 bilhões"
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Resultado divulgado e ação ITUB4 sobe 3,17%"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "ROE",
-    "significado": "Retorno sobre patrimônio líquido: lucro sobre o capital dos acionistas."
-   },
-   {
-    "termo": "Carteira de crédito",
-    "significado": "Total de empréstimos e financiamentos concedidos pelo banco."
-   },
-   {
-    "termo": "Inadimplência",
-    "significado": "Percentual de créditos não pagos no prazo estipulado."
-   }
-  ],
-  "pergunta": "Você considera a qualidade da carteira um fator decisivo para investir em bancos?",
-  "tamanhoTexto": 14323,
-  "numeros": [
-   {
-    "valor": "12,6 bilhões",
-    "rotulo": "Lucro líquido recorrente no 3T26"
-   },
-   {
-    "valor": "23,6%",
-    "rotulo": "Retorno sobre patrimônio líquido (ROE)"
-   },
-   {
-    "valor": "10,2%",
-    "rotulo": "Crescimento da carteira de crédito em 12 meses"
-   },
-   {
-    "valor": "2,0%",
-    "rotulo": "Inadimplência acima de 90 dias"
-   },
-   {
-    "valor": "3,17%",
-    "rotulo": "Alta da ação ITUB4 na bolsa em 4/11/2026"
-   },
-   {
-    "valor": "1,54 trilhão",
-    "rotulo": "Carteira ampliada do Itaú"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "ROE Itaú x Bradesco",
-    "antes": "—",
-    "depois": "23,6% x 15,6%"
-   },
-   {
-    "item": "Inadimplência Itaú x Bradesco",
-    "antes": "—",
-    "depois": "2,0% x 4,6%"
-   }
-  ],
-  "destaque": "R$ 12,6 bilhões",
-  "porQueImporta": "Este resultado mostra que o Itaú mantém sua força e qualidade mesmo em ambientes econômicos difíceis, um fator importante para investidores que buscam instituições financeiras sólidas e rentáveis para compor suas carteiras com menor risco associado.",
-  "impactoMercado": "A manutenção da qualidade da carteira e a forte geração de capital do Itaú reforçam o apelo do banco para investidores, podendo influenciar a preferência por seus papéis sobre concorrentes, especialmente em um cenário de juros elevados e maior cautela no setor bancário.",
-  "entenda": "ROE, ou retorno sobre patrimônio líquido, indica quanto do dinheiro dos acionistas se transforma em lucro. Carteira de crédito é o total dos empréstimos concedidos. Manter inadimplência baixa demonstra saúde financeira e controle de riscos do banco.",
-  "observar": "Fique atento à divulgação dos resultados dos concorrentes Bradesco e Santander nas próximas semanas, além das análises sobre a evolução das receitas de serviços e seguros do Itaú para entender impactos futuros.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Entenda por que resultados consistentes e boa gestão de risco do Itaú refletem força em cenários desafiadores, um conceito chave para quem quer operar ou investir com maior segurança.",
-  "gancho": "*Itaú* lucra R$12,6bi no *3T26*",
-  "ideias": [
-   "Como o Itaú mantém carteira de crédito saudável?",
-   "O que é ROE e por que o Itaú lidera?",
-   "Impactos do resultado do Itaú para investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "InfoMoney; Suno Notícias; Suno Notícias",
-  "impacto": "medio",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T18:29:41-03:00",
-  "url": "https://www.infomoney.com.br/mercados/itau-itub4-entrega-mais-um-trimestre-solido-e-reforca-favoritismo-do-mercado-desempenho-acoes/",
-  "publicadoEm": "2026-11-04T18:17:56-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-05"
- },
- {
-  "titulo": "Tractian vale US$ 1,4 bi e vira maior AI da América Latina",
-  "resumo": "Startup usa sensores e IA para manutenção industrial, mudou sede para EUA e multiplicou receita. Fechou rodada Série D de US$ 130 mi, com avaliação que dobrou em 2 anos.",
-  "fatos": [
-   "Fundada em 2019 por Igor Marinelli, Gabriel Lameirinhas e Leonardo Vieira.",
-   "Fechou rodada Série D de US$ 130 milhões.",
-   "Valuation atual de US$ 1,4 bilhão, o dobro de 2 anos atrás.",
-   "Receita recorrente anualizada (ARR) de quase US$ 100 milhões em maio.",
-   "Base de mais de 2 mil fábricas clientes.",
-   "Mudança da sede do Brasil para Atlanta, Estados Unidos.",
-   "Investidores da rodada incluem Sapphire Ventures, Catalyst, N47, General Catalyst e Y Combinator.",
-   "Pretende lançar em 2024 produto que executa ações em máquinas dos clientes.",
-   "Já atende três grandes data centers americanos e busca expansão nesse nicho.",
-   "Meta de IPO nos EUA e ARR de US$ 500 milhões em 3-5 anos."
-  ],
-  "explicacao": [
-   "A Tractian, startup que combina sensores e inteligência artificial para prevenir falhas em maquinários industriais, mudou sua sede para os Estados Unidos, seu principal mercado atual. Em dois anos, ampliou seu escopo e receita, chegando a quase US$ 100 milhões em receita recorrente anualizada em maio.",
-   "Antes focada só no monitoramento mecânico, a empresa agora atua com 'physical AI', analisando múltiplas dimensões dos equipamentos, incluindo elétrica, operação e visão computacional, conforme explicou o CEO Igor Marinelli.",
-   "Essa evolução levou a rodada Série D de US$ 130 milhões, com valuation pós-investimento de US$ 1,4 bilhão, tornando a Tractian a maior empresa de inteligência artificial da América Latina, superando startups como a Enter.",
-   "Os recursos captados serão usados para desenvolver tecnologias que permitam controlar os maquinários e monitorar robôs industriais, além de expandir a atuação em data centers. A meta é atingir ARR de US$ 500 milhões em até cinco anos e realizar IPO nos EUA."
-  ],
-  "detalhes": [
-   "A Tractian utiliza sensores que coletam dados de vibração, temperatura, pressão, vazão, corrente e tensão dos maquinários industriais.",
-   "O software analisa os dados e sugere soluções de manutenção preventiva, cruzando informações técnicas dos fabricantes.",
-   "A mudança para Atlanta foi estratégica para competir melhor no maior mercado, os EUA.",
-   "Antes, o monitoramento era chamado de 'band-aid preditivo'; agora, ampliaram para análise física completa ('physical AI').",
-   "O investimento será usado em P&D para controle ativo dos equipamentos, além do monitoramento de robôs industriais.",
-   "A rodada Série D contou com participação rara da Y Combinator em estágio avançado.",
-   "O Brasil representa menor foco operacional após a mudança de sede para EUA."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Igor Marinelli, CEO da Tractian",
-    "oque": "Viramos uma empresa de 'physical AI' que analisa múltiplas dimensões dos equipamentos."
-   },
-   {
-    "quem": "Igor Marinelli, CEO da Tractian",
-    "oque": "Decidimos ir para os EUA pois é o maior mercado, mesmo sendo uma decisão que investidores acharam precipitada."
-   },
-   {
-    "quem": "Igor Marinelli, CEO da Tractian",
-    "oque": "Hoje damos orientações para manutenção, mas estamos evoluindo para controlar as máquinas diretamente."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2019",
-    "oque": "Fundação da Tractian por três engenheiros da USP."
-   },
-   {
-    "quando": "2022",
-    "oque": "Última captação da empresa antes da Série D, com valuation menor."
-   },
-   {
-    "quando": "2024",
-    "oque": "Tractian fecha rodada Série D com valuation de US$ 1,4 bilhão."
-   },
-   {
-    "quando": "Próximo ano",
-    "oque": "Previsão para lançamento de produto que executa ações em máquinas."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "ARR",
-    "significado": "Receita Recorrente Anualizada, receita previsível em um ano"
-   },
-   {
-    "termo": "Valuation",
-    "significado": "Avaliação do valor total de uma empresa"
-   },
-   {
-    "termo": "Physical AI",
-    "significado": "Inteligência artificial aplicada a dados físicos e sensoriais"
-   }
-  ],
-  "pergunta": "Você conhecia a Tractian antes e o que acha desse modelo de manutenção preditiva?",
-  "tamanhoTexto": 5074,
-  "numeros": [
-   {
-    "valor": "1,4 bi",
-    "rotulo": "valuation pós-investimento da rodada Série D em dólares"
-   },
-   {
-    "valor": "130 mi",
-    "rotulo": "valor captado na rodada Série D em dólares"
-   },
-   {
-    "valor": "100 mi",
-    "rotulo": "receita recorrente anualizada (ARR) em dólares no mês passado"
-   },
-   {
-    "valor": "2,5x",
-    "rotulo": "multiplicação da receita nos últimos dois anos"
-   },
-   {
-    "valor": "2 mil",
-    "rotulo": "número de fábricas clientes da Tractian"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "valuation da Tractian",
-    "antes": "US$ 700 milhões",
-    "depois": "US$ 1,4 bilhão"
-   },
-   {
-    "item": "posição no mercado de AI na América Latina",
-    "antes": "abaixo da Enter (US$ 1,2 bi)",
-    "depois": "maior empresa, superando Enter"
-   }
-  ],
-  "destaque": "US$ 1,4 bilhão",
-  "porQueImporta": "A Tractian representa um exemplo claro de como startups brasileiras podem crescer e se posicionar globalmente, especialmente entrando em mercados estratégicos como os EUA. Investidores do setor de AI e industrial devem acompanhar essas transformações, pois tecnologias de manutenção preditiva impactam custos operacionais e inovação.",
-  "impactoMercado": "Com o foco em data centers, robótica e expansão nos EUA, a Tractian pode influenciar setores tecnológicos e industriais que demandam eficiência em manutenção. O crescimento no ARR e a valorização indicam maior interesse em soluções de physical AI, que deve atrair mais investimentos no mercado latino-americano.",
-  "entenda": "Physical AI é o uso de inteligência artificial para analisar sensores físicos em equipamentos, abrangendo mecânica, elétrica e operação. Isso permite prever problemas antes que falhem, ajudando indústrias a manter máquinas com menos paradas não planejadas e custos menores.",
-  "observar": "Fique de olho no lançamento do produto em 2024 que permitirá controle automático dos maquinários e o possível IPO da Tractian nos EUA nos próximos anos, além da performance no mercado de data centers.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "Conteúdo explica como a Tractian usa IA e sensores para transformar manutenção industrial, mostrando oportunidades e inovações no mercado global para quem quer entender tecnologia e investimentos.",
-  "gancho": "*Tractian* cresce muito em *AI*",
-  "ideias": [
-   "Como a Tractian virou unicórnio com IA e sensores",
-   "Entenda o que é physical AI e seu impacto industrial",
-   "O que a expansão da Tractian nos EUA significa para investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Brazil Journal",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T18:29:41-03:00",
-  "url": "https://braziljournal.com/tractian-vale-us-1-4-bi-e-vira-a-maior-empresa-de-ai-da-america-latina",
-  "publicadoEm": "2026-11-04T15:55:00-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-06"
- },
- {
-  "titulo": "Lula fará pronunciamento para reduzir dívida pública e juros no Brasil",
-  "resumo": "Lula discursará para sinalizar compromisso com a contenção da dívida pública e juros, mas sem medidas concretas no momento.",
-  "fatos": [
-   "Lula venceu as eleições em 25 de outubro de 2026 por 4,43 milhões de votos a mais que Flávio Bolsonaro.",
-   "Ibovespa caiu 19,29% entre 23 de outubro e 3 de novembro de 2026.",
-   "Dívida bruta do governo passou de 71,38% do PIB em janeiro de 2023 para 82,9% em setembro de 2026.",
-   "Dívida atual do governo é cerca de R$ 11,1 trilhões.",
-   "Pronunciamento de Lula acontecerá em cadeia nacional neste fim de semana."
-  ],
-  "explicacao": [
-   "O presidente Luiz Inácio Lula da Silva vai fazer um pronunciamento em cadeia nacional neste fim de semana para garantir que seu governo atuará na redução da dívida pública e dos juros no Brasil, buscando tranquilizar o mercado e a sociedade.",
-   "Apesar da sinalização, o texto do discurso, ainda em análise, não traz novas medidas concretas para cortar a dívida, conforme fontes próximas à presidência informaram à Exame.",
-   "Desde a vitória apertada no segundo turno em 25 de outubro, agentes de mercado expressaram preocupação com os riscos fiscais, refletidos na queda de 19,29% do Ibovespa após as eleições, com receio do aumento descontrolado da dívida pública.",
-   "Na fala, Lula também pretende reafirmar o compromisso com metas fiscais e com promessas de campanha, como tarifa zero no transporte público aos fins de semana, aumento real do salário mínimo e expansão do programa Pé-de-Meia para universitários."
-  ],
-  "detalhes": [
-   "Pronunciamento tem objetivo de acalmar o mercado e reforçar compromisso fiscal.",
-   "Texto do discurso ainda está em avaliação pelo presidente Lula.",
-   "Mercado preocupa-se com o aumento do endividamento público.",
-   "Ibovespa tem queda relacionada ao risco fiscal do quarto mandato de Lula.",
-   "Promessas de campanha reafirmadas incluem tarifa zero e aumento real do salário mínimo.",
-   "Dívida pública aumentou 11,52 pontos percentuais no mandato atual.",
-   "Programa Pé-de-Meia será ampliado para estudantes universitários."
-  ],
-  "declaracoes": [
-   {
-    "quem": "fontes familiarizadas com o assunto",
-    "oque": "Discurso não contém medidas concretas para reduzir a dívida pública."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "25 de outubro de 2026",
-    "oque": "Lula vence eleição presidencial no segundo turno."
-   },
-   {
-    "quando": "23 de outubro a 3 de",
-    "oque": "Ibovespa cai 19,29% após eleições."
-   },
-   {
-    "quando": "fim de semana após 4 de",
-    "oque": "Pronunciamento em cadeia nacional de Lula."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dívida Pública Bruta",
-    "significado": "Total das dívidas do governo em relação ao PIB."
-   },
-   {
-    "termo": "Ibovespa",
-    "significado": "Principal índice da Bolsa de Valores do Brasil."
-   },
-   {
-    "termo": "Metas fiscais",
-    "significado": "Objetivos para controle das contas públicas."
-   }
-  ],
-  "pergunta": "Você acredita que o pronunciamento de Lula vai acalmar o mercado financeiro?",
-  "tamanhoTexto": 2428,
-  "numeros": [
-   {
-    "valor": "4,43 milhões",
-    "rotulo": "votos de vantagem de Lula sobre Flávio Bolsonaro"
-   },
-   {
-    "valor": "19,29%",
-    "rotulo": "queda do Ibovespa no período pós-eleição"
-   },
-   {
-    "valor": "71,38%",
-    "rotulo": "dívida bruta do governo em % do PIB em janeiro de 2023"
-   },
-   {
-    "valor": "82,9%",
-    "rotulo": "dívida bruta do governo em % do PIB em setembro de 2026"
-   },
-   {
-    "valor": "R$ 11,1 trilhões",
-    "rotulo": "valor aproximado da dívida pública em setembro de 2026"
-   },
-   {
-    "valor": "11,52 pontos percentuais",
-    "rotulo": "aumento da dívida bruta do governo em % do PIB no mandato atual"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Dívida bruta do governo",
-    "antes": "71,38% do PIB em janeiro de 2023",
-    "depois": "82,9% do PIB em setembro de 2026"
-   }
-  ],
-  "destaque": "82,9% dívida bruta",
-  "porQueImporta": "O pronunciamento do presidente Lula é importante para investidores e operadores porque sinaliza o compromisso do governo em controlar a dívida pública e os juros, que impactam diretamente no custo do dinheiro e nos níveis de risco percebidos pelo mercado.",
-  "impactoMercado": "Sem medidas concretas anunciadas, a incerteza fiscal pode continuar influenciando a volatilidade na bolsa e a precificação dos juros futuros, afetando setores sensíveis a crédito e investimentos, além do real e tesouro direto.",
-  "entenda": "A dívida pública é o total que o governo deve e, quando alta em relação ao PIB, pode pressionar juros para conter riscos fiscais. O Ibovespa é o principal índice da bolsa, que caiu devido a preocupações com a saúde fiscal do governo de Lula no novo mandato.",
-  "observar": "Acompanhar o pronunciamento de Lula neste fim de semana e eventuais anúncios posteriores de medidas fiscais e econômicas para reduzir a dívida e controlar os juros.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra como decisões do governo influenciam os rumos da economia e dos investimentos, estimulando o interesse em entender política fiscal e econômica na Trader School.",
-  "gancho": "*Dívida* e *Juros*: discurso de Lula",
-  "ideias": [
-   "Como a dívida pública afeta seu investimento?",
-   "Por que o Ibovespa caiu após eleição de Lula?",
-   "Entenda a relação entre política fiscal e juros"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T18:29:41-03:00",
-  "url": "https://exame.com/brasil/lula-fara-pronunciamento-para-dizer-que-vai-atuar-para-reduzir-divida-publica-e-juros-no-brasil/",
-  "publicadoEm": "2026-11-04T14:06:55-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-07"
- },
- {
-  "titulo": "Copom anuncia decisão sobre taxa Selic com mercado atento a eleição nos EUA",
-  "resumo": "Copom finaliza reunião e deve manter Selic em 13,75% nesta quarta-feira. Eleições nos EUA mudam controle do Congresso, impactando cenários econômicos.",
-  "fatos": [
-   "Reunião do Copom termina em 4 de novembro.",
-   "Taxa Selic atual está em 13,75% ao ano.",
-   "Houve cinco cortes consecutivos de 0,25 ponto percentual na Selic antes desta reunião.",
-   "Expectativa do mercado é de manutenção da Selic em 13,75%.",
-   "Democratas tomaram controle da Câmara e Senado nos EUA.",
-   "Ibovespa caiu 1,42% no último pregão, alcançando 165.528,92 pontos.",
-   "Dólar valorizou-se a R$ 5,48.",
-   "Queda das ações da Petrobras contribuiu para baixa do Ibovespa.",
-   "Mudança no Congresso dos EUA pode dificultar agenda econômica do governo Trump.",
-   "Expectativas para inflação e juros no Brasil estão em alta."
-  ],
-  "explicacao": [
-   "Nesta quarta-feira (4), o Comitê de Política Monetária (Copom) do Banco Central encerra reunião de dois dias com expectativa predominante de manter a taxa Selic em 13,75% ao ano, após cinco cortes consecutivos de 0,25 ponto percentual.",
-   "A decisão ocorre em um contexto de cenário local alterado pelas recentes eleições brasileiras, valorização do dólar e alta nas expectativas para inflação e juros, aumentando a atenção sobre o comunicado do Copom quanto aos próximos passos da política monetária.",
-   "No âmbito internacional, os mercados focam nas eleições de meio de mandato dos Estados Unidos, em que os democratas conquistaram o controle da Câmara e do Senado, o que deve dificultar a aprovação da agenda econômica do governo Trump nos próximos dois anos.",
-   "O Ibovespa iniciou novembro em baixa, caindo 1,42% e puxado principalmente pelas ações da Petrobras, alinhado ao recuo do petróleo, enquanto o dólar atingiu R$ 5,48, refletindo os impactos do cenário político-econômico nacional e global."
-  ],
-  "detalhes": [
-   "Copom reúne-se normalmente em ciclos de dois dias para decidir política monetária.",
-   "Taxa Selic impacta diretamente o custo do crédito e investimentos no Brasil.",
-   "Eleições brasileiras influenciaram perspectiva de política monetária e câmbio.",
-   "Efeitos da valorização do dólar pressionam a inflação, afetando decisões do Copom.",
-   "Controle do Congresso dos EUA mudou para os democratas após eleição de meio de mandato.",
-   "Ibovespa é o principal índice da bolsa brasileira e reflete o desempenho das ações mais negociadas.",
-   "Petrobras é uma das maiores empresas listadas na B3 e fortemente afetada pelo preço do petróleo."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "3 de novembro",
-    "oque": "Ibovespa recua 1,42% e dólar chega a R$ 5,48"
-   },
-   {
-    "quando": "4 de novembro",
-    "oque": "Copom deve anunciar decisão sobre Selic após fechamento do mercado"
-   },
-   {
-    "quando": "4 de novembro",
-    "oque": "Resultados das eleições de meio de mandato dos EUA confirmados"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Copom",
-    "significado": "Comitê que define a taxa básica de juros do Brasil"
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira"
-   },
-   {
-    "termo": "Ibovespa",
-    "significado": "Índice das ações mais negociadas na Bolsa brasileira"
-   }
-  ],
-  "pergunta": "Como você acha que a decisão do Copom vai influenciar seus investimentos?",
-  "tamanhoTexto": 2674,
-  "numeros": [
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa Selic atual"
-   },
-   {
-    "valor": "0,25 ponto percentual",
-    "rotulo": "valor dos cortes consecutivos anteriores na Selic"
-   },
-   {
-    "valor": "1,42%",
-    "rotulo": "queda do Ibovespa no último pregão"
-   },
-   {
-    "valor": "165.528,92",
-    "rotulo": "pontuação do Ibovespa após queda"
-   },
-   {
-    "valor": "R$ 5,48",
-    "rotulo": "cotação do dólar"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Selic em 13,75%",
-  "porQueImporta": "A decisão do Copom sobre a taxa Selic influencia diretamente o custo do crédito, rendimentos de investimentos e a inflação. Aliada às recentes eleições no Brasil e nos Estados Unidos, essa conjuntura define o ritmo da economia e o comportamento dos ativos financeiros, fundamentais para quem investe ou opera.",
-  "impactoMercado": "Manter a Selic em 13,75% pode afetar setores sensíveis a juros, como crédito e consumo. A alteração no Congresso dos EUA pode criar incertezas para empresas com exposição internacional. O dólar em alta pressiona a inflação e o mercado acionário, com impactos em papéis como Petrobras e bancos.",
-  "entenda": "O Copom é o comitê do Banco Central responsável por definir a taxa Selic, que é o principal instrumento para controlar a inflação e influenciar a economia. Decisões sobre essa taxa afetam juros de empréstimos, investimentos e a moeda. As eleições americanas alteram o poder político, que pode impactar políticas econômicas globais.",
-  "observar": "Fique atento à divulgação do comunicado do Copom e à repercussão das eleições nos EUA durante o dia, que podem alterar expectativas futuras sobre inflação, juros e câmbio.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Explicar as decisões do Copom e os resultados políticos internacionais ajuda a entender como eventos políticos impactam juros, inflação e mercados, mostrando a importância de formar conhecimento sólido no mercado financeiro.",
-  "gancho": "*Copom* e *Eleições EUA*: Impactos",
-  "ideias": [
-   "Como a Selic afeta seus investimentos?",
-   "Entenda o impacto das eleições dos EUA no mercado",
-   "Ibovespa cai e dólar sobe: o que isso significa?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Bora Investir (B3)",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T18:29:41-03:00",
-  "url": "https://borainvestir.b3.com.br/noticias/mercado/mercados-hoje-decisao-de-juros-no-brasil-e-resultado-eleitoral-nos-eua-sao-os-destaques/",
-  "publicadoEm": "2026-11-04T09:29:54-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-08"
- },
- {
-  "tipo": "sinal",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "titulo": "Mercado de previsões vê 84.5% de chance de aumento de 25 bps pelo Fed em dezembro",
-  "resumo": "Chance alta de que o Fed aumente os juros em dezembro, de acordo com apostas do mercado.",
-  "probs": [
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 84.5
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 10.5
-   },
-   {
-    "opcao": "Sem alteração",
-    "prob": 3.8
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.4
-   }
-  ],
-  "prazo": "2026-12-10",
-  "volume24h": "US$ 6,2 mi",
-  "fatos": [
-   "Aumento de 25 bps: 84,5%",
-   "Aumento de 50+ bps: 10,5%",
-   "Sem alteração: 3,8%",
-   "Redução de 25 bps: 0,4%"
-  ],
-  "numeros": [
-   {
-    "valor": "84,5%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "10,5%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "3,8%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "destaque": "84,5%",
-  "gancho": "*Expectativa* alta de aumento de juros",
-  "entenda": "O Fed define as taxas de juros que influenciam a economia. Aumento pode indicar luta contra a inflação.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-  "publicadoEm": "2026-11-04T18:29:41-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-04T18:29:41-03:00",
-  "data": "2026-11-04",
-  "status": "atualizada",
-  "id": "2026-11-04-p1",
-  "atualizadoEm": "2026-11-10T14:18:46-03:00"
- },
- {
-  "titulo": "Dólar cai e Ibovespa sobe após vitória democrata no Congresso dos EUA",
-  "resumo": "Vitória dos democratas no Congresso dos EUA impacta os mercados, com alta no Ibovespa e queda no dólar. Expectativa pelo Copom é de manutenção da Selic em 13,75%.",
-  "fatos": [
-   "Democratas conquistaram a maioria nas duas casas do Congresso dos EUA nas eleições de meio de mandato.",
-   "Dow Jones subiu 3,03%, S&P 500 1,59% e Nasdaq 1,48% após as eleições.",
-   "Ibovespa teve alta de 1,23%, fechando aos 167.563 pontos, em reação à vitória democrata.",
-   "Dólar fechou em queda de 0,64%, cotado a R$ 5,4518, após uma leve baixa recente.",
-   "Os investidores aguardam a decisão do Copom, que deve manter a Selic em 13,75%.",
-   "Morgan Stanley mantém recomendação de compra para o Banco Bradesco, apesar da queda significativa nas ações."
-  ],
-  "explicacao": [
-   "Os índices de Wall Street abriram em forte alta nesta quarta-feira, com o Dow Jones subindo 2,25%, após a vitória do Partido Democrata nas eleições de meio de mandato dos EUA. Os democratas conquistaram a maioria na Câmara e no Senado, além de importantes governos estaduais, como no Texas.",
-   "Essa vitória indica um crescimento econômico mais forte nos Estados Unidos, com a expectativa de PIB anualizado acima de 4%, segundo avaliação de uma empresa citada. O clima político mais estável e menos imprevisível reduz o risco externo e melhora o apetite global por ativos de risco, incluindo ações brasileiras.",
-   "No Brasil, o Ibovespa reagiu positivamente e subiu 1%, enquanto os juros futuros tiveram queda acentuada, refletindo que o mercado espera que o Copom interrompa os cortes na taxa Selic, mantendo-a em 13,75% ao ano. O dólar cedeu diante desse ambiente de alívio externo e aguardando a decisão do Banco Central.",
-   "O foco dos investidores permanece voltado para a decisão do Copom, marcada para essa quarta-feira, e para os dados locais, como o Caged e o payroll dos EUA. O cenário político internacional e a estabilidade nas políticas monetárias influenciam diretamente os ativos brasileiros."
-  ],
-  "detalhes": [
-   "Eleições dos EUA renovaram 435 cadeiras da Câmara e 35 do Senado.",
-   "Democratas prometem contrapeso às políticas anteriores de Donald Trump.",
-   "Trump aceitou os resultados e sinalizou disposição para diálogo com democratas.",
-   "Copom brasileiro deve reconhecer piora do cenário econômico e pausar cortes na Selic.",
-   "Ibovespa enfrentou cinco sessões consecutivas de perdas antes de subir no dia 4.",
-   "Dólar atingiu patamar mais alto desde dezembro de 2025 antes de ceder levemente.",
-   "Relatório ADP mostrou superação na criação de empregos em outubro nos EUA."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Economista-chefe da G5 Partners",
-    "oque": "Não há clima para cortar os juros após a eleição dos EUA."
-   },
-   {
-    "quem": "Donald Trump, ex-presidente dos EUA",
-    "oque": "Aceito os resultados e estou disposto a trabalhar com os democratas."
-   },
-   {
-    "quem": "Vice-presidente dos EUA",
-    "oque": "Eleitores furiosos transferiram votos aos democratas, mudando cenário para 2024."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Vitória do Partido Democrata nas eleições de meio de mandato nos EUA."
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Divulgação do relatório ADP com criação de 86 mil vagas no setor privado dos EUA."
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Ibovespa sobe 1% com o mercado aguardando decisão do Copom."
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Dólar cede após recente alta e frente à expectativa do Copom."
-   },
-   {
-    "quando": "6 de novembro de 2026",
-    "oque": "Expectativa para divulgação do payroll, relatório oficial de emprego nos EUA."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira, definida pelo Copom."
-   },
-   {
-    "termo": "Ibovespa",
-    "significado": "Principal índice da Bolsa brasileira, indicador do desempenho das ações."
-   },
-   {
-    "termo": "Midterms",
-    "significado": "Eleições de meio de mandato nos EUA, que renovam parte do Congresso."
-   }
-  ],
-  "pergunta": "Como a vitória democrata impacta sua estratégia de investimento no Brasil?",
-  "tamanhoTexto": 10438,
-  "numeros": [
-   {
-    "valor": "3,03%",
-    "rotulo": "alta do Dow Jones após eleições"
-   },
-   {
-    "valor": "1,23%",
-    "rotulo": "alta do Ibovespa com Copom no radar"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa Selic prevista para ser mantida"
-   },
-   {
-    "valor": "5,4518",
-    "rotulo": "cotação do dólar em reais"
-   },
-   {
-    "valor": "40%",
-    "rotulo": "queda das ações do Bradesco após eleições"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "IBOVESPA",
-    "antes": "165.528,92 pontos",
-    "depois": "subida de 1% no dia 4 nov"
-   }
-  ],
-  "destaque": "Vitória democrata impulsiona",
-  "porQueImporta": "A vitória democrata nos EUA sinaliza menor incerteza política e maior estímulo para a economia americana, aumentando o apetite por risco global. Isso impacta diretamente o mercado brasileiro, favorecendo ações e a expectativa de estabilidade nos juros.",
-  "impactoMercado": "Com o cenário externo mais positivo, os juros futuros brasileiros caem, e o Ibovespa se valoriza, enquanto o dólar recua. Setores expostos à economia global e ações de bancos devem ser monitorados diante da decisão do Copom e dos dados de emprego nos EUA.",
-  "entenda": "Eleições de meio de mandato ('midterms') renovam parte do Congresso dos EUA, influenciando políticas econômicas locais e globais. O Copom é o comitê brasileiro que decide a taxa básica de juros, a Selic, que impacta o custo do crédito e investimentos no Brasil.",
-  "observar": "Acompanhe a decisão do Copom nesta quarta e os dados de emprego do payroll americano na sexta, que devem influenciar mercado e percepções sobre juros.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "A notícia conecta política americana e economia brasileira, mostrando como eventos globais afetam juros, dólar e Bolsa, ensinando a interpretar cenários para começar ou aprimorar operações financeiras.",
-  "gancho": "*Ibovespa*, *Juros*, *Midterms*",
-  "ideias": [
-   "Como as eleições dos EUA mexem com o Ibovespa?",
-   "O que a vitória democrata nos EUA significa para juros e dólar aqui?",
-   "Copom, eleições dos EUA e o que esperar para seu investimento"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "seta",
-  "fonte": "Valor Econômico; Money Times; Money Times; InfoMoney; G1 Economia",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "atualizada",
-  "coletadoEm": "2026-11-04T14:33:38-03:00",
-  "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-  "publicadoEm": "2026-11-04T13:46:16-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-01",
-  "atualizadoEm": "2026-11-04T18:29:41-03:00"
- },
- {
-  "titulo": "Torres com IA transformam segurança perimetral em empresas",
-  "resumo": "Sistemas com inteligência artificial aplicados a torres de vigilância detectam riscos em tempo real. O setor cresceu 16,1% em 2024, movimentando R$ 14 bilhões, segundo a Associação Brasileira das Empresas de Sistemas Eletrônicos de Segurança.",
-  "fatos": [
-   "O setor de sistemas eletrônicos de segurança cresceu 16,1% em 2024 sobre 2023.",
-   "O mercado movimentou em média R$ 14 bilhões em 2024, segundo a Abese.",
-   "A White Segurança usa o software Risk Hunter, baseado em IA, para monitoramento inteligente.",
-   "Torres de vigilância com IA são instaladas em galpões, canteiros, estacionamentos e plantas industriais.",
-   "Alertas gerados pela IA são verificados por uma central humana antes de qualquer ação.",
-   "A tecnologia permite identificar falta de equipamentos de proteção e acessos indevidos.",
-   "O sistema pode acionar sirenes, avisos sonoros e equipes locais após validação.",
-   "A integração com projetos públicos como Smart Sampa e Muralha Paulista permite cruzar imagens e aumentar a segurança.",
-   "Em 2026, o Muralha Paulista contava com 94 mil câmeras em 604 municípios.",
-   "A White Segurança atua desde 1986 com soluções combinando tecnologia e supervisão humana."
-  ],
-  "explicacao": [
-   "Torres de vigilância equipadas com inteligência artificial estão sendo usadas em perímetros de áreas industriais, logísticas e comerciais para identificar comportamentos fora do padrão assim que ocorrem, com uma central humana avaliando os alertas.",
-   "O crescimento desse mercado se deve à necessidade de soluções específicas para cada tipo de operação, como galpões, canteiros, estacionamentos e indústrias, que enfrentam riscos distintos e demandam monitoramento adaptado.",
-   "O software Risk Hunter da White Segurança realiza análises complexas, considerando fatores como localização, horário e tempo de permanência para detectar situações que fogem das regras definidas, mas a decisão final sempre conta com supervisão humana.",
-   "A tecnologia permite substituição parcial das rondas físicas por monitoramento remoto, aumentando a cobertura sem aumentar proporcionalmente o número de vigilantes e integrando sistemas privados a redes públicas para respostas mais rápidas."
-  ],
-  "detalhes": [
-   "As torres monitoram o perímetro de áreas como galpões, estacionamentos e plantas industriais.",
-   "Cada operação tem riscos específicos que a IA configura para identificar comportamentos relevantes.",
-   "A IA analisa fatores múltiplos para detectar anomalias, não apenas identificar objetos isolados.",
-   "Alertas gerados pela IA são avaliados por operadores antes de qualquer intervenção.",
-   "A tecnologia não elimina a necessidade de equipe humana para resposta e avaliação.",
-   "Modelos permitem reduzir rondas físicas, ampliando a cobertura de segurança.",
-   "A integração com câmeras públicas respeita a LGPD e não transfere responsabilidades."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Antonio Coelho, diretor de tecnologia da White Segurança",
-    "oque": "IA funciona como primeira camada; operadores fazem a validação antes da ação."
-   },
-   {
-    "quem": "Antonio Coelho, diretor de tecnologia da White Segurança",
-    "oque": "A tecnologia deve se adaptar às operações, não o contrário."
-   },
-   {
-    "quem": "Antonio Coelho, diretor de tecnologia da White Segurança",
-    "oque": "O alerta pode identificar funcionários sem EPI ou pessoas em áreas restritas."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2024",
-    "oque": "Setor de segurança eletrônico cresceu 16,1% e movimentou R$ 14 bilhões."
-   },
-   {
-    "quando": "início de 2026",
-    "oque": "Muralha Paulista tinha 94 mil câmeras em 604 municípios."
-   },
-   {
-    "quando": "04/11/2026",
-    "oque": "Matéria publicada abordando IA em torres de segurança empresarial."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IA (Inteligência Artificial)",
-    "significado": "Tecnologia que simula inteligência humana para tarefas como análise de dados."
-   },
-   {
-    "termo": "Risco perimetral",
-    "significado": "Vulnerabilidades na área externa que envolvem proteção de um local."
-   },
-   {
-    "termo": "EPI",
-    "significado": "Equipamento de proteção individual usado para segurança de trabalhadores."
-   }
-  ],
-  "pergunta": "Você acredita que a inteligência artificial pode substituir completamente a vigilância humana?",
-  "tamanhoTexto": 7460,
-  "numeros": [
-   {
-    "valor": "14 bilhões",
-    "rotulo": "Faturamento médio do setor de segurança eletrônica em 2024"
-   },
-   {
-    "valor": "16,1%",
-    "rotulo": "Crescimento do setor em 2024 sobre o ano anterior"
-   },
-   {
-    "valor": "50 mil",
-    "rotulo": "Total de câmeras no programa Smart Sampa"
-   },
-   {
-    "valor": "30 mil",
-    "rotulo": "Câmeras integradas de iniciativa privada no Smart Sampa"
-   },
-   {
-    "valor": "94 mil",
-    "rotulo": "Câmeras do Muralha Paulista no início de 2026"
-   },
-   {
-    "valor": "604",
-    "rotulo": "Municípios cobertos pelo Muralha Paulista"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 14 bilhões",
-  "porQueImporta": "A adoção de torres com IA representa uma modernização na segurança empresarial, permitindo identificação automática e rápida de riscos em áreas críticas, o que é vital para proteger ativos e pessoas. Isso reflete a transformação tecnológica e o crescimento do setor, impactando a gestão de riscos das empresas.",
-  "impactoMercado": "Para investidores e operadores, o avanço da IA na segurança pode influenciar a valorização de empresas do setor de tecnologia e segurança, além de melhorar a eficiência operacional das empresas usuárias. Setores como logística e indústria podem reduzir perdas e custos com roubos e acidentes.",
-  "entenda": "Torres de vigilância com IA usam câmeras e software para analisar imagens em tempo real, identificando comportamentos anormais. A tecnologia complementa operadores humanos, que recebem alertas para avaliar e agir, trazendo mais eficiência e segurança para áreas empresariais.",
-  "observar": "Fique atento à expansão das redes públicas e privadas de câmeras, e à evolução das regulamentações sobre privacidade e proteção de dados que impactam o uso dessas tecnologias.",
-  "publico": [
-   "Empresários",
-   "Investidores",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia conecta tecnologia de ponta com segurança empresarial, mostrando como inovação e análise de riscos podem transformar o setor, despertando interesse em entender os fundamentos do mercado tecnológico e da segurança.",
-  "gancho": "*IA* na segurança empresarial",
-  "ideias": [
-   "Como a IA está revolucionando a vigilância empresarial?",
-   "Setor de segurança cresce 16% com torres inteligentes",
-   "Tecnologia e supervisão: o futuro da segurança perimetral"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "cadeado",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T14:33:38-03:00",
-  "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/04/torres-com-ia-mudam-a-seguranca-perimetral-de-empresas-1.ghtml",
-  "publicadoEm": "2026-11-04T14:09:14-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-02"
- },
- {
-  "titulo": "BB Seguridade supera lucro no 3º tri, mas corta projeções para 2026",
-  "resumo": "BB Seguridade registrou lucro líquido de R$ 2,432 bilhões no 3º tri de 2026, acima das previsões, porém revisou para baixo suas projeções de prêmios emitidos, causando cautela entre analistas.",
-  "fatos": [
-   "Lucro líquido gerencial recorrente no 3º tri de 2026 foi R$ 2,432 bilhões.",
-   "Queda de 5,1% no lucro em relação ao 3º tri de 2025.",
-   "Lucro superou expectativa do mercado de R$ 2,2 bilhões.",
-   "Lucro cresceu 13% em relação ao 2º tri de 2026.",
-   "Brasilseg teve queda de 19% nos prêmios emitidos no trimestre.",
-   "Projeção para prêmios da Brasilseg em 2026 revisada para queda de 11% a 15%.",
-   "Contribuição da Brasilseg ao lucro caiu R$ 101,2 milhões no trimestre.",
-   "Resultado financeiro da holding avançou 125,3%, de R$ 49,6 milhões para R$ 111,8 milhões.",
-   "Itaú BBA e Safra recomendam ações BBSE3 com desempenho abaixo da média.",
-   "Dividend yield projetado em torno de 9,5% a 9,8% para 2027."
-  ],
-  "explicacao": [
-   "A BB Seguridade encerrou o terceiro trimestre de 2026 com lucro líquido gerencial recorrente de R$ 2,432 bilhões, uma queda de 5,1% frente ao mesmo período do ano anterior, mas acima dos R$ 2,2 bilhões esperados pelo mercado. A receita subiu 13% em comparação ao trimestre anterior.",
-   "Essa retração no lucro é explicada principalmente pela queda de 19% nos prêmios emitidos pela Brasilseg, além da redução nas receitas da BB Corretora. Esses fatores pressionaram o desempenho da holding, apesar do ganho financeiro ter mais que dobrado, chegando a R$ 111,8 milhões.",
-   "Os analistas destacam que a revisão para baixo das projeções dos prêmios emitidos pela Brasilseg – que agora indica queda entre 11% e 15% para 2026 – e a desaceleração nos segmentos rural, prestamista e de vida elevam os riscos para os resultados futuros da BB Seguridade.",
-   "Para os próximos meses, o desafio da companhia será recuperar o crescimento das operações de seguros. Enquanto isso, os especialistas seguem cautelosos, com recomendações de desempenho abaixo da média para as ações, apesar da atratividade do dividend yield estimado em cerca de 9,5% a 9,8% para 2027."
-  ],
-  "detalhes": [
-   "A BB Seguridade é a holding que controla a Brasilseg, BB Corretora e Brasilprev.",
-   "O destaque negativo foi a Brasilseg, que diminuiu prêmios em segmentos importantes como rural (-24,3%), prestamista (-26,9%) e vida (-8,9%).",
-   "No segmento residencial, houve crescimento de 28,6% nos prêmios emitidos.",
-   "A BB Corretora teve queda de R$ 58,9 milhões na sua contribuição ao lucro devido à menor venda de seguros e capitalização.",
-   "O lucro acumulado nos primeiros nove meses de 2026 da BB Seguridade ficou estável em R$ 6,804 bilhões.",
-   "As casas de análise revisaram suas projeções após o resultado de 3 de novembro de 2026.",
-   "O Itaú BBA fixou preço-alvo para a ação em R$ 32, valor 21,5% abaixo do fechamento recente de R$ 40,79."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Itaú BBA",
-    "oque": "Avalia que a revisão negativa das projeções impacta mais que o resultado positivo do trimestre."
-   },
-   {
-    "quem": "BTG Pactual",
-    "oque": "Resultado trimestral superou expectativas, mas indicadores mostram cenário mais desafiador."
-   },
-   {
-    "quem": "Safra",
-    "oque": "Manutenção de juros altos ajuda receitas, mas riscos operacionais permanecem."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3 de novembro de 2026",
-    "oque": "Divulgação do balanço trimestral da BB Seguridade"
-   },
-   {
-    "quando": "9 primeiros meses de 2026",
-    "oque": "Lucro acumulado da BB Seguridade ficou em R$ 6,804 bilhões, estável"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Prêmio de seguro",
-    "significado": "Valor pago pelo cliente para contratar uma apólice de seguro."
-   },
-   {
-    "termo": "Lucro líquido gerencial recorrente",
-    "significado": "Lucro da empresa, ajustado para refletir sua operação normal e contínua."
-   },
-   {
-    "termo": "Dividend yield",
-    "significado": "Rendimento percentual dos dividendos pagos em relação ao preço da ação."
-   }
-  ],
-  "pergunta": "Você acredita que a BB Seguridade vai recuperar o ritmo de crescimento em seguros?",
-  "tamanhoTexto": 6018,
-  "numeros": [
-   {
-    "valor": "R$ 2,432 bilhões",
-    "rotulo": "Lucro líquido gerencial recorrente no 3º tri de 2026"
-   },
-   {
-    "valor": "5,1%",
-    "rotulo": "Queda do lucro em relação ao 3º tri de 2025"
-   },
-   {
-    "valor": "13%",
-    "rotulo": "Avanço do lucro ante 2º tri de 2026"
-   },
-   {
-    "valor": "19%",
-    "rotulo": "Queda dos prêmios emitidos pela Brasilseg no trimestre"
-   },
-   {
-    "valor": "11% a 15%",
-    "rotulo": "Nova projeção de queda dos prêmios de 2026 pela Brasilseg"
-   },
-   {
-    "valor": "R$ 111,8 milhões",
-    "rotulo": "Resultado financeiro da holding no 3º tri de 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 2,432 bilhões",
-  "porQueImporta": "O desempenho financeiro da BB Seguridade impacta investidores e o mercado de seguros, pois suas projeções revisadas indicam desafios, especialmente na receita de prêmios, que refletem diretamente na rentabilidade da holding e podem afetar o preço e o dividend yield das ações.",
-  "impactoMercado": "A retração nos prêmios de seguros e as projeções mais pessimistas podem reduzir o apetite por ações da BB Seguridade, afetando o setor de seguradoras e investidores focados em dividendos, embora o fortalecimento do resultado financeiro amenize parcialmente essas preocupações.",
-  "entenda": "BB Seguridade é uma holding que atua em seguros, corretagem e previdência, com receita principal dos prêmios que recebe para garantir seguros. Quando essa receita cai, o lucro e a capacidade de pagar dividendos podem ser impactados, influenciando o valor das ações no mercado.",
-  "observar": "Acompanhe os resultados futuros da BB Seguridade, especialmente as próximas divulgações trimestrais e a evolução dos prêmios emitidos, bem como o comportamento dos juros que podem influenciar o resultado financeiro da holding.",
-  "publico": [
-   "Investidores",
-   "Iniciantes",
-   "Day traders",
-   "Empresários",
-   "Aposentados",
-   "CLT"
-  ],
-  "angulo": "Explorar o resultado da BB Seguridade como estudo de caso para entender como balanços e projeções influenciam decisões no mercado financeiro e a importância da análise detalhada para quem quer operar ou investir.",
-  "gancho": "*BB Seguridade* lucra, mas preocupa",
-  "ideias": [
-   "O que impactou o lucro da BB Seguridade em 2026?",
-   "Por que a projeção de prêmios da Brasilseg foi cortada?",
-   "Como interpretar recomendações de ações e dividendos da BB Seguridade?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Suno Notícias",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T14:33:38-03:00",
-  "url": "https://www.suno.com.br/noticias/bb-seguridade-bbse3-balanco-3t26/",
-  "publicadoEm": "2026-11-04T14:30:18-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-03"
- },
- {
-  "titulo": "Morre aos 48 anos Janaína Barbosa, ex-apresentadora do TV Fama",
-  "resumo": "Janaína Barbosa, que apresentou o TV Fama da RedeTV! entre 2001 e 2002, faleceu aos 48 anos. A causa da morte não foi divulgada, e a notícia foi confirmada por Otávio Mesquita.",
-  "fatos": [
-   "Janaína Barbosa morreu no dia 3 de maio aos 48 anos.",
-   "Ela comandou o TV Fama na RedeTV! entre 2001 e 2002.",
-   "Apresentava o programa ao lado de Nelson Rubens.",
-   "Atuou na minissérie Casos e Acasos da Globo em 2008.",
-   "Otávio Mesquita, apresentador e ex-marido, confirmou a morte.",
-   "A causa do falecimento não foi divulgada até o momento.",
-   "Marina Mantega prestou homenagem nas redes sociais.",
-   "Janaína construiu parte da sua carreira nos anos 2000."
-  ],
-  "explicacao": [
-   "A atriz e ex-apresentadora Janaína Barbosa morreu na terça-feira, dia 3 de maio, aos 48 anos. Ela ganhou destaque nos anos 2000 comandando o programa TV Fama, da RedeTV!, ao lado de Nelson Rubens, e também atuou na minissérie Casos e Acasos, da Globo.",
-   "O falecimento foi anunciado por Otávio Mesquita, apresentador e ex-marido da atriz, que confirmou a notícia ao jornalista Léo Dias. No entanto, ainda não há informações oficiais sobre as causas da morte de Janaína.",
-   "A carreira dela inclui ainda trabalhos na televisão brasileira, com destaque para o entretenimento e participações em séries. Amigos e colegas, como Marina Mantega, lamentaram a perda e prestaram homenagens nas redes sociais.",
-   "Agora, o público e o mercado de entretenimento aguardam mais detalhes sobre a causa da morte. Enquanto isso, a trajetória de Janaína é relembrada pela importância no formato de programas de entretenimento da época."
-  ],
-  "detalhes": [
-   "Janaína Barbosa era atriz e apresentadora.",
-   "Apresentava TV Fama na RedeTV! ao lado de Nelson Rubens de 2001 a 2002.",
-   "Confirmada a morte por Otávio Mesquita, ex-marido da atriz.",
-   "Participou da minissérie Casos e Acasos na Globo em 2008.",
-   "Notícia foi divulgada em 3 de maio de 2022.",
-   "Não há informações sobre as causas da morte até agora.",
-   "Colegas e amigos, como Marina Mantega, lamentaram a perda."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Otávio Mesquita, apresentador e ex-marido de Janaína Barbosa",
-    "oque": "Confirmou o falecimento de Janaína Barbosa ao jornalista Léo Dias."
-   },
-   {
-    "quem": "Marina Mantega, apresentadora",
-    "oque": "Expressou profunda tristeza e homenageou Janaína nas redes sociais."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2001-2002",
-    "oque": "Janaína apresentou o programa TV Fama na RedeTV!"
-   },
-   {
-    "quando": "2008",
-    "oque": "Participou na minissérie Casos e Acasos da Globo."
-   },
-   {
-    "quando": "3 de maio de 2022",
-    "oque": "Faleceu Janaína Barbosa aos 48 anos."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "TV Fama",
-    "significado": "Programa de entretenimento focado em notícias de celebridades da RedeTV!"
-   },
-   {
-    "termo": "Minissérie",
-    "significado": "Produção televisiva de curta duração com história única."
-   }
-  ],
-  "pergunta": "Você lembra de algum momento marcante com Janaína Barbosa na TV?",
-  "tamanhoTexto": 3188,
-  "numeros": [
-   {
-    "valor": "48",
-    "rotulo": "idade de Janaína Barbosa no falecimento"
-   },
-   {
-    "valor": "2001-2002",
-    "rotulo": "período em que apresentou TV Fama"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "48 anos",
-  "porQueImporta": "Para quem investe e opera, compreender como o mercado de entretenimento e mídia pode reagir a eventos que impactam personalidades populares é importante para entender oscilações em setores de mídia e publicidade relacionados.",
-  "impactoMercado": "A morte de uma figura conhecida como Janaína pode gerar atenção momentânea para ações de emissoras ou conteúdos relacionados, além de movimentar redes sociais e publicidade, afetando índices de audiência e engajamento.",
-  "entenda": "Janaína Barbosa era apresentadora e atriz, funções fundamentais na criação e divulgação de conteúdos que movimentam setores de mídia. O movimento dessas figuras pode refletir na economia do entretenimento e em mercados ligados à publicidade.",
-  "observar": "Acompanhe se surgirem informações oficiais sobre a causa do falecimento e reações da indústria de entretenimento nas próximas semanas.",
-  "publico": [
-   "Iniciantes",
-   "Investidores"
-  ],
-  "angulo": "Notícias sobre personalidades do entretenimento ajudam a entender impactos culturais e econômicos, despertando interesse em entender o mercado de mídia que envolve investimentos.",
-  "gancho": "*Janaína Barbosa*: legado e memória",
-  "ideias": [
-   "Carreira de Janaína Barbosa: TV e atuação",
-   "O impacto de figuras públicas no mercado de mídia",
-   "Como programas de entretenimento influenciam investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Comportamento do investidor",
-  "icone": "globo",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-04T14:33:38-03:00",
-  "url": "https://bpmoney.com.br/noticias/janaina-barbosa-ex-apresentadora-tv-fama-morre-48-anos/",
-  "publicadoEm": "2026-11-04T12:38:32-03:00",
-  "data": "2026-11-04",
-  "id": "2026-11-04-04"
  }
 ]
