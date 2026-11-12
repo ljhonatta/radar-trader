@@ -1,5 +1,578 @@
 [
  {
+  "titulo": "Ibovespa cai 0,43% com incerteza fiscal; dólar sobe a R$ 5,65",
+  "resumo": "Ibovespa fechou a 171.324 pontos, pressionado por dúvidas no pacote fiscal para 2027. Dólar valorizou 1,6%, atingindo R$ 5,65, maior valor desde junho de 2025.",
+  "fatos": [
+   "Ibovespa caiu 0,43%, fechando em 171.324,31 pontos em 12/11.",
+   "Dólar comercial subiu 1,62%, a R$ 5,65, maior desde junho de 2025.",
+   "Pacote fiscal deve gerar impacto fiscal de R$ 50 a R$ 60 bilhões em 2027.",
+   "IPCA de outubro desacelerou, registrando alta de 0,14%, abaixo dos 0,25% previstos.",
+   "IPCA acumulado em 12 meses foi 4,63%, acima da meta do governo.",
+   "Volume financeiro na B3 foi de aproximadamente R$ 28,5 a R$ 31,9 bilhões no pregão.",
+   "Ações da Hapvida subiram 14,04%, Magazine Luiza caiu 8,75% em 12/11.",
+   "Dólar oscilou entre R$ 5,577 e R$ 5,655 durante o pregão.",
+   "Renúncia do CEO Jensen Huang pressionou ações da Nvidia e influenciou Wall Street.",
+   "Dow Jones caiu 0,36%, S&P 500 0,35%, Nasdaq 0,39% no mesmo dia."
+  ],
+  "explicacao": [
+   "O Ibovespa encerrou o pregão de quinta-feira (12) em queda de 0,43%, aos 171.324,31 pontos. A baixa refletiu preocupações sobre o pacote fiscal anunciado pelo governo para 2027, que apesar de previsto para ajudar, gerou dúvidas sobre a sustentabilidade da dívida pública.",
+   "O governo estima impacto fiscal entre R$ 50 bilhões e R$ 60 bilhões em 2027 com o Projeto de Lei Complementar, sujeito a votação na mesma data. Investidores criticaram que as medidas não alteram as metas de superávit primário, aumentando a cautela do mercado.",
+   "Além disso, o IPCA de outubro mostrou desaceleração, subindo 0,14%, abaixo da projeção de 0,25%, mas acumulando 4,63% em 12 meses, acima da meta oficial. Essa inflação menor pode influenciar expectativas sobre juros e política econômica.",
+   "O dólar comercial valorizou 1,62%, fechando a R$ 5,65, refletindo maior aversão ao risco no Brasil e fortalecimento da moeda americana no exterior. No cenário global, tensionamentos geopolíticos e a renúncia do CEO da Nvidia também afetaram os mercados."
+  ],
+  "detalhes": [
+   "O pacote fiscal do governo federal para 2027 prevê impacto fiscal entre R$ 50 bi e R$ 60 bi, segundo o ministro Bruno Moretti.",
+   "Mesmo com o pacote, as metas de superávit primário permanecem inalteradas, gerando insatisfação do mercado.",
+   "O IPCA de outubro cresceu 0,14%, índice menor que o esperado, mas o acumulado anual está acima da meta de 4,25%.",
+   "Dólar atingiu o maior valor desde junho de 2025, influência da instabilidade política e econômica interna e externa.",
+   "O volume financeiro na B3 variou entre R$ 28,5 bilhões e R$ 31,9 bilhões conforme diferentes fontes da matéria.",
+   "No exterior, tensões entre EUA e Irã elevaram o preço do petróleo, e a saída do CEO da Nvidia causou queda nas ações da empresa.",
+   "O Ibovespa oscilou entre 169.942,37 pontos (mínima) e 172.060,46 pontos (máxima) ao longo do dia."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento",
+    "oque": "Estimou impacto fiscal do pacote de R$ 50 a R$ 60 bilhões para 2027."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Ibovespa fechou em queda de 0,43%, dólar a R$ 5,65."
+   },
+   {
+    "quando": "quarta-feira, 11 de novembro de 2026",
+    "oque": "Governo apresentou pacote fiscal para 2027."
+   },
+   {
+    "quando": "outubro de 2026",
+    "oque": "IPCA registrou alta de 0,14%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que reflete a movimentação das ações principais da Bolsa brasileira."
+   },
+   {
+    "termo": "IPCA",
+    "significado": "Índice oficial que mede a inflação no Brasil."
+   },
+   {
+    "termo": "Pacote fiscal",
+    "significado": "Conjunto de medidas do governo para controlar gastos e dívida pública."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto do pacote fiscal sobre seus investimentos?",
+  "tamanhoTexto": 12094,
+  "numeros": [
+   {
+    "valor": "171.324,31",
+    "rotulo": "Ibovespa em pontos no fechamento de 12/11"
+   },
+   {
+    "valor": "-0,43%",
+    "rotulo": "queda percentual do Ibovespa em 12/11"
+   },
+   {
+    "valor": "R$ 5,65",
+    "rotulo": "cotação do dólar comercial no fechamento de 12/11"
+   },
+   {
+    "valor": "1,62%",
+    "rotulo": "alta percentual do dólar em 12/11"
+   },
+   {
+    "valor": "0,14%",
+    "rotulo": "IPCA de outubro de 2026"
+   },
+   {
+    "valor": "4,63%",
+    "rotulo": "IPCA acumulado em 12 meses"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Ibovespa cai 0,43%,",
+  "porQueImporta": "Essa movimentação mostra como as incertezas fiscais afetam o apetite dos investidores, aumentando a volatilidade do Ibovespa e o dólar. Quem opera ou investe precisa acompanhar medidas do governo e indicadores como o IPCA para entender o cenário econômico e ajustar posições com cautela.",
+  "impactoMercado": "A incerteza fiscal pressiona ações locais, principalmente instituições financeiras, e beneficia o dólar, que sobe em busca de segurança. Juros e inflação favorecem produtos de renda fixa, enquanto o câmbio impacta importações e exportações. Setores ligados ao consumo sofrem com maior volatilidade.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, que mede o desempenho de ações negociadas. O IPCA é o índice oficial de inflação, que influencia juros e políticas do governo. Pacotes fiscais são planos para controlar gastos públicos, fundamental para a confiança do mercado e estabilidade econômica.",
+  "observar": "Fique atento à votação do projeto fiscal no Congresso, dados futuros de inflação e decisões do Copom sobre a taxa Selic, pois podem influenciar diretamente a Bolsa e o dólar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "Explique ao público como as incertezas fiscais e indicadores econômicos impactam a Bolsa e o câmbio, despertando interesse em estudar estratégias mais sólidas para operar com segurança no mercado.",
+  "gancho": "*Ibovespa*, dólar e *fiscal* hoje",
+  "ideias": [
+   "Entenda a queda do Ibovespa e alta do dólar em 12/11",
+   "O que o pacote fiscal significa para seus investimentos?",
+   "Como a inflação menor e o câmbio afetam o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Bora Investir (B3); BP Money; BP Money",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T18:55:11-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-043-pressionado-por-incerteza-fiscal-dolar-sobe-a-r-565/",
+  "publicadoEm": "2026-11-12T18:49:22-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-16"
+ },
+ {
+  "titulo": "Ações da Nvidia caem mais de 5% após saída do CEO Jensen Huang",
+  "resumo": "Nasdaq recua 0,5% com desvalorização das ações da Nvidia após saída de Jensen Huang. AMD e Broadcom sobem cerca de 5% buscando alternativas no mercado de chips de IA.",
+  "fatos": [
+   "Nasdaq caiu 0,5% em 12 de novembro de 2026.",
+   "Ações da Nvidia recuaram mais de 5%, chegando a 4,34% de queda no fechamento.",
+   "No pior momento, Nvidia caiu mais de 13% durante o pregão.",
+   "Jensen Huang renunciou ao cargo de CEO e ao conselho de administração.",
+   "Colette Kress assumiu como CEO interina da Nvidia.",
+   "Investigações do FBI envolvem suposto relacionamento extraconjugal de Huang com suspeita de espionagem chinesa.",
+   "AMD e Broadcom subiram cerca de 5% no mesmo dia.",
+   "Alphabet avançou quase 2% mesmo com forte compra de chips Nvidia.",
+   "Baird e Morgan Stanley reduziram recomendações para ações da Nvidia antes da renúncia.",
+   "Nvidia acumula queda superior a 25% nas últimas semanas."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira (12/11/2026), o índice Nasdaq fechou em queda de 0,5% após a Nvidia anunciar a saída de seu CEO e fundador Jensen Huang. As ações da Nvidia caíram mais de 5%, chegando a recuar até 13% no pior momento do pregão, e fecharam com queda de 4,34%, a US$ 166,19.",
+   "A saída de Huang está ligada a uma investigação do FBI sobre um suposto caso extraconjugal com uma mulher suspeita de espionagem para a China, o que levou a empresa a nomear a diretora financeira Colette Kress como CEO interina enquanto busca um sucessor definitivo.",
+   "Com a desvalorização da Nvidia, investidores direcionaram seus recursos para concorrentes no setor de tecnologia de chips de inteligência artificial, beneficiando ações da AMD e Broadcom, que avançaram aproximadamente 5%, além da Alphabet, que subiu quase 2%.",
+   "O episódio ressalta incertezas sobre o futuro da Nvidia e o impacto da liderança no setor, enquanto o mercado de tecnologia reflete tensões geopolíticas e o avanço da IA. Analistas revisaram recomendações negativas para as ações da empresa, que acumula queda superior a 25% recentemente."
+  ],
+  "detalhes": [
+   "A saída de Jensen Huang foi oficializada em 12 de novembro de 2026.",
+   "Investigação do FBI sobre espionagem ligada ao executivo motivou a saída.",
+   "Colette Kress era diretora financeira antes de assumir como CEO interina.",
+   "Huang é fundador da Nvidia e tem participação de cerca de 3,61% na empresa.",
+   "A desvalorização inicial da ação foi de mais de 10%, mas caiu para cerca de 5% até o fechamento.",
+   "Concorrentes AMD e Broadcom se beneficiaram do movimento de venda das ações da Nvidia.",
+   "Analistas rebaixaram recomendações antes da saída, citando dúvidas sobre investimentos e liderança."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Kalshi (operadores)",
+    "oque": "Especulam sobre Ian Buck substituir Jensen Huang como novo CEO da Nvidia."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Jensen Huang anuncia saída da Nvidia; Colette Kress assume interinamente."
+   },
+   {
+    "quando": "Antes de 12/11/2026",
+    "oque": "Baird e Morgan Stanley rebaixam recomendação das ações da Nvidia."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CEO",
+    "significado": "Chief Executive Officer, principal executivo e líder da empresa"
+   },
+   {
+    "termo": "Intel. artificial",
+    "significado": "Tecnologia que simula e executa tarefas inteligentes"
+   },
+   {
+    "termo": "FBI",
+    "significado": "Polícia federal dos Estados Unidos"
+   }
+  ],
+  "pergunta": "Como você acha que a saída do CEO vai afetar as ações de tecnologia?",
+  "tamanhoTexto": 8579,
+  "numeros": [
+   {
+    "valor": "0,5%",
+    "rotulo": "queda do índice Nasdaq em 12/11/2026"
+   },
+   {
+    "valor": "4,34%",
+    "rotulo": "queda das ações da Nvidia no fechamento"
+   },
+   {
+    "valor": "13%",
+    "rotulo": "maior queda intradiária das ações Nvidia"
+   },
+   {
+    "valor": "5%",
+    "rotulo": "alta das ações da AMD e Broadcom"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "avanço das ações da Alphabet"
+   },
+   {
+    "valor": "3,61%",
+    "rotulo": "participação aproximada de Jensen Huang na Nvidia"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "queda de 5%",
+  "porQueImporta": "A saída do CEO da Nvidia, principal player em chips para inteligência artificial, gera incertezas e impacto significativo nas ações da empresa, afetando também o mercado de tecnologia como um todo, que reflete a importância da liderança em inovação e confiança dos investidores.",
+  "impactoMercado": "Investidores migraram das ações da Nvidia para concorrentes como AMD e Broadcom, alterando dinamicamente o mercado de semicondutores para IA. A instabilidade também influencia o índice Nasdaq e aumenta a atenção sobre riscos geopolíticos em tecnologia.",
+  "entenda": "O Nasdaq é um índice majoritariamente composto por empresas de tecnologia. A queda das ações da Nvidia, provocada pela saída do CEO, mostra como eventos internos da empresa, como liderança e investigações, podem afetar o mercado financeiro e o setor de tecnologia.",
+  "observar": "Acompanhe o anúncio do sucessor definitivo do CEO da Nvidia e os próximos relatórios trimestrais, que mostrarão o impacto da mudança na governança e desempenho.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Entender a relação entre liderança, geopolítica e mercado de tecnologia ajuda quem quer operar com inteligência ou iniciar no mercado financeiro com foco em ações de tecnologia e IA.",
+  "gancho": "*Nvidia* cai após saída do CEO",
+  "ideias": [
+   "O que causa queda das ações da Nvidia?",
+   "Entenda o impacto da saída de Jensen Huang",
+   "Concorrentes da Nvidia e oportunidades no mercado de IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Times Brasil; BP Money; Suno Notícias",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T18:55:11-03:00",
+  "url": "https://timesbrasil.com.br/investimentos/bolsa/nasdaq-fecha-em-queda-apos-desvalorizacao-das-acoes-da-nvidia-e-alta-do-petroleo-em-meio-a-saida-do-ceo/",
+  "publicadoEm": "2026-11-12T18:50:28-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-17"
+ },
+ {
+  "titulo": "Nubank lucra US$ 1,09 bi no 3º tri de 2026 com crescimento de 31%",
+  "resumo": "No 3º trimestre de 2026, Nubank registrou lucro líquido de US$ 1,09 bilhão, alta de 31% em relação a 2025, com ROE de 32%. Receita bruta gerencial cresceu 37%, alcançando US$ 6,26 bilhões, segundo relatório divulgado em 12/11.",
+  "fatos": [
+   "Lucro líquido de US$ 1,09 bilhão no 3º tri de 2026, alta de 31%",
+   "ROE anualizado de 32% no trimestre",
+   "Receita bruta gerencial de US$ 6,26 bilhões, 37% acima de 2025",
+   "Carteira total de crédito de US$ 41,6 bilhões, aumento de 33%",
+   "Depósitos de clientes somaram US$ 47,5 bilhões, crescimento de 19%",
+   "Índice de eficiência caiu para 19,3%, melhorando margem operacional",
+   "Margem financeira ajustada ao risco foi de 12,1%",
+   "Base de clientes no México chegou a 16,6 milhões, 27% do público adulto",
+   "Carteira de crédito na Colômbia cresceu 80% em base cambial neutra",
+   "No Brasil, Nubank tem 120 milhões de clientes, 65% da população adulta"
+  ],
+  "explicacao": [
+   "O Nubank reportou lucro líquido de US$ 1,09 bilhão (R$ 6,16 bilhões) no terceiro trimestre de 2026, um aumento de 31% em base cambial neutra comparado ao mesmo período do ano anterior. O ROE anualizado ficou em 32%, mostrando alta rentabilidade sobre o patrimônio.",
+   "Esse bom desempenho foi impulsionado pela receita bruta gerencial que subiu 37%, para US$ 6,26 bilhões, e pela carteira total de crédito que cresceu 33%, atingindo US$ 41,6 bilhões. O crescimento foi disseminado entre cartões, empréstimos pessoais e linhas com garantia.",
+   "A eficiência operacional melhorou, com o índice de eficiência caindo para 19,3%, ou seja, menor custo em relação à receita. A margem financeira ajustada ao risco atingiu 12,1%, sinalizando equilíbrio entre retorno e risco no crescimento das operações.",
+   "Para os próximos trimestres, o Nubank continuará ampliando sua base de clientes, destacando avanços nos mercados da América Latina, especialmente México e Colômbia, além do Brasil, mantendo reservas de liquidez para sustentar expansão."
+  ],
+  "detalhes": [
+   "Lucro considerado em moeda local e dólar para efeito de comparação",
+   "Indicadores desconsideram provisões para perdas nas carteiras de crédito",
+   "Crescimento desacelerado da margem financeira exige atenção ao risco",
+   "Eficiência representa custo operacional sobre receita líquida",
+   "Números incluem resultados de operações no Brasil, México e Colômbia",
+   "Carteira líquida representa 57% das fontes de financiamento disponíveis",
+   "Os dados apresentados consideram ajustes gerenciais e não apenas normas IFRS"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Nubank, em apresentação de resultados",
+    "oque": "Lucro e receita estão alinhados às expectativas do mercado, demonstrando força operacional"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Nubank divulga resultados financeiros do 3º trimestre de 2026"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "ROE",
+    "significado": "Retorno sobre patrimônio líquido, mede lucratividade"
+   },
+   {
+    "termo": "Carteira de crédito",
+    "significado": "Total de empréstimos concedidos pelo banco"
+   },
+   {
+    "termo": "Índice de eficiência",
+    "significado": "Custo operacional como % da receita líquida"
+   }
+  ],
+  "pergunta": "Você já conhece os indicadores financeiros do Nubank?",
+  "tamanhoTexto": 14398,
+  "numeros": [
+   {
+    "valor": "1,09 bilhão",
+    "rotulo": "Lucro líquido em dólares no 3º trimestre"
+   },
+   {
+    "valor": "31%",
+    "rotulo": "Crescimento do lucro em base cambial neutra"
+   },
+   {
+    "valor": "32%",
+    "rotulo": "Retorno anualizado sobre patrimônio líquido (ROE)"
+   },
+   {
+    "valor": "6,26 bilhões",
+    "rotulo": "Receita bruta gerencial em dólares no período"
+   },
+   {
+    "valor": "41,6 bilhões",
+    "rotulo": "Carteira total de crédito em dólares"
+   },
+   {
+    "valor": "19,3%",
+    "rotulo": "Índice de eficiência operacional"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "US$ 1,06 bilhão",
+    "depois": "US$ 1,09 bilhão"
+   },
+   {
+    "item": "ROE",
+    "antes": "33%",
+    "depois": "32%"
+   },
+   {
+    "item": "Índice de eficiência",
+    "antes": "20,3%",
+    "depois": "19,3%"
+   }
+  ],
+  "destaque": "US$ 1,09 bilhão",
+  "porQueImporta": "O lucro recorde e o alto ROE indicam que o Nubank segue crescendo sem perder rentabilidade, fator importante para investidores e operadores acompanharem a saúde financeira da empresa num cenário competitivo e de incertezas econômicas.",
+  "impactoMercado": "O crescimento da carteira de crédito, eficiência e lucratividade podem elevar o interesse de investidores e influenciar o desempenho das ações e títulos do Nubank, além de afetar setores financeiros e bancos digitais no Brasil e América Latina.",
+  "entenda": "Lucro líquido é a margem final de ganhos após custos e despesas; ROE mede a eficiência em usar capital próprio; carteira de crédito indica volume de empréstimos; índice de eficiência mostra custos comparados à receita, importante para avaliar rentabilidade.",
+  "observar": "Acompanhe os próximos balanços trimestrais e indicadores macroeconômicos que impactam crédito e consumo para entender continuidade do crescimento do Nubank.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Com dados precisos e detalhados, mostramos a evolução financeira do Nubank para quem quer entender os números que movem o mercado e aprender a interpretar resultados da bolsa, sem prometer ganhos.",
+  "gancho": "*Lucro* Nubank supera US$ 1 bi",
+  "ideias": [
+   "Nubank cresce 31% e bate recorde de lucro",
+   "Entenda o que é ROE e por que é alto no Nubank",
+   "Carteira de crédito do Nubank avança 33% no trimestre"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Times Brasil; Money Times; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T18:55:11-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/bancos-fintechs/nubank-lucra-us-109-bilhao-no-3o-trimestre/",
+  "publicadoEm": "2026-11-12T18:47:49-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-18"
+ },
+ {
+  "titulo": "Entidades criticam cortes de benefícios em projeto de ajuste fiscal 2027",
+  "resumo": "PLP 299/2026 dobra corte de incentivos fiscais para 20%, afetando lucro presumido. Firjan, CNI e Fiemg alertam sobre impactos negativos em meio a juros altos e reforma tributária.",
+  "fatos": [
+   "Projeto PLP 299/2026 está em análise no Senado em 12/11/2026",
+   "Corte linear dos incentivos fiscais subirá de 10% para 20%",
+   "Lucro presumido é incluído entre os benefícios com corte prevista",
+   "CNI alerta para perda de R$ 3 em estímulo para cada R$ 1 poupado",
+   "Firjan critica votação rápida e falta de debate público",
+   "Fim da escala 6x1 e aumento tributário somam-se a novos cortes",
+   "FIEMG destaca restrição ao uso de créditos tributários para empresas",
+   "Presidente da CNI: ‘Esforços devem ser proporcionais e responsáveis’",
+   "Firjan e FIEMG defendem cortes de gastos públicos em vez de aumento de tributos"
+  ],
+  "explicacao": [
+   "O Senado analisa o Projeto de Lei Complementar 299/2026 que prevê ajuste fiscal para 2027, dobrando o corte linear dos incentivos fiscais de 10% para 20%, incluindo o lucro presumido, regime simplificado muito usado por pequenas e médias empresas.",
+   "Entidades como Firjan, CNI e Fiemg criticam a medida, alegando que o lucro presumido não é um benefício e que o projeto aumenta tributos sem avaliar os custos e efeitos. Elas ressaltam o momento delicado: juros elevados, mudanças na reforma tributária e fim da escala 6x1.",
+   "Essas organizações defendem que o ajuste fiscal seja equilibrado e que o esforço não recaia só sobre empresas e consumidores, ressaltando riscos à competitividade, aos investimentos e à economia em geral. Apontam limitações do projeto, como mecanismos condicionais e falta de punições para descumprimento.",
+   "Agora, o Congresso ainda pode revisar o texto para garantir ajustes sustentáveis sem ampliar o custo para o setor produtivo, buscando um equilíbrio entre as despesas e receitas do governo para preservar o ambiente de investimentos e empregos."
+  ],
+  "detalhes": [
+   "Entidades criticam incluir lucro presumido como benefício tributário no PLP 299/2026",
+   "Projeto altera Lei de Responsabilidade Fiscal e regras de compensação tributária",
+   "CNI afirma que medidas são autorizativas e dependem de decisões do Executivo",
+   "Firjan alerta que créditos tributários limitados não representam receita, mas impostos pagos a mais",
+   "FIEMG destaca antecipação de recursos pelo governo e postergação dos direitos das empresas",
+   "O aumento cumulativo de custos inclui reforma tributária que eleva imposto do consumo para até 11,3%",
+   "Projeto não estabelece punições efetivas para descumprimento do plano de convergência de despesas"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ricardo Alban, presidente da Confederação Nacional da Indústria (CNI)",
+    "oque": "Apela aos senadores por análise calma e responsabilidade, defendendo equilíbrio no ajuste fiscal"
+   },
+   {
+    "quem": "Federação das Indústrias do Estado do Rio de Janeiro (Firjan)",
+    "oque": "Critica votação acelerada e diz que o lucro presumido não é benefício, mas forma de apuração"
+   },
+   {
+    "quem": "Flávio Roscoe, presidente da Federação das Indústrias do Estado de",
+    "oque": "Afirma que o ajuste deve iniciar pelo controle das despesas públicas, não aumentando custos ao setor produtivo"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "PLP 299/2026 está em análise no Senado federal"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro Presumido",
+    "significado": "Regime simplificado para cálculo de impostos de pequenas e médias empresas"
+   },
+   {
+    "termo": "Incentivos fiscais",
+    "significado": "Benefícios que reduzem a carga tributária para setores ou empresas"
+   },
+   {
+    "termo": "Compensação tributária",
+    "significado": "Uso de créditos fiscais para abater tributos devidos"
+   }
+  ],
+  "pergunta": "Como você acha que o aumento de impostos afetará pequenos e médios negócios?",
+  "tamanhoTexto": 7099,
+  "numeros": [
+   {
+    "valor": "20%",
+    "rotulo": "Corte linear dos incentivos fiscais proposto no PLP 299/2026"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Corte dos incentivos na lei anterior (LC 224/2025)"
+   },
+   {
+    "valor": "R$ 3 para R$ 1",
+    "rotulo": "Perda de estímulo para cada real poupado em despesas segundo CNI"
+   },
+   {
+    "valor": "11,3%",
+    "rotulo": "Tributação federal prevista sobre consumo no regime cumulativo após reforma"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Corte de incentivos fiscais",
+    "antes": "10%",
+    "depois": "20%"
+   }
+  ],
+  "destaque": "20% corte nos",
+  "porQueImporta": "Esse ajuste fiscal pode aumentar a carga tributária sobre pequenas e médias empresas, afetando investimentos e competitividade, especialmente num cenário de juros altos e mudanças tributárias. Entender esse impacto ajuda a avaliar riscos e o ambiente econômico para quem opera ou investe.",
+  "impactoMercado": "O aumento dos tributos previsto pelo PLP 299 pode gerar pressão nos custos das empresas e na atividade econômica, influenciando setores industriais e o mercado de ações. Empresas afetadas podem reduzir investimentos, afetando empregos e o desempenho do mercado em geral.",
+  "entenda": "O PLP 299/2026 é uma proposta de ajuste fiscal que busca reduzir benefícios e incentivos tributários para equilibrar as contas públicas. Cortes no lucro presumido e restrição de créditos tributários aumentam a carga sobre empresas, o que pode reduzir a competitividade no mercado.",
+  "observar": "Acompanhe a tramitação do PLP 299 no Senado e eventuais mudanças no texto, além dos impactos da reforma tributária e do fim da escala 6x1, para entender possíveis efeitos nos custos das empresas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Analisar os cortes e ajustes fiscais ajuda a entender como mudanças na tributação impactam a economia e o ambiente de investimento. Aprender sobre esses temas aprimora o conhecimento para atuar no mercado financeiro e acompanhar a faculdade do Trader School",
+  "gancho": "*Ajuste Fiscal* e *Tributação* Impacto",
+  "ideias": [
+   "O que significa o corte de 20% nos incentivos fiscais?",
+   "Por que o lucro presumido está no foco do ajuste fiscal?",
+   "Consequências para empresas e economia do PLP 299/2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T18:55:11-03:00",
+  "url": "https://www.infomoney.com.br/economia/entidades-industriais-criticam-cortes-de-isencoes-em-projeto-de-ajuste-fiscal/",
+  "publicadoEm": "2026-11-12T18:49:29-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-19"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "titulo": "Fed Decision in December?",
+  "resumo": "Mercado de previsões vê 87,5% de chance de aumento de 25 bps nas taxas de juros pelo Fed em dezembro.",
+  "probs": [
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 87.5
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
+    "prob": 10.2
+   },
+   {
+    "opcao": "Sem mudança",
+    "prob": 1.6
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 0.4
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 3,1 mi",
+  "fatos": [
+   "Aumento de 25 bps: 87,5%",
+   "Aumento de 50+ bps: 10,2%",
+   "Sem mudança: 1,6%",
+   "Redução de 25 bps: 0,4%"
+  ],
+  "numeros": [
+   {
+    "valor": "87,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "10,2%",
+    "rotulo": "Aumento de 50+ bps"
+   },
+   {
+    "valor": "1,6%",
+    "rotulo": "Sem mudança"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "destaque": "87,5%",
+  "gancho": "*Expectativa de altos juros* em dezembro",
+  "entenda": "As decisões do Fed influenciam diretamente o custo do crédito e a economia. As apostas mostram a expectativa do mercado sobre mudanças nas taxas de juros.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+  "publicadoEm": "2026-11-12T18:55:11-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-12T18:55:11-03:00",
+  "data": "2026-11-12",
+  "status": "nova",
+  "id": "2026-11-12-p1"
+ },
+ {
   "titulo": "Dólar sobe a R$ 5,64 com pacote fiscal e inflação de outubro em foco",
   "resumo": "Dólar comercial avançou 1,32% nesta quinta (12), alcançando R$ 5,636, após IPCA de 0,14% e pacote fiscal de até R$ 60 bilhões. O índice anual da inflação ficou em 4,63%, acima do teto da meta.",
   "fatos": [
@@ -6068,53 +6641,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 92.5% de chance de Bitcoin acima de 75.000 em novembro",
-  "resumo": "A grande maioria acredita que o preço do Bitcoin atingirá ou superará 75.000 em novembro de 2026. É um forte sinal de otimismo no criptoativo.",
+  "titulo": "What price will Bitcoin hit in November?",
+  "resumo": "Preços de aposta indicam 85,5% de chance do Bitcoin ultrapassar $72,500 em novembro de 2026.",
   "probs": [
    {
-    "opcao": "Acima de 75.000",
-    "prob": 92.5
+    "opcao": "↑ 72,500",
+    "prob": 85.5
    },
    {
-    "opcao": "Abaixo de 72.500",
-    "prob": 71.5
+    "opcao": "↓ 70,000",
+    "prob": 74.5
    },
    {
-    "opcao": "Acima de 77.500",
-    "prob": 62.5
+    "opcao": "↑ 75,000",
+    "prob": 55.5
    },
    {
-    "opcao": "Abaixo de 70.000",
+    "opcao": "↓ 67,500",
     "prob": 45.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 226 mil",
+  "volume24h": "US$ 557 mil",
   "fatos": [
-   "Acima de 75.000: 92,5%",
-   "Abaixo de 72.500: 71,5%",
-   "Acima de 77.500: 62,5%",
-   "Abaixo de 70.000: 45,5%"
+   "↑ 72,500: 85,5%",
+   "↓ 70,000: 74,5%",
+   "↑ 75,000: 55,5%",
+   "↓ 67,500: 45,5%"
   ],
   "numeros": [
    {
-    "valor": "92,5%",
-    "rotulo": "Acima de 75.000"
+    "valor": "85,5%",
+    "rotulo": "↑ 72,500"
    },
    {
-    "valor": "71,5%",
-    "rotulo": "Abaixo de 72.500"
+    "valor": "74,5%",
+    "rotulo": "↓ 70,000"
    },
    {
-    "valor": "62,5%",
-    "rotulo": "Acima de 77.500"
+    "valor": "55,5%",
+    "rotulo": "↑ 75,000"
    },
    {
     "valor": "45,5%",
-    "rotulo": "Abaixo de 70.000"
+    "rotulo": "↓ 67,500"
    }
   ],
-  "destaque": "92,5%",
+  "destaque": "85,5%",
   "gancho": "*Alta expectativa* para o Bitcoin",
   "entenda": "As flutuações no preço do Bitcoin refletem a demanda e o sentimento do mercado de criptomoedas.",
   "categoria": "Previsões",
@@ -6129,7 +6702,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p4",
-  "atualizadoEm": "2026-11-11T14:28:12-03:00"
+  "atualizadoEm": "2026-11-12T18:55:11-03:00"
  },
  {
   "titulo": "Dólar salta a R$ 5,60 após inflação dos EUA acima do esperado",

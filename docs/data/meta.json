@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-12T14:45:15-03:00",
-  "novas": 15,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-11-12T18:55:11-03:00",
+  "novas": 5,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "15 nova(s) e 2 atualizada(s): Dólar e inflação em alta; BTG cai apesar do lucro recorde; Concursos e Oportunidades 2026.",
+  "mensagem": "5 nova(s) e 1 atualizada(s): Ibovespa, dólar e fiscal hoje; Nvidia cai após saída do CEO; Lucro Nubank supera US$ 1 bi.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-12T18:55:11-03:00",
    "2026-11-12T14:45:15-03:00",
    "2026-11-11T23:30:39-03:00",
    "2026-11-11T19:16:47-03:00",
@@ -18,62 +19,61 @@
    "2026-11-10T00:48:14-03:00",
    "2026-11-09T20:51:12-03:00",
    "2026-11-09T17:09:11-03:00",
-   "2026-11-08T22:12:31-03:00",
-   "2026-11-08T16:57:34-03:00"
+   "2026-11-08T22:12:31-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 19
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "171.033",
-    "var": "-0,60%"
+    "v": "171.324",
+    "var": "-0,43%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,64",
-    "var": "+1,06%"
+    "var": "+1,05%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,23",
-    "var": "+0,62%"
+    "v": "R$ 6,24",
+    "var": "+0,69%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 71,7 mil",
-    "var": "-3,77%"
+    "v": "US$ 71,5 mil",
+    "var": "-3,87%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.634",
-    "var": "+0,19%"
+    "v": "7.592",
+    "var": "-0,35%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "28.425",
-    "var": "+0,18%"
+    "v": "28.289",
+    "var": "-0,30%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 94,47",
-    "var": "+1,84%"
+    "v": "US$ 95,79",
+    "var": "+3,27%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.877,20",
-    "var": "-5,77%"
+    "v": "US$ 3.881,20",
+    "var": "-2,98%"
    },
    {
     "k": "SELIC",
@@ -88,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qui 14h",
+  "obs": "Fechamento",
+  "hora": "qui 18h",
   "data": "2026-11-12",
-  "atualizadoEm": "2026-11-12T14:45:15-03:00",
-  "ibov": "171.033",
-  "ibovVar": "-0,60%",
+  "atualizadoEm": "2026-11-12T18:55:11-03:00",
+  "ibov": "171.324",
+  "ibovVar": "-0,43%",
   "dolar": "R$ 5,64",
-  "dolarVar": "+1,06%",
-  "btc": "US$ 71,7 mil"
+  "dolarVar": "+1,05%",
+  "btc": "US$ 71,5 mil"
  }
 }
