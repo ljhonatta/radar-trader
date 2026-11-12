@@ -1,5 +1,353 @@
 [
  {
+  "titulo": "Log-In Logística reverte lucro e tem prejuízo de R$ 92,3 milhões no 3º tri",
+  "resumo": "Log-In registrou prejuízo de R$ 92,3 milhões no 3º trimestre, contra lucro de R$ 19,2 milhões em 2025. Receita subiu 1,2%, mas custos cresceram 13,2%, puxados por Tecmar e TVV.",
+  "fatos": [
+   "Prejuízo líquido de R$ 92,3 milhões no 3º trimestre de 2026",
+   "Lucro líquido de R$ 19,2 milhões no 3º trimestre de 2025",
+   "Receita líquida de R$ 803,5 milhões, alta de 1,2% na comparação anual",
+   "Custos operacionais cresceram 13,2%, atingindo R$ 702,6 milhões",
+   "Despesas aumentaram 64%, totalizando R$ 79,1 milhões",
+   "Ebitda ajustado caiu 58,5%, chegando a R$ 64,3 milhões",
+   "Resultado financeiro negativo em R$ 56,7 milhões, piora de 32,5%",
+   "Dívida líquida estável em R$ 1,18 bilhão no fim de setembro",
+   "Alavancagem subiu de 1,3 para 1,6 vez entre junho e setembro"
+  ],
+  "explicacao": [
+   "A Log-In Logística teve um prejuízo líquido de R$ 92,3 milhões no terceiro trimestre de 2026. Esse resultado reverte o lucro líquido de R$ 19,2 milhões registrado no mesmo período do ano anterior, apontando uma piora significante no desempenho financeiro da empresa.",
+   "A receita líquida da Log-In cresceu 1,2%, chegando a R$ 803,5 milhões, enquanto os custos operacionais aumentaram 13,2%, para R$ 702,6 milhões. A piora foi atribuição principalmente aos maiores custos da Tecmar, empresa do grupo focada em transporte rodoviário de cargas, e do Terminal Portuário de Vila Velha (TVV).",
+   "Além disso, as despesas da companhia aumentaram 64%, para R$ 79,1 milhões, influenciadas por baixas reconhecidas na Tecmar. O Ebitda ajustado caiu 58,5%, para R$ 64,3 milhões, e o resultado financeiro piorou 32,5%, ficando negativo em R$ 56,7 milhões, devido a uma queda nas receitas financeiras e aumento das despesas.",
+   "A dívida líquida da Log-In ficou praticamente estável, em R$ 1,18 bilhão no fim de setembro, porém a alavancagem subiu de 1,3 para 1,6 vez, mostrando uma pressão maior sobre a capacidade de geração de caixa. O cenário indica desafios para a companhia nos próximos trimestres."
+  ],
+  "detalhes": [
+   "A piora nos custos está relacionada à operação da Tecmar, focada em transporte rodoviário, e do Terminal Portuário de Vila Velha.",
+   "O aumento expressivo das despesas decorre, entre outros motivos, de baixas reconhecidas na Tecmar.",
+   "O resultado financeiro negativo reflete queda de 13,7% nas receitas financeiras e alta de 16% nas despesas financeiras, que chegaram a R$ 69,4 milhões.",
+   "A estabilidade da dívida líquida indica que a Log-In não aumentou significativamente seu endividamento no trimestre.",
+   "O crescimento pequeno da receita líquida não compensou o aumento proporcional muito maior dos custos e despesas.",
+   "A alavancagem, medida pela relação dívida líquida/Ebitda, piorou, mostrando maior dificuldade de geração de caixa em relação ao endividamento.",
+   "O Ebitda ajustado é uma medida que reflete a geração operacional antes de alguns custos e perdas financeiras."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Log-In Logística",
+    "oque": "Explicou que a piora no resultado reflete os custos da Tecmar e do Terminal Portuário de Vila Velha."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Terceiro trimestre de 2026",
+    "oque": "Log-In reporta prejuízo líquido de R$ 92,3 milhões."
+   },
+   {
+    "quando": "Terceiro trimestre de 2025",
+    "oque": "Log-In havia registrado lucro líquido de R$ 19,2 milhões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Prejuízo Líquido",
+    "significado": "Quando as despesas superam as receitas num período."
+   },
+   {
+    "termo": "Ebitda Ajustado",
+    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização."
+   },
+   {
+    "termo": "Dívida Líquida",
+    "significado": "Total da dívida descontando o caixa da empresa."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto do prejuízo da Log-In no setor de logística?",
+  "tamanhoTexto": 13129,
+  "numeros": [
+   {
+    "valor": "R$ 92,3 milhões",
+    "rotulo": "Prejuízo líquido no 3º tri de 2026"
+   },
+   {
+    "valor": "R$ 19,2 milhões",
+    "rotulo": "Lucro líquido no 3º tri de 2025"
+   },
+   {
+    "valor": "R$ 803,5 milhões",
+    "rotulo": "Receita líquida no 3º tri de 2026"
+   },
+   {
+    "valor": "13,2%",
+    "rotulo": "Aumento dos custos ano a ano"
+   },
+   {
+    "valor": "64%",
+    "rotulo": "Aumento das despesas no período"
+   },
+   {
+    "valor": "R$ 64,3 milhões",
+    "rotulo": "Ebitda ajustado no 3º tri de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido",
+    "antes": "R$ 19,2 milhões no 3º tri de 2025",
+    "depois": "Prejuízo de R$ 92,3 milhões no 3º tri de 2026"
+   },
+   {
+    "item": "Ebitda ajustado",
+    "antes": "R$ 154,8 milhões em 2025 (estimado pela queda de 58,5%)",
+    "depois": "R$ 64,3 milhões em 2026"
+   },
+   {
+    "item": "Alavancagem",
+    "antes": "1,3 vez ao final de junho de 2026",
+    "depois": "1,6 vez ao final de setembro de 2026"
+   }
+  ],
+  "destaque": "Prejuízo líquido de",
+  "porQueImporta": "Para investidores, o prejuízo da Log-In indica que custos e despesas estão pressionando significativamente a rentabilidade. A elevação da alavancagem pode afetar o perfil de crédito e a capacidade de investimento da empresa, temas fundamentais para quem acompanha ações e dívidas da companhia.",
+  "impactoMercado": "O resultado fraco da Log-In pode impactar a confiança em empresas do setor de logística e transporte, pressionando preços das ações. O aumento dos custos operacionais e financeiro pode reduzir a liquidez e afetar negociações de ativos correlatos, exigindo atenção aos balanços futuros.",
+  "entenda": "O prejuízo líquido representa quanto a empresa perdeu após descontar todos os custos, despesas e impostos. O Ebitda ajustado mostra a geração de caixa operacional, antes de juros, impostos, depreciação e amortização, excluindo efeitos não recorrentes. A alavancagem indica o quanto a empresa está endividada em relação à sua geração operacional.",
+  "observar": "Acompanhe os próximos balanços trimestrais da Log-In e anúncios de gestão sobre controle de custos e estratégia financeira para avaliar se a empresa reverte essa tendência negativa.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Apresentar a reversão do lucro para prejuízo e os motivos financeiros que levam a isso ajuda o público a entender o impacto dos custos operacionais e financeiros no resultado, conectando com conceitos de alavancagem e Ebitda.",
+  "gancho": "*Logística* em prejuízo: custos sobem",
+  "ideias": [
+   "Por que a Log-In reverteu lucro em prejuízo em 2026?",
+   "Como custos operacionais impactam resultado da Logística?",
+   "Ebitda e alavancagem: o que dizem os números da Log-In?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Valor Econômico; G1 Economia; Times Brasil",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T23:30:39-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/log-in-logstica-reverte-lucro-e-tem-prejuzo-de-r-923-milhes-no-3-tri.ghtml",
+  "publicadoEm": "2026-11-11T23:04:23-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-12"
+ },
+ {
+  "titulo": "Taesa tem lucro regulatório de R$ 363,8 mi no 3º tri, alta de 12,5%",
+  "resumo": "Taesa registrou lucro líquido regulatório 12,5% maior, R$ 363,8 milhões no 3º tri de 2026. Receitas regulatórias subiram 22,7%, chegando a R$ 798,4 milhões no período.",
+  "fatos": [
+   "Lucro líquido regulatório no 3º tri de 2026 foi R$ 363,8 milhões.",
+   "Lucro regulatório subiu 12,5% em relação a 2025.",
+   "Receitas regulatórias totalizaram R$ 798,4 milhões, aumento de 22,7%.",
+   "Ebitda alcançou R$ 687,2 milhões, crescimento anual de 25,2%.",
+   "Despesa financeira líquida foi de R$ 249 milhões, alta de 9,7%.",
+   "Dívida líquida em setembro chegou a R$ 12,47 bilhões.",
+   "Dívida líquida era R$ 10,42 bilhões em junho de 2026.",
+   "Alavancagem subiu para 4,7 vezes em setembro, contra 4,2 em junho.",
+   "Dividendos intercalares totalizam R$ 363,8 milhões.",
+   "Pagamento dos dividendos será em 27 de janeiro de 2027."
+  ],
+  "explicacao": [
+   "A Taesa, empresa de transmissão de energia, divulgou lucro líquido regulatório de R$ 363,8 milhões no terceiro trimestre de 2026, alta de 12,5% em relação ao mesmo período de 2025. Suas receitas regulatórias atingiram R$ 798,4 milhões, crescimento anual de 22,7%.",
+   "O aumento no lucro e receitas foi impulsionado pelo crescimento do Ebitda, que foi de R$ 687,2 milhões, avanço de 25,2% no ano. Porém, a despesa financeira líquida também subiu 9,7% chegando a R$ 249 milhões, impactando o resultado financeiro.",
+   "A dívida líquida da Taesa aumentou para R$ 12,47 bilhões em setembro, contra R$ 10,42 bilhões em junho. A alavancagem (relação dívida líquida sobre Ebitda) subiu para 4,7 vezes, de 4,2 vezes no trimestre anterior, mostrando maior endividamento relativo.",
+   "Além disso, a companhia autorizou o pagamento de dividendos intercalares no total de R$ 363,8 milhões, que será feito em janeiro de 2027. Isso representa R$ 1,0561 por unit e R$ 0,3520 por ação ON e PN."
+  ],
+  "detalhes": [
+   "A Taesa atua no setor de transmissão de energia elétrica no Brasil.",
+   "Os resultados financeiros são referentes ao terceiro trimestre de 2026.",
+   "A dívida foi medida em termos líquidos, ou seja, descontados os valores em caixa.",
+   "A alavancagem considera a dívida líquida proporcional das controladas e coligadas.",
+   "Os dividendos intercalares foram fixados por unit e por ação ordinária e preferencial.",
+   "O pagamento dos dividendos dependerá da base acionária em 16 de novembro de 2026.",
+   "O Ebitda é indicador que mede o lucro antes de juros, impostos, depreciação e amortização."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "setembro de 2026",
+    "oque": "Dívida líquida da Taesa atingiu R$ 12,47 bilhões"
+   },
+   {
+    "quando": "junho de 2026",
+    "oque": "Dívida líquida era R$ 10,42 bilhões"
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Lucro líquido regulatório de R$ 363,8 milhões"
+   },
+   {
+    "quando": "27 de janeiro de 2027",
+    "oque": "Pagamento de dividendos intercalares"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro líquido regulatório",
+    "significado": "Lucro calculado conforme regras da agência reguladora"
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Alavancagem",
+    "significado": "Relação entre dívida líquida e Ebitda"
+   }
+  ],
+  "pergunta": "Você conhece o impacto dos dividendos para quem investe em ações?",
+  "tamanhoTexto": 1936,
+  "numeros": [
+   {
+    "valor": "363,8 milhões",
+    "rotulo": "lucro líquido regulatório no 3º trimestre"
+   },
+   {
+    "valor": "22,7%",
+    "rotulo": "crescimento das receitas regulatórias"
+   },
+   {
+    "valor": "687,2 milhões",
+    "rotulo": "Ebitda no 3º trimestre"
+   },
+   {
+    "valor": "249 milhões",
+    "rotulo": "despesa financeira líquida no 3º trimestre"
+   },
+   {
+    "valor": "12,47 bilhões",
+    "rotulo": "dívida líquida em setembro de 2026"
+   },
+   {
+    "valor": "4,7 vezes",
+    "rotulo": "relação dívida líquida sobre Ebitda em setembro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "lucro líquido regulatório",
+    "antes": "R$ 323,2 milhões",
+    "depois": "R$ 363,8 milhões"
+   },
+   {
+    "item": "receitas regulatórias",
+    "antes": "R$ 650 milhões",
+    "depois": "R$ 798,4 milhões"
+   },
+   {
+    "item": "Ebitda",
+    "antes": "R$ 548,9 milhões",
+    "depois": "R$ 687,2 milhões"
+   },
+   {
+    "item": "dívida líquida",
+    "antes": "R$ 10,42 bilhões",
+    "depois": "R$ 12,47 bilhões"
+   }
+  ],
+  "destaque": "R$ 363,8 milhões",
+  "porQueImporta": "O lucro e a receita regulatória em alta indicam a boa performance da Taesa no setor de energia. Controlar a dívida e a alavancagem é crucial para a sustentabilidade financeira da empresa, essencial para investidores e analistas avaliarem riscos e oportunidades.",
+  "impactoMercado": "Os resultados podem influenciar a percepção de investidores sobre as ações e os títulos da Taesa, especialmente para quem acompanha empresas do setor elétrico e dividendos. A elevação da dívida pode afetar decisões de crédito e capitalização.",
+  "entenda": "A Taesa gera receitas regulatórias pelo serviço de transmissão de energia, que são receitas previstas e monitoradas pela agência reguladora. O Ebitda indica a capacidade operacional de geração de caixa da empresa. A dívida líquida e alavancagem medem o endividamento em relação ao lucro operacional.",
+  "observar": "Fique atento à divulgação dos resultados dos próximos trimestres e dos impactos regulatórios que podem afetar receitas. Monitorar a evolução da dívida e o calendário de dividendos também será importante para quem acompanha Taesa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra na prática como resultados financeiros detalhados, como lucro regulatório, Ebitda e dívida, explicam a saúde da Taesa. Isso ajuda quem quer entender o mercado de energia e a atuação da faculdade em formar profissionais capacitados.",
+  "gancho": "*Lucro* e *Dividendos* Taesa",
+  "ideias": [
+   "Como Taesa cresceu 12,5% no lucro regulatório",
+   "Entenda o que é Ebitda e dívida líquida na Taesa",
+   "Dividendos de Taesa: data, valores e significado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T23:30:39-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/taesa-tem-lucro-regulatorio-de-r-3638-milhoes-no-3o-trimestre-alta-de-125percent.ghtml",
+  "publicadoEm": "2026-11-11T22:33:35-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-13"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-will-the-fed-rate-be-at-the-end-of-2026",
+  "titulo": "What will the Fed rate be at the end of 2026?",
+  "resumo": "Apostadores veem 85,5% de chance de a taxa do Fed estar em 4,25% ao final de 2026.",
+  "probs": [
+   {
+    "opcao": "4,25%",
+    "prob": 85.5
+   },
+   {
+    "opcao": "≥ 4,5%",
+    "prob": 9.7
+   },
+   {
+    "opcao": "4,0%",
+    "prob": 3.8
+   },
+   {
+    "opcao": "≤1,0%",
+    "prob": 1.5
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 32 mil",
+  "fatos": [
+   "4,25%: 85,5%",
+   "≥ 4,5%: 9,7%",
+   "4,0%: 3,8%",
+   "≤1,0%: 1,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "85,5%",
+    "rotulo": "4,25%"
+   },
+   {
+    "valor": "9,7%",
+    "rotulo": "≥ 4,5%"
+   },
+   {
+    "valor": "3,8%",
+    "rotulo": "4,0%"
+   },
+   {
+    "valor": "1,5%",
+    "rotulo": "≤1,0%"
+   }
+  ],
+  "destaque": "85,5%",
+  "gancho": "*Taxas de juros em análise*",
+  "entenda": "A taxa do Fed afeta as condições de crédito e pode impactar diversas áreas da economia e dos investimentos.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026",
+  "publicadoEm": "2026-11-11T23:30:39-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-11T23:30:39-03:00",
+  "data": "2026-11-11",
+  "status": "nova",
+  "id": "2026-11-11-p3"
+ },
+ {
   "titulo": "Governo Lula propõe ajuste fiscal de até R$ 60 bi em 2027 com gatilhos e cortes",
   "resumo": "Projeto enviado ao Congresso visa medidas para ajuste fiscal de R$ 50 a R$ 60 bilhões em 2027, incluindo cortes em benefícios fiscais, gatilhos para contenção de gastos e mudanças no piso da saúde.",
   "fatos": [
