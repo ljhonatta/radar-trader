@@ -1,5 +1,600 @@
 [
  {
+  "titulo": "Caixa avalia aumentar juros do crédito imobiliário após bancos privados",
+  "resumo": "A Caixa, que detém cerca de 70% do crédito imobiliário, estuda subir juros devido ao maior custo de captação. Bradesco, Itaú e Santander já aumentaram suas taxas, pressionando o mercado.",
+  "fatos": [
+   "Caixa detém cerca de 70% do mercado de financiamento habitacional no Brasil.",
+   "Bradesco elevou juros de 11,69% para 13,60% ao ano mais TR em outubro de 2026.",
+   "Itaú ajustou juros de 11,99% para 12,95% ao ano mais TR no mesmo período.",
+   "Santander subiu taxa para 12,49% ao ano mais TR na última semana de outubro.",
+   "Carteira imobiliária da Caixa atingiu R$ 1,043 trilhão em setembro de 2026, alta de 15,5% em 12 meses.",
+   "Lucro líquido recorrente da Caixa caiu 7,4% no terceiro trimestre de 2026, para R$ 3,5 bilhões.",
+   "Saques líquidos da poupança somaram R$ 53,2 bilhões entre janeiro e setembro de 2026.",
+   "Saldo em Letras de Crédito Imobiliário da Caixa chegou a R$ 268,7 bilhões em setembro de 2026, alta de 13,8% em 12 meses.",
+   "Inadimplência da carteira imobiliária da Caixa subiu de 1,30% para 1,70% entre setembro de 2025 e 2026.",
+   "Caixa contratou R$ 72,5 bilhões em crédito habitacional no 3º trimestre de 2026, aumento anual de 7,6%."
+  ],
+  "explicacao": [
+   "A Caixa Econômica Federal está analisando se e quando vai elevar os juros do financiamento imobiliário, considerando o aumento dos custos para captar recursos no mercado financeiro. Essa avaliação ocorre após bancos privados, como Bradesco, Itaú e Santander, ajustarem suas taxas na última semana de outubro de 2026.",
+   "O principal motivo para essa possível alta é o aumento do custo da captação, já que os depósitos na poupança diminuíram, levando o banco a recorrer a Letras de Crédito Imobiliário (LCIs), que são mais caras. A Caixa busca equilibrar manter a oferta de crédito e a rentabilidade, sem prejudicar o setor.",
+   "Como maior financiador habitacional do país, com cerca de 70% do mercado, qualquer aumento dos juros pela Caixa pode impactar todo o sistema financeiro e o mercado imobiliário, influenciando gerações de emprego e investimentos. O banco pondera o efeito econômico da decisão, para que não cause um impacto negativo significativo.",
+   "Nos próximos meses, a decisão deve ser anunciada, considerando o volume de recursos disponível para o crédito imobiliário. A Caixa já contabiliza crescimento de 15,5% na carteira imobiliária em 12 meses, com inadimplência crescente e lucro líquido em queda, fatores que influenciam na estratégia do banco."
+  ],
+  "detalhes": [
+   "A decisão sobre reajuste dos juros cabe exclusivamente à Caixa, sem necessidade de aprovação do governo controlador.",
+   "A Caixa combina recursos da poupança com Letras de Crédito Imobiliário para financiar o crédito imobiliário, devido à queda no saldo líquido da poupança.",
+   "O aumento nas taxas dos bancos privados ultrapassou o teto de 12% da Taxa Referencial (TR) do Sistema Financeiro da Habitação (SFH).",
+   "A vice-presidente de Habitação da Caixa, Inês Magalhães, afirma que o banco considerará o volume de recursos disponíveis na decisão de reajuste.",
+   "O crédito imobiliário tem impacto direto na geração de mais de 1,6 milhão de empregos nos primeiros nove meses de 2026, segundo a Caixa.",
+   "R$ 646,4 bilhões do crédito imobiliário da Caixa (62% do total) são provenientes do FGTS e Fundo Social.",
+   "A inadimplência geral da Caixa chegou a 4,01% em setembro de 2026, maior que os 3,01% do ano anterior, embora não seja só do crédito imobiliário."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Marcos Brasiliano Rosa, vice-presidente de Finanças e Controladoria da Caixa",
+    "oque": "A decisão sobre reajuste é técnica, e a Caixa precisa equilibrar custo, oferta e impacto no país."
+   },
+   {
+    "quem": "Inês Magalhães, vice-presidente de Habitação da Caixa",
+    "oque": "Estudamos reajustar juros do crédito imobiliário conforme o volume de recursos disponíveis."
+   },
+   {
+    "quem": "Marcos Brasiliano Rosa",
+    "oque": "Se aumentarmos a taxa, parte das famílias pode migrar para habitação social, por isso o cuidado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Bradesco, Itaú e Santander aumentam juros mínimos do crédito imobiliário."
+   },
+   {
+    "quando": "Setembro de 2026",
+    "oque": "Carteira imobiliária da Caixa atingiu R$ 1,043 trilhão."
+   },
+   {
+    "quando": "13 de novembro de 2026",
+    "oque": "Caixa anuncia estudo para possível reajuste nos juros imobiliários."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Taxa Referencial (TR)",
+    "significado": "Indicador usado para reajustar contratos, como financiamentos residenciais."
+   },
+   {
+    "termo": "Letras de Crédito Imobiliário (LCI)",
+    "significado": "Títulos emitidos por bancos para captar recursos, usados no crédito imobiliário."
+   },
+   {
+    "termo": "Sistema Brasileiro de Poupança e",
+    "significado": "Sistema que regula empréstimos imobiliários financiados pela poupança."
+   }
+  ],
+  "pergunta": "Você acha que a Caixa vai reajustar os juros do financiamento imobiliário?",
+  "tamanhoTexto": 10864,
+  "numeros": [
+   {
+    "valor": "70%",
+    "rotulo": "Participação da Caixa no crédito imobiliário"
+   },
+   {
+    "valor": "13,60%",
+    "rotulo": "Juros Bradesco em financiamento imobiliário"
+   },
+   {
+    "valor": "12,95%",
+    "rotulo": "Juros Itaú em financiamento imobiliário"
+   },
+   {
+    "valor": "12,49%",
+    "rotulo": "Juros Santander em financiamento imobiliário"
+   },
+   {
+    "valor": "12,05%",
+    "rotulo": "Juros médios Caixa com recursos SBPE"
+   },
+   {
+    "valor": "R$ 1,043 tri",
+    "rotulo": "Carteira imobiliária da Caixa em setembro 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido recorrente Caixa",
+    "antes": "R$ 3,78 bilhões no 3º tri 2025",
+    "depois": "R$ 3,5 bilhões no 3º tri 2026"
+   },
+   {
+    "item": "Inadimplência da carteira imobiliária",
+    "antes": "1,30% em setembro de 2025",
+    "depois": "1,70% em setembro de 2026"
+   }
+  ],
+  "destaque": "70% do crédito",
+  "porQueImporta": "Essa decisão da Caixa é fundamental porque o banco é o maior financiador imobiliário no Brasil. Mudanças nos juros pela Caixa influenciam os custos do crédito para milhões de famílias, assim como afetam a construção civil e emprego, impactando a economia de modo geral.",
+  "impactoMercado": "A possível elevação dos juros pela Caixa pode levar ao aumento do custo do crédito imobiliário em todo o país, afetando setores ligados à construção, habitação e infraestrutura. Também pode provocar uma mudança na demanda por programas sociais de moradia e influenciar negociações futuras de crédito e investimentos.",
+  "entenda": "O crédito imobiliário é o empréstimo dado por bancos para compra ou construção de imóveis. Os juros desse crédito refletem o custo do dinheiro para o banco captar recursos no mercado, que pode variar pela entrada em depósitos na poupança ou emissão de títulos como as Letras de Crédito Imobiliário (LCI).",
+  "observar": "Fique atento nas próximas semanas à divulgação oficial da Caixa sobre o reajuste das taxas de juros do crédito imobiliário e acompanhamento do saldo da poupança e indexação das LCIs, que influenciam o custo do crédito.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Essa notícia mostra como decisões de grandes bancos, especialmente da Caixa, influenciam o mercado imobiliário e o custo do crédito, despertando interesse para entender taxas, crédito e o impacto econômico.",
+  "gancho": "*Caixa* e juros do crédito imobiliário",
+  "ideias": [
+   "Por que a Caixa pode subir os juros do financiamento imobiliário?",
+   "Entenda o impacto do aumento dos juros no crédito imobiliário",
+   "Como a captação de recursos afeta as taxas de financiamento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Folha Mercado; Exame",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T14:23:22-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
+  "publicadoEm": "2026-11-13T13:09:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-01"
+ },
+ {
+  "titulo": "Ibovespa sobe e dólar cai com pacote fiscal e dados econômicos",
+  "resumo": "Ibovespa avança 0,65% com Petrobras e balanços; dólar recua 0,26%, cotado a R$ 5,637. Senado aprovou pacote fiscal de até R$ 60 bilhões para 2027, com emendas para próxima semana.",
+  "fatos": [
+   "Ibovespa subiu 0,65% na sexta-feira, aos 172.440 pontos às 13h50",
+   "Dólar caiu 0,26% cotado a R$ 5,637 na venda às 12h17",
+   "Senado aprovou texto-base do pacote fiscal por 45 votos a 31 na quinta-feira (12)",
+   "Pacote fiscal prevê impacto de até R$ 60 bilhões em 2027",
+   "Emendas ao pacote serão votadas na terça-feira (17)",
+   "Vendas do varejo brasileiro cresceram 0,2% de agosto para setembro",
+   "Vendas do varejo subiram 1,7% na comparação anual em setembro",
+   "Inflação ao produtor dos EUA avançou 0,4% em outubro, acima da projeção de 0,3%",
+   "Microsoft enfrenta pane em serviços globais sem evidência de ataque cibernético",
+   "Ações da Nvidia caíram 4,34% após saída do presidente Jensen Huang"
+  ],
+  "explicacao": [
+   "Na sexta-feira (13), o Ibovespa, principal índice da bolsa brasileira, subiu 0,65%, impulsionado por balanços corporativos e Petrobras. No mesmo dia, o dólar recuou 0,26%, cotado a R$ 5,637, após alta forte na quinta-feira impulsionada por preocupações fiscais.",
+   "A movimentação no mercado refletiu a aprovação no Senado do texto-base de um pacote fiscal com impacto previsto de até R$ 60 bilhões para 2027. A proposta visa controlar gastos públicos e cumprir metas de superávit fiscal, porém a votação definitiva com possíveis emendas será realizada na próxima terça-feira (17).",
+   "Além do cenário fiscal, os investidores também reagiram a dados econômicos, como o crescimento de 0,2% nas vendas do varejo brasileiro em setembro, que superou expectativas, e o índice de preços ao produtor dos EUA acima do esperado, influenciando as decisões no mercado americano e mundial.",
+   "O mercado segue atento à definição do pacote fiscal, à política monetária do Banco Central, incluidas possíveis declarações de seu presidente, e aos desdobramentos globais em tecnologia, incluindo impactos da pane na Microsoft e movimentações na Nvidia, com potencial impacto no setor."
+  ],
+  "detalhes": [
+   "Pacote fiscal busca atingir metas de superávit com R$ 50 bi para metas fiscais e R$10 bi para novas despesas",
+   "Principais medidas do pacote incluem limite para crescimento dos gastos públicos e redução de até 20% em alguns benefícios fiscais",
+   "Senado aprovou o texto-base do projeto para ajuste fiscal, mas precisa analisar quatro pontos restantes",
+   "Vendas de equipamentos de informática e comunicação tiveram alta de 7,6% em setembro",
+   "O dólar comercial estava cotado a R$ 5,636 para compra e R$ 5,637 para venda no dia da notícia",
+   "O Banco Central e seu presidente Gabriel Galípolo estão sob atenção por possíveis declarações no Barclays Day",
+   "A queda de ações de tecnologia em NY pressiona o setor, com destaque para a Nvidia"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministério do Planejamento",
+    "oque": "Pacote fiscal pode gerar impacto de até R$ 60 bilhões em 2027"
+   },
+   {
+    "quem": "Gabriel Galípolo, presidente do Banco Central",
+    "oque": "Participa de palestra no Barclays Day sobre inflação, juros e contas públicas"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Senado aprovou texto-base de pacote fiscal com impacto até R$ 60 bilhões"
+   },
+   {
+    "quando": "13/11/2026",
+    "oque": "Ibovespa sobe 0,65% e dólar recua 0,26% repercutindo pacote e dados do varejo"
+   },
+   {
+    "quando": "17/11/2026",
+    "oque": "Votação das emendas do pacote fiscal no Senado prevista"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pacote fiscal",
+    "significado": "Conjunto de medidas para controlar gastos e equilibrar orçamento público"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da bolsa brasileira, com as ações mais negociadas"
+   },
+   {
+    "termo": "Superávit fiscal",
+    "significado": "Situação em que as receitas superam as despesas do governo"
+   }
+  ],
+  "pergunta": "Você acha que o pacote fiscal será suficiente para controlar a dívida pública?",
+  "tamanhoTexto": 11816,
+  "numeros": [
+   {
+    "valor": "0,65%",
+    "rotulo": "alta do Ibovespa na sexta-feira (13)"
+   },
+   {
+    "valor": "5,637",
+    "rotulo": "cotação do dólar na venda em reais"
+   },
+   {
+    "valor": "R$ 60 bilhões",
+    "rotulo": "impacto fiscal previsto para 2027 do pacote aprovado"
+   },
+   {
+    "valor": "45 a 31",
+    "rotulo": "votação do texto-base no Senado"
+   },
+   {
+    "valor": "0,2%",
+    "rotulo": "alta mensal das vendas do varejo brasileiro em setembro"
+   },
+   {
+    "valor": "1,7%",
+    "rotulo": "alta anual das vendas do varejo em setembro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar à vista",
+    "antes": "R$ 5,6507 (12/11/2026)",
+    "depois": "R$ 5,637 (13/11/2026)"
+   }
+  ],
+  "destaque": "R$ 60 bilhões",
+  "porQueImporta": "O pacote fiscal que pode impactar as contas públicas em R$ 60 bilhões em 2027 é crucial para a estabilidade econômica e fiscal do Brasil, influenciando confiança do investidor e o comportamento do dólar, além de condicionar decisões do Banco Central sobre juros e política monetária.",
+  "impactoMercado": "A aprovação do pacote e o desempenho surpreendente do varejo trazem sinais positivos para o Ibovespa, enquanto mantêm o dólar sob pressão, impactando setores como commodities e ações ligadas a política fiscal. Juros futuros podem reagir com ajustes conforme decisões do Senado e dados econômicos internacionais.",
+  "entenda": "Ibovespa é o principal índice da bolsa brasileira, que reflete a variação das ações negociadas. O dólar influencia o custo de importações e investimentos. Pacote fiscal é conjunto de medidas que visam controlar gastos e ajudar a cumprir metas fiscais para manter as contas públicas equilibradas.",
+  "observar": "Fique atento à votação das emendas do pacote fiscal prevista para 17 de novembro, declarações do presidente do Banco Central no Barclays Day e dados econômicos internacionais que podem influenciar dólar e juros futuros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos como o pacote fiscal, dados do varejo e indicadores internacionais influenciam bolsa, dólar e juros, mostrando o mercado em ação e sua importância para quem quer operar ou investir com conhecimento.",
+  "gancho": "*Pacote fiscal* e *mercado hoje*",
+  "ideias": [
+   "Como o pacote fiscal impacta o Ibovespa e dólar",
+   "Por que as vendas do varejo são importantes para o mercado",
+   "Efeitos da inflação dos EUA e pacote fiscal no mercado brasileiro"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Valor Econômico; BP Money; G1 Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T14:23:22-03:00",
+  "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+  "publicadoEm": "2026-11-13T13:32:58-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-02"
+ },
+ {
+  "titulo": "Senado aprova texto-base de ajuste fiscal de R$ 56 bi para 2024",
+  "resumo": "Senado aprovou texto-base do projeto que prevê ajuste fiscal para economizar R$ 56 bilhões em 2024. O projeto inclui cortes de isenções e muda cálculo do piso da saúde, seguindo agora para análise da Câmara.",
+  "fatos": [
+   "Senado aprovou texto-base na quinta-feira, 12 de outubro de 2023.",
+   "Votação: 45 votos favoráveis contra 31 contrários.",
+   "Projeto prevê ajuste fiscal de R$ 56 bilhões em 2024.",
+   "Relator do projeto: senador Eduardo Braga (MDB-AM).",
+   "Proposta inclui corte de isenções tributárias e mudança no cálculo do piso da saúde.",
+   "Alterações feitas no Senado tiveram impacto marginal, disse ministro Bruno Moretti.",
+   "Texto segue para análise dos destaques na próxima semana.",
+   "Após aprovação final no Senado, projeto seguirá para a Câmara dos Deputados.",
+   "Governo busca cumprir metas fiscais e preservar programas sociais.",
+   "Entidades criticam limitação de créditos tributários do projeto."
+  ],
+  "explicacao": [
+   "Na quinta-feira, 12 de outubro de 2023, o Senado aprovou por 45 votos a 31 o texto-base do projeto de lei complementar com medidas de ajuste fiscal, que, segundo o relator Eduardo Braga (MDB-AM), pode gerar uma economia de até R$ 56 bilhões em 2024. A proposta foi apresentada no dia anterior, 11 de outubro.",
+   "O projeto visa ajustar as contas públicas no quarto mandato do presidente Lula, com medidas que incluem gatilhos para contenção de gastos, corte de isenções tributárias e alterações no cálculo do piso da saúde. Essas ações buscam limitar o crescimento da dívida pública e fortalecer as metas fiscais do governo.",
+   "Apesar da aprovação, ainda falta análise dos destaques, que são sugestões de mudança ao texto, com votação prevista para a próxima semana. Após isso, o projeto seguirá para a Câmara dos Deputados, onde passará por nova avaliação.",
+   "O ministro do Planejamento, Bruno Moretti, destacou que as alterações feitas no Senado tiveram impacto marginal sobre as contas e reforçou o compromisso do governo Lula em equilibrar a proteção social com o ajuste fiscal. A equipe não pretende enviar novas propostas no momento, focando na tramitação atual."
+  ],
+  "detalhes": [
+   "Projeto do governo Lula para ajuste fiscal 2024.",
+   "Relatório apresentado por Eduardo Braga (MDB-AM).",
+   "Ministro Bruno Moretti é responsável pela área econômica.",
+   "Produtos da votação incluem gatilhos para controle de gastos no Orçamento.",
+   "Senadores retiraram trava fiscal que afetaria Fundo Constitucional do Distrito Federal.",
+   "Gasto tributário cortado inclui isenções para pessoas com deficiência.",
+   "Discussão sobre compensações tributárias gerou críticas do setor produtivo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "As mudanças no Senado tiveram impacto marginal, mantendo estimativa de R$ 50 bilhões de resultado primário."
+   },
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Projeto equilibra conter gastos e preservar direitos sociais, como piso da saúde e educação."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "11 de outubro de 2023",
+    "oque": "Projeto de ajuste fiscal apresentado no Senado."
+   },
+   {
+    "quando": "12 de outubro de 2023",
+    "oque": "Senado aprovou texto-base do projeto por 45 a 31."
+   },
+   {
+    "quando": "Próxima semana após dia 12",
+    "oque": "Previsão de votação dos destaques do projeto no Senado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ajuste fiscal",
+    "significado": "Medidas para equilibrar receitas e despesas do governo."
+   },
+   {
+    "termo": "Piso da saúde",
+    "significado": "Valor mínimo que estados e municípios devem investir em saúde."
+   },
+   {
+    "termo": "Isenções tributárias",
+    "significado": "Benefícios que reduzem ou eliminam impostos para certos contribuintes."
+   }
+  ],
+  "pergunta": "Você acha que o pacote fiscal vai ajudar a melhorar as contas públicas?",
+  "tamanhoTexto": 5337,
+  "numeros": [
+   {
+    "valor": "R$ 56 bilhões",
+    "rotulo": "Economia prevista com o ajuste fiscal em 2024"
+   },
+   {
+    "valor": "45 a 31",
+    "rotulo": "Resultado da votação do texto-base no Senado"
+   },
+   {
+    "valor": "R$ 50 bilhões",
+    "rotulo": "Resultado primário previsto, segundo Ministério do Planejamento"
+   },
+   {
+    "valor": "R$ 10 bilhões",
+    "rotulo": "Margem para elaboração do Orçamento prevista"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 56 bilhões",
+  "porQueImporta": "O ajuste fiscal de R$ 56 bilhões é fundamental para conter a alta da dívida pública e cumprir metas fiscais, aspectos-chave para a estabilidade econômica que impactam políticas públicas e a confiança dos investidores no Brasil.",
+  "impactoMercado": "A aprovação do pacote fiscal pode influenciar a percepção de risco do país, afetando juros futuros, dólar e ações, especialmente em segmentos ligados à tributação e gastos públicos, sem garantir valorização ou desvalorização direta.",
+  "entenda": "O ajuste fiscal é um conjunto de medidas para equilibrar as contas públicas, reduzindo gastos ou aumentando receitas, a fim de evitar que a dívida cresça demais e prejudique a economia. Isso envolve cortes em benefícios fiscais e mudanças em regras orçamentárias.",
+  "observar": "Acompanhe a votação dos destaques no Senado na próxima semana e a tramitação do projeto na Câmara; decisões podem modificar alcance do ajuste fiscal.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explica como funciona o processo de ajuste fiscal no Brasil, mostrando as etapas legislativas e os impactos no cenário econômico, despertando interesse em compreender política econômica e suas consequências.",
+  "gancho": "*Ajuste* fiscal aprovado no Senado",
+  "ideias": [
+   "Entenda o pacote fiscal de R$ 56 bilhões aprovado pelo Senado",
+   "O que muda com o novo projeto de ajuste fiscal para 2024?",
+   "Como o governo planeja equilibrar contas e manter direitos sociais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Estadão Economia",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T14:23:22-03:00",
+  "url": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
+  "publicadoEm": "2026-11-12T18:56:45-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-13-03"
+ },
+ {
+  "titulo": "André Esteves diz que ajuste fiscal cabe nas promessas de governo Lula 4",
+  "resumo": "O presidente do conselho do BTG Pactual, André Esteves, afirmou que o ajuste fiscal não conflita com o programa do governo Lula quarto mandato. O Senado aprovou projeto para ajudar a economia a alcançar meta primária em 2027.",
+  "fatos": [
+   "André Esteves é presidente do conselho e sócio principal do BTG Pactual.",
+   "O ajuste fiscal foi aprovado em texto-base pelo Senado nesta quinta-feira (12).",
+   "O esforço fiscal adicional estimado fica entre R$ 46 bilhões e R$ 56 bilhões para 2027.",
+   "A taxa básica de juros atual está em 13,75% ao ano conforme comentário de Esteves.",
+   "O ministro do Planejamento é Bruno Moretti.",
+   "André Esteves falou em evento organizado pelo IDP e Metrópoles nesta sexta (13).",
+   "Ele criticou a resistência ao ajuste como 'negacionismo econômico'.",
+   "Gilmar Mendes, ministro do STF, esteve presente e defendeu equilíbrio entre responsabilidade fiscal e social.",
+   "Esteves citou que problemas fiscais são globais, incluindo EUA, Reino Unido, França e Japão.",
+   "Esteves considera que a redução dos juros seria mais benéfica para a base da pirâmide social."
+  ],
+  "explicacao": [
+   "Nesta sexta-feira (13), André Esteves, líder do BTG Pactual, declarou que o ajuste fiscal previsto pelo governo Lula não é incompatível com as promessas feitas durante a campanha para seu quarto mandato. O Senado aprovou o texto-base do projeto no dia anterior.",
+   "O ajuste fiscal busca reduzir o déficit público, focando no resultado primário, que é a diferença entre receitas e despesas excluindo o serviço da dívida. Segundo o ministro Bruno Moretti, esse esforço representará um impacto extra de R$ 46 bilhões a R$ 56 bilhões para 2027.",
+   "Esteves destaca que o ajuste é necessário e possível, reforçando que pode ocorrer junto às propostas do presidente eleito. Também ressaltou que cortes nos juros básicos para cerca de 8% ao ano representariam o maior programa social para a base da pirâmide econômica.",
+   "No próximo período, o governo e o Congresso devem acompanhar a implementação das medidas para garantir o cumprimento das metas fiscais, lidando com a repercussão política e econômica apontada pelo mercado e especialistas."
+  ],
+  "detalhes": [
+   "Evento ocorreu nesta sexta-feira, 13 de novembro de 2026.",
+   "O ajuste fiscal visa alcançar a meta de resultado fiscal primário para o ano de 2027.",
+   "André Esteves comentou durante evento no IDP, instituto fundado por Gilmar Mendes.",
+   "A proposta legislativa já recebeu aprovação inicial no Senado em 12 de novembro.",
+   "Entre as consequências do ajuste, espera-se a redução dos juros básicos.",
+   "O ajuste fiscal é visto como compatível com as promessas feitas por Lula à sociedade.",
+   "Críticas ao ajuste foram comparadas por Esteves com negacionismo observado em outras áreas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "André Esteves, presidente do conselho e principal sócio do BTG",
+    "oque": "O ajuste fiscal não é incompatível com o que foi prometido pelo presidente Lula."
+   },
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "O esforço extra para cumprir a meta fiscal em 2027 ficará entre R$ 46 bilhões e R$ 56 bilhões."
+   },
+   {
+    "quem": "André Esteves",
+    "oque": "Reduzir juros básicos para cerca de 8% seria o maior programa social para a base da pirâmide."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Senado aprovou texto-base do projeto de ajuste fiscal do governo."
+   },
+   {
+    "quando": "13 de novembro de 2026",
+    "oque": "André Esteves falou em evento do IDP sobre ajuste fiscal e promessas do governo."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Resultado Primário",
+    "significado": "Diferença entre receitas e despesas do governo, excluindo juros da dívida."
+   },
+   {
+    "termo": "Meta Fiscal",
+    "significado": "Objetivo de resultado financeiro das contas públicas definido no orçamento."
+   },
+   {
+    "termo": "Juros Básicos (Selic)",
+    "significado": "Taxa de referência usada pelo Banco Central para controlar a economia."
+   }
+  ],
+  "pergunta": "Você acha possível conciliar ajuste fiscal com programas sociais do governo?",
+  "tamanhoTexto": 6959,
+  "numeros": [
+   {
+    "valor": "R$ 46 bilhões a R$ 56 bilhões",
+    "rotulo": "Esforço extra fiscal previsto para 2027"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa básica de juros atual mencionada"
+   },
+   {
+    "valor": "~8%",
+    "rotulo": "Taxa de juros ideal sugerida por André Esteves"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa básica de juros",
+    "antes": "13,75% ao ano",
+    "depois": "cerca de 8% ao ano (sugerido)"
+   }
+  ],
+  "destaque": "R$ 46 bilhões",
+  "porQueImporta": "O ajuste fiscal é fundamental para controlar o déficit público e garantir estabilidade econômica durante o novo governo Lula. Isso impacta diretamente a confiança dos investidores e as condições do crédito no país, influenciando decisões de quem opera na bolsa, câmbio e renda fixa.",
+  "impactoMercado": "Com a aprovação do ajuste fiscal, espera-se maior controle da dívida pública e possibilidade de queda da taxa Selic, o que pode refletir em juros menores para financiamentos e menor volatilidade para ações e câmbio, afetando especialmente setores sensíveis a custos de capital.",
+  "entenda": "A meta fiscal primária é o saldo entre receitas e despesas do governo, sem incluir o pagamento de juros da dívida. Ajuste fiscal significa implementar medidas para equilibrar as contas públicas, reduzindo gastos ou aumentando receitas, essenciais para controlar a inflação e juros no país.",
+  "observar": "Acompanhe próximos passos no Congresso para aprovação final do ajuste fiscal e dados econômicos como taxas de inflação e reuniões do Banco Central, que podem indicar como o mercado reagirá às mudanças.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como o ajuste fiscal presente no governo Lula pode afetar o cenário financeiro e como entender isso ajuda quem quer operar melhor na bolsa e no mercado de juros.",
+  "gancho": "Ajuste Fiscal e *Lula*",
+  "ideias": [
+   "O que é ajuste fiscal e por que importa em 2027?",
+   "André Esteves explica: juros e ajuste fiscal no governo Lula",
+   "Como o Senado aprovou o plano para equilibrar as contas públicas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T14:23:22-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+  "publicadoEm": "2026-11-13T14:21:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-04"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-in-november-2026",
+  "titulo": "Mercado de previsões vê 90.0% de chance de Ethereum abaixo de 1,900 em novembro",
+  "resumo": "As probabilidades são estabelecidas por apostadores e não são previsões oficiais.",
+  "probs": [
+   {
+    "opcao": "Abaixo de 1,900",
+    "prob": 90.0
+   },
+   {
+    "opcao": "Acima de 2,000",
+    "prob": 73.5
+   },
+   {
+    "opcao": "Abaixo de 1,800",
+    "prob": 51.5
+   },
+   {
+    "opcao": "Acima de 2,100",
+    "prob": 42.0
+   }
+  ],
+  "prazo": "2026-12-01",
+  "volume24h": "US$ 89 mil",
+  "fatos": [
+   "Abaixo de 1,900: 90,0%",
+   "Acima de 2,000: 73,5%",
+   "Abaixo de 1,800: 51,5%",
+   "Acima de 2,100: 42,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "90,0%",
+    "rotulo": "Abaixo de 1,900"
+   },
+   {
+    "valor": "73,5%",
+    "rotulo": "Acima de 2,000"
+   },
+   {
+    "valor": "51,5%",
+    "rotulo": "Abaixo de 1,800"
+   },
+   {
+    "valor": "42,0%",
+    "rotulo": "Acima de 2,100"
+   }
+  ],
+  "destaque": "90,0%",
+  "gancho": "*Ethereum em novembro*",
+  "entenda": "Como o Bitcoin, o Ethereum também sofre influências de mercado e eventos globais na nova economia digital.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-november-2026",
+  "publicadoEm": "2026-11-13T14:23:22-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-13T14:23:22-03:00",
+  "data": "2026-11-13",
+  "status": "nova",
+  "id": "2026-11-13-p1"
+ },
+ {
   "titulo": "Engenheiro brasileiro lança livro sobre teste de falhas em softwares Bitcoin",
   "resumo": "Bruno Garcia, Head de Engenharia na Vinteum e doutorando da USP, lança livro sobre fuzzing, técnica para identificar bugs em software, em 18 de novembro, São Paulo.",
   "fatos": [
@@ -8556,20 +9151,20 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 62.5% de chance de aumento de 25 bps pelo Fed em janeiro",
-  "resumo": "Probabilidade indicada por apostadores, não uma previsão oficial.",
+  "titulo": "Mercado de previsões vê 57.5% de chance de aumento de 25 bps pelo Fed em janeiro",
+  "resumo": "Essas probabilidades são estipuladas por apostadores, não uma previsão oficial.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 62.5
+    "prob": 57.5
    },
    {
     "opcao": "Sem alteração",
-    "prob": 36.5
+    "prob": 40.5
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 1.0
+    "prob": 0.9
    },
    {
     "opcao": "Redução de 50+ bps",
@@ -8577,24 +9172,24 @@
    }
   ],
   "prazo": "2027-01-28",
-  "volume24h": "US$ 321 mil",
+  "volume24h": "US$ 224 mil",
   "fatos": [
-   "Aumento de 25 bps: 62,5%",
-   "Sem alteração: 36,5%",
-   "Aumento de 50+ bps: 1,0%",
+   "Aumento de 25 bps: 57,5%",
+   "Sem alteração: 40,5%",
+   "Aumento de 50+ bps: 0,9%",
    "Redução de 50+ bps: 0,4%"
   ],
   "numeros": [
    {
-    "valor": "62,5%",
+    "valor": "57,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "36,5%",
+    "valor": "40,5%",
     "rotulo": "Sem alteração"
    },
    {
-    "valor": "1,0%",
+    "valor": "0,9%",
     "rotulo": "Aumento de 50+ bps"
    },
    {
@@ -8602,7 +9197,7 @@
     "rotulo": "Redução de 50+ bps"
    }
   ],
-  "destaque": "62,5%",
+  "destaque": "57,5%",
   "gancho": "*Apostas* equilibradas* para janeiro",
   "entenda": "Decisões sobre as taxas de juros influenciam a economia geral, afetando empréstimos e investimentos.",
   "categoria": "Previsões",
@@ -8617,7 +9212,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p1",
-  "atualizadoEm": "2026-11-12T23:07:59-03:00"
+  "atualizadoEm": "2026-11-13T14:23:22-03:00"
  },
  {
   "tipo": "sinal",
@@ -12452,53 +13047,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 90.5% de chance de Bitcoin abaixo de 70.000 até 2026",
-  "resumo": "Probabilidade indicada por apostadores, não uma previsão oficial.",
+  "titulo": "Mercado de previsões vê 69.5% de chance de Bitcoin abaixo de 65,000 em 2026",
+  "resumo": "As probabilidades refletem as expectativas dos apostadores e não são previsões oficiais.",
   "probs": [
    {
-    "opcao": "↓ 70.000",
-    "prob": 90.5
+    "opcao": "Abaixo de 65,000",
+    "prob": 69.5
    },
    {
-    "opcao": "↓ 65.000",
-    "prob": 53.5
+    "opcao": "Abaixo de 60,000",
+    "prob": 37.5
    },
    {
-    "opcao": "↓ 60.000",
-    "prob": 27.5
+    "opcao": "Abaixo de 55,000",
+    "prob": 18.5
    },
    {
-    "opcao": "↓ 55.000",
-    "prob": 13.5
+    "opcao": "Abaixo de 50,000",
+    "prob": 10.2
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 569 mil",
+  "volume24h": "US$ 1,3 mi",
   "fatos": [
-   "↓ 70.000: 90,5%",
-   "↓ 65.000: 53,5%",
-   "↓ 60.000: 27,5%",
-   "↓ 55.000: 13,5%"
+   "Abaixo de 65,000: 69,5%",
+   "Abaixo de 60,000: 37,5%",
+   "Abaixo de 55,000: 18,5%",
+   "Abaixo de 50,000: 10,2%"
   ],
   "numeros": [
    {
-    "valor": "90,5%",
-    "rotulo": "↓ 70.000"
+    "valor": "69,5%",
+    "rotulo": "Abaixo de 65,000"
    },
    {
-    "valor": "53,5%",
-    "rotulo": "↓ 65.000"
+    "valor": "37,5%",
+    "rotulo": "Abaixo de 60,000"
    },
    {
-    "valor": "27,5%",
-    "rotulo": "↓ 60.000"
+    "valor": "18,5%",
+    "rotulo": "Abaixo de 55,000"
    },
    {
-    "valor": "13,5%",
-    "rotulo": "↓ 55.000"
+    "valor": "10,2%",
+    "rotulo": "Abaixo de 50,000"
    }
   ],
-  "destaque": "90,5%",
+  "destaque": "69,5%",
   "gancho": "*Expectativa* de queda no Bitcoin",
   "entenda": "As previsões de preços de criptomoedas refletem a volatilidade do mercado, com base em fatores econômicos e tendências de investimento.",
   "categoria": "Previsões",
@@ -12513,7 +13108,7 @@
   "data": "2026-11-06",
   "status": "atualizada",
   "id": "2026-11-06-p2",
-  "atualizadoEm": "2026-11-12T23:07:59-03:00"
+  "atualizadoEm": "2026-11-13T14:23:22-03:00"
  },
  {
   "titulo": "IPCA deve desacelerar para 0,23% em outubro, segundo ASA",
@@ -14569,2357 +15164,5 @@
   "data": "2026-11-06",
   "status": "nova",
   "id": "2026-11-06-p1"
- },
- {
-  "titulo": "Dólar sobe perto de R$ 5,49 com Instabilidade e Selic mantida",
-  "resumo": "Dólar fechou a R$ 5,488 em alta de 0,67% nesta quinta-feira (5), diante de aversão ao risco global e manutenção da Selic em 13,75%. Ibovespa caiu 0,82%, refletindo perdas em ações de tecnologia e discussões sobre política econômica.",
-  "fatos": [
-   "Dólar fechou em alta de 0,67%, a R$ 5,488 na quinta-feira (5).",
-   "Ibovespa recuou 0,82%, aos 166.191,45 pontos no mesmo dia.",
-   "Selic foi mantida em 13,75% ao ano pelo Banco Central, interrompendo cinco cortes.",
-   "Produção industrial brasileira caiu 0,8% em setembro, pior resultado para o mês desde 2022.",
-   "Índice DXY, que mede o dólar contra seis moedas fortes, subiu 0,09%, para 101,560 pontos.",
-   "Nasdaq caiu 5,52%, S&P 500 recuou 4,36% e Dow Jones caiu 3,44%, pressionados por ações de tecnologia.",
-   "Governo Lula realizou reunião com ministros e economistas, sem anunciar medidas econômicas.",
-   "Pronunciamento de Lula sobre disciplina orçamentária está previsto para domingo (8).",
-   "Volume financeiro da bolsa somou R$ 31,16 bilhões no pregão do dia 5.",
-   "Fluxo estrangeiro negativo na bolsa brasileira foi de R$ 12 bilhões nos últimos oito pregões."
-  ],
-  "explicacao": [
-   "Nesta quinta-feira (5), o dólar comercial valorizou 0,67%, fechando cotado a R$ 5,488. A bolsa brasileira, pelo índice Ibovespa, recuou 0,82%, aos 166.191,45 pontos, em um cenário de maior aversão ao risco global, especialmente nas ações ligadas à inteligência artificial e tecnologia.",
-   "O movimento foi influenciado principalmente por fortes perdas em Wall Street após eleições de meio de mandato nos EUA, com temores de regulação mais rigorosa para empresas de tecnologia e IA. No Brasil, o Banco Central manteve a Selic em 13,75%, interrompendo sequência de cinco cortes, e o governo Lula discutiu a política econômica, gerando cautela.",
-   "O aumento da aversão ao risco fez investidores buscarem proteção no dólar, causando valorização frente a moedas emergentes como o real. Além disso, a produção industrial brasileira caiu 0,8% em setembro na comparação mensal, o pior resultado para o mês desde 2022, pressionando o mercado acionário local.",
-   "O presidente Lula deve realizar um pronunciamento no domingo (8) prometendo compromisso com disciplina fiscal, mas sem anunciar medidas específicas ainda. O cenário permanece de incertezas para juros e política econômica, com destaque para próximos dados econômicos e decisões do BC nos EUA."
-  ],
-  "detalhes": [
-   "Dólar comercial cotado a R$ 5,488 após alta de 0,67% no dia 5 de outubro.",
-   "Ibovespa oscilou entre máxima de 168.994,33 e mínima de 166.249,09 pontos no pregão.",
-   "Manutenção da Selic em 13,75% foi decisão unânime do Comitê de Política Monetária do Banco Central.",
-   "Perdas em Wall Street foram motivadas por temores de regulação após vitória dos democratas nas eleições nos EUA.",
-   "Declínio de 0,8% na produção industrial ocorreu ao comparar setembro com agosto de 2023.",
-   "Reunião em Brasília contou com Lula, ministros, ex-ministros e conselheiros para debater política econômica.",
-   "Pronunciamento do presidente Lula sobre política fiscal está programado para o domingo seguinte."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Dario Durigan, ministro da Fazenda",
-    "oque": "Governar quer aprofundar análise econômica, reafirmando compromisso com contas públicas sustentáveis."
-   },
-   {
-    "quem": "Vitor Kayo, Nomad",
-    "oque": "Diferencial de juros elevado entre Brasil e EUA deve dar suporte ao real, mas dólar segue sensível à política fiscal."
-   },
-   {
-    "quem": "Lucas Xavier, AW Capital",
-    "oque": "Mudança no dólar indica que investidores estrangeiros estão mais avessos ao risco e exigentes."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "5 de outubro de 2023",
-    "oque": "Dólar sobe 0,67% e Ibovespa cai 0,82%, Selic mantida em 13,75%."
-   },
-   {
-    "quando": "4 de outubro de 2023",
-    "oque": "Copom decide manter Selic em 13,75%, após cinco cortes consecutivos."
-   },
-   {
-    "quando": "8 de outubro de 2023 (domingo)",
-    "oque": "Pronunciamento do presidente Lula sobre disciplina orçamentária está previsto."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira, usada para controlar inflação."
-   },
-   {
-    "termo": "Ibovespa",
-    "significado": "Principal índice da Bolsa de Valores de São Paulo, mede desempenho das ações."
-   },
-   {
-    "termo": "Índice DXY",
-    "significado": "Mede o valor do dólar frente a uma cesta de seis moedas fortes."
-   }
-  ],
-  "pergunta": "Como você vê o impacto da manutenção da Selic na economia e seus investimentos?",
-  "tamanhoTexto": 13530,
-  "numeros": [
-   {
-    "valor": "5,488",
-    "rotulo": "Cotação do dólar comercial em reais na quinta (5)"
-   },
-   {
-    "valor": "0,67%",
-    "rotulo": "Alta do dólar na quinta (5)"
-   },
-   {
-    "valor": "166191,45",
-    "rotulo": "Pontos do Ibovespa no fechamento do pregão"
-   },
-   {
-    "valor": "-0,82%",
-    "rotulo": "Queda do Ibovespa na quinta (5)"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic mantida pelo Banco Central"
-   },
-   {
-    "valor": "-0,8%",
-    "rotulo": "Queda da produção industrial em setembro ante agosto"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Selic",
-    "antes": "sequência de cinco cortes até 13,75%",
-    "depois": "mantida em 13,75%, sem novo corte"
-   },
-   {
-    "item": "Dólar comercial",
-    "antes": "R$ 5,4511 na quarta (4)",
-    "depois": "R$ 5,488 na quinta (5)"
-   }
-  ],
-  "destaque": "0,67% alta do",
-  "porQueImporta": "A alta do dólar e a manutenção dos juros refletem um cenário de cautela e incerteza, que afeta custos de importação, investimentos e rentabilidade de ativos. Para quem opera ou investe, entender esse contexto é crucial para avaliar riscos na renda variável, câmbio e juros.",
-  "impactoMercado": "A valorização do dólar e a queda do Ibovespa indicam aversão a risco, especialmente em setores ligados à tecnologia. Manutenção da Selic pode conter pressões inflacionárias, mas mantém custos de crédito elevados, influenciando o mercado de renda fixa e ações brasileiras.",
-  "entenda": "O índice Ibovespa reúne as ações mais negociadas na bolsa brasileira e reflete o humor do mercado. A Selic é a taxa básica de juros que influencia todos os demais juros da economia. O dólar é a moeda americana, utilizada como referência global. A aversão ao risco faz investidores preferirem ativos mais seguros, valorizando o dólar.",
-  "observar": "Acompanhe o pronunciamento de Lula no domingo (8) e o payroll dos EUA, que podem afetar o cenário de juros, câmbio e bolsa nos próximos dias.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Notícia mostra detalhes econômicos reais que influenciam câmbio e bolsa, ajudando seguidores a entenderem decisões de juros, dinâmica global e mudanças no perfil do investidor.",
-  "gancho": "*dólar* e *Selic*: impacto no mercado",
-  "ideias": [
-   "Por que o dólar subiu e o que isso significa para o Brasil?",
-   "Entenda a importância da manutenção da Selic a 13,75%",
-   "Como a aversão ao risco global pressiona a bolsa brasileira?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Agência Brasil Economia; Money Times; BP Money",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T23:30:41-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-volta-aproximar-se-de-r-549-em-dia-de-instabilidade-global",
-  "publicadoEm": "2026-11-05T19:11:00-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-14"
- },
- {
-  "titulo": "Flávio Bolsonaro nomeia dois assessores após viajar para os EUA",
-  "resumo": "Senador Flávio Bolsonaro indicou Fabiano Araújo e Maria Carolina para seu gabinete em 3/11. Ele está nos EUA após determinação judicial entregar passaportes.",
-  "fatos": [
-   "Flávio Bolsonaro nomeou dois assessores em 3 de novembro de 2026.",
-   "Os cargos indicados foram auxiliar parlamentar pleno e sênior.",
-   "O senador está nos Estados Unidos desde a semana anterior.",
-   "Ministro Alexandre de Moraes determinou entrega dos passaportes do senador.",
-   "Flávio é investigado por lavagem de dinheiro no STF.",
-   "Segundo a Constituição, senador pode perder mandato se deixar de justificar faltas.",
-   "Antes de fugir, Flávio afirmou que não sairia do país e que entregaria passaportes.",
-   "Polícia Federal apontou risco concreto de evasão.",
-   "Willer Tomaz, amigo e advogado de Flávio, também está nos EUA sob investigação."
-  ],
-  "explicacao": [
-   "Na última quarta-feira, 3 de novembro de 2026, o senador Flávio Bolsonaro nomeou dois novos assessores para seu gabinete no Senado: Fabiano Augusto de Souza Araújo como auxiliar parlamentar pleno e Maria Carolina Albuquerque e Silva como auxiliar parlamentar sênior.",
-   "Essa nomeação ocorre após Flávio Bolsonaro deixar o Brasil e ir para os Estados Unidos, fugindo de uma decisão do ministro Alexandre de Moraes do STF, que determinou a entrega de seus passaportes devido a investigações envolvendo lavagem de dinheiro.",
-   "A saída do país traz riscos ao mandato do senador, pois a Constituição prevê a perda do cargo se ele faltar às sessões legislativas sem justificativa adequada, e a Justiça teme uma evasão. Mesmo assim, ele mantém cargo com equipe ampliada no Senado.",
-   "O caso continua nos tribunais e o senador ainda pode perder o mandato, enquanto a investigação sobre sua conduta avança ao lado do processo judicial que motivou a medida da Polícia Federal."
-  ],
-  "detalhes": [
-   "As nomeações ocorreram no Senado, onde Flávio mantém gabinete ativo.",
-   "Fabiano Araújo e Maria Carolina Silva foram os assessores nomeados.",
-   "A decisão de deixar o Brasil ocorreu após ordem do STF.",
-   "Flávio Bolsonaro é ex-candidato à Presidência pelo PL.",
-   "A investigação inclui os casos Dark Horse e lavagem de dinheiro.",
-   "A falta do senador às sessões pode levar à perda do mandato conforme artigo 55 da Constituição.",
-   "O episódio está ligado a medidas cautelares da Polícia Federal."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Flávio Bolsonaro, senador",
-    "oque": "Eu nunca pensei em sair do país e vou entregar meus passaportes para me defender."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "26 de outubro de 2026",
-    "oque": "Flávio publica vídeo dizendo que não deixaria o país."
-   },
-   {
-    "quando": "Última semana antes de 3 de",
-    "oque": "Flávio Bolsonaro viaja para os Estados Unidos."
-   },
-   {
-    "quando": "3 de novembro de 2026",
-    "oque": "Nomeação de dois assessores no gabinete de Flávio Bolsonaro."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Mandato parlamentar",
-    "significado": "Cargo eletivo de representante no Legislativo."
-   },
-   {
-    "termo": "Constituição",
-    "significado": "Conjunto de leis fundamentais do país."
-   },
-   {
-    "termo": "STF",
-    "significado": "Supremo Tribunal Federal, a mais alta corte do Brasil."
-   }
-  ],
-  "pergunta": "Você acha que a ausência do senador pode comprometer seu mandato?",
-  "tamanhoTexto": 10606,
-  "numeros": [
-   {
-    "valor": "2",
-    "rotulo": "número de assessores nomeados em 3 de novembro"
-   },
-   {
-    "valor": "5",
-    "rotulo": "assessores no gabinete com cargo sênior"
-   },
-   {
-    "valor": "4",
-    "rotulo": "assessores no gabinete com cargo pleno"
-   },
-   {
-    "valor": "26/10/2026",
-    "rotulo": "data do vídeo em que Flávio negava saída do Brasil"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Nomeação de assessores",
-  "porQueImporta": "Essa notícia é importante porque mostra como movimentações políticas e judiciais podem impactar a estrutura e a continuidade do trabalho legislativo, além de evidenciar o risco que investigações judiciais trazem para a permanência de um mandato no Senado.",
-  "impactoMercado": "Para investidores, essa instabilidade política e judicial pode aumentar a percepção de risco no ambiente político, influenciando o humor do mercado e podendo afetar setores sensíveis à governança e regulação.",
-  "entenda": "O senador é um representante eleito que pode perder seu mandato se faltar às sessões sem justificativa. Nomear assessores é manter a equipe para executar as atividades legislativas, mas a ausência física prolongada pode resultar na perda do cargo conforme a Constituição.",
-  "observar": "Acompanhe as próximas sessões do Senado para ver se o senador Flávio Bolsonaro ressurgirá ou se o processo para perda de mandato avança. Também fique atento a novas decisões do STF.",
-  "publico": [
-   "Investidores",
-   "Iniciantes",
-   "Day traders"
-  ],
-  "angulo": "A notícia ilustra como acontecimentos jurídicos influenciam a estrutura política e podem afetar o ambiente para quem opera ou investe, reforçando a importância de conhecer o funcionamento do cenário político para entender riscos no mercado.",
-  "gancho": "*Política* e *mercado*: impactos de uma nomeação",
-  "ideias": [
-   "Flávio Bolsonaro e os riscos de perder o mandato",
-   "O que acontece quando um senador deixa o país?",
-   "Como nomeação de assessores influencia o trabalho no Senado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "alvo",
-  "fonte": "Times Brasil; Folha Mercado",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T23:30:41-03:00",
-  "url": "https://timesbrasil.com.br/brasil/flavio-bolsonaro-indica-dois-funcionarios-para-seu-gabinete-depois-de-fugir-do-pais/",
-  "publicadoEm": "2026-11-05T22:47:53-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-15"
- },
- {
-  "titulo": "Lucro do Assaí cresce 119% no 3º trimestre com reconhecimento tributário",
-  "resumo": "Assaí teve lucro líquido de R$ 427 milhões no 3º trimestre de 2026, alta de 119% ante 2025. O resultado inclui R$ 179 milhões de créditos tributários de PIS/Cofins.",
-  "fatos": [
-   "Lucro líquido do Assaí no 3º trimestre de 2026 foi de R$ 427 milhões",
-   "Alta de 119% em relação ao 3º trimestre de 2025",
-   "Inclui R$ 179 milhões de créditos de PIS/Cofins reconhecidos",
-   "Lucro líquido recorrente foi de R$ 248 milhões, avanço de 55,2%",
-   "Margem bruta subiu de 16,7% para 17,2% entre 2025 e 2026",
-   "Vendas nas mesmas lojas cresceram apenas 0,1% no trimestre",
-   "Ebitda ajustado foi de R$ 1,08 bilhão, estável em comparação anual",
-   "Alavancagem caiu de 3,03 para 2,15 vezes a relação dívida líquida/Ebitda",
-   "Geração de caixa operacional caiu R$ 871 milhões, para R$ 3,34 bilhões",
-   "Estratégia priorizou rentabilidade e redução do endividamento"
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, o Assaí registrou lucro líquido de R$ 427 milhões, um crescimento de 119% em relação ao mesmo período de 2025. Esse montante considera R$ 179 milhões relativos ao reconhecimento de créditos tributários de PIS/Cofins extemporâneos.",
-   "A estabilidade das vendas e das margens da companhia indicam que a melhora no lucro foi influenciada também pela redução dos custos financeiros e pelo reconhecimento dos créditos tributários que impactaram positivamente o custo das mercadorias vendidas.",
-   "Se desconsiderarmos esses efeitos não recorrentes, o lucro líquido recorrente do Assaí foi de R$ 248 milhões, crescendo 55,2% em relação ao terceiro trimestre de 2025, enquanto a margem bruta subiu de 16,7% para 17,2% no período.",
-   "O presidente Belmiro de Figueiredo Gomes destacou que a empresa optou por priorizar a rentabilidade e a redução do endividamento, mesmo que isso levasse a um crescimento mais modesto das vendas em um cenário macroeconômico desafiador, mantendo preços competitivos e reduzindo promoções."
-  ],
-  "detalhes": [
-   "Os créditos tributários reconheceram ganhos relacionados a PIS/Cofins extemporâneos",
-   "A empresa tem mais de 310 lojas no Brasil",
-   "As vendas nas mesmas lojas evoluíram pouco, 0,1% no trimestre",
-   "Margem do Ebitda foi mantida em 5,7%, quase igual a 2025",
-   "A redução do custo financeiro contribuiu para o aumento do lucro",
-   "Alavancagem caiu para 2,15 vezes em setembro de 2026",
-   "Geração de caixa livre recuou ligeiramente para R$ 2,76 bilhões"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Belmiro de Figueiredo Gomes, presidente do Assaí",
-    "oque": "Priorizar rentabilidade e redução do endividamento foi melhor que crescer vendas a qualquer custo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Lucro líquido do Assaí de R$ 427 milhões, crescimento de 119% ano a ano"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro líquido",
-    "significado": "Resultado final da empresa após despesas e impostos"
-   },
-   {
-    "termo": "Créditos tributários",
-    "significado": "Valores recuperáveis de tributos pagos a mais ou indevidamente"
-   },
-   {
-    "termo": "Margem bruta",
-    "significado": "Percentual que sobra das vendas após custos diretos"
-   }
-  ],
-  "pergunta": "Você já conhecia o impacto dos créditos tributários nos resultados financeiros da empresa?",
-  "tamanhoTexto": 7477,
-  "numeros": [
-   {
-    "valor": "427 milhões",
-    "rotulo": "Lucro líquido no 3º trimestre 2026"
-   },
-   {
-    "valor": "179 milhões",
-    "rotulo": "Créditos tributários de PIS/Cofins reconhecidos"
-   },
-   {
-    "valor": "248 milhões",
-    "rotulo": "Lucro líquido recorrente no 3º trimestre"
-   },
-   {
-    "valor": "17,2%",
-    "rotulo": "Margem bruta no 3º trimestre 2026"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "Crescimento das vendas mesmas lojas"
-   },
-   {
-    "valor": "1,08 bilhão",
-    "rotulo": "Ebitda ajustado no trimestre"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Lucro líquido subiu",
-  "porQueImporta": "Esse resultado mostra como o reconhecimento de créditos tributários e a redução de custos financeiros podem melhorar significativamente o lucro de uma empresa. Para quem investe ou opera, é importante entender esse impacto nos resultados e como estratégias de rentabilidade influenciam o desempenho diante da economia desaﬁadora.",
-  "impactoMercado": "A estratégia do Assaí focada em rentabilidade e controle do endividamento pode reforçar a percepção positiva sobre a gestão da empresa no mercado. Setores com margens apertadas e alta concorrência, como o varejo, precisam monitorar esses efeitos nos balanços para avaliar riscos e oportunidades.",
-  "entenda": "Lucro líquido é o resultado final que a empresa tem depois de todas as despesas e impostos. Créditos tributários são valores que a empresa tem direito a recuperar do governo, o que pode aumentar o lucro do período. Margem bruta indica o quanto sobra das vendas após o custo das mercadorias vendidas.",
-  "observar": "Fique atento aos próximos resultados financeiros trimestrais do Assaí e à divulgação de estratégias sobre preços e endividamento, que podem refletir no desempenho futuro da companhia.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Entenda como fatores contábeis e estratégias de rentabilidade afetam o lucro das empresas do varejo, uma base essencial para quem quer operar e entender balanços no mercado financeiro.",
-  "gancho": "*Lucro* em alta no *Assaí*",
-  "ideias": [
-   "Como créditos tributários ajudaram o lucro do Assaí?",
-   "Entenda o que impactou a margem e as vendas do Assaí no trimestre",
-   "Estratégia do Assaí: prioridade em rentabilidade e endividamento"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T23:30:41-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/05/lucro-do-assai-no-3o-trimestre-cresce-119percent.ghtml",
-  "publicadoEm": "2026-11-05T22:07:57-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-16"
- },
- {
-  "titulo": "Dívida externa de países em desenvolvimento alcança US$ 9,4 tri em 2025",
-  "resumo": "Banco Mundial revela aumento de 5,5% na dívida externa para US$ 9,4 trilhões em 2025, com juros altos para países mais pobres.",
-  "fatos": [
-   "A dívida externa de países em desenvolvimento atingiu US$ 9,4 trilhões em 2025.",
-   "O crescimento da dívida foi de 5,5% em 2025, o maior aumento anual desde 2021.",
-   "Países mais pobres pagam em média 8,2% de juros sobre novas dívidas privadas, maior desde 1989.",
-   "Empréstimos privados e emissões de títulos públicos desses países subiram 35%, para US$ 251 bilhões.",
-   "Dívida externa cresceu 8,1%, para US$ 1,3 trilhão, nos países elegíveis à AID.",
-   "Países pagaram US$ 1,4 trilhão em principal e juros em 2025, aumento pelo quinto ano consecutivo.",
-   "Pagamentos a credores privados cresceram 13,7% em 2025, chegando a US$ 363 bilhões.",
-   "Desvalorização do dólar foi responsável por 28% do aumento da dívida em moeda estrangeira.",
-   "Mais de dez países já excederam a meta anual de emissões de títulos até agosto de 2026.",
-   "Países em desenvolvimento tiveram influxo líquido de US$ 45 bilhões em novos fundos em 2025."
-  ],
-  "explicacao": [
-   "O Banco Mundial informou que em 2025 a dívida externa dos países de baixa e média renda atingiu um recorde de US$ 9,4 trilhões, um crescimento de 5,5% em relação ao ano anterior. Essa elevação representa o maior aumento anual desde 2021, logo após a pandemia da Covid-19.",
-   "Esse aumento ocorreu porque esses países estão contraindo mais empréstimos, principalmente no mercado internacional de títulos, porém pagando juros mais elevados — chegando a 8,2% em média para países mais pobres, a maior taxa desde 1989. Uma desvalorização do dólar contribuiu, elevando o valor da dívida em moeda estrangeira.",
-   "Isso significa que, apesar do maior acesso a financiamentos, os custos financeiros das dívidas dificultam investimentos essenciais em educação, saúde, infraestrutura e empregos nos países em desenvolvimento, impactando seu crescimento sustentável.",
-   "O Banco Mundial alerta para a necessidade de gestão responsável da dívida e transparência nos acordos, pois o aumento dos custos e o alto endividamento podem deixar essas nações vulneráveis a choques econômicos e comprometer seu desenvolvimento futuro."
-  ],
-  "detalhes": [
-   "Fonte da informação: Banco Mundial, Relatório Anual sobre Dívida Internacional.",
-   "Dados referentes a 2025 e início de 2026, divulgados em 5 de novembro de 2026.",
-   "Países de baixa e média renda incluem os elegíveis à Associação Internacional de Desenvolvimento (AID).",
-   "Juros médios para países que não se qualificam para empréstimos com juros baixos caíram de 5,8% para 5,5%.",
-   "Emissão de novos títulos frequentemente estende prazos a custos maiores, sem reduzir o saldo da dívida.",
-   "O aumento da dívida pode comprometer investimentos essenciais para o desenvolvimento sustentável.",
-   "O Banco Mundial recomenda maior transparência e gestão responsável da dívida para evitar vulnerabilidades."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Haishan Fu, estatístico-chefe do Banco Mundial",
-    "oque": "Países tomam mais empréstimos e pagam mais, mas destinam menos recursos para desenvolvimento a longo prazo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2025",
-    "oque": "Dívida externa alcança recorde de US$ 9,4 trilhões, aumento de 5,5%."
-   },
-   {
-    "quando": "Até agosto de 2026",
-    "oque": "Mais de dez países excedem meta anual de emissões de títulos."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dívida externa",
-    "significado": "Empréstimos de um país tomados junto a credores estrangeiros."
-   },
-   {
-    "termo": "Associação Internacional de Desenvolvimento (AID)",
-    "significado": "Parte do Banco Mundial que concede empréstimos em condições favoráveis para países pobres."
-   },
-   {
-    "termo": "Serviço da dívida",
-    "significado": "Pagamento de juros e amortização de empréstimos."
-   }
-  ],
-  "pergunta": "Como o aumento da dívida externa impacta o seu entendimento sobre risco em investimentos internacionais?",
-  "tamanhoTexto": 11845,
-  "numeros": [
-   {
-    "valor": "US$ 9,4 trilhões",
-    "rotulo": "Dívida externa total em 2025"
-   },
-   {
-    "valor": "5,5%",
-    "rotulo": "Crescimento anual da dívida externa em 2025"
-   },
-   {
-    "valor": "8,2%",
-    "rotulo": "Juros médios pagos por países mais pobres em novos empréstimos privados"
-   },
-   {
-    "valor": "35%",
-    "rotulo": "Aumento dos empréstimos privados e emissões de títulos em 2025"
-   },
-   {
-    "valor": "US$ 251 bilhões",
-    "rotulo": "Valor total de empréstimos e emissões em 2025"
-   },
-   {
-    "valor": "13,7%",
-    "rotulo": "Aumento dos pagamentos a credores privados em 2025"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 9,4 trilhões",
-  "porQueImporta": "O aumento recorde da dívida externa dos países em desenvolvimento, somado aos juros elevados, pode limitar investimentos em setores essenciais e aumentar o risco financeiro dessas nações, afetando a estabilidade econômica global e as oportunidades de negócios internacionais.",
-  "impactoMercado": "Investidores e operadores devem monitorar o endividamento crescente e custos elevados, pois podem influenciar o apetite por risco, fluxos de capital e o desempenho de ativos ligados a mercados emergentes e moedas dessas economias.",
-  "entenda": "A dívida externa consiste nos empréstimos que um país toma de credores estrangeiros, com prazos e juros definidos. Juros elevados aumentam o custo desse endividamento, pressionando as finanças públicas e podendo afetar o crescimento econômico do país.",
-  "observar": "Acompanhe as próximas atualizações do Banco Mundial e eventos econômicos globais que possam afetar a dívida externa e a sustentabilidade fiscal dos países em desenvolvimento.",
-  "publico": [
-   "Investidores",
-   "Empresários",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia ajuda quem quer entender os riscos globais do endividamento e suas consequências, mostrando o papel da educação financeira para interpretar esses dados e preparar estratégias conscientes no mercado.",
-  "gancho": "*Dívida* externa bate *recorde*",
-  "ideias": [
-   "O que significa o recorde da dívida externa em países emergentes?",
-   "Como juros altos afetam países em desenvolvimento?",
-   "Dívida externa: impacto no crescimento e investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "cadeado",
-  "fonte": "Folha Mercado; InvestNews",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T23:30:41-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/divida-externa-de-paises-em-desenvolvimento-atinge-recorde-de-us-94-tri-em-2025-diz-banco-mundial.shtml",
-  "publicadoEm": "2026-11-05T19:40:00-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-17"
- },
- {
-  "titulo": "Lara Resende nega tabelamento e propõe Selic a 7,5% em 12 meses",
-  "resumo": "Economista Lara Resende defende baixar Selic para 7,5% em um ano, negando tabelamento. Ele propõe alinhar juros à realidade internacional e coordenação fiscal e monetária.",
-  "fatos": [
-   "André Lara Resende propõe reduzir a Selic para 7,5% em 12 meses.",
-   "Meta de inflação atualmente está em 3%.",
-   "Crescimento nominal potencial da economia estimado em 5,5%.",
-   "Proposta publicada em artigo de 25 de setembro.",
-   "Economista participou da criação da URV em 1994.",
-   "Lara Resende negou reunião marcada com presidente Lula.",
-   "Deputada federal Gleisi Hoffman apoia a proposta.",
-   "Resistência veio principalmente do mercado financeiro.",
-   "Declaração dada em entrevista à BBC Brasil em 05/11/2026."
-  ],
-  "explicacao": [
-   "O economista André Lara Resende esclareceu que sua sugestão de reduzir a taxa Selic para cerca de 7,5% dentro de 12 meses não configura tabelamento de juros. Ele argumenta que a proposta busca equiparar os juros brasileiros aos internacionais, que seriam, segundo ele, metade da taxa real vigente.",
-   "A proposta está baseada na redução gradual da Selic, buscando manter a taxa dentro de uma faixa delimitada pela meta de inflação de 3% e o crescimento nominal potencial da economia, estimado em 5,5%. Lara Resende também recomenda uma melhor coordenação entre políticas fiscal e monetária para equilibrar as contas públicas.",
-   "Ele lembra que propostas econômicas inovadoras podem encontrar resistência no início, citando o exemplo da URV em 1994, iniciativa que ele ajudou a criar. Embora não haja garantias de sucesso, considera que a proposta tem grande chance de funcionar se bem compreendida e implementada.",
-   "Sobre especulações de reuniões com o presidente Lula, Lara Resende as negou, afirmando que não tem contato nem encontro marcado com o presidente. Ele vê esses rumores como tentativas de desqualificar a proposta e destaca descontentamento entre profissionais de mercado financeiro."
-  ],
-  "detalhes": [
-   "A proposta busca alinhar juros brasileiros com os internacionais, reduzindo a taxa Selic atual para metade da taxa real.",
-   "O artigo original da proposta foi publicado em 25 de setembro de 2026.",
-   "O economista usa a experiência da URV para ilustrar possíveis resistências a mudanças econômicas importantes.",
-   "A proposta sugere uma taxa Selic ancorada entre a meta de inflação e o crescimento nominal potencial da economia.",
-   "Lara Resende afirmou que não tem interesse em participar do governo Lula.",
-   "Gleisi Hoffman, ex-presidente do PT, apoia a ideia de reduzir a taxa Selic.",
-   "Rumores de encontro com Lula foram desmentidos e vistos como tentativa de desqualificar a proposta."
-  ],
-  "declaracoes": [
-   {
-    "quem": "André Lara Resende, economista",
-    "oque": "Proposta visa baixar juros para nível compatível com os internacionais, não tabelamento."
-   },
-   {
-    "quem": "André Lara Resende, economista",
-    "oque": "Não tenho reunião marcada com Lula; rumores são para queimar a proposta."
-   },
-   {
-    "quem": "André Lara Resende, economista",
-    "oque": "Proposta, se bem entendida e implementada, tem alta probabilidade de dar certo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "25 de setembro de 2026",
-    "oque": "Lara Resende publica artigo propondo redução gradual da Selic."
-   },
-   {
-    "quando": "05 de novembro de 2026",
-    "oque": "Economista concede entrevista negando tabelamento e encontro com Lula."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros usada para controlar a inflação no Brasil."
-   },
-   {
-    "termo": "Meta de inflação",
-    "significado": "Objetivo oficial de aumento anual de preços no país."
-   },
-   {
-    "termo": "URV",
-    "significado": "Unidade Real de Valor, criada para controlar a hiperinflação em 1994."
-   }
-  ],
-  "pergunta": "Você acredita que baixar a Selic para 7,5% pode equilibrar a economia?",
-  "tamanhoTexto": 3247,
-  "numeros": [
-   {
-    "valor": "7,5%",
-    "rotulo": "taxa Selic proposta em 12 meses"
-   },
-   {
-    "valor": "3%",
-    "rotulo": "meta atual de inflação"
-   },
-   {
-    "valor": "5,5%",
-    "rotulo": "crescimento nominal potencial da economia"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "7,5% Selic em",
-  "porQueImporta": "Reduzir a taxa Selic influencia o custo do dinheiro, afetando empréstimos e investimentos. Ajustar os juros à realidade internacional pode reduzir desequilíbrios fiscais e impactar decisões de investidores e operadores.",
-  "impactoMercado": "A proposta pode provocar ajustes em setores sensíveis a juros, como crédito e investimentos. O mercado financeiro pode reagir à expectativa de uma Selic mais baixa, influenciando preços de títulos e ações e a percepção de risco do Brasil.",
-  "entenda": "A taxa Selic é o principal instrumento do Banco Central para controlar a inflação. Quando alta, ela encarece crédito e controla preços; quando baixa, estimula consumo e investimento. Modificar a Selic afeta toda a economia e o mercado financeiro.",
-  "observar": "Fique atento a próximos comunicados do Banco Central sobre a definição da Selic e a postura do governo diante da coordenação fiscal e monetária proposta.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "A notícia explica uma proposta importante para entender o funcionamento da política monetária e seus efeitos, mostrando como o mercado reage e porque acompanhar o cenário econômico é fundamental para operar melhor.",
-  "gancho": "*Selic* em queda proposta",
-  "ideias": [
-   "Entenda a proposta de Lara Resende para a Selic",
-   "Por que falar em Selic a 7,5% causa polêmica?",
-   "O que significa alinhar juros à meta de inflação?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T23:30:41-03:00",
-  "url": "https://valor.globo.com/brasil/noticia/2026/11/05/lara-resende-nega-que-proponha-tabelamento-de-juros.ghtml",
-  "publicadoEm": "2026-11-05T23:07:06-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-18"
- },
- {
-  "tipo": "sinal",
-  "slug": "largest-company-end-of-december-2026",
-  "titulo": "Mercado de previsões vê 84.6% de chance da Apple ser a maior empresa em dezembro de 2026",
-  "resumo": "As apostas indicam forte confiança na Apple como líder de mercado, apesar da competição de outras grandes empresas.",
-  "probs": [
-   {
-    "opcao": "Apple",
-    "prob": 84.6
-   },
-   {
-    "opcao": "NVIDIA",
-    "prob": 14.5
-   },
-   {
-    "opcao": "Microsoft",
-    "prob": 0.9
-   },
-   {
-    "opcao": "Alphabet",
-    "prob": 0.4
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 142 mil",
-  "fatos": [
-   "Apple: 84,6%",
-   "NVIDIA: 14,5%",
-   "Microsoft: 0,9%",
-   "Alphabet: 0,4%"
-  ],
-  "numeros": [
-   {
-    "valor": "84,6%",
-    "rotulo": "Apple"
-   },
-   {
-    "valor": "14,5%",
-    "rotulo": "NVIDIA"
-   },
-   {
-    "valor": "0,9%",
-    "rotulo": "Microsoft"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Alphabet"
-   }
-  ],
-  "destaque": "84,6%",
-  "gancho": "*Maior empresa* em 2026?",
-  "entenda": "A classificação das maiores empresas geralmente reflete o desempenho financeiro e o valor de mercado delas, influenciando o sentimento do investidor.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-  "publicadoEm": "2026-11-05T23:30:41-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-05T23:30:41-03:00",
-  "data": "2026-11-05",
-  "status": "atualizada",
-  "id": "2026-11-05-p4",
-  "atualizadoEm": "2026-11-11T19:16:47-03:00"
- },
- {
-  "titulo": "Colapso do Ueno Bank no Paraguai derruba presidente em crise política",
-  "resumo": "A intervenção no Ueno Bank, com quase 3 milhões de clientes, gerou crise política e a renúncia do presidente Santiago Peña.",
-  "fatos": [
-   "Ueno Bank tinha cerca de 3 milhões de clientes em um país com pouco mais de 6 milhões de habitantes.",
-   "Banco Central do Paraguai interveio no Ueno Bank em 3 de novembro de 2026.",
-   "Santiago Peña foi acionista do grupo controlador do Ueno Bank até 2025.",
-   "Presidente do Banco Central, Carlos Carvallo, renunciou após a intervenção no banco.",
-   "Congresso iniciou processo de impeachment contra Peña e seu vice Pedro Alliana.",
-   "Peña renunciou em 5 de novembro de 2026, mas Câmara decidiu continuar o impeachment.",
-   "Depósitos bloqueados no Ueno somam cerca de 17 trilhões de guaranis, cerca de US$ 2,8 bilhões.",
-   "S&P Global Ratings e Fitch rebaixaram a nota do Ueno Bank para default.",
-   "Mais de 50 mil novas contas foram abertas em outros bancos em dois dias após o colapso."
-  ],
-  "explicacao": [
-   "A crise começou quando o Ueno Bank, um dos maiores bancos do Paraguai, bloqueou o acesso de milhares de clientes aos seus recursos, resultando em caos financeiro e protestos em novembro de 2026.",
-   "A intervenção do Banco Central paraguaio revelou fragilidades financeiras do banco e acusou conflitos de interesse envolvendo o presidente Santiago Peña, que foi acionista do grupo controlador até 2025.",
-   "O escândalo político escalou rapidamente: o presidente do Banco Central renunciou, deputados pediram impeachment de Peña e do vice-presidente, e manifestações públicas aumentaram a pressão.",
-   "Peña renunciou para preservar a estabilidade institucional, mas o Congresso decidiu prosseguir com o processo de impeachment, mantendo a crise política e financeira ativa e sem resolução imediata."
-  ],
-  "detalhes": [
-   "O Ueno Bank era símbolo da modernização financeira paraguaia até a crise.",
-   "Irregularidades foram alertadas em relatórios internos desde 2025, incluindo conflito de interesses e concessão inadequada de crédito.",
-   "A crise levou a confrontos entre manifestantes e polícia em Assunção.",
-   "O Banco Central buscou desmentir rumores para evitar pânico no sistema financeiro.",
-   "Partido Colorado, base governista, dividiu-se com líderes apoiando impeachment.",
-   "Institutos públicos, como o Instituto de Previdência Social, têm grandes depósitos bloqueados no Ueno.",
-   "A renúncia de Peña tenta evitar perda do foro privilegiado, mas o Congresso não aceitou renúncia."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Santiago Peña, presidente do Paraguai",
-    "oque": "Renunciou para preservar a estabilidade e pediu desculpas aos afetados pela crise do banco."
-   },
-   {
-    "quem": "Horacio Cartes, líder do partido governista",
-    "oque": "Apoiou o impeachment de Peña, condenando o saque de recursos públicos e privados."
-   },
-   {
-    "quem": "Banco Central do Paraguai",
-    "oque": "Afirmou que rumores sobre pânico no sistema bancário eram falsos e que sistema está solvente."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3 de novembro de 2026",
-    "oque": "Banco Central intervém no Ueno Bank e clientes perdem acesso ao dinheiro."
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Presidente do Banco Central renuncia e oposição protocola pedido de impeachment."
-   },
-   {
-    "quando": "5 de novembro de 2026",
-    "oque": "Santiago Peña anuncia renúncia; Congresso decide manter processo de impeachment."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Intervenção Bancária",
-    "significado": "Controle temporário do banco pelo Estado para proteger clientes e o sistema."
-   },
-   {
-    "termo": "Impeachment",
-    "significado": "Procedimento político de julgamento para afastar autoridades públicas."
-   },
-   {
-    "termo": "Solvência",
-    "significado": "Capacidade da instituição de pagar suas dívidas."
-   }
-  ],
-  "pergunta": "Como você acha que uma crise bancária pode afetar a política de um país?",
-  "tamanhoTexto": 19187,
-  "numeros": [
-   {
-    "valor": "3 milhões",
-    "rotulo": "Clientes do Ueno Bank"
-   },
-   {
-    "valor": "6 milhões",
-    "rotulo": "População do Paraguai"
-   },
-   {
-    "valor": "17 trilhões de guaranis",
-    "rotulo": "Depósitos bloqueados no Ueno Bank (US$ 2,8 bilhões)"
-   },
-   {
-    "valor": "355 milhões de dólares",
-    "rotulo": "Débitos do Instituto de Previdência Social no Ueno Bank"
-   },
-   {
-    "valor": "2 dias",
-    "rotulo": "Período em que 50 mil contas foram abertas em bancos alternativos"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "3 milhões clientes",
-  "porQueImporta": "A crise do Ueno Bank mostra como problemas em grandes instituições financeiras locais podem impactar governos e a confiança dos investidores, evidenciando riscos que vão além do setor bancário, afetando estabilidade política e econômica.",
-  "impactoMercado": "Investidores devem observar o ambiente de risco na América do Sul, pois crises financeiras com repercussão política podem aumentar volatilidade e afetar moedas, bolsas e setores ligados ao crédito e sistema financeiro.",
-  "entenda": "O impeachment é um processo legal para destituir um governante acusado de irregularidades. A intervenção bancária ocorre quando autoridades assumem controle para garantir estabilidade diante de problemas financeiros, protegendo depositantes e o sistema.",
-  "observar": "Acompanhe o desfecho do processo de impeachment, análises do Banco Central do Paraguai e pagamentos aos depositantes, pois impactarão a confiança no sistema financeiro regional.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Explicamos como uma crise bancária significativa no Paraguai levou à queda de um presidente, mostrando a relação entre finanças e política, e convidando a entender riscos e mecanismos do mercado.",
-  "gancho": "*Crise* no Ueno Bank derruba presidente",
-  "ideias": [
-   "Como a crise do Ueno Bank afetou a política do Paraguai",
-   "O que é intervenção bancária e quais seus impactos?",
-   "Liçōes da queda do presidente paraguaio para investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "cadeado",
-  "fonte": "Seu Dinheiro; G1 Economia; InvestNews",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T22:47:25-03:00",
-  "url": "https://www.seudinheiro.com/2026/internacional/ueno-bank-colapso-crise-relampago-abala-paraguai-derruba-presidente-ainda-parece-longe-fim-rsgp/",
-  "publicadoEm": "2026-11-05T16:00:00-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-11"
- },
- {
-  "titulo": "Petrorecôncavo registra lucro 94% maior no 3º trimestre de 2026",
-  "resumo": "A Petrorecôncavo teve lucro líquido de R$ 236 milhões no 3º trimestre, alta de 94% sobre 2025. Receita líquida ficou estável em R$ 786,2 milhões no período.",
-  "fatos": [
-   "Lucro líquido de R$ 236 milhões no 3º trimestre de 2026",
-   "Alta de 94% no lucro em relação ao 3º trimestre de 2025 (R$ 121,9 milhões)",
-   "Receita líquida estável em R$ 786,2 milhões entre julho e setembro",
-   "Lucro Ebitda ajustado de R$ 378,6 milhões, crescimento de 8% anual",
-   "Produção diária de 23,6 mil barris de óleo equivalente, queda de 10%",
-   "Custo de extração foi US$ 16,52 por barril, 6% acima do ano anterior",
-   "Preço médio do barril de petróleo foi US$ 86,02, alta de 45%",
-   "Preço médio do gás foi US$ 10,18 por milhão de BTUs, alta de 6%"
-  ],
-  "explicacao": [
-   "A Petrorecôncavo divulgou seu balanço do terceiro trimestre de 2026, registrando lucro líquido de R$ 236 milhões, crescimento de 94% em relação aos R$ 121,9 milhões do mesmo período do ano passado. A receita líquida ficou praticamente estável em R$ 786,2 milhões.",
-   "O lucro antes de juros, impostos, depreciação e amortização (Ebitda) ajustado ficou em R$ 378,6 milhões, alta de 8% sobre os R$ 349,9 milhões do 3º trimestre de 2025. A produção diária caiu 10%, para 23,6 mil barris de óleo equivalente, e os custos de extração por barril aumentaram 6%.",
-   "A alta expressiva no lucro se deve ao aumento do preço médio do barril de petróleo, que subiu 45% para US$ 86,02, assim como o preço do gás, que cresceu 6%. Isso compensou a menor produção e custos maiores, mantendo a receita estável.",
-   "O resultado reforça a importância dos preços internacionais no desempenho das petroleiras. Para os próximos trimestres, a petroleira deve acompanhar as variações de preço do petróleo no mercado global e seus impactos nos custos e produção."
-  ],
-  "detalhes": [
-   "Balanço divulgado em 5 de novembro de 2026",
-   "Comparação dos resultados feita com o terceiro trimestre de 2025",
-   "Produção menor explica parte da estabilidade da receita frente ao preço elevado",
-   "Custos de extração subiram, mas efeito compensado pelo aumento do preço do petróleo",
-   "Ebitda ajustado destaca força operacional, com aumento apesar dos custos maiores",
-   "Preço do petróleo e gás segue como fator decisivo para os resultados financeiros da Petrorecôncavo",
-   "Resultado reflete a volatilidade do mercado internacional de commodities"
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "05/11/2026",
-    "oque": "Divulgação do balanço do 3º trimestre da Petrorecôncavo"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro líquido",
-    "significado": "Lucro após todos os custos, despesas, impostos e juros"
-   },
-   {
-    "termo": "Ebitda ajustado",
-    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização, ajustado"
-   },
-   {
-    "termo": "Barris de óleo equivalente (boe)",
-    "significado": "Unidade que converte petróleo e gás em um só número"
-   }
-  ],
-  "pergunta": "Como você acha que o preço do petróleo impacta o lucro das petroleiras?",
-  "tamanhoTexto": 8488,
-  "numeros": [
-   {
-    "valor": "236 milhões",
-    "rotulo": "Lucro líquido no 3º trimestre de 2026"
-   },
-   {
-    "valor": "121,9 milhões",
-    "rotulo": "Lucro líquido no 3º trimestre de 2025"
-   },
-   {
-    "valor": "786,2 milhões",
-    "rotulo": "Receita líquida no 3º trimestre de 2026"
-   },
-   {
-    "valor": "378,6 milhões",
-    "rotulo": "Lucro Ebitda ajustado no 3º trimestre de 2026"
-   },
-   {
-    "valor": "23,6 mil",
-    "rotulo": "Barris de óleo equivalente producidos por dia"
-   },
-   {
-    "valor": "10%",
-    "rotulo": "Queda na produção diária comparado a 2025"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "94% aumento no",
-  "porQueImporta": "O crescimento expressivo do lucro da Petrorecôncavo mostra como os preços globais do petróleo influenciam diretamente os resultados das petroleiras, mesmo com produção e custos oscilando. Isso é relevante para investidores entenderem os riscos e oportunidades nos negócios de commodities.",
-  "impactoMercado": "Resultados como este indicam que setores ligados a petróleo podem refletir ganhos significativos em cenários de preço alto, afetando as cotações de ações e os investimentos no setor. A estabilidade da receita mesmo com produção menor mostra adaptação operacional importante.",
-  "entenda": "O lucro líquido é o ganho da empresa após custos e despesas. Ebitda ajustado é um indicador de lucro operacional sem considerar juros e impostos, mostrando a capacidade de geração de caixa. Barris de óleo equivalente agregam petróleo e gás em uma unidade comum.",
-  "observar": "Próximos balanços trimestrais e flutuações nos preços internacionais do petróleo serão cruciais para acompanhar o desempenho da Petrorecôncavo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos com números e conceitos claros o resultado da Petrorecôncavo e como fatores como preços do petróleo afetam o lucro, abrindo portas para entender o mercado financeiro e nossa faculdade.",
-  "gancho": "*Petrorecôncavo* cresce 94% no lucro",
-  "ideias": [
-   "Como o preço do petróleo elevou o lucro da Petrorecôncavo",
-   "Entenda o que é Ebitda e por que ele subiu na Petrorecôncavo",
-   "Por que produção caiu, mas lucro da Petrorecôncavo não"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T22:47:25-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/05/petroreconcavo-tem-alta-de-94percent-no-lucro-do-3o-trimestre.ghtml",
-  "publicadoEm": "2026-11-05T22:04:24-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-12"
- },
- {
-  "titulo": "Aura Minerals tem lucro 24 vezes maior no 3º trimestre de 2026",
-  "resumo": "A mineradora Aura Minerals registrou lucro líquido de US$ 135 milhões no 3º trimestre, 24 vezes superior ao mesmo período de 2025. O crescimento resultou de maior lucro operacional e ganhos com operações de hedge do ouro.",
-  "fatos": [
-   "Lucro líquido no 3º trimestre de 2026 foi US$ 135 milhões",
-   "Lucro líquido no 3º trimestre de 2025 foi US$ 5,6 milhões",
-   "Ganho não caixa com hedge do ouro foi US$ 12,7 milhões em 2026",
-   "Perda com hedge do ouro foi US$ 75,3 milhões em 2025",
-   "Lucro líquido ajustado subiu 77% para US$ 121,2 milhões",
-   "Receita líquida aumentou 56%, para US$ 386 milhões",
-   "Lucro operacional cresceu 50%, chegando a US$ 204,6 milhões",
-   "Ebitda ajustado subiu 56%, para US$ 236,9 milhões",
-   "Margem Ebitda ajustada foi 61%, contra zero no ano anterior",
-   "Dívida líquida subiu 6% para US$ 178,8 milhões"
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, a Aura Minerals reportou lucro líquido de US$ 135 milhões, um aumento de 24 vezes comparado aos US$ 5,6 milhões no mesmo período de 2025. O lucro operacional também cresceu 50%, alcançando US$ 204,6 milhões.",
-   "O crescimento do lucro se deve principalmente ao desempenho operacional melhor e a um ganho não caixa de US$ 12,7 milhões relacionado à marcação a mercado (MTM) das operações de proteção da cotação do ouro, que representou uma reversão em relação à perda de US$ 75,3 milhões no 3º trimestre de 2025.",
-   "Além disso, o lucro líquido ajustado, que exclui o ganho não caixa das operações de hedge, subiu 77% ano a ano, para US$ 121,2 milhões. A receita líquida da mineradora cresceu 56%, alcançando US$ 386 milhões, impulsionada principalmente pelo maior volume de vendas.",
-   "O Ebitda ajustado também aumentou 56% para US$ 236,9 milhões, com margem de 61%, contrastando com margem zerada no mesmo trimestre de 2025. A dívida líquida subiu levemente 6% no trimestre para US$ 178,8 milhões, enquanto a relação dívida/Ebitda melhorou para 0,2 vez."
-  ],
-  "detalhes": [
-   "Comparação da empresa entre 3º trimestre de 2025 e 2026",
-   "Crescimento impulsionado por ganhos operacionais e questões contábeis (MTM do hedge do ouro)",
-   "Lucro ajustado exclui ganhos não caixa para medir resultado operacional real",
-   "Volume de vendas maior contribuiu para aumento da receita líquida",
-   "Melhora na margem Ebitda indica maior eficiência operacional",
-   "Dívida líquida e relação com Ebitda mantêm níveis saudáveis",
-   "Contexto econômico e previsto aumento da demanda global por ouro"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Aura Minerals (informações oficiais da empresa)",
-    "oque": "Crescimento do lucro resultou do maior lucro operacional e ganhos com hedge do ouro"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2025",
-    "oque": "Lucro líquido de US$ 5,6 milhões e perda de US$ 75,3 milhões com hedge"
-   },
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Lucro líquido de US$ 135 milhões, com ganho de US$ 12,7 milhões no hedge"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro líquido",
-    "significado": "Resultado final da empresa após custos e impostos"
-   },
-   {
-    "termo": "Ebitda ajustado",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização, ajustado"
-   },
-   {
-    "termo": "Hedge",
-    "significado": "Proteção financeira contra variação de preços"
-   }
-  ],
-  "pergunta": "Você já conhece como funciona o hedge em operações com ouro?",
-  "tamanhoTexto": 7887,
-  "numeros": [
-   {
-    "valor": "135 milhões",
-    "rotulo": "Lucro líquido em US$ no 3º trimestre de 2026"
-   },
-   {
-    "valor": "5,6 milhões",
-    "rotulo": "Lucro líquido em US$ no 3º trimestre de 2025"
-   },
-   {
-    "valor": "12,7 milhões",
-    "rotulo": "Ganho não caixa com hedge no 3º trimestre de 2026"
-   },
-   {
-    "valor": "75,3 milhões",
-    "rotulo": "Perda não caixa com hedge no 3º trimestre de 2025"
-   },
-   {
-    "valor": "121,2 milhões",
-    "rotulo": "Lucro líquido ajustado em US$ no 3º trimestre de 2026"
-   },
-   {
-    "valor": "386 milhões",
-    "rotulo": "Receita líquida em US$ no 3º trimestre de 2026"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro líquido",
-    "antes": "US$ 5,6 milhões",
-    "depois": "US$ 135 milhões"
-   },
-   {
-    "item": "Ganho/perda com hedge do ouro",
-    "antes": "Perda de US$ 75,3 milhões (2025)",
-    "depois": "Ganho de US$ 12,7 milhões (2026)"
-   },
-   {
-    "item": "Receita líquida",
-    "antes": "US$ 247 milhões (calculado por aproximação)",
-    "depois": "US$ 386 milhões"
-   }
-  ],
-  "destaque": "Lucro líquido de",
-  "porQueImporta": "Essa alta significativa no lucro da Aura Minerals mostra como operações e estratégias de hedge bem-sucedidas podem impulsionar os resultados financeiros de mineradoras, impactando a geração de caixa e a confiança dos investidores no setor.",
-  "impactoMercado": "O crescimento forte de lucro e receita reforça o desempenho sólido das empresas de mineração, podendo afetar a atratividade dos papéis do setor e influenciar decisões relacionadas a investimentos em commodities e ações de mineradoras.",
-  "entenda": "O lucro líquido é o que sobra após todas as despesas. O Ebitda ajustado mede a geração operacional de caixa. Hedge é uma estratégia para proteger preços, e a marcação a mercado (MTM) ajusta esses ganhos ou perdas ao valor atual.",
-  "observar": "Acompanhar próximos resultados trimestrais da Aura Minerals e relatórios do mercado de ouro para avaliar continuidade do desempenho e impactos de variações no preço do ouro e operações de hedge.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia traz uma oportunidade para entender como resultados financeiros são influenciados por estratégias operacionais e contábeis, despertando interesse pela análise de balanços e pelo estudo do mercado de commodities.",
-  "gancho": "*Aura Minerals* cresce 24x no lucro",
-  "ideias": [
-   "Como a Aura Minerals multiplicou seu lucro em um ano",
-   "Entenda o impacto do hedge nos resultados da mineradora Aura Minerals",
-   "O que é lucro ajustado e por que ele importa para investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "alvo",
-  "fonte": "Valor Econômico; InvestNews",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T22:47:25-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/05/aura-minerals-reporta-lucro-24-vezes-maior-no-3o-trimestre.ghtml",
-  "publicadoEm": "2026-11-05T21:08:12-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-13"
- },
- {
-  "titulo": "Ibovespa cai 0,82% com incertezas fiscais e queda nos EUA; dólar sobe a R$ 5,49",
-  "resumo": "Ibovespa fechou em 166.191,45 pontos, recuando 0,82%, impactado por preocupações fiscais e queda forte em Wall Street. Dólar comercial valorizou 0,67%, cotado a R$ 5,489.",
-  "fatos": [
-   "Ibovespa caiu 0,82%, encerrando em 166.191,45 pontos.",
-   "Dólar comercial subiu 0,67%, cotado a R$ 5,489.",
-   "Volume financeiro do pregão foi de R$ 34,4 bilhões.",
-   "Nas bolsas americanas, Nasdaq recuou 5,52%, S&P 500 caiu 4,36%, Dow Jones perdeu 3,44%.",
-   "Ministro da Fazenda Dario Durigan declarou que medidas fiscais virão após viagem internacional do presidente Lula.",
-   "Banco Central manteve a Selic em 13,75% ao ano.",
-   "B3 registrou saldo negativo de R$ 12 bilhões em investimentos estrangeiros nos últimos oito pregões.",
-   "C&A (CEAB3) valorizou 8,22% após balanço positivo, enquanto Tenda (TEND3) caiu 17,52% após resultados fracos.",
-   "Petróleo Brent fechou com alta de 3,88%, a US$ 98,29 por barril.",
-   "Juros futuros registraram predominância de quedas na curva pós decisão do Copom."
-  ],
-  "explicacao": [
-   "O Ibovespa terminou o pregão do dia 5 de novembro de 2026 em baixa de 0,82%, a 166.191,45 pontos, influenciado por fatores internos e externos. O dólar comercial subiu 0,67%, alcançando R$ 5,489 no fechamento. A volume financeiro da bolsa somou R$ 34,4 bilhões.",
-   "Internamente, investidores reagiram com cautela após reunião do presidente Lula com ministros e economistas, onde não foram apresentadas medidas concretas para a política fiscal, segundo o ministro da Fazenda, Dario Durigan. Ele indicou que ações virão após a viagem presidencial na semana seguinte, gerando insatisfação e falta de urgência no mercado.",
-   "No exterior, Wall Street sofreu fortes perdas com o Nasdaq caindo 5,52%, S&P 500 recuando 4,36% e Dow Jones com queda de 3,44%, pressionados pela vitória dos democratas nas eleições legislativas e preocupações sobre regulações futuras da inteligência artificial. Esses acontecimentos aumentaram a aversão ao risco globalmente.",
-   "O Banco Central manteve a taxa Selic em 13,75%, interrompendo corte contínuo e ressaltando preocupações com a inflação. Juros futuros fecharam mistos, com predominância de quedas. Investidores aguardam sinais claros de ajuste fiscal doméstico para definir estratégias, especialmente diante da volatilidade externa e do cenário político."
-  ],
-  "detalhes": [
-   "Reunião do presidente Lula com economistas e equipe econômica discutiu o futuro da política fiscal, sem medidas específicas.",
-   "O Copom interrompeu cinco cortes consecutivos da Selic e manteve a taxa em 13,75%, citando aceleração da inflação e seus núcleos.",
-   "Os investidores esperam sinalizações claras do governo para ajustar contas públicas e conter aumento da dívida.",
-   "A volatilidade das bolsas americanas foi associada a preocupações com regulações da inteligência artificial e impacto político das eleições legislativas.",
-   "Ibovespa alcançou máxima intradiária de 168.994 pontos e mínima de 166.189 pontos, mostrando oscilação durante o pregão.",
-   "Setores ligados a tecnologia e bancos tiveram desempenho misto, com algumas ações em alta e outras em queda expressiva.",
-   "O dólar valorizou frente ao real e a outras moedas emergentes, refletindo um movimento global de aversão ao risco."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Dario Durigan, ministro da Fazenda",
-    "oque": "Medidas fiscais sairão após viagem internacional do presidente, sem fórmulas mágicas."
-   },
-   {
-    "quem": "Tim Holland, diretor de investimentos da Orion",
-    "oque": "Investidores estão longe dos ativos até entender melhor o impacto político nas ações de IA."
-   },
-   {
-    "quem": "Lucas Xavier, head da renda variável da AW Capital",
-    "oque": "Queda forte em Wall Street amplia aversão ao risco e contamina mercados globais."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Copom mantém Selic em 13,75%, interrompendo cortes consecutivos."
-   },
-   {
-    "quando": "5 de novembro de 2026",
-    "oque": "Ibovespa fecha em queda de 0,82% e dólar sobe a R$ 5,489."
-   },
-   {
-    "quando": "Semana de 8 a 14 de",
-    "oque": "Presidente Lula fará viagem internacional para COP e após isso anunciou medidas fiscais."
-   },
-   {
-    "quando": "6 de novembro de 2026",
-    "oque": "Divulgação do payroll norte-americano pode impactar mercado global."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ibovespa",
-    "significado": "Índice que mede o desempenho das ações mais negociadas na B3."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira definida pelo Banco Central."
-   },
-   {
-    "termo": "Juros Futuros (DIs)",
-    "significado": "Contrato que indica o juro esperado para datas futuras."
-   }
-  ],
-  "pergunta": "Como as incertezas fiscais influenciam sua decisão de investir?",
-  "tamanhoTexto": 20698,
-  "numeros": [
-   {
-    "valor": "166191,45",
-    "rotulo": "Ibovespa no fechamento, pontos"
-   },
-   {
-    "valor": "-0,82%",
-    "rotulo": "Queda do Ibovespa no dia"
-   },
-   {
-    "valor": "5,489",
-    "rotulo": "Dólar comercial no fechamento, em reais"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic mantida pelo Copom"
-   },
-   {
-    "valor": "34,4 bilhões",
-    "rotulo": "Volume financeiro negociado na B3 em reais"
-   },
-   {
-    "valor": "-5,52%",
-    "rotulo": "Queda do Nasdaq no pregão"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Selic",
-    "antes": "redução em pregões anteriores",
-    "depois": "mantida em 13,75%"
-   }
-  ],
-  "destaque": "0,82% queda do",
-  "porQueImporta": "O recuo do Ibovespa diante de incertezas fiscais mostra que o mercado ainda avalia com cautela o controle das contas públicas no Brasil, especialmente num cenário de alta de juros e dólar. Isso influencia as decisões de investidores e traders sobre exposição ao risco no mercado brasileiro.",
-  "impactoMercado": "A queda das bolsas americanas e a alta do dólar pressionam o Ibovespa, reduzindo o apetite por risco e alta em ações mais sensíveis a juros e cenário econômico. O clima fiscal indefinido no Brasil pode limitar entradas no mercado e aumentar a volatilidade de ativos.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira e representa a performance dos maiores papéis negociados. A taxa Selic é o juro básico do Brasil, que influencia economia e mercado financeiro. Juros futuros indicam expectativa para custo do dinheiro no futuro. O dólar reflete o valor da nossa moeda diante do dólar americano.",
-  "observar": "Fique atento ao resultado do payroll nos EUA na sexta-feira, que pode balançar ainda mais os mercados globais. Também acompanhe a volta do presidente Lula e os anúncios de medidas fiscais que podem impactar o ritmo da economia e a bolsa brasileira.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "A notícia reúne diversos elementos — política fiscal, decisões do Copom, oscilações globais — que ajudam a entender o comportamento do mercado e a necessidade de análise cuidadosa antes de operar ou investir.",
-  "gancho": "*Ibovespa* cai; *Dólar* sobe",
-  "ideias": [
-   "Por que o Ibovespa caiu mesmo com alta do petróleo?",
-   "Como eleições nos EUA impactaram o mercado brasileiro?",
-   "O que esperar da política fiscal após reunião com Lula?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "InfoMoney; BP Money; Valor Econômico",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T18:34:11-03:00",
-  "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05112026/",
-  "publicadoEm": "2026-11-05T18:28:10-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-07"
- },
- {
-  "titulo": "Nasdaq entra em correção com queda forte após eleições nos EUA",
-  "resumo": "Após vitória democrata nas midterms, bolsas dos EUA caíram forte em 5/11/2026. Nasdaq perdeu 5,52%, entrou em correção; S&P 500 e Dow Jones também tiveram fortes quedas.",
-  "fatos": [
-   "Nasdaq caiu 5,52%, fechando aos 24.315 pontos em 5/11/2026.",
-   "S&P 500 recuou 4,36%, fechando aos 7.353,73 pontos no mesmo dia.",
-   "Dow Jones despencou 3,44%, aos 51.523,06 pontos.",
-   "Setor de tecnologia perdeu 7,30% em um dia.",
-   "ETF BlackRock de semicondutores caiu 12,79%.",
-   "Ações da Nvidia recuaram quase 9% e da AMD mais de 15%.",
-   "Índice Kospi da Coreia do Sul caiu 5,28%, refletindo pessimismo asiático.",
-   "Venha forte queda de ações dos setores de finanças (-2,74%) e consumo discricionário (-3,74%).",
-   "Preocupação principal: possíveis regulações e desaceleração da expansão da IA após vitórias democratas."
-  ],
-  "explicacao": [
-   "Na quinta-feira, 5 de novembro de 2026, as bolsas americanas caíram significativamente após as eleições de meio mandato nos EUA, com o Nasdaq recuando 5,52% e entrando em território de correção. Os demais índices, S&P 500 e Dow Jones, também sofreram perdas expressivas, refletindo preocupações do mercado.",
-   "A queda foi motivada pelo temor de um aperto regulatório no setor de tecnologia e pela possível desaceleração dos investimentos em inteligência artificial (IA), principalmente na construção de novos data centers, após a vitória do Partido Democrata em eleições importantes do Congresso americano.",
-   "Esse cenário gerou uma elevada aversão ao risco, que se espalhou por todos os setores da bolsa, com destaque negativo para tecnologia (-7,30%), semicondutores, finanças e consumo discricionário. Empresas de chips como Nvidia e AMD tiveram perdas de dois dígitos no pregão.",
-   "O mercado agora focará nos próximos movimentos políticos e decisões regulatórias que podem limitar o avanço da infraestrutura tecnológica, com impacto direto nos investimentos e no desempenho das ações ligadas ao setor de IA."
-  ],
-  "detalhes": [
-   "Data do evento: quinta-feira, 5 de novembro de 2026.",
-   "Nas eleições de meio mandato, o Partido Democrata venceu a Câmara e o Senado dos EUA.",
-   "O temor é que essa vitória leve a regras mais rígidas para data centers e investimentos em IA.",
-   "O efeito negativo refletiu também nas bolsas asiáticas e europeias.",
-   "Setores de chips e semicondutores foram os mais afetados, incluindo ETF especial da BlackRock.",
-   "A Nvidia, grande beneficiária da expansão de IA, sentiu forte pressão negativa.",
-   "Analistas apontam dúvidas sobre a continuidade dos investimentos bilionários em IA."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ipek Ozkardeskaya, analista sênior do Swissquote Bank",
-    "oque": "Espera maior escrutínio regulatório na agressiva expansão da inteligência artificial nos EUA."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "05/11/2026",
-    "oque": "Bolsas americanas caem após eleições e Nasdaq entra em correção."
-   },
-   {
-    "quando": "04/11/2026",
-    "oque": "Ações de finanças e consumo discrecionário tiveram desempenho positivo no mercado."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Data center",
-    "significado": "Local que reúne equipamentos para processar dados de sistemas e internet."
-   },
-   {
-    "termo": "Correção",
-    "significado": "Queda de pelo menos 10% em um índice após alta anterior."
-   },
-   {
-    "termo": "Inteligência Artificial (IA)",
-    "significado": "Tecnologia que simula inteligência humana em máquinas e softwares."
-   }
-  ],
-  "pergunta": "Como você vê o impacto da regulação da IA no mercado de tecnologia?",
-  "tamanhoTexto": 9280,
-  "numeros": [
-   {
-    "valor": "5,52%",
-    "rotulo": "queda do Nasdaq em 5/11/2026"
-   },
-   {
-    "valor": "7,30%",
-    "rotulo": "queda do setor de tecnologia no mesmo dia"
-   },
-   {
-    "valor": "12,79%",
-    "rotulo": "perda do ETF BlackRock de semicondutores"
-   },
-   {
-    "valor": "9%",
-    "rotulo": "queda das ações da Nvidia durante o pregão"
-   },
-   {
-    "valor": "15%",
-    "rotulo": "queda das ações da AMD no pregão"
-   },
-   {
-    "valor": "5,28%",
-    "rotulo": "queda do índice Kospi na bolsa de Seul"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Nasdaq caiu 5,52%",
-  "porQueImporta": "A correção do Nasdaq e a queda acentuada nas ações de tecnologia indicam maior cautela dos investidores diante dos riscos regulatórios sobre inteligência artificial, um setor que impulsionou o mercado recentemente. Isso sinaliza volatilidade e revisão de expectativas para ativos de tecnologia.",
-  "impactoMercado": "Investidores devem observar o desempenho do setor de tecnologia e semicondutores, além de setores sensíveis a regulações. O movimento reforça a importância do monitoramento político-americano para entender o rumo dos investimentos em inovação e infraestrutura tecnológica nos EUA.",
-  "entenda": "Correção no mercado ocorre quando um índice cai pelo menos 10% do seu pico recente, indicando ajuste de preços. O Nasdaq reúne ações de tecnologia e é sensível a expectativas sobre inovação e regulação. Ações de empresas de IA e semicondutores têm impacto relevante nesse índice.",
-  "observar": "Fique atento às próximas decisões regulatórias e políticas nos EUA que podem limitar investimentos em IA, além dos relatórios trimestrais das empresas de tecnologia e semicondutores, que podem indicar o impacto das novas regras.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Essa notícia mostra como eventos políticos influenciam diretamente o mercado financeiro, especialmente ações de tecnologia. Entender essa dinâmica é essencial para quem quer operar ou investir com conhecimento sobre riscos e oportunidades na bolsa.",
-  "gancho": "*Nasdaq* cai com *IA* e *eleições*",
-  "ideias": [
-   "Por que o Nasdaq entrou em correção após as eleições?",
-   "Como a regulação de IA pode afetar o mercado de tecnologia?",
-   "Setores que mais caíram na bolsa americana em 5/11/2026"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "Valor Econômico; Suno Notícias; Money Times",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T18:34:11-03:00",
-  "url": "https://valor.globo.com/financas/noticia/2026/11/05/bolsas-de-ny-despencam-e-nasdaq-entra-em-correcao-com-sell-off-no-setor-de-tecnologia.ghtml",
-  "publicadoEm": "2026-11-05T18:25:14-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-08"
- },
- {
-  "titulo": "Tenda (TEND3) cai 17,7% após lucro no 3T26 ficar 40% abaixo do consenso",
-  "resumo": "No 3º trimestre de 2026, o lucro recorrente da Tenda foi de R$ 106 milhões, 40% menor que a expectativa do mercado. A margem bruta ajustada caiu de 39,9% para 34,6%, pressionada por preços, descontos e cancelamentos.",
-  "fatos": [
-   "Ação TEND3 caiu 17,72% em 5 de novembro de 2026",
-   "Lucro recorrente do 3T26 foi R$ 106 milhões, 40% abaixo do consenso",
-   "Margem bruta ajustada caiu de 39,9% no 2T26 para 34,6% no 3T26",
-   "Ajuste exclui perda de R$ 49 milhões com marcação a mercado no share swap",
-   "JPMorgan mantém preço-alvo de R$ 52,50 e recomendação de compra",
-   "XP projeta lucro líquido ex-swap entre R$ 180 milhões e R$ 240 milhões no 4T26",
-   "Itaú BBA destaca queda de 530 pontos-base na margem bruta ajustada do 3T26",
-   "Goldman Sachs cita receita acima do esperado, mas margens pressionadas",
-   "Bradesco BBI vê risco de revisão para baixo nas estimativas de 2027"
-  ],
-  "explicacao": [
-   "A Tenda divulgou resultados fracos para o terceiro trimestre de 2026, com lucro recorrente de R$ 106 milhões, abaixo das expectativas do mercado em 40%. As ações da empresa caíram 17,72% no dia 5 de novembro, encerrando a R$ 16,25.",
-   "Esse desempenho inferior foi causado por margens brutas menores, que recuaram de 39,9% para 34,6%. Fatores como redução de preços, desconto em imóveis no Rio de Janeiro, inflação, mix desfavorável de produtos e cancelamentos afetaram os resultados.",
-   "O mercado reconhece que parte da pressão pode se dissipar ao longo do tempo, com a retirada dos descontos e melhora nas vendas, mas o desafio para a Tenda é obter lucro de R$ 180 milhões no último trimestre de 2026 para alcançar a meta anual.",
-   "Analistas do JPMorgan, Itaú BBA, XP Investimentos e Goldman Sachs qualificam o trimestre como fraco, porém mantêm recomendações de compra com preços-alvo que variam de R$ 29 a R$ 58, destacando múltiplos de preço/lucro mais atraentes que concorrentes."
-  ],
-  "detalhes": [
-   "Data da queda das ações: 5 de novembro de 2026",
-   "Lucro recorrente exclui impacto negativo de R$ 49 milhões relacionado ao share swap",
-   "Principais fatores de pressão: descontos no Rio, cancelamentos e inflação",
-   "Meta anual de lucro líquido para 2026 é R$ 600 milhões",
-   "Para atingir essa meta, deve ter lucro de R$ 180 milhões no 4T26",
-   "Múltiplo Preço/Lucro projetado para 2027 da Tenda é 2,9 vezes",
-   "Comparação P/L: Cury (4,2x) e Direcional (4,2 a 5,7x)"
-  ],
-  "declaracoes": [
-   {
-    "quem": "JPMorgan",
-    "oque": "Avalia o trimestre da Tenda como muito fraco, com lucro abaixo do esperado devido às margens menores"
-   },
-   {
-    "quem": "XP Investimentos",
-    "oque": "Classifica os resultados como fracos, destacando margens brutas mais baixas e o desafio para atingir o guidance"
-   },
-   {
-    "quem": "Itaú BBA",
-    "oque": "Destaque para a queda de 530 pontos-base na margem bruta ajustada entre o segundo e terceiro trimestre"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "5 de novembro de 2026",
-    "oque": "Tenda divulga balanço do 3T26 e ações caem 17,72%"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro Recorrente",
-    "significado": "Lucro da operação principal, sem efeitos não recorrentes"
-   },
-   {
-    "termo": "Margem Bruta Ajustada",
-    "significado": "Percentual do lucro sobre vendas após ajustes contábeis"
-   },
-   {
-    "termo": "Share Swap",
-    "significado": "Operação de troca de ações entre empresas ou investidores"
-   }
-  ],
-  "pergunta": "Você já investe em construtoras ou acompanha resultados desse setor?",
-  "tamanhoTexto": 8763,
-  "numeros": [
-   {
-    "valor": "17,72%",
-    "rotulo": "queda da ação TEND3 em 5/11/2026"
-   },
-   {
-    "valor": "R$ 106 milhões",
-    "rotulo": "lucro recorrente da Tenda no 3T26"
-   },
-   {
-    "valor": "40%",
-    "rotulo": "diferença negativa do lucro recorrente ante consenso"
-   },
-   {
-    "valor": "34,6%",
-    "rotulo": "margem bruta ajustada da Tenda no 3T26"
-   },
-   {
-    "valor": "39,9%",
-    "rotulo": "margem bruta ajustada no 2T26"
-   },
-   {
-    "valor": "R$ 600 milhões",
-    "rotulo": "meta de lucro líquido para 2026"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Margem bruta ajustada",
-    "antes": "39,9%",
-    "depois": "34,6%"
-   }
-  ],
-  "destaque": "lucro 40% abaixo",
-  "porQueImporta": "O desempenho abaixo do esperado implica maior risco e volatilidade para os papéis da Tenda, alertando investidores para margens pressionadas e desafios para cumprir a meta anual de lucro. Isso reflete dificuldades no setor imobiliário, como descontos e restrições de crédito, que impactam o resultado das construtoras.",
-  "impactoMercado": "A queda das ações e a pressão nas margens da Tenda podem afetar a percepção sobre o setor de construção no Ibovespa. Setores ligados a crédito imobiliário e vendas de imóveis, além de FIIs atrelados a esses ativos, também podem ser influenciados, demandando atenção especial dos investidores a múltiplos e fundamentos.",
-  "entenda": "O lucro recorrente é o resultado da operação principal da empresa, excluindo efeitos pontuais. Margem bruta ajustada mostra a relação entre vendas e custos diretos. Queda nesse indicador indica perda de rentabilidade, que pode ser causada por redução de preços, custos maiores ou descontos concedidos.",
-  "observar": "Fique atento à divulgação do resultado do quarto trimestre de 2026, esperado para o início de 2027, e aos próximos relatórios de bancos sobre o desempenho e orientações para 2027 da Tenda.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicar a queda das ações da Tenda conecta a pessoa ao funcionamento das margens e lucros das empresas no mercado, estimulando o interesse em análises financeiras e a Faculdade de Mercado Financeiro para entender essas métricas.",
-  "gancho": "*Tenda* e Margens em Queda",
-  "ideias": [
-   "O que derrubou as ações da Tenda em 2026?",
-   "Entenda por que as margens brutas da Tenda caíram no 3T26",
-   "Como o lucro recorrente afeta o preço das ações?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "queda",
-  "fonte": "BP Money; InfoMoney",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T18:34:11-03:00",
-  "url": "https://bpmoney.com.br/mercado/acoes/tenda-tend3-cai-17-apos-balanco-fraco-3t26/",
-  "publicadoEm": "2026-11-05T18:28:16-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-09"
- },
- {
-  "titulo": "Camex prorroga Imposto de Exportação sobre petróleo até 31 de dezembro",
-  "resumo": "A Camex decidiu estender a alíquota de 12% do Imposto de Exportação sobre petróleo bruto até 31/12. A medida é a terceira prorrogação e já gerou R$ 12,87 bilhões em arrecadação em 2026.",
-  "fatos": [
-   "A alíquota vigente do Imposto de Exportação sobre petróleo bruto é de 12%.",
-   "A vigência atual terminaria em 7 de novembro de 2026.",
-   "Esta será a terceira vez que o governo estende a cobrança do tributo.",
-   "Em 9 de julho, a Camex manteve a alíquota após expirar a MP original.",
-   "Em 8 de setembro, houve nova prorrogação por 60 dias.",
-   "A arrecadação até setembro atingiu R$ 12,87 bilhões em 2026.",
-   "A arrecadação em setembro foi R$ 2,94 bilhões.",
-   "Exportações cresceram 9% em agosto, 40% em setembro e 22% em outubro.",
-   "Há defasagem aproximada de dois meses entre exportação e recolhimento do imposto.",
-   "O governo aponta caráter regulatório ao imposto, não apenas arrecadatório."
-  ],
-  "explicacao": [
-   "A Câmara de Comércio Exterior (Camex) prorrogou a cobrança do Imposto de Exportação sobre o petróleo bruto, mantendo a alíquota de 12% até 31 de dezembro de 2026. Essa será a terceira extensão do tributo, que venceria originalmente em 7 de novembro.",
-   "A primeira extensão ocorreu em 9 de julho, após a medida provisória que criava o imposto expirar. Na época, a Camex decidiu manter a alíquota de 12% devido à alta dos preços do petróleo. Em 8 de setembro, houve nova prorrogação por mais 60 dias.",
-   "O tributo tem caráter regulatório, segundo o governo, e até setembro de 2026 gerou R$ 12,87 bilhões em receitas. A arrecadação mensal em setembro foi de R$ 2,94 bilhões, refletindo a defasagem de dois meses entre exportação e recolhimento do imposto.",
-   "O volume exportado cresceu 9% em agosto, 40% em setembro e 22% em outubro, indicando que a arrecadação poderá quase dobrar nos próximos meses. Empresas do setor contestam judicialmente o imposto, mas o governo defende sua legalidade."
-  ],
-  "detalhes": [
-   "Quem: Câmara de Comércio Exterior (Camex) e Comitê-Executivo de Gestão (Gecex).",
-   "Quanto: alíquota de 12% sobre petróleo bruto exportado.",
-   "Quando: prorrogação até 31 de dezembro de 2026.",
-   "Onde: Brasil, para exportações de petróleo bruto.",
-   "Como: medidas provisórias expiraram, e o governo usa prorrogações para manter o tributo.",
-   "Comparação: arrecadação mensal pode quase dobrar pelo aumento das exportações.",
-   "Contexto: empresas do setor contestam judicialmente a cobrança do imposto."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Fonte do Valor Econômico",
-    "oque": "A Camex decidiu prorrogar até 31 de dezembro a alíquota de 12% do imposto sobre petróleo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "9 de julho de 2026",
-    "oque": "Primeira prorrogação do imposto após expiração da MP."
-   },
-   {
-    "quando": "8 de setembro de 2026",
-    "oque": "Segunda prorrogação do imposto por 60 dias."
-   },
-   {
-    "quando": "7 de novembro de 2026",
-    "oque": "Vencimento original da vigência da alíquota de 12%."
-   },
-   {
-    "quando": "31 de dezembro de 2026",
-    "oque": "Nova data de prorrogação da alíquota pelo Camex."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Imposto de Exportação",
-    "significado": "Tributo sobre venda de produtos para o exterior"
-   },
-   {
-    "termo": "Alíquota",
-    "significado": "Porcentagem aplicada sobre o valor da exportação"
-   },
-   {
-    "termo": "Camex",
-    "significado": "Câmara de Comércio Exterior, gestor de políticas de comércio"
-   }
-  ],
-  "pergunta": "Como você acha que a prorrogação do imposto afeta as empresas exportadoras de petróleo?",
-  "tamanhoTexto": 3164,
-  "numeros": [
-   {
-    "valor": "12%",
-    "rotulo": "alíquota do Imposto de Exportação sobre petróleo bruto"
-   },
-   {
-    "valor": "R$ 12,87 bilhões",
-    "rotulo": "arrecadação do tributo em 2026 até setembro"
-   },
-   {
-    "valor": "R$ 2,94 bilhões",
-    "rotulo": "arrecadação do imposto em setembro de 2026"
-   },
-   {
-    "valor": "9%",
-    "rotulo": "crescimento das exportações em agosto sobre julho"
-   },
-   {
-    "valor": "40%",
-    "rotulo": "crescimento das exportações em setembro sobre agosto"
-   },
-   {
-    "valor": "22%",
-    "rotulo": "crescimento das exportações em outubro sobre setembro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "vigência do imposto",
-    "antes": "7 de novembro de 2026",
-    "depois": "31 de dezembro de 2026"
-   }
-  ],
-  "destaque": "Prorrogação até 31",
-  "porQueImporta": "A prorrogação mantém uma fonte significativa de arrecadação para o governo e influencia a dinâmica das exportações de petróleo. Entender esse tributo ajuda investidores a analisar o impacto em setores ligados à commodity e à indústria petrolífera.",
-  "impactoMercado": "A extensão do imposto pode afetar a receita das empresas exportadoras de petróleo e o fluxo de commodities, influenciando ativos relacionados ao setor energético e petróleo na Bolsa. Também pode impactar o dólar e juros ligados ao comércio exterior.",
-  "entenda": "O Imposto de Exportação é uma cobrança do governo sobre a venda de produtos brasileiros ao exterior. No caso do petróleo, visa controlar a saída da commodity e gerar receita, podendo ter efeito regulatório para o mercado interno e externo.",
-  "observar": "Acompanhe possíveis novas prorrogações e os efeitos nas estatísticas de arrecadação e exportações entre novembro e dezembro de 2026 para entender o impacto no mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos o que significa a prorrogação do imposto sobre o petróleo, seu impacto na arrecadação e no mercado, mostrando como entender políticas fiscais pode ajudar quem quer operar com commodities.",
-  "gancho": "*Imposto* sobre petróleo prorrogado",
-  "ideias": [
-   "O que é o Imposto de Exportação sobre petróleo?",
-   "Como a prorrogação do imposto pode impactar seus investimentos?",
-   "Por que a Camex insiste em manter a alíquota de 12%?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "moeda",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T18:34:11-03:00",
-  "url": "https://valor.globo.com/brasil/noticia/2026/11/05/camex-deve-prorrogar-imposto-de-exportacao-sobre-petroleo-ate-31-de-dezembro-segundo-fonte.ghtml",
-  "publicadoEm": "2026-11-05T18:26:15-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-10"
- },
- {
-  "titulo": "Derrota de Trump abre caminho para Fed focar no controle da inflação",
-  "resumo": "A derrota do Partido Republicano nas midterms dos EUA pode aliviar pressões políticas sobre o presidente do Fed, Kevin Warsh, possibilitando mais liberdade para agir na política monetária e ajustar juros.",
-  "fatos": [
-   "Eleições de meio de mandato ocorreram em 3 de novembro de 2026",
-   "Derrota esmagadora do Partido Republicano, que perdeu controle no Congresso dos EUA",
-   "Kevin Warsh é presidente do Federal Reserve desde maio de 2026",
-   "Fed elevou juros em setembro de 2026, apesar da pressão política",
-   "Decisão de manter juros em outubro ocorreu pouco antes das eleições",
-   "Inflação está acima da meta do Fed há mais de cinco anos",
-   "Analistas preveem alta dos juros em 1 ponto percentual em 2027",
-   "Setores de tecnologia sofreram perdas no mercado americano após as eleições",
-   "Nasdaq caiu 5,1% no dia 5 de novembro de 2026",
-   "ETF iShares Semiconductor recuou 9,08% em 5 de novembro de 2026"
-  ],
-  "explicacao": [
-   "Nas eleições de meio de mandato de 2026, o Partido Republicano foi amplamente rejeitado, com eleitores preocupados principalmente com o custo de vida, o que mudou a dinâmica política em torno do Federal Reserve (Fed), presidido por Kevin Warsh.",
-   "Desde sua reeleição em 2024, o ex-presidente Donald Trump pressionou o Fed por juros mais baixos, chegando a tentar interferir diretamente na comissão e nomeações, gerando preocupações sobre a independência do banco central americano.",
-   "Warsh, nomeado por Trump em 2026, contrariou expectativas ao aumentar os juros em setembro mesmo diante de críticas, mas sua decisão de segurar a alta nas vésperas da eleição alimentou dúvidas sobre influências políticas.",
-   "Com a derrota de Trump e do Partido Republicano, analistas acreditam que Warsh poderá se concentrar na política monetária para combater a inflação, interpretando o sinal dos eleitores e agindo com menos pressão política daqui em diante."
-  ],
-  "detalhes": [
-   "Kevin Warsh adotou inicialmente posição a favor de juros mais baixos como indicado por Trump",
-   "Trump tentou interferir no Fed com investigação criminal e demissão de governadores",
-   "Warsh contrariou céticos ao elevar juros em setembro, mostrando independência",
-   "Ele manteve juros estáveis em outubro, decisão que pareceu influenciada por eleições",
-   "Daleep Singh, economista, acredita que Fed responderá à demanda dos eleitores por controle da inflação",
-   "Pressão política sobre o Fed deve diminuir após a derrota do Partido Republicano",
-   "Mercado reagiu com queda nos índices de tecnologia, temendo maior regulação"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Mark Spindel, gestor da Potomac River Capital",
-    "oque": "Warsh agora pode focar em política monetária com menos interferência política"
-   },
-   {
-    "quem": "Daleep Singh, economista-chefe da PGIM",
-    "oque": "Fed deve interpretar sinal dos eleitores e agir para controlar custo de vida"
-   },
-   {
-    "quem": "Stephen Myrow, sócio-diretor da Beacon Policy Advisors",
-    "oque": "Fed deve ter menos ataques políticos porque Trump terá outros problemas"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3 de novembro de 2026",
-    "oque": "Eleição de meio de mandato nos EUA com derrota republicana"
-   },
-   {
-    "quando": "maio de 2026",
-    "oque": "Kevin Warsh assume presidência do Fed"
-   },
-   {
-    "quando": "setembro de 2026",
-    "oque": "Fed eleva juros apesar da pressão para cortá-los"
-   },
-   {
-    "quando": "outubro de 2026",
-    "oque": "Fed mantém juros estáveis pouco antes da eleição"
-   },
-   {
-    "quando": "5 de novembro de 2026",
-    "oque": "Mercado americano cai após confirmação da vitória democrata"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fed",
-    "significado": "Banco central dos EUA que controla a política monetária"
-   },
-   {
-    "termo": "Midterms",
-    "significado": "Eleições de meio de mandato nos EUA, entre eleições presidenciais"
-   },
-   {
-    "termo": "Taxa de juros",
-    "significado": "Custo do dinheiro, usado para controlar inflação e economia"
-   }
-  ],
-  "pergunta": "Como a autonomia do Fed pode impactar suas estratégias de investimento?",
-  "tamanhoTexto": 9571,
-  "numeros": [
-   {
-    "valor": "5,1%",
-    "rotulo": "queda do índice Nasdaq em 5/11/2026"
-   },
-   {
-    "valor": "9,08%",
-    "rotulo": "queda do ETF iShares Semiconductor em 5/11/2026"
-   },
-   {
-    "valor": "1 ponto percentual",
-    "rotulo": "alta prevista dos juros pelo Fed para 2027"
-   },
-   {
-    "valor": "2030",
-    "rotulo": "ano até o qual Kevin Warsh tem mandato no Fed"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa Selic mantida no Brasil como referência de juros"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "derrota republicana nas",
-  "porQueImporta": "A mudança na política americana com a derrota de Trump reduz riscos políticos ao Fed, dando mais autonomia para decisões na taxa de juros e no combate à inflação, principal preocupação dos eleitores e investidores.",
-  "impactoMercado": "Menos interferência política pode levar o Fed a agir com liberdade, afetando juros e fluxo de capitais. Setores como tecnologia sofrem com temores de regulação, enquanto investidores buscam ativos defensivos com maior proteção.",
-  "entenda": "O Federal Reserve é o banco central dos EUA, que controla a política monetária para manter a inflação sob controle. Ele define a taxa básica de juros, impactando cognições econômicas globais. As eleições podem influenciar suas decisões quando há pressão política.",
-  "observar": "Acompanhe índices de inflação nos EUA e decisões futuras do Fed. Observe também como o cenário político evolui no Congresso e seu impacto nas regulações setoriais, especialmente tecnologia.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários"
-  ],
-  "angulo": "Mostra como política e eleições afetam a atuação do banco central e decisivamente o mercado e a inflação, conectando a teoria da política monetária ao cenário real para abrir interesse no estudo aprofundado na faculdade.",
-  "gancho": "Derrota de Trump e *Fed*",
-  "ideias": [
-   "Eleições americanas: impacto no Fed e na inflação",
-   "Como a política influencia a alta dos juros nos EUA",
-   "Entenda a relação entre Fed e as eleições de meio mandato"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "Valor Econômico; Money Times",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T14:40:07-03:00",
-  "url": "https://valor.globo.com/financas/noticia/2026/11/05/derrota-de-trump-alivia-pressao-sobre-warsh-e-da-ao-fed-mais-espaco-para-mexer-nos-juros.ghtml",
-  "publicadoEm": "2026-11-05T14:13:43-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-01"
- },
- {
-  "titulo": "Tesouro Direto tem alta inicial e queda após reunião de Lula com economistas",
-  "resumo": "Juros dos títulos do Tesouro recuaram após alta na abertura; Lula reuniu Durigan, Haddad e Galípolo para discutir dívida pública. Copom manteve Selic em 13,75% ao ano, reforçando incertezas fiscais no mercado.",
-  "fatos": [
-   "Juros do Tesouro Prefixado 2032 recuaram para 15,24% ao ano por volta das 11h30.",
-   "Prefixado 2029 caiu para 14,84%, revertendo alta iniciada no pregão.",
-   "IPCA+ 2032 oferecia IPCA + 7,87%, em leve baixa em comparação à abertura.",
-   "Reunião de Lula com Durigan, Haddad e Galípolo discutiu dívida pública e cenário econômico.",
-   "Copom manteve Selic em 13,75% ao ano por unanimidade, suspendendo cinco cortes consecutivos.",
-   "Projeção de inflação para 2026 passou de 5,2% para 5,6%, para 2027 subiu de 3,9% para 4,7%.",
-   "Produção industrial caiu 0,8% em setembro, abaixo do esperado.",
-   "Dólar fechou a R$ 5,451, com queda de 0,64% na quarta-feira (4).",
-   "Equipe econômica estuda endurecer bloqueios orçamentários, medidas dependem de aval presidencial.",
-   "Fed anunciará decisão às 15h, influenciando o mercado externo."
-  ],
-  "explicacao": [
-   "Nesta quinta-feira (5), os juros dos títulos do Tesouro Direto subiram no início do pregão, mas recuaram para níveis próximos aos do fechamento da quarta-feira, impactados pela reunião convocada pelo presidente Lula com o ministro Durigan, Haddad e o presidente do Banco Central Galípolo para discutir a trajetória da dívida pública.",
-   "A reunião teve caráter preparatório, sem decisões imediatas, já que Lula deverá viajar para a conferência COP, segundo o ministro Durigan. Enquanto isso, o mercado acompanha propostas da equipe econômica para ampliar efeitos dos bloqueios orçamentários e orientar o esforço fiscal, ainda pendentes de aprovação presidencial e negociações legislativas.",
-   "O encontro ocorreu após o Copom diante de um cenário fiscal mais desafiador manter a taxa Selic em 13,75% ao ano, uma pausa após cinco reduções consecutivas, além de elevar projeções de inflação para 2026, 2027 e 2028 e retirar a expressão 'magnitude total do ciclo de calibração' do comunicado, sugerindo um ciclo de juros mais estável.",
-   "Para os investidores, o momento reflete incertezas fiscais e econômicas, elevando a volatilidade e mantendo os juros em patamares elevados, especialmente nos títulos prefixados do Tesouro, enquanto o mercado aguarda desdobramentos do cenário fiscal e futuros sinais do Banco Central."
-  ],
-  "detalhes": [
-   "A reunião aconteceu no Ministério da Fazenda, convocada pelo presidente Lula.",
-   "Ministro Durigan afirmou que o encontro visa troca de diagnósticos, sem decisões imediatas.",
-   "Títulos prefixados chegaram a oferecer até 15,38% ao ano antes da queda no pregão.",
-   "Copom destaca ambiente externo mais adverso por conflito no Oriente Médio e maior volatilidade.",
-   "A sinalização do BC indica possibilidade de manutenção dos juros por períodos prolongados.",
-   "Mudanças propostas na política fiscal podem exigir alterações legislativas e negociação com Congresso.",
-   "Decisão do Copom reflete elevada incerteza fiscal e pressão inflacionária persistente."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Dario Durigan, ministro da Fazenda",
-    "oque": "Reunião é para compartilhar cenários e ideias, sem decisões imediatas."
-   },
-   {
-    "quem": "Cristiano Oliveira, diretor de pesquisa econômica do Banco Pine",
-    "oque": "Retirada da frase sobre magnitude de calibração indica que pausa nos juros pode se estender."
-   },
-   {
-    "quem": "Natalie Victal, economista-chefe da SulAmérica Investimentos",
-    "oque": "Banco Central aumenta a exigência para discutir novas altas da Selic."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "4 de novembro",
-    "oque": "Copom manteve a Selic em 13,75% ao ano por unanimidade."
-   },
-   {
-    "quando": "5 de novembro, manhã",
-    "oque": "Reunião de Lula com ministros e economistas para discutir dívida pública."
-   },
-   {
-    "quando": "5 de novembro, mercado aberto",
-    "oque": "Juros dos títulos do Tesouro sobem e depois recuam."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Copom",
-    "significado": "Comitê que define a taxa básica de juros no Brasil."
-   },
-   {
-    "termo": "Tesouro Direto",
-    "significado": "Programa para compra de títulos públicos por investidores."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros usada para controlar a inflação."
-   }
-  ],
-  "pergunta": "Como você acha que a manutenção da Selic influencia seus investimentos?",
-  "tamanhoTexto": 13553,
-  "numeros": [
-   {
-    "valor": "15,24%",
-    "rotulo": "Juros do Tesouro Prefixado 2032 ao meio-dia"
-   },
-   {
-    "valor": "14,84%",
-    "rotulo": "Taxa do Prefixado 2029 após alta inicial"
-   },
-   {
-    "valor": "IPCA + 7,87%",
-    "rotulo": "Rentabilidade do Tesouro IPCA+ 2032"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic mantida pelo Copom"
-   },
-   {
-    "valor": "0,8%",
-    "rotulo": "Queda mensal na produção industrial em setembro"
-   },
-   {
-    "valor": "R$ 5,451",
-    "rotulo": "Cotação do dólar em 4 de novembro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Projeção de inflação 2026",
-    "antes": "5,2%",
-    "depois": "5,6%"
-   },
-   {
-    "item": "Projeção de inflação 2027",
-    "antes": "3,9%",
-    "depois": "4,7%"
-   }
-  ],
-  "destaque": "15,24% ao ano",
-  "porQueImporta": "A movimentação dos juros no Tesouro Direto reflete como o mercado reage a decisões e incertezas fiscais e monetárias. Para quem opera ou investe, entender essas oscilações e os impactos do cenário político e das políticas públicas é fundamental para acompanhar tendências e ajustar estratégias sem prometer ganhos.",
-  "impactoMercado": "Para o mercado, a manutenção da Selic e a discussão da dívida pública indicam ambiente de maior cautela, pressão sobre títulos prefixados e atenção ao quadro fiscal. Setores sensíveis a juros, como consumo e crédito, e ativos de renda fixa devem seguir influenciados pelas decisões e expectativas da política monetária e fiscal.",
-  "entenda": "O Tesouro Direto é o programa do governo que vende títulos públicos para investidores. As taxas de juros desses papéis refletem o custo de tomar dinheiro emprestado pelo governo, influenciadas por decisões do Banco Central sobre a Selic e pelo cenário fiscal, afetando o custo da dívida e o retorno dos títulos.",
-  "observar": "Fique de olho nos próximos comunicados do Banco Central e na evolução da proposta fiscal, além dos indicadores econômicos, como a produção industrial e decisões do Fed, que podem impactar juros e inflação.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Mostrar como decisões do Copom e reuniões do governo impactam juros e dívida pública, ajudando a entender o ambiente que influencia os investimentos e a importância de acompanhar notícias financeiras detalhadas.",
-  "gancho": "*Selic* e *Tesouro* em foco",
-  "ideias": [
-   "O que muda na Selic após reunião do Copom e Lula?",
-   "Entenda a reação do Tesouro Direto às discussões sobre dívida pública",
-   "Como a alta do IPCA preocupa investidores e o Banco Central"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "BP Money; Bora Investir (B3)",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T14:40:07-03:00",
-  "url": "https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-taxas-recuam-reuniao-lula-economistas-05-11-2026/",
-  "publicadoEm": "2026-11-05T13:37:38-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-02"
- },
- {
-  "titulo": "IBGE abre concurso com 27.279 vagas para censo agropecuário em 2027",
-  "resumo": "IBGE lançou concurso com 27.279 vagas temporárias para recenseadores do Censo Agropecuário de 2027. Salários partem de R$ 1.741 e podem chegar a R$ 2.629 com produtividade e benefícios.",
-  "fatos": [
-   "O concurso do IBGE oferece 27.279 vagas para recenseadores.",
-   "Salário inicial previsto de R$ 1.741, podendo chegar a R$ 2.629.",
-   "Auxílio-alimentação de R$ 1.192 está incluso.",
-   "Inscrições entre 6 e 25 de novembro no site da Fundação Cesgranrio.",
-   "Taxa de inscrição é de R$ 70.",
-   "Provas serão aplicadas em 31 de janeiro de 2027.",
-   "Contrato inicial de seis meses, prorrogável até quatro anos.",
-   "Os recenseadores coletarão dados do 12º Censo Agropecuário, Florestal e Aquícola.",
-   "Benefícios incluem 13º salário, férias proporcionais e auxílio deslocamento e pré-escolar.",
-   "Os dados coletados influenciam políticas públicas para o setor agropecuário."
-  ],
-  "explicacao": [
-   "O IBGE publicou no dia 5 de outubro o edital para um concurso que oferece 27.279 vagas temporárias para recenseadores que atuarão no 12º Censo Agropecuário, Florestal e Aquícola de 2027. O contrato inicial é estimado em seis meses, podendo se estender até quatro anos conforme a necessidade.",
-   "As vagas são para profissionais que visitarão estabelecimentos agropecuários para coletar dados, com salário inicial previsto de R$ 1.741 mensais. Esse valor pode alcançar R$ 2.629, dependendo da produtividade do recenseador e dos benefícios oferecidos pelo IBGE.",
-   "Além da remuneração, o concurso oferece direitos como auxílio-alimentação de R$ 1.192, 13º salário, férias proporcionais e auxílios para deslocamento e pré-escolar. As inscrições ocorrerão entre os dias 6 e 25 de novembro, com taxa de R$ 70, e a prova está marcada para 31 de janeiro de 2027.",
-   "Os dados coletados pelos recenseadores serão usados para pesquisas e planejamento governamental, auxiliando no desenvolvimento de políticas públicas focadas no setor agropecuário brasileiro. O concurso é uma oportunidade importante para quem busca trabalho temporário no mercado público."
-  ],
-  "detalhes": [
-   "Concurso nacional para atuar no censo de 2027 do IBGE.",
-   "Remuneração variável conforme produtividade do recenseador.",
-   "Ajuda para despesas como alimentação, deslocamento e cuidados infantis.",
-   "Inscrição online via Fundação Cesgranrio entre novembro de 2024.",
-   "Prova marcada para o começo de 2027, visando atuação no mesmo ano.",
-   "Contrato temporário de até quatro anos, dependendo da necessidade.",
-   "Objetivo de coletar informações para bases de dados e políticas públicas."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "5 de outubro de 2024",
-    "oque": "Publicação do edital do concurso do IBGE"
-   },
-   {
-    "quando": "6 a 25 de novembro de",
-    "oque": "Período de inscrições no concurso"
-   },
-   {
-    "quando": "31 de janeiro de 2027",
-    "oque": "Aplicação das provas do concurso"
-   },
-   {
-    "quando": "2027",
-    "oque": "Início do 12º Censo Agropecuário, Florestal e Aquícola"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Recenseador",
-    "significado": "Profissional que coleta dados em campo para censos do IBGE."
-   },
-   {
-    "termo": "Censo Agropecuário",
-    "significado": "Pesquisa oficial que reúne informações sobre agricultura e pecuária."
-   },
-   {
-    "termo": "Auxílio-alimentação",
-    "significado": "Benefício para ajudar nas despesas com alimentação do trabalhador."
-   }
-  ],
-  "pergunta": "Você já pensou em trabalhar no setor agropecuário via concursos públicos?",
-  "tamanhoTexto": 2252,
-  "numeros": [
-   {
-    "valor": "27.279",
-    "rotulo": "Número de vagas do concurso"
-   },
-   {
-    "valor": "R$ 1.741",
-    "rotulo": "Remuneração mensal inicial prevista"
-   },
-   {
-    "valor": "R$ 2.629",
-    "rotulo": "Salário máximo com produtividade e benefícios"
-   },
-   {
-    "valor": "R$ 1.192",
-    "rotulo": "Auxílio-alimentação mensal"
-   },
-   {
-    "valor": "R$ 70",
-    "rotulo": "Taxa de inscrição no concurso"
-   },
-   {
-    "valor": "6 a 25 de novembro",
-    "rotulo": "Período de inscrições"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "27.279 vagas temporárias",
-  "porQueImporta": "O concurso do IBGE para mais de 27 mil vagas temporárias é relevante para investidores e operadores pois envolve um programa de dados massivo que pode impactar políticas agrícolas, influenciando setores de commodities e renda variável no médio prazo.",
-  "impactoMercado": "A coleta de dados precisa e atualizada pelo censo agropecuário pode afetar desde o planejamento econômico do setor agrícola até o comportamento de commodities e ações vinculadas, além de influenciar indicadores de crescimento e políticas públicas essenciais ao mercado.",
-  "entenda": "O concurso do IBGE é para recenseadores que coletarão dados no Censo Agropecuário, base para decisões governamentais sobre agricultura, florestas e aquicultura. Esses dados orientam políticas públicas e economias locais e nacionais, impactando o mercado financeiro e o agronegócio.",
-  "observar": "Acompanhe as inscrições de 6 a 25 de novembro e a prova em 31 de janeiro para avaliar o andamento do concurso e possíveis impactos no setor agropecuário em 2027.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "CLT"
-  ],
-  "angulo": "Entenda como um concurso do IBGE para o censo agropecuário gera oportunidades de trabalho temporário e influencia dados que impactam políticas e setores do mercado financeiro.",
-  "gancho": "*Concurso* IBGE para *agro* 2027",
-  "ideias": [
-   "Concurso IBGE: como funciona e quem pode participar",
-   "Salários e benefícios do novo concurso IBGE para recenseadores",
-   "Por que o censo agropecuário é importante para o mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Agenda",
-  "icone": "relogio",
-  "fonte": "G1 Economia",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T14:40:07-03:00",
-  "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/05/ibge-anuncia-concurso-com-27-mil-vagas-temporarias-em-todo-o-brasil-veja-salarios.ghtml",
-  "publicadoEm": "2026-11-05T11:26:01-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-03"
- },
- {
-  "titulo": "Base Exchange deve iniciar operações em 2027 e desafiar B3",
-  "resumo": "Base Exchange, liderada pelo fundo Mubadala, planeja lançar bolsa rival da B3 no segundo semestre de 2027, marcando retorno das negociações de ações no Rio após 25 anos.",
-  "fatos": [
-   "Base Exchange planeja lançar operações no segundo semestre de 2027.",
-   "O lançamento foi adiado em dois anos em relação à previsão inicial de 2025.",
-   "Liderança do fundo soberano de Abu Dhabi, Mubadala.",
-   "A Base oferecerá negociação de ações, fundos imobiliários e ETFs.",
-   "O Banco Central liberou testes funcionais para início em 2027.",
-   "Retorno das negociações no Rio de Janeiro após mais de 25 anos.",
-   "Base terá 210 funcionários e escritórios no Rio e São Paulo.",
-   "Não haverá listagens primárias (IPOs) inicialmente na Base.",
-   "Base busca parceiros minoritários para o conselho, não para capital.",
-   "B3 destaca concorrência com bolsas internacionais devido a investidores estrangeiros."
-  ],
-  "explicacao": [
-   "A Base Exchange, primeira concorrente da B3 no mercado de ações brasileiro, adiou seu lançamento para o segundo semestre de 2027, após previsão inicial de 2025, informou o CEO Francisco Gurgel em novembro de 2026.",
-   "Esse atraso se deve ao desafio de estruturar uma nova bolsa do zero, o que demandou mais tempo e aprendizado do que o previsto, segundo Gurgel. A Base oferecerá negociação de ações, fundos imobiliários e ETFs.",
-   "O lançamento marcará também o retorno das negociações de ações no Rio de Janeiro, algo que não ocorre há mais de 25 anos desde a fusão da antiga bolsa carioca com a B3, sediada em São Paulo.",
-   "A Base Exchange pretende negociar todas as ações da B3, mas sem oferecer IPOs inicialmente. A empresa conta com 210 funcionários e busca parcerias minoritárias para ampliar seu conselho, não para captar capital."
-  ],
-  "detalhes": [
-   "Base Exchange é a primeira concorrente da B3 no mercado de ações brasileiro.",
-   "A empresa é liderada pelo fundo Mubadala, de Abu Dhabi.",
-   "O início operacional foi autorizado para testes pelo Banco Central do Brasil no começo de 2027.",
-   "O adiamento do lançamento ocorreu por causa do desafio de montar uma bolsa do zero.",
-   "A nova bolsa operará no Rio de Janeiro e em São Paulo.",
-   "A Base não oferecerá IPOs inicialmente, apenas negociações secundárias.",
-   "B3 destaca que metade do volume negociado no Brasil é estrangeiro e que preços são competitivos."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Francisco Gurgel, presidente-executivo da Base Exchange",
-    "oque": "Criar uma nova bolsa do zero exigiu mais tempo e aprendizado do que esperado."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "outubro de 2026",
-    "oque": "Banco Central autorizou testes funcionais da Base Exchange para início em 2027."
-   },
-   {
-    "quando": "até 2025",
-    "oque": "Previsão inicial para lançamento da Base Exchange, depois adiada para 2027."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IPO",
-    "significado": "Oferta pública inicial de ações de uma empresa na bolsa"
-   },
-   {
-    "termo": "ETFs",
-    "significado": "Fundos que replicam índices e podem ser negociados como ações"
-   },
-   {
-    "termo": "Fundo soberano",
-    "significado": "Fundo de investimento controlado por governo ou estado"
-   }
-  ],
-  "pergunta": "Você acredita que uma nova bolsa no Brasil vai beneficiar os investidores?",
-  "tamanhoTexto": 2186,
-  "numeros": [
-   {
-    "valor": "210",
-    "rotulo": "número atual de funcionários da Base Exchange"
-   },
-   {
-    "valor": "mais de 25 anos",
-    "rotulo": "tempo desde o fim da negociação de ações no Rio com a antiga bolsa"
-   },
-   {
-    "valor": "50%",
-    "rotulo": "representação dos investidores estrangeiros no volume de negociações da B3"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Data prevista para lançamento da Base Exchange",
-    "antes": "Segundo semestre de 2025",
-    "depois": "Segundo semestre de 2027"
-   }
-  ],
-  "destaque": "Lançamento da Base",
-  "porQueImporta": "A entrada da Base Exchange cria uma nova concorrência para a única bolsa brasileira, a B3, o que pode incentivar melhorias nos custos e serviços. Além disso, é o retorno da negociação de ações no Rio de Janeiro após décadas, o que pode ampliar o acesso e opções no mercado.",
-  "impactoMercado": "A competição deve fomentar redução nas taxas de negociação para investidores, estimulando maior participação e liquidez. Setores como ações, fundos imobiliários e ETFs poderão ser diretamente afetados, enquanto a B3 terá que ajustar sua oferta diante de um novo competidor.",
-  "entenda": "Bolsa de valores é uma empresa que organiza a compra e venda de ações e outros ativos financeiros. A Base Exchange quer ser a segunda bolsa no Brasil, o que é inédito desde que a bolsa do Rio se fundiu com a B3. Mais opções de bolsa podem melhorar preços e serviços para quem investe.",
-  "observar": "Acompanhar os testes da Base Exchange previstos para início de 2027 e possíveis definições sobre oferta de IPOs no futuro, bem como eventuais parcerias minoritárias anunciadas pela empresa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicar o impacto de uma nova bolsa no mercado brasileiro pode ajudar quem quer entender as oportunidades e desafios de operar em um mercado mais competitivo, motivando o aprendizado sobre o setor financeiro.",
-  "gancho": "*nova bolsa* no Brasil 2027",
-  "ideias": [
-   "Por que uma segunda bolsa desafia a B3?",
-   "O que muda para investidores com a Base Exchange?",
-   "Entenda o retorno das ações no Rio após 25 anos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "seta",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T14:40:07-03:00",
-  "url": "https://www.infomoney.com.br/mercados/base-exchange-mira-lancamento-em-2027-em-desafio-a-b3-no-mercado-de-acoes/",
-  "publicadoEm": "2026-11-05T14:31:06-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-04"
- },
- {
-  "titulo": "Quebra do Ueno Bank no Paraguai afeta 3 milhões e envolve US$ 850 mi públicos",
-  "resumo": "O Ueno Bank, maior banco digital do Paraguai, quebrou movimentando quase US$ 850 milhões públicos. A crise causou renúncia do presidente do Banco Central e prisão de oito diretores.",
-  "fatos": [
-   "Ueno Bank era o maior banco digital do Paraguai em clientes.",
-   "Cerca de 3 milhões de pessoas foram afetadas pela quebra do banco.",
-   "O banco administrava quase US$ 850 milhões em recursos públicos.",
-   "Renúncia do presidente do Banco Central do Paraguai ocorreu após crise.",
-   "Oito diretores do Ueno Bank foram presos por envolvimento na crise.",
-   "Índice de solvência caiu para menos da metade do mínimo exigido.",
-   "Protestos ocorreram em Assunção pedindo devolução do dinheiro e impeachment de Santiago Peña.",
-   "Santiago Peña foi sócio do grupo controlador do Ueno Bank até o ano anterior à crise.",
-   "A seleção paraguaia de futebol se solidarizou com os afetados pela crise.",
-   "Clientes, incluindo brasileiros residentes, perderam acesso a contas e serviços digitais."
-  ],
-  "explicacao": [
-   "O Ueno Bank, banco digital líder no Paraguai em número de clientes, entrou em colapso em novembro de 2026, afetando diretamente cerca de 3 milhões de pessoas que perderam acesso a contas, aplicativos e cartões.",
-   "A crise foi desencadeada pela queda drástica no índice de solvência do banco, que caiu para menos da metade do mínimo legal exigido. Isso levou a intervenção do Banco Central e aumento da pressão política.",
-   "O banco administrava quase US$ 850 milhões em recursos públicos, incluindo fundos da Previdência e Ministério da Saúde. A quebra ameaça o pagamento de benefícios e gerou protestos nas ruas de Assunção.",
-   "Além da renúncia do presidente do Banco Central, oito diretores do Ueno Bank foram presos. O presidente do Paraguai, Santiago Peña, que até o ano passado foi sócio do grupo controlador, enfrenta pedidos de impeachment."
-  ],
-  "detalhes": [
-   "O Ueno Bank administrava recursos públicos da Previdência e Ministério da Saúde do Paraguai.",
-   "A queda do índice de solvência resultou na intervenção do Banco Central no banco.",
-   "Os protestos na capital foram reprimidos pelas forças de segurança locais.",
-   "A renúncia do presidente do Banco Central reforça o impacto político da crise financeira.",
-   "Santiago Peña enfrenta fortes críticas por sua ligação direta com o banco até o ano passado.",
-   "O banco era patrocinador da seleção paraguaia de futebol, que demonstrou apoio público.",
-   "Entre os afetados estão brasileiros que vivem no Paraguai e dependem do banco para serviços."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Manifestantes em Assunção",
-    "oque": "Exigiram devolução do dinheiro e o impeachment do presidente Santiago Peña."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3 de novembro de 2026",
-    "oque": "Protestos pediram devolução do dinheiro e impeachment em Assunção."
-   },
-   {
-    "quando": "5 de novembro de 2026",
-    "oque": "Renúncia do presidente do Banco Central e prisão de oito diretores do banco."
-   },
-   {
-    "quando": "Até 2025",
-    "oque": "Santiago Peña foi sócio do grupo controlador do Ueno Bank."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Índice de solvência",
-    "significado": "Mede a capacidade de um banco pagar suas dívidas."
-   },
-   {
-    "termo": "Intervenção bancária",
-    "significado": "Ação do Banco Central para controlar banco com problemas."
-   }
-  ],
-  "pergunta": "Você sabia do impacto da solvência na saúde dos bancos digitais?",
-  "tamanhoTexto": 3686,
-  "numeros": [
-   {
-    "valor": "3 milhões",
-    "rotulo": "pessoas afetadas pela crise do Ueno Bank"
-   },
-   {
-    "valor": "US$ 850 milhões",
-    "rotulo": "recursos públicos administrados pelo banco"
-   },
-   {
-    "valor": "8",
-    "rotulo": "diretores do banco presos"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 850 milhões",
-  "porQueImporta": "Essa crise mostra os riscos que problemas de solvência em bancos digitais podem gerar, afetando diretamente milhões de clientes e fundos públicos essenciais. Para investidores e operadores, entender esses riscos é crucial para avaliar a estabilidade do sistema financeiro e evitar surpresas.",
-  "impactoMercado": "A crise no Ueno Bank pode aumentar a aversão a bancos digitais no Paraguai e região, afetar o crédito e a confiança no sistema financeiro local, e provocar maior regulação. Operadores devem acompanhar essas mudanças para entender o impacto em ativos e câmbio locais.",
-  "entenda": "Um banco administra dinheiro de clientes, incluindo público e privado. A solvência é a capacidade de pagar dívidas. Quando cai muito, o banco pode quebrar, afetando clientes que perdem acesso ao dinheiro e causando instabilidade econômica.",
-  "observar": "Acompanhe se haverá novas medidas do Banco Central paraguaio ou ações legais contra envolvidos. Também observe sessões parlamentares e notícias sobre impactos sociais e financeiros nos próximos dias.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Essa notícia mostra como a gestão financeira e a solvência dos bancos digitais são essenciais para a estabilidade financeira e por que aprender sobre mercado ajuda a entender crises como essa.",
-  "gancho": "*Crise* de banco digital",
-  "ideias": [
-   "O que é índice de solvência e por que importa?",
-   "Como a quebra de um banco digital afeta clientes e governo?",
-   "Crise no Paraguai: lições para investidores e traders"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "queda",
-  "fonte": "G1 Economia",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T14:40:07-03:00",
-  "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml",
-  "publicadoEm": "2026-11-05T12:14:50-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-05"
- },
- {
-  "titulo": "Banco francês Crédit Mutuel Arkéa sofre ataque hacker de €100 milhões",
-  "resumo": "O banco regional francês Crédit Mutuel Arkéa revelou um ataque cibernético que causou prejuízo de cerca de €100 milhões. A investigação está em andamento, e os fundos foram convertidos em criptomoedas por hackers.",
-  "fatos": [
-   "Crédit Mutuel Arkéa sofreu ataque hacker com prejuízo provisório de €100 milhões.",
-   "O ataque foi anunciado em comunicado na noite de quarta-feira, 4 de outubro.",
-   "Os fundos desviados foram convertidos em criptomoedas.",
-   "O Ministério Público de Paris iniciou investigação formal após denúncia do banco.",
-   "O ataque atingiu sistemas automatizados de processamento, não contas de clientes.",
-   "O banco descartou erro humano e classificou o ataque como sofisticado e externo.",
-   "O prejuízo estimado é cerca de R$ 615,3 milhões na cotação atual.",
-   "Crédit Mutuel Arkéa teve lucro líquido de €230 milhões no primeiro semestre.",
-   "A fraude foi detectada por um pesquisador independente, ZachXBT, que analisou a blockchain.",
-   "O banco não confirmou estimativa maior de €133 milhões divulgada pela imprensa."
-  ],
-  "explicacao": [
-   "O banco francês Crédit Mutuel Arkéa comunicou em 4 de outubro que sofreu um ataque hacker que resultou no roubo de aproximadamente €100 milhões, valor preliminar que equivale a R$615,3 milhões. A fraude ocorreu por meio de transferências para outros bancos, não afetando as contas dos clientes.",
-   "O Ministério Público de Paris abriu inquérito formal para apurar o caso, que envolveria uma organização criminosa atacando um sistema automatizado de processamento de dados do banco. O banco afirmou que o ataque foi sofisticado e internacional.",
-   "Os valores desviados foram convertidos em criptomoedas via plataformas especializadas, dificultando o rastreamento. Embora o banco não tenha detalhado os métodos usados nem o responsável, descartou erro humano e ressaltou não haver risco à sua saúde financeira.",
-   "O caso ocorre poucos dias após o ataque à Binance, que resultou em perdas estimadas de US$ 6,3 bilhões. O Crédit Mutuel Arkéa, com lucro líquido de €230 milhões no primeiro semestre, continua avaliando o prejuízo e coopera com a investigação."
-  ],
-  "detalhes": [
-   "O ataque foi comunicado oficialmente pelo banco na noite de 4 de outubro de 2023.",
-   "O Crédit Mutuel Arkéa é uma subsidiária da gigante financeira francesa Crédit Mutuel, atuando na Bretanha e oeste da França.",
-   "O prejuízo ocorreu por acesso a contas internas, com transferência para outras instituições, sem afetar clientes.",
-   "Os fundos foram convertidos em criptomoedas usando plataformas de câmbio especializadas, dificultando o rastreamento.",
-   "A investigação apura ataque por organização criminosa em sistema automatizado de dados.",
-   "O banco segue avaliando o impacto financeiro e mantém a saúde financeira e a solidez do grupo.",
-   "O ataque ocorre menos de uma semana após o roubo histórico na Binance, referência mundial em criptomoedas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Crédit Mutuel Arkéa, comunicado oficial",
-    "oque": "O ataque foi sofisticado e externo, sem risco à saúde financeira do banco."
-   },
-   {
-    "quem": "Ministério Público de Paris",
-    "oque": "Investiga ataque contra sistema automatizado de processamento de dados."
-   },
-   {
-    "quem": "ZachXBT, pesquisador independente",
-    "oque": "Demonstrou que fundos roubados foram convertidos em criptomoedas via múltiplas contas."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "final de setembro e início de",
-    "oque": "Ataque hacker contra Crédit Mutuel Arkéa e roubo milionário."
-   },
-   {
-    "quando": "4 de outubro de 2023",
-    "oque": "Banco anuncia oficialmente o ataque e prejuízo provisório."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Blockchain",
-    "significado": "Tecnologia que registra transações digitais em um livro seguro e descentralizado."
-   },
-   {
-    "termo": "Criptomoedas",
-    "significado": "Moedas digitais criptografadas usadas para transações online."
-   }
-  ],
-  "pergunta": "Você considera os bancos preparados contra ataques cibernéticos atualmente?",
-  "tamanhoTexto": 3455,
-  "numeros": [
-   {
-    "valor": "100 milhões de euros",
-    "rotulo": "Prejuízo estimado no ataque contra Crédit Mutuel Arkéa"
-   },
-   {
-    "valor": "615,3 milhões de reais",
-    "rotulo": "Valor aproximado em reais do prejuízo"
-   },
-   {
-    "valor": "230 milhões de euros",
-    "rotulo": "Lucro líquido do banco no primeiro semestre de 2023"
-   },
-   {
-    "valor": "6,3 bilhões de dólares",
-    "rotulo": "Prejuízo estimado da Binance em ataque hacker recente"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "€100 milhões de",
-  "porQueImporta": "O ataque mostra a vulnerabilidade de sistemas financeiros mesmo em grandes bancos, impactando patrimônio e confiança. Investidores precisam entender riscos cibernéticos que podem influenciar valor e operações das instituições financeiras.",
-  "impactoMercado": "Esse tipo de ataque reforça a importância de segurança cibernética no setor financeiro, afetando ativos digitais e tradicionais. Pode elevar a cautela de investidores em bancos e firmas ligadas a criptoativos, além de pressionar custos com prevenção e regulação.",
-  "entenda": "O ataque hacker foi um ataque cibernético focado em sistemas automatizados internos do banco, desviando fundos convertidos depois em criptomoedas. Esses ataques dificultam rastreamento e recuperação, desafiando segurança e regulação no mercado financeiro.",
-  "observar": "Acompanhe as atualizações da investigação do Ministério Público de Paris e possíveis medidas do banco para reforçar a segurança e recuperar os valores desviados.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia destaca a importância de entender segurança digital e riscos para patrimônio, essenciais para quem quer operar ou investir com mais conhecimento e cautela no mercado financeiro.",
-  "gancho": "*Roubo cibernético* no banco francês",
-  "ideias": [
-   "Como ataques hackers afetam bancos tradicionais?",
-   "O impacto das criptomoedas em crimes financeiros recentes",
-   "Por que segurança digital é vital no mercado financeiro?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Empresas",
-  "icone": "cadeado",
-  "fonte": "Estadão Economia",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-05T14:40:07-03:00",
-  "url": "https://www.estadao.com.br/economia/banco-frances-roubo-100-milhoes-euros-ataque-hacker/",
-  "publicadoEm": "2026-11-05T12:40:43-03:00",
-  "data": "2026-11-05",
-  "id": "2026-11-05-06"
  }
 ]
