@@ -1,5 +1,1444 @@
 [
  {
+  "titulo": "Engenheiro brasileiro lança livro sobre teste de falhas em softwares Bitcoin",
+  "resumo": "Bruno Garcia, Head de Engenharia na Vinteum e doutorando da USP, lança livro sobre fuzzing, técnica para identificar bugs em software, em 18 de novembro, São Paulo.",
+  "fatos": [
+   "Bruno Garcia é Head de Engenharia da Vinteum e doutorando em computação pela USP.",
+   "Livro 'Fuzzing: Conceitos e Prática' será lançado em 18 de novembro de 2026, às 19h30, na Casa21, São Paulo.",
+   "Fuzzing é uma técnica automatizada que injeta milhões de dados em programas para detectar bugs.",
+   "Ferramentas abordadas incluem libFuzzer e AFL++, além do differential fuzzing.",
+   "Bruno é criador do bitcoinfuzz, projeto que localizou mais de 90 bugs em implementações do Bitcoin.",
+   "Vinteum é uma organização brasileira sem fins lucrativos que apoia desenvolvedores do Bitcoin Core.",
+   "Entrada para o evento é gratuita mediante inscrição via plataforma Luma.",
+   "O livro é escrito em português, combinando teoria e prática e abordando avaliação da qualidade dos testes."
+  ],
+  "explicacao": [
+   "Bruno Garcia, engenheiro de software e pesquisador, vai lançar o livro 'Fuzzing: Conceitos e Prática' em 18 de novembro de 2026, em São Paulo. O livro explica técnicas de fuzzing, testes automatizados para identificar falhas que afetam softwares, incluindo o Bitcoin Core.",
+   "A obra reúne a experiência do autor na segurança do Bitcoin, detalhando ferramentas como libFuzzer, AFL++ e métodos avançados como differential fuzzing, que compara implementações para encontrar inconsistências.",
+   "Fuzzing injeta milhões de dados inesperados em programas para monitorar falhas críticas como travamentos ou vulnerabilidades. Essa técnica é fundamental para a segurança e confiabilidade do Bitcoin Core, software essencial para a rede da criptomoeda.",
+   "O lançamento ocorrerá na Casa21, espaço mantido pela Vinteum, organização que apoia desenvolvimento open source do Bitcoin, com autógrafos e participação de desenvolvedores, pesquisadores e estudantes interessados em segurança digital."
+  ],
+  "detalhes": [
+   "Livro concentra-se em segurança de softwares fundamentais como Bitcoin Core, parte vital do ecossistema Bitcoin.",
+   "Differential fuzzing compara implementações para encontrar discrepâncias que podem indicar falhas.",
+   "Evento terá venda de exemplares no local e online pelo site da Uiclap.",
+   "Bruno contribui em tempo integral para projetos de código aberto há cerca de 5 anos.",
+   "O método fuzzing tem ampla aplicação em navegadores, sistemas operacionais e bibliotecas de criptografia.",
+   "Casa21 é um espaço dedicado a pesquisa e desenvolvimento de código aberto mantido pela Vinteum.",
+   "O lançamento visa suprir a carência de materiais didáticos sobre fuzzing em português."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Garcia, engenheiro de software e pesquisador",
+    "oque": "Escrevi o livro para sistematizar o que aprendi e suprir a falta de materiais em português sobre fuzzing."
+   },
+   {
+    "quem": "Colette Kress, CEO interina da Nvidia",
+    "oque": "Estou comprometida em construir sobre a base extraordinária que Jensen criou nos últimos 33 anos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Lançamento do livro 'Fuzzing: Conceitos e Prática' em evento na Casa21, São Paulo."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fuzzing",
+    "significado": "Teste automatizado que insere dados aleatórios para detectar falhas em software."
+   },
+   {
+    "termo": "Differential fuzzing",
+    "significado": "Comparação entre implementações para encontrar inconsistências."
+   },
+   {
+    "termo": "Bitcoin Core",
+    "significado": "Software fundamental que roda a rede Bitcoin, garantindo seu funcionamento."
+   }
+  ],
+  "pergunta": "Você sabia como o fuzzing ajuda a manter o Bitcoin seguro?",
+  "tamanhoTexto": 15497,
+  "numeros": [
+   {
+    "valor": "90",
+    "rotulo": "bugs identificados pelo projeto bitcoinfuzz"
+   },
+   {
+    "valor": "18/11/2026",
+    "rotulo": "data do lançamento do livro"
+   },
+   {
+    "valor": "19h30",
+    "rotulo": "horário do evento de lançamento"
+   },
+   {
+    "valor": "5",
+    "rotulo": "anos de contribuição integral de Bruno em código aberto"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Lançamento do livro",
+  "porQueImporta": "Para investidores e operadores, entender como falhas são detectadas em softwares críticos como o Bitcoin Core é vital, pois a segurança dessas plataformas impacta diretamente a confiabilidade e a robustez do ecossistema cripto, reforçando a importância da técnica de fuzzing apresentada no livro.",
+  "impactoMercado": "A obra destaca como o fuzzing fortalece a segurança do código aberto do Bitcoin, o que eleva a confiança dos usuários e desenvolvedores, influenciando positivamente o ambiente tecnológico das criptomoedas e os investimentos relacionados a essas tecnologias.",
+  "entenda": "Fuzzing é uma técnica de teste automatizado que submete softwares a milhões de dados aleatórios para encontrar falhas difíceis de detectar manualmente. Isso ajuda a tornar programas como o Bitcoin Core mais seguros, evitando vulnerabilidades que poderiam comprometer a rede.",
+  "observar": "Acompanhe o lançamento do livro em 18 de novembro e os futuros avanços da Vinteum em pesquisa para evoluir a segurança do Bitcoin Core.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como a técnica de fuzzing é fundamental para proteger o Bitcoin, convidando o público a entender mais sobre segurança digital e o mercado cripto na faculdade de mercado financeiro.",
+  "gancho": "*Fuzzing* e Segurança no Bitcoin",
+  "ideias": [
+   "O que é fuzzing e por que importa para o Bitcoin",
+   "Conheça Bruno Garcia: engenharia de software e segurança cripto",
+   "Como o livro sobre fuzzing pode ajudar desenvolvedores e investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "escudo",
+  "fonte": "Livecoins (cripto); Exame",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://livecoins.com.br/engenheiro-brasileiro-que-trabalha-na-seguranca-do-bitcoin-lanca-livro-sobre-como-encontrar-falhas-em-softwares/",
+  "publicadoEm": "2026-11-12T16:24:36-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-20"
+ },
+ {
+  "titulo": "Lucro da B3 atinge R$ 1,4 bi no 3º tri, dentro da expectativa",
+  "resumo": "A B3 registrou lucro líquido recorrente de R$ 1,4 bilhão, alta de 9,9% no 3º trimestre de 2026. Sua receita líquida cresceu 11%, chegando a R$ 2,76 bilhões, em linha com as projeções de analistas.",
+  "fatos": [
+   "Lucro líquido recorrente de R$ 1,4 bilhão no 3º trimestre de 2026",
+   "Aumento de 9,9% no lucro líquido em relação ao 3º tri de 2025",
+   "Receita líquida somou R$ 2,76 bilhões, alta de 11%",
+   "Ebitda recorrente cresceu 9,4%, atingindo R$ 1,9 bilhão",
+   "Volume médio diário negociado em renda variável avançou 26% para R$ 28,6 bilhões",
+   "BDRs tiveram crescimento de 64% no volume de negociação",
+   "Pagamento de R$ 1,13 bilhão em juros sobre capital próprio (R$ 378 milhões ordinários e R$ 750 milhões extraordinários)",
+   "Receita total atingiu R$ 3,047 bilhões, crescimento de 11,1%",
+   "Despesas ajustadas subiram de R$ 598 milhões para R$ 642,8 milhões",
+   "Aquisição da Central de Registro de Direitos Creditórios e investimento na IDEX Analytics"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a B3, operadora da Bolsa de São Paulo, teve lucro líquido recorrente de R$ 1,4 bilhão, elevando em 9,9% seu resultado em relação ao mesmo período do ano anterior. A receita líquida totalizou R$ 2,76 bilhões, avanço de 11%.",
+   "Esse desempenho positivo foi impulsionado pela elevação do volume médio diário negociado em renda variável, que subiu 26%, e pelo destaque dos BDRs, com crescimento de 64% no volume de negociações. Além disso, a B3 ampliou sua oferta de produtos, lançando contratos futuros e opções sobre criptomoedas e títulos internacionais.",
+   "Os resultados refletiram a manutenção da atividade no mercado financeiro brasileiro com expansão na receita operacional e no Ebitda recorrente, que cresceu 9,4%, chegando a R$ 1,9 bilhão. O pagamento de R$ 1,13 bilhão em juros sobre capital próprio também foi anunciado.",
+   "Em continuidade à estratégia de expansão, a B3 concluiu a aquisição da Central de Registro de Direitos Creditórios e anunciou investimento na IDEX Analytics para fortalecer atuação no mercado de crédito e renda fixa. Essa evolução deve manter o foco na diversificação de produtos e serviços."
+  ],
+  "detalhes": [
+   "Resultado divulgado em 12 de dezembro de 2026",
+   "Lucro e receita ficaram em linha com as expectativas médias dos analistas segundo LSEG",
+   "BDRs são certificados que representam ativos emitidos no exterior",
+   "Novos contratos futuros e opções introduzidos para criptomoedas e títulos do Tesouro dos EUA",
+   "Compra da CRDC amplia presença da B3 entre pequenas e médias empresas",
+   "Investimento na IDEX Analytics depende ainda de aprovação regulatória",
+   "Volume médio diário negociado em renda variável cresceu 26% em comparação anual"
+  ],
+  "declaracoes": [
+   {
+    "quem": "B3, operadora da Bolsa de Valores de São Paulo",
+    "oque": "Resultado reflete avanço no lucro, receita e desempenho operacional em linha com expectativas"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de dezembro de 2026",
+    "oque": "Divulgação do resultado do 3º trimestre de 2026 pela B3"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro Líquido Recorrente",
+    "significado": "Lucro ajustado para refletir desempenho regular da empresa"
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "BDR",
+    "significado": "Certificado que representa ações emitidas no exterior"
+   }
+  ],
+  "pergunta": "Você já conhece como funcionam os BDRs e sua importância na B3?",
+  "tamanhoTexto": 9382,
+  "numeros": [
+   {
+    "valor": "1,4 bilhão",
+    "rotulo": "lucro líquido recorrente no 3º trimestre de 2026"
+   },
+   {
+    "valor": "2,76 bilhões",
+    "rotulo": "receita líquida no 3º trimestre de 2026"
+   },
+   {
+    "valor": "1,9 bilhão",
+    "rotulo": "Ebitda recorrente no 3º trimestre de 2026"
+   },
+   {
+    "valor": "26%",
+    "rotulo": "crescimento do volume médio diário negociado (renda variável)"
+   },
+   {
+    "valor": "64%",
+    "rotulo": "alta no volume de negociação dos BDRs"
+   },
+   {
+    "valor": "1,13 bilhão",
+    "rotulo": "pagamento de juros sobre capital próprio no 3º trimestre de 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 1,4 bilhão",
+  "porQueImporta": "O lucro consistente e a ampliação da receita da B3 indicam a saúde operacional e a relevância da bolsa no mercado financeiro. Para investidores e traders, entender esses resultados ajuda a avaliar a estabilidade e perspectivas dos ativos negociados na B3.",
+  "impactoMercado": "Com crescimento do volume negociado, especialmente em BDRs e criptomoedas, a B3 amplia sua influência nos mercados doméstico e internacional, podendo afetar setores ligados a ações e ativos digitais. O aumento da receita reforça seu papel na infraestrutura do mercado financeiro brasileiro.",
+  "entenda": "A B3 é a principal bolsa de valores do Brasil onde ações, títulos e derivativos são negociados. Lucro líquido é o ganho da empresa após todas as despesas. EBITDA mede a lucratividade operacional. BDRs são recibos que representam ações de empresas estrangeiras negociadas no Brasil.",
+  "observar": "Monitorar resultados futuros da B3, negociações do volume em renda variável e aprovações regulatórias sobre investimentos, como na IDEX Analytics, para acompanhar evolução e impacto no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Notícia sobre lucro e crescimento da B3 ajuda a entender como a bolsa funciona, mostrando produtos e mercados que influenciam o investidor no dia a dia, conectando à importância de estudar o mercado para operar com mais segurança.",
+  "gancho": "*Lucro* e *Crescimento* da B3",
+  "ideias": [
+   "Como o volume de negociações alavanca o lucro da B3",
+   "O que são BDRs e por que cresceram 64% na B3",
+   "Novos produtos da B3: criptomoedas e títulos internacionais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Folha Mercado; Money Times; BP Money",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-b3-fica-dentro-do-esperado-no-3o-tri-a-r-14-bi.shtml",
+  "publicadoEm": "2026-11-12T20:36:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-21"
+ },
+ {
+  "titulo": "Lucro do Banco do Brasil cai 66% e ações caem quase 9% na bolsa",
+  "resumo": "Banco do Brasil teve lucro líquido ajustado de R$ 1,27 bilhão no 3º trimestre, queda de 66%. Ações BBAS3 caíram 8,35%, atingindo o pior nível em quase 5 anos após revisão negativa de projeções.",
+  "fatos": [
+   "Lucro líquido ajustado do 3º trimestre: R$ 1,27 bilhão.",
+   "Queda de 66% do lucro em relação ao 3º trimestre de 2025.",
+   "Ações BBAS3 caíram 8,35% em 12/11/2026, cotadas a R$ 15,48.",
+   "Índice de inadimplência acima de 90 dias no agronegócio: 6,92%.",
+   "Provisões para perdas com empréstimos totalizaram R$ 21,2 bilhões no trimestre.",
+   "Estima-se lucro ajustado de R$ 9 a 11 bilhões para 2026, ante consenso anterior perto de R$ 16 bilhões.",
+   "Redução do payout para 25% em 2026, mínimo regulatório.",
+   "Antes dos impostos, prejuízo de R$ 832 milhões no trimestre.",
+   "Ações BBSE3, da BB Seguridade, caíram 4,99%, a R$ 37,68.",
+   "Carteira de crédito deve apresentar estabilidade ou queda de até 2% em 2026."
+  ],
+  "explicacao": [
+   "O Banco do Brasil divulgou lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre de 2026, uma queda de 66% na comparação anual e 68% em relação ao trimestre anterior. O resultado ficou cerca de 60% abaixo do esperado pelo mercado, impactado pela alta inadimplência, principalmente no agronegócio.",
+   "A principal causa foi o aumento das provisões para perdas com empréstimos, que no trimestre alcançaram R$ 21,2 bilhões, 18% acima do ano anterior. O índice de atrasos acima de 90 dias no agronegócio subiu para 6,92%, pressionando o desempenho financeiro do banco.",
+   "Como consequência, o Banco do Brasil reduziu sua estimativa de lucro anual para entre R$ 9 bilhões e R$ 11 bilhões, quase metade do consenso anterior que era próximo a R$ 16 bilhões, e diminuiu a distribuição de dividendos para 25% do lucro, o mínimo regulatório.",
+   "Em resposta ao resultado, as ações BBAS3 recuaram 8,35% na quinta-feira (12), atingindo o menor patamar desde 2021, com cotação a R$ 15,48. A pressão sobre o capital e a elevada inadimplência abrem caminho para dificuldades que podem se prolongar além do curto prazo."
+  ],
+  "detalhes": [
+   "Banco do Brasil teve crescimento da inadimplência especialmente no agronegócio e em crédito a pessoa física.",
+   "Carteira de crédito do agronegócio teve saltos nos valores inadimplentes: de R$ 5,7 bilhões para R$ 14,7 bilhões do 2º para o 3º trimestre.",
+   "A administração reduziu as projeções de lucro e dividendos para preservar capital diante do cenário desafiador.",
+   "Índice de capital principal caiu para 10,8%, abaixo da meta ideal de 11%.",
+   "O banco renegociou R$ 40,4 bilhões em dívidas do agronegócio com 25,6 mil clientes.",
+   "A inadimplência em cartão de crédito chegou a 16,35% no trimestre.",
+   "A queda das ações no dia foi maior entre os grandes bancos e a pior reação a um balanço em 18 meses."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Daniel Utsch, gestor da Nero Capital",
+    "oque": "O momento é difícil; ações atingiram pior patamar em quase cinco anos."
+   },
+   {
+    "quem": "Geovanne Tobias, diretor financeiro do Banco do Brasil",
+    "oque": "Produtores médios e grandes não pagam dívidas, mesmo com condições de renegociação."
+   },
+   {
+    "quem": "Tarciana Medeiros, presidente do Banco do Brasil",
+    "oque": "Recuperação das dívidas está mais lenta que o esperado, com clientes esperando soluções milagrosas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Divulgação dos resultados do terceiro trimestre do Banco do Brasil."
+   },
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Ações BBAS3 caem 8,35% após divulgação do balanço."
+   },
+   {
+    "quando": "26 de outubro de 2026",
+    "oque": "Ações do Banco do Brasil recuaram quase 30% após resultado das eleições presidenciais."
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Lucro ajustado do banco caiu 66% em relação a mesmo período de 2025."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Inadimplência",
+    "significado": "Clientes que atrasam pagamentos de empréstimos."
+   },
+   {
+    "termo": "Provisionamento",
+    "significado": "Reserva financeira para cobrir possíveis perdas."
+   },
+   {
+    "termo": "Payout",
+    "significado": "Percentual do lucro distribuído aos acionistas."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da inadimplência nas ações do Banco do Brasil?",
+  "tamanhoTexto": 19287,
+  "numeros": [
+   {
+    "valor": "1,27 bilhão",
+    "rotulo": "Lucro líquido ajustado no 3º trimestre (R$)"
+   },
+   {
+    "valor": "66%",
+    "rotulo": "Queda do lucro líquido ajustado na comparação anual"
+   },
+   {
+    "valor": "8,35%",
+    "rotulo": "Queda das ações BBAS3 em 12/11/2026"
+   },
+   {
+    "valor": "6,92%",
+    "rotulo": "Taxa de inadimplência acima de 90 dias no agronegócio"
+   },
+   {
+    "valor": "21,2 bilhões",
+    "rotulo": "Provisões para perdas no trimestre (R$)"
+   },
+   {
+    "valor": "9 a 11 bilhões",
+    "rotulo": "Nova projeção de lucro ajustado para 2026 (R$)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro líquido ajustado 3º trimestre",
+    "antes": "R$ 3,79 bilhões em 2025",
+    "depois": "R$ 1,27 bilhão em 2026"
+   },
+   {
+    "item": "Projeção de lucro para 2026",
+    "antes": "R$ 18 a 22 bilhões",
+    "depois": "R$ 9 a 11 bilhões"
+   },
+   {
+    "item": "Inadimplência agro 90 dias",
+    "antes": "4,84%",
+    "depois": "6,92%"
+   },
+   {
+    "item": "Payout de dividendos",
+    "antes": "30%",
+    "depois": "25%"
+   }
+  ],
+  "destaque": "66% queda no",
+  "porQueImporta": "A queda expressiva do lucro e o aumento da inadimplência no Banco do Brasil indicam desafios para um dos maiores bancos públicos do país. Isso impacta preços das ações, distribuição de dividendos e a saúde financeira do setor, importantes para investidores e operadores no mercado.",
+  "impactoMercado": "A revisão para baixo das projeções de lucro e o pior cenário do agronegócio podem pressionar as ações do Banco do Brasil e influenciar o setor bancário. Investidores podem enfrentar volatilidade e devem acompanhar o desenvolvimento das carteiras de crédito e políticas do banco.",
+  "entenda": "A inadimplência é quando clientes deixam de pagar empréstimos, aumentando as provisões para perdas e reduzindo lucros do banco. O payout é a parte do lucro distribuída aos acionistas como dividendos. Quando o banco sofre perdas, pode cortar dividendos para proteger seu capital.",
+  "observar": "Acompanhe os resultados do 4º trimestre, atualizações das projeções para 2027 e o comportamento da inadimplência no agronegócio e crédito pessoal, que impactam o desempenho futuro do Banco do Brasil.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia ajuda a entender como indicadores de crédito e resultados financeiros impactam ações e projeções no mercado, mostrando a importância de análise para decisões com aprendizado na faculdade de mercado financeiro.",
+  "gancho": "*Banco do Brasil* sofre queda forte",
+  "ideias": [
+   "Por que a inadimplência preocupa no Banco do Brasil?",
+   "O que significa a redução do payout no BB?",
+   "Impactos da queda do lucro do Banco do Brasil nas ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "G1 Economia; Exame; InvestNews",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-ibovespa.ghtml",
+  "publicadoEm": "2026-11-12T12:05:45-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-22"
+ },
+ {
+  "titulo": "Braskem tem prejuízo líquido de R$ 1,1 bilhão no 3º trimestre de 2026",
+  "resumo": "A Braskem registrou prejuízo de R$ 1,1 bilhão no 3º tri de 2026, pior que os R$ 26 milhões negativos em 2025. Receita cresceu 20%, impulsionada por spreads favoráveis no Brasil, EUA e México.",
+  "fatos": [
+   "Prejuízo líquido da Braskem no 3º tri 2026: R$ 1,1 bilhão",
+   "Prejuízo líquido no 3º tri 2025: R$ 26 milhões",
+   "Ebitda recorrente caiu 63%, para R$ 382 milhões no 3º tri 2026",
+   "Receita líquida cresceu 20%, atingindo R$ 3,8 bilhões",
+   "Resultado financeiro negativo quase dobrou no trimestre",
+   "Perda cambial de R$ 100 milhões no 3º tri 2026, contra ganho de R$ 310 milhões no ano anterior",
+   "Alavancagem financeira caiu para 6,36 vezes em setembro de 2026",
+   "Braskem está em recuperação judicial desde agosto de 2026",
+   "Dívidas financeiras somam US$ 10,9 bilhões sujeitas ao plano de recuperação",
+   "Prazo para adesão ao plano termina em 22 de novembro de 2026"
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, a petroquímica Braskem registrou um prejuízo líquido de R$ 1,1 bilhão, um aumento significativo em relação aos R$ 26 milhões negativos no mesmo período de 2025. Essa deterioração ocorreu mesmo com a receita líquida crescendo 20%, alcançando R$ 3,8 bilhões.",
+   "O resultado operacional, medido pelo Ebitda recorrente, caiu 63%, totalizando R$ 382 milhões. O desempenho financeiro piorou devido ao aumento quase que dobrado dos resultados financeiros negativos, especialmente pela variação cambial que passou de um ganho de R$ 310 milhões para uma perda de R$ 100 milhões no período.",
+   "A Braskem está em recuperação judicial desde agosto de 2026 para tentar reestruturar seus cerca de US$ 10,9 bilhões em dívidas financeiras. O conselho da empresa avaliou propostas dos credores, que pedem mudanças no plano de conversão de dívidas em ações e aumento de aportes pela Petrobras.",
+   "Agora, a empresa precisa da aceitação de mais da metade dos créditos até 22 de novembro de 2026 para concluir o processo, quando acabarão também as proteções contra cobranças e execuções. A situação financeira e a negociação com credores são decisivas para o futuro da Braskem no mercado."
+  ],
+  "detalhes": [
+   "A Braskem é controlada pela Petrobras e pela gestora IG4",
+   "A recuperação judicial envolve reestruturação das dívidas financeiras da empresa",
+   "Os credores desejam menor conversão de dívidas em ações da Petrobras",
+   "O aporte de capital dos acionistas foi proposto pela empresa para o plano de recuperação",
+   "A proteção contra cobranças e execuções encerra em novembro de 2026, mesma data do prazo para adesão",
+   "O ambiente favorável de spreads petroquímicos nos mercados brasileiro, americano e mexicano impulsionou a receita",
+   "A alavancagem financeira, que indica o grau de endividamento, apresentou melhora em relação ao ano anterior"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Braskem, em relatório financeiro",
+    "oque": "A redução da alavancagem mostra progresso no processo de recuperação financeira da empresa"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "agosto de 2026",
+    "oque": "Início da recuperação judicial da Braskem"
+   },
+   {
+    "quando": "12 de dezembro de 2026",
+    "oque": "Divulgação dos resultados financeiros do 3º trimestre de 2026"
+   },
+   {
+    "quando": "22 de novembro de 2026",
+    "oque": "Data final para adesão dos credores ao plano de recuperação extrajudicial"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Recuperação judicial",
+    "significado": "Processo que protege empresas da falência para reestruturar dívidas"
+   },
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "Alavancagem financeira",
+    "significado": "Medida de quanto a empresa está endividada"
+   }
+  ],
+  "pergunta": "Você já acompanhava o processo de recuperação da Braskem? O que espera?",
+  "tamanhoTexto": 2644,
+  "numeros": [
+   {
+    "valor": "1,1 bilhão",
+    "rotulo": "Prejuízo líquido no 3º trimestre de 2026"
+   },
+   {
+    "valor": "26 milhões",
+    "rotulo": "Prejuízo líquido no 3º trimestre de 2025"
+   },
+   {
+    "valor": "3,8 bilhões",
+    "rotulo": "Receita líquida no 3º trimestre de 2026"
+   },
+   {
+    "valor": "63%",
+    "rotulo": "Queda do Ebitda recorrente no 3º trimestre de 2026"
+   },
+   {
+    "valor": "6,36 vezes",
+    "rotulo": "Alavancagem financeira em setembro de 2026"
+   },
+   {
+    "valor": "US$ 10,9 bilhões",
+    "rotulo": "Dívidas financeiras sujeitas ao plano de recuperação"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Prejuízo líquido 3º tri",
+    "antes": "R$ 26 milhões (2025)",
+    "depois": "R$ 1,1 bilhão (2026)"
+   },
+   {
+    "item": "Ebitda recorrente",
+    "antes": "Valor não fornecido",
+    "depois": "R$ 382 milhões, queda de 63%"
+   },
+   {
+    "item": "Resultado financeiro variação cambial",
+    "antes": "Ganho de R$ 310 milhões (2025)",
+    "depois": "Perda de R$ 100 milhões (2026)"
+   },
+   {
+    "item": "Alavancagem financeira",
+    "antes": "16,21 vezes (2025)",
+    "depois": "6,36 vezes (setembro 2026)"
+   }
+  ],
+  "destaque": "R$ 1,1 bilhão",
+  "porQueImporta": "O prejuízo expressivo da Braskem mostra os desafios enfrentados por empresas petroquímicas endividadas. Para investidores, acompanhar o processo de recuperação judicial é essencial para entender riscos e oportunidades numa indústria estratégica da economia.",
+  "impactoMercado": "A continuidade da recuperação judicial e as negociações com credores podem afetar ações, crédito e confiança no setor petroquímico. O fluxo financeiro e o endividamento influenciam a percepção sobre a saúde financeira da empresa e seu acesso ao mercado.",
+  "entenda": "A recuperação judicial é um processo legal para empresas renegociarem suas dívidas e evitarem falência. O Ebitda mede o lucro operacional sem custos financeiros. A alavancagem mostra o endividamento da empresa em relação à sua capacidade de pagamento.",
+  "observar": "Acompanhe negociações entre Braskem e credores até 22 de novembro de 2026 para entender o futuro financeiro da empresa e o fim da proteção judicial.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicamos o impacto da recuperação judicial da Braskem e a dinâmica financeira que interessa a quem quer entender riscos e estratégias no mercado petroquímico e de ações.",
+  "gancho": "*Braskem* tem prejuízo bilionário",
+  "ideias": [
+   "Entenda a recuperação judicial da Braskem",
+   "Por que a Braskem teve prejuízo bilionário em 2026?",
+   "Como a dívida afeta empresas petroquímicas: o caso Braskem"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-tem-prejuizo-liquido-de-r-11-bilhao-no-3o-tri.shtml",
+  "publicadoEm": "2026-11-12T22:26:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-23"
+ },
+ {
+  "titulo": "Governo mantém impacto fiscal entre R$ 50 bi e R$ 60 bi com mudanças no PLP",
+  "resumo": "Alterações no Projeto de Lei Complementar 299/2026 não modificam impacto fiscal de R$ 50 a 60 bilhões previsto pelo governo para 2027, informa equipe econômica.",
+  "fatos": [
+   "Projeto trata de medidas de ajuste fiscal para o governo Lula no quarto mandato.",
+   "Impacto global esperado permanece entre R$ 50 bilhões e R$ 60 bilhões.",
+   "Manutenção da correção dos repasses ao Fundo Constitucional do Distrito Federal.",
+   "Setores de tecnologia e compras por pessoas com deficiência preservados dos cortes adicionais.",
+   "Retirada do dispositivo para desvincular até 40% do superávit financeiro.",
+   "Alteração no calendário de pagamentos da Lei Kandir, iniciando ano seguinte a cada repasse.",
+   "Votação ocorreu em 12 de novembro de 2026, com protestos da oposição.",
+   "Oposição critica o projeto por ampliar arrecadação e dificultar compensações tributárias.",
+   "Limite para emendas impositivas previsto em R$ 44,8 bilhões, mas emendas de comissão não incluídas."
+  ],
+  "explicacao": [
+   "O relator do PLP 299/2026 fez ajustes na proposta fiscal para o quarto mandato do presidente Lula, sem alterar o impacto orçamentário global estimado entre R$ 50 bilhões e R$ 60 bilhões.",
+   "Mudanças incluíram a preservação da regra de correção dos repasses ao Fundo Constitucional do Distrito Federal e exceções em cortes de incentivos fiscais, para assegurar apoio político e votos, inclusive da oposição local.",
+   "Alterações também retiraram dispositivo de desvinculação do superávit financeiro e ajustaram regras de compensações tributárias, sem reduzir o esforço fiscal, que visa conter despesas e evitar endividamento.",
+   "A proposta foi aprovada em meio a críticas da oposição, que alega falta de ajuste fiscal real, e discussão sobre o impacto para Estados e empresas, especialmente sobre a Lei Kandir e compensações tributárias."
+  ],
+  "detalhes": [
+   "Quem: Relator do PLP 299/2026 e equipe econômica do governo federal.",
+   "Quanto: impacto esperado entre R$ 50 bilhões e R$ 60 bilhões para 2027.",
+   "Quando: projeto votado em 12/11/2026.",
+   "Onde: Senado Federal em Brasília.",
+   "Como: mudanças visam garantir votos e flexibilizar orçamento, preservando algumas despesas e incentivos fiscais.",
+   "Comparação: alterações não significativas no impacto financeiro inicial do governo.",
+   "Contexto: proposta atende à necessidade de ajuste fiscal no mandato presidencial vigente."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Líder da oposição no Senado, Rogério Marinho (PL-RN)",
+    "oque": "Classificou a proposta como 'pedalada' e 'estelionato', fraudando a sociedade sobre ajuste fiscal."
+   },
+   {
+    "quem": "Equipe econômica do governo",
+    "oque": "As alterações feitas são pontuais e não alteram o esforço fiscal nem o impacto global previsto."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Alterações no PLP 299/2026 foram apresentadas e a proposta foi votada."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PLP (Projeto de Lei Complementar)",
+    "significado": "Proposta legislativa que altera leis complementares do país, importante para regras fiscais."
+   },
+   {
+    "termo": "Fundo Constitucional do Distrito Federal",
+    "significado": "Recurso destinado a investimentos e despesas no Distrito Federal."
+   },
+   {
+    "termo": "Lei Kandir",
+    "significado": "Lei que limita ICMS sobre exportações, com compensações aos estados."
+   }
+  ],
+  "pergunta": "Você acha que o ajuste fiscal proposto vai equilibrar as contas públicas em 2027?",
+  "tamanhoTexto": 16521,
+  "numeros": [
+   {
+    "valor": "R$ 50 bilhões a R$ 60 bilhões",
+    "rotulo": "Impacto fiscal global previsto pelo governo"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Redução adicional de benefícios fiscais que foi excluída para setores específicos"
+   },
+   {
+    "valor": "R$ 44,8 bilhões",
+    "rotulo": "Emendas impositivas previstas na proposta original para o orçamento de 2027"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "Percentual do superávit financeiro que o Executivo não poderá desvincular após a retirada do dispositivo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 50 bi",
+  "porQueImporta": "Esse ajuste fiscal define o equilíbrio das contas públicas para 2027, afetando orçamento e estratégias do governo. Entender o impacto ajuda investidores a avaliar cenários econômicos e riscos relacionados a gastos públicos e políticas fiscais.",
+  "impactoMercado": "Mudanças no ajuste fiscal influenciam decisões do mercado sobre ativos sensíveis a despesas públicas, como dívida pública e setores dependentes de incentivos fiscais, além de refletir no humor para investimentos no Brasil.",
+  "entenda": "O PLP é uma lei complementar que define regras fiscais para limitar gastos do governo e garantir a sustentabilidade das contas públicas. O ajuste fiscal busca controlar despesas e receitas para evitar déficits e manter a confiança do mercado e investidores.",
+  "observar": "Acompanhe as próximas votações e detalhamentos do orçamento federal 2027, além de eventuais propostas de ajuste fiscal adicionais que o governo possa apresentar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicamos como a aprovação do PLP 299/2026 afeta as contas públicas e o orçamento, importante para entender o ambiente macroeconômico do país e as decisões políticas que impactam o mercado financeiro.",
+  "gancho": "*Ajuste Fiscal* em debate",
+  "ideias": [
+   "O que muda com o PLP 299/2026 no ajuste fiscal?",
+   "Como o impacto fiscal de R$ 50 bi afeta o orçamento 2027",
+   "Entenda as críticas da oposição ao pacote fiscal do governo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Valor Econômico; Seu Dinheiro; Money Times",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://valor.globo.com/politica/noticia/2026/11/12/mudancas-no-pacote-fiscal-nao-alteram-impacto-entre-r-50-bilhoes-e-r-60-bilhoes-avalia-governo.ghtml",
+  "publicadoEm": "2026-11-12T20:31:52-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-24"
+ },
+ {
+  "titulo": "Petrobras compra 70% restantes da Logum por R$ 620 milhões",
+  "resumo": "Petrobras anunciou acordo para adquirir 70% restantes da Logum por R$ 620 milhões. A estatal passará a controlar 100% da empresa de transporte e armazenamento de etanol.",
+  "fatos": [
+   "Data do anúncio: 12 de outubro.",
+   "Valor total da compra: R$ 620 milhões.",
+   "Porcentagem adquirida: 70% restantes da Logum.",
+   "Acionistas atuais: Raízen Energia (30%), Copersucar (30%) e Uniduto Logística (10%).",
+   "Rede de dutos da Logum: mais de 1.000 quilômetros em MG e SP.",
+   "Terminais em Uberaba (MG), Ribeirão Preto e Paulínia (SP).",
+   "Principais polos de distribuição: Barueri, Guarulhos, São Caetano do Sul e São José dos Campos (SP) e Duque de Caxias (RJ).",
+   "Pagamento dividido em 3 parcelas: R$ 300 milhões no fechamento, R$ 160 milhões após 12 meses e R$ 160 milhões após 24 meses.",
+   "Transação depende da aprovação do Cade."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira, 12 de outubro, a Petrobras anunciou um acordo para comprar os 70% restantes da Logum Logística por R$ 620 milhões, completando a aquisição total da empresa. A Logum atua no transporte e armazenagem de etanol e outros biocombustíveis.",
+   "Essa compra visa posicionar a Petrobras no principal corredor logístico de etanol do Brasil, considerando o crescimento do mercado de biocombustíveis, especialmente pela expansão da produção de etanol de milho no Centro-Oeste.",
+   "A Logum opera mais de 1.000 km de dutos em Minas Gerais e São Paulo, com terminais em cidades como Uberaba, Ribeirão Preto e Paulínia. A rede conecta polos de distribuição em São Paulo e Rio de Janeiro, incluindo terminais marítimos para exportação.",
+   "O negócio será pago em três parcelas e depende da aprovação do Conselho Administrativo de Defesa Econômica (Cade). A integração da Logum ao Sistema Petrobras deve gerar sinergias operacionais relevantes no setor."
+  ],
+  "detalhes": [
+   "Petrobras passa a ter controle total (100%) da Logum após a compra.",
+   "Logum é especializada em transporte, movimentação e armazenamento de etanol e biocombustíveis.",
+   "Dutos transportam etanol das usinas produtoras para polos de distribuição e para exportação por navios-tanque.",
+   "Aquisição integra a malha dutoviária da Logum ao Sistema Petrobras, aumentando eficiência.",
+   "Expansão do mercado de etanol é relacionada ao crescimento do etanol de milho no Centro-Oeste brasileiro.",
+   "Pagamento do negócio ocorre ao longo de 24 meses em parcelas.",
+   "Negociação aguarda aval do órgão regulador Cade para ser definitiva."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Petrobras",
+    "oque": "O negócio posiciona a empresa no principal corredor logístico de etanol do país e acompanha o crescimento do mercado de biocombustíveis."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de outubro",
+    "oque": "Petrobras anuncia acordo para compra dos 70% restantes da Logum."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Corredor logístico",
+    "significado": "Rota usada para transporte eficiente de produtos entre regiões."
+   },
+   {
+    "termo": "Biocombustível",
+    "significado": "Combustível produzido a partir de matéria orgânica renovável."
+   },
+   {
+    "termo": "Cade",
+    "significado": "Conselho Administrativo de Defesa Econômica, órgão regulador antitruste."
+   }
+  ],
+  "pergunta": "Você acha que a Petrobras vai fortalecer sua posição no mercado de biocombustíveis com essa compra?",
+  "tamanhoTexto": 3405,
+  "numeros": [
+   {
+    "valor": "620 milhões",
+    "rotulo": "Valor total da aquisição em reais"
+   },
+   {
+    "valor": "70%",
+    "rotulo": "Porcentagem da Logum adquirida pela Petrobras"
+   },
+   {
+    "valor": "3",
+    "rotulo": "Número de parcelas para pagamento da compra"
+   },
+   {
+    "valor": "300 milhões",
+    "rotulo": "Parcela do pagamento no fechamento da operação"
+   },
+   {
+    "valor": "160 milhões",
+    "rotulo": "Parcela do pagamento após 12 e 24 meses"
+   },
+   {
+    "valor": "1000 km",
+    "rotulo": "Extensão da rede de dutos da Logum"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 620 milhões",
+  "porQueImporta": "A compra da Logum pela Petrobras representa um movimento estratégico para ampliar sua atuação no mercado de biocombustíveis. Para quem investe ou opera, indica fortalecimento da companhia em logística de etanol, setor em crescimento, o que pode impactar integração, eficiência e competitividade no mercado.",
+  "impactoMercado": "Com a integração da malha logística da Logum ao Sistema Petrobras e a expansão em biocombustíveis, o setor pode ganhar escala e eficiência. Pode influenciar empresas ligadas ao etanol, combustíveis renováveis e também refletem no ambiente regulatório e em debates sobre energias mais limpas.",
+  "entenda": "A Petrobras adquiriu os 70% restantes da Logum, empresa que opera dutos e terminais para transporte de etanol e biocombustíveis. Esse tipo de infraestrutura facilita o fluxo do combustível das produtoras para distribuidoras e exportação, reduz custos logísticos e melhora eficiência do setor.",
+  "observar": "Fique atento à aprovação da transação pelo Cade para confirmar a operação. Também acompanhe notícias sobre o crescimento do mercado de etanol, especialmente no Centro-Oeste, e futuros investimentos da Petrobras em biocombustíveis.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Essa notícia mostra como integrar a logística de um setor específico pode impactar o mercado de biocombustíveis, convidando o investidor a entender movimentações estratégicas na cadeia produtiva e os efeitos no mercado financeiro.",
+  "gancho": "*Petrobras* amplia logística de *etanol*",
+  "ideias": [
+   "Por dentro da compra da Logum pela Petrobras",
+   "Como a logística afeta o mercado de biocombustíveis",
+   "O que muda para o etanol após aquisição da Logum"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/11/12/petrobras-anuncia-compra-de-empresa-de-transporte-de-etanol-por-r-620-milhoes.ghtml",
+  "publicadoEm": "2026-11-12T12:40:46-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-25"
+ },
+ {
+  "titulo": "Crise financeira atinge agronegócio após investimentos e alta dos custos",
+  "resumo": "Com Selic baixa e crédito farto, produtores investiram muito, mas juros altos e clima agravam crise. Banco do Brasil alerta maior custo de crédito no setor na história.",
+  "fatos": [
+   "Selic ficou próxima de 2% durante o período de investimento intenso",
+   "Banco do Brasil afirma custo de crédito agro é o mais severo da história",
+   "Valor Bruto da Produção (VBP) de 2026 será inferior ao de 2025",
+   "Endividamento envolve CPRs e crédito privado, além de rural oficial",
+   "Inadimplência no Mato Grosso está em 6,3%, maior que em 2008",
+   "Lajida da safra 2026/27 cairá 35% ante a safra anterior no Mato Grosso",
+   "Compras de insumos agrícolas tendem a reduzir 12% em 2026",
+   "USDA injeta US$ 55 bilhões para produtores dos EUA em 2026",
+   "Subsídios para produtores: 2% no Brasil, 10% nos EUA e União Europeia",
+   "Guerra na Ucrânia e conflito EUA-Irã impactam preços de fertilizantes"
+  ],
+  "explicacao": [
+   "O agronegócio enfrenta uma grave crise financeira decorrente de um ciclo iniciado com Selic em cerca de 2%, crédito farto e preços elevados das commodities. Nessa fase, produtores investiram pesadamente em terras e máquinas.",
+   "Mudanças bruscas, como alta da taxa de juros, queda nos preços internacionais das commodities e eventos geopolíticos impactaram os custos, dificultando a capacidade dos produtores de cumprir compromissos financeiros.",
+   "Além disso, fatores climáticos afetaram a produção, reduzindo a rentabilidade. Mesmo com a safra recorde prevista para 2026, o Valor Bruto da Produção (VBP) será menor que em 2025, indicando menos receita disponível no campo.",
+   "Para 2027, a recuperação depende da melhora nas negociações finais de produtos e da busca por mercados emergentes, especialmente na Ásia, apesar da redução esperada na utilização de insumos devido ao endividamento."
+  ],
+  "detalhes": [
+   "O produtor investiu muito em um cenário de juros baixos e alto preço das commodities",
+   "A mudança no cenário financeiro trouxe alta de juros e queda de preços internacionais",
+   "Clima recente causou perdas significativas na produção agrícola",
+   "Mato Grosso, maior produtor de soja, sofre inadimplência e queda na rentabilidade",
+   "Endividamento está diluído em várias formas, incluindo créditos privados e CPRs",
+   "Conflitos geopolíticos recentes elevaram preços dos insumos, especialmente fertilizantes e diesel",
+   "Produtores internacionais contam com subsídios maiores que os brasileiros"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Tarciana Medeiros, presidente do Banco do Brasil",
+    "oque": "Estamos enfrentando o ciclo mais severo de custo de crédito do agro da nossa história"
+   },
+   {
+    "quem": "Fábio Silveira, conselheiro sênior da Volt Partners",
+    "oque": "Subsídios agro no Brasil são perto de 2%, enquanto EUA e UE oferecem cerca de 10%"
+   },
+   {
+    "quem": "Pedro de Camargo Neto, produtor rural",
+    "oque": "Endividamento do setor está disperso em várias operações, dificultando o ajuste"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2022",
+    "oque": "Invasão da Ucrânia pela Rússia impactou fertilizantes e custos"
+   },
+   {
+    "quando": "2026, 3º trimestre",
+    "oque": "Banco do Brasil divulga resultados e alerta crise no agro"
+   },
+   {
+    "quando": "2026, quarto trimestre",
+    "oque": "Expectativa de safra recorde com VBP menor que 2025"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lajida",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "CPR (Cédula de Produto Rural)",
+    "significado": "Título usado para financiar a produção agrícola"
+   },
+   {
+    "termo": "VBP",
+    "significado": "Valor Bruto da Produção agrícola no mercado"
+   }
+  ],
+  "pergunta": "Como você acha que a crise no agronegócio impacta o mercado financeiro?",
+  "tamanhoTexto": 5253,
+  "numeros": [
+   {
+    "valor": "2%",
+    "rotulo": "Selic no período de investimento"
+   },
+   {
+    "valor": "6,3%",
+    "rotulo": "Inadimplência do setor em Mato Grosso"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "Queda de Lajida esperada na safra 2026/27 contra anterior"
+   },
+   {
+    "valor": "19%",
+    "rotulo": "Aumento de recuperações judiciais no agro nos EUA"
+   },
+   {
+    "valor": "55 bilhões de US$",
+    "rotulo": "Recursos que USDA vai destinar aos produtores dos EUA"
+   },
+   {
+    "valor": "23%",
+    "rotulo": "Alta média projetada para commodities em 2026 (mercado internacional)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "35% queda na",
+  "porQueImporta": "A crise no agronegócio brasileiro afeta diretamente a rentabilidade dos produtores, impactando a capacidade de pagamento de dívidas e influenciando a cadeia produtiva de alimentos. O cenário torna o ajuste do setor vital para a estabilidade financeira de investidores e produtores.",
+  "impactoMercado": "A escalada do custo de crédito e redução da rentabilidade podem afetar segmentos ligados ao agronegócio, como bancos, fornecedores de insumos e máquinas, e impactar a oferta de alimentos, refletindo no mercado de commodities e consequentemente nas negociações na bolsa e no câmbio.",
+  "entenda": "O Valor Bruto da Produção (VBP) é a soma em dinheiro de toda a produção agrícola, usado para medir a saúde financeira do setor. Quando o VBP diminui mesmo com safra alta, quer dizer que os preços caíram ou os custos subiram demais, o que reduz a lucratividade do produtor.",
+  "observar": "Acompanhe os próximos dados trimestrais do Banco do Brasil e resultados do Imea, além das cotações internacionais das commodities e novas políticas de crédito rural para entender a evolução da crise em 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Esta notícia explica o impacto das variações nos juros, clima e investimentos na saúde financeira do agronegócio, mostrando como entender o setor é essencial para quem quer operar ou investir no mercado brasileiro.",
+  "gancho": "Crise *agronegócio* e impacto *mercado*",
+  "ideias": [
+   "Entenda a crise no agronegócio brasileiro",
+   "Como juros altos afetam os produtores rurais",
+   "Clima e geopolítica aumentam custos no campo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/custos-clima-e-maiores-investimentos-levam-crise-ao-agronegocio.shtml",
+  "publicadoEm": "2026-11-12T23:00:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-26"
+ },
+ {
+  "titulo": "Inflação na Argentina cresce pelo segundo mês e alcança maior nível em 6 meses",
+  "resumo": "Em outubro, a inflação argentina subiu 2,2%, maior alta em seis meses, acumulando 33,1% em 12 meses, informou o Indec. O governo de Javier Milei enfrenta o desafio de conter a inflação com medidas rigorosas.",
+  "fatos": [
+   "Inflação de outubro na Argentina foi 2,2%, maior desde abril de 2026.",
+   "Acumulado da inflação de 2026 chegou a 26,3%.",
+   "Inflação acumulada em 12 meses alcançou 33,1%.",
+   "Habitação, água, eletricidade e gás subiram 4,2% em outubro.",
+   "Presidente Javier Milei assumiu em 2023 com inflação anual de 211%.",
+   "Inflação anual caiu para 117% em 2024, depois para 31,5% em 2025.",
+   "Previsão do governo para inflação em 2026 foi revisada de 10,1% para 29%.",
+   "Estimativa para inflação de 2027 é de 18%.",
+   "Cesta básica na Grande Buenos Aires custa US$ 1.000 por mês para família de 4.",
+   "Taxa de pobreza foi 32,3% no primeiro semestre de 2026."
+  ],
+  "explicacao": [
+   "O índice de preços ao consumidor na Argentina subiu 2,2% em outubro de 2026, segundo dados do Indec divulgados em 12 de novembro. Essa foi a maior inflação mensal dos últimos seis meses, elevando o acumulado no ano para 26,3% e em 12 meses para 33,1%.",
+   "O maior impacto veio do grupo de habitação, água, eletricidade, gás e outros combustíveis, que teve alta de 4,2% em outubro. O governo do presidente liberal Javier Milei mantém o combate à inflação como prioridade, adotando um programa rigoroso de austeridade após índices muito altos nos anos anteriores.",
+   "A inflação vem desacelerando desde 2023, quando estava em 211% ao ano, para 117% em 2024, 31,5% em 2025 e agora um pouco acima de 30%. O governo inicialmente projetou uma inflação de 10,1% para 2026, mas elevou essa previsão para 29%, com expectativa de 18% para 2027.",
+   "Além disso, o Indec informou que, para não ser considerada pobre na Grande Buenos Aires, uma família precisou de renda mensal equivalente a US$ 1.000 em outubro. A taxa de pobreza estava em 32,3% no primeiro semestre de 2026, evidenciando o impacto social da inflação alta."
+  ],
+  "detalhes": [
+   "O Instituto Nacional de Estatística (Indec) da Argentina divulgou os dados no dia 12 de novembro de 2026.",
+   "O grupo de habitação e energia foi o que mais pesou na alta da inflação em outubro.",
+   "Javier Milei é presidente desde 2023, adotando medidas de austeridade para controlar a economia.",
+   "A inflação em 2023 era extremamente alta (211%), demonstrando a gravidade histórica do problema.",
+   "O orçamento oficial para 2026 subestimou a inflação, que precisou ser revista para mais que o dobro.",
+   "A cesta básica utilizada para medir a linha de pobreza sobe com a inflação, impactando milhões.",
+   "A porcentagem de pessoas abaixo da linha da pobreza mostra o dano social triplo da inflação alta."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Indec (Instituto Nacional de Estatística)",
+    "oque": "Divulgou que inflação de outubro foi a mais alta em seis meses, com 2,2% de alta."
+   },
+   {
+    "quem": "Governo do presidente Javier Milei",
+    "oque": "Destaca o combate à inflação como prioridade por meio de programa de austeridade rigoroso."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2023",
+    "oque": "Inflação anual na Argentina chegou a 211% com novo governo Milei."
+   },
+   {
+    "quando": "2024",
+    "oque": "Inflação caiu para 117% ao ano."
+   },
+   {
+    "quando": "2025",
+    "oque": "Inflação anual caiu para 31,5%."
+   },
+   {
+    "quando": "Outubro 2026",
+    "oque": "Inflação mensal subiu 2,2%, maior desde 6 meses atrás."
+   },
+   {
+    "quando": "Primeiro semestre de 2026",
+    "oque": "Pobreza atingiu 32,3% da população."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Inflação",
+    "significado": "Aumento geral dos preços que diminui o poder de compra."
+   },
+   {
+    "termo": "Cesta básica",
+    "significado": "Conjunto de produtos essenciais para medir custo de vida e pobreza."
+   },
+   {
+    "termo": "Austeridade",
+    "significado": "Medidas para reduzir gastos públicos e controlar a inflação."
+   }
+  ],
+  "pergunta": "Como a inflação alta na Argentina pode impactar seus investimentos ou negócios?",
+  "tamanhoTexto": 5101,
+  "numeros": [
+   {
+    "valor": "2,2%",
+    "rotulo": "Inflação em outubro de 2026 na Argentina"
+   },
+   {
+    "valor": "26,3%",
+    "rotulo": "Inflação acumulada no ano até outubro"
+   },
+   {
+    "valor": "33,1%",
+    "rotulo": "Inflação acumulada nos últimos 12 meses"
+   },
+   {
+    "valor": "4,2%",
+    "rotulo": "Alta em habitação, água, eletricidade e gás em outubro"
+   },
+   {
+    "valor": "211%",
+    "rotulo": "Inflação anual em 2023 quando Milei assumiu"
+   },
+   {
+    "valor": "117%",
+    "rotulo": "Inflação anual em 2024"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Inflação anual Argentina",
+    "antes": "211% em 2023",
+    "depois": "31,5% em 2025"
+   }
+  ],
+  "destaque": "2,2% inflação em",
+  "porQueImporta": "A inflação alta e persistente na Argentina impacta diretamente seus mercados, moedas e investimentos, especialmente para quem opera com ativos argentinos ou acompanha mercados emergentes. Entender essa dinâmica ajuda investidores a avaliar riscos e oportunidades com mais clareza.",
+  "impactoMercado": "O aumento da inflação pode pressionar juros e câmbio na Argentina, afetando ações de empresas locais e o valor do peso. Investidores que atuam com moedas emergentes ou seek global exposure devem acompanhar as políticas do governo de Milei para avaliar volatilidade e riscos futuros.",
+  "entenda": "Inflação é o aumento generalizado dos preços que reduz o poder de compra. No mercado financeiro, ela influencia taxas de juros, decisões de investimento e valor das moedas. Com inflação alta, o governo tenta conter aumentos para estabilizar a economia, afetando o ambiente de negócios e investidores.",
+  "observar": "Acompanhe próximas divulgações do Indec e atualizações das projeções do governo Milei para inflação, especialmente dados de novembro e revisões orçamentárias que indicam tendência para 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia destaca a complexidade da inflação em países emergentes, mostrando o valor da educação financeira para entender o impacto econômico e a importância de acompanhar cenários externos na faculdade do mercado financeiro.",
+  "gancho": "*Inflação* argentina em alta",
+  "ideias": [
+   "Por que a inflação argentina voltou a crescer em outubro?",
+   "Como a alta inflação impacta o poder de compra e investimentos?",
+   "Estratégias do governo Milei para controlar a inflação no país"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "seta",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inflacao-sobe-pelo-segundo-mes-consecutivo-na-argentina.shtml",
+  "publicadoEm": "2026-11-12T18:30:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-27"
+ },
+ {
+  "titulo": "Empresas criticam medidas de Dino para flexibilizar fim da escala 6x1",
+  "resumo": "Associações empresariais consideram que decisão do STF sobre escala 6x1 traz pouca flexibilidade e mantém complexidade para implementação em dezembro.",
+  "fatos": [
+   "Decisão do STF foi anunciada em 12 de dezembro de 2026.",
+   "Permite jornada diária de até 8h24min sem hora extra na passagem inicial.",
+   "Prazo para renegociação coletiva previsto é de 90 dias.",
+   "Início das novas regras marcado para 16 de dezembro de 2026.",
+   "Entidades destacam aumento de 9,1% nos custos para empresas com escala 5x2 e pagamento de DSR duplo.",
+   "Senador Eduardo Braga trabalha em PEC para exceções para setores como aviação e comunicação.",
+   "Confederação Nacional do Comércio elogia reconhecimento da negociação coletiva na decisão.",
+   "Representante da hotelaria aponta complexidade pela necessidade de escalas diferenciadas pelo setor, devido a picos e sazonalidade.",
+   "Confederação Nacional da Indústria espera avanços para maior previsibilidade nas regras.",
+   "CBIC classifica flexibilizações como passos úteis, mas insuficientes diante dos desafios e custos."
+  ],
+  "explicacao": [
+   "O ministro do STF Flávio Dino autorizou a jornada de até 8h24min na transição do fim da escala 6x1, com prazo de 90 dias para renegociação coletiva e flexibilização na distribuição das folgas.",
+   "Entidades empresariais reclamam que a decisão não prorroga o prazo para adaptação e mantém a rigidez, dificultando a implementação da nova jornada prevista para dezembro.",
+   "O setor hoteleiro e do turismo destaca dificuldades específicas devido à sazonalidade e picos de demanda, exigindo escalas diferenciadas e mais flexibilidade que não foram contempladas.",
+   "A área legislativa avalia proposta de PEC para criar exceções a setores como aviação e petróleo, lidando com custos extras do descanso semanal remunerado na folha de pagamento."
+  ],
+  "detalhes": [
+   "Flávio Dino manteve o prazo de 16 de dezembro para o início das novas regras da jornada 6x1.",
+   "Flexibilização permite folgas distribuídas de forma mais flexível, desde que o descanso remunerado seja garantido.",
+   "Prazo de 90 dias foi dado para renegociação de acordos coletivos após a decisão.",
+   "Entidades empresariais criticaram a falta de prorrogação para adaptação.",
+   "Setores específicos como turismo e hotelaria pedem regimes diferenciados por conta de sazonalidade e picos de demanda.",
+   "Proposta de PEC a ser apresentada no Senado prevê exceções para setores específicos para evitar custos extras.",
+   "Pagamento de dois DSRs gera aumento de 9,1% na folha salarial para empresas com escala 5x2."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rogério da Costa Vieira, vice-presidente da CNTur e da Aberc",
+    "oque": "Cenário é nebuloso, pois faltam relatórios do STF e regulamentação oficial para a mudança."
+   },
+   {
+    "quem": "Paulo Solmucci, presidente da Abrasel",
+    "oque": "Flexibilização do Dino não solucionou problemas; só uma nova PEC poderá alterar a situação."
+   },
+   {
+    "quem": "José Roberto Tadros, presidente da CNC",
+    "oque": "Decisão reconhece a negociação coletiva e traz mais eficiência para adequação das escalas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10 de dezembro de 2026",
+    "oque": "Reunião com confederações e centrais sindicais definiu não prorrogar prazo para mudança."
+   },
+   {
+    "quando": "12 de dezembro de 2026",
+    "oque": "Ministro Flávio Dino publica decisão sobre flexibilização do fim da escala 6x1."
+   },
+   {
+    "quando": "16 de dezembro de 2026",
+    "oque": "Data marcada para início da nova jornada 6x1 para trabalhadores."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Escala 6x1",
+    "significado": "Jornada em que se trabalha seis dias seguidos e descansa um."
+   },
+   {
+    "termo": "DSR (Descanso Semanal Remunerado)",
+    "significado": "Pagamento pelo dia de descanso semanal que o trabalhador tem direito."
+   },
+   {
+    "termo": "PEC",
+    "significado": "Proposta de Emenda à Constituição para mudar regras legais."
+   }
+  ],
+  "pergunta": "Você acha que a flexibilização da escala 6x1 vai ajudar empresas e trabalhadores?",
+  "tamanhoTexto": 9829,
+  "numeros": [
+   {
+    "valor": "8h24min",
+    "rotulo": "máxima jornada diária permitida sem hora extra"
+   },
+   {
+    "valor": "90",
+    "rotulo": "dias para renegociação de acordos coletivos"
+   },
+   {
+    "valor": "16/12/2026",
+    "rotulo": "data prevista para início da nova jornada"
+   },
+   {
+    "valor": "9,1%",
+    "rotulo": "aumento na folha salarial de empresas na escala 5x2 com dois DSRs"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "flexibilização mantém complexidade",
+  "porQueImporta": "Para operadores e investidores, a decisão do STF mantém incertezas e custos para empresas, sobretudo em setores com jornadas específicas. Isso influencia o cenário de emprego, custos operacionais e potencial impacto na economia e mercado de trabalho.",
+  "impactoMercado": "O segmento de turismo, comércio e indústria poderão enfrentar maior pressão de custos e necessidade de ajustes operacionais. A negociação coletiva ganha importância para criar soluções, afetando a dinâmica de contratação e folha de pagamento no curto prazo.",
+  "entenda": "A escala 6x1 é uma jornada de trabalho com seis dias seguidos de trabalho e um de descanso. O fim dessa escala prevê jornadas mais tradicionais, mas exige reajuste para não aumentar o custo com horas extras e descansos remunerados, demandando negociações entre empregadores e empregados.",
+  "observar": "Acompanhe possíveis votações da PEC no Senado e o decreto presidencial regulando a nova jornada, além de eventual manifestação do STF sobre o julgamento plenário e prazos de implementação.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicamos como uma decisão do STF sobre jornada de trabalho afeta custos e negociações nas empresas, trazendo compreensão para quem pretende entender impactos no mercado financeiro e na economia real.",
+  "gancho": "*Escala* 6x1 e *Flexibilização*",
+  "ideias": [
+   "O que muda com o fim da escala 6x1 para trabalhadores e empresas?",
+   "Por que empresários criticam medidas do STF para jornada 6x1?",
+   "Entenda os desafios da nova jornada e negociação coletiva em 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "cadeado",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-empresariais-dizem-que-medidas-de-dino-para-flexibilizar-fim-da-6x1-nao-terao-efeito-pratico.shtml",
+  "publicadoEm": "2026-11-12T23:00:00-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-28"
+ },
+ {
+  "titulo": "Inteligência artificial deve movimentar US$ 5,5 tri até 2030, diz J.P. Morgan",
+  "resumo": "Segundo o J.P. Morgan, a infraestrutura da inteligência artificial terá financiamentos de US$ 5,5 trilhões até 2030, impulsionando ativos alternativos e crédito privado.",
+  "fatos": [
+   "Demanda por infraestrutura de IA poderá financiar US$ 5,5 trilhões entre 2026 e 2030",
+   "Ativos alternativos globalmente somam US$ 21,6 trilhões em 2025",
+   "Tecnologia responde por 86% do venture capital na América do Norte em 2026",
+   "US$ 2,1 trilhões em títulos de dívida corporativa de grau de investimento para IA",
+   "US$ 1,4 trilhão em capital alternativo e recursos governamentais para IA",
+   "Rendimento do crédito privado nos EUA foi de 9,1% ao ano em 2026",
+   "High yield apresentou rendimento de 7,2% ao ano no mesmo período",
+   "Carteira com 10% em ativos alternativos subiu retorno anualizado de 7,4% para 7,7%"
+  ],
+  "explicacao": [
+   "O J.P. Morgan Asset Management projeta que a demanda por infraestrutura da inteligência artificial entre 2026 e 2030 terá financiamento de cerca de US$ 5,5 trilhões. Esse valor contempla investimentos em centros de dados e tecnologia necessária para o setor crescer.",
+   "Essa alta nos aportes é motivada pelo crescimento do mercado privado, que já administra US$ 21,6 trilhões em ativos alternativos, uma expansão enorme desde 2000. O setor de tecnologia lidera o investimento em venture capital, respondendo por 86% na América do Norte em 2026.",
+   "Do total esperado para a inteligência artificial, US$ 2,1 trilhões devem vir de títulos corporativos de grau de investimento, e US$ 1,4 trilhão deve envolver recursos alternativos e governamentais. Isso indica diversificação dos financiamentos e oportunidades para investidores institucionais.",
+   "Além disso, o relatório destaca o crescimento do crédito privado, que tem rendimentos superiores aos títulos high yield e pode beneficiar refinanciamento direto a empresas. No entanto, o J.P. Morgan alerta para os riscos e menor liquidez desses investimentos."
+  ],
+  "detalhes": [
+   "O relatório é do J.P. Morgan Asset Management, divulgado no Guide to Alternatives",
+   "O cenário abrange 2026 a 2030 para o setor de inteligência artificial",
+   "A América do Norte é destaque na concentração dos investimentos em tecnologia",
+   "Parte dos financiamentos envolve títulos de dívida corporativa de grau de investimento",
+   "Outra parte importante inclui recursos de capital alternativo e governamentais",
+   "Ativos alternativos permitem exposição a empresas não listadas e projetos de infraestrutura",
+   "Crédito privado oferece rendimento superior, mas tem menor liquidez e risco maior"
+  ],
+  "declaracoes": [
+   {
+    "quem": "J.P. Morgan Asset Management",
+    "oque": "A inteligência artificial está elevando a demanda por infraestrutura e investimentos privados."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2023",
+    "oque": "Tecnologia representava 42% do venture capital na América do Norte"
+   },
+   {
+    "quando": "2026 (acumulado até 2º trimestre)",
+    "oque": "Tecnologia passou a representar 86% do venture capital na América do Norte"
+   },
+   {
+    "quando": "1998 a 1º trimestre de 2026",
+    "oque": "Carteiras com ativos alternativos tiveram retorno histórico superior"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ativos alternativos",
+    "significado": "Investimentos fora da bolsa, como empresas privadas e infraestrutura"
+   },
+   {
+    "termo": "Venture capital",
+    "significado": "Investimento em startups e empresas inovadoras em estágio inicial"
+   },
+   {
+    "termo": "Crédito privado",
+    "significado": "Empréstimos diretos a empresas sem passar por bancos"
+   }
+  ],
+  "pergunta": "Você já considerou investir em ativos alternativos ligados à inteligência artificial?",
+  "tamanhoTexto": 4559,
+  "numeros": [
+   {
+    "valor": "5,5 trilhões",
+    "rotulo": "US$ em financiamento para infraestrutura de IA até 2030"
+   },
+   {
+    "valor": "21,6 trilhões",
+    "rotulo": "Ativos alternativos globais em 2025"
+   },
+   {
+    "valor": "86%",
+    "rotulo": "Participação da tecnologia no venture capital Norte-Americano em 2026"
+   },
+   {
+    "valor": "2,1 trilhões",
+    "rotulo": "US$ em títulos de dívida grau de investimento para IA"
+   },
+   {
+    "valor": "1,4 trilhão",
+    "rotulo": "US$ em capital alternativo e recursos governamentais para IA"
+   },
+   {
+    "valor": "9,1%",
+    "rotulo": "Rendimento do crédito privado nos EUA em 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Participação da tecnologia no venture capital América do Norte",
+    "antes": "42% em 2023",
+    "depois": "86% em 2026 (acumulado até 2º tri)"
+   }
+  ],
+  "destaque": "US$ 5,5 trilhões",
+  "porQueImporta": "Esses números mostram o peso crescente da inteligência artificial e dos investimentos alternativos no mercado financeiro. Para investidores, entender essas tendências ajuda a diversificar carteiras e avaliar oportunidades além das ações tradicionais, considerando riscos e retornos diferentes.",
+  "impactoMercado": "O aumento dos financiamentos e a expansão do crédito privado podem influenciar setores ligados à tecnologia, infraestrutura e renda fixa, alterando o cenário de juros e ativos corporativos, além de destacar a importância dos investimentos alternativos para diversificação.",
+  "entenda": "Inteligência artificial demanda muita infraestrutura, como centros de dados, que precisam de financiamento. Investimentos alternativos são aplicações fora da bolsa, como empreendimentos privados e projetos, que podem oferecer risco e retorno diferentes das ações e títulos tradicionais.",
+  "observar": "Acompanhe os próximos relatórios do J.P. Morgan e dados de venture capital nos EUA para entender o avanço do setor de IA e o impacto em ativos alternativos e crédito privado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "A notícia revela como o avanço da inteligência artificial cria novas oportunidades financeiras e mercados privados que todo investidor precisa entender para diversificar e montar estratégias mais completas.",
+  "gancho": "*IA* e *Investimentos* em expansão",
+  "ideias": [
+   "Como a inteligência artificial está movimentando US$ 5,5 trilhões",
+   "O que são ativos alternativos e por que crescem com a IA",
+   "Crédito privado: uma oportunidade além dos bancos para financiar tecnologia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "foguete",
+  "fonte": "Suno Notícias",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://www.suno.com.br/noticias/inteligencia-artificial-55-trilhoes-jp-morgan/",
+  "publicadoEm": "2026-11-12T17:33:37-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-29"
+ },
+ {
+  "titulo": "MRV prioriza desalavancagem após lucro recorde e vê margem maior",
+  "resumo": "MRV&Co obtém lucro líquido recorde de R$ 315 mi no 3º tri e foca em reduzir dívida com venda de ativos nos EUA, diz CFO Ricardo Paixão.",
+  "fatos": [
+   "Lucro líquido ajustado da MRV Incorporação foi R$ 315 milhões no 3º trimestre.",
+   "Margem bruta da MRV Incorporação chegou a 32,1%, maior patamar em sete anos.",
+   "Receita líquida da MRV Incorporação totalizou R$ 3,4 bilhões no trimestre.",
+   "Dívida líquida consolidada caiu de R$ 6,33 bilhões em dezembro de 2025 para R$ 5,52 bilhões em setembro de 2026.",
+   "Venda de ativos da Resia nos EUA anuncia R$ 700 milhões de redução na dívida líquida.",
+   "Geração caixa da MRV Incorporação caiu a R$ 6,9 milhões no 3º tri, impactada por greve da Caixa.",
+   "Vendas líquidas da MRV Incorporação alcançaram R$ 3 bilhões, com 11.015 unidades vendidas, alta de 25,7% ante 2025.",
+   "Equipe comercial Super House cresceu de 180 para 300 gerentes em 1 ano.",
+   "MRV reduz atuação de 120 para cerca de 80 cidades para aumentar rentabilidade.",
+   "Prejuízo da subsidiária americana Resia foi R$ 88,2 milhões no 3º trimestre."
+  ],
+  "explicacao": [
+   "A MRV&Co registrou lucro líquido ajustado recorde de R$ 315 milhões no terceiro trimestre, crescimento de 54,5% frente a 2025. A margem bruta da incorporação no Brasil atingiu 32,1%, o melhor resultado em sete anos, segundo balanço divulgado em 11 de outubro.",
+   "Esse desempenho reflete a troca de safras de vendas mais antigas por outras mais rentáveis, com aumento de preços alinhado à inflação e ganho de produtividade na produção. O CFO Ricardo Paixão destaca que a margem bruta tem espaço para crescer ainda mais no futuro.",
+   "Na outra ponta, a empresa direciona recursos da venda de ativos nos EUA para reduzir o endividamento, com dívida líquida consolidada caindo de R$ 6,33 bilhões em dezembro de 2025 para R$ 5,52 bilhões em setembro de 2026. A expectativa é que as operações americanas sejam cada vez menos relevantes.",
+   "A geração de caixa foi afetada no trimestre pela greve da Caixa, que reverteu parcialmente em outubro. Para 2027, a empresa mantém foco no programa Minha Casa Minha Vida e na concentração de operações em menos cidades para melhorar rentabilidade e eficiência."
+  ],
+  "detalhes": [
+   "Ricardo Paixão é diretor executivo de Finanças e Relações com Investidores da MRV&Co.",
+   "Venda de ativos nos EUA totalizou US$ 170 milhões, com impacto previsto para 2027.",
+   "A redução da dívida líquida pode chegar a R$ 4,8 bilhões após vendas e desalavancagem.",
+   "Greve dos funcionários da Caixa em setembro impactou repasses em 16,4%.",
+   "MRV concentra esforços no Minha Casa Minha Vida, que representou 98% dos lançamentos até setembro de 2026.",
+   "Uso de inteligência artificial está aumentando produtividade da equipe comercial.",
+   "MRV espera encurtar prazo de desenvolvimento de gerentes, hoje em 12 meses."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ricardo Paixão, CFO da MRV&Co",
+    "oque": "A margem bruta tem espaço importante para subir nos próximos trimestres."
+   },
+   {
+    "quem": "Ricardo Paixão, CFO da MRV&Co",
+    "oque": "Venda de ativos da Resia terá forte impacto na redução da alavancagem."
+   },
+   {
+    "quem": "Ricardo Paixão, CFO da MRV&Co",
+    "oque": "Greve da Caixa reduziu geração de caixa em cerca de R$ 80 milhões no trimestre."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "11 de outubro de 2026",
+    "oque": "Divulgação do balanço com lucro recorde e maior margem bruta em sete anos."
+   },
+   {
+    "quando": "Setembro de 2026",
+    "oque": "Greve da Caixa impacta repasses e geração de caixa da MRV."
+   },
+   {
+    "quando": "Agosto de 2026",
+    "oque": "MRV anuncia venda de ativos da Resia nos EUA por US$ 170 milhões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Margem bruta",
+    "significado": "Porcentagem da receita que sobra após custos diretos."
+   },
+   {
+    "termo": "Desalavancagem",
+    "significado": "Processo de reduzir o endividamento da empresa."
+   },
+   {
+    "termo": "Minha Casa Minha Vida",
+    "significado": "Programa habitacional do governo brasileiro com juros subsidiados."
+   }
+  ],
+  "pergunta": "Como a desalavancagem pode influenciar a confiança dos investidores na MRV?",
+  "tamanhoTexto": 7372,
+  "numeros": [
+   {
+    "valor": "315 milhões",
+    "rotulo": "lucro líquido ajustado da MRV Incorporação no 3º trimestre"
+   },
+   {
+    "valor": "32,1%",
+    "rotulo": "margem bruta da MRV Incorporação no 3º trimestre"
+   },
+   {
+    "valor": "3,4 bilhões",
+    "rotulo": "receita líquida da MRV Incorporação no 3º trimestre"
+   },
+   {
+    "valor": "5,52 bilhões",
+    "rotulo": "dívida líquida consolidada da MRV&Co em setembro de 2026"
+   },
+   {
+    "valor": "88,2 milhões",
+    "rotulo": "prejuízo da Resia (subsidiária dos EUA) no 3º trimestre"
+   },
+   {
+    "valor": "6,9 milhões",
+    "rotulo": "geração de caixa ajustada da MRV Incorporação no 3º trimestre de 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 315 milhões",
+  "porQueImporta": "Esses resultados mostram que a MRV está otimizando suas operações e finanças, importante para investidores entenderem o potencial de crescimento sustentável e a redução de riscos financeiros. A melhora nas margens indica melhoria operacional, enquanto a desalavancagem fortalece a saúde financeira do grupo.",
+  "impactoMercado": "A queda da dívida e o aumento da margem podem atrair interesse para ações e debêntures da MRV, além de indicar um setor imobiliário brasileiro com foco em eficiência e liquidez. O resultado também reforça tendências no mercado de incorporação residencial, especialmente em programas sociais protegidos de juros altos.",
+  "entenda": "Margem bruta indica o quanto sobra em receita após descontar os custos diretos da atividade, importante para medir rentabilidade. Desalavancagem é a redução do endividamento, que melhora a segurança financeira da empresa. O Minha Casa Minha Vida é um programa governamental brasileiro para facilitar o acesso à casa própria.",
+  "observar": "Fique de olho no balanço do próximo trimestre para acompanhar os impactos das vendas de ativos e a evolução das receitas e margens. Também acompanharemos a continuação das vendas da Resia e a adaptação a cenários de juros elevados em 2027.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Mostramos como resultados financeiros concretos e estratégias claras ajudam a entender o potencial da MRV, estimulando o interesse para aprofundar conhecimento em análise de mercado e finanças imobiliárias.",
+  "gancho": "*MRV* cresce com *desalavancagem*",
+  "ideias": [
+   "Como a MRV reduziu sua dívida e melhorou lucros em 2026",
+   "Entenda a margem bruta elevada da MRV e seu impacto",
+   "Venda de ativos da Resia: estratégia para fortalecer a MRV"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Bloomberg Línea",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-11-12T23:07:59-03:00",
+  "url": "https://www.bloomberglinea.com.br/negocios/mrv-prioriza-desalavancagem-e-ve-margem-maior-apos-lucro-recorde-no-brasil-diz-cfo/",
+  "publicadoEm": "2026-11-12T06:00:01-03:00",
+  "data": "2026-11-12",
+  "id": "2026-11-12-30"
+ },
+ {
   "titulo": "Ibovespa cai 0,43% com incerteza fiscal; dólar sobe a R$ 5,65",
   "resumo": "Ibovespa fechou a 171.324 pontos, pressionado por dúvidas no pacote fiscal para 2027. Dólar valorizou 1,6%, atingindo R$ 5,65, maior valor desde junho de 2025.",
   "fatos": [
@@ -7117,20 +8556,20 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 54.5% de chance de aumento de 25 bps pelo Fed em janeiro",
-  "resumo": "Os apostadores estão divididos entre um leve aumento na taxa de juros ou a permanência da taxa atual. Isso reflete incertezas no cenário econômico.",
+  "titulo": "Mercado de previsões vê 62.5% de chance de aumento de 25 bps pelo Fed em janeiro",
+  "resumo": "Probabilidade indicada por apostadores, não uma previsão oficial.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 54.5
+    "prob": 62.5
    },
    {
-    "opcao": "Nenhuma mudança",
-    "prob": 45.5
+    "opcao": "Sem alteração",
+    "prob": 36.5
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 0.5
+    "prob": 1.0
    },
    {
     "opcao": "Redução de 50+ bps",
@@ -7138,24 +8577,24 @@
    }
   ],
   "prazo": "2027-01-28",
-  "volume24h": "US$ 933 mil",
+  "volume24h": "US$ 321 mil",
   "fatos": [
-   "Aumento de 25 bps: 54,5%",
-   "Nenhuma mudança: 45,5%",
-   "Aumento de 50+ bps: 0,5%",
+   "Aumento de 25 bps: 62,5%",
+   "Sem alteração: 36,5%",
+   "Aumento de 50+ bps: 1,0%",
    "Redução de 50+ bps: 0,4%"
   ],
   "numeros": [
    {
-    "valor": "54,5%",
+    "valor": "62,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "45,5%",
-    "rotulo": "Nenhuma mudança"
+    "valor": "36,5%",
+    "rotulo": "Sem alteração"
    },
    {
-    "valor": "0,5%",
+    "valor": "1,0%",
     "rotulo": "Aumento de 50+ bps"
    },
    {
@@ -7163,7 +8602,7 @@
     "rotulo": "Redução de 50+ bps"
    }
   ],
-  "destaque": "54,5%",
+  "destaque": "62,5%",
   "gancho": "*Apostas* equilibradas* para janeiro",
   "entenda": "Decisões sobre as taxas de juros influenciam a economia geral, afetando empréstimos e investimentos.",
   "categoria": "Previsões",
@@ -7178,7 +8617,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p1",
-  "atualizadoEm": "2026-11-11T14:28:12-03:00"
+  "atualizadoEm": "2026-11-12T23:07:59-03:00"
  },
  {
   "tipo": "sinal",
@@ -10423,53 +11862,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-before-2027",
-  "titulo": "Mercado de previsões vê 82.5% de chance de Ethereum abaixo de 2.000",
-  "resumo": "A expectativa é que o preço do Ethereum não ultrapasse 2.000 até o próximo ano.",
+  "titulo": "Mercado de previsões vê 90.5% de chance de Ethereum abaixo de 2.000 até 2026",
+  "resumo": "Probabilidade indicada por apostadores, não uma previsão oficial.",
   "probs": [
    {
-    "opcao": "Abaixo de 2.000",
-    "prob": 82.5
+    "opcao": "↓ 2.000",
+    "prob": 35.5
    },
    {
-    "opcao": "Abaixo de 1.750",
-    "prob": 31.0
+    "opcao": "↑ 2.100",
+    "prob": 17.8
    },
    {
-    "opcao": "Abaixo de 1.500",
-    "prob": 14.8
+    "opcao": "↓ 1.900",
+    "prob": 7.0
    },
    {
-    "opcao": "Acima de 3.000",
-    "prob": 7.5
+    "opcao": "↑ 2.200",
+    "prob": 6.5
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 193 mil",
+  "volume24h": "US$ 123 mil",
   "fatos": [
-   "Abaixo de 2.000: 82,5%",
-   "Abaixo de 1.750: 31,0%",
-   "Abaixo de 1.500: 14,8%",
-   "Acima de 3.000: 7,5%"
+   "↓ 2.000: 35,5%",
+   "↑ 2.100: 17,8%",
+   "↓ 1.900: 7,0%",
+   "↑ 2.200: 6,5%"
   ],
   "numeros": [
    {
-    "valor": "82,5%",
-    "rotulo": "Abaixo de 2.000"
+    "valor": "35,5%",
+    "rotulo": "↓ 2.000"
    },
    {
-    "valor": "31,0%",
-    "rotulo": "Abaixo de 1.750"
+    "valor": "17,8%",
+    "rotulo": "↑ 2.100"
    },
    {
-    "valor": "14,8%",
-    "rotulo": "Abaixo de 1.500"
+    "valor": "7,0%",
+    "rotulo": "↓ 1.900"
    },
    {
-    "valor": "7,5%",
-    "rotulo": "Acima de 3.000"
+    "valor": "6,5%",
+    "rotulo": "↑ 2.200"
    }
   ],
-  "destaque": "82,5%",
+  "destaque": "35,5%",
   "gancho": "*Expectativa de baixa* para o Ethereum",
   "entenda": "Esse evento analisa as expectativas sobre o preço do Ethereum, que é relevante para investidores e usuários do criptoespço.",
   "categoria": "Previsões",
@@ -10484,7 +11923,7 @@
   "data": "2026-11-07",
   "status": "atualizada",
   "id": "2026-11-07-p1",
-  "atualizadoEm": "2026-11-10T18:25:57-03:00"
+  "atualizadoEm": "2026-11-12T23:07:59-03:00"
  },
  {
   "titulo": "Dólar fecha em alta e maior valor desde dezembro de 2025 com payroll dos EUA",
@@ -11013,53 +12452,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 80,5% de chance de que o Bitcoin caia abaixo de 70.000 até 2027",
-  "resumo": "Uma significativa maioria acredita que o Bitcoin não atingirá novos altos até o início da próxima década.",
+  "titulo": "Mercado de previsões vê 90.5% de chance de Bitcoin abaixo de 70.000 até 2026",
+  "resumo": "Probabilidade indicada por apostadores, não uma previsão oficial.",
   "probs": [
    {
     "opcao": "↓ 70.000",
-    "prob": 80.5
+    "prob": 90.5
    },
    {
     "opcao": "↓ 65.000",
-    "prob": 45.5
+    "prob": 53.5
    },
    {
     "opcao": "↓ 60.000",
-    "prob": 26.0
+    "prob": 27.5
    },
    {
     "opcao": "↓ 55.000",
-    "prob": 11.5
+    "prob": 13.5
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 501 mil",
+  "volume24h": "US$ 569 mil",
   "fatos": [
-   "↓ 70.000: 80,5%",
-   "↓ 65.000: 45,5%",
-   "↓ 60.000: 26,0%",
-   "↓ 55.000: 11,5%"
+   "↓ 70.000: 90,5%",
+   "↓ 65.000: 53,5%",
+   "↓ 60.000: 27,5%",
+   "↓ 55.000: 13,5%"
   ],
   "numeros": [
    {
-    "valor": "80,5%",
+    "valor": "90,5%",
     "rotulo": "↓ 70.000"
    },
    {
-    "valor": "45,5%",
+    "valor": "53,5%",
     "rotulo": "↓ 65.000"
    },
    {
-    "valor": "26,0%",
+    "valor": "27,5%",
     "rotulo": "↓ 60.000"
    },
    {
-    "valor": "11,5%",
+    "valor": "13,5%",
     "rotulo": "↓ 55.000"
    }
   ],
-  "destaque": "80,5%",
+  "destaque": "90,5%",
   "gancho": "*Expectativa* de queda no Bitcoin",
   "entenda": "As previsões de preços de criptomoedas refletem a volatilidade do mercado, com base em fatores econômicos e tendências de investimento.",
   "categoria": "Previsões",
@@ -11074,7 +12513,7 @@
   "data": "2026-11-06",
   "status": "atualizada",
   "id": "2026-11-06-p2",
-  "atualizadoEm": "2026-11-12T14:45:15-03:00"
+  "atualizadoEm": "2026-11-12T23:07:59-03:00"
  },
  {
   "titulo": "IPCA deve desacelerar para 0,23% em outubro, segundo ASA",

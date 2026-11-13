@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-12T18:55:11-03:00",
-  "novas": 5,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-12T23:07:59-03:00",
+  "novas": 11,
+  "atualizadas": 3,
   "status": "ok",
-  "mensagem": "5 nova(s) e 1 atualizada(s): Ibovespa, dólar e fiscal hoje; Nvidia cai após saída do CEO; Lucro Nubank supera US$ 1 bi.",
+  "mensagem": "11 nova(s) e 3 atualizada(s): Fuzzing e Segurança no Bitcoin; Lucro e Crescimento da B3; Banco do Brasil sofre queda forte.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-12T23:07:59-03:00",
    "2026-11-12T18:55:11-03:00",
    "2026-11-12T14:45:15-03:00",
    "2026-11-11T23:30:39-03:00",
@@ -18,12 +19,11 @@
    "2026-11-10T14:18:46-03:00",
    "2026-11-10T00:48:14-03:00",
    "2026-11-09T20:51:12-03:00",
-   "2026-11-09T17:09:11-03:00",
-   "2026-11-08T22:12:31-03:00"
+   "2026-11-09T17:09:11-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 5
+  "textosCompletos": 14
  },
  "placar": {
   "itens": [
@@ -37,19 +37,19 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,64",
-    "var": "+1,05%"
+    "var": ""
    },
    {
     "k": "EUR",
     "nome": "Euro",
     "v": "R$ 6,24",
-    "var": "+0,69%"
+    "var": "+0,12%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 71,5 mil",
-    "var": "-3,87%"
+    "v": "US$ 70,7 mil",
+    "var": "-4,02%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 95,79",
-    "var": "+3,27%"
+    "v": "US$ 95,13",
+    "var": "-0,72%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.881,20",
-    "var": "-2,98%"
+    "v": "US$ 3.915,50",
+    "var": "+0,78%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "qui 18h",
+  "hora": "qui 23h",
   "data": "2026-11-12",
-  "atualizadoEm": "2026-11-12T18:55:11-03:00",
+  "atualizadoEm": "2026-11-12T23:07:59-03:00",
   "ibov": "171.324",
   "ibovVar": "-0,43%",
   "dolar": "R$ 5,64",
-  "dolarVar": "+1,05%",
-  "btc": "US$ 71,5 mil"
+  "dolarVar": "",
+  "btc": "US$ 70,7 mil"
  }
 }
