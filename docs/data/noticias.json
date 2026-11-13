@@ -1,5 +1,135 @@
 [
  {
+  "tipo": "sinal",
+  "slug": "bitcoin-above-on-november-14-2026",
+  "titulo": "Mercado de previsões vê 97.2% de chance do Bitcoin acima de $66,000",
+  "resumo": "A probabilidade reflete a confiança de apostadores na valorização do Bitcoin em novembro de 2026.",
+  "probs": [
+   {
+    "opcao": "66,000",
+    "prob": 97.2
+   },
+   {
+    "opcao": "68,000",
+    "prob": 66.7
+   },
+   {
+    "opcao": "70,000",
+    "prob": 4.0
+   },
+   {
+    "opcao": "72,000",
+    "prob": 0.7
+   }
+  ],
+  "prazo": "2026-11-14",
+  "volume24h": "US$ 296 mil",
+  "fatos": [
+   "66,000: 97,2%",
+   "68,000: 66,7%",
+   "70,000: 4,0%",
+   "72,000: 0,7%"
+  ],
+  "numeros": [
+   {
+    "valor": "97,2%",
+    "rotulo": "66,000"
+   },
+   {
+    "valor": "66,7%",
+    "rotulo": "68,000"
+   },
+   {
+    "valor": "4,0%",
+    "rotulo": "70,000"
+   },
+   {
+    "valor": "0,7%",
+    "rotulo": "72,000"
+   }
+  ],
+  "destaque": "97,2%",
+  "gancho": "*Expectativa alta* nos preços",
+  "entenda": "O preço do Bitcoin é afetado por demanda, mercado global e tendências de investimento em criptoativos.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bitcoin-above-on-november-14-2026",
+  "publicadoEm": "2026-11-13T18:38:12-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-13T18:38:12-03:00",
+  "data": "2026-11-13",
+  "status": "nova",
+  "id": "2026-11-13-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "largest-company-end-of-december-2026",
+  "titulo": "Mercado de previsões vê 88.1% de chance da Apple ser a maior empresa",
+  "resumo": "Essa probabilidade é uma avaliação de apostadores sobre o posicionamento de grandes empresas até o final de 2026.",
+  "probs": [
+   {
+    "opcao": "Apple",
+    "prob": 88.1
+   },
+   {
+    "opcao": "NVIDIA",
+    "prob": 9.0
+   },
+   {
+    "opcao": "Alphabet",
+    "prob": 0.9
+   },
+   {
+    "opcao": "Microsoft",
+    "prob": 0.7
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 105 mil",
+  "fatos": [
+   "Apple: 88,1%",
+   "NVIDIA: 9,0%",
+   "Alphabet: 0,9%",
+   "Microsoft: 0,7%"
+  ],
+  "numeros": [
+   {
+    "valor": "88,1%",
+    "rotulo": "Apple"
+   },
+   {
+    "valor": "9,0%",
+    "rotulo": "NVIDIA"
+   },
+   {
+    "valor": "0,9%",
+    "rotulo": "Alphabet"
+   },
+   {
+    "valor": "0,7%",
+    "rotulo": "Microsoft"
+   }
+  ],
+  "destaque": "88,1%",
+  "gancho": "*Domínio do mercado* tecnológico",
+  "entenda": "Fatores como inovação, vendas e lucratividade determinam a posição das empresas no mercado global.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+  "publicadoEm": "2026-11-13T18:38:12-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-13T18:38:12-03:00",
+  "data": "2026-11-13",
+  "status": "nova",
+  "id": "2026-11-13-p3"
+ },
+ {
   "titulo": "Caixa avalia aumentar juros do crédito imobiliário após bancos privados",
   "resumo": "A Caixa, que detém cerca de 70% do crédito imobiliário, estuda subir juros devido ao maior custo de captação. Bradesco, Itaú e Santander já aumentaram suas taxas, pressionando o mercado.",
   "fatos": [
