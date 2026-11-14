@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-14T13:07:42-03:00",
-  "novas": 5,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-14T17:05:20-03:00",
+  "novas": 4,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "5 nova(s) e 1 atualizada(s): Juros altos até 2030; Ibovespa em alta e Magazine Luiza em destaque; Acerto entre GPA e Casas Bahia.",
+  "mensagem": "4 nova(s) e 2 atualizada(s): apagão aéreo impacta voos e mercado; Escala 6×1 muda em dezembro; Ormuz e o preço da gasolina.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T17:05:20-03:00",
    "2026-11-14T13:07:42-03:00",
    "2026-11-13T22:46:47-03:00",
    "2026-11-13T18:38:12-03:00",
@@ -18,8 +19,7 @@
    "2026-11-11T23:30:39-03:00",
    "2026-11-11T19:16:47-03:00",
    "2026-11-11T14:28:12-03:00",
-   "2026-11-10T22:29:05-03:00",
-   "2026-11-10T18:25:57-03:00"
+   "2026-11-10T22:29:05-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 65,6 mil",
-    "var": "-4,22%"
+    "v": "US$ 65,8 mil",
+    "var": "-4,59%"
    },
    {
     "k": "SPX",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 13h",
+  "hora": "sáb 17h",
   "data": "2026-11-14",
-  "atualizadoEm": "2026-11-14T13:07:42-03:00",
+  "atualizadoEm": "2026-11-14T17:05:20-03:00",
   "ibov": "172.458",
   "ibovVar": "+0,00%",
   "dolar": "R$ 5,67",
   "dolarVar": "+0,43%",
-  "btc": "US$ 65,6 mil"
+  "btc": "US$ 65,8 mil"
  }
 }

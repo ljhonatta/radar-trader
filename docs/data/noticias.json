@@ -1,17 +1,522 @@
 [
  {
-  "titulo": "Mercado projeta juros em dois dígitos no Brasil até 2030",
-  "resumo": "Expectativa do mercado é que a taxa Selic permaneça acima de 10% ao ano até 2030, afetada por incertezas fiscais e inflação.",
+  "titulo": "Falha nos EUA cancela 16 mil voos e causa atrasos graves no sistema aéreo",
+  "resumo": "Sistema aéreo dos EUA enfrentou a maior paralisação desde 11 de setembro, com 16 mil voos cancelados. A falha técnica gerou cancelamentos e atrasos, afetando as principais companhias e causando impacto financeiro e operacional.",
+  "fatos": [
+   "Mais de 16 mil voos cancelados nos EUA entre sexta e sábado.",
+   "FAA suspendeu decolagens por quase cinco horas na sexta-feira (13).",
+   "Operações começaram a ser retomadas por volta das 20h15 (Costa Leste) na sexta.",
+   "Problema ocorreu durante troca de cabos de cobre por fibra óptica pela L3Harris.",
+   "Delta, United e American cancelaram 20% de seus voos no sábado; JetBlue, 40%.",
+   "Secretário Sean Duffy solicitou US$ 50 bilhões para modernizar o sistema aéreo.",
+   "Investigações descartam, até o momento, ataque cibernético ou IA como causa.",
+   "Cancelamentos e atrasos geraram prejuízos nos papéis das companhias aéreas no mercado.",
+   "Passageiros ficaram retidos em aeroportos de todo o país, com grandes filas e lotação.",
+   "Falha provocou sobrecarga de dados e comunicação inconsistente entre controladores e pilotos."
+  ],
+  "explicacao": [
+   "Na sexta-feira (13) e sábado (14), os Estados Unidos sofreram interrupções massivas no sistema aéreo devido a uma falha na rede de comunicação da aviação, resultando em mais de 16 mil voos cancelados. A FAA interrompeu as decolagens por quase cinco horas na sexta, causando um dos maiores colapsos do setor desde 2001.",
+   "A falha ocorreu quando a empresa L3Harris, contratada para modernizar parte do sistema, realizava a substituição de cabos, provocando sobrecargas nos roteadores e inconsistências nos dados trocados entre controladores e pilotos. Investigações estão em andamento para identificar se o erro foi humano ou técnico.",
+   "Os efeitos persistiram no sábado, com as maiores companhias aéreas como Delta, United e American cancelando cerca de 20% de seus voos, e a JetBlue, até 40%. Aeroportos ficaram congestionados e cresce a necessidade de reorganizar a malha aérea, tripulações e manutenções, o que pode levar dias para normalização.",
+   "O secretário de Transportes dos EUA, Sean Duffy, pediu US$ 50 bilhões ao Congresso para modernização do sistema, enfatizando a urgência diante dos sistemas obsoletos. Apesar do problema, autoridades garantiram que a segurança dos voos permanece intacta e continuam as investigações para evitar novas falhas."
+  ],
+  "detalhes": [
+   "Data da paralisação: 13 e 14 de novembro de 2026.",
+   "Empresa responsável pela falha: L3Harris, vinculada à FAA.",
+   "Problema técnico: possível erro humano ou defeito no roteador durante instalação.",
+   "Principais companhias afetadas: Delta, United, American e JetBlue.",
+   "Contexto histórico: maior paralisação aérea nacional desde os ataques de 11 de setembro de 2001.",
+   "Reação do mercado: ações das companhias aéreas e da L3Harris caíram 1% a 3%.",
+   "Medidas imediatas: suspensão temporária de voos em aeroportos estratégicos para reduzir congestionamento."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Sean Duffy, secretário de Transportes dos EUA",
+    "oque": "Define o problema como uma emergência e pede US$ 50 bilhões para modernizar o sistema aéreo."
+   },
+   {
+    "quem": "Sean Duffy, secretário de Transportes dos EUA",
+    "oque": "Afirma que a falha foi causada por sobrecarga de dados e inconsistências nos roteadores."
+   },
+   {
+    "quem": "Markwayne Mullin, secretário de Segurança Interna dos EUA",
+    "oque": "Diz que não há evidências até o momento de ataques cibernéticos ou uso de IA na falha."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "13/11/2026 às 15h36 (horário Costa Leste)",
+    "oque": "Início da falha técnica nos sistemas de radar e comunicação."
+   },
+   {
+    "quando": "13/11/2026 por quase cinco horas",
+    "oque": "Suspensão nacional das decolagens ordenada pela FAA."
+   },
+   {
+    "quando": "13/11/2026 às 20h15",
+    "oque": "Retomada das operações aéreas após suspensão."
+   },
+   {
+    "quando": "14/11/2026",
+    "oque": "Mais de 3,7 mil voos cancelados e 2 mil atrasados ainda registrados."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "FAA",
+    "significado": "Agência americana que regula a aviação civil e controla o tráfego aéreo."
+   },
+   {
+    "termo": "Roteador",
+    "significado": "Equipamento que direciona dados entre redes de comunicação."
+   },
+   {
+    "termo": "Controladores de tráfego aéreo",
+    "significado": "Profissionais que gerenciam a movimentação dos aviões para evitar acidentes."
+   }
+  ],
+  "pergunta": "Como você acha que esse apagão aéreo pode afetar seus planos de viagem ou investimentos em companhias aéreas?",
+  "tamanhoTexto": 18760,
+  "numeros": [
+   {
+    "valor": "16.000",
+    "rotulo": "total de voos cancelados em dois dias"
+   },
+   {
+    "valor": "5 horas",
+    "rotulo": "duração da suspensão das decolagens na sexta-feira"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "porcentual de cancelamentos nas principais companhias aéreas"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "cancelamento de voos na JetBlue no sábado"
+   },
+   {
+    "valor": "50 bilhões de dólares",
+    "rotulo": "valor solicitado para modernização do sistema aéreo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "16 mil voos",
+  "porQueImporta": "Essa paralisação evidencia vulnerabilidades do sistema aéreo americano, refletindo na logística global e no comportamento das companhias. Para quem investe, mostra riscos operacionais e impactos financeiros em ações de companhias aéreas e suas terceirizadas.",
+  "impactoMercado": "Com grande número de cancelamentos e atrasos, empresas aéreas enfrentam custos extras, afetando resultados e ações. A demanda por modernização deve influenciar decisões políticas e investimentos do setor, impactando o mercado financeiro, especialmente os setores ligados à infraestrutura e tecnologia aérea.",
+  "entenda": "O sistema de controle aéreo gerencia os voos para garantir segurança e eficiência. Ele depende do radar e comunicação entre controladores e pilotos. Uma falha nessa rede pode interromper voos por motivos de segurança. Essa paralisação mostra como problemas técnicos impactam toda cadeia aérea e o transporte.",
+  "observar": "Fique atento às atualizações das companhias aéreas e órgãos reguladores nas próximas semanas para acompanhar a recuperação do sistema e possíveis mudanças no planejamento aéreo e investimentos no setor.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "A notícia exemplifica desafios técnicos e operacionais do mercado aéreo, mostrando a importância de entender infraestrutura, riscos e como isso afeta empresas e investimentos. Pode despertar interesse em se aprofundar no mercado financeiro e operações complexas.",
+  "gancho": "*apagão* aéreo impacta voos e mercado",
+  "ideias": [
+   "Entenda o que causou o apagão aéreo nos EUA",
+   "Como 16 mil voos foram cancelados em 2 dias",
+   "Impactos do colapso aéreo no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "globo",
+  "fonte": "Valor Econômico",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T17:05:20-03:00",
+  "url": "https://valor.globo.com/mundo/noticia/2026/11/14/milhares-de-voos-nos-eua-so-cancelados-e-sofrem-atrasos-enquanto-sistema-areo-se-recupera-de-paralisao.ghtml",
+  "publicadoEm": "2026-11-14T13:10:13-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-06"
+ },
+ {
+  "titulo": "Fim da escala 6×1 em 16 de dezembro avança no STF com 4 votos",
+  "resumo": "Quatro ministros do STF votaram a favor do início da transição da escala 6×1 em dezembro. A nova jornada reduzirá horas semanais e garante segundo dia de descanso remunerado.",
+  "fatos": [
+   "STF discute o fim da escala 6×1, suspensão do trabalho seis dias com uma folga.",
+   "Quatro ministros votaram para iniciar transição em 16 de dezembro de 2026.",
+   "Jornada semanal passará de 44 para 42 horas em dezembro de 2026.",
+   "Segundo dia de descanso remunerado será garantido a partir da mesma data.",
+   "Redução para 40 horas ocorrerá em 16 de dezembro de 2027.",
+   "Pedido de adiamento da CNC e CNI foi rejeitado pelo ministro Flávio Dino.",
+   "Folgas poderão ser definidas por acordo ou convenção coletiva.",
+   "Pelo menos uma folga semanal e média de dois dias de descanso remunerado devem ser mantidos.",
+   "Julgamento ocorre em plenário virtual e termina em 16 de novembro de 2026."
+  ],
+  "explicacao": [
+   "O Supremo Tribunal Federal (STF) realizou julgamento em plenário virtual, registrando quatro votos a favor da manutenção do início da transição para o fim da escala 6×1, prevista para 16 de dezembro de 2026. Essa escala implica trabalhar seis dias seguidos com uma folga semanal.",
+   "A Confederação Nacional do Comércio (CNC) e a Confederação Nacional da Indústria (CNI) solicitaram adiamento do prazo, requerendo 12 meses para iniciar a redução da jornada e outros 12 para atingir limite de 40 horas semanais. O ministro Flávio Dino rejeitou esses pedidos, alegando inexistência de inconstitucionalidade.",
+   "A decisão prevê que, a partir de 16 de dezembro de 2026, a jornada máxima cairá de 44 para 42 horas semanais, junto com a garantia do segundo dia de descanso remunerado semanal, e entrará em vigor etapa seguinte em dezembro de 2027 com limite a 40 horas.",
+   "Além disso, foi autorizado que a distribuição das folgas será negociada por acordo ou convenção coletiva, porém garantindo pelo menos uma folga semanal e, na média do mês, dois dias de descanso remunerado por semana."
+  ],
+  "detalhes": [
+   "STF conduz julgamento virtual entre 10 e 16 de novembro de 2026, liderado pelo ministro Flávio Dino.",
+   "CNC e CNI pedem ao STF adiamento de 12 meses para iniciar redução de jornada e mais 12 para chegar a 40 horas.",
+   "Data oficial para mudanças conforme calendário aprovado pelo Congresso Nacional.",
+   "Folgas semanais continuam obrigatórias e terão que ser negociadas entre sindicatos e empregadores.",
+   "Ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes acompanham o voto favorável de Flávio Dino.",
+   "Fim da escala 6×1 representa mudança importante nas condições de trabalho brasileiras.",
+   "Decisão promove maior equilíbrio entre jornada e descanso do trabalhador."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministro Flávio Dino",
+    "oque": "Rejeitou adiamento e afirmou não haver violação constitucional para postergar transição."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "10 de novembro de 2026",
+    "oque": "Início da audiência de conciliação no STF sobre escala 6×1."
+   },
+   {
+    "quando": "13 de novembro de 2026",
+    "oque": "Registro de quatro votos a favor da transição no STF."
+   },
+   {
+    "quando": "16 de novembro de 2026",
+    "oque": "Encerramento do julgamento virtual no STF."
+   },
+   {
+    "quando": "16 de dezembro de 2026",
+    "oque": "Início da redução da jornada para 42 horas e segundo dia de descanso remunerado."
+   },
+   {
+    "quando": "16 de dezembro de 2027",
+    "oque": "Novo limite de 40 horas semanais passa a valer."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Escala 6×1",
+    "significado": "Jornada de 6 dias trabalhados seguidos com 1 dia de descanso semanal."
+   },
+   {
+    "termo": "Plenário virtual",
+    "significado": "Sistema do STF para ministros registrarem votos pela internet."
+   },
+   {
+    "termo": "Folga remunerada",
+    "significado": "Dia de descanso que o trabalhador recebe pagamento normalmente."
+   }
+  ],
+  "pergunta": "Como a redução da escala 6×1 pode impactar seu dia a dia de trabalho?",
+  "tamanhoTexto": 3027,
+  "numeros": [
+   {
+    "valor": "4",
+    "rotulo": "ministros a favor de iniciar transição em 2026"
+   },
+   {
+    "valor": "6×1",
+    "rotulo": "escala atual que será extinta (seis dias trabalhados, um de folga)"
+   },
+   {
+    "valor": "44",
+    "rotulo": "horas semanais atuais permitidas"
+   },
+   {
+    "valor": "42",
+    "rotulo": "nova quantidade máxima de horas semanais a partir de dezembro de 2026"
+   },
+   {
+    "valor": "40",
+    "rotulo": "teto de horas na etapa final em dezembro de 2027"
+   },
+   {
+    "valor": "12",
+    "rotulo": "meses solicitados para iniciar a transição pela CNC e CNI"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "4 votos favoráveis",
+  "porQueImporta": "Essa decisão do STF impacta diretamente a rotina e condições de trabalho, alterando a jornada semanal e aumentando os dias de descanso remunerados. Para trabalhadores e investidores, trata-se de um movimento relevante na regulação trabalhista que pode influenciar custos e negociações das empresas.",
+  "impactoMercado": "Reduções da jornada e aumento do descanso remunerado afetam a produtividade e despesas das companhias, especialmente comércio e indústria, partes interessadas no caso. O ajuste pode alterar negociações salariais, custos trabalhistas e até preferências de setores voltados ao consumo.",
+  "entenda": "A escala 6×1 é um modelo em que o trabalhador tem seis dias seguidos de trabalho e apenas um dia de folga. A mudança para escala com mais descanso e jornada reduzida visa equilibrar vida pessoal e trabalho, com limite máximo de horas e garantia de folgas pagas, negociadas entre sindicatos e empregadores.",
+  "observar": "Acompanhar resultado final do julgamento do STF até 16 de novembro. Observar implementação prática a partir de 16 de dezembro de 2026 e negociações por acordos coletivos sobre folgas.",
+  "publico": [
+   "Investidores",
+   "CLT",
+   "Empresários"
+  ],
+  "angulo": "Entender o julgamento e mudanças na escala 6×1 ajuda a compreender ajustes em leis trabalhistas e seu impacto nos custos e negociações das empresas, tema que traders e investidores precisam acompanhar para entender riscos e cenários econômicos.",
+  "gancho": "*Escala 6×1* muda em dezembro",
+  "ideias": [
+   "O que é a escala 6×1 e por que vai acabar?",
+   "Como vai funcionar a nova jornada de trabalho a partir de dezembro",
+   "STF e o impacto das decisões trabalhistas no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "grafico",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T17:05:20-03:00",
+  "url": "https://timesbrasil.com.br/brasil/fim-da-escala-6x1-em-dezembro-fica-a-dois-votos-da-maioria-no-stf/",
+  "publicadoEm": "2026-11-14T15:46:16-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-07"
+ },
+ {
+  "titulo": "Explosão de petroleiros no Estreito de Ormuz aumenta risco para combustível no Brasil",
+  "resumo": "Dois navios bateram em minas no Estreito de Ormuz, que concentra até 25% do petróleo mundial. Incidentes recentes podem elevar preços da gasolina no Brasil ligados ao Brent.",
+  "fatos": [
+   "14 de novembro: dois petroleiros explodiram no Estreito de Ormuz após bater em minas.",
+   "Estreito de Ormuz concentra entre 20% e 25% do petróleo consumido no mundo.",
+   "Dois superpetroleiros já haviam explodido na região em 12 de novembro.",
+   "Petrobras usa Preço de Paridade de Importação atrelado ao petróleo Brent.",
+   "Brent fechou 13 de novembro cotado a US$ 95,84 por barril.",
+   "EUA impuseram bloqueio naval a portos iranianos e oferecem apoio militar a petroleiros.",
+   "Fluxo físico de petróleo via Ormuz não foi interrompido, com navios saindo carregados nos últimos dias.",
+   "Guerra na Ucrânia também pressiona preços de diesel e fertilizantes no Brasil.",
+   "Petrobras revisa PPI conforme cotação internacional se move consistentemente.",
+   "Petroleiros tentaram cruzar rota não autorizada com sistemas de radar desligados."
+  ],
+  "explicacao": [
+   "No dia 14 de novembro, a Guarda Revolucionária do Irã informou que dois petroleiros explodiram e pegaram fogo após colidirem com minas navais enquanto tentavam passar por rota não autorizada no Estreito de Ormuz. Um dos navios era um superpetroleiro.",
+   "Esse estreito concentra entre 20% e 25% do petróleo consumido globalmente, o que torna o incidente preocupante para países como o Brasil, mesmo que ele não dependa diretamente dessa rota para exportações.",
+   "O impacto dessa situação no Brasil está ligado ao sistema de preços da Petrobras, que segue o Preço de Paridade de Importação, amarrado à cotação do petróleo Brent. Interrupções ou riscos na rota podem elevar o preço do barril e custos do frete, pressionando os preços domésticos dos combustíveis.",
+   "Apesar do incidente, o fluxo de navios continua, e um acordo provisório entre EUA e Irã tem liberado petróleo retido, mantendo o mercado relativamente estável, mas o futuro dependerá do avanço das negociações e de eventuais novos conflitos na região."
+  ],
+  "detalhes": [
+   "Incidentes ocorreram dias 12 e 14 de novembro no Estreito de Ormuz.",
+   "Guardas iranianos acusam navios de navegar em rota não autorizada e desligar radar.",
+   "Um dos navios atingidos era superpetroleiro, indicativo de grande volume transportado.",
+   "Estreito é passagem diária para cerca de 20 milhões de barris de petróleo.",
+   "Estados Unidos reforçaram presença militar e bloqueio naval em resposta.",
+   "Petrobras atrelada ao Brent, não depende diretamente do petróleo de Ormuz.",
+   "Preço da gasolina no Brasil sofre pressão dupla: Ormuz e guerra na Ucrânia."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Guarda Revolucionária do Irã",
+    "oque": "Dois petroleiros explodiram após colidir com minas em rota não autorizada."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12 de novembro",
+    "oque": "Dois superpetroleiros explodiram no Estreito de Ormuz."
+   },
+   {
+    "quando": "14 de novembro",
+    "oque": "Mais dois petroleiros colidiram com minas e pegaram fogo."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Preço de Paridade de Importação",
+    "significado": "Preço no Brasil baseado no valor do petróleo importado, seguindo mercado internacional."
+   },
+   {
+    "termo": "Estreito de Ormuz",
+    "significado": "Canal estratégico marítimo por onde passa grande parte do petróleo mundial."
+   },
+   {
+    "termo": "Superpetroleiro",
+    "significado": "Navio muito grande usado para transportar grandes volumes de petróleo."
+   }
+  ],
+  "pergunta": "Como você acha que o risco geopolítico no Estreito de Ormuz afeta o preço dos combustíveis aqui?",
+  "tamanhoTexto": 4844,
+  "numeros": [
+   {
+    "valor": "20% a 25%",
+    "rotulo": "Petróleo mundial que passa pelo Estreito de Ormuz"
+   },
+   {
+    "valor": "5 milhões",
+    "rotulo": "Barris transportados por três petroleiros que saíram da região"
+   },
+   {
+    "valor": "US$ 95,84",
+    "rotulo": "Cotação do barril Brent em 13 de novembro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "20% a 25%",
+  "porQueImporta": "Este incidente pode pressurizar o preço do petróleo Brent, referência para o Brasil via Preço de Paridade de Importação, impactando os preços dos combustíveis. Para quem opera ou investe, entender o efeito de riscos geopolíticos internacionais ajuda na compreensão das oscilações do mercado e dos ativos relacionados.",
+  "impactoMercado": "A alta do prêmio de risco no Golfo pode provocar reajustes nos preços globais do petróleo e no custo do frete marítimo, afetando Petrobras e derivados. Investidores de petróleo, combustíveis e setores ligados devem monitorar essa instabilidade e o avanço das negociações entre EUA e Irã.",
+  "entenda": "O Estreito de Ormuz é um canal estratégico para o comércio mundial de petróleo, por onde passam até 25% do consumo global. Preço de Paridade de Importação é o método de precificação da Petrobras, que vincula preços domésticos às cotações internacionais do petróleo, especialmente o Brent.",
+  "observar": "Fique atento às próximas semanas para novidades nas negociações entre Estados Unidos e Irã, além de novos incidentes no Estreito de Ormuz, que podem alterar o preço do barril Brent e impactar a política de preços da Petrobras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "Entender episódios no Estreito de Ormuz ajuda a compreender a relação entre geopolítica e volatilidade do preço do petróleo, tema essencial para quem quer operar ou investir no mercado financeiro e quer aprender com exemplos reais.",
+  "gancho": "*Ormuz* e o preço da *gasolina*",
+  "ideias": [
+   "Como o Estreito de Ormuz impacta o preço do combustível no Brasil?",
+   "Entenda a relação entre petróleo Brent e preços domésticos na Petrobras",
+   "Impacto dos riscos geopolíticos no mercado financeiro brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "foguete",
+  "fonte": "TV Sim Brasil",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T17:05:20-03:00",
+  "url": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/14/petroleiros-explodem-ormuz-ameacam-gasolina-brasil",
+  "publicadoEm": "2026-11-14T08:56:39-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-08"
+ },
+ {
+  "titulo": "Governo encerra subsídio de R$ 1,40 ao diesel importado após 30 dias",
+  "resumo": "Ministério da Fazenda comunicou que o benefício ao diesel importado não será renovado após 13 de novembro. A subvenção de R$ 2,12 por litro para diesel rodoviário permanece válida.",
+  "fatos": [
+   "Subvenção de R$ 1,40 por litro ao diesel importado não será renovada após 13 de novembro.",
+   "Portaria 3.082 do Ministério da Fazenda, que criou o benefício, venceu em 13 de outubro.",
+   "Subsídio de R$ 2,12 por litro para diesel A rodoviário segue vigente, por Portaria 3.181 de 27 de outubro.",
+   "O benefício de R$ 1,40 durou exatamente 30 dias.",
+   "Mais de 25% do consumo nacional de diesel depende de importações.",
+   "A subvenção de R$ 1,40 foi criada em meio à alta do petróleo devido ao conflito no Oriente Médio.",
+   "Pacote de ajuste fiscal aprovado pelo Senado tenta retirar até R$ 10,5 bilhões em subsídios ao diesel da meta fiscal 2026.",
+   "O fim do subsídio ao diesel importado não significa o fim de todo apoio governamental ao diesel."
+  ],
+  "explicacao": [
+   "O Ministério da Fazenda anunciou em 13 de novembro que o subsídio de R$ 1,40 por litro ao diesel importado não será renovado após o fim da validade da Portaria 3.082, de 13 de outubro.",
+   "Esse benefício foi criado para amenizar o impacto da alta dos preços internacionais do petróleo, especialmente considerando que mais de 25% do diesel consumido no Brasil é importado.",
+   "Apesar do fim do auxílio ao diesel importado, a subvenção de R$ 2,12 por litro para o diesel A rodoviário permanece, conforme Portaria 3.181, prorrogada em 27 de outubro.",
+   "O governo pode rever a reativação do benefício de R$ 1,40 dependendo da evolução dos preços internacionais do petróleo, mantendo medidas diferenciadas para ajudar o mercado interno."
+  ],
+  "detalhes": [
+   "Ministério da Fazenda é responsável pelas portarias que definem os subsídios.",
+   "Portaria 3.082, de 13 de outubro, instituiu a subvenção ao diesel importado.",
+   "Portaria 3.181, de 27 de outubro, mantém subsídio ao diesel A rodoviário.",
+   "Diesel A é o combustível antes da mistura obrigatória com biodiesel.",
+   "Diesel B é vendido nos postos após adição do biodiesel obrigatório.",
+   "Pacote fiscal prevê mudança contábil para subsídios do diesel, não redução real de gastos.",
+   "Conflicto no Oriente Médio elevou preços internacionais do petróleo, motivando os subsídios."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministério da Fazenda",
+    "oque": "A possibilidade de reavaliar o benefício dependerá da evolução dos preços do petróleo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "13 de outubro",
+    "oque": "Criação da subvenção de R$ 1,40 ao diesel importado pela Portaria 3.082."
+   },
+   {
+    "quando": "12 de novembro",
+    "oque": "Senado aprovou pacote de ajuste fiscal com alterações nas subvenções ao diesel."
+   },
+   {
+    "quando": "13 de novembro",
+    "oque": "Fim da validade do subsídio de R$ 1,40 ao diesel importado, sem renovação."
+   },
+   {
+    "quando": "27 de outubro",
+    "oque": "Prorrogação da subvenção de R$ 2,12 para diesel A rodoviário pela Portaria 3.181."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Subvenção",
+    "significado": "Ajuda financeira do governo para reduzir custo de um produto."
+   },
+   {
+    "termo": "Portaria",
+    "significado": "Documento oficial que cria ou altera regras administrativas."
+   },
+   {
+    "termo": "Diesel A",
+    "significado": "Diesel antes da mistura com biodiesel, usado no transporte rodoviário."
+   }
+  ],
+  "pergunta": "Como o fim do subsídio ao diesel importado pode impactar os preços e o mercado?",
+  "tamanhoTexto": 2786,
+  "numeros": [
+   {
+    "valor": "R$ 1,40",
+    "rotulo": "Subsídio por litro ao diesel importado encerrado"
+   },
+   {
+    "valor": "R$ 2,12",
+    "rotulo": "Subsídio por litro ao diesel A rodoviário mantido"
+   },
+   {
+    "valor": "30 dias",
+    "rotulo": "Duração do benefício ao diesel importado"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "Consumo de diesel brasileiro dependente de importação"
+   },
+   {
+    "valor": "R$ 10,5 bilhões",
+    "rotulo": "Valor de subsídios ao diesel no pacote fiscal para 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 1,40 subsídio",
+  "porQueImporta": "O fim do subsídio ao diesel importado impacta o custo de importações, refletindo na composição dos preços do diesel. Para investidores e operadores, entender esse ajuste mostra como o governo age para controlar inflação e mercado de combustíveis.",
+  "impactoMercado": "A interrupção do subsídio pode pressionar custos do diesel importado e agravar volatilidade nos preços de combustíveis. Setores dependentes de diesel importado e empresas de logística podem ser afetados, enquanto a manutenção da subvenção ao diesel rodoviário assegura alguma estabilidade.",
+  "entenda": "Diesel importado tem custo maior quando o petróleo sobe; o governo usa subsídio para aliviar esse impacto. A portaria define regras para esses pagamentos. Diesel A é o combustível puro antes da mistura do biodiesel, usado principalmente em transportes rodoviários.",
+  "observar": "Acompanhe a evolução dos preços internacionais do petróleo e possíveis novas decisões do governo sobre subsídios que podem reativar o benefício ao diesel importado.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "A notícia mostra como decisões do governo influenciam preços dos combustíveis e afetam o mercado, importante para quem quer entender políticas públicas e mercado financeiro.",
+  "gancho": "*Subsídio* ao diesel importado acaba",
+  "ideias": [
+   "Fim do subsídio ao diesel importado: entenda o impacto",
+   "Subsídios ao diesel: o que muda para o mercado em novembro",
+   "Diesel A e B: conheça as diferenças e os subsídios atuais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T17:05:20-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
+  "publicadoEm": "2026-11-13T19:54:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-14-09"
+ },
+ {
+  "titulo": "Fed sinaliza necessidade de aumentos graduais nos juros para controle da inflação",
+  "resumo": "Susan Collins, do Federal Reserve de Boston, afirma que aumentos graduais de juros são apropriados, com foco na redução da inflação.",
   "fatos": [
    "Taxa Selic está atualmente em 13,75% ao ano.",
    "Pesquisa do Banco Central consultou mais de 100 bancos.",
    "Mercado projeta Selic em 10% ao ano somente em 2030.",
    "Dívida pública do Brasil é 82,9% do PIB pelo BC e 95,2% pelo FMI.",
    "Pacote fiscal aprovado em 12 de novembro busca ajuste, mas gera dúvidas.",
-   "Inflação projetada para 2026 está em 5,22%, acima da meta de 3%.",
-   "Juros altos podem dificultar crédito e elevar custo para famílias e empresas.",
-   "Copom manteve a Selic em 13,75% em 4 de novembro, após cinco cortes consecutivos.",
-   "Expectativa de dólar em R$ 5,6550 em 13 de novembro diante de incertezas fiscais."
+   "Inflação projetada para 2026 está em 5,22%, acima da meta de 3%."
   ],
   "explicacao": [
    "O mercado financeiro projeta que a taxa básica de juros, a Selic, continuará em patamar elevado, acima de 10% ao ano, até pelo menos 2030, abrangendo os mandatos de 2023 a 2030 do presidente Luiz Inácio Lula da Silva.",
@@ -96,10 +601,6 @@
    {
     "valor": "95,2%",
     "rotulo": "dívida pública em percentagem do PIB pelo FMI"
-   },
-   {
-    "valor": "5,22%",
-    "rotulo": "projeção de inflação para 2026 acima da meta"
    }
   ],
   "comparativo": [
@@ -135,15 +636,16 @@
   ],
   "categoria": "Juros",
   "icone": "seta",
-  "fonte": "Money Times; G1 Economia; ncnews.com.br",
+  "fonte": "Money Times; G1 Economia; ncnews.com.br; Valor Econômico",
   "impacto": "alto",
   "ordem": 1,
-  "status": "nova",
+  "status": "atualizada",
   "coletadoEm": "2026-11-14T13:07:42-03:00",
   "url": "https://www.moneytimes.com.br/dolar-13-11-2026/",
   "publicadoEm": "2026-11-13T17:29:59-03:00",
   "data": "2026-11-13",
-  "id": "2026-11-14-01"
+  "id": "2026-11-14-01",
+  "atualizadoEm": "2026-11-14T17:05:20-03:00"
  },
  {
   "titulo": "Ibovespa sobe 2,35% na semana com Magazine Luiza em alta e CSN em queda",
@@ -9759,53 +10261,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "What price will Bitcoin hit in November?",
-  "resumo": "Preços de aposta indicam 85,5% de chance do Bitcoin ultrapassar $72,500 em novembro de 2026.",
+  "titulo": "Mercado de previsões vê 96% de chance de Bitcoin abaixo de USD 65,000 em novembro de 2026.",
+  "resumo": "Apostadores acreditam que a maior probabilidade é que o preço não ultrapasse esse nível.",
   "probs": [
    {
-    "opcao": "↑ 72,500",
-    "prob": 85.5
+    "opcao": "↓ 65,000",
+    "prob": 96.0
    },
    {
-    "opcao": "↓ 70,000",
-    "prob": 74.5
+    "opcao": "↑ 67,500",
+    "prob": 77.5
    },
    {
-    "opcao": "↑ 75,000",
-    "prob": 55.5
+    "opcao": "↓ 62,500",
+    "prob": 59.5
    },
    {
-    "opcao": "↓ 67,500",
-    "prob": 45.5
+    "opcao": "↑ 70,000",
+    "prob": 48.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 557 mil",
+  "volume24h": "US$ 1,3 mi",
   "fatos": [
-   "↑ 72,500: 85,5%",
-   "↓ 70,000: 74,5%",
-   "↑ 75,000: 55,5%",
-   "↓ 67,500: 45,5%"
+   "↓ 65,000: 96,0%",
+   "↑ 67,500: 77,5%",
+   "↓ 62,500: 59,5%",
+   "↑ 70,000: 48,5%"
   ],
   "numeros": [
    {
-    "valor": "85,5%",
-    "rotulo": "↑ 72,500"
+    "valor": "96,0%",
+    "rotulo": "↓ 65,000"
    },
    {
-    "valor": "74,5%",
-    "rotulo": "↓ 70,000"
+    "valor": "77,5%",
+    "rotulo": "↑ 67,500"
    },
    {
-    "valor": "55,5%",
-    "rotulo": "↑ 75,000"
+    "valor": "59,5%",
+    "rotulo": "↓ 62,500"
    },
    {
-    "valor": "45,5%",
-    "rotulo": "↓ 67,500"
+    "valor": "48,5%",
+    "rotulo": "↑ 70,000"
    }
   ],
-  "destaque": "85,5%",
+  "destaque": "96,0%",
   "gancho": "*Alta expectativa* para o Bitcoin",
   "entenda": "As flutuações no preço do Bitcoin refletem a demanda e o sentimento do mercado de criptomoedas.",
   "categoria": "Previsões",
@@ -9820,7 +10322,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p4",
-  "atualizadoEm": "2026-11-12T18:55:11-03:00"
+  "atualizadoEm": "2026-11-14T17:05:20-03:00"
  },
  {
   "titulo": "Dólar salta a R$ 5,60 após inflação dos EUA acima do esperado",
