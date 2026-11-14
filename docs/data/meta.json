@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-13T22:46:47-03:00",
-  "novas": 2,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-11-14T13:07:42-03:00",
+  "novas": 5,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "2 nova(s): Inflação desacelera no Brasil; Dólar estável e fiscal em foco.",
+  "mensagem": "5 nova(s) e 1 atualizada(s): Juros altos até 2030; Ibovespa em alta e Magazine Luiza em destaque; Acerto entre GPA e Casas Bahia.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T13:07:42-03:00",
    "2026-11-13T22:46:47-03:00",
    "2026-11-13T18:38:12-03:00",
    "2026-11-13T14:23:22-03:00",
@@ -18,12 +19,11 @@
    "2026-11-11T19:16:47-03:00",
    "2026-11-11T14:28:12-03:00",
    "2026-11-10T22:29:05-03:00",
-   "2026-11-10T18:25:57-03:00",
-   "2026-11-10T14:18:46-03:00"
+   "2026-11-10T18:25:57-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 3
+  "textosCompletos": 7
  },
  "placar": {
   "itens": [
@@ -31,7 +31,7 @@
     "k": "IBOV",
     "nome": "Ibovespa",
     "v": "172.458",
-    "var": "+0,66%"
+    "var": "+0,00%"
    },
    {
     "k": "USD",
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 68,3 mil",
-    "var": "-3,63%"
+    "v": "US$ 65,6 mil",
+    "var": "-4,22%"
    },
    {
     "k": "SPX",
@@ -88,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "sex 22h",
-  "data": "2026-11-13",
-  "atualizadoEm": "2026-11-13T22:46:47-03:00",
+  "obs": "Último fechamento",
+  "hora": "sáb 13h",
+  "data": "2026-11-14",
+  "atualizadoEm": "2026-11-14T13:07:42-03:00",
   "ibov": "172.458",
-  "ibovVar": "+0,66%",
+  "ibovVar": "+0,00%",
   "dolar": "R$ 5,67",
   "dolarVar": "+0,43%",
-  "btc": "US$ 68,3 mil"
+  "btc": "US$ 65,6 mil"
  }
 }
