@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-13T18:38:12-03:00",
+  "ultimaColeta": "2026-11-13T22:46:47-03:00",
   "novas": 2,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "2 nova(s)",
+  "mensagem": "2 nova(s): Inflação desacelera no Brasil; Dólar estável e fiscal em foco.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-13T22:46:47-03:00",
    "2026-11-13T18:38:12-03:00",
    "2026-11-13T14:23:22-03:00",
    "2026-11-12T23:07:59-03:00",
@@ -18,8 +19,7 @@
    "2026-11-11T14:28:12-03:00",
    "2026-11-10T22:29:05-03:00",
    "2026-11-10T18:25:57-03:00",
-   "2026-11-10T14:18:46-03:00",
-   "2026-11-10T00:48:14-03:00"
+   "2026-11-10T14:18:46-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -36,20 +36,20 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,66",
-    "var": "+0,38%"
+    "v": "R$ 5,67",
+    "var": "+0,43%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,24",
-    "var": "+0,12%"
+    "v": "R$ 6,25",
+    "var": "+0,19%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 68,2 mil",
-    "var": "-4,58%"
+    "v": "US$ 68,3 mil",
+    "var": "-3,63%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 96,34",
-    "var": "+0,54%"
+    "v": "US$ 96,08",
+    "var": "+0,27%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.881,60",
-    "var": "-0,10%"
+    "v": "US$ 3.887,60",
+    "var": "+0,06%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Fechamento",
-  "hora": "sex 18h",
+  "hora": "sex 22h",
   "data": "2026-11-13",
-  "atualizadoEm": "2026-11-13T18:38:12-03:00",
+  "atualizadoEm": "2026-11-13T22:46:47-03:00",
   "ibov": "172.458",
   "ibovVar": "+0,66%",
-  "dolar": "R$ 5,66",
-  "dolarVar": "+0,38%",
-  "btc": "US$ 68,2 mil"
+  "dolar": "R$ 5,67",
+  "dolarVar": "+0,43%",
+  "btc": "US$ 68,3 mil"
  }
 }

@@ -1,5 +1,265 @@
 [
  {
+  "titulo": "Inflação desacelera a 0,14% em outubro; transporte e habitação caem",
+  "resumo": "IPCA registrou alta menor em outubro, 0,14%, com queda em transportes e habitação. Alimentos subiram 1,04%, acumulado em 2026 é de 4,10%.",
+  "fatos": [
+   "IPCA ficou em 0,14% em outubro de 2026",
+   "IPCA acumula alta de 4,10% no ano e 4,63% nos últimos 12 meses",
+   "Setor de transportes caiu 0,59% em outubro",
+   "Habitação teve redução de 0,51%",
+   "Passagens aéreas tiveram queda de 9,21%",
+   "Gasolina recuou 0,56%",
+   "Energia elétrica residencial caiu 1,92% em outubro após alta de 7,98% em setembro",
+   "Alimentação e bebidas subiram 1,04% no mês",
+   "Tomate subiu 19,57% em outubro",
+   "Cenoura caiu 9,72%"
+  ],
+  "explicacao": [
+   "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou uma inflação de 0,14% em outubro, menor que o mês anterior, segundo dados do IBGE divulgados em 13 de novembro de 2026.",
+   "A desaceleração reflete quedas de preços nos setores de transportes (-0,59%) e habitação (-0,51%), com destaques como passagens aéreas 9,21% mais baratas e gasolina caindo 0,56%.",
+   "Ao mesmo tempo, o grupo de alimentação e bebidas subiu 1,04%, puxado por alimentos como tomate (+19,57%) e cebola (+11,29%), e algumas quedas isoladas, como cenoura (-9,72%).",
+   "Apesar da desaceleração mensal, o IPCA acumula alta de 4,10% em 2026 e 4,63% em 12 meses; o INPC, que mede inflação para famílias de menor renda, avançou 0,22% em outubro."
+  ],
+  "detalhes": [
+   "Dados divulgados pelo IBGE em 13/11/2026",
+   "IPCA é principal índice oficial de inflação no Brasil",
+   "Queda na energia elétrica residencial ocorreu com bandeira tarifária verde em outubro",
+   "Alta nos alimentos consumidos em casa foi puxada por alimentos básicos",
+   "INPC, que mede inflação para famílias de menor renda, teve alta de 0,22% em outubro",
+   "Apesar de desaceleração, inflação acumulada em 2026 permanece acima de 4%",
+   "Setores de transporte e habitação colaboraram para a desaceleração na inflação do mês"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Inflação medida pelo IPCA desacelera para 0,14%"
+   },
+   {
+    "quando": "Setembro de 2026",
+    "oque": "Energia elétrica residencial caiu com passagem para bandeira verde"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPCA",
+    "significado": "Índice que mede a inflação oficial no Brasil"
+   },
+   {
+    "termo": "INPC",
+    "significado": "Índice que mede inflação para famílias de menor renda"
+   },
+   {
+    "termo": "Bandeira tarifária",
+    "significado": "Sistema que ajusta o custo da energia elétrica mensalmente"
+   }
+  ],
+  "pergunta": "Você percebeu mudanças nos preços de energia ou transporte em sua região?",
+  "tamanhoTexto": 10234,
+  "numeros": [
+   {
+    "valor": "0,14%",
+    "rotulo": "Inflação mensal (IPCA) em outubro"
+   },
+   {
+    "valor": "4,10%",
+    "rotulo": "Inflação acumulada pelo IPCA em 2026"
+   },
+   {
+    "valor": "4,63%",
+    "rotulo": "Inflação acumulada nos últimos 12 meses"
+   },
+   {
+    "valor": "-0,59%",
+    "rotulo": "Queda em transportes em outubro"
+   },
+   {
+    "valor": "-0,51%",
+    "rotulo": "Queda em habitação em outubro"
+   },
+   {
+    "valor": "-9,21%",
+    "rotulo": "Redução nas passagens aéreas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,14%",
+  "porQueImporta": "A desaceleração da inflação em outubro impacta o custo de vida, destacando setores que pressionam ou aliviam o orçamento das famílias. O entendimento dessas variações é fundamental para quem investe ou opera no mercado, pois reflete consumo, política de preços e condições econômicas do país.",
+  "impactoMercado": "Setores como transporte e habitação influenciam na inflação e podem afetar decisões de política monetária e investimentos em renda variável e fixa. A alta dos alimentos impacta orçamento e pode gerar maior volatilidade em setores de consumo. Investidores acompanham esses dados para avaliar cenário econômico e tendências de juros.",
+  "entenda": "IPCA é o principal índice que mede a inflação oficial no Brasil, indicando variação média de preços para as famílias. A inflação impacta o poder de compra, custos e investimentos. Quedas em alguns setores podem equilibrar aumentos em outros, e o acumulado anual ajuda a entender a tendência de preços no país.",
+  "observar": "Nas próximas semanas, fiquem atentos à divulgação dos dados de inflação de novembro e ao comportamento dos principais setores, como alimentação e transporte, que influenciam o IPCA e o planejamento econômico.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "A notícia sobre inflação desacelerada é porta de entrada para entender como os índices oficiais impactam o orçamento e as decisões no mercado financeiro, mostrando a importância de acompanhar dados econômicos reais.",
+  "gancho": "*Inflação* desacelera no Brasil",
+  "ideias": [
+   "O que significa a desaceleração da inflação para seu bolso?",
+   "Entenda por que passagens aéreas ficaram até 9% mais baratas",
+   "Como alta e baixa dos preços impactam seu dia a dia e investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "seta",
+  "fonte": "Times Brasil; Estadão Economia",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:46:47-03:00",
+  "url": "https://timesbrasil.com.br/brasil/inflacao-desacelera-e-registra-queda-em-alguns-setores/",
+  "publicadoEm": "2026-11-13T22:30:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-05"
+ },
+ {
+  "titulo": "Dólar fecha estável a R$ 5,65 e sobe 2,63% na semana",
+  "resumo": "O dólar encerrou a sexta-feira (13) cotado a R$ 5,65, estável no dia, mas acumulou alta de 2,63% na semana. O Ibovespa avançou 0,66%, aos 172.457 pontos, impulsionado por varejo e petroleiras.",
+  "fatos": [
+   "Dólar fechou a R$ 5,65 em 13/11, com alta diária de 0,11%",
+   "Dólar acumulou alta de 2,63% na semana até 13/11",
+   "Ibovespa fechou a 172.457,77 pontos, alta de 0,66% no dia",
+   "Ibovespa subiu 2,35% na semana até 13/11",
+   "Senado aprovou pacote fiscal com impacto de até R$ 60 bilhões em 2027 em 12/11",
+   "Votação dos destaques do pacote fiscal marcada para 17/11",
+   "Índice de preços ao produtor dos EUA subiu 0,3% em outubro, abaixo da expectativa de 0,4%",
+   "Barril de petróleo Brent cotado a US$ 95,84, estabilidade diária de +0,02%",
+   "Barril de petróleo WTI cotado a US$ 88,56, queda diária de -0,20%",
+   "O volume financeiro do Ibovespa na sexta foi de R$ 16,75 bilhões"
+  ],
+  "explicacao": [
+   "Na sexta-feira (13), o dólar fechou praticamente estável, cotado a R$ 5,65, com leve alta diária de 0,11%, após oscilar entre R$ 5,632 e R$ 5,667. Na semana, acumulou valorização de 2,63%, refletindo incertezas internas e externas. O Ibovespa subiu 0,66%, chegando aos 172.457 pontos.",
+   "O câmbio reagiu à aprovação do pacote fiscal pelo Senado na quinta-feira (12), que inclui medidas estimadas para impactar as contas públicas em até R$ 60 bilhões em 2027. A votação dos destaques está marcada para terça-feira (17), antes do avanço do texto para a Câmara dos Deputados. No exterior, os dados de inflação ao produtor (PPI) dos EUA ficaram abaixo da expectativa, aliviando tensões sobre juros.",
+   "O resultado indica um mercado atento aos riscos fiscais domésticos e às condições internacionais, como oscilações do dólar global e preocupações geopolíticas relacionadas ao petróleo. O Ibovespa foi positivamente influenciado por ações de varejo e petroleiras, impulsionadas ainda pelo crescimento das vendas do comércio varejista em setembro.",
+   "Para a próxima semana, o foco estará na votação dos destaques do pacote fiscal no Congresso e nos indicadores econômicos domésticos, que podem influenciar o comportamento do dólar e da bolsa. Internamente, as decisões fiscais serão decisivas para a percepção de risco e para os preços dos ativos."
+  ],
+  "detalhes": [
+   "Pacote fiscal prevê medidas para conter gastos públicos, reduzindo limite de crescimento real dos gastos de 2,5% para 2%",
+   "Dólar oscilou entre R$ 5,632 e R$ 5,667 durante o pregão de sexta",
+   "O Ibovespa foi impulsionado principalmente por ações das áreas de varejo e petróleo",
+   "Dados recentes apontam crescimento positivo do comércio varejista brasileiro em setembro (0,2% frente a agosto)",
+   "Inflação ao produtor nos EUA abaixo da previsão, traz alívio sobre preocupações com aumento de juros",
+   "Nos EUA, índices Dow Jones, S&P 500 e Nasdaq fecharam mistos, com Nasdaq pressionado por problemas na Nvidia e Microsoft",
+   "Setor de petróleo se mantém volátil devido a riscos geopolíticos e aumento da oferta global depois da recuperação das exportações do Oriente Médio"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Agência Internacional de Energia",
+    "oque": "Indicou aumento do excedente global de petróleo no último trimestre de 2025"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11",
+    "oque": "Senado aprovou texto-base do pacote fiscal para 2027"
+   },
+   {
+    "quando": "13/11",
+    "oque": "Dólar fechou estável a R$ 5,65, Ibovespa subiu 0,66%"
+   },
+   {
+    "quando": "17/11",
+    "oque": "Prevista votação dos destaques do pacote fiscal na Câmara"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pacote Fiscal",
+    "significado": "Conjunto de políticas para controlar gastos públicos e metas fiscais"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que representa ações mais negociadas na B3"
+   },
+   {
+    "termo": "Índice de preços ao produtor",
+    "significado": "Medida da variação dos preços na saída da fábrica"
+   }
+  ],
+  "pergunta": "Como você acha que o pacote fiscal vai impactar o mercado em 2027?",
+  "tamanhoTexto": 7754,
+  "numeros": [
+   {
+    "valor": "5,65",
+    "rotulo": "Cotação do dólar em reais (fechamento 13/11)"
+   },
+   {
+    "valor": "2,63%",
+    "rotulo": "Alta acumulada do dólar na semana"
+   },
+   {
+    "valor": "172.457,77",
+    "rotulo": "Pontos do Ibovespa no fechamento de 13/11"
+   },
+   {
+    "valor": "0,66%",
+    "rotulo": "Alta do Ibovespa na sexta-feira"
+   },
+   {
+    "valor": "60 bilhões",
+    "rotulo": "Impacto estimado do pacote fiscal em reais para 2027"
+   },
+   {
+    "valor": "0,3%",
+    "rotulo": "Inflação ao produtor nos EUA em outubro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar",
+    "antes": "5,51 (aproximado no início da semana)",
+    "depois": "5,65 no fechamento de 13/11"
+   },
+   {
+    "item": "Ibovespa",
+    "antes": "168.520 pontos (aproximado início da semana)",
+    "depois": "172.457 pontos no fechamento de 13/11"
+   },
+   {
+    "item": "Petróleo Brent",
+    "antes": "US$ 97,73 no início da semana",
+    "depois": "US$ 95,84 no fechamento de 13/11"
+   }
+  ],
+  "destaque": "2,63% alta do",
+  "porQueImporta": "Essa alta do dólar sinaliza maior custo para importações e pressiona preços internos, afetando decisões de investidores ligados a câmbio e setores sensíveis. O pacote fiscal e os riscos internacionais moldam o cenário econômico e a percepção de risco no Brasil.",
+  "impactoMercado": "A valorização do dólar e o pacote fiscal refletem em ativos de renda variável, especialmente varejo e energia, enquanto o mercado aguarda desdobramentos fiscais e ajuste global nos preços do petróleo, influenciando bolsas, moedas e juros.",
+  "entenda": "O dólar representa a moeda americana usada no comércio global. O Ibovespa é o principal índice da bolsa brasileira, medindo o desempenho das maiores ações. Pacote fiscal é o conjunto de medidas para controlar gastos e ajustar a economia do governo.",
+  "observar": "Fique atento à votação dos destaques do pacote fiscal na Câmara em 17/11 e aos próximos resultados do comércio varejista, que influenciam câmbio e bolsa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia mostra como decisões políticas e fatores internacionais influenciam o dólar e o Ibovespa, ajudando a entender o mercado e a importância da formação em finanças para atuar com mais conhecimento.",
+  "gancho": "Dólar *estável* e *fiscal* em foco",
+  "ideias": [
+   "Entenda o impacto do pacote fiscal no dólar",
+   "Por que o Ibovespa subiu com o dólar em alta?",
+   "O que significa alta do dólar para o comércio varejista?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; PlanetaOsasco.com; Portal VV8",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:46:47-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana",
+  "publicadoEm": "2026-11-13T18:53:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-06"
+ },
+ {
   "tipo": "sinal",
   "slug": "bitcoin-above-on-november-14-2026",
   "titulo": "Mercado de previsões vê 97.2% de chance do Bitcoin acima de $66,000",
