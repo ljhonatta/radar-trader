@@ -1,5 +1,595 @@
 [
  {
+  "titulo": "Mercado prevê juros acima de 10% até 2030 nos mandatos de Lula",
+  "resumo": "Pesquisa do Banco Central com 100 bancos indica que a Selic não cai para dígitos únicos até 2030, mantendo juros em dois dígitos durante os mandatos de Lula.",
+  "fatos": [
+   "Pesquisa do BC consultou mais de 100 bancos na última semana.",
+   "Atualmente, a Selic está em 13,75% ao ano, o mesmo nível do início de 2023.",
+   "Até maio de 2026, mercado previa Selic em 9,75% ao ano para 2030; depois, passou para 10%.",
+   "Dívida pública brasileira está em 82,9% do PIB pelo BC e 95,2% do PIB pelo FMI.",
+   "Déficits nas contas públicas persistiram durante o terceiro mandato de Lula apesar de aumento de impostos.",
+   "Pacote fiscal recente foca principalmente em aumento de receita, sem ajustes significativos em despesas.",
+   "Economistas destacam necessidade de revisão de benefícios previdenciários e programas como MEI e Simples Nacional."
+  ],
+  "explicacao": [
+   "A pesquisa realizada pelo Banco Central com mais de 100 instituições financeiras mostrou que a taxa Selic permanecerá acima de 10% ao ano até pelo menos 2030. Isso representa manter juros em dois dígitos durante os terceiro e quarto mandatos do presidente Lula.",
+   "Essa perspectiva é influenciada pelos déficits sucessivos nas contas públicas, mesmo com a carga tributária recorde e aumentos de impostos. A falta de ajuste fiscal mais rigoroso tem levado à percepção de que a dívida pública continuará crescente.",
+   "A taxa Selic, atualmente em 13,75% ao ano, está no maior patamar real do mundo. Juros elevados pressionam negativamente a economia ao encarecer crédito e aumentar despesas do setor público, gerando um ciclo que dificulta o corte da taxa.",
+   "Para reverter o cenário, economistas apontam necessidade de corte estrutural de despesas, especialmente em gastos obrigatórios, e ajustes fiscais que deem credibilidade à trajetória da dívida, juntamente com mudanças em benefícios e regimes tributários especiais."
+  ],
+  "detalhes": [
+   "Expectativa atual indica juros de dois dígitos até o fim de 2030 durante mandatos de Lula.",
+   "Taxa básica de juros não caiu para um dígito até 2026, embora se projetasse isso em 2023.",
+   "Dívida pública alta limita espaço para queda da Selic e contribui para prêmios fiscais elevados.",
+   "Equipe econômica flexibilizou metas fiscais, usando receitas extraordinárias e despesas fora do teto.",
+   "Juros reais no Brasil estão em 9,49% ao ano, o maior patamar mundial.",
+   "Analistas apontam que o pacote fiscal não muda a trajetória fiscal nem reduz risco da dívida.",
+   "A inflação, crescimento de despesas obrigatórias e alta dívida formam um ciclo vicioso elevando juros."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Jeferson Bittencourt, head de macroeconomia do ASA",
+    "oque": "Não há confiança suficiente no ajuste fiscal para estabilizar a dívida nos mandatos de Lula."
+   },
+   {
+    "quem": "Solange Srour, diretora de macroeconomia do UBS GWM Brasil",
+    "oque": "Juros altos refletem dúvidas sobre sustentabilidade da dívida e crescimento estrutural das despesas."
+   },
+   {
+    "quem": "Jeferson Bittencourt",
+    "oque": "O pacote fiscal foca mais no aumento da receita e pouco no corte de despesas, mantendo a estratégia atual."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Início de 2023",
+    "oque": "Mercado previa queda da Selic para dígito único já em 2024."
+   },
+   {
+    "quando": "Maio de 2026",
+    "oque": "Previsão de Selic para 2030 caiu para 9,75% ao ano."
+   },
+   {
+    "quando": "Após maio de 2026",
+    "oque": "Previsão da Selic para 2030 foi revisada para 10% ao ano."
+   },
+   {
+    "quando": "14 de novembro de 2026",
+    "oque": "Pesquisa do BC revelou projeções atuais do mercado para a Selic até 2030."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros usada pelo BC para controlar inflação."
+   },
+   {
+    "termo": "Dívida Pública",
+    "significado": "Total de empréstimos contraídos pelo governo."
+   },
+   {
+    "termo": "Déficit Público",
+    "significado": "Quando despesas do governo superam suas receitas."
+   }
+  ],
+  "pergunta": "Você acha que o Brasil conseguirá reduzir os juros abaixo de 10% até 2030?",
+  "tamanhoTexto": 9738,
+  "numeros": [
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic atual (novembro 2026)"
+   },
+   {
+    "valor": "9,49%",
+    "rotulo": "Juros reais atuais no Brasil"
+   },
+   {
+    "valor": "82,9%",
+    "rotulo": "Dívida pública em % do PIB segundo BC"
+   },
+   {
+    "valor": "95,2%",
+    "rotulo": "Dívida pública em % do PIB segundo FMI"
+   },
+   {
+    "valor": "100",
+    "rotulo": "Instituições financeiras consultadas pelo BC"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Projeção mínima da Selic para 2030"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Projeção Selic para 2030",
+    "antes": "9,75% ao ano (até maio de 2026)",
+    "depois": "10% ao ano (a partir de maio de 2026)"
+   }
+  ],
+  "destaque": "Juros acima de",
+  "porQueImporta": "Juros altos por tanto tempo indicam maior custo para crédito e financiamento, impactando investimentos e economia. A alta persistente da Selic também reflete desafios fiscais e limita espaço para redução de custos financeiros, influenciando operações na Bolsa, renda fixa e câmbio.",
+  "impactoMercado": "A manutenção da Selic em dois dígitos pode frear o consumo e o crescimento econômico, aumentar despesas públicas e dificultar redução da dívida. Setores dependentes de crédito ficam mais pressionados, e investidores precisam acompanhar ajustes fiscais e políticas para entender tendências de juros e inflação.",
+  "entenda": "A Selic é a taxa básica de juros do Brasil, definida pelo Banco Central para controlar a inflação. Juros altos tornam empréstimos mais caros, impactando consumo e investimentos. A projeção de juros elevados significa que o mercado não espera condições econômicas favoráveis para redução da taxa no curto e médio prazo.",
+  "observar": "Fique atento a futuras propostas de reforma fiscal e anúncios do BC sobre a política monetária, que podem alterar as projeções para a Selic e o cenário da dívida pública.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicar as projeções de juros altos ajuda quem quer entender a influência das contas públicas na taxa Selic e seus efeitos para investimentos e crédito, ligando à importância de conhecer fundamentos econômicos para operar com mais segurança.",
+  "gancho": "*Juros*, *Selic* e *dívida* 2030",
+  "ideias": [
+   "Por que a Selic deve ficar acima de 10% até 2030?",
+   "Efeito dos déficits públicos nos juros altos no Brasil",
+   "Como juros elevados impactam seu bolso e seus investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "G1 Economia",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T22:18:27-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
+  "publicadoEm": "2026-11-14T00:00:00-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-10"
+ },
+ {
+  "titulo": "Binance prevê retomar saques totais até próxima semana",
+  "resumo": "Binance anuncia reabertura completa dos saques até o fim da próxima semana, após roubo de US$ 6,3 bilhões ligado à Coreia do Norte.",
+  "fatos": [
+   "Roubo de US$ 6,3 bilhões em criptomoedas ocorreu em 29 de outubro de 2026.",
+   "Binance reabriu saques para 87 redes nesta semana.",
+   "Meta de reabrir todos os saques é até o final da próxima semana.",
+   "Binance recuperou 95% dos tokens roubados.",
+   "FBI e Binance atribuem roubo a grupo norte-coreano 'TraderTraitor'.",
+   "Violação de segurança iniciou em junho de 2026.",
+   "Kaiser Ng, diretor financeiro, saiu pouco após o roubo.",
+   "Justin Yek assumiu como novo diretor financeiro da Binance."
+  ],
+  "explicacao": [
+   "A Binance, maior corretora de criptomoedas, anunciou em 14 de novembro de 2026 que pretende reabrir os saques para todas as redes e ativos até o final da próxima semana, após uma fase inicial que já liberou 87 redes.",
+   "O motivo dessa retomada gradual é a violação severa ocorrida em outubro, quando hackers associados à Coreia do Norte roubaram US$ 6,3 bilhões em criptomoedas da plataforma, considerado o maior roubo desse tipo na história.",
+   "A empresa conseguiu recuperar cerca de 95% do valor roubado e está avançando na normalização dos serviços, o que ajuda a restabelecer a confiança dos usuários e a continuidade das operações na plataforma.",
+   "Após o incidente, o diretor financeiro Kaiser Ng deixou a Binance e foi substituído por Justin Yek, que destacou-se como vice-presidente financeiro na Airwallex, reforçando o compromisso da empresa em superar a crise."
+  ],
+  "detalhes": [
+   "O roubo foi vinculado pela investigação à Coreia do Norte, que negou envolvimento.",
+   "A operação de hacking teve várias fases, iniciando meses antes do roubo final.",
+   "A retomada dos saques ocorre em etapas para garantir segurança e estabilidade.",
+   "A Binance se comprometeu a reembolsar integralmente os clientes afetados.",
+   "O novo CFO Justin Yek vem da Airwallex, trazendo experiência financeira.",
+   "O grupo 'TraderTraitor' é o principal suspeito por investigadores de blockchain.",
+   "A falha expôs vulnerabilidades nos ativos digitais e alertou o mercado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Binance em postagem no X",
+    "oque": "Nosso objetivo é reabrir todos os saques restantes até o final da próxima semana."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "junho de 2026",
+    "oque": "Início das brechas de segurança na Binance."
+   },
+   {
+    "quando": "29 de outubro de 2026",
+    "oque": "Roubo de US$ 6,3 bilhões em criptomoedas da Binance."
+   },
+   {
+    "quando": "novembro de 2026",
+    "oque": "Binance começa a reabrir saques em fases, recuperando 95% dos valores roubados."
+   },
+   {
+    "quando": "14 de novembro de 2026",
+    "oque": "Anúncio da previsão para retomada total dos saques na próxima semana."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Saques",
+    "significado": "Retirada de dinheiro ou ativos digitais da corretora."
+   },
+   {
+    "termo": "Tokens",
+    "significado": "Unidades digitais que representam criptomoedas ou ativos."
+   },
+   {
+    "termo": "Hackers",
+    "significado": "Pessoa ou grupo que invade sistemas para roubar ou danificar."
+   }
+  ],
+  "pergunta": "Como você vê a segurança das suas criptomoedas após ataques como esse?",
+  "tamanhoTexto": 3081,
+  "numeros": [
+   {
+    "valor": "6,3 bilhões",
+    "rotulo": "US$ roubados em criptomoedas"
+   },
+   {
+    "valor": "87",
+    "rotulo": "redes com saques reabertos nesta semana"
+   },
+   {
+    "valor": "95%",
+    "rotulo": "percentual de tokens roubados recuperados"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 6,3 bilhões",
+  "porQueImporta": "Essa notícia é crucial para investidores e operadores porque mostra a capacidade da maior corretora de criptomoedas do mundo de recuperar e normalizar operações após um grande ataque, afetando liquidez, confiança e segurança no mercado cripto.",
+  "impactoMercado": "A retomada dos saques pode reduzir a volatilidade nos ativos digitais e amenizar temores sobre segurança em corretoras, influenciando negociações de criptomoedas e decisões sobre alocação em criptoativos.",
+  "entenda": "O saque em corretoras é a retirada de recursos pelos usuários. Quando uma corretora sofre ataques, os saques podem ser bloqueados para proteger fundos, o que impacta o acesso ao dinheiro investido.",
+  "observar": "Acompanhe se Binance cumpre a previsão de liberar todos os saques na próxima semana e eventuais atualizações sobre o processo de recuperação dos fundos roubados.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia oferece um estudo de caso real sobre segurança, riscos e recuperação no mercado de criptomoedas, incentivando o aprendizado e a prática segura que a academia Trader School Wendell Guimarães promove.",
+  "gancho": "*Binance* e o maior roubo cripto",
+  "ideias": [
+   "O maior roubo de cripto da história explicado",
+   "Como a Binance está recuperando fundos roubados",
+   "Segurança em corretoras: lições do ataque à Binance"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "cadeado",
+  "fonte": "Valor Econômico",
+  "impacto": "alto",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T22:18:27-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/14/binance-prev-retomada-total-dos-saques-at-a-prxima-semana.ghtml",
+  "publicadoEm": "2026-11-14T14:01:30-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-11"
+ },
+ {
+  "titulo": "IA será motor principal de competitividade para 88% das empresas até 2030",
+  "resumo": "Pesquisa da IDC para Microsoft aponta que 88% das empresas brasileiras esperam IA como chave competitiva até 2030. Hoje, 23% já usam IA; em 2 anos, a meta é 51%.",
+  "fatos": [
+   "88% das empresas esperam IA como principal motor de competitividade até 2030.",
+   "Pesquisa realizada pela IDC e Microsoft com 73 executivos de empresas com mais de mil funcionários.",
+   "Atualmente, 23% das empresas já utilizam IA em produção; previsão é 51% nos próximos 24 meses.",
+   "Ganhos médios relatados de 24,5% associados a iniciativas de IA.",
+   "58% dos executivos consideram IA generativa e agentes IA as tecnologias mais estratégicas para os próximos dois anos.",
+   "28% do orçamento atual das empresas é destinado a iniciativas de IA; deve subir a 45% até 2028.",
+   "56% das empresas já usam agentes de IA, especialmente em atendimento, marketing e cibersegurança, com adoção prevista de 69% até 2028.",
+   "96% das empresas aumentaram investimentos em segurança para IA.",
+   "30% dos executivos apontam escassez de talentos como principal barreira para adoção.",
+   "86% investem em treinamento de profissionais de TI; 63% criaram novas funções dedicadas à IA."
+  ],
+  "explicacao": [
+   "Uma pesquisa conduzida pela IDC e encomendada pela Microsoft ouviu 73 executivos de empresas brasileiras com mais de mil funcionários, mostrando que 88% esperam que a IA seja o principal motor de competitividade até 2030.",
+   "O crescimento da IA nas empresas ocorre pela rápida evolução da tecnologia, que sai da fase experimental e avança para implementação em larga escala, com 23% já usando IA e previsão de 51% em dois anos.",
+   "Além de melhorar competitividade, as iniciativas de IA trazem ganhos médios de 24,5% para resultados financeiros e operacionais, e maior satisfação dos clientes, eficiência e redução de riscos.",
+   "Para continuar essa expansão, empresas intensificam investimentos em segurança e qualificação, com 86% treinando profissionais de TI e criando funções dedicadas à IA, preparando-se para uma adoção mais ampla."
+  ],
+  "detalhes": [
+   "Pesquisa acontece em março e abril de 2026, com executivos de empresas brasileiras.",
+   "Abrange diferentes setores econômicos com empresas com mais de mil funcionários.",
+   "Ganhos de 28,2% em satisfação do cliente e 27,7% em eficiência de processos com IA.",
+   "Agentes de IA são usados em experimentação ou produção por 56% das empresas, e 69% até 2028.",
+   "Investimentos atuais em IA representam 28% do orçamento, e devem subir para 45% até 2028.",
+   "Desafios para adoção: escassez de talentos (30%) e necessidade de segurança reforçada (96% aumentaram investimento).",
+   "Transformação inclui capacitação e criação de funções internas dedicadas à IA em 63% das empresas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Eduardo Campos, vice-presidente da área de Soluções Tecnológicas da Microsoft",
+    "oque": "Mercado brasileiro evolui rápido da experimentação para implementação em escala da IA."
+   },
+   {
+    "quem": "Luciano Ramos, Country Manager da IDC Brasil",
+    "oque": "Mercado brasileiro avança além da fase inicial, focando em escalar IA com impacto real."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "março e abril de 2026",
+    "oque": "Pesquisa realizada com 73 executivos de grandes empresas brasileiras."
+   },
+   {
+    "quando": "próximos 24 meses (até 2028)",
+    "oque": "Número de empresas com IA em produção deve dobrar de 23% para 51%."
+   },
+   {
+    "quando": "até 2028",
+    "oque": "Investimentos em IA podem chegar a 45% do orçamento e agentes de IA a 69% de adoção."
+   },
+   {
+    "quando": "até 2030",
+    "oque": "88% das empresas esperam que IA seja principal motor de competitividade."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IA generativa",
+    "significado": "IA que cria conteúdo novo, como texto, imagens ou código."
+   },
+   {
+    "termo": "Agentes de IA",
+    "significado": "Sistemas que automatizam tarefas específicas usando IA."
+   }
+  ],
+  "pergunta": "Você acha que a IA será decisiva para a competitividade das empresas brasileiras?",
+  "tamanhoTexto": 3471,
+  "numeros": [
+   {
+    "valor": "88%",
+    "rotulo": "empresas que esperam IA como motor principal até 2030"
+   },
+   {
+    "valor": "23%",
+    "rotulo": "empresas que já usam IA em produção hoje"
+   },
+   {
+    "valor": "51%",
+    "rotulo": "empresas previstas para usar IA em produção em 24 meses"
+   },
+   {
+    "valor": "24,5%",
+    "rotulo": "ganhos médios associados a iniciativas de IA"
+   },
+   {
+    "valor": "28,2%",
+    "rotulo": "impacto médio na satisfação do cliente com IA"
+   },
+   {
+    "valor": "28%",
+    "rotulo": "orçamento dedicado a investimentos em IA atualmente"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "uso de IA em produção",
+    "antes": "23%",
+    "depois": "51%"
+   },
+   {
+    "item": "orçamento para IA",
+    "antes": "28%",
+    "depois": "45%"
+   },
+   {
+    "item": "adoção de agentes de IA",
+    "antes": "56%",
+    "depois": "69%"
+   }
+  ],
+  "destaque": "88% expectativa até",
+  "porQueImporta": "A pesquisa mostra que a IA está deixando de ser apenas uma tecnologia experimental para se tornar um componente estratégico para a competitividade das empresas brasileiras, gerando ganhos reais e influenciando decisões de investimento. Para investidores e operadores, entender essa tendência ajuda a identificar setores e empresas comprometidos com inovação.",
+  "impactoMercado": "Com a adoção crescente de IA, empresas de tecnologia, serviços e até setores industriais poderão apresentar maior eficiência e inovação, impactando positivamente setores ligados a software, cibersegurança e automação. O crescimento de investimentos em IA pode atrair interesse em ativos dessas áreas.",
+  "entenda": "Inteligência Artificial (IA) é uma tecnologia que permite computadores aprenderem, tomarem decisões e automatizarem tarefas. No mercado, IA pode aumentar a eficiência das empresas, melhorar atendimento e reduzir riscos, tornando-se uma vantagem competitiva para quem investe em inovação.",
+  "observar": "Fique de olho no avanço dos investimentos em IA até 2028 e na adoção tecnológica, além do aumento nas iniciativas de segurança e formação de profissionais, que indicam a maturidade da tecnologia nas empresas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicamos como a IA vira um motor estratégico nas empresas, mostrando a importância de entender essa tecnologia para acompanhar a inovação e o mercado financeiro.",
+  "gancho": "*IA* e Competitividade Empresarial",
+  "ideias": [
+   "Como a IA impulsiona a competitividade até 2030",
+   "Investimentos em IA: por que crescerão até 45% em 2028",
+   "Barreiras e soluções para adoção da IA no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T22:18:27-03:00",
+  "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-sera-principal-motor-de-competitividade-para-88-das-empresas-ate-2030/",
+  "publicadoEm": "2026-11-14T20:36:36-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-12"
+ },
+ {
+  "titulo": "Sem sinal fiscal, ações cíclicas e Small Caps recuam em 2026 no Brasil",
+  "resumo": "Small Caps, Imobiliário e Consumo caem até 14% em 2026, enquanto Ibovespa sobe 7%. Sem sinais firmes de ajuste fiscal, Selic alta limita crescimento e pressiona ações cíclicas.",
+  "fatos": [
+   "Small Caps, Imobiliário e Consumo caem entre 12% e 14% em 2026.",
+   "Ibovespa sobe quase 7% no mesmo período.",
+   "Selic está em 13,75% ao ano, sem previsão de cortes futuros.",
+   "Copom pausou flexibilização monetária na última reunião.",
+   "Inadimplência está em níveis recordes no país.",
+   "Banco Central sinaliza manutenção da taxa até haver sinal fiscal.",
+   "Setores de consumo e ações cíclicas sofrem com alta dos juros.",
+   "Petrobras sobe mais de 50% em 2026, ajudando Ibovespa.",
+   "Investidores estrangeiros reverteram entrada de capital pós-eleição.",
+   "Analistas vinculam melhora do mercado às decisões sobre política fiscal."
+  ],
+  "explicacao": [
+   "Em 2026, os índices Small Caps (SMLL), Imobiliário (IMOB) e Consumo (ICON) acumulam quedas entre 12% e 14%, significativamente maiores que a alta de quase 7% do Ibovespa no mesmo período. Isso reflete o pessimismo dos investidores quanto à economia brasileira.",
+   "O pessimismo é causado pela falta de um sinal fiscal crível do governo Lula, que adotou um ciclo de juros altos, com a Selic estacionada em 13,75% ao ano após o Copom pausar cortes. A alta da taxa limita o crescimento, o consumo e os lucros das empresas, pesando sobre as ações cíclicas.",
+   "Sem um ajuste fiscal que demonstre equilíbrio e corte de gastos, o mercado projeta que os juros permanecerão altos, gerando inadimplência recorde e desaceleração do crédito. Isso afeta setores sensíveis aos juros, como consumo e imobiliário, deixando investidores cautelosos.",
+   "Gestores dizem que a Bolsa só deve melhorar com medidas fiscais claras e positivas. Caso contrário, a tendência é de aumento da taxa Selic futura e mais desgaste para ações cíclicas, mesmo que a Selic caia, pois a confiança permaneceria baixa."
+  ],
+  "detalhes": [
+   "Os índices SMLL, IMOB e ICON representam setores mais sensíveis à economia e a juros.",
+   "O governo Lula está no quarto mandato e enfrenta pressão para ajustar contas públicas.",
+   "A Selic, taxa básica de juros, está historicamente alta para conter inflação.",
+   "Setores cíclicos dependem da confiança e de juros menores para crescimento.",
+   "A inadimplência alta restringe condições de crédito para empresas e consumidores.",
+   "Petrobras se destaca na Bolsa devido ao conflito no Oriente Médio e preços do Brent.",
+   "Sem um plano fiscal robusto, juros futuros podem subir ainda mais na B3."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Eduardo Rahal, analista-chefe da Levante Inside Corp",
+    "oque": "Juros altos sufocam empresas; é preciso sinal fiscal para flexibilizar a Selic."
+   },
+   {
+    "quem": "Gabriel Mota, analista da Manchester Investimentos",
+    "oque": "Sem expectativa de corte de juros, ações cíclicas e de consumo perdem tração."
+   },
+   {
+    "quem": "Isabel Lemos, gestora da Fator Administração de Recursos",
+    "oque": "Sem ajuste fiscal, risco de desaceleração econômica e juros futuros mais altos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2026",
+    "oque": "Pequenas caps, imobiliário e consumo caem, Ibovespa sobe."
+   },
+   {
+    "quando": "Reunião recente do Copom",
+    "oque": "Pausa na flexibilização monetária; Selic mantida em 13,75%."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Índices Small Caps",
+    "significado": "Ações de empresas de menor valor de mercado na Bolsa."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira, usada para controlar inflação."
+   },
+   {
+    "termo": "Ações cíclicas",
+    "significado": "Papéis sensíveis ao ciclo econômico, como consumo e imobiliário."
+   }
+  ],
+  "pergunta": "Como você enxerga o impacto dos juros altos nas suas operações ou investimentos?",
+  "tamanhoTexto": 6672,
+  "numeros": [
+   {
+    "valor": "12% a 14%",
+    "rotulo": "queda acumulada dos índices Small Caps, Imobiliário e Consumo em 2026"
+   },
+   {
+    "valor": "7%",
+    "rotulo": "alta acumulada do Ibovespa em 2026"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic anual mantida pelo Banco Central"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "alta das ações da Petrobras em 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "12% a 14%",
+  "porQueImporta": "A alta da Selic e a ausência de sinal fiscal forte limitam o crescimento econômico e geram incertezas que desestimulam investimentos em ações cíclicas, setores importantes para quem opera na bolsa. Entender essa dinâmica ajuda investidores a interpretar movimentos de mercado e risco.",
+  "impactoMercado": "Setores sensíveis a juros, como consumo e imobiliário, podem continuar pressionados se a Selic permanecer alta. A falta de confiança fiscal dificulta cortes nos juros e fluxo comprador, enquanto petróleo e ações atreladas a exportação ganham espaço no Ibovespa.",
+  "entenda": "A taxa Selic é o principal instrumento para controlar a inflação, afetando o custo do crédito e o consumo. Juros altos encarecem empréstimos e limitam o crescimento das empresas. Ajuste fiscal é o equilíbrio entre receita e gastos públicos, essencial para gerar confiança e permitir queda dos juros.",
+  "observar": "Acompanhe próximas decisões do Copom e sinais do governo sobre ajuste fiscal nas contas públicas. A postura da equipe econômica, especialmente no Ministério da Fazenda, será crucial para definir rumo da Selic e do mercado acionário.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia explica de forma simples por que ações de setores cíclicos sofrem com a Selic alta e incertezas fiscais, um tema essencial para quem quer entender o mercado e se preparar para operar ou investir melhor.",
+  "gancho": "*Selic* e *ações* em baixa",
+  "ideias": [
+   "Por que ações cíclicas caem com juros altos?",
+   "O que falta para a Selic cair no Brasil?",
+   "Entenda o papel do ajuste fiscal no mercado de ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-14T22:18:27-03:00",
+  "url": "https://www.moneytimes.com.br/sem-sinal-fiscal-crivel-pessimismo-com-selic-e-pib-deve-seguir-punindo-acoes-ciclicas-pads/",
+  "publicadoEm": "2026-11-14T09:23:00-03:00",
+  "data": "2026-11-14",
+  "id": "2026-11-14-13"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-before-2027",
+  "titulo": "Mercado de previsões vê 76.5% de chance do Bitcoin estar abaixo de 60,000",
+  "resumo": "Apostadores esperam que o Bitcoin não alcance 60,000 até 2027, sugerindo uma visão pessimista.",
+  "probs": [
+   {
+    "opcao": "↓ 60,000",
+    "prob": 76.5
+   },
+   {
+    "opcao": "↓ 55,000",
+    "prob": 45.5
+   },
+   {
+    "opcao": "↓ 50,000",
+    "prob": 22.9
+   },
+   {
+    "opcao": "↓ 45,000",
+    "prob": 12.7
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 1,6 mi",
+  "fatos": [
+   "↓ 60,000: 76,5%",
+   "↓ 55,000: 45,5%",
+   "↓ 50,000: 22,9%",
+   "↓ 45,000: 12,7%"
+  ],
+  "numeros": [
+   {
+    "valor": "76,5%",
+    "rotulo": "↓ 60,000"
+   },
+   {
+    "valor": "45,5%",
+    "rotulo": "↓ 55,000"
+   },
+   {
+    "valor": "22,9%",
+    "rotulo": "↓ 50,000"
+   },
+   {
+    "valor": "12,7%",
+    "rotulo": "↓ 45,000"
+   }
+  ],
+  "destaque": "76,5%",
+  "gancho": "*Cenário desafiador* para Bitcoin",
+  "entenda": "A perspectiva de preço do Bitcoin pode ser moldada por tendências de mercado, regulação e sentimento dos investidores.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+  "publicadoEm": "2026-11-14T22:18:27-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-14T22:18:27-03:00",
+  "data": "2026-11-14",
+  "status": "nova",
+  "id": "2026-11-14-p1"
+ },
+ {
   "titulo": "Falha nos EUA cancela 16 mil voos e causa atrasos graves no sistema aéreo",
   "resumo": "Sistema aéreo dos EUA enfrentou a maior paralisação desde 11 de setembro, com 16 mil voos cancelados. A falha técnica gerou cancelamentos e atrasos, afetando as principais companhias e causando impacto financeiro e operacional.",
   "fatos": [

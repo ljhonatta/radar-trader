@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-14T17:05:20-03:00",
-  "novas": 4,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-11-14T22:18:27-03:00",
+  "novas": 5,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 nova(s) e 2 atualizada(s): apagão aéreo impacta voos e mercado; Escala 6×1 muda em dezembro; Ormuz e o preço da gasolina.",
+  "mensagem": "5 nova(s): Juros, Selic e dívida 2030; Binance e o maior roubo cripto; IA e Competitividade Empresarial.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T22:18:27-03:00",
    "2026-11-14T17:05:20-03:00",
    "2026-11-14T13:07:42-03:00",
    "2026-11-13T22:46:47-03:00",
@@ -18,12 +19,11 @@
    "2026-11-12T14:45:15-03:00",
    "2026-11-11T23:30:39-03:00",
    "2026-11-11T19:16:47-03:00",
-   "2026-11-11T14:28:12-03:00",
-   "2026-11-10T22:29:05-03:00"
+   "2026-11-11T14:28:12-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 7
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 65,8 mil",
-    "var": "-4,59%"
+    "v": "US$ 62,8 mil",
+    "var": "-7,93%"
    },
    {
     "k": "SPX",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 17h",
+  "hora": "sáb 22h",
   "data": "2026-11-14",
-  "atualizadoEm": "2026-11-14T17:05:20-03:00",
+  "atualizadoEm": "2026-11-14T22:18:27-03:00",
   "ibov": "172.458",
   "ibovVar": "+0,00%",
   "dolar": "R$ 5,67",
   "dolarVar": "+0,43%",
-  "btc": "US$ 65,8 mil"
+  "btc": "US$ 62,8 mil"
  }
 }
