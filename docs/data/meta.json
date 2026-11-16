@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-15T22:23:06-03:00",
-  "novas": 4,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-16T08:32:44-03:00",
+  "novas": 6,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "4 nova(s) e 1 atualizada(s): minerais e investimentos em alta; Ajuste Fiscal R$ 353 bilhões; Master e as liquidações no BC.",
+  "mensagem": "6 nova(s) e 2 atualizada(s): Suzano amplia inovação com apoio do BNDES; Inflação e IGP-10 em novembro; Shakira em Salvador 2027.",
   "falhas": [
    "Sem cotação confiável: Euro"
   ],
-  "manual": false,
+  "manual": true,
   "historico": [
+   "2026-11-16T08:32:44-03:00",
    "2026-11-15T22:23:06-03:00",
    "2026-11-15T17:35:07-03:00",
    "2026-11-15T13:37:20-03:00",
@@ -20,12 +21,11 @@
    "2026-11-13T18:38:12-03:00",
    "2026-11-13T14:23:22-03:00",
    "2026-11-12T23:07:59-03:00",
-   "2026-11-12T18:55:11-03:00",
-   "2026-11-12T14:45:15-03:00"
+   "2026-11-12T18:55:11-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 5
+  "textosCompletos": 10
  },
  "placar": {
   "itens": [
@@ -38,20 +38,20 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,67",
-    "var": "+0,05%"
+    "v": "R$ 5,66",
+    "var": "-0,17%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 64,8 mil",
-    "var": "+3,12%"
+    "v": "US$ 64,6 mil",
+    "var": "-1,20%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.562",
-    "var": "+2,51%"
+    "var": "-0,40%"
    },
    {
     "k": "NDX",
@@ -62,14 +62,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 95,34",
-    "var": "-0,52%"
+    "v": "US$ 95,17",
+    "var": "-0,70%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.877,10",
-    "var": "-0,24%"
+    "v": "US$ 3.878,10",
+    "var": "-0,21%"
    },
    {
     "k": "SELIC",
@@ -84,14 +84,14 @@
     "var": ""
    }
   ],
-  "obs": "Último fechamento",
-  "hora": "dom 22h",
-  "data": "2026-11-15",
-  "atualizadoEm": "2026-11-15T22:23:06-03:00",
+  "obs": "Fechamento",
+  "hora": "seg 8h",
+  "data": "2026-11-16",
+  "atualizadoEm": "2026-11-16T08:32:44-03:00",
   "ibov": "172.458",
   "ibovVar": "+0,00%",
-  "dolar": "R$ 5,67",
-  "dolarVar": "+0,05%",
-  "btc": "US$ 64,8 mil"
+  "dolar": "R$ 5,66",
+  "dolarVar": "-0,17%",
+  "btc": "US$ 64,6 mil"
  }
 }
