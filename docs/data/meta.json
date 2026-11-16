@@ -1,13 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-15T17:35:07-03:00",
-  "novas": 10,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-11-15T22:23:06-03:00",
+  "novas": 4,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "10 nova(s) e 2 atualizada(s): Inflação nos EUA e Fed alertam; Ajuste Fiscal: Entenda Impactos; Selic e Riscos fiscais 2024.",
-  "falhas": [],
+  "mensagem": "4 nova(s) e 1 atualizada(s): minerais e investimentos em alta; Ajuste Fiscal R$ 353 bilhões; Master e as liquidações no BC.",
+  "falhas": [
+   "Sem cotação confiável: Euro"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-15T22:23:06-03:00",
    "2026-11-15T17:35:07-03:00",
    "2026-11-15T13:37:20-03:00",
    "2026-11-14T22:18:27-03:00",
@@ -18,12 +21,11 @@
    "2026-11-13T14:23:22-03:00",
    "2026-11-12T23:07:59-03:00",
    "2026-11-12T18:55:11-03:00",
-   "2026-11-12T14:45:15-03:00",
-   "2026-11-11T23:30:39-03:00"
+   "2026-11-12T14:45:15-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 10
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
@@ -37,25 +39,19 @@
     "k": "USD",
     "nome": "Dólar comercial",
     "v": "R$ 5,67",
-    "var": "+0,43%"
-   },
-   {
-    "k": "EUR",
-    "nome": "Euro",
-    "v": "R$ 6,25",
-    "var": "+0,19%"
+    "var": "+0,05%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 65,0 mil",
-    "var": "-0,62%"
+    "v": "US$ 64,8 mil",
+    "var": "+3,12%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "7.562",
-    "var": "-0,40%"
+    "var": "+2,51%"
    },
    {
     "k": "NDX",
@@ -66,14 +62,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 96,08",
-    "var": "+0,25%"
+    "v": "US$ 95,34",
+    "var": "-0,52%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.887,60",
-    "var": "+0,03%"
+    "v": "US$ 3.877,10",
+    "var": "-0,24%"
    },
    {
     "k": "SELIC",
@@ -89,13 +85,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 17h",
+  "hora": "dom 22h",
   "data": "2026-11-15",
-  "atualizadoEm": "2026-11-15T17:35:07-03:00",
+  "atualizadoEm": "2026-11-15T22:23:06-03:00",
   "ibov": "172.458",
   "ibovVar": "+0,00%",
   "dolar": "R$ 5,67",
-  "dolarVar": "+0,43%",
-  "btc": "US$ 65,0 mil"
+  "dolarVar": "+0,05%",
+  "btc": "US$ 64,8 mil"
  }
 }
