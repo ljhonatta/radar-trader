@@ -1,5 +1,381 @@
 [
  {
+  "titulo": "Dólar atinge R$ 5,79 com incertezas fiscais e nervosismo externo",
+  "resumo": "Na segunda (16), dólar subiu até R$ 5,7939, maior desde abril de 2025, por dúvidas no ajuste fiscal e cenário global.",
+  "fatos": [
+   "Dólar chegou a R$ 5,7939 em 16/11/2026, maior nível desde 17/4/2025.",
+   "Ibovespa caiu 2,23%, fechando aos 168.614 pontos.",
+   "Pacote fiscal prevê cortes de até R$ 60 bilhões para o Orçamento 2027.",
+   "Senado aprovou o texto-base do pacote fiscal, mas quatro destaques ainda serão votados.",
+   "Pacote inclui limites rígidos ao crescimento dos gastos e redução de até 20% em benefícios fiscais.",
+   "IBC-Br, prévia do PIB, recuou 0,9% no 3º trimestre de 2026.",
+   "Ações da Nvidia caíram 15% após escândalo sobre ex-CEO e suspeita de espionagem.",
+   "Preço do barril de petróleo Brent caiu 1,43% a US$ 94,47 em 16/11/2026.",
+   "Investidores estrangeiros retiraram R$ 5,4 bilhões líquidos da bolsa em novembro até dia 11.",
+   "Índice DXY do dólar ao redor de 103 pontos, maior desde fevereiro de 2025."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 16 de novembro de 2026, o dólar chegou a R$ 5,7939, superando os fechamentos desde abril de 2025. O Ibovespa caiu 2,23% no mesmo dia, refletindo a cautela dos investidores.",
+   "O principal motivo foi a apreensão com o pacote fiscal enviado pelo governo, que prevê cortes de gastos de até R$ 60 bilhões em 2027, mas ainda enfrenta ajustes no Senado e Câmara, gerando dúvidas sobre sua efetividade.",
+   "Esse contexto cria incerteza sobre a trajetória da dívida pública e dos juros, pressionando a moeda americana a subir no Brasil. Além disso, o dólar também se fortalece globalmente, com altas nos juros americanos e temores sobre a economia.",
+   "Para avançar, o pacote fiscal precisa ser aprovado com menos concessões para garantir controle das contas públicas. Enquanto isso, investidores mantêm cautela, monitorando dados econômicos internos e acontecimentos externos, como balanços da Nvidia e preços do petróleo."
+  ],
+  "detalhes": [
+   "A alta do dólar é influenciada por dúvidas sobre o ajuste fiscal e pelo fortalecimento global da moeda americana.",
+   "O pacote fiscal do governo tenta cortar gastos para equilibrar a dívida pública em 2027.",
+   "Comando do Senado ainda avalia destaques que podem modificar as medidas antes de enviar à Câmara.",
+   "Indicador IBC-Br mostrou retração econômica, puxada pela agropecuária, indústria e serviços.",
+   "A saída de Jensen Huang da Nvidia, acusado de relacionamento com suspeita de espionagem chinesa, abalou a bolsa americana.",
+   "Queda no preço do petróleo reflete excesso de oferta global, apesar da guerra no Oriente Médio.",
+   "Rumores de aumento do IOF sobre investimentos isentos de imposto geram cautela no mercado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Vitor Kayo, economista sênior da Nomad",
+    "oque": "A incerteza sobre o que será aprovado no pacote fiscal leva investidores a buscar proteção no dólar."
+   },
+   {
+    "quem": "Rebecca Nossig, estrategista de ações da Nomad",
+    "oque": "O pacote fiscal anunciado não conseguiu ancorar as expectativas dos agentes financeiros."
+   },
+   {
+    "quem": "William Castro Alves, estrategista chefe da Avenue",
+    "oque": "A alta do dólar tem relação com preocupações fiscais domésticas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "13/11/2026",
+    "oque": "Senado aprovou texto-base do pacote fiscal com medidas de corte de gastos."
+   },
+   {
+    "quando": "16/11/2026",
+    "oque": "Dólar atingiu R$ 5,7939 e Ibovespa caiu 2,23%."
+   },
+   {
+    "quando": "12/11/2026",
+    "oque": "Nvidia anunciou saída imediata do CEO Jensen Huang após escândalo."
+   },
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "IBC-Br mostrou queda de 0,9% na atividade econômica."
+   },
+   {
+    "quando": "até 11/11/2026",
+    "oque": "Investidores estrangeiros retiraram R$ 5,4 bilhões da bolsa brasileira."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pacote fiscal",
+    "significado": "Conjunto de medidas para controlar gastos e dívida pública."
+   },
+   {
+    "termo": "IBC-Br",
+    "significado": "Índice que antecipa o desempenho do PIB brasileiro."
+   },
+   {
+    "termo": "DXY",
+    "significado": "Índice que mede o valor do dólar contra moedas principais."
+   }
+  ],
+  "pergunta": "Você acha que o pacote fiscal será suficiente para conter a alta do dólar?",
+  "tamanhoTexto": 11532,
+  "numeros": [
+   {
+    "valor": "R$ 5,7939",
+    "rotulo": "Máxima do dólar em 16/11/2026"
+   },
+   {
+    "valor": "2,23%",
+    "rotulo": "Queda do Ibovespa em 16/11/2026"
+   },
+   {
+    "valor": "R$ 60 bilhões",
+    "rotulo": "Estimativa de cortes no pacote fiscal para 2027"
+   },
+   {
+    "valor": "0,9%",
+    "rotulo": "Queda do IBC-Br no 3º trimestre de 2026"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "Queda das ações da Nvidia após escândalo"
+   },
+   {
+    "valor": "R$ 5,4 bilhões",
+    "rotulo": "Retirada líquida estrangeira da bolsa em novembro até dia 11"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,7939",
+  "porQueImporta": "A alta do dólar e a pressão sobre o mercado refletem o nervosismo frente às contas públicas e incertezas externas, afetando custos de investimentos e a dinâmica econômica. A compreensão dessas variáveis é essencial para quem opera ou investe, pois influenciam o risco e a volatilidade dos ativos.",
+  "impactoMercado": "Com o dólar em alta e a bolsa em queda, investidores podem se proteger comprando dólar ou fundos internacionais, enquanto o setor fiscal e empresarial pode ter volatilidade. Juros elevados nos EUA e dúvidas fiscais domésticas mantêm o cenário complexo para mercados emergentes.",
+  "entenda": "O dólar é a moeda americana, e sua valorização frente ao real pode encarecer importações e pressionar a inflação. O pacote fiscal é o conjunto de medidas que o governo usa para equilibrar gastos e dívida, buscando controlar juros e dar confiança ao mercado.",
+  "observar": "Acompanhe a votação dos destaques do pacote fiscal no Senado e Câmara, dados econômicos futuros, decisões do Fed em dezembro e balanços das empresas, que afetarão o cenário cambial e de mercado.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Esta notícia explica como decisões políticas e externas impactam o mercado e o dólar, mostrando a importância de entender o ambiente macroeconômico para abrir caminho no mercado financeiro.",
+  "gancho": "*Dólar* em alta com *fiscal* e *externo*",
+  "ideias": [
+   "Por que o dólar subiu a R$ 5,79? Entenda os motivos",
+   "Pacote fiscal e dólar: como o ajuste impacta o mercado?",
+   "Nvidia, juros e dólar: os fatores que movimentam o mercado hoje"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "UOL Economia; G1 Economia; InvestNews",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T16:52:59-03:00",
+  "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/16/dolar-vai-a-r-579-com-cautela-fiscal-e-aversao-ao-risco-no-exterior.htm",
+  "publicadoEm": "2026-11-16T15:32:00-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-07"
+ },
+ {
+  "titulo": "Executivo americano de 54 anos renova carreira usando estratégias modernas",
+  "resumo": "Dave Posey pediu demissão sem emprego e, em um mês, recebeu três ofertas. Ele mudou a forma de se apresentar, focando em resolver problemas atuais das empresas.",
+  "fatos": [
+   "Dave Posey trabalhou por 30 anos em manufatura, distribuição e vendas por canais.",
+   "Ele pediu demissão em maio de 2026, aos 54 anos, sem novo emprego.",
+   "Em junho, recebeu três ofertas em um mês e aceitou cargo na Sanborn.",
+   "Posey contratou uma consultora de carreira dois meses antes de pedir demissão.",
+   "A maior mudança foi destacar no discurso como resolver problemas atuais das empresas.",
+   "Ele aprimorou o LinkedIn, saindo do tradicional currículo para posts que apresentam soluções.",
+   "Gravou frases e treinou discursos para ficar seguro em entrevistas e networking.",
+   "Posey morava em Parker, Colorado, e completou 55 anos recentemente.",
+   "Ele diz que histórico não interessa, apenas o que pode ser feito agora.",
+   "Curso online e gratuito Processo Seletivo na Prática foi mencionado como ajuda."
+  ],
+  "explicacao": [
+   "Em maio de 2026, aos 54 anos, Dave Posey deixou seu emprego após 30 anos no setor de manufatura e vendas. Embora não tivesse outra posição garantida, ele recebeu três propostas de trabalho em apenas um mês.",
+   "Posey atribui o sucesso à consultoria de carreira que contratou antes de sair do emprego. Ela o ajudou a focar menos no histórico e mais em apresentar o valor que poderia gerar às empresas hoje.",
+   "A mudança foi significativa, principalmente ao transformar seu LinkedIn, currículo e discurso para abordar como ele resolve problemas atuais, deixando de lado a simples lista de experiências passadas.",
+   "Agora, Posey trabalha como gerente geral e vice-presidente na Sanborn e deseja auxiliar outros profissionais a adaptar sua comunicação para o mercado, mostrando habilidades de forma clara e direta."
+  ],
+  "detalhes": [
+   "Quem: Dave Posey, executivo americano de 54 anos com 30 anos de experiência.",
+   "Quando: pediu demissão em maio de 2026; recebeu ofertas em junho de 2026.",
+   "Como: contratou consultora para reformular sua apresentação profissional.",
+   "Onde: vive em Parker, no estado do Colorado, EUA.",
+   "Comparação: mudou de descrever passado para destacar solução de problemas atuais.",
+   "Contexto: mercado atual valoriza habilidades úteis no momento, não o histórico.",
+   "Resultado: conseguiu emprego importante como gerente geral e vice-presidente."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dave Posey, executivo americano",
+    "oque": "O currículo garante a conversa, depois vira peso morto para recrutador."
+   },
+   {
+    "quem": "Dave Posey",
+    "oque": "O mercado só quer saber o que o candidato resolve hoje, não em 2014."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "maio de 2026",
+    "oque": "Dave Posey pediu demissão sem outro emprego."
+   },
+   {
+    "quando": "junho de 2026",
+    "oque": "Recebeu três propostas de trabalho em um mês."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "LinkedIn",
+    "significado": "rede social profissional para mostrar experiência e buscar empregos."
+   },
+   {
+    "termo": "currículo",
+    "significado": "documento que lista experiências, formação e habilidades."
+   },
+   {
+    "termo": "recrutador",
+    "significado": "profissional que seleciona candidatos para vagas de emprego."
+   }
+  ],
+  "pergunta": "Você já atualizou seu LinkedIn para mostrar como resolve problemas hoje?",
+  "tamanhoTexto": 5629,
+  "numeros": [
+   {
+    "valor": "54",
+    "rotulo": "idade de Dave Posey ao pedir demissão"
+   },
+   {
+    "valor": "3",
+    "rotulo": "ofertas de emprego recebidas em um mês"
+   },
+   {
+    "valor": "30",
+    "rotulo": "anos de experiência na área de Posey"
+   },
+   {
+    "valor": "8",
+    "rotulo": "módulos do curso 'Processo Seletivo na Prática'"
+   },
+   {
+    "valor": "69%",
+    "rotulo": "gestores com desconforto para conversar com times, citado no texto"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "3 ofertas em",
+  "porQueImporta": "Saber apresentar sua experiência focando em soluções atuais é fundamental para se destacar nas seleções, principalmente com carreiras longas. Posey mostra que adaptar discurso e perfil no LinkedIn pode abrir portas rapidamente, mesmo após uma demissão sem empregabilidade garantida.",
+  "impactoMercado": "Essa mudança de postura influencia como candidatos mais experientes se posicionam em processos seletivos, valorizando habilidades aplicáveis e atualizadas, impactando contratações em vagas sênior e médias. Pode gerar maior competitividade e exigência por clareza e objetividade em entrevistas e currículos.",
+  "entenda": "Um recrutador quer saber qual problema você resolve hoje, não seu histórico. Atualizar o currículo e o LinkedIn para mostrar soluções atuais e treinar a comunicação são passos essenciais na busca por vagas, principalmente para quem tem carreira longa e está há tempos na mesma empresa.",
+  "observar": "Fique atento ao curso online gratuito 'Processo Seletivo na Prática' que orienta do currículo à entrevista, e acompanhe como profissionais com longa carreira estão se reposicionando no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Ao transformar uma notícia com estratégias reais de carreira em conteúdo didático, você aprende a se destacar no mercado, fundamental para operar com conhecimento e construir sua trajetória financeira.",
+  "gancho": "*Carreira* e *Mercado* em alta",
+  "ideias": [
+   "Como se destacar no mercado após anos na mesma empresa",
+   "Reinvente seu currículo: da experiência à solução de problemas",
+   "Networking e LinkedIn: armas para conseguir vagas rápidas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "seta",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T16:52:59-03:00",
+  "url": "https://exame.com/carreira/aos-54-anos-ele-pediu-demissao-sem-ter-outro-emprego-em-um-mes-tinha-tres-ofertas/",
+  "publicadoEm": "2026-11-16T12:48:09-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-08"
+ },
+ {
+  "titulo": "Trump apoia retorno de Jensen Huang à liderança da Nvidia após escândalo",
+  "resumo": "Donald Trump declarou que vê com bons olhos a volta de Jensen Huang como CEO da Nvidia, após renúncia causada por escândalo de espionagem. Ele também sugeriu Tim Cook como possível substituto e planeja dar status de campeã nacional à Nvidia.",
+  "fatos": [
+   "Jensen Huang renunciou à CEO da Nvidia na semana anterior ao dia 16/11/2026.",
+   "Donald Trump falou publicamente sobre a possibilidade de Huang retornar em 16/11/2026.",
+   "Em 12/11/2026, Trump sugeriu Tim Cook como substituto na Nvidia.",
+   "A renúncia de Huang ocorreu em meio a escândalo de espionagem na Nvidia.",
+   "O governo Trump pretende incluir Nvidia na lista de campeãs nacionais.",
+   "Mais de 20 empresas devem ser classificadas como campeãs nacionais segundo o Wall Street Journal.",
+   "Medida facilitaria licenças de exportação de chips e tecnologias da Nvidia.",
+   "Visa ampliar apoio governamental e financiamento público para a Nvidia."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 16 de novembro de 2026, o presidente dos Estados Unidos, Donald Trump, disse a jornalistas que seria positivo que Jensen Huang retornasse à posição de diretor-executivo da Nvidia, gigante americana de chips para inteligência artificial.",
+   "Huang renunciou na semana anterior ao cargo em meio a um escândalo de espionagem envolvendo a empresa, o que abalou a confiança dos investidores e movimentou o mercado de tecnologia.",
+   "Trump já havia sugerido na quinta-feira, 12, que Tim Cook, ex-CEO da Apple, deveria assumir o comando da Nvidia, ressaltando a substituição de uma lenda por outra.",
+   "Além disso, o governo Trump pretende classificar a Nvidia como campeã nacional, medida que facilitaria licenças de exportação, aumento de apoio governamental e acesso a financiamento público para fortalecer a empresa em meio à competição global."
+  ],
+  "detalhes": [
+   "Quem: Jensen Huang, CEO da Nvidia, e Donald Trump, presidente dos EUA.",
+   "Quando: declaração em 16 de novembro de 2026; renúncia na semana anterior.",
+   "Onde: declaração em Washington, EUA, antes de viagem à Ásia.",
+   "Como: renúncia motivada por escândalo de espionagem.",
+   "Comparação: Trump sugeriu Tim Cook, ex-Apple, para cargo após Huang.",
+   "Contexto: governo quer fortalecer Nvidia contra concorrentes estrangeiros.",
+   "Consequência: possível facilitação de exportações e aumento de apoio público."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Seria bom que Jensen Huang voltasse a diretor-executivo da Nvidia."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Tim Cook é o único que pode substituir Jensen Huang, uma lenda substituindo outra lenda."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Semana anterior a 16/11/2026",
+    "oque": "Renúncia de Jensen Huang à CEO da Nvidia."
+   },
+   {
+    "quando": "12/11/2026",
+    "oque": "Trump sugeriu Tim Cook para substituir Huang."
+   },
+   {
+    "quando": "16/11/2026",
+    "oque": "Trump falou sobre apoio ao retorno de Huang."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Campeã nacional",
+    "significado": "Empresa recebendo apoio do governo para competir globalmente."
+   },
+   {
+    "termo": "Inteligência Artificial",
+    "significado": "Tecnologia que permite máquinas aprender e executar tarefas inteligentes."
+   },
+   {
+    "termo": "Escândalo de espionagem",
+    "significado": "Violação da segurança envolvendo roubo de informações confidenciais."
+   }
+  ],
+  "pergunta": "Você acha que Jensen Huang deve retornar à Nvidia como CEO?",
+  "tamanhoTexto": 1969,
+  "numeros": [
+   {
+    "valor": "20+",
+    "rotulo": "Empresas na lista de campeãs nacionais do governo Trump"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Retorno de Jensen",
+  "porQueImporta": "O apoio de Trump à volta de Jensen Huang à liderança da Nvidia demonstra como crises e escândalos influenciam diretamente a gestão das gigantes de tecnologia. Além disso, o status de campeã nacional pode mudar o cenário competitivo e regulatório da empresa.",
+  "impactoMercado": "O possível retorno de Huang e a classificação da Nvidia como campeã nacional podem facilitar sua participação no mercado internacional, melhorar o acesso a licenças e financiamento, o que pode impactar ações e a dinâmica do setor de chips e tecnologia.",
+  "entenda": "A Nvidia é uma líder global em chips para inteligência artificial. Crises internas podem abalar a confiança dos investidores. O termo campeã nacional indica uma empresa prioritária para o governo, com benefícios especiais para competir globalmente.",
+  "observar": "Fique atento a possíveis anúncios oficiais sobre a nomeação do novo CEO da Nvidia e o regulamento para a lista de campeãs nacionais, além do encontro entre EUA e China sobre restrições à exportação de chips.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Explorar os impactos da gestão na Nvidia e como políticas públicas influenciam gigantes de tecnologia ajuda o público a entender decisões estratégicas que movimentam o mercado.",
+  "gancho": "*Nvidia* e *liderança* em discussão",
+  "ideias": [
+   "Quem é Jensen Huang e por que ele importa na Nvidia?",
+   "O que significa ser uma campeã nacional nos EUA?",
+   "Como crises internas afetam empresas de tecnologia?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T16:52:59-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-diz-que-nao-se-importaria-que-jensen-huang-voltasse-a-dirigir-a-nvidia.shtml",
+  "publicadoEm": "2026-11-16T12:32:00-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-09"
+ },
+ {
   "titulo": "Suzano obtém financiamento de R$ 97,9 milhões do BNDES para inovação",
   "resumo": "Suzano garantiu R$ 97,9 milhões do BNDES para 47 projetos de pesquisa em genética, produtos e manejo florestal, buscando aumentar competitividade global. Recursos apoiarão iniciativas em unidades no Brasil com colaboração de universidades e centros tecnológicos.",
   "fatos": [
@@ -5009,53 +5385,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 65.0% de chance de Ethereum acima de 1,900 em novembro",
-  "resumo": "As apostadores estão favoráveis a um aumento no valor do Ethereum nesse período.",
+  "titulo": "Mercado de previsões vê 91.5% de chance de Ethereum abaixo de 1.800 em novembro.",
+  "resumo": "Os apostadores projetam uma queda significativa para o Ethereum no próximo mês.",
   "probs": [
    {
-    "opcao": "↑ 1,900",
-    "prob": 65.0
+    "opcao": "abaixo de 1.750",
+    "prob": 91.5
    },
    {
-    "opcao": "↓ 1,700",
-    "prob": 58.5
+    "opcao": "acima de 1.900",
+    "prob": 68.5
    },
    {
-    "opcao": "↑ 2,000",
-    "prob": 32.5
+    "opcao": "abaixo de 1.700",
+    "prob": 54.5
    },
    {
-    "opcao": "↓ 1,600",
-    "prob": 31.6
+    "opcao": "acima de 1.950",
+    "prob": 33.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 129 mil",
+  "volume24h": "US$ 149 mil",
   "fatos": [
-   "↑ 1,900: 65,0%",
-   "↓ 1,700: 58,5%",
-   "↑ 2,000: 32,5%",
-   "↓ 1,600: 31,6%"
+   "abaixo de 1.750: 91,5%",
+   "acima de 1.900: 68,5%",
+   "abaixo de 1.700: 54,5%",
+   "acima de 1.950: 33,5%"
   ],
   "numeros": [
    {
-    "valor": "65,0%",
-    "rotulo": "↑ 1,900"
+    "valor": "91,5%",
+    "rotulo": "abaixo de 1.750"
    },
    {
-    "valor": "58,5%",
-    "rotulo": "↓ 1,700"
+    "valor": "68,5%",
+    "rotulo": "acima de 1.900"
    },
    {
-    "valor": "32,5%",
-    "rotulo": "↑ 2,000"
+    "valor": "54,5%",
+    "rotulo": "abaixo de 1.700"
    },
    {
-    "valor": "31,6%",
-    "rotulo": "↓ 1,600"
+    "valor": "33,5%",
+    "rotulo": "acima de 1.950"
    }
   ],
-  "destaque": "65,0%",
+  "destaque": "91,5%",
   "gancho": "*Ethereum em novembro*",
   "entenda": "Como o Bitcoin, o Ethereum também sofre influências de mercado e eventos globais na nova economia digital.",
   "categoria": "Previsões",
@@ -5070,7 +5446,7 @@
   "data": "2026-11-13",
   "status": "atualizada",
   "id": "2026-11-13-p1",
-  "atualizadoEm": "2026-11-16T08:32:44-03:00"
+  "atualizadoEm": "2026-11-16T16:52:59-03:00"
  },
  {
   "titulo": "Engenheiro brasileiro lança livro sobre teste de falhas em softwares Bitcoin",
@@ -13154,53 +13530,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 73.5% de chance de Bitcoin abaixo de 62,500.",
-  "resumo": "Os apostadores acreditam que o Bitcoin pode não alcançar 62,500 dólares em novembro de 2026.",
+  "titulo": "Mercado de previsões vê 64.0% de chance de Bitcoin acima de 67.500 em novembro.",
+  "resumo": "Os apostadores têm expectativas mistas sobre o preço do Bitcoin para o próximo mês.",
   "probs": [
    {
-    "opcao": "↓ 62,500",
-    "prob": 73.5
+    "opcao": "abaixo de 62.500",
+    "prob": 64.5
    },
    {
-    "opcao": "↑ 67,500",
-    "prob": 66.5
+    "opcao": "acima de 67.500",
+    "prob": 64.0
    },
    {
-    "opcao": "↓ 60,000",
-    "prob": 40.5
+    "opcao": "abaixo de 60.000",
+    "prob": 39.5
    },
    {
-    "opcao": "↑ 70,000",
-    "prob": 38.5
+    "opcao": "acima de 70.000",
+    "prob": 34.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 1,4 mi",
+  "volume24h": "US$ 384 mil",
   "fatos": [
-   "↓ 62,500: 73,5%",
-   "↑ 67,500: 66,5%",
-   "↓ 60,000: 40,5%",
-   "↑ 70,000: 38,5%"
+   "abaixo de 62.500: 64,5%",
+   "acima de 67.500: 64,0%",
+   "abaixo de 60.000: 39,5%",
+   "acima de 70.000: 34,5%"
   ],
   "numeros": [
    {
-    "valor": "73,5%",
-    "rotulo": "↓ 62,500"
+    "valor": "64,5%",
+    "rotulo": "abaixo de 62.500"
    },
    {
-    "valor": "66,5%",
-    "rotulo": "↑ 67,500"
+    "valor": "64,0%",
+    "rotulo": "acima de 67.500"
    },
    {
-    "valor": "40,5%",
-    "rotulo": "↓ 60,000"
+    "valor": "39,5%",
+    "rotulo": "abaixo de 60.000"
    },
    {
-    "valor": "38,5%",
-    "rotulo": "↑ 70,000"
+    "valor": "34,5%",
+    "rotulo": "acima de 70.000"
    }
   ],
-  "destaque": "73,5%",
+  "destaque": "64,5%",
   "gancho": "*Alta expectativa* para o Bitcoin",
   "entenda": "As flutuações no preço do Bitcoin refletem a demanda e o sentimento do mercado de criptomoedas.",
   "categoria": "Previsões",
@@ -13215,7 +13591,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p4",
-  "atualizadoEm": "2026-11-15T17:35:07-03:00"
+  "atualizadoEm": "2026-11-16T16:52:59-03:00"
  },
  {
   "titulo": "Dólar salta a R$ 5,60 após inflação dos EUA acima do esperado",
@@ -13630,53 +14006,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 57.5% de chance de aumento de 25 bps pelo Fed em janeiro",
-  "resumo": "Essas probabilidades são estipuladas por apostadores, não uma previsão oficial.",
+  "titulo": "Mercado de previsões vê 62.5% de chance de aumento de 25 bps no Fed em janeiro.",
+  "resumo": "Apostadores antecipam continuidade do aumento das taxas no início de 2027.",
   "probs": [
    {
-    "opcao": "Aumento de 25 bps",
-    "prob": 57.5
+    "opcao": "aumento de 25 bps",
+    "prob": 62.5
    },
    {
-    "opcao": "Sem alteração",
-    "prob": 40.5
+    "opcao": "sem mudança",
+    "prob": 35.5
    },
    {
-    "opcao": "Aumento de 50+ bps",
+    "opcao": "redução de 25 bps",
+    "prob": 1.1
+   },
+   {
+    "opcao": "aumento de 50+ bps",
     "prob": 0.9
-   },
-   {
-    "opcao": "Redução de 50+ bps",
-    "prob": 0.4
    }
   ],
   "prazo": "2027-01-28",
-  "volume24h": "US$ 224 mil",
+  "volume24h": "US$ 333 mil",
   "fatos": [
-   "Aumento de 25 bps: 57,5%",
-   "Sem alteração: 40,5%",
-   "Aumento de 50+ bps: 0,9%",
-   "Redução de 50+ bps: 0,4%"
+   "aumento de 25 bps: 62,5%",
+   "sem mudança: 35,5%",
+   "redução de 25 bps: 1,1%",
+   "aumento de 50+ bps: 0,9%"
   ],
   "numeros": [
    {
-    "valor": "57,5%",
-    "rotulo": "Aumento de 25 bps"
+    "valor": "62,5%",
+    "rotulo": "aumento de 25 bps"
    },
    {
-    "valor": "40,5%",
-    "rotulo": "Sem alteração"
+    "valor": "35,5%",
+    "rotulo": "sem mudança"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "redução de 25 bps"
    },
    {
     "valor": "0,9%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Redução de 50+ bps"
+    "rotulo": "aumento de 50+ bps"
    }
   ],
-  "destaque": "57,5%",
+  "destaque": "62,5%",
   "gancho": "*Apostas* equilibradas* para janeiro",
   "entenda": "Decisões sobre as taxas de juros influenciam a economia geral, afetando empréstimos e investimentos.",
   "categoria": "Previsões",
@@ -13691,7 +14067,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p1",
-  "atualizadoEm": "2026-11-13T14:23:22-03:00"
+  "atualizadoEm": "2026-11-16T16:52:59-03:00"
  },
  {
   "tipo": "sinal",
