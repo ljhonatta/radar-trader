@@ -1,5 +1,458 @@
 [
  {
+  "titulo": "Ex-FMI alerta que foco no crescimento eleva juros no Brasil e no mundo",
+  "resumo": "Maurice Obstfeld, ex-economista-chefe do FMI, afirma que apostar só em crescimento para resolver finanças públicas aumenta juros. Ele citou o Brasil e outros países com dívidas altas que enfrentam esse desafio.",
+  "fatos": [
+   "Declaração de Maurice Obstfeld no Patria Summit, 17 de maio, São Paulo.",
+   "Economias desenvolvidas, como EUA, Canadá, Europa e Japão, têm dívida > 100% do PIB.",
+   "Alta de juros atuais não são vistas desde início dos anos 2000.",
+   "No Brasil, crescimento da dívida pública decorre majoritariamente do pagamento dos juros.",
+   "Inflação e maior demanda por crédito elevam taxas de juros.",
+   "Resistência política e popular dificulta cortes de benefícios e aumento de impostos.",
+   "Combate à informalidade pode aumentar produtividade e arrecadação no Brasil.",
+   "Inteligência artificial eleva gastos e pressão sobre juros globais.",
+   "Big techs captações em crédito global podem chegar a US$ 1 trilhão em 2024.",
+   "Juros longos impactam preço de imóveis, ações e private equity globalmente."
+  ],
+  "explicacao": [
+   "Maurice Obstfeld, ex-economista-chefe do FMI, alertou que governos que apostam apenas em crescimento para resolver problemas fiscais enfrentam juros mais altos. A fala foi no dia 17 de maio, no Patria Summit em São Paulo, evento do Patria Investments.",
+   "Ele explica que o crescimento econômico pode gerar pressão inflacionária, levando bancos centrais a elevarem juros para controlar preços, além de aumentar a demanda por crédito, fazendo os empréstimos ficarem mais caros.",
+   "Obstfeld ressaltou que o Brasil e diversas economias desenvolvidas têm dívidas públicas acima de 100% do PIB, e que no Brasil o aumento do endividamento vem principalmente dos altos juros reais sobre a dívida, criando risco de crise.",
+   "Para ele, equilibrar as contas públicas no Brasil pode reduzir o prêmio de risco e os juros de mercado, incentivando investimento. Mas isso depende de medidas políticas e sociais desafiadoras, como reforma fiscal e combate à informalidade."
+  ],
+  "detalhes": [
+   "Maurice Obstfeld foi economista-chefe do FMI e professor na Universidade da Califórnia.",
+   "Os juros estão altos devido ao endividamento público global e riscos fiscais.",
+   "Crescimento pode gerar inflação e maior demanda por financiamentos.",
+   "Brasil enfrenta juros reais muito altos e déficit primário pequeno.",
+   "Responsabilidade fiscal pode reduzir prêmio de risco e atrair investimentos.",
+   "Resistências políticas a cortes e impostos dificultam ajustes fiscais.",
+   "Investimentos em IA pressionam ainda mais os juros mundiais."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Maurice Obstfeld, ex-economista-chefe do FMI",
+    "oque": "Governos que apostam só em crescimento para resolver finanças estão em negação e enfrentam juros mais altos."
+   },
+   {
+    "quem": "Maurice Obstfeld",
+    "oque": "Juros reais extremamente altos no Brasil empurram as contas públicas para uma possível crise autorrealizável."
+   },
+   {
+    "quem": "Maurice Obstfeld",
+    "oque": "Alcançar trajetória fiscal sustentável no Brasil pode reduzir prêmio de risco e impulsionar o crescimento."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "17 de maio de 2024",
+    "oque": "Declarações de Maurice Obstfeld no Patria Summit, evento em São Paulo."
+   },
+   {
+    "quando": "Inicial dos anos 2000",
+    "oque": "Último período com juros globais em níveis semelhantes aos atuais."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Juros reais",
+    "significado": "Juros ajustados pela inflação, mostram o custo verdadeiro do empréstimo."
+   },
+   {
+    "termo": "Prêmio de risco",
+    "significado": "Compensação extra que investidores pedem para correr risco maior ao emprestar."
+   },
+   {
+    "termo": "Déficit primário",
+    "significado": "Diferença entre receitas e despesas do governo, sem contar juros da dívida."
+   }
+  ],
+  "pergunta": "Você acha que o Brasil deve focar mais em ajustes fiscais ou crescimento para controlar os juros?",
+  "tamanhoTexto": 6093,
+  "numeros": [
+   {
+    "valor": "100%",
+    "rotulo": "dívida pública em relação ao PIB em várias economias desenvolvidas"
+   },
+   {
+    "valor": "US$ 1 trilhão",
+    "rotulo": "captação de crédito global pelas big techs prevista para 2024"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "juros mais altos",
+  "porQueImporta": "Essa notícia mostra que depender apenas do crescimento econômico para resolver problemas fiscais pode elevar os juros, impactando custos de empréstimos e investimentos. Entender isso ajuda investidores a avaliar riscos no Brasil e globalmente.",
+  "impactoMercado": "Juros mais altos afetam os custos de financiamento, pressionam preços de ativos como imóveis e ações, e influenciam investimentos. Setores sensíveis a crédito e empresas com dívidas podem ser os mais impactados.",
+  "entenda": "Juros são o custo do dinheiro emprestado. Quando o país gasta demais e tem dívida alta, os juros sobem para atrair investidores. Embora crescimento ajude, pode pressionar a inflação e os juros, complicando o controle fiscal.",
+  "observar": "Acompanhe anúncios sobre políticas fiscais no Brasil, dados de inflação e decisões do Banco Central que podem indicar mudanças nas taxas de juros nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Mostramos como a questão fiscal e inflação impactam juros e investimentos, preparando o investidor para entender desafios econômicos, sem prometer ganhos, alinhado à educação da Trader School Wendell Guimarães.",
+  "gancho": "*Juros*, crescimento e dívida pública",
+  "ideias": [
+   "Como o crescimento pode influenciar nos juros brasileiros?",
+   "Por que altos juros dificultam o controle da dívida pública?",
+   "O que o Brasil pode fazer para reduzir o custo da dívida?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "InvestNews",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:09:53-03:00",
+  "url": "https://investnews.com.br/investimentos/estimular-atividade-pressiona-juro/",
+  "publicadoEm": "2026-11-17T19:19:01-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-08"
+ },
+ {
+  "titulo": "Ibovespa sobe 0,31% aos 169,8 mil pontos; dólar segue alta",
+  "resumo": "Ibovespa fechou em alta de 0,31% nesta terça, alcançando 169.816 pontos. Dólar valorizou-se 0,10%, registrando quarto avanço consecutivo a R$ 5,782.",
+  "fatos": [
+   "Ibovespa fechou em alta de 0,31%, aos 169.816,64 pontos.",
+   "Dólar comercial subiu 0,10%, a R$ 5,782.",
+   "Volume financeiro negociado na B3 somou R$ 27,10 bilhões.",
+   "Hapvida teve alta de 11,03%, fechando a R$ 6,04.",
+   "Natura caiu 3,67%, encerrando o dia a R$ 4,72.",
+   "Dow Jones caiu 1,67%, S&P 500 recuou 1,06%, Nasdaq caiu 0,74%.",
+   "Petróleo Brent valorizou-se 0,76%, a US$ 93,14 por barril.",
+   "Petróleo WTI subiu 0,34%, a US$ 86,01 por barril.",
+   "Índice DXY caiu 0,05%, fechando aos 103,50 pontos."
+  ],
+  "explicacao": [
+   "No pregão desta terça-feira (17), o Ibovespa subiu 0,31%, fechando aos 169.816,64 pontos, com volume financeiro de R$ 27,10 bilhões. O dólar comercial avançou 0,10%, cotado a R$ 5,782, acumulando quatro sessões consecutivas de alta.",
+   "Segundo Marcos Bassani, estrategista da Boa Brasil Capital, a alta no Ibovespa reflete uma recuperação técnica, puxada principalmente por investidores que compram ações que sofreram queda nos dias anteriores. Não há indicação de mudança definitiva na tendência do mercado.",
+   "O dólar subiu mesmo com a queda do índice DXY no exterior, devido à realização pontual de lucros após fortes avanços recentes e por dúvidas relacionadas a fatores econômicos e políticos, como o cenário fiscal do Brasil e resultados corporativos nos EUA.",
+   "Outros movimentos de mercado incluem a queda nos índices de Nova York por receio em relação ao balanço da Nvidia e o avanço do petróleo no mercado futuro, além da preparação para novas decisões que podem impactar juros e contas públicas no Brasil."
+  ],
+  "detalhes": [
+   "Ibovespa alcançou máxima intradia de 171.749,51 pontos e mínima de 169.300,29 pontos.",
+   "Dólar oscilou entre R$ 5,760 e R$ 5,812 durante a sessão.",
+   "A alta do Ibovespa é vista como recuperação técnica, sem mudança de tendência.",
+   "Dólar tem alta mesmo com queda do DXY, índice do dólar contra outras moedas.",
+   "Mercados americanos recuaram antes do balanço trimestral da Nvidia.",
+   "Principais altas da Bolsa: Hapvida (+11,03%), Cosan (+5,50%), Magazine Luiza (+4,94%).",
+   "Principais quedas: Natura (-3,67%), Cury (-3,21%), Taesa (-3,00%)."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Marcos Bassani, sócio e estrategista da Boa Brasil Capital",
+    "oque": "Alta do Ibovespa representa recuperação técnica e não mudança de tendência."
+   },
+   {
+    "quem": "Marcos Bassani, sócio e estrategista da Boa Brasil Capital",
+    "oque": "Incerteza fiscal no Brasil e decisões do Fed em dezembro são riscos para investidores."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "17 de outubro de 2023",
+    "oque": "Ibovespa fecha em alta de 0,31%, dólar sobe 0,10%."
+   },
+   {
+    "quando": "17 de outubro de 2023",
+    "oque": "Bolsa de Nova York fecha em queda antes do balanço da Nvidia."
+   },
+   {
+    "quando": "Dezembro de 2023",
+    "oque": "Reunião do Federal Reserve para definir taxa de juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Recuperação técnica",
+    "significado": "Alta temporária após queda, sem mudança definitiva na tendência"
+   },
+   {
+    "termo": "BDR",
+    "significado": "Recibo de ações estrangeiras negociadas na B3"
+   },
+   {
+    "termo": "DXY",
+    "significado": "Índice que mede dólar frente a moedas internacionais"
+   }
+  ],
+  "pergunta": "Você já observa recuperação técnica no Ibovespa antes de definir investimentos?",
+  "tamanhoTexto": 7614,
+  "numeros": [
+   {
+    "valor": "169.816,64",
+    "rotulo": "Pontos de fechamento do Ibovespa"
+   },
+   {
+    "valor": "0,31%",
+    "rotulo": "Alta do Ibovespa no dia"
+   },
+   {
+    "valor": "5,782",
+    "rotulo": "Cotação do dólar comercial em reais"
+   },
+   {
+    "valor": "0,10%",
+    "rotulo": "Valorização diária do dólar"
+   },
+   {
+    "valor": "11,03%",
+    "rotulo": "Alta da ação Hapvida (HAPV3)"
+   },
+   {
+    "valor": "3,67%",
+    "rotulo": "Queda da ação Natura (NATU3)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,31% alta do",
+  "porQueImporta": "Essa alta do Ibovespa e a sequência de quatro altas no dólar refletem momentos de ajustes técnicos e incertezas nos mercados. Entender esses movimentos ajuda investidores a interpretar sinais e riscos relacionados à volatilidade, cenário econômico e decisões políticas que influenciam seus ativos.",
+  "impactoMercado": "O movimento no Ibovespa indica que investidores estão buscando oportunidades em ações mais baratas, enquanto o dólar forte impacta custos e margens de empresas. A atenção também se volta para juros nos EUA e cenário fiscal no Brasil, que podem influenciar bolsa, dólar e juros futuros.",
+  "entenda": "O Ibovespa é o principal índice da Bolsa brasileira, que mede o desempenho das ações mais negociadas. Uma recuperação técnica é um movimento de alta temporário após queda, sem significar inversão de tendência. O dólar comercial é a moeda americana usada em negociações no Brasil, com seu valor afetado por notícias econômicas e políticas.",
+  "observar": "Fique atento à reunião do Federal Reserve em dezembro para definição dos juros nos EUA e a divulgação dos próximos dados fiscais brasileiros. As movimentações nessas datas podem influenciar o dólar, a bolsa e as expectativas de investimentos.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia mostra como movimentos técnicos de mercado e fatores externos influenciam ações e câmbio, o que ajuda quem quer entender e buscar formação para operar melhor na Bolsa e no dólar com conhecimento.",
+  "gancho": "*Ibovespa* e *dólar* em alta",
+  "ideias": [
+   "O que é recuperação técnica no Ibovespa?",
+   "Entenda a alta do dólar e seu impacto no Brasil",
+   "Quais ações lideraram ganhos e perdas no pregão de terça?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:09:53-03:00",
+  "url": "https://bpmoney.com.br/mercado/ibovespa-sobe-031-169-mil-pontos-dolar-quarta-alta/",
+  "publicadoEm": "2026-11-17T18:27:51-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-09"
+ },
+ {
+  "titulo": "Dólar ultrapassa R$ 5,70; veja como planejar viagem ao exterior",
+  "resumo": "Dólar turismo chega a R$ 5,80, influenciado por incertezas fiscais e juros nos EUA. Especialistas recomendam comprar moeda aos poucos para evitar riscos.",
+  "fatos": [
+   "Dólar comercial atingiu R$ 5,70 em 16 de novembro de 2026",
+   "Dólar turismo está cotado na faixa dos R$ 5,80",
+   "IOF para compras em moeda estrangeira no exterior é de 3,5%",
+   "Proposta de taxação de patrimônios acima de R$ 15 milhões gerou preocupação",
+   "Déficit primário de R$ 70 bilhões e despesas com juros de R$ 1,205 trilhão nos 12 meses até setembro",
+   "Entrada recorde de US$ 18,2 bilhões em dólares no Brasil em outubro",
+   "Fed manteve juros entre 3,75% e 4,00% em outubro e deve subir em dezembro",
+   "Expectativa mediana do Banco Central para o dólar em dezembro de 2026 é R$ 5,40",
+   "Hike Capital projeta dólar entre R$ 5,60 e R$ 5,80 até o primeiro trimestre de 2027"
+  ],
+  "explicacao": [
+   "Nesta segunda-feira, 16 de novembro de 2026, o dólar comercial rompeu a barreira dos R$ 5,70, voltando ao patamar visto em maio de 2025, enquanto o dólar turismo está por volta de R$ 5,80 devido a tarifas e impostos. O aumento é impulsionado por rumores políticos, possíveis novas taxações e alta dos juros nos EUA.",
+   "A alta do dólar reflete preocupações com quem irá assumir o Ministério da Fazenda, além de propostas para taxar patrimônios superiores a R$ 15 milhões no Brasil. O cenário externo, com elevação dos juros pelo Federal Reserve, também contribui para a valorização da moeda americana frente ao real.",
+   "Para quem planeja viagem ao exterior, especialistas recomendam não comprar toda a moeda numa só vez, mas sim ir adquirindo aos poucos para formar um preço médio, reduzindo o risco de oscilações cambiais. Cartões, contas internacionais e investimentos em ativos dolarizados são alternativas para diversificar as formas de pagamento.",
+   "Para o futuro próximo, o mercado segue atento ao cenário fiscal brasileiro e às decisões do Fed, que deve elevar juros em dezembro. A expectativa do Banco Central é de dólar a R$ 5,40 em dezembro, mas analistas indicam que o valor pode ficar entre R$ 5,60 e R$ 5,80 no primeiro trimestre de 2027, a depender de sinais de ajuste fiscal."
+  ],
+  "detalhes": [
+   "Rumores na manhã de 16/11 citaram possível indicação de Aloizio Mercadante para Ministério da Fazenda",
+   "Deputados do PT apresentaram projetos para taxar patrimônios acima de R$ 15 milhões em 13/11",
+   "Juros da dívida pública representam 94,5% do déficit nominal do Brasil",
+   "O dólar turismo é mais caro devido aos custos das casas de câmbio e impostos",
+   "Investidores vieram retirando US$ 3,1 bilhões em novembro por incertezas fiscais",
+   "Cartões de débito e contas internacionais permitem antecipar conversão de moeda",
+   "Pacote fiscal aprovado no Senado prevê melhora de até R$ 56,1 bilhões no resultado primário de 2027"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Danilo Brito, planejador financeiro CFP pela Planejar",
+    "oque": "Comprar dólar aos poucos e formar preço médio é a estratégia mais segura diante da alta."
+   },
+   {
+    "quem": "Harion Camargo, planejador financeiro CFP pela Planejar",
+    "oque": "Não deixar para comprar toda a moeda na véspera evita riscos com oscilações do câmbio."
+   },
+   {
+    "quem": "Felipe Passero, sócio da Jaguaretê Investimentos",
+    "oque": "Projeto de taxação dos super-ricos pode causar saída de até R$ 2,5 trilhões de capital."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "13 de novembro de 2026",
+    "oque": "Deputados do PT apresentam projetos para taxação de patrimônio acima de R$ 15 milhões."
+   },
+   {
+    "quando": "16 de novembro de 2026",
+    "oque": "Dólar comercial atinge R$ 5,70 e dólar turismo chega a R$ 5,80."
+   },
+   {
+    "quando": "16 de novembro de 2026",
+    "oque": "Rumores levantam possibilidade de Aloizio Mercadante assumir Ministério da Fazenda."
+   },
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Brasil registra maior entrada mensal de dólares na história: US$ 18,2 bilhões."
+   },
+   {
+    "quando": "Outubro de 2026",
+    "oque": "Fed mantém juros e sinaliza alta em dezembro, influenciando câmbio."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dólar turismo",
+    "significado": "Moeda vendida para viagens, com custos e taxas extras."
+   },
+   {
+    "termo": "IOF",
+    "significado": "Imposto sobre Operações Financeiras em transações cambiais."
+   },
+   {
+    "termo": "Taxa de câmbio",
+    "significado": "Preço de uma moeda em relação a outra."
+   }
+  ],
+  "pergunta": "Como você faz para se proteger das oscilações do dólar em viagens?",
+  "tamanhoTexto": 10045,
+  "numeros": [
+   {
+    "valor": "5,70",
+    "rotulo": "cotação do dólar comercial em reais em 16/11/2026"
+   },
+   {
+    "valor": "5,80",
+    "rotulo": "cotação média do dólar turismo em reais"
+   },
+   {
+    "valor": "3,5%",
+    "rotulo": "alíquota do IOF para operações cambiais no exterior"
+   },
+   {
+    "valor": "15 milhões",
+    "rotulo": "limite patrimonial para proposta de nova taxação no Brasil"
+   },
+   {
+    "valor": "1,205 trilhão",
+    "rotulo": "Despesas com juros da dívida pública em 12 meses até setembro (R$)"
+   },
+   {
+    "valor": "18,2 bilhões",
+    "rotulo": "entrada recorde em dólares no Brasil em outubro (US$)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Dólar turismo a",
+  "porQueImporta": "Entender como a alta do dólar impacta os custos de viagem ajuda a planejar melhor o orçamento e evitar surpresas. Estratégias para comprar moeda aos poucos e alternativas de pagamento reduzem os riscos cambiais num cenário de alta volatilidade.",
+  "impactoMercado": "Para o mercado, a alta do dólar reflete a incerteza fiscal e política no Brasil, que afeta a atração de investimentos. Setores ligados ao turismo, câmbio e renda variável podem sentir o impacto das oscilações cambiais e da percepção de risco do país.",
+  "entenda": "Dólar turismo é a moeda vendida para viagens e costuma ser mais cara que o dólar comercial, devido a custos e impostos. IOF é um imposto cobrado sobre operações financeiras, incluindo compra de moeda para gastos no exterior. Importante diversificar formas de pagamento para mitigar riscos.",
+  "observar": "Fique atento às decisões do Federal Reserve em dezembro, indicadores fiscais no Brasil e possíveis ajustes no pacote fiscal, que podem alterar as expectativas sobre o dólar e os juros nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT",
+   "Aposentados",
+   "Empresários"
+  ],
+  "angulo": "Explicamos o impacto da alta do dólar e mostramos estratégias práticas para quem quer entender câmbio e se preparar para viagens internacionais, tema essencial para quem quer dominar o mercado financeiro.",
+  "gancho": "*Dólar* em alta: como planejar?",
+  "ideias": [
+   "Por que o dólar turismo é mais caro que o comercial?",
+   "3 formas de comprar dólar para viajar sem pagar muito IOF",
+   "Altas do dólar: como o cenário político influencia o câmbio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Exame Invest",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:09:53-03:00",
+  "url": "https://exame.com/invest/minhas-financas/como-planejar-uma-viagem-ao-exterior-com-o-dolar-a-r-570/",
+  "publicadoEm": "2026-11-17T02:00:14-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-10"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-on-november-17-2026",
+  "titulo": "Mercado vê 33.5% de chance do Ethereum acima de $1,850",
+  "resumo": "A expectativa é que o Ethereum possa alcançar novos preços em novembro de 2026.",
+  "probs": [
+   {
+    "opcao": "acima de $1,850",
+    "prob": 33.5
+   },
+   {
+    "opcao": "abaixo de $1,750",
+    "prob": 4.5
+   },
+   {
+    "opcao": "acima de $1,900",
+    "prob": 2.5
+   },
+   {
+    "opcao": "abaixo de $1,700",
+    "prob": 2.1
+   }
+  ],
+  "prazo": "2026-11-18",
+  "volume24h": "US$ 119 mil",
+  "fatos": [
+   "acima de $1,850: 33,5%",
+   "abaixo de $1,750: 4,5%",
+   "acima de $1,900: 2,5%",
+   "abaixo de $1,700: 2,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "33,5%",
+    "rotulo": "acima de $1,850"
+   },
+   {
+    "valor": "4,5%",
+    "rotulo": "abaixo de $1,750"
+   },
+   {
+    "valor": "2,5%",
+    "rotulo": "acima de $1,900"
+   },
+   {
+    "valor": "2,1%",
+    "rotulo": "abaixo de $1,700"
+   }
+  ],
+  "destaque": "33,5%",
+  "gancho": "Ethereum pode *crescer* mais",
+  "entenda": "Ethereum é uma das principais criptomoedas e seu preço pode ser afetado por novas aplicações e inovações na tecnologia de blockchain.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-november-17-2026",
+  "publicadoEm": "2026-11-17T20:09:53-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-17T20:09:53-03:00",
+  "data": "2026-11-17",
+  "status": "nova",
+  "id": "2026-11-17-p3"
+ },
+ {
   "titulo": "Centrão apoia pacote fiscal de Lula para ajuste econômico em 2027",
   "resumo": "Bancadas do Centrão na Câmara se posicionam a favor do pacote fiscal de R$ 56 bilhões do governo Lula, crucial para o equilíbrio das contas públicas e sinal ao mercado.",
   "fatos": [
