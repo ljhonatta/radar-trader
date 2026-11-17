@@ -1,5 +1,507 @@
 [
  {
+  "titulo": "Centrão apoia pacote fiscal de Lula para ajuste econômico em 2027",
+  "resumo": "Bancadas do Centrão na Câmara se posicionam a favor do pacote fiscal de R$ 56 bilhões do governo Lula, crucial para o equilíbrio das contas públicas e sinal ao mercado.",
+  "fatos": [
+   "O pacote fiscal do governo Lula tem impacto esperado de até R$ 56 bilhões para 2027.",
+   "Líder do PP na Câmara, Doutor Luizinho, orientará voto favorável ao texto.",
+   "Líder do Republicanos, Augusto Coutinho, deve apoiar o projeto após reunião com bancada.",
+   "União Brasil, PSD e MDB também tendem a apoiar a proposta.",
+   "Texto-base foi aprovado no Senado na semana passada, com análise de destaques em seguida.",
+   "Principal divergência é sobre corte temporário nos repasses da Lei Kandir a estados.",
+   "Dólar fechou a R$ 5,77 após incertezas sobre o ajuste fiscal, maior valor desde abril de 2025.",
+   "Ministro do Planejamento Bruno Moretti tem sido porta-voz do pacote e se reúne com deputados do PT.",
+   "Previsão de votação do pacote na Câmara nesta terça-feira, logo após o Senado finalizar tramitação."
+  ],
+  "explicacao": [
+   "Partidos do Centrão na Câmara dos Deputados articulam uma votação rápida do pacote de ajuste fiscal do governo Lula, cujo impacto previsto é de até R$ 56 bilhões no ano que vem. A ideia é garantir o equilíbrio fiscal e melhorar a percepção do mercado sobre a gestão econômica.",
+   "A iniciativa ganhou apoio dos líderes do PP e Republicanos, que confirmarão orientação positiva para o texto. Outros partidos como União Brasil, PSD e MDB também tendem a apoiar. A negociação envolve a indicação de ministérios e a definição de alinhamento com o governo.",
+   "O projeto enfrenta pontos de divergência no Senado, especialmente a redução temporária dos repasses da Lei Kandir a estados e municípios, medida resistida por governadores. Caso mantida no Senado, essa regra deve ser mantida na Câmara, devido à influência dos governadores no Senado.",
+   "Além disso, há diálogo interno no PT para conter críticas à proposta, com expectativa de que mesmo parlamentares mais críticos votem a favor. A previsão é que a Câmara vote o texto ainda nesta terça, após conclusão da tramitação no Senado."
+  ],
+  "detalhes": [
+   "Pacote fiscal inclui ajustes para controle do gasto público e medidas de arrecadação.",
+   "Redução de benefícios tributários passará de 10% para 20%, ampliando o corte linear.",
+   "Projeto permite bloquear despesas para cumprir meta fiscal, aumentando rigor no contingenciamento.",
+   "Resistência de governadores à redução dos repasses da Lei Kandir, que compensa perdas de exportação.",
+   "A articulação do Centrão envolve negociação para indicar ministérios na nova gestão de Lula.",
+   "Deputados críticos dentro do PT devem apoiar o projeto por prioridade fiscal, apesar de divergências políticas internas.",
+   "Presidente da Câmara, Hugo Motta, monitora o debate desde antes do protocolo do projeto."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Doutor Luizinho, líder do PP na Câmara",
+    "oque": "Vai orientar o partido a votar a favor do pacote fiscal."
+   },
+   {
+    "quem": "Augusto Coutinho, líder do Republicanos na Câmara",
+    "oque": "Considera que a bancada deve apoiar o texto, reunião ocorrendo nesta tarde."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Semana passada",
+    "oque": "Senado aprovou texto-base do pacote fiscal."
+   },
+   {
+    "quando": "17/11/2026",
+    "oque": "Articulação do Centrão e partidos para votação célere na Câmara."
+   },
+   {
+    "quando": "18/11/2026",
+    "oque": "Previsão de conclusão da tramitação no Senado e votação na Câmara."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lei Kandir",
+    "significado": "Compensa estados por perdas fiscais ligadas à exportação, importante para finanças regionais."
+   },
+   {
+    "termo": "Contingenciamento",
+    "significado": "Bloqueio temporário de despesas para controlar os gastos públicos."
+   }
+  ],
+  "pergunta": "Você acha que o ajuste fiscal ajudará a melhorar a economia brasileira? Por quê?",
+  "tamanhoTexto": 4301,
+  "numeros": [
+   {
+    "valor": "R$ 56 bilhões",
+    "rotulo": "impacto fiscal estimado para 2027"
+   },
+   {
+    "valor": "R$ 5,77",
+    "rotulo": "valor do dólar após incertezas no ajuste fiscal"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "corte ampliado em benefícios tributários no pacote"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 56 bilhões",
+  "porQueImporta": "Esse pacote fiscal é decisivo para a credibilidade econômica do governo Lula e para o equilíbrio das contas públicas, trazendo sinal ao mercado sobre a responsabilidade fiscal do país. Entender a aprovação mostra como o Congresso influencia o rumo das finanças brasileiras.",
+  "impactoMercado": "A aprovação pode fortalecer a confiança no real e reduzir volatilidade no dólar, ao sinalizar maior controle dos gastos públicos. Setores ligados a finanças públicas e tributação devem sentir impactos diretos com cortes em incentivos fiscais e ajustes no contingenciamento de despesas.",
+  "entenda": "O pacote fiscal é um conjunto de medidas para ajustar as contas do governo, incluindo controle de gastos e corte de benefícios tributários. Ele busca equilibrar receitas e despesas para evitar déficits maiores e manter a confiança dos investidores e do mercado financeiro.",
+  "observar": "Fique atento à votação final na Câmara após o Senado concluir a tramitação, especialmente sobre os trechos da Lei Kandir e ajustes tributários que podem mudar o impacto do pacote.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicar a articulação política em torno do ajuste fiscal ajuda quem quer entender como decisões no Congresso impactam a economia e seus investimentos, ressaltando a importância de formação especializada no mercado financeiro.",
+  "gancho": "*Ajuste Fiscal* em Debate",
+  "ideias": [
+   "Centrão e ajuste fiscal: o que muda para o país?",
+   "Passo a passo do pacote fiscal de Lula em 2027",
+   "Como o Congresso influencia a economia: caso pacote fiscal"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T15:46:19-03:00",
+  "url": "https://www.infomoney.com.br/politica/centrao-se-posiciona-a-favor-de-pacote-fiscal-do-governo-na-camara-dos-deputados/",
+  "publicadoEm": "2026-11-17T15:04:33-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-04"
+ },
+ {
+  "titulo": "PagSeguro reduz projeção de lucro para 2026 após resultados trimestrais",
+  "resumo": "PagSeguro revisou lucro bruto esperado para 3% a 5% em 2026, após lucro de R$ 584 mi no 3º tri e receita estagnada.",
+  "fatos": [
+   "Lucro líquido contábil no 3º tri foi de R$ 584 milhões, alta de 5% em um ano.",
+   "Projeção de crescimento do lucro bruto para 2026 caiu de 6%-9% para 3%-5%.",
+   "Receita total ficou estável em R$ 5,1 bilhões na comparação anual e trimestral.",
+   "Despesas totais caíram 1%, para R$ 4,4 bilhões; marketing recuou 18% no trimestre.",
+   "Carteira de crédito do PagBank cresceu 25% em um ano, totalizando R$ 5,2 bilhões.",
+   "Inadimplência acima de 90 dias subiu para 3,8%, com provisão para perdas de crédito em R$ 94 milhões, alta de 34% no trimestre.",
+   "Selic média prevista de cerca de 14% a partir de 2027, acima dos 12,5% estimados antes.",
+   "PagSeguro tem 33,6 milhões de clientes ao final do trimestre.",
+   "JPMorgan reduziu preço-alvo da ação para US$ 10 em dezembro de 2027, com recomendação neutra.",
+   "Volume total de pagamentos processados (TPV) somou R$ 131,4 bilhões, alta anual de 1,2%, mas queda trimestral de 1,5%."
+  ],
+  "explicacao": [
+   "A PagSeguro diminuiu a projeção de crescimento do lucro bruto para 2026, de 6%-9% para 3%-5%, depois de divulgar lucro líquido de R$ 584 milhões no terceiro trimestre de 2023, um aumento de 5% em relação ao ano anterior.",
+   "Esse resultado veio sustentado principalmente por cortes nos custos, especialmente em marketing, enquanto a receita total da empresa ficou estável em R$ 5,1 bilhões. A inadimplência em alta e a estagnação da receita são fatores centrais dessa revisão.",
+   "A redução nas despesas financeiras, devido a uma Selic média menor em 2023, também ajudou o lucro, mas a alta prevista na taxa de juros para os próximos anos limita esse alívio. A carteira de crédito, que cresceu 25% no ano, mostra maior risco com inadimplência acima de 90 dias em 3,8%.",
+   "O JPMorgan mantém recomendação neutra para as ações da PagSeguro, avaliando que o crescimento da receita deve continuar difícil devido à pressão da concorrência no mercado brasileiro, o que impacta taxas e participação de mercado."
+  ],
+  "detalhes": [
+   "Redução da projeção de lucro acompanha resultados do terceiro trimestre de 2023.",
+   "Lucro líquido ajustado apurado pela PagSeguro foi de R$ 611 milhões, segundo a própria empresa.",
+   "Despesas com marketing resultaram em economia de cerca de R$ 45 milhões no trimestre.",
+   "Crescimento da carteira de crédito tem maior aporte em capital de giro, saltando 171% em um ano.",
+   "Carteira sem garantia passou de 24% para 30% em três meses, elevando risco.",
+   "Em outubro, empresa emitiu R$ 2 bilhões em debêntures para diversificar captação e aumentar liquidez.",
+   "Concorrente Stone também cortou projeção de lucro e viu aumento na inadimplência para 9,92%."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Guilherme Grespan, analista do JPMorgan",
+    "oque": "Trimestre melhor que o esperado, mas crescimento de receita ainda é difícil."
+   },
+   {
+    "quem": "Gustavo Sechin, diretor financeiro da PagBank",
+    "oque": "Resultado reflete execução sólida da estratégia e disciplina no controle de custos."
+   },
+   {
+    "quem": "Carlos Mauad, CEO do PagBank",
+    "oque": "Base de clientes aumentou para 33,6 milhões, mostrando relevância no mercado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2023",
+    "oque": "Lucro líquido de R$ 584 milhões e receita estável de R$ 5,1 bilhões."
+   },
+   {
+    "quando": "Setembro de 2023",
+    "oque": "JPMorgan reduziu preço-alvo para US$ 10 para dezembro de 2027 e manteve recomendação neutra."
+   },
+   {
+    "quando": "Outubro de 2023",
+    "oque": "PagSeguro emite R$ 2 bilhões em debêntures para reforçar liquidez."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lucro bruto",
+    "significado": "Receita menos despesas diretas da operação."
+   },
+   {
+    "termo": "Inadimplência",
+    "significado": "Atraso no pagamento de créditos concedidos."
+   },
+   {
+    "termo": "TPV",
+    "significado": "Volume total de pagamentos processados pela empresa."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto da inadimplência na rentabilidade das empresas de pagamento?",
+  "tamanhoTexto": 5994,
+  "numeros": [
+   {
+    "valor": "584 milhões",
+    "rotulo": "Lucro líquido contábil no 3º trimestre"
+   },
+   {
+    "valor": "3% a 5%",
+    "rotulo": "Nova projeção de crescimento do lucro bruto para 2026"
+   },
+   {
+    "valor": "5,1 bilhões",
+    "rotulo": "Receita total no 3º trimestre, estável"
+   },
+   {
+    "valor": "131,4 bilhões",
+    "rotulo": "Volume total de pagamentos processados (TPV) no trimestre"
+   },
+   {
+    "valor": "3,8%",
+    "rotulo": "Inadimplência acima de 90 dias na carteira de crédito"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "Crescimento anual da carteira de crédito do PagBank"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "projeção de lucro bruto 2026",
+    "antes": "6% a 9%",
+    "depois": "3% a 5%"
+   },
+   {
+    "item": "Selic média prevista a partir de 2027",
+    "antes": "12,5%",
+    "depois": "cerca de 14%"
+   }
+  ],
+  "destaque": "Lucro líquido de",
+  "porQueImporta": "A revisão na projeção de lucro da PagSeguro indica desafios reais de crescimento de receita e aumento da inadimplência, fatores que afetam a sustentabilidade financeira da empresa. Investidores e traders devem entender essas dificuldades para avaliar riscos e oportunidades com mais clareza.",
+  "impactoMercado": "A pressão da concorrência e o aumento da inadimplência podem limitar a rentabilidade das empresas de credenciamento, influenciando a avaliação das ações do setor de meios de pagamento e serviços financeiros, além de impactar o comportamento de crédito e custos financeiros futuros.",
+  "entenda": "O lucro bruto representa a diferença entre receita e custos diretos. A inadimplência é o atraso no pagamento de empréstimos, que aumenta o risco e as provisões para perdas. Cortar custos pode ajudar no lucro, mas sem crescimento de receita, a sustentabilidade fica ameaçada no longo prazo.",
+  "observar": "Acompanhe os próximos balanços trimestrais da PagSeguro e a evolução da inadimplência para avaliar tendência de lucro e risco. Observe também o comportamento da Selic e as estratégias de crescimento da empresa.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Essa notícia mostra os desafios de crescer em um mercado competitivo e com risco de inadimplência, ajudando a entender como lucros e custos influenciam a saúde financeira das empresas do setor financeiro.",
+  "gancho": "*PagSeguro* ajusta *lucro* e mostra desafios",
+  "ideias": [
+   "Como a inadimplência afeta empresas como a PagSeguro?",
+   "Entenda por que a PagSeguro revisou sua projeção de lucro",
+   "O que a queda no marketing revela sobre estratégia da PagSeguro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Bloomberg Línea",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T15:46:19-03:00",
+  "url": "https://www.bloomberglinea.com.br/negocios/pagseguro-reduz-projecao-de-lucro-e-expoe-limite-do-corte-de-custos-diz-jpmorgan/",
+  "publicadoEm": "2026-11-17T09:56:57-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-05"
+ },
+ {
+  "titulo": "Rede secreta da NSA sai do ar; causa da pane é investigada",
+  "resumo": "Rede interna da NSA parou em 17/11 e ainda não teve causa identificada. Autoridades não encontraram sinais de ataque cibernético.",
+  "fatos": [
+   "Rede interna da NSA ficou indisponível em 17/11/2026.",
+   "Funcionários da NSA passaram a chegar em horários escalonados em Fort Meade, Maryland.",
+   "Nenhum indício de ataque cibernético foi encontrado até o momento.",
+   "Falha ocorre quatro dias após pane que paralisou decolagens nos EUA em 13/11/2026.",
+   "Microsoft, JPMorgan Chase, Bank of America, Wells Fargo e United Airlines também enfrentaram problemas recentemente.",
+   "United Airlines reportou 418 voos atrasados e 21 cancelamentos em 16/11/2026.",
+   "Falha da FAA em 13/11/2026 foi causada pela modernização de cabos de cobre para fibra óptica.",
+   "Serviço Meteorológico dos EUA negou paralisação nos radares, diferenças causadas por informações antigas.",
+   "A NSA Net é usada para troca de informações altamente sigilosas da inteligência americana."
+  ],
+  "explicacao": [
+   "Na terça-feira, 17 de novembro de 2026, a rede interna de comunicações da Agência de Segurança Nacional dos EUA (NSA) ficou indisponível, afetando o compartilhamento de dados sigilosos entre funcionários. A agência mudou a rotina e escalonou a chegada na sede em Fort Meade, Maryland, enquanto investiga o incidente.",
+   "Essa pane acontece em meio a outras falhas recentes nos Estados Unidos, incluindo a paralisação temporária de voos na sexta-feira anterior e problemas em serviços digitais da Microsoft, grandes bancos e a United Airlines. Até agora, não há evidência de ataques cibernéticos, segundo fontes da CNN e The Record.",
+   "A interrupção revela vulnerabilidades na infraestrutura tecnológica de serviços essenciais e levanta debates sobre modernização, especialmente no controle do tráfego aéreo, que sofre com equipamentos obsoletos. A NSA ainda não informou quais operações foram afetadas ou previsão para a rede voltar ao normal.",
+   "O que vem agora é a continuidade das investigações para identificar a origem e extensão da falha, enquanto o governo americano acompanha outras ocorrências e descarta ligação direta entre os problemas recentes em setores variados."
+  ],
+  "detalhes": [
+   "A NSA é a principal agência de inteligência eletrônica dos EUA, responsável por vigilância e segurança de dados governamentais.",
+   "A rede NSA Net é essencial para comunicação interna segura e acesso a dados classificados.",
+   "A falha causou mudança temporária na rotina de colaboradores para manter operações.",
+   "Não há informação sobre o número de funcionários afetados ou quais atividades foram comprometidas.",
+   "Sequência de falhas tecnológicas nos EUA atingiu múltiplos setores, mas sem ligação oficial confirmada.",
+   "Pane na FAA durou mais de quatro horas, suspendendo decolagens temporariamente.",
+   "As investigações buscam identificar se houve falha técnica ou outro motivo para o problema."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Sean Duffy, secretário de Transportes dos EUA",
+    "oque": "Falha na FAA ocorreu durante troca de cabos de cobre por fibra óptica na modernização."
+   },
+   {
+    "quem": "Fontes da CNN e The Record",
+    "oque": "Não houve identificação de sinais de ataque cibernético na pane da NSA."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "12/11/2026",
+    "oque": "Problemas de instabilidade em serviços da Microsoft iniciam sequência de falhas."
+   },
+   {
+    "quando": "13/11/2026",
+    "oque": "Pane no sistema da FAA suspende decolagens por mais de quatro horas."
+   },
+   {
+    "quando": "16/11/2026",
+    "oque": "Bancos e United Airlines relatam falhas nos sistemas."
+   },
+   {
+    "quando": "17/11/2026",
+    "oque": "Rede interna da NSA sai do ar, agência altera rotina de trabalho."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "NSA",
+    "significado": "Agência de Segurança Nacional dos EUA, atua em inteligência e segurança digital."
+   },
+   {
+    "termo": "Pane",
+    "significado": "Falha tecnológica que interrompe o funcionamento de sistemas ou serviços."
+   },
+   {
+    "termo": "Ataque cibernético",
+    "significado": "Tentativa de invadir ou prejudicar sistemas digitais por meios eletrônicos."
+   }
+  ],
+  "pergunta": "Você acha que esses incidentes vão acelerar a modernização tecnológica dos EUA?",
+  "tamanhoTexto": 11631,
+  "numeros": [
+   {
+    "valor": "17/11/2026",
+    "rotulo": "Data da pane na rede da NSA"
+   },
+   {
+    "valor": "4",
+    "rotulo": "Dias entre falha da FAA e pane na NSA"
+   },
+   {
+    "valor": "418",
+    "rotulo": "Voos atrasados na United Airlines em 16/11"
+   },
+   {
+    "valor": "21",
+    "rotulo": "Voos cancelados na United Airlines em 16/11"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Falha na rede",
+  "porQueImporta": "Para quem opera ou investe, essa sequência de falhas destaca a fragilidade das infraestruturas digitais, que são fundamentais para setores como transporte, finanças e segurança. Entender esses riscos ajuda a avaliar a exposição e a importância da modernização tecnológica.",
+  "impactoMercado": "Com o impacto em serviços essenciais como bancos, aviação e dados governamentais, pode aumentar o interesse por investimentos em segurança digital e infraestrutura tecnológica, além de afetar a confiança em sistemas digitais críticos.",
+  "entenda": "A NSA Net é uma rede interna altamente segura usada para trocar informações sigilosas da inteligência americana. Sua interrupção impacta operações internas e mostra como sistemas digitais são essenciais e vulneráveis, mesmo nas agências mais protegidas.",
+  "observar": "É importante acompanhar as investigações sobre a origem da falha na NSA e se haverá mudanças nas políticas de segurança e modernização tecnológica, além de monitorar possíveis novos episódios em serviços digitais e infraestrutura crítica.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia conecta falhas para mostrar vulnerabilidades na infraestrutura digital americana, incentivando o aprendizado sobre riscos e a importância da modernização, tema central na faculdade de mercado financeiro e day trade.",
+  "gancho": "*NSA* fora do ar: entenda impacto",
+  "ideias": [
+   "O que é a NSA Net e por que ela é importante?",
+   "Sequência de falhas tecnológicas nos EUA: o que está por trás?",
+   "Falhas em agências, bancos e voos: o que quem investe precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "escudo",
+  "fonte": "BP Money; InfoMoney",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T15:46:19-03:00",
+  "url": "https://bpmoney.com.br/mundo/rede-secreta-comunicacoes-nsa-fora-do-ar-eua/",
+  "publicadoEm": "2026-11-17T15:35:40-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-06"
+ },
+ {
+  "titulo": "Ibovespa cai 9,88% e dólar sobe 5,27% em outubro; veja como dolarizar",
+  "resumo": "Ibovespa recuou forte em outubro, o pior desde junho de 2022, enquanto dólar subiu 5,27%. Dolarizar patrimônio via ETF DOLX11 na B3 é alternativa prática para diversificar investimentos.",
+  "fatos": [
+   "Ibovespa recuou 9,88% em outubro de 2023",
+   "Queda mensal foi a pior desde junho de 2022",
+   "Dólar valorizou 5,27% no mesmo mês",
+   "ETF DOLX11 acompanha variação do dólar mais juros americanos",
+   "DOLX11 combina contratos futuros de dólar e Letras Financeiras do Tesouro (LFTs)",
+   "ETF é negociado na B3 em reais, sem necessidade de conta no exterior",
+   "Exposição ao dólar ajuda a diversificar o patrimônio geograficamente",
+   "Desempenho do DOLX11 depende também de política monetária do FED",
+   "Dolarizar não garante proteção absoluta contra baixa do Ibovespa",
+   "Variação do DOLX11 não segue exatamente o dólar comercial"
+  ],
+  "explicacao": [
+   "Em outubro, o Ibovespa teve queda significativa de 9,88%, seu pior desempenho mensal desde junho de 2022. Simultaneamente, o dólar acumula alta de 5,27% no período, refletindo turbulências no mercado brasileiro. Esse cenário expõe riscos para quem investe majoritariamente em ativos locais.",
+   "A causa principal envolve incertezas econômicas e políticas no Brasil, como mudanças nas expectativas fiscais que influenciam o humor do mercado. Esses fatores provocam volatilidade e mostraram a necessidade de diversificar a carteira geograficamente e em moedas.",
+   "Uma forma prática de se expor ao dólar sem comprar moeda física ou abrir conta no exterior é através dos ETFs negociados na B3, como o DOLX11. Este fundo acompanha o dólar frente ao real, acrescido de juros americanos, usando contratos futuros de dólar e títulos públicos indexados à Selic.",
+   "O DOLX11 permite ao investidor acessar o mercado cambial americano diretamente pela bolsa brasileira. Apesar de aportar exposição ao dólar, ele não garante proteção total contra quedas no Ibovespa, pois seu desempenho depende também de fatores internacionais e da política do Federal Reserve."
+  ],
+  "detalhes": [
+   "Ibovespa representa a principal bolsa de valores brasileira e é sensível a fatores domésticos",
+   "O dólar é a moeda americana e serve como referência para exposição cambial",
+   "Contratos futuros são instrumentos financeiros que preveem o preço do dólar em datas futuras",
+   "Letras Financeiras do Tesouro (LFTs) são títulos públicos atrelados à taxa Selic",
+   "DOLX11 é um fundo negociado na B3 gerido pela XP Asset",
+   "Diversificação cambial pode reduzir riscos em momentos de instabilidade do real",
+   "Investir no DOLX11 é possível pela corretora, comprando cotas em reais"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Suno Notícias",
+    "oque": "Destaca que o cenário atual reforça a importância da diversificação cambial e geográfica"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "outubro de 2023",
+    "oque": "Ibovespa caiu 9,88%, dólar subiu 5,27%"
+   },
+   {
+    "quando": "junho de 2022",
+    "oque": "Última vez que Ibovespa teve queda mensal tão forte"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede desempenho das ações mais negociadas no Brasil"
+   },
+   {
+    "termo": "ETF",
+    "significado": "Fundo negociado em bolsa que replica índices ou ativos"
+   },
+   {
+    "termo": "DOLAR",
+    "significado": "Moeda americana usada para diversificação cambial"
+   }
+  ],
+  "pergunta": "Você já considerou usar ETFs para diversificar e dolarizar seu patrimônio?",
+  "tamanhoTexto": 4411,
+  "numeros": [
+   {
+    "valor": "9,88%",
+    "rotulo": "queda do Ibovespa em outubro de 2023"
+   },
+   {
+    "valor": "5,27%",
+    "rotulo": "alta do dólar no mesmo período"
+   },
+   {
+    "valor": "R$ 300 mil",
+    "rotulo": "bônus liberado pela Suno (não relacionado ao ETF)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa",
+    "antes": "queda menor que 9,88% (último recorde em jun/22)",
+    "depois": "queda de 9,88% em out/23"
+   }
+  ],
+  "destaque": "queda de 9,88%",
+  "porQueImporta": "A forte queda do Ibovespa e a valorização do dólar mostram que concentrar investimentos no mercado brasileiro pode aumentar riscos. Diversificar geograficamente e em moedas, como fazer apostas via ETF DOLX11, ajuda a equilibrar riscos diante da instabilidade local e internacional.",
+  "impactoMercado": "O movimento evidencia a procura por alternativas na bolsa para dolarizar patrimônio, o que pode impulsionar a liquidez de ETFs cambiais. Investidores podem rever o peso de ativos domésticos e considerar exposição ao dólar para proteção cambial, afetando setores ligados ao mercado internacional.",
+  "entenda": "Ibovespa é o principal índice da bolsa brasileira, mostrando o desempenho de ações locais. ETF é um fundo negociado em bolsa que replica ativos, facilitando diversificação. Dolarizar significa ter parte do patrimônio em dólar, protegendo contra desvalorização do real. Contratos futuros antecipam preços futuros do dólar.",
+  "observar": "Acompanhe futuras oscilações do Ibovespa e do dólar, além das decisões do Federal Reserve que impactam juros americanos e variação cambial, influenciando ETFs como o DOLX11.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos como a queda na bolsa e a alta do dólar impactam investimentos e mostramos uma solução simples para quem quer diversificar sem complicações, aproximando o público do mercado financeiro e da faculdade Trader School.",
+  "gancho": "*Dolarize* seu patrimônio",
+  "ideias": [
+   "Por que o Ibovespa caiu quase 10% em outubro?",
+   "Como o dólar pode ajudar a proteger seus investimentos?",
+   "DOLX11: conheça o ETF para ter exposição ao dólar na B3"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Suno Notícias",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T15:46:19-03:00",
+  "url": "https://www.suno.com.br/noticias/ibovespa-queda-dolarizar-patrimonio-gss/",
+  "publicadoEm": "2026-11-17T14:54:48-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-07"
+ },
+ {
   "titulo": "BTG diz que mercado cobra urgência no ajuste fiscal e Lula atenderá",
   "resumo": "André Esteves, do BTG, afirmou que o mercado exige ajuste fiscal rápido e confia em Lula para entregar o esperado. Ativos caíram e dólar subiu, refletindo preocupação com cenário econômico e equipe futura.",
   "fatos": [
@@ -8693,19 +9195,19 @@
   "tipo": "sinal",
   "slug": "fed-decision-in-december-20260729232808632",
   "titulo": "Fed Decision in December?",
-  "resumo": "Mercado de previsões vê 87,5% de chance de aumento de 25 bps nas taxas de juros pelo Fed em dezembro.",
+  "resumo": "O mercado de previsões indica 92,5% de chance de aumento de 25 bps na taxa de juros do Fed.",
   "probs": [
    {
     "opcao": "Aumento de 25 bps",
-    "prob": 87.5
+    "prob": 92.5
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 10.2
+    "prob": 4.9
    },
    {
     "opcao": "Sem mudança",
-    "prob": 1.6
+    "prob": 3.1
    },
    {
     "opcao": "Redução de 25 bps",
@@ -8713,24 +9215,24 @@
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 3,1 mi",
+  "volume24h": "US$ 1,5 mi",
   "fatos": [
-   "Aumento de 25 bps: 87,5%",
-   "Aumento de 50+ bps: 10,2%",
-   "Sem mudança: 1,6%",
+   "Aumento de 25 bps: 92,5%",
+   "Aumento de 50+ bps: 4,9%",
+   "Sem mudança: 3,1%",
    "Redução de 25 bps: 0,4%"
   ],
   "numeros": [
    {
-    "valor": "87,5%",
+    "valor": "92,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "10,2%",
+    "valor": "4,9%",
     "rotulo": "Aumento de 50+ bps"
    },
    {
-    "valor": "1,6%",
+    "valor": "3,1%",
     "rotulo": "Sem mudança"
    },
    {
@@ -8738,7 +9240,7 @@
     "rotulo": "Redução de 25 bps"
    }
   ],
-  "destaque": "87,5%",
+  "destaque": "92,5%",
   "gancho": "*Expectativa de altos juros* em dezembro",
   "entenda": "As decisões do Fed influenciam diretamente o custo do crédito e a economia. As apostas mostram a expectativa do mercado sobre mudanças nas taxas de juros.",
   "categoria": "Previsões",
@@ -8751,8 +9253,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-12T18:55:11-03:00",
   "data": "2026-11-12",
-  "status": "nova",
-  "id": "2026-11-12-p1"
+  "status": "atualizada",
+  "id": "2026-11-12-p1",
+  "atualizadoEm": "2026-11-17T15:46:19-03:00"
  },
  {
   "titulo": "Dólar sobe a R$ 5,64 com pacote fiscal e inflação de outubro em foco",
@@ -14824,53 +15327,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 64.0% de chance de Bitcoin acima de 67.500 em novembro.",
-  "resumo": "Os apostadores têm expectativas mistas sobre o preço do Bitcoin para o próximo mês.",
+  "titulo": "What price will Bitcoin hit in November?",
+  "resumo": "Apostadores veem 79,5% de chance do Bitcoin cair para abaixo de 62.500 até dezembro de 2026.",
   "probs": [
    {
-    "opcao": "abaixo de 62.500",
-    "prob": 64.5
+    "opcao": "↓ 62,500",
+    "prob": 79.5
    },
    {
-    "opcao": "acima de 67.500",
-    "prob": 64.0
+    "opcao": "↑ 65,000",
+    "prob": 78.5
    },
    {
-    "opcao": "abaixo de 60.000",
-    "prob": 39.5
+    "opcao": "↓ 60,000",
+    "prob": 49.5
    },
    {
-    "opcao": "acima de 70.000",
-    "prob": 34.5
+    "opcao": "↑ 67,500",
+    "prob": 48.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 384 mil",
+  "volume24h": "US$ 346 mil",
   "fatos": [
-   "abaixo de 62.500: 64,5%",
-   "acima de 67.500: 64,0%",
-   "abaixo de 60.000: 39,5%",
-   "acima de 70.000: 34,5%"
+   "↓ 62,500: 79,5%",
+   "↑ 65,000: 78,5%",
+   "↓ 60,000: 49,5%",
+   "↑ 67,500: 48,5%"
   ],
   "numeros": [
    {
-    "valor": "64,5%",
-    "rotulo": "abaixo de 62.500"
+    "valor": "79,5%",
+    "rotulo": "↓ 62,500"
    },
    {
-    "valor": "64,0%",
-    "rotulo": "acima de 67.500"
+    "valor": "78,5%",
+    "rotulo": "↑ 65,000"
    },
    {
-    "valor": "39,5%",
-    "rotulo": "abaixo de 60.000"
+    "valor": "49,5%",
+    "rotulo": "↓ 60,000"
    },
    {
-    "valor": "34,5%",
-    "rotulo": "acima de 70.000"
+    "valor": "48,5%",
+    "rotulo": "↑ 67,500"
    }
   ],
-  "destaque": "64,5%",
+  "destaque": "79,5%",
   "gancho": "*Alta expectativa* para o Bitcoin",
   "entenda": "As flutuações no preço do Bitcoin refletem a demanda e o sentimento do mercado de criptomoedas.",
   "categoria": "Previsões",
@@ -14885,7 +15388,7 @@
   "data": "2026-11-10",
   "status": "atualizada",
   "id": "2026-11-10-p4",
-  "atualizadoEm": "2026-11-16T16:52:59-03:00"
+  "atualizadoEm": "2026-11-17T15:46:19-03:00"
  },
  {
   "titulo": "Dólar salta a R$ 5,60 após inflação dos EUA acima do esperado",
