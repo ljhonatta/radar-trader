@@ -1,5 +1,905 @@
 [
  {
+  "titulo": "Dólar sobe a R$ 5,83 com incertezas no pacote fiscal e atenção ao Fed",
+  "resumo": "Dólar avançou 0,97%, alcançando R$ 5,83 em meio a dúvidas sobre o ajuste fiscal no Congresso e expectativa pela ata do Fed.",
+  "fatos": [
+   "Dólar à vista subiu 0,97% às 15h15 de 18/11, a R$ 5,83.",
+   "Dólar futuro para dezembro avançou 0,47% na B3, aos R$ 5,818.",
+   "Nas quatro sessões anteriores, dólar à vista saltou mais de 20 centavos.",
+   "Presidente do Senado, Davi Alcolumbre, adiou votação do pacote fiscal.",
+   "Pacote fiscal pode impactar até R$ 60 bilhões em 2027.",
+   "Governo espera superávit primário de 0,5% do PIB em 2027.",
+   "Banco Central realizou leilões de linha totalizando US$ 1 bilhão.",
+   "Investidores aguardam ata da última reunião do Federal Reserve.",
+   "Valorização global do dólar influencia cotação frente ao real."
+  ],
+  "explicacao": [
+   "Nesta quarta-feira (18), o dólar à vista valorizou 0,97%, cotado a R$ 5,83, acompanhado da alta do dólar futuro para dezembro, que subiu 0,47% na B3, chegando a R$ 5,818. O mercado reagiu ao adiamento da votação do pacote de ajuste fiscal no Senado.",
+   "O presidente do Senado, Davi Alcolumbre, optou por não votar o projeto nesta data devido à necessidade de consenso sobre destaques que limitariam compensações tributárias. O governo prevê que o pacote poderá gerar impacto fiscal de até R$ 60 bilhões em 2027, visando um superávit primário de 0,5% do PIB.",
+   "A falta de acordo entre os parlamentares eleva as incertezas sobre a aprovação do ajuste fiscal, o que pressiona a cotação do dólar. Além disso, o movimento de valorização do dólar no mercado global, com investidores aguardando a ata do Federal Reserve, reforça a pressão sobre o real.",
+   "O Banco Central realizou dois leilões de linha, totalizando US$ 1 bilhão, para dar liquidez ao mercado cambial. O mercado segue atento à tramitação do pacote fiscal e às decisões do Fed para indicações sobre a política monetária americana."
+  ],
+  "detalhes": [
+   "O presidente do Senado, Davi Alcolumbre (União-AP), adiou a votação por falta de consenso sobre destaques ao pacote fiscal.",
+   "O destaque mais polêmico limita compensações tributárias e pode comprometer o ajuste fiscal.",
+   "O impacto previsto pelo governo para o pacote chega a R$ 60 bilhões em 2027.",
+   "O objetivo é alcançar superávit primário de 0,5% do PIB no ano seguinte.",
+   "Nas últimas quatro sessões, o dólar subiu mais de R$ 0,20 em meio às incertezas fiscais.",
+   "A estratégia do Banco Central foi oferecer liquidez ao mercado com leilões de linha.",
+   "O mercado aguarda a ata do Fed para sinais sobre política de juros nos EUA."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Davi Alcolumbre, presidente do Senado",
+    "oque": "Decidiu adiar a votação para buscar entendimento sobre os destaques ao pacote fiscal."
+   },
+   {
+    "quem": "Rebecca Nossig, estrategista da Nomad",
+    "oque": "A valorização do real não é apenas por preocupações fiscais, mas também pelo fortalecimento global do dólar."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de novembro de 2026, 15h15",
+    "oque": "Dólar à vista registrou alta de 0,97%, chegando a R$ 5,83."
+   },
+   {
+    "quando": "18 de novembro de 2026, manhã",
+    "oque": "Banco Central realizou dois leilões de linha, somando US$ 1 bilhão."
+   },
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Presidente do Senado adiou votação do pacote fiscal por falta de acordo."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pacote de ajuste fiscal",
+    "significado": "Conjunto de medidas para melhorar as contas públicas e controlar despesas governamentais."
+   },
+   {
+    "termo": "Leilões de linha",
+    "significado": "Operações do BC que vendem dólares com compromisso de recompra futura."
+   },
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo positivo das contas do governo, excluindo juros da dívida."
+   }
+  ],
+  "pergunta": "Como o pacote fiscal pode influenciar o dólar e sua estratégia no mercado?",
+  "tamanhoTexto": 12996,
+  "numeros": [
+   {
+    "valor": "5,83",
+    "rotulo": "cotação do dólar à vista em 18/11/2026"
+   },
+   {
+    "valor": "0,97%",
+    "rotulo": "alta do dólar à vista na mesma data"
+   },
+   {
+    "valor": "5,818",
+    "rotulo": "cotação do dólar futuro para dezembro na B3"
+   },
+   {
+    "valor": "60 bilhões",
+    "rotulo": "impacto fiscal esperado do pacote em 2027 (R$)"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "superávit primário alvo do governo para 2027 (PIB)"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "valor em dólares dos leilões de linha promovidos pelo BC (US$)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 5,83",
+  "porQueImporta": "O avanço do dólar está diretamente ligado às incertezas fiscais e à política monetária dos EUA, fatores que afetam custos, investimentos e importações para quem opera, tornando essencial acompanhar essas variações para planejar suas operações.",
+  "impactoMercado": "O câmbio mais alto pressiona setores que dependem de insumos importados e pode afetar empresas com dívidas em dólar. Investidores acompanham o pacote fiscal e a ata do Fed para ajustar posições em renda variável, juros e dólar futuro.",
+  "entenda": "O dólar à vista reflete o preço imediato da moeda. O ajuste fiscal busca controlar gastos públicos para melhorar as contas do governo. A ata do Fed traz informações sobre taxas de juros nos EUA, que influenciam o câmbio global e o fluxo de investimentos.",
+  "observar": "Fique atento à retomada das votações do pacote fiscal no Congresso e à publicação da ata do Fed. Essas movimentações podem gerar volatilidade no dólar e consequentemente no mercado brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Esta notícia explica em detalhes como um pacote fiscal e decisões do Fed afetam o dólar, essencial para quem quer entender o impacto na economia e no mercado financeiro antes de operar.",
+  "gancho": "*Dólar* sobe com *pacote fiscal* e *Fed*",
+  "ideias": [
+   "Entenda por que o dólar subiu para R$ 5,83",
+   "Pacote fiscal no Congresso e o impacto no câmbio",
+   "O que a ata do Fed pode revelar para o dólar e investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "BP Money; InfoMoney; InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "url": "https://bpmoney.com.br/mercado/cambio/dolar-hoje-sobe-583-pacote-fiscal-ata-fed-18-11-2026/",
+  "publicadoEm": "2026-11-18T15:19:34-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-04"
+ },
+ {
+  "titulo": "Caterpillar mira crescimento com expansão de equipamentos compactos",
+  "resumo": "Caterpillar aposta em máquinas compactas para crescimento além da IA, com plano de 50 lojas e fábrica. Vendas na construção devem subir para US$ 35 bilhões até 2028.",
+  "fatos": [
+   "Equipamentos compactos de construção pesam cerca de 5 toneladas.",
+   "Tratores de esteira grandes chegam a mais de 100 toneladas; caminhão 797F pesa 250 toneladas.",
+   "Atualmente, 13% dos clientes conhecem a linha compacta da Caterpillar.",
+   "Meta de 100% dos clientes conhecerem os compactos.",
+   "Serão abertas 50 lojas especializadas até o fim de 2026, 40 já inauguradas.",
+   "Vendas da divisão construção esperadas em US$ 30 bilhões em 2026, 40% do total.",
+   "Previsão de crescimento anual de 8% para construção até 2028, chegando a US$ 35 bilhões.",
+   "Divisão energia espera vendas de US$ 31 bilhões em 2026, US$ 50 bilhões em 2028.",
+   "Fábrica de US$ 1 bilhão na Carolina do Norte para compactos, produção em 2028.",
+   "Analistas estimam crescimento de 5 pontos percentuais no setor construção por conta dos compactos."
+  ],
+  "explicacao": [
+   "A Caterpillar revelou um plano para ampliar as vendas de equipamentos compactos de construção, máquinas de cerca de cinco toneladas, em evento na Carolina do Norte, em 17/11/2026. O objetivo é expandir seu mercado além do segmento ligado à energia para data centers de IA.",
+   "Causas incluem a percepção de mercado mal atendido: apenas 13% dos clientes sabem que a empresa oferece máquinas menores. Para mudar isso, a empresa planeja abrir até 50 lojas especializadas e lançar uma fábrica de US$ 1 bilhão até 2028.",
+   "Esse movimento visa impulsionar a divisão de construção, que deve gerar US$ 30 bilhões em 2026 e pode crescer 8% ao ano até 2028, chegando a US$ 35 bilhões. Isso contrasta com a divisão de energia, que deve alcançar US$ 50 bilhões naquele ano.",
+   "A expectativa é que o crescimento com compactos dê novo impulso às ações da companhia, que recuaram depois de um pico de valorização em 2025. A fábrica, altamente automatizada, começará produção em 2028, aumentando a capacidade para minicarregadeiras e manipuladores."
+  ],
+  "detalhes": [
+   "Plano detalhado a analistas em evento na Carolina do Norte, em 17/11/2026.",
+   "Presidente da divisão construção, Rod Shurman, revela foco no mercado pouco explorado.",
+   "Atualmente, grandes clientes pedem máquinas menores para obras e urbanização.",
+   "Instalação da fábrica começa em breve, com alta automação e foco em rentabilidade.",
+   "A linha de equipamentos compactos inclui minicarregadeiras de esteira e manipuladores telescópicos.",
+   "As ações da Caterpillar tiveram pico em junho de 2025, com queda subsequente por desaceleração na IA.",
+   "Meta de ampliar o conhecimento do público interno visa dobrar a linha de produção e ampliar vendas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rod Shurman, presidente da divisão de indústrias de construção da",
+    "oque": "Segmento de equipamentos compactos é mal atendido e queremos atender desejos dos clientes."
+   },
+   {
+    "quem": "Kyle Menges, analista do Citi",
+    "oque": "Vendas de compactos podem adicionar cinco pontos percentuais ao crescimento do setor em 2027/2028."
+   },
+   {
+    "quem": "Stephen Volkmann, analista da Jefferies",
+    "oque": "Fábrica será altamente automatizada e deve gerar forte rentabilidade."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "junho de 2025",
+    "oque": "Ação da Caterpillar ultrapassa US$ 1.000, com prêmio de 40 vezes lucro."
+   },
+   {
+    "quando": "17/11/2026",
+    "oque": "Evento revela estratégia de expansão dos equipamentos compactos."
+   },
+   {
+    "quando": "até fim de 2026",
+    "oque": "Meta de alcançar 50 lojas especializadas em compactos."
+   },
+   {
+    "quando": "2028",
+    "oque": "Início da produção na nova fábrica automatizada."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Equipamentos compactos",
+    "significado": "Máquinas de construção pequenas, geralmente cerca de 5 toneladas."
+   },
+   {
+    "termo": "Divisão de energia e potência",
+    "significado": "Segmento da Caterpillar voltado para equipamentos de geração de energia, como para data centers."
+   },
+   {
+    "termo": "Minicarregadeiras",
+    "significado": "Pequenas máquinas para carregar e mover materiais, usado em espaços restritos."
+   }
+  ],
+  "pergunta": "Você conhece os equipamentos compactos da Caterpillar?",
+  "tamanhoTexto": 15649,
+  "numeros": [
+   {
+    "valor": "5 toneladas",
+    "rotulo": "Peso aproximado dos equipamentos compactos da Caterpillar"
+   },
+   {
+    "valor": "100 toneladas",
+    "rotulo": "Peso do trator de esteira de grande porte da Caterpillar"
+   },
+   {
+    "valor": "250 toneladas",
+    "rotulo": "Peso do caminhão de mineração 797F da Caterpillar"
+   },
+   {
+    "valor": "13%",
+    "rotulo": "Clientes que sabem da linha de equipamentos compactos"
+   },
+   {
+    "valor": "50",
+    "rotulo": "Lojas especializadas anunciadas para compactos até fim de 2026"
+   },
+   {
+    "valor": "US$ 30 bilhões",
+    "rotulo": "Faturamento esperado da divisão construção em 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Preço das ações (junho 2025 vs. novembro 2026)",
+    "antes": "Quase US$ 1.000",
+    "depois": "Cerca de US$ 571"
+   },
+   {
+    "item": "Multiplicador do lucro",
+    "antes": "40 vezes",
+    "depois": "18 vezes"
+   },
+   {
+    "item": "Faturamento da divisão construção",
+    "antes": "US$ 25 bilhões (2025)",
+    "depois": "Estimado US$ 30 bilhões (2026)"
+   }
+  ],
+  "destaque": "Vendas compactas devem",
+  "porQueImporta": "Expandir o mercado de equipamentos compactos diversifica a receita da Caterpillar, reduzindo dependência da área de energia voltada a IA. Isso pode estabilizar o crescimento e trazer maior resiliência para investidores diante das oscilações do setor tecnológico.",
+  "impactoMercado": "O avanço dos compactos pode impulsionar os negócios da construção civil e as ações da Caterpillar. Setores que demandam máquinas menores poderão se beneficiar, inclusive com aumento da oferta e competitividade no mercado local e global.",
+  "entenda": "Equipamentos compactos são máquinas menores, mais ágeis e usadas para obras urbanas e construções de menor porte. Isso contrasta com equipamentos pesados usados em mineradoras e grandes obras, e pode atender mercados que crescem a um ritmo diferente e mais constante.",
+  "observar": "Fique atento à inauguração das lojas especializadas e ao início da produção da nova fábrica em 2028, que serão marcos importantes para o crescimento dos compactos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra como o crescimento de um segmento pouco conhecido pode impactar a receita da Caterpillar, ajudando o investidor a entender diversificação no mercado e oportunidades práticas nas máquinas além da IA.",
+  "gancho": "*Caterpillar* e o mercado de *compactos*",
+  "ideias": [
+   "Por que apostar em equipamentos compactos para investir?",
+   "Impactos da IA e crescimento dos compactos na Caterpillar",
+   "Entenda os equipamentos compactos da Caterpillar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Valor Econômico; Folha Mercado; InvestNews",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/18/caterpillar-aposta-em-equipamentos-compactos-para-impulsionar-crescimento-alm-do-boom-da-ia.ghtml",
+  "publicadoEm": "2026-11-18T14:58:05-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-05"
+ },
+ {
+  "titulo": "Copom deve manter juros estáveis, mas alta pode ocorrer em 2027, alerta ex-diretor",
+  "resumo": "Ex-diretor do BC Reinaldo Le Grazie prevê manutenção da Selic, mas não descarta alta em 2027. Ministro Durigan vê desaceleração e aposta em aprovação de ajuste fiscal para ajudar nos juros.",
+  "fatos": [
+   "Evento BV MacroDay 2027 ocorreu em 18 de outubro de 2023 em São Paulo.",
+   "Reinaldo Le Grazie é ex-diretor de Política Monetária do Banco Central e sócio fundador da Panamby Capital.",
+   "Ele prevê possível alta da taxa Selic no segundo trimestre de 2027.",
+   "Projeções inflacionárias aumentaram de em torno de 3% para entre 5% e 6% para 2027.",
+   "Ministro Dario Durigan prevê crescimento econômico de cerca de 1% em 2027, menor que 1,7% em 2026.",
+   "Texto-base do ajuste fiscal aprovado por 45 a 31 no Senado, com votação final prevista para 18/10/2023.",
+   "No terceiro trimestre de 2026, 971 mil pessoas buscavam emprego há mais de dois anos, menor número desde 2012.",
+   "Desemprego total no terceiro trimestre de 2026 era 5,2%, menor patamar para o período desde 2012."
+  ],
+  "explicacao": [
+   "Reinaldo Le Grazie, ex-diretor de Política Monetária do Banco Central, afirmou durante o BV MacroDay, em 18 de outubro de 2023, que o Comitê de Política Monetária (Copom) deve manter a Selic estável, por enquanto, aguardando novos dados econômicos.",
+   "Le Grazie destacou que, apesar da serenidade atual, o risco de alta na taxa Selic para o segundo trimestre de 2027 está crescendo, devido ao cenário inflacionário que se deteriorou e pressões externas e internas, como a reforma tributária e o câmbio.",
+   "O ministro da Fazenda, Dario Durigan, também comentou em evento que o Brasil deve ter desaceleração econômica em 2027 com PIB projetado em torno de 1%, mas sem recessão. O avanço do ajuste fiscal pode permitir a redução dos juros ao longo dos próximos anos.",
+   "A aprovação do ajuste fiscal no Senado, prevista para 18 de outubro de 2023, é vista como crucial para a melhora das contas públicas, refletindo positivamente na política monetária e na possibilidade de cortes futuros na Selic pelo Banco Central."
+  ],
+  "detalhes": [
+   "Reinaldo Le Grazie alerta que o Copom espera mais dados de inflação, atividade econômica e cenário político para decidir.",
+   "O custo do crédito alto afeta empresas grandes e pequenas, dificultando repasses e ganhos de produtividade.",
+   "Reinaldo cita fatores de pressão inflacionária como choques externos, reforma tributária e trajetória do câmbio.",
+   "Ministro da Fazenda considera que o ajuste fiscal é etapa inicial de um plano gradual de quatro anos.",
+   "A votação do ajuste fiscal no Senado estava prevista para 17/10, mas foi adiada para 18/10 de 2023.",
+   "O crescimento do PIB para 2027 é estimado em 1% no mercado, inferior aos 2,3% projetados para 2025.",
+   "IBGE registrou desemprego de longo prazo (mais de dois anos) em 971 mil no terceiro trimestre de 2026."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Reinaldo Le Grazie, ex-diretor de Política Monetária do BC",
+    "oque": "Copom deve manter juros estáveis por agora, mas alta pode ocorrer em 2027 se cenário não permitir queda."
+   },
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Não acredito em recessão em 2027; ajuste fiscal ajudará a reduzir juros no futuro."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de outubro de 2023",
+    "oque": "BV MacroDay 2027 ocorre em São Paulo com falas de Reinaldo Le Grazie."
+   },
+   {
+    "quando": "17 e 18 de outubro de",
+    "oque": "Votação do ajuste fiscal foi adiada para o dia 18 no Senado."
+   },
+   {
+    "quando": "terceiro trimestre de 2026",
+    "oque": "IBGE divulga dados sobre desemprego de longo prazo e taxa geral."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Copom",
+    "significado": "Comitê que decide a taxa básica de juros no Brasil."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira."
+   },
+   {
+    "termo": "Ajuste fiscal",
+    "significado": "Conjunto de medidas para equilibrar as contas públicas."
+   }
+  ],
+  "pergunta": "Você acha que o Copom vai subir os juros em 2027?",
+  "tamanhoTexto": 10236,
+  "numeros": [
+   {
+    "valor": "5,2%",
+    "rotulo": "taxa de desemprego no terceiro trimestre de 2026"
+   },
+   {
+    "valor": "971 mil",
+    "rotulo": "desempregados há pelo menos dois anos em 2026"
+   },
+   {
+    "valor": "1%",
+    "rotulo": "previsão do PIB para 2027"
+   },
+   {
+    "valor": "45 a 31",
+    "rotulo": "votação do texto-base do ajuste fiscal no Senado"
+   },
+   {
+    "valor": "entre 5% e 6%",
+    "rotulo": "nova projeção de inflação para 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Projeção de inflação para 2027",
+    "antes": "em torno de 3%",
+    "depois": "entre 5% e 6%"
+   },
+   {
+    "item": "PIB projetado",
+    "antes": "2,3% em 2025",
+    "depois": "1% em 2027"
+   }
+  ],
+  "destaque": "Possível alta de",
+  "porQueImporta": "A possibilidade de manutenção ou aumento da Selic impacta diretamente os custos de crédito e investimentos. Para quem opera ou investe no mercado financeiro, entender a postura do Copom ajuda a avaliar o cenário econômico e ajustar estratégias diante do controle inflacionário e da atividade econômica.",
+  "impactoMercado": "Setores sensíveis a juros, como o financeiro e empresas com alto endividamento, podem ser afetados por altas ou estabilidade na Selic. A aprovação do ajuste fiscal é essencial para conter o risco fiscal, o que pode abrir espaço para cortes futuros nos juros pelo Banco Central.",
+  "entenda": "A Selic é a taxa básica de juros da economia, definida pelo Copom do Banco Central, que influencia empréstimos e investimentos. Quando a inflação está alta, o BC pode subir a Selic para conter os preços. O ajuste fiscal são medidas para controlar gastos públicos e dívidas, tornando possível a redução dos juros com segurança.",
+  "observar": "Fique atento à votação final do ajuste fiscal no Senado e aos próximos relatórios de inflação e atividade econômica para 2027, que podem influenciar as decisões do Copom.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra como decisões do BC e cenário fiscal influenciam os juros básicos da economia. Entender esse contexto ajuda quem quer operar ou investir a acompanhar os impactos nas finanças pessoais e estratégias de mercado.",
+  "gancho": "*Juros* e *Copom*: o que esperar?",
+  "ideias": [
+   "Por que o Copom pode subir juros em 2027?",
+   "Como o ajuste fiscal influencia a Selic?",
+   "O que significa uma Selic alta para empresas e investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Estadão Economia; G1 Economia; Agência Brasil Economia",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "url": "https://www.estadao.com.br/economia/copom-alta-juro-2027-reinaldo-le-grazie/",
+  "publicadoEm": "2026-11-18T14:17:43-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-06"
+ },
+ {
+  "titulo": "Etanol de milho transforma mercado brasileiro e reduz exportações",
+  "resumo": "O crescimento da produção de etanol de milho altera oferta e demanda, diminui dependência das exportações e fortalece preços no Brasil, segundo o Rabobank.",
+  "fatos": [
+   "Produção brasileira de milho cresceu 7,7% ao ano entre 2016 e 2025.",
+   "Soja teve crescimento médio anual de 5,9% no mesmo período.",
+   "Mato Grosso responde por aproximadamente metade do milho da safrinha nacional.",
+   "Usinas de etanol devem consumir 27 milhões de toneladas de milho em 2026.",
+   "Entre 2011 e 2015, milho em Sorriso teve desconto de até US$ 3,3 por bushel em relação a preços internacionais.",
+   "Descontos regionais do milho diminuíram nos últimos anos devido à maior demanda doméstica e ganhos logísticos.",
+   "Expansão dos corredores logísticos do Arco Norte melhorou competitividade das exportações.",
+   "Aumento na demanda interna contribui para preços de milho mais firmes e maior renda nas propriedades rurais.",
+   "Exportadores agora disputam milho disponível com a indústria de etanol no mercado interno."
+  ],
+  "explicacao": [
+   "O mercado brasileiro de milho passa por mudança estrutural impulsionada pela expansão da produção de etanol de milho, especialmente nas regiões produtoras. Segundo Marcela Marini, analista do Rabobank, essa evolução reduz a dependência histórica das exportações para comercializar excedentes.",
+   "Entre 2016 e 2025, o Brasil aumentou a produção de milho em média 7,7% ao ano, quase o dobro da soja, devido à expansão da segunda safra, a safrinha. Entretanto, o crescimento da oferta superou o consumo doméstico por anos, gerando excedentes e pressão nos preços, especialmente em Mato Grosso.",
+   "Essa realidade mudou com melhorias logísticas no Arco Norte e a rápida ampliação das usinas de etanol de milho, que devem consumir cerca de 27 milhões de toneladas em 2026. O etanol cria demanda constante e previsível para o milho, aumentando a competição interna e reduzindo descontos históricos para os produtores.",
+   "Para o Rabobank, essa transformação faz com que as exportações deixem de ser o único mecanismo do mercado e passem a competir com consumo interno, o que sustenta preços mais fortes. O sucesso do novo cenário depende da capacidade da produção acompanhar o crescimento do consumo doméstico."
+  ],
+  "detalhes": [
+   "Quem: Marcela Marini, analista econômica sênior do Rabobank.",
+   "Quando: transformação ocorrendo nos últimos anos, projeção para 2026.",
+   "Onde: principais regiões produtoras, destaque para Mato Grosso e Sorriso.",
+   "Como: expansão da segunda safra e usinas de etanol de milho.",
+   "Comparação: crescimento da produção de milho (7,7%) maior que soja (5,9%) entre 2016-2025.",
+   "Contexto: tradicionalmente exportações equacionavam excedentes; agora interno é mais relevante.",
+   "Economia: melhora prevista na rentabilidade das fazendas, com forte contribuição do milho."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Marcela Marini, analista econômica sênior do Rabobank",
+    "oque": "O avanço do etanol de milho cria demanda constante, reduz exportações e fortalece preços locais."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2011-2015",
+    "oque": "Milho em Sorriso teve mínimos históricos e grandes descontos relativos aos preços internacionais."
+   },
+   {
+    "quando": "2016-2025",
+    "oque": "Produção de milho cresceu a 7,7% ao ano, quase o dobro da soja."
+   },
+   {
+    "quando": "2026 (projeção)",
+    "oque": "Etanol de milho deve consumir cerca de 27 milhões de toneladas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Safrinha",
+    "significado": "Segunda colheita de milho no ano, geralmente mais intensa e produtiva."
+   },
+   {
+    "termo": "Desconto por bushel",
+    "significado": "Diferença negativa no preço do milho local em dólar por unidade de medida (bushel) em relação ao mercado internacional."
+   },
+   {
+    "termo": "Arco Norte",
+    "significado": "Corredor logístico que melhora o escoamento de commodities pelo Norte do Brasil."
+   }
+  ],
+  "pergunta": "Como você vê o impacto do etanol de milho para o mercado brasileiro e para você como investidor?",
+  "tamanhoTexto": 17871,
+  "numeros": [
+   {
+    "valor": "7,7%",
+    "rotulo": "Crescimento médio anual da produção de milho entre 2016 e 2025"
+   },
+   {
+    "valor": "5,9%",
+    "rotulo": "Crescimento médio anual da soja no mesmo período"
+   },
+   {
+    "valor": "27 milhões",
+    "rotulo": "Toneladas de milho consumidas por usinas de etanol projetadas para 2026"
+   },
+   {
+    "valor": "US$ 3,3",
+    "rotulo": "Desconto por bushel do milho de Sorriso em relação ao mercado internacional entre 2011 e 2015"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "Participação aproximada do Mato Grosso na produção nacional de milho safrinha"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "27 milhões toneladas",
+  "porQueImporta": "Essa transformação indica que o mercado brasileiro de milho se torna mais equilibrado e menos dependente de exportações, gerando preços mais firmes e maior segurança para produtores e investidores no setor agrícola e industrial.",
+  "impactoMercado": "A mudança pode estimular maiores investimentos em tecnologia e produtividade da safrinha, afetar o preço do milho localmente e modificar o fluxo comercial, beneficiando setores relacionados ao agronegócio, etanol e logística.",
+  "entenda": "A produção de etanol de milho, combustível renovável, cria demanda constante para o milho, que antes dependia muito das exportações para escoar excedentes. Isso torna o consumo interno um fator relevante, dando mais estabilidade e competição ao mercado.",
+  "observar": "Fique atento à evolução da produção e consumo de milho em 2026, além dos investimentos em logística e expansão das usinas de etanol, que definirão os preços e a dinâmica do mercado.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como mudanças na cadeia do milho, com o etanol, trazem novas oportunidades e desafios para quem quer entender ou atuar no mercado agrícola e financeiro brasileiro.",
+  "gancho": "*Etanol* e *milho* dinamizam mercado",
+  "ideias": [
+   "Impacto do etanol na oferta e preço do milho",
+   "Por que o milho não depende mais só da exportação",
+   "A expansão da safrinha e o novo mercado do milho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "grafico",
+  "fonte": "Money Times; BP Money; Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "url": "https://www.moneytimes.com.br/exportacao-deixa-de-ser-a-unica-saida-etanol-de-milho-muda-estrutura-do-mercado-brasileiro-diz-rabobank-pads/",
+  "publicadoEm": "2026-11-18T11:24:35-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-07"
+ },
+ {
+  "titulo": "PPPs exigem planejamento e visão de longo prazo para infraestrutura urbana",
+  "resumo": "Fabio Aquino, CEO da FME, destaca que PPPs devem contemplar obras e manutenção para servir população. Projetos estruturados envolvem estudo de demanda, riscos e capacidade financeira do município.",
+  "fatos": [
+   "PPPs podem viabilizar projetos em saúde, educação e mobilidade urbana",
+   "Fabio Aquino é CEO da FME Management, empresa especialista em PPPs",
+   "Contratos de PPPs podem durar vários anos com cláusulas de manutenção preventiva",
+   "Estudos técnicos avaliaram demanda, capacidade financeira e riscos para definir PPPs",
+   "PPPs implicam obrigações financeiras de longo prazo para o setor público",
+   "Critérios de desempenho acompanham prazos de manutenção e funcionamento",
+   "Planejamento deve incluir acessibilidade para pessoas com deficiência e idosos",
+   "FME Management atua em desenvolvimento e estruturação de projetos de infraestrutura",
+   "PPPs visam transformar planejamento em serviços eficientes e duradouros",
+   "Modelagem contratual considera mudanças econômicas e tecnológicas ao longo do tempo"
+  ],
+  "explicacao": [
+   "O desenvolvimento das cidades precisa de investimentos em infraestrutura que acompanhem as demandas locais em áreas como educação, saúde e mobilidade. Parcerias Público-Privadas (PPPs) surgem como alternativa para viabilizar esses projetos, garantindo prestação de serviços por períodos prolongados.",
+   "Fabio Aquino, CEO da FME Management, ressalta que uma PPP bem estruturada não foca apenas na obra, mas também na operação, manutenção e resultados ao longo da vigência contratual, começando pela compreensão das necessidades da população e estudos técnicos detalhados.",
+   "Esses contratos podem durar vários anos, requerendo planejamento que inclui critérios de desempenho, mecanismos de atualização e fiscalização para assegurar funcionalidade contínua da infraestrutura. A acessibilidade e integração entre setores também são consideradas no processo.",
+   "O futuro das PPPs no Brasil depende da capacidade de criar projetos sustentáveis, com responsabilidades e resultados claros, que vão além da simples execução para promover qualidade de vida e desenvolvimento urbano a longo prazo."
+  ],
+  "detalhes": [
+   "Fabio Aquino afirma que PPPs devem começar pela compreensão das necessidades locais",
+   "Planejamento envolve projeções de uso, análises financeiras e avaliação técnica",
+   "Obrigações de manutenção passam a ser parte integrante do projeto, não só pós-obra",
+   "Existem mecanismos para atualização contratual respeitando equilíbrio financeiro",
+   "Mecanismos de fiscalização, transparência e avaliações periódicas são essenciais",
+   "A integração entre áreas, como escolas e centros esportivos, amplia benefícios sociais",
+   "O avanço das PPPs depende da estruturação de projetos sustentáveis e mensuráveis"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fabio Aquino, CEO da FME Management",
+    "oque": "Uma PPP bem estruturada começa pela compreensão das necessidades da população e avaliação das condições para atendê-las."
+   },
+   {
+    "quem": "Fabio Aquino, CEO da FME Management",
+    "oque": "Planejar significa avaliar necessidades atuais e projetar funcionamento dos serviços ao longo dos anos."
+   },
+   {
+    "quem": "Fabio Aquino, CEO da FME Management",
+    "oque": "O verdadeiro valor de uma PPP está em transformar planejamento em serviços que funcionem bem por muitos anos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18/11/2026",
+    "oque": "Declarações de Fabio Aquino sobre PPPs e infraestrutura urbana"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Parceria Público-Privada (PPP)",
+    "significado": "Contrato entre governo e empresas para executar e manter infraestrutura"
+   },
+   {
+    "termo": "Manutenção preventiva",
+    "significado": "Conjunto de ações para conservar instalações e evitar falhas futuras"
+   },
+   {
+    "termo": "Indicadores de desempenho",
+    "significado": "Métricas usadas para medir resultados e qualidade dos serviços"
+   }
+  ],
+  "pergunta": "Você sabe quais benefícios a longo prazo uma PPP pode trazer para sua cidade?",
+  "tamanhoTexto": 15377,
+  "numeros": [
+   {
+    "valor": "vários anos",
+    "rotulo": "duração possível dos contratos de PPP"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "PPPs exigem visão",
+  "porQueImporta": "PPPs são essenciais para viabilizar grandes investimentos em infraestrutura urbana que o setor público sozinho não conseguiria sustentar financeiramente, garantindo manutenção e serviços duradouros. Entender sua estrutura ajuda investidores e operadores a avaliar riscos e resultados esperados.",
+  "impactoMercado": "O correto planejamento e gestão das PPPs pode aumentar a qualidade da infraestrutura urbana, gerar oportunidades de negócios e empregos no ciclo das obras e operação, além de permitir uma distribuição equilibrada de riscos, impactando setores ligados a construção civil, saneamento e mobilidade.",
+  "entenda": "Parcerias Público-Privadas (PPPs) são contratos entre o setor público e privado para executar e operar projetos de infraestrutura por longo prazo, combinando investimento, manutenção e gestão, com objetivos de entregar serviços eficientes e sustentáveis à população.",
+  "observar": "Acompanhe regulamentos futuros e contratos de PPPs para infraestrutura, incluindo metas de desempenho e atualizações econômicas, para entender impactos nos investimentos e serviços públicos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Abordar PPPs como instrumento estratégico que conecta planejamento, investimento e gestão pode despertar interesse pelo mercado financeiro e infraestruturas, incentivando aprendizado sobre contratos e seus impactos sociais e econômicos.",
+  "gancho": "*PPPs*: planejamento e futuro urbano",
+  "ideias": [
+   "Como as PPPs garantem infraestrutura sustentável?",
+   "O que estudar antes de investir em PPPs?",
+   "Os desafios da manutenção em contratos de PPP"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "alvo",
+  "fonte": "Valor Econômico; Folha Mercado",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/11/18/ppps-bem-estruturadas-exigem-planejamento-e-visao-de-longo-prazo-1.ghtml",
+  "publicadoEm": "2026-11-18T15:04:37-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-08"
+ },
+ {
+  "titulo": "Deterioração no crédito pressiona bancos; BB tem pior desempenho no 3º tri de 2026",
+  "resumo": "Itaú, Bradesco e Santander mantêm lucros sob pressão; Banco do Brasil sofre com inadimplência no agronegócio.",
+  "fatos": [
+   "Banco do Brasil teve a pior deterioração na carteira de crédito no 3º trimestre de 2026, principalmente no agronegócio.",
+   "Itaú consolidou sua posição como porto seguro entre os grandes bancos mesmo em ambiente desafiador.",
+   "Bradesco teve o 11º trimestre consecutivo de alta no lucro recorrente, apesar do aumento da inadimplência.",
+   "Índice de empréstimos com atraso superior a 90 dias do Bradesco subiu para 4,6%.",
+   "Santander apresentou lucro acima das expectativas devido ao controle de despesas e redução de provisões.",
+   "Crescimento do crédito do Santander concentrou-se em grandes empresas, com fraqueza no segmento pessoa física.",
+   "Número de empresas em recuperação judicial bateu recorde com 8.478 companhias no 3º trimestre de 2026.",
+   "Selic está mantida em 13,75% ao ano desde 4 de novembro, após interrupção dos cortes.",
+   "Juros altos elevam custo do capital e pressionam a inadimplência e a recuperação judicial.",
+   "Pessoas físicas têm inadimplência acima dos níveis observados em 2016."
+  ],
+  "explicacao": [
+   "No terceiro trimestre de 2026, o setor bancário brasileiro apresentou resultados mistos: Itaú, Bradesco e Santander conseguiram manter lucros, mas o Banco do Brasil enfrentou grave deterioração na carteira de crédito, especialmente ligada ao agronegócio.",
+   "O aumento da inadimplência e a piora da qualidade dos ativos ocorreram em um cenário de juros altos e dificuldades econômicas, com destaque para o Banco do Brasil como o maior foco de preocupação entre analistas e investidores.",
+   "Essa divisão indica que, apesar da pressão, alguns bancos privados têm controlado seus riscos e avançado em eficiência, enquanto o Banco do Brasil sofre com maior exposição a setores vulneráveis e maior aumento de inadimplência.",
+   "O cenário financeiro segue delicado, com expectativa de continuidade no crescimento das recuperações judiciais e necessidade de monitoramento dos impactos dos juros elevados e inadimplência em 2027."
+  ],
+  "detalhes": [
+   "Banco do Brasil enfrenta deterioração acelerada devido exposição ao agronegócio e inadimplência crescente.",
+   "Itaú reforça posição de destaque como banco mais resiliente do setor em ambiente de crédito adverso.",
+   "Bradesco avança em eficiência operacional, mas sofre piora gradual na qualidade dos ativos.",
+   "Santander ainda está abaixo da rentabilidade dos concorrentes privados apesar do lucro maior.",
+   "Recuperações judiciais em alta, mas cenário diminui comparação com crise de 2016.",
+   "Alta da taxa Selic desde 2022, chegando a 13,75% em 2026, aumenta despesa financeira das empresas.",
+   "Inadimplência piora principalmente em pessoas físicas e pequenas e médias empresas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Goldman Sachs",
+    "oque": "Inadimplência será o principal foco da temporada de resultados do setor bancário."
+   },
+   {
+    "quem": "Nicole Vieira, gestora da Polo Capital",
+    "oque": "A inadimplência cresce com juros altos, mas cenário atual é menos grave que o de 2016."
+   },
+   {
+    "quem": "Luiz Carlos Trabuco, membro do Conselho do Bradesco",
+    "oque": "Custos com infraestrutura, logística, insegurança e juros reais elevados afetam competitividade."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "Resultado dos principais bancos, com piora da qualidade do crédito."
+   },
+   {
+    "quando": "4 de novembro de 2026",
+    "oque": "Copom mantém taxa Selic em 13,75% ao ano, interrompendo ciclo de cortes."
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "Recorde de 8.478 empresas em recuperação judicial no Brasil."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Inadimplência",
+    "significado": "Empréstimos atrasados acima de 90 dias que representam risco de perda."
+   },
+   {
+    "termo": "Carteira de crédito",
+    "significado": "Conjunto de empréstimos e financiamentos concedidos por um banco."
+   },
+   {
+    "termo": "Recuperação judicial",
+    "significado": "Processo para reestruturar dívidas de empresas em dificuldades financeiras."
+   }
+  ],
+  "pergunta": "Como você acredita que a inadimplência afeta os resultados dos bancos no Brasil?",
+  "tamanhoTexto": 10712,
+  "numeros": [
+   {
+    "valor": "4,6%",
+    "rotulo": "Índice de empréstimos atrasados acima de 90 dias do Bradesco"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic mantida ao ano pelo Copom em novembro de 2026"
+   },
+   {
+    "valor": "8.478",
+    "rotulo": "Empresas em recuperação judicial no 3º trimestre de 2026"
+   },
+   {
+    "valor": "21,2%",
+    "rotulo": "Alta anual das empresas em recuperação judicial no 3º trimestre 2026"
+   },
+   {
+    "valor": "R$ 3,5 tri",
+    "rotulo": "Custo Brasil estimado para 2026, 27,5% do PIB"
+   },
+   {
+    "valor": "R$ 363 bi",
+    "rotulo": "Custo por juros reais dentro do Custo Brasil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Banco do Brasil",
+  "porQueImporta": "A deterioração da qualidade do crédito e o avanço da inadimplência pressionam a rentabilidade dos bancos e afetam a percepção de risco no setor financeiro. Investidores e operadores precisam entender esses impactos para avaliar riscos e oportunidades em um ambiente de juros altos e cenário macroeconômico desafiador.",
+  "impactoMercado": "O Banco do Brasil, com maior exposição a crédito deteriorado, pode influenciar a confiança do mercado em ações do setor bancário. Bancos privados, ao manterem lucros com eficiência e controle, demonstram resiliência, o que pode favorecer seus papéis. A inadimplência crescente reforça a importância de monitorar o impacto em crédito, provisões e setores vulneráveis como agronegócio e pequenas empresas.",
+  "entenda": "Inadimplência é o atraso no pagamento de empréstimos acima de 90 dias, um indicativo de risco para bancos. Quando aumenta, os bancos precisam reservar dinheiro para cobrir perdas, o que reduz lucro. A taxa Selic influencia o custo do dinheiro: juros altos deixam empréstimos e dívidas mais caros, dificultando o pagamento para empresas e pessoas físicas, puxando a inadimplência para cima.",
+  "observar": "Fique atento aos próximos resultados trimestrais dos bancos e a reuniões do Copom, que podem sinalizar alterações na taxa Selic e impactar a inadimplência e resultados do setor nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia revela como o crédito deteriorado e juros altos dividem resultados entre bancos, mostrando a importância de entender riscos, eficiência e cenário macro para operar ou investir com mais informação e segurança.",
+  "gancho": "Crédito e *inadimplência* nos bancos",
+  "ideias": [
+   "Por que o Banco do Brasil teve o pior resultado no 3º tri de 2026?",
+   "Como juros altos pressionam o setor bancário brasileiro?",
+   "Inadimplência em alta: o que isso significa para os bancos e investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "queda",
+  "fonte": "InfoMoney; Times Brasil; Exame Invest",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "url": "https://www.infomoney.com.br/mercados/deterioracao-no-credito-afeta-grandes-bancos-no-3o-tri-bb-tem-pior-resultado/",
+  "publicadoEm": "2026-11-18T15:00:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-09"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "fed-decision-in-january-20260729233815502",
+  "titulo": "Mercado de previsões vê 61.5% de chance de aumento de 25 bps pelo Fed em janeiro",
+  "resumo": "Projeções indicam uma maior probabilidade de aumento nas taxas de juros, segundo o mercado de apostas.",
+  "probs": [
+   {
+    "opcao": "aumento de 25 bps",
+    "prob": 61.5
+   },
+   {
+    "opcao": "sem alteração",
+    "prob": 37.5
+   },
+   {
+    "opcao": "redução de 25 bps",
+    "prob": 1.1
+   },
+   {
+    "opcao": "aumento de 50+ bps",
+    "prob": 1.1
+   }
+  ],
+  "prazo": "2027-01-28",
+  "volume24h": "US$ 76 mil",
+  "fatos": [
+   "aumento de 25 bps: 61,5%",
+   "sem alteração: 37,5%",
+   "redução de 25 bps: 1,1%",
+   "aumento de 50+ bps: 1,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "61,5%",
+    "rotulo": "aumento de 25 bps"
+   },
+   {
+    "valor": "37,5%",
+    "rotulo": "sem alteração"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "redução de 25 bps"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "aumento de 50+ bps"
+   }
+  ],
+  "destaque": "61,5%",
+  "gancho": "*Expectativa moderada* de aumento",
+  "entenda": "As decisões do Fed sobre taxas de juros influenciam o mercado financeiro e as expectativas econômicas, afetando investimento e consumo.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
+  "publicadoEm": "2026-11-18T15:24:41-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "data": "2026-11-18",
+  "status": "nova",
+  "id": "2026-11-18-p1"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "another-fed-rate-hike-in-2026",
+  "titulo": "Mercado de previsões vê 97% de chance de novo aumento de taxa pelo Fed em 2026",
+  "resumo": "Acredita-se fortemente que o Fed realizará outra elevação nas taxas de juros, com base nas apostas.",
+  "probs": [
+   {
+    "opcao": "Sim",
+    "prob": 97.0
+   },
+   {
+    "opcao": "Não",
+    "prob": 3.0
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 32 mil",
+  "fatos": [
+   "Sim: 97,0%",
+   "Não: 3,0%"
+  ],
+  "numeros": [
+   {
+    "valor": "97,0%",
+    "rotulo": "Sim"
+   },
+   {
+    "valor": "3,0%",
+    "rotulo": "Não"
+   }
+  ],
+  "destaque": "97,0%",
+  "gancho": "*Alta probabilidade* de nova elevação",
+  "entenda": "Expectativas de novas elevações de juros refletem as condições econômicas e as metas de controle da inflação pelo Fed.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+  "publicadoEm": "2026-11-18T15:24:41-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-18T15:24:41-03:00",
+  "data": "2026-11-18",
+  "status": "nova",
+  "id": "2026-11-18-p2"
+ },
+ {
   "titulo": "Custo Brasil chega a R$ 3,5 trilhões, equivalente a 27,5% do PIB em 2025",
   "resumo": "Estudo do MBC aponta custo Brasil de R$ 3,5 trilhões anuais, 27,5% do PIB projetado. Novo método inclui insegurança, ilegalidade e juros reais.",
   "fatos": [
