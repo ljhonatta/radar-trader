@@ -1,5 +1,1521 @@
 [
  {
+  "titulo": "Dólar atinge R$ 5,87 com incertezas do ajuste fiscal e juros nos EUA",
+  "resumo": "O dólar fechou em R$ 5,87, maior valor em 19 meses, com alta em cinco sessões consecutivas. O mercado reage à votação do pacote de ajuste fiscal adiada no Senado e à expectativa de alta de juros nos EUA.",
+  "fatos": [
+   "Dólar fechou em R$ 5,868, alta de 1,48% em 18/10.",
+   "Cotação máxima intradia foi de R$ 5,8708.",
+   "Dólar acumula alta de 17,6% desde 25/10.",
+   "Ibovespa caiu 1,34%, a 167.537,95 pontos.",
+   "Petrobras PN recuou cerca de 1,84%; ações preferenciais em baixa.",
+   "Banco Central realizou dois leilões de linha somando US$ 1 bilhão.",
+   "Pacote de ajuste fiscal prevê economia de até R$ 60 bilhões em 2027.",
+   "Votação do pacote no Senado adiada para negociar destaques.",
+   "Índice dólar global (DXY) subiu 0,23%, a 103,85 pontos.",
+   "Federal Reserve sinaliza possibilidade de alta de juros em 0,5 ponto percentual."
+  ],
+  "explicacao": [
+   "Na quarta-feira (18), o dólar comercial subiu 1,48%, fechando em R$ 5,868, sua maior cotação desde abril de 2025, chegando a R$ 5,8708 durante o pregão. O aumento ocorreu na quinta alta seguida, acumulando 17,6% desde o segundo turno das eleições presidenciais, em 25 de outubro.",
+   "Esse movimento foi influenciado pela valorização do dólar no mercado internacional e pela incerteza em torno da votação do pacote de ajuste fiscal do governo no Senado, que foi adiada para permitir negociações sobre os destaques apresentados. O governo estima uma economia de até R$ 60 bilhões para 2027.",
+   "Além disso, a ata recente do Federal Reserve indicou possibilidade de aumento dos juros dos EUA em até 0,5 ponto percentual, reforçando uma política monetária mais restritiva e estimulando a valorização do dólar globalmente. O Banco Central brasileiro tentou conter a alta com leilões de linha somando US$ 1 bilhão, mas sem sucesso.",
+   "No mercado local, o Ibovespa caiu 1,34% a 167.537 pontos, pressionado por ações de bancos e Petrobras, refletindo cautela diante das incertezas fiscais e dos movimentos globais. A expectativa agora é pela continuidade da votação no Senado e pela definição das próximas medidas fiscais."
+  ],
+  "detalhes": [
+   "Aumento da cotação do dólar ressaltou maior nível desde 15 de abril de 2025.",
+   "Banco Central tentou ampliar liquidez para conter alta da moeda.",
+   "Expectativa do mercado é por continuidade da votação e possíveis novas medidas fiscais.",
+   "Alta do dólar impactada pela política monetária dos EUA mais restritiva.",
+   "Ações de bancos e Petrobras sofreram pressão devido à cautela do mercado.",
+   "Pacote de ajuste fiscal aprovado no texto-base, mas destaques ainda em análise.",
+   "Alta do dólar reflete também o fortalecimento global da moeda americana."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Dario Durigan, ministro da Fazenda",
+    "oque": "Novas medidas fiscais serão anunciadas, sem detalhes divulgados."
+   },
+   {
+    "quem": "Rebecca Nossig, estrategista da Nomad",
+    "oque": "Clima de incerteza e busca por proteção impulsionaram o dólar comercial."
+   },
+   {
+    "quem": "Otávio Araújo, consultor sênior do ZERO Markets Brasil",
+    "oque": "Leilões de linha melhoram liquidez, mas não garantem trajetória para o real."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "15 de abril de 2025",
+    "oque": "Última cotação mais alta do dólar antes da atual, em R$ 5,891."
+   },
+   {
+    "quando": "17 de outubro",
+    "oque": "Votação do pacote fiscal no Senado inicialmente prevista e adiada."
+   },
+   {
+    "quando": "18 de outubro",
+    "oque": "Dólar atingiu R$ 5,868 e Ibovespa recuou 1,34%."
+   },
+   {
+    "quando": "8 e 9 de dezembro",
+    "oque": "Próxima reunião do Federal Reserve para decisão de juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Leilão de linha",
+    "significado": "Venda de dólares pelo Banco Central com recompra futura para aumentar liquidez."
+   },
+   {
+    "termo": "Pacote de ajuste fiscal",
+    "significado": "Conjunto de medidas do governo para reduzir despesas e equilibrar as contas públicas."
+   },
+   {
+    "termo": "DXY",
+    "significado": "Índice que mede o dólar contra uma cesta de seis moedas globais."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da alta do dólar na sua estratégia de investimentos?",
+  "tamanhoTexto": 13365,
+  "numeros": [
+   {
+    "valor": "5,868",
+    "rotulo": "Dólar comercial cotado em 18/10"
+   },
+   {
+    "valor": "1,48%",
+    "rotulo": "Alta do dólar na sessão de 18/10"
+   },
+   {
+    "valor": "1,34%",
+    "rotulo": "Queda do Ibovespa na sessão de 18/10"
+   },
+   {
+    "valor": "103,85",
+    "rotulo": "Índice DXY do dólar global"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "Leilões de linha do Banco Central"
+   },
+   {
+    "valor": "R$ 60 bilhões",
+    "rotulo": "Economia prevista pelo pacote fiscal em 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar comercial",
+    "antes": "R$ 5,75 (aproximado há 5 dias)",
+    "depois": "R$ 5,868 em 18/10"
+   }
+  ],
+  "destaque": "R$ 5,87",
+  "porQueImporta": "A alta do dólar e a incerteza fiscal mexem diretamente com investimentos e custos no Brasil. Para quem opera, saber como o pacote fiscal e os juros internacionais afetam o câmbio ajuda a entender a volatilidade e as pressões no mercado local.",
+  "impactoMercado": "A valorização do dólar e queda do Ibovespa indicam cautela por incertezas fiscais e juros nos EUA, pressionando ações bancárias e Petrobras. A tendência pode influenciar setores exportadores e importadores, além do custo de capital e investimentos.",
+  "entenda": "O dólar comercial é a moeda usada em negociações de câmbio para comércio internacional e investimentos. O ajuste fiscal é um pacote de medidas do governo para controlar gastos e equilibrar contas públicas, impactando confiança e moeda. O Fed ajusta juros para controlar inflação, influenciando mercados globais.",
+  "observar": "Fique atento à retomada da votação do pacote fiscal no Senado esta semana e à reunião do Federal Reserve em dezembro, que definirá possíveis ajustes nos juros americanos, ambos com impacto direto no câmbio e bolsa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra a conexão entre política fiscal, câmbio e juros globais, fundamental para entender riscos e oportunidades no mercado. Explica por que acompanhar fontes oficiais e medidas do governo é essencial para se preparar com conhecimento e decisão.",
+  "gancho": "*Dólar* em alta: impacto e *ajuste fiscal*",
+  "ideias": [
+   "5 razões para o dólar subir e o que isso significa",
+   "Como o pacote fiscal influencia o mercado financeiro",
+   "Impacto da alta dos juros dos EUA no investidor brasileiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; Money Times; InvestNews",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+  "publicadoEm": "2026-11-18T19:26:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-10"
+ },
+ {
+  "titulo": "Senado aprova pacote fiscal de Lula com impacto de até R$ 60 bilhões",
+  "resumo": "Senado aprovou por 69 a 2 pacote fiscal do governo Lula com medidas para conter despesas e ampliar arrecadação. Destaques da oposição foram rejeitados e acordo elevou repasses da União a estados via Lei Kandir.",
+  "fatos": [
+   "Pacote fiscal aprovado por 69 votos a 2 no Senado em 18 de novembro de 2026.",
+   "Impacto estimado do pacote fiscal é de até R$ 60 bilhões em 2027.",
+   "Acordo elevou repasses da União a estados pela Lei Kandir de R$ 1 bilhão para R$ 2 bilhões anuais.",
+   "Recomposição dos repasses antecipada para 2028-2030, reduzindo o saldo remanescente de R$ 12 bilhões para R$ 8 bilhões.",
+   "Rejeição de destaque da oposição que limitava crescimento das despesas a 0,6%, mantendo limite em 2%.",
+   "Rejeição de destaque que pretendia eliminar teto para compensações previdenciárias; teto fixado em R$ 3 bilhões em 2027.",
+   "Limitação das compensações tributárias cruzadas mantida, proporcionando receitas extras de R$ 12,8 a R$ 18,3 bilhões em 2027.",
+   "Texto segue agora para análise da Câmara dos Deputados.",
+   "Projeto foi originalmente apresentado em 11 de novembro de 2026.",
+   "Relator no Senado foi Eduardo Braga (MDB-AM)."
+  ],
+  "explicacao": [
+   "Em 18 de novembro de 2026, o Senado aprovou em turno suplementar o projeto de ajuste fiscal do governo Lula por 69 votos a 2. O pacote prevê contenção de gastos e aumento de receitas com impacto estimado em até R$ 60 bilhões para 2027.",
+   "A aprovação decorreu de rejeição das propostas da oposição que buscavam endurecer limites de despesas e eliminar restrições a compensações tributárias. Além disso, houve acordo para aumentar repasses da União aos estados na Lei Kandir, que prevê isenção do ICMS nas exportações.",
+   "O acordo elevou de R$ 1 bilhão para R$ 2 bilhões por ano o repasse da União devido à Lei Kandir, antecipando o início da recomposição dos valores para 2028-2030. Destaques da oposição foram rejeitados, preservando o núcleo do pacote fiscal.",
+   "Com a aprovação no Senado, o texto segue agora para a Câmara dos Deputados. O governo atua para aprovar o pacote ainda em 2026, evitando riscos de alterações no novo Congresso e fortalecendo a meta fiscal e o ajuste das contas públicas."
+  ],
+  "detalhes": [
+   "O projeto de lei complementar do pacote fiscal foi apresentado pelo governo Lula e aprovado no Senado em turno suplementar.",
+   "O substitutivo integral apresentado por Eduardo Braga exigiu segunda votação por regimento do Senado.",
+   "Os repasses da Lei Kandir isentam exportações de ICMS, afetando receitas estaduais.",
+   "O acordo aumentou os repasses aos estados para reduzir a resistência dos governadores e prefeitos.",
+   "O limite para o crescimento das despesas públicas ficou em 2%, rejeitando a emenda para reduzir para 0,6%.",
+   "Restrição a compensações tributárias cruzadas foi mantida, tema que gerou críticas do setor privado.",
+   "Pacote prevê congelamento mínimo de gastos em caso de frustração de receitas e ampliará contenção de gastos obrigatórios."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Eduardo Braga, relator do pacote fiscal no Senado",
+    "oque": "A limitação às compensações tributárias impacta apenas créditos cruzados, sem extinguir direitos dos contribuintes."
+   },
+   {
+    "quem": "Ministro Bruno Moretti (Planejamento e Orçamento)",
+    "oque": "O ajuste fiscal trata da Lei Kandir com ajustes na margem, buscando equilíbrio fiscal."
+   },
+   {
+    "quem": "Senador Rogério Marinho (PL-RN), líder da oposição",
+    "oque": "Emenda limitando gastos públicos em 0,6% foi rejeitada, alterando a versão do governo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "11 de novembro de 2026",
+    "oque": "Governo Lula apresenta o pacote fiscal ao Congresso."
+   },
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Texto-base do pacote é aprovado no Senado por 45 a 31."
+   },
+   {
+    "quando": "17 de novembro de 2026",
+    "oque": "Votação dos destaques foi adiada por falta de consenso."
+   },
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Senado aprova o pacote fiscal em turno suplementar por 69 a 2."
+   },
+   {
+    "quando": "Após 18 de novembro de 2026",
+    "oque": "Projeto segue para a Câmara dos Deputados."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Lei Kandir",
+    "significado": "Lei que isenta ICMS nas exportações e prevê compensações da União aos estados."
+   },
+   {
+    "termo": "Compensações tributárias",
+    "significado": "Uso de créditos fiscais para abater impostos devidos."
+   },
+   {
+    "termo": "Turno suplementar",
+    "significado": "Segunda votação exigida para substitutivos integrais no Senado."
+   }
+  ],
+  "pergunta": "Você acha que o pacote fiscal aprovado vai ajudar a manter a estabilidade econômica?",
+  "tamanhoTexto": 16878,
+  "numeros": [
+   {
+    "valor": "69 a 2",
+    "rotulo": "votação final no Senado"
+   },
+   {
+    "valor": "R$ 60 bilhões",
+    "rotulo": "impacto estimado do pacote fiscal"
+   },
+   {
+    "valor": "R$ 2 bilhões",
+    "rotulo": "repasses anuais da União a estados pela Lei Kandir após acordo"
+   },
+   {
+    "valor": "0,6%",
+    "rotulo": "limite de crescimento das despesas proposto pela oposição (rejeitado)"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "limite de crescimento das despesas previsto no texto aprovado"
+   },
+   {
+    "valor": "R$ 3 bilhões",
+    "rotulo": "teto para compensações previdenciárias anuais em 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Repasses da Lei Kandir",
+    "antes": "R$ 1 bilhão anuais até 2030",
+    "depois": "R$ 2 bilhões anuais de 2027 a 2030"
+   },
+   {
+    "item": "Limite crescimento despesas públicas",
+    "antes": "2% real ao ano no texto-base",
+    "depois": "0,6% proposto pela oposição (rejeitado)"
+   }
+  ],
+  "destaque": "R$ 60 bilhões",
+  "porQueImporta": "O pacote fiscal aprovado pelo Senado sinaliza compromisso do governo em ajustar as contas públicas para 2027, essencial para a manutenção da estabilidade econômica. A contenção de gastos e o aumento de arrecadação são fundamentais para o controle do déficit e para evitar desconfiança dos investidores e agências de risco, impactando todo o mercado.",
+  "impactoMercado": "O avanço do pacote fiscal pode influenciar a confiança do mercado, afetando juros futuros, câmbio e ativos de renda fixa. A limitação das compensações tributárias e a contenção das despesas podem pressionar setores econômicos, enquanto a negociação de repasses da Lei Kandir reduz incertezas para estados e municípios.",
+  "entenda": "O pacote fiscal é um conjunto de medidas que busca equilibrar as contas públicas por meio de redução de despesas e aumento da arrecadação. A Lei Kandir estabelece compensações da União aos estados pela isenção de ICMS em exportações, e o ajuste nesses repasses faz parte do controle fiscal. O projeto precisa passar pelo Senado e Câmara antes de virar lei.",
+  "observar": "Acompanhe a tramitação do pacote na Câmara dos Deputados, prevista para as próximas semanas, e eventuais debates sobre mais destaques. Também fique atento às decisões sobre a meta fiscal e atualizações de arrecadação para ajustar estratégias no mercado.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Esta notícia explica um ajuste fiscal complexo com impacto direto na economia e como medidas de contenção e arrecadação são negociadas no Congresso. Ensinamos na faculdade a importância desses temas para entender as decisões que influenciam o mercado financeiro.",
+  "gancho": "*Pacote Fiscal* aprovado no Senado",
+  "ideias": [
+   "Entenda o pacote fiscal aprovado pelo Senado em 4 pontos",
+   "Como a Lei Kandir impacta o ajuste fiscal e os repasses aos estados",
+   "O que são compensações tributárias e por que foram limitadas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "alvo",
+  "fonte": "Exame; Folha Mercado; InfoMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://exame.com/brasil/senado-aprova-pacote-fiscal-apresentado-pelo-governo-lula-texto-vai-a-camara/",
+  "publicadoEm": "2026-11-18T16:00:36-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-11"
+ },
+ {
+  "titulo": "Juros futuros sobem com alta do dólar e incertezas fiscais",
+  "resumo": "Juros futuros tiveram alta com dólar forte e aversão ao risco. Incertezas sobre política fiscal e cenário global pressionam taxas em novembro de 2026.",
+  "fatos": [
+   "Taxa DI jan/2028 subiu de 14,435% para 14,51%",
+   "Taxa DI jan/2029 avançou de 14,83% para 14,93%",
+   "Taxa DI jan/2031 passou de 15,04% para 15,16%",
+   "Taxa DI jan/2037 elevou-se de 15,105% para 15,19%",
+   "Dólar renovou máxima de fechamento desde abril de 2025",
+   "PLP 299 tenta economizar até R$ 60 bilhões no Orçamento de 2027",
+   "Aprovação do PLP enfrenta resistência e votação foi adiada",
+   "Mercado estima 56% chance de Selic estável em janeiro de 2027",
+   "Probabilidade de alta Selic: 0,25 pp (12%) e 0,5 pp (17%)",
+   "Economista Gustavo Sung alerta risco de estagflação e alta volatilidade"
+  ],
+  "explicacao": [
+   "Na quarta-feira, 18 de novembro de 2026, os juros futuros no Brasil subiram, com destaque para aumentos nas taxas de contratos DI entre 2028 e 2037, influenciados pela disparada do dólar e a aversão global a ativos de risco.",
+   "Essa alta foi motivada pela forte valorização do dólar, que atingiu máxima desde abril de 2025, e pelo ambiente externo desfavorável, além da persistente dúvida dos investidores sobre a política fiscal e possíveis ajustes no Orçamento de 2027.",
+   "A dificuldade do governo para aprovar o Projeto de Lei Complementar 299, que pretende gerar até R$ 60 bilhões em economia, gera apreensão no mercado, indicando que um ajuste fiscal robusto está distante, aumentando a pressão sobre os juros e dólar.",
+   "Para 2027, o mercado já precifica possibilidades de aumento da taxa Selic, com probabilidades relevantes para alta de 0,25% e 0,5%, refletindo preocupações com inflação e política econômica. A estabilidade dependerá da clareza e previsibilidade do governo."
+  ],
+  "detalhes": [
+   "Data: 18 de novembro de 2026, durante pregão da B3",
+   "Contexto: liquidez menor no mercado de renda fixa, dificultando operações",
+   "Impacto externo: ambiente global avesso a risco afeta câmbio e juros domésticos",
+   "Política fiscal: incertezas sobre PLP 299 indicam dificuldade para ajuste e controle do déficit",
+   "Dólar: alta relevante pressiona expectativas inflacionárias e monetárias",
+   "Atuação Banco Central: mercado projeta reunião do Copom em janeiro com potencial para novo aumento da Selic",
+   "Declaração relevante: economista-chefe da Suno Research Gustavo Sung destaca importância da agenda econômica para reduzir volatilidade"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Gustavo Sung, economista-chefe da Suno Research",
+    "oque": "Quanto antes governo garantir previsibilidade, mais rápido dólar e juros devem ceder"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18/11/2026",
+    "oque": "Juros futuros subiram em meio à alta do dólar e aversão ao risco"
+   },
+   {
+    "quando": "Antes do pregão de 18/11/2026",
+    "oque": "Votação do PLP 299 foi adiada, aumentando apreensão do mercado"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Taxa DI",
+    "significado": "Juros dos Depósitos Interfinanceiros usados como referência na renda fixa"
+   },
+   {
+    "termo": "PLP 299",
+    "significado": "Projeto de Lei Complementar que propõe economia fiscal para 2027"
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira controlada pelo Banco Central"
+   }
+  ],
+  "pergunta": "Como você acha que a alta do dólar impacta seus investimentos?",
+  "tamanhoTexto": 4737,
+  "numeros": [
+   {
+    "valor": "14,51%",
+    "rotulo": "Taxa DI jan/2028 após alta"
+   },
+   {
+    "valor": "14,93%",
+    "rotulo": "Taxa DI jan/2029 após alta"
+   },
+   {
+    "valor": "15,16%",
+    "rotulo": "Taxa DI jan/2031 após alta"
+   },
+   {
+    "valor": "15,19%",
+    "rotulo": "Taxa DI jan/2037 após alta"
+   },
+   {
+    "valor": "R$ 60 bilhões",
+    "rotulo": "Economia prevista pelo PLP 299 para o Orçamento 2027"
+   },
+   {
+    "valor": "56%",
+    "rotulo": "Chance de Selic estável em janeiro de 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa DI jan/2028",
+    "antes": "14,435%",
+    "depois": "14,51%"
+   },
+   {
+    "item": "Taxa DI jan/2029",
+    "antes": "14,83%",
+    "depois": "14,93%"
+   },
+   {
+    "item": "Taxa DI jan/2031",
+    "antes": "15,04%",
+    "depois": "15,16%"
+   },
+   {
+    "item": "Taxa DI jan/2037",
+    "antes": "15,105%",
+    "depois": "15,19%"
+   }
+  ],
+  "destaque": "Alta de 0,08",
+  "porQueImporta": "A alta dos juros futuros e a valorização do dólar refletem a incerteza política e fiscal, impactando diretamente as expectativas de inflação e os custos de financiamento para empresas e governo, fatores essenciais para decisões de investimento e operação nos mercados.",
+  "impactoMercado": "Investidores devem acompanhar a volatilidade nos juros e câmbio, que afetam principalmente a renda fixa e setores sensíveis à inflação. A percepção sobre o ajuste fiscal e a política monetária será determinante para a evolução dos ativos brasileiros.",
+  "entenda": "Juros futuros são taxas que refletem a expectativa do mercado para os juros no futuro. O dólar forte encarece importados e pressiona a inflação, levando o Banco Central a ajustar a Selic para controlar preços e a economia.",
+  "observar": "Esteja atento à reunião do Copom em janeiro e à votação do PLP 299, eventos que podem modificar as expectativas para juros e câmbio nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia ajuda o seguidor a entender os impactos das variações cambiais e fiscais nos juros futuros, mostrando a importância de acompanhar decisões políticas e econômicas para melhor operar na bolsa e renda fixa.",
+  "gancho": "*Juros*, *Dólar* e *Fisco* em alta",
+  "ideias": [
+   "O que são juros futuros e por que sobem com o dólar?",
+   "Entenda o impacto do PLP 299 nos juros e no mercado",
+   "Como as incertezas políticas afetam sua carteira de investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/18/juros-futuros-sobem-com-pressao-do-cambio-e-aversao-a-risco.ghtml",
+  "publicadoEm": "2026-11-18T18:19:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-12"
+ },
+ {
+  "titulo": "Alexandre D’Ambrosio é novo diretor executivo da CSN",
+  "resumo": "Alexandre Silva D’Ambrosio foi eleito diretor executivo sem designação específica na CSN. Fabio Schvartsman acumula finanças; Pedro Oliva assume RI.",
+  "fatos": [
+   "Em 18/11/2026, Alexandre Silva D’Ambrosio foi eleito diretor executivo da CSN.",
+   "Ele não tem designação específica dentro da empresa.",
+   "Pedro Barros Mercadante Oliva será diretor executivo de relações com investidores.",
+   "Fabio Schvartsman, diretor-presidente, acumula as funções de diretor executivo de finanças.",
+   "As decisões foram aprovadas pelo conselho de administração da CSN.",
+   "A eleição ocorre após uma sequência de trocas no comando da companhia."
+  ],
+  "explicacao": [
+   "Em 18 de novembro de 2026, o conselho de administração da Companhia Siderúrgica Nacional (CSN) elegeu Alexandre Silva D’Ambrosio como diretor executivo da empresa, sem uma designação específica de área. Essa decisão ocorre após várias mudanças recentes na liderança da CSN.",
+   "Além disso, Pedro Barros Mercadante Oliva foi nomeado diretor executivo de relações com investidores, assumindo a comunicação estratégica da companhia com o mercado e stakeholders. Ao mesmo tempo, o diretor-presidente da CSN, Fabio Schvartsman, passou a acumular as atribuições de diretor executivo de finanças.",
+   "Essas mudanças indicam uma reorganização no comando da CSN, distribuindo responsabilidades conforme as novas necessidades administrativas e estratégias corporativas. A escolha de D’Ambrosio como diretor executivo geral pode sinalizar prioridades em governança e operações.",
+   "Agora, o mercado e investidores devem observar como essas alterações impactarão a gestão da CSN nos próximos meses, principalmente na área financeira e de relacionamento com investidores, que são essenciais para captação de recursos e transparência corporativa."
+  ],
+  "detalhes": [
+   "A empresa envolvida é a Companhia Siderúrgica Nacional (CSN).",
+   "A eleição ocorreu pela decisão do conselho de administração em novembro de 2026.",
+   "Alexandre D’Ambrosio não ficou ligado a nenhuma área financeira ou operacional específica.",
+   "Pedro Oliva irá cuidar das relações da CSN com investidores.",
+   "Fabio Schvartsman permanece como diretor-presidente e assume também finanças.",
+   "As mudanças são parte de uma reorganização na diretoria executiva.",
+   "O texto é baseado em informação oficial da companhia publicada pelo Valor Econômico."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "18/11/2026",
+    "oque": "Conselho da CSN elege Alexandre D’Ambrosio diretor executivo"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Diretor Executivo",
+    "significado": "Executivo responsável pela gestão operacional da empresa."
+   },
+   {
+    "termo": "Relações com Investidores",
+    "significado": "Setor que comunica informações financeiras da empresa ao mercado."
+   }
+  ],
+  "pergunta": "Como você acha que essa mudança na diretoria pode impactar a CSN no mercado?",
+  "tamanhoTexto": 1795,
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "diretor executivo eleito sem designação"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Alexandre D’Ambrosio como",
+  "porQueImporta": "A eleição de Alexandre D’Ambrosio para diretor executivo da CSN sinaliza uma reorganização nos comandos da companhia, importante para investidores acompanharem decisões estratégicas e o impacto em finanças e comunicação corporativa.",
+  "impactoMercado": "Mudanças na diretoria executiva podem afetar estratégias da CSN, influenciando investidores e mercado siderúrgico. A acumulação de finanças por Schvartsman é relevante para decisões de gestão financeira e transparência.",
+  "entenda": "Diretor executivo é responsável por liderar áreas estratégicas da empresa. No mercado, a definição clara desses cargos ajuda investidores a entenderem foco da gestão e possíveis impactos nos resultados.",
+  "observar": "Fique atento a próximos relatórios financeiros da CSN e comunicados oficiais que detalhem ações dos novos diretores e possíveis efeitos no desempenho da empresa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Mostrar como mudanças na alta direção da CSN influenciam a estratégia e estrutura financeira da empresa, ajudando investidores e traders a entenderem decisões nos bastidores.",
+  "gancho": "*CSN* anuncia novo diretor executivo",
+  "ideias": [
+   "Quem é Alexandre D’Ambrosio, novo diretor da CSN?",
+   "Entenda a reestruturação da diretoria na CSN",
+   "O que muda na CSN com a nova diretoria executiva?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "alvo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/18/alexandre-dambrosio-eleito-novo-diretor-executivo-da-csn.ghtml",
+  "publicadoEm": "2026-11-18T19:24:28-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-13"
+ },
+ {
+  "titulo": "Setor nuclear pressiona inclusão na COP31 e pede investimentos",
+  "resumo": "Na COP31, setor nuclear cobra reconhecimento e financiamento para energia atômica. Carta do movimento Nuclear for Climate e Abdan destaca papel do nuclear nas metas climáticas.",
+  "fatos": [
+   "COP31 ocorre até 20 de novembro de 2026 em Antália, Turquia.",
+   "Setor nuclear exige espaço nas metas climáticas da conferência.",
+   "Abdan é signatária de carta do movimento Nuclear for Climate.",
+   "Carta tem três reivindicações principais: inclusão no plano climático, acesso a financiamentos e reconhecimento tecnológico.",
+   "Produção mundial de eletricidade nuclear foi de 2.850 terawatts-hora em 2025.",
+   "39 países aderiram à declaração para triplicar capacidade nuclear até 2050.",
+   "Abdan apresentou estudo para Dilma Rousseff, do NDB/BRICS, sobre financiamento.",
+   "NDB é conhecido como Banco dos BRICS, grupo de economias emergentes."
+  ],
+  "explicacao": [
+   "Durante a COP31, realizada em Antália, Turquia, até 20 de novembro de 2026, o setor nuclear mobilizou-se para garantir que a energia atômica seja considerada nas metas climáticas globais. Esta articulação internacional envolve empresas e associações, como a Abdan, do Brasil.",
+   "A pressão ocorre porque o setor quer que a energia nuclear seja explicitamente incluída nas estratégias de combate às mudanças climáticas, que o acesso a financiamentos internacionais aumente, e que a tecnologia seja reconhecida como parte da industrialização de baixo carbono.",
+   "Segundo dados da carta enviada à presidência da conferência, a produção mundial de eletricidade nuclear atingiu 2.850 terawatts-hora em 2025, e 39 países assinaram para triplicar essa capacidade até 2050, indicando crescimento do setor.",
+   "Além de participar do debate, a Abdan apresentou estudo para Dilma Rousseff, presidente do Novo Banco de Desenvolvimento, buscando alternativas financeiras para ampliar projetos nucleares em países do BRICS, fortalecendo o potencial do setor."
+  ],
+  "detalhes": [
+   "Evento acontece na Turquia, cidade de Antália, até 20/11/2026.",
+   "Carta é do Nuclear for Climate, grupo internacional do setor.",
+   "Abdan é a Associação Brasileira para o Desenvolvimento de Atividades Nucleares.",
+   "Carta foi enviada à presidência da COP31 para influenciar decisões.",
+   "Meta de triplicar capacidade nuclear visa avanço até 2050.",
+   "Produção de energia nuclear impacta estratégias de baixo carbono.",
+   "Estudo focou em alternativas de financiamento para projetos nucleares no BRICS."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Abdan (Associação Brasileira para o Desenvolvimento de Atividades Nucleares)",
+    "oque": "Reivindica inclusão explícita da energia nuclear nas metas climáticas e mais acesso a financiamentos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2025",
+    "oque": "Produção mundial de eletricidade nuclear atingiu 2.850 terawatts-hora."
+   },
+   {
+    "quando": "Até 20 de novembro de 2026",
+    "oque": "COP31 realiza debates em Antália, na Turquia."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "COP31",
+    "significado": "31ª Conferência da ONU que debate mudanças climáticas e políticas ambientais."
+   },
+   {
+    "termo": "Energia nuclear",
+    "significado": "Energia gerada pela fissão de átomos, usada para produzir eletricidade sem CO2."
+   },
+   {
+    "termo": "NDB (Novo Banco de Desenvolvimento)",
+    "significado": "Banco criado pelos BRICS para financiar projetos em economias emergentes."
+   }
+  ],
+  "pergunta": "Você acredita que a energia nuclear deve ter mais espaço nas metas climáticas?",
+  "tamanhoTexto": 5584,
+  "numeros": [
+   {
+    "valor": "2.850",
+    "rotulo": "terawatts-hora na produção nuclear global em 2025"
+   },
+   {
+    "valor": "39",
+    "rotulo": "países que aderiram à declaração para triplicar capacidade até 2050"
+   },
+   {
+    "valor": "20",
+    "rotulo": "data limite da COP31 em novembro de 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "2.850 terawatts-hora produção",
+  "porQueImporta": "O reconhecimento da energia nuclear nas metas climáticas da COP31 é importante para quem investe, pois pode ampliar o acesso a financiamentos internacionais e influenciar políticas energéticas de baixo carbono, além de possibilitar crescimento do setor nuclear no Brasil e globalmente.",
+  "impactoMercado": "Esse movimento pode abrir caminho para maiores investimentos em infraestrutura nuclear, afetando setores ligados à energia, construção e tecnologia. O mercado financeiro pode monitorar mudanças em políticas ambientais que influenciem ações de empresas de energia e setores industriais ligados ao desenvolvimento sustentável.",
+  "entenda": "A COP31 é uma conferência global que discute medidas para combater o aquecimento global. O setor nuclear busca ser incluído nas metas porque gera energia sem emitir gases poluentes, ajudando a reduzir a emissão de carbono, importante no cenário de mudanças climáticas.",
+  "observar": "Fique atento até 20 de novembro para decisões finais da COP31 sobre inclusão da energia nuclear. Acompanhe também possíveis aprovações de financiamento internacional para projetos no setor nuclear.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "Mostre como a energia nuclear pode se tornar uma peça-chave nas estratégias climáticas globais, despertando interesse sobre investimentos, tecnologias sustentáveis e debates na faculdade de mercado financeiro.",
+  "gancho": "*Energia Nuclear* em COP31",
+  "ideias": [
+   "Setor nuclear quer espaço nas metas climáticas da COP31",
+   "Produção global de energia nuclear atinge 2.850 TWh em 2025",
+   "Abdan discute financiamentos para projetos nucleares no BRICS"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "foguete",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/setor-nuclear-cobra-espaco-nas-metas-climaticas-da-cop31.shtml",
+  "publicadoEm": "2026-11-18T18:16:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-14"
+ },
+ {
+  "titulo": "Pressa para corrigir falhas com IA pode causar panes nos EUA, dizem especialistas",
+  "resumo": "Especialistas e autoridades americanas alertam que a pressa para corrigir falhas de software detectadas por inteligência artificial pode estar por trás da série de panes em infraestruturas críticas nos Estados Unidos.",
+  "fatos": [
+   "Especialistas em cibersegurança e autoridades americanas emitiram alerta sobre as falhas.",
+   "As falhas ocorreram em sistemas de infraestrutura crítica dos Estados Unidos.",
+   "A inteligência artificial foi usada para identificar falhas no software.",
+   "A pressa na correção dessas falhas causou panes e interrupções.",
+   "Os panes expuseram vulnerabilidades em instalações fundamentais para o país."
+  ],
+  "explicacao": [
+   "Especialistas em cibersegurança e autoridades dos EUA identificaram que falhas recentes em sistemas de infraestrutura crítica podem estar associadas à pressa para corrigir defeitos de software apontados por inteligência artificial. Esse esforço acelerado gerou falhas inesperadas que comprometeram a estabilidade dos sistemas.",
+   "A causa principal dessa situação é o uso da inteligência artificial para detectar falhas automaticamente e a subsequente aplicação rápida de correções sem um processo rigoroso de testes, aumentando riscos operacionais em sistemas sensíveis.",
+   "Esse cenário evidencia a vulnerabilidade das instalações críticas diante de tecnologias novas e da pressão para resolver problemas rapidamente, o que pode expor ainda mais riscos de segurança e operação no setor.",
+   "O próximo passo esperado é um reforço na avaliação das correções feitas com auxílio de IA, com maior controle e testes antes da implantação, para evitar que a pressa impeça que os sistemas funcionem com segurança."
+  ],
+  "detalhes": [
+   "Os incidentes ocorreram nos Estados Unidos envolvendo infraestrutura crítica.",
+   "As falhas foram detectadas por sistemas automatizados que usam inteligência artificial.",
+   "Faltou uma etapa de testes rigorosos nas correções aplicadas rapidamente.",
+   "Autoridades e especialistas em cibersegurança alertam para a vulnerabilidade comprovada.",
+   "O uso da IA para acelerar reparos gerou um efeito inverso de instabilidade.",
+   "A correção acelerada faz parte de um esforço para melhorar a segurança rapidamente.",
+   "O episódio levanta debate sobre como equilibrar inovação tecnológica com segurança."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "18/11/2026",
+    "oque": "Especialistas e autoridades dos EUA fazem alerta sobre falhas e pressa na correção"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Infraestrutura crítica",
+    "significado": "Instalações essenciais para a segurança e funcionamento do país"
+   },
+   {
+    "termo": "Inteligência artificial",
+    "significado": "Tecnologia que permite programas aprenderem e identificar padrões sozinhos"
+   },
+   {
+    "termo": "Falhas de software",
+    "significado": "Erros ou defeitos em programas que podem causar problemas no sistema"
+   }
+  ],
+  "pergunta": "Como você vê o uso da inteligência artificial na correção de falhas críticas?",
+  "tamanhoTexto": 1637,
+  "numeros": [],
+  "comparativo": [],
+  "destaque": "",
+  "porQueImporta": "Isso importa porque reforça que, no mercado e na segurança digital, a pressa para corrigir problemas pode causar mais riscos. Para investidores, mostra que infraestrutura crítica pode estar vulnerável a falhas inesperadas, impactando setores sensíveis.",
+  "impactoMercado": "O episódio pode gerar maior cautela em investimentos relacionados a segurança cibernética e infraestrutura, influenciando setores de tecnologia e serviços. Também destaca a importância da gestão de riscos em correções rápidas e uso de IA nos processos operacionais.",
+  "entenda": "A inteligência artificial (IA) é usada para identificar automaticamente falhas em sistemas, mas corrigir rapidamente sem testes rigorosos pode gerar mais erros. Infraestrutura crítica é o conjunto de instalações essenciais para o funcionamento do país, que dependem de sistemas confiáveis e seguros.",
+  "observar": "Fique atento a novos comunicados das autoridades americanas e especialistas sobre revisões nas políticas de correções rápidas e segurança cibernética nas próximas semanas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia usa um caso real para mostrar riscos de automação e pressa na tecnologia, estimulando o aprendizado sobre segurança e operações para quem quer entender mercado financeiro e suas vulnerabilidades.",
+  "gancho": "*IA* e riscos em *infraestrutura*",
+  "ideias": [
+   "Por que a pressa em corrigir falhas com IA pode causar problemas",
+   "Como a inteligência artificial detecta falhas em infraestrutura crítica",
+   "Os riscos de corrigir software rapidamente sem testes adequados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Global",
+  "icone": "escudo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/18/ft-culpa-de-panes-nos-eua-e-atribuida-a-pressa-para-corrigir-defeitos-encontrados-por-ia.ghtml",
+  "publicadoEm": "2026-11-18T18:17:53-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-15"
+ },
+ {
+  "titulo": "LOTS11 negocia compra de unidades comerciais do Lotus Tower em Brasília",
+  "resumo": "O fundo imobiliário LOTS11 assinou compromisso para adquirir cinco unidades comerciais do Lotus Tower por até R$ 140,5 milhões, com entrega prevista em 2027.",
+  "fatos": [
+   "Contrato assinado em 16 de novembro de 2023.",
+   "Compra envolve cinco unidades comerciais no Lotus Tower em Brasília.",
+   "Valor base de R$ 129,63 milhões à vista e até R$ 10,84 milhões adicionais.",
+   "Unidades localizadas no Setor de Autarquias Norte, Brasília, incluindo três salas na Torre 3 e duas na Torre 1.",
+   "Previsão de entrega do prédio em 28 de fevereiro de 2027, com tolerância de 180 dias.",
+   "Acordo prevê garantia de renda para unidades desocupadas no fechamento.",
+   "Transferência definitiva exige escritura pública de compra e venda."
+  ],
+  "explicacao": [
+   "Em 16 de novembro, o fundo imobiliário Lotus Towers (LOTS11) firmou um compromisso para comprar cinco unidades comerciais localizadas no empreendimento Lotus Tower, situado em Brasília.",
+   "O valor da compra pode chegar até R$ 140,5 milhões, sendo R$ 129,63 milhões pagos à vista e até R$ 10,84 milhões condicionados a exigências contratuais. A aquisição inclui salas e vagas de garagem nas Torres 1 e 3.",
+   "O empreendimento ainda está em construção, com previsão de conclusão para 28 de fevereiro de 2027, com uma tolerância contratual de 180 dias adicionais. O acordo garante renda ao fundo caso as unidades não estejam totalmente alugadas no fechamento.",
+   "A transferência definitiva depende da formalização da escritura pública e o fundo vai divulgar atualizações sobre o andamento da operação, importante para investidores acompanharem a evolução do ativo."
+  ],
+  "detalhes": [
+   "O fundo LOTS11 é especializado em fundos imobiliários e busca ampliar seu portfólio com imóveis comerciais.",
+   "O compromisso firmado agrega imóveis em fase de construção, o que pode influenciar na avaliação do preço e riscos.",
+   "A operação envolve pagamento inicial à vista e valores condicionados a metas contratuais, reduzindo riscos envolvidos.",
+   "Localização estratégica das unidades no Setor de Autarquias Norte, região comercial importante de Brasília.",
+   "Garantia de renda e opção de venda futuras protegem o fundo de possíveis desocupações.",
+   "A formalização legal com escritura pública é condição para transferência definitiva.",
+   "Novos comunicados da gestão do fundo informarão os investidores sobre o progresso da compra."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "16 de novembro de 2023",
+    "oque": "Assinado compromisso para compra das unidades comerciais pelo LOTS11."
+   },
+   {
+    "quando": "28 de fevereiro de 2027",
+    "oque": "Previsão de conclusão do empreendimento Lotus Tower."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fundo imobiliário (FII)",
+    "significado": "Grupo de investidores que aplicam em imóveis pela bolsa."
+   },
+   {
+    "termo": "Escritura pública",
+    "significado": "Documento oficial que formaliza compra e venda de bens."
+   },
+   {
+    "termo": "Unidade comercial",
+    "significado": "Espaço para negócios, como salas ou lojas, em edifícios."
+   }
+  ],
+  "pergunta": "Você conhece os riscos e vantagens de investir em FIIs com imóveis em construção?",
+  "tamanhoTexto": 2073,
+  "numeros": [
+   {
+    "valor": "140,5 milhões",
+    "rotulo": "Valor total da compra em reais"
+   },
+   {
+    "valor": "129,63 milhões",
+    "rotulo": "Preço-base pago à vista na assinatura"
+   },
+   {
+    "valor": "10,84 milhões",
+    "rotulo": "Valor adicional condicionado a exigências contratuais"
+   },
+   {
+    "valor": "5",
+    "rotulo": "Número de unidades comerciais adquiridas"
+   },
+   {
+    "valor": "28/02/2027",
+    "rotulo": "Data prevista para conclusão do empreendimento"
+   },
+   {
+    "valor": "180 dias",
+    "rotulo": "Tolerância contratual para entrega da obra"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 140,5 milhões",
+  "porQueImporta": "Para investidores de fundos imobiliários, essa aquisição reforça a estratégia do LOTS11 em diversificar ativos e aumentar seu portfólio com imóveis comerciais em construção, impactando a expectativa de rendimentos futuros e o perfil de risco do fundo.",
+  "impactoMercado": "O negócio demonstra movimentações no mercado de FIIs, com aquisições estruturadas que contemplam imóveis em construção, podendo atrair investidores interessados em imóveis comerciais e potencializar setores ligados a construção e locação em Brasília.",
+  "entenda": "Fundo imobiliário é uma forma de investir em imóveis através da bolsa, sem comprar diretamente o imóvel. O LOTS11 está adquirindo unidades comerciais em um prédio novo, o que envolve contratos, prazo para entrega e garantias, fundamentais para avaliar risco e retorno.",
+  "observar": "Acompanhe os anúncios oficiais sobre a formalização da escritura e atualizações até a conclusão do empreendimento prevista para fevereiro de 2027, pois isso afeta a confirmação da posse do imóvel pelo fundo.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários"
+  ],
+  "angulo": "Notícias sobre aquisições estratégicas de fundos imobiliários mostram a dinâmica de investimentos no setor, incentivando a compreensão dos contratos e do mercado para quem quer aprender e operar com FIIs.",
+  "gancho": "Compra de *imóveis* pelo *LOTS11*",
+  "ideias": [
+   "Entenda como o LOTS11 investe em imóveis comerciais em Brasília",
+   "O que significa comprar unidades em construção para fundos imobiliários?",
+   "Lotus Tower: o novo ativo do fundo imobiliário LOTS11 explicado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "FIIs",
+  "icone": "grafico",
+  "fonte": "Suno Notícias",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://www.suno.com.br/noticias/fundo-imobiliario-lots11-compra-imoveis-brasilia/",
+  "publicadoEm": "2026-11-18T17:04:38-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-16"
+ },
+ {
+  "titulo": "Justiça alemã propõe acordo com operador do Movie2k por US$ 1 bilhão em Bitcoin",
+  "resumo": "Operador do extinto site Movie2k pode ficar com 16 mil bitcoins, US$ 1 bilhão, desde que entregue 40 mil BTC às autoridades.",
+  "fatos": [
+   "Operador pode ficar com 16 mil bitcoins, cerca de US$ 1 bilhão.",
+   "Precisa entregar 40 mil bitcoins às autoridades, avaliados em US$ 2,5 bilhões.",
+   "Em janeiro de 2024, 50 mil bitcoins foram confiscados pela Alemanha.",
+   "Antes do processo, ele tinha mais de 105 mil bitcoins, cerca de US$ 6,6 bilhões.",
+   "Multa proposta é de 38 milhões de euros, cerca de US$ 42 milhões.",
+   "Oferta de acordo foi feita em razão da dificuldade em provar origem ilícita de todos os bitcoins.",
+   "Site Movie2k operou entre 2008 e 2013.",
+   "A Alemanha vendeu rapidamente os 50 mil bitcoins confiscados em 2024.",
+   "Operador mantém cerca de 56 mil bitcoins sob custódia atualmente."
+  ],
+  "explicacao": [
+   "A justiça da Alemanha ofereceu um acordo ao operador do site de pirataria Movie2k para que ele fique com cerca de 16 mil bitcoins, avaliados em US$ 1 bilhão, e encerre o processo judicial contra ele.",
+   "Essa proposta surgiu porque é difícil comprovar que todos os bitcoins ligados ao acusado tenham origem ilícita, o que comprometeria a possibilidade de confisco total dos ativos digitais.",
+   "Além de ficar com parte dos bitcoins, o operador precisaria entregar 40 mil bitcoins avaliados em US$ 2,5 bilhões e pagar uma multa de 38 milhões de euros em indenização às vítimas.",
+   "O Movie2k foi um dos maiores sites de pirataria entre 2008 e 2013, e acumulou mais de 105 mil bitcoins antes da investigação. A expectativa é de nova venda massiva de bitcoins confiscados, que não teria impacto no mercado."
+  ],
+  "detalhes": [
+   "Acordo foi proposto pelo juiz responsável pelo caso do Movie2k.",
+   "Os bitcoins avaliados em US$ 6,6 bilhões foram acumulados quando o preço do Bitcoin era baixo.",
+   "A multa de 38 milhões de euros é considerada pequena em comparação ao valor que o operador manteria.",
+   "O confisco total não é possível devido à falta de provas sobre a origem ilegal de algumas moedas.",
+   "A Alemanha vendeu os bitcoins confiscados sem causar impacto no mercado.",
+   "A oferta aconteceu em 13 de janeiro de 2024, conforme mídia local alemã.",
+   "Comparação com outras reservas: Strategy tem 850.849 BTC, enquanto Metaplanet, Twenty One Capital e Strive têm cerca de 44 mil cada."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Mídia alemã local",
+    "oque": "O juiz ofereceu o acordo pela dificuldade de provar origem ilícita de todos os bitcoins."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Janeiro de 2024",
+    "oque": "Confisco de 50 mil bitcoins pela Alemanha."
+   },
+   {
+    "quando": "13 de janeiro de 2024",
+    "oque": "Mídia divulga proposta de acordo da justiça alemã."
+   },
+   {
+    "quando": "2008 a 2013",
+    "oque": "Período de operação do site Movie2k."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Bitcoin",
+    "significado": "Moeda digital descentralizada usada para transações pela internet."
+   },
+   {
+    "termo": "Confisco",
+    "significado": "Ato legal de apreender bens ligados a crimes."
+   },
+   {
+    "termo": "Pirata digital",
+    "significado": "Pessoa que distribui conteúdo ilegalmente na internet."
+   }
+  ],
+  "pergunta": "Você acha justo o operador manter parte dos bitcoins?",
+  "tamanhoTexto": 2522,
+  "numeros": [
+   {
+    "valor": "16.000",
+    "rotulo": "bitcoins que podem ficar com o acusado"
+   },
+   {
+    "valor": "40.000",
+    "rotulo": "bitcoins que o acusado deve entregar"
+   },
+   {
+    "valor": "50.000",
+    "rotulo": "bitcoins confiscados pela Alemanha em 2024"
+   },
+   {
+    "valor": "38.000.000",
+    "rotulo": "euros da multa proposta"
+   },
+   {
+    "valor": "105.000",
+    "rotulo": "bitcoins totais acumulados pelo operador antes do processo"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "bitcoins totais do operador do Movie2k",
+    "antes": "mais de 105 mil bitcoins",
+    "depois": "16 mil bitcoins para ele, 40 mil entregues"
+   }
+  ],
+  "destaque": "16 mil bitcoins",
+  "porQueImporta": "A decisão mostra desafios legais envolvendo criptomoedas ligadas a crimes, afetando como ativos digitais podem ser recuperados ou confiscados em investigações.",
+  "impactoMercado": "Possíveis vendas de grandes volumes de bitcoins confiscados podem influenciar liquidez em criptomoedas, afetando investidores e o comportamento do mercado.",
+  "entenda": "Bitcoins são criptomoedas digitais que podem ser armazenadas e transferidas sem intermediários. A justiça pode confiscar essas moedas, mas precisar de provas da origem ilícita é fundamental para legitimidade do processo.",
+  "observar": "Acompanhe possíveis leilões ou vendas das criptomoedas confiscadas, assim como decisões judiciais que esclareçam a origem dos bitcoins remanescentes.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia ajuda a entender a complexidade legal do mercado cripto e reforça a importância do conhecimento para quem quer operar com segurança e consciência.",
+  "gancho": "*Bitcoin* na Justiça",
+  "ideias": [
+   "Como funciona o confisco de bitcoins pela justiça?",
+   "A proposta de acordo do Movie2k em US$ 1 bilhão",
+   "Desafios legais em processos com criptomoedas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "cadeado",
+  "fonte": "Livecoins (cripto)",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://livecoins.com.br/justica-alema-propoe-que-operador-de-site-de-pirataria-fique-com-us-1-bilhao-em-bitcoin-e-processo-seja-encerrado-mas-ha-uma-condicao/",
+  "publicadoEm": "2026-11-18T16:28:43-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-17"
+ },
+ {
+  "titulo": "Voltam rumores sobre Alexandre Barreto para presidência do Banco do Brasil",
+  "resumo": "Alexandre Barreto, ex-superintendente do Cade, é cotado para assumir o Banco do Brasil, com resistência do PT.",
+  "fatos": [
+   "Alexandre Barreto foi superintendente-geral do Cade de junho de 2022 a junho de 2026.",
+   "Foi presidente do Cade entre 2017 e 2021.",
+   "É servidor de carreira do Tribunal de Contas da União (TCU).",
+   "Nome de Barreto confirmado por Bloomberg e Estadão/Broadcast como cotado para BB.",
+   "Senador Davi Alcolumbre desmente ter feito tratativas para indicar Barreto.",
+   "Resistência do PT para nome externo na presidência do Banco do Brasil.",
+   "Barreto tem experiência na Receita Federal e no Senado Federal.",
+   "Formado em administração pela Universidade de Brasília."
+  ],
+  "explicacao": [
+   "Alexandre Barreto, ex-superintendente-geral do CADE entre 2022 e 2026, volta a ser cotado para presidir o Banco do Brasil, segundo interlocutores do Estadão/Broadcast.",
+   "A indicação dele encontra resistência do PT, que não quer ver o BB sob comando externo ao partido, apesar da atual crise na instituição.",
+   "Barreto tem histórico no CADE, Tribunal de Contas da União e Receita Federal, mas é criticado por falta de experiência direta no mercado financeiro.",
+   "O senador Davi Alcolumbre nega qualquer articulação para indicar Barreto, mantendo o campo aberto para futuros desdobramentos na indicação."
+  ],
+  "detalhes": [
+   "Barreto é visto como nome técnico, mas sem atuação no mercado financeiro.",
+   "Atuação no Cade lhe dá experiência em defesa da concorrência e regulação.",
+   "A discussão sobre sua indicação já ocorre desde quando ainda era SG do Cade.",
+   "O Banco do Brasil enfrenta desafios institucionais e de mercado atualmente.",
+   "Davi Alcolumbre é associado a Barreto, mas nega ligação política direta.",
+   "O PT controla cargos de direção no Banco do Brasil e resiste a nomeações externas.",
+   "A decisão sobre a presidência do Banco do Brasil é estratégica para o governo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Senador Davi Alcolumbre",
+    "oque": "Negou ter tratado da indicação de Barreto para presidência do Banco do Brasil"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2017-2021",
+    "oque": "Alexandre Barreto foi presidente do Cade"
+   },
+   {
+    "quando": "junho 2022 a junho 2026",
+    "oque": "Barreto atuou como superintendente-geral do Cade"
+   },
+   {
+    "quando": "18 de abril de 2024",
+    "oque": "Senador Alcolumbre negou ter feito tratativas para indicação"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CADE",
+    "significado": "Conselho que fiscaliza a concorrência no país"
+   },
+   {
+    "termo": "Superintendente-geral",
+    "significado": "Cargo de liderança executiva em órgão público"
+   },
+   {
+    "termo": "TCU",
+    "significado": "Tribunal que fiscaliza contas públicas"
+   }
+  ],
+  "pergunta": "Você acha importante ter um presidente com experiência no mercado financeiro no Banco do Brasil?",
+  "tamanhoTexto": 1852,
+  "numeros": [
+   {
+    "valor": "2017-2021",
+    "rotulo": "mandato de Barreto como presidente do Cade"
+   },
+   {
+    "valor": "junho 2022 - junho 2026",
+    "rotulo": "mandato de Barreto como superintendente-geral do Cade"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Cotação de Alexandre",
+  "porQueImporta": "A presidência do Banco do Brasil é estratégica para o mercado financeiro e para o governo. A escolha do nome impacta decisões internas e a relação com investidores, especialmente em momento de desafios institucionais.",
+  "impactoMercado": "A possível indicação de Barreto, com menos experiência de mercado, pode gerar incerteza para investidores. A resistência política mostra o impacto das disputas partidárias na governança da instituição, importante para o setor financeiro.",
+  "entenda": "O Banco do Brasil é um dos maiores bancos do país, e sua presidência influencia políticas de crédito e investimentos. O Cade regula a concorrência no mercado, e o Tribunal de Contas da União fiscaliza recursos públicos.",
+  "observar": "Acompanhe futuras definições sobre a presidência do Banco do Brasil, possíveis resistências políticas e pronunciamentos oficiais do governo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Entender a disputa por cargos públicos como o BB ajuda o investidor a acompanhar os impactos políticos na economia e a importância da governança em instituições financeiras.",
+  "gancho": "Indicação para *Banco do Brasil*",
+  "ideias": [
+   "Quem é Alexandre Barreto e seu histórico no Cade e TCU",
+   "O que significa a presidência do Banco do Brasil para o mercado",
+   "Como disputas políticas influenciam o comando de bancos públicos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "alvo",
+  "fonte": "Estadão Economia",
+  "impacto": "medio",
+  "ordem": 13,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://www.estadao.com.br/economia/ressurge-movimentacao-por-ex-superintendente-do-cade-alexandre-barreto-no-comando-do-bb/",
+  "publicadoEm": "2026-11-18T16:43:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-18"
+ },
+ {
+  "titulo": "Natália Resende assume supersecretaria em São Paulo na gestão Tarcísio 2",
+  "resumo": "Natália Resende, atual secretária da Semil, vai liderar a nova Secretaria de Planejamento, Orçamento e Investimentos em SP. Ela tem 16 anos de carreira pública e é braço direito do governador Tarcísio de Freitas.",
+  "fatos": [
+   "Natália Resende acumula 16 anos no serviço público",
+   "Ela atua com Tarcísio de Freitas desde 2017",
+   "Foi secretária da Semil desde o início da gestão atual em 2023",
+   "Nova pasta criada reunirá orçamento, planejamento e investimentos",
+   "Semil será divida em Infraestrutura e Meio Ambiente",
+   "Infraestrutura ficará sob Rafael Benini; Meio Ambiente com Thomaz de Toledo",
+   "Natália é engenheira civil, advogada e procuradora federal",
+   "Sob sua gestão, Sabesp foi desestatizada em 2024",
+   "Tem cerca de 32 mil seguidores no Instagram e 27 mil no LinkedIn",
+   "Reorganização do secretariado anunciada em 18 de novembro de 2026"
+  ],
+  "explicacao": [
+   "Natália Resende, que atualmente ocupa a secretaria de Meio Ambiente, Infraestrutura e Logística (Semil) em São Paulo, foi anunciada para comandar uma nova pasta que reunirá orçamento, planejamento e investimentos. A mudança foi divulgada em 18 de novembro de 2026 pelo governador reeleito Tarcísio de Freitas.",
+   "A criação dessa supersecretaria reflete a necessidade de centralizar políticas públicas e acompanhar obras prioritárias em mobilidade, logística e infraestrutura, além de concentrar a vinculação das agências reguladoras do estado. A Semil será desmembrada em ao menos duas novas pastas, Infraestrutura e Meio Ambiente, com novos responsáveis.",
+   "Natália Resende tem formação em Engenharia Civil e Direito, é procuradora federal e atua com Tarcísio desde 2017, tendo sido peça-chave na elaboração do plano de governo da campanha. Sua experiência inclui passagens pelo Ministério do Planejamento, Infraestrutura e a Advocacia-Geral da União.",
+   "O próximo passo será a estruturação da nova supersecretaria para garantir maior eficiência no planejamento e execução dos investimentos estaduais, além de gerir políticas públicas estratégicas para São Paulo nas áreas mencionadas."
+  ],
+  "detalhes": [
+   "Natália assumirá a Secretaria de Planejamento, Orçamento e Investimentos",
+   "Secretaria será responsável pela avaliação e políticas públicas em áreas como mobilidade e infraestrutura",
+   "Natália trabalhou como consultora jurídica no Ministério da Infraestrutura entre 2019 e 2022",
+   "Semil abarcava meio ambiente, saneamento, logística e rodovias antes do desmembramento",
+   "A desestatização da Sabesp foi concluída em 2024 durante sua gestão",
+   "A aproximação com Tarcísio começou na Secretaria do Programa de Parcerias de Investimentos em 2017",
+   "A secretária utiliza redes sociais para comunicação digital focada em visitas a obras"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Governo do Estado de São Paulo",
+    "oque": "Secretaria terá papel estratégico em avaliação, políticas públicas e acompanhamento de obras prioritárias"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "outubro de 2017",
+    "oque": "Natália passou a atuar como assessora jurídica na PPI com Tarcísio"
+   },
+   {
+    "quando": "janeiro de 2019 a final de",
+    "oque": "Foi consultora jurídica do Ministério da Infraestrutura"
+   },
+   {
+    "quando": "início de 2023",
+    "oque": "Assumiu a Secretaria Semil no governo paulista"
+   },
+   {
+    "quando": "final de 2024",
+    "oque": "Estado concluiu desestatização da Sabesp sob sua gestão"
+   },
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Anunciada sua transferência para nova supersecretaria"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Desestatização",
+    "significado": "Transferência de um serviço ou empresa pública para a iniciativa privada"
+   },
+   {
+    "termo": "Secretaria",
+    "significado": "Órgão do governo responsável por áreas específicas da administração pública"
+   }
+  ],
+  "pergunta": "Como você acha que a nova supersecretaria pode influenciar os investimentos em São Paulo?",
+  "tamanhoTexto": 4735,
+  "numeros": [
+   {
+    "valor": "16 anos",
+    "rotulo": "Tempo de carreira pública de Natália Resende"
+   },
+   {
+    "valor": "32 mil",
+    "rotulo": "Seguidores no Instagram da secretária"
+   },
+   {
+    "valor": "27 mil",
+    "rotulo": "Seguidores no LinkedIn da secretária"
+   },
+   {
+    "valor": "1 bilhão de reais",
+    "rotulo": "Investimentos previstos em projetos privados para aeroporto (contexto da matéria)"
+   },
+   {
+    "valor": "13 vídeos",
+    "rotulo": "Vídeos publicados por Natália no Instagram em outubro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Nova supersecretaria para",
+  "porQueImporta": "A criação dessa supersecretaria em São Paulo sinaliza uma gestão mais integrada das políticas de investimento e orçamento, essencial para quem acompanha o mercado, pois pode impactar diretamente obras públicas, concessões e o ambiente regulatório, influenciando setores como infraestrutura e logística.",
+  "impactoMercado": "Para investidores e operadores, a reorganização do secretariado, especialmente com a consolidação do planejamento e orçamento numa única pasta, pode trazer maior previsibilidade e eficiência na execução dos projetos estaduais, afetando setores-chave como transporte, saneamento e energia.",
+  "entenda": "A supersecretaria de Planejamento, Orçamento e Investimentos reúne funções que antes estavam dispersas, para centralizar a gestão do dinheiro público e o acompanhamento dos investimentos. Isso ajuda o governo a priorizar projetos e controlar melhor os gastos, favorecendo um ambiente mais coordenado para empreendedores e investidores.",
+  "observar": "Fique atento às próximas nomeações no secretariado estadual e aos primeiros anúncios da nova supersecretaria para entender impactos nos investimentos e políticas públicas.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Notícia que mostra a estrutura de poder e como gestão eficiente de orçamento e planejamento impactam projetos públicos e investimentos, um tema essencial para quem quer entender o mercado e conhecer a faculdade de mercado financeiro.",
+  "gancho": "*Supersecretaria* e investimento público",
+  "ideias": [
+   "Quem é Natália Resende e seu papel na gestão Tarcísio 2",
+   "O que muda com a nova Secretaria de Planejamento em SP",
+   "Impactos da reorganização do secretariado para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://valor.globo.com/politica/noticia/2026/11/18/quem-e-natalia-resende-alcada-ao-cargo-de-supersecretaria-na-gestao-tarcisio-2.ghtml",
+  "publicadoEm": "2026-11-18T18:31:15-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-19"
+ },
+ {
+  "titulo": "IPO da Anthropic pode criar milhares de milionários no setor de IA",
+  "resumo": "Oferta da Anthropic avaliada em até US$ 1,4 trilhão deve gerar milhões em riqueza para funcionários atuais e antigos. Cerca de 2.800 empregados podem possuir ao menos US$ 1 milhão em ações.",
+  "fatos": [
+   "IPO agendado para estreia na Nasdaq na quinta-feira, 19 de novembro de 2026.",
+   "Faixa de preço por ação definida entre US$ 70 e US$ 78.",
+   "Avaliação da empresa estimada entre US$ 1,35 trilhão e US$ 1,4 trilhão.",
+   "Estimativa da Sacra aponta 2.800 funcionários com pelo menos US$ 1 milhão em ações.",
+   "Funcionários da Anthropic acumulam US$ 119 bilhões em ganhos contábeis em opções de ações.",
+   "Cerca de US$ 73 bilhões já podem ser exercidos imediatamente por tempo de serviço.",
+   "Preço médio de exercício das opções até 2023 era US$ 0,52 por ação.",
+   "Número de funcionários subiu de 940 no final de 2024 para aproximadamente 5.300 em setembro de 2026.",
+   "Diretor financeiro Krishna Rao recebeu 14 milhões de opções com preço de exercício de US$ 1,30."
+  ],
+  "explicacao": [
+   "A Anthropic, empresa de inteligência artificial, abriu seu IPO na Nasdaq com uma avaliação que pode chegar a US$ 1,4 trilhão. A oferta está marcada para quarta-feira, com preço entre US$ 70 e US$ 78 por ação, e promete criar milhares de milionários entre seus funcionários.",
+   "Esse movimento ocorre porque a empresa distribuiu amplas concessões de ações a seus empregados, desde engenheiros a funcionários administrativos, muitas delas com preços de exercício muito baixos. Tal prática gerou valor que pode alterar vidas, especialmente para quem está desde os primeiros anos da companhia.",
+   "O potencial de riqueza criado com o IPO demonstra o impacto das opções e unidades de ações restritas nos contratos de trabalho no Vale do Silício, embora o documento oficial não revele valores individuais, o montante total é estimado em dezenas de bilhões de dólares.",
+   "Agora, o mercado acompanhará a estreia da Anthropic na bolsa com expectativa sobre a venda inicial de ações pelos funcionários e os próximos passos de crescimento e inovação no setor de IA, que já vem acelerando a criação de novas fortunas."
+  ],
+  "detalhes": [
+   "A oferta pública inicial da Anthropic será na Nasdaq, com preço final definido na noite de quarta-feira.",
+   "Hill estima que 598 funcionários não fundadores deterão pelo menos US$ 100 milhões em ações após o IPO.",
+   "A Anthropic usou a remuneração baseada em ações para atrair e reter talentos em rápida expansão.",
+   "Funcionários antigos podem ter opções com preço de exercício inferior a US$ 1, beneficiando-se muito do IPO.",
+   "Parte dos funcionários poderá vender até 10% das ações no primeiro dia e outros 35% após resultados de 2026.",
+   "A empresa tem ampliado suas concessões para cargos administrativos e de apoio, não apenas para pesquisadores.",
+   "A tendência é que futuras concessões sejam mais seletivas, focando em talentos chave."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Benson, especialista citado pelo Reuters",
+    "oque": "Funcionários que ingressaram cedo, mesmo em cargos juniores, terão ganhos maiores no IPO."
+   },
+   {
+    "quem": "Marcelo Ballve, chefe de pesquisa da Sacra",
+    "oque": "Concessões para cargos iniciantes e administrativos não são incomuns, mas vêm mudando com o tempo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "30 de setembro de 2026",
+    "oque": "Anthropic tinha cerca de 5.300 funcionários."
+   },
+   {
+    "quando": "Maio de 2024",
+    "oque": "Oferta de trabalho para parceiro administrativo indicava ações como importante parte da remuneração."
+   },
+   {
+    "quando": "4 anos antes do IPO (por",
+    "oque": "Anthropic foi fundada e começou a distribuir opções com preços baixos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial de ações na bolsa"
+   },
+   {
+    "termo": "Opções de ações",
+    "significado": "Direito de comprar ações a preço fixo no futuro"
+   },
+   {
+    "termo": "Preço de exercício",
+    "significado": "Preço definido para usar opções de ações"
+   }
+  ],
+  "pergunta": "Você sabia como as opções de ações podem transformar funcionários em milionários? Conta para a gente!",
+  "tamanhoTexto": 5823,
+  "numeros": [
+   {
+    "valor": "1,4 trilhão",
+    "rotulo": "Avaliação máxima da Anthropic no IPO em dólares"
+   },
+   {
+    "valor": "2.800",
+    "rotulo": "Número estimado de funcionários milionários após o IPO"
+   },
+   {
+    "valor": "598",
+    "rotulo": "Funcionários com participações acima de US$ 100 milhões na estimativa da Hill"
+   },
+   {
+    "valor": "70 a 78",
+    "rotulo": "Faixa de preço por ação no IPO em dólares"
+   },
+   {
+    "valor": "119 bilhões",
+    "rotulo": "Ganhos contábeis em opções de ações acumulados até setembro de 2026"
+   },
+   {
+    "valor": "73 bilhões",
+    "rotulo": "Parte dos ganhos em opções que já podem ser exercidos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Número de funcionários",
+    "antes": "940 em dezembro de 2024",
+    "depois": "5.300 em setembro de 2026"
+   }
+  ],
+  "destaque": "2.800 funcionários milionários",
+  "porQueImporta": "Esse IPO evidencia como concessões de ações podem gerar grande riqueza para funcionários, impactando decisões de carreira e remuneração no setor de tecnologia. Entender esse processo é essencial para quem quer aproveitar ou compreender a dinâmica do mercado em empresas inovadoras.",
+  "impactoMercado": "A estreia da Anthropic pode aumentar o interesse por empresas de IA e tecnologia, influenciar valorização de ações do setor, além de reforçar práticas de remuneração com ações que afetam engajamento e retenção de talentos.",
+  "entenda": "IPO é quando uma empresa abre seu capital ao público, vendendo ações. Funcionários com opções a preços baixos podem lucrar muito, se a ação valorizar na bolsa. Esse processo cria nova riqueza e influencia o mercado e remuneração corporativa.",
+  "observar": "Fique atento à definição final do preço das ações e ao desempenho da Anthropic após a divulgação dos resultados de 2026, que vai liberar mais vendas de ações pelos funcionários.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entender o impacto do IPO da Anthropic ajuda a compreender criação de riqueza via ações e o papel das empresas de IA no mercado, mostrando como funciona o mercado financeiro na prática.",
+  "gancho": "*IPO* da Anthropic e *milionários*",
+  "ideias": [
+   "Como o IPO da Anthropic cria novos milionários",
+   "Entenda opções de ações e IPO na Anthropic",
+   "Crescimento da Anthropic em IA e mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 15,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://www.infomoney.com.br/mercados/ipo-da-anthropic-deve-criar-milhares-de-milionarios/",
+  "publicadoEm": "2026-11-18T18:26:09-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-20"
+ },
+ {
+  "titulo": "Acidente na Klabin pode afetar até 7% do Ebitda, diz Safra",
+  "resumo": "Incidente na caldeira da unidade de Otacílio Costa fez Klabin suspender operações. Safra prevê impacto negativo, porém administrável, nos resultados.",
+  "fatos": [
+   "Acidente ocorreu na caldeira de recuperação da unidade de Otacílio Costa (SC) da Klabin.",
+   "Suspensão das operações da planta comunicada em 18 de outubro.",
+   "Dez colaboradores foram encaminhados a hospital local.",
+   "Unidade tem capacidade anual de 350 mil toneladas de papel kraft, 19% da capacidade total da Klabin.",
+   "Safra projeta impacto de até R$ 540 milhões no Ebitda, cerca de 7% da estimativa anual.",
+   "Compra de celulose de terceiros pode diminuir o impacto para R$ 440 milhões.",
+   "Venda da madeira não consumida reduziria o impacto para R$ 285 milhões, ou 4% do Ebitda.",
+   "Investimento para reconstrução da caldeira estimado entre R$ 1,5 bilhão e R$ 1,7 bilhão.",
+   "Reconstrução teria prazo estimado de conclusão em cerca de dois anos.",
+   "Investimentos totais da Klabin podem subir a até R$ 3,8 bilhões em 2027 e R$ 3,5 bilhões em 2028."
+  ],
+  "explicacao": [
+   "Na quarta-feira (18), a Klabin comunicou o acidente na caldeira de recuperação da sua unidade em Otacílio Costa (SC), levando à suspensão das operações e ativação dos protocolos de emergência. Dez funcionários foram hospitalizados.",
+   "O banco Safra analisou que o impacto no Ebitda pode chegar a R$ 540 milhões, equivalente a cerca de 7% da estimativa anual da empresa, caso a paralisação seja prolongada e afete as vendas de papel kraft.",
+   "Para reduzir os efeitos, o Safra destacou alternativas, como adquirir celulose de terceiros, apesar do custo até 30% maior, e vender a madeira que a planta não consumiria, reduzindo o impacto para cerca de R$ 285 milhões, ou 4% do Ebitda estimado.",
+   "Também é previsto um investimento de até R$ 1,7 bilhão para reconstrução da caldeira, com prazo de até dois anos, aumentando os investimentos da Klabin para cerca de R$ 3,8 bilhões em 2027 e 3,5 bilhões em 2028."
+  ],
+  "detalhes": [
+   "O acidente aconteceu na unidade de produção localizada em Otacílio Costa, Santa Catarina.",
+   "A caldeira de recuperação é parte da cadeia produtiva da fábrica de celulose e papel da Klabin.",
+   "A planta de papel produz cerca de 19% da capacidade total de papel da empresa, com 350 mil toneladas anuais.",
+   "O impacto financeiro inicial será descontado do Ebitda anual, principal indicador operacional da companhia.",
+   "O banco Safra avaliou os cenários possíveis de impacto e propôs soluções operacionais.",
+   "A compra de celulose terceirizada implica custo 30% maior que o próprio da Klabin.",
+   "A madeira usada na planta consumia cerca de 1,3 milhão de metros cúbicos por ano."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Analistas do Safra",
+    "oque": "O incidente terá impacto negativo, mas é administrável e medidas podem mitigar perdas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de outubro de 2023",
+    "oque": "Klabin comunicou acidente e paralisação da unidade em Otacílio Costa."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ebitda",
+    "significado": "Lucro operacional antes de juros, impostos e depreciação"
+   },
+   {
+    "termo": "Caldeira de recuperação",
+    "significado": "Equipamento que reaproveita energia na produção industrial"
+   },
+   {
+    "termo": "Celulose",
+    "significado": "Matéria-prima fibrosa usada na fabricação de papel"
+   }
+  ],
+  "pergunta": "Você já sabia do impacto de acidentes industriais no resultado das empresas?",
+  "tamanhoTexto": 4159,
+  "numeros": [
+   {
+    "valor": "350 mil",
+    "rotulo": "toneladas anuais de papel kraft da unidade"
+   },
+   {
+    "valor": "R$ 540 milhões",
+    "rotulo": "impacto estimado no Ebitda no cenário conservador"
+   },
+   {
+    "valor": "7%",
+    "rotulo": "percentual do Ebitda estimado afetado pelo acidente"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "custo maior esperado na compra de celulose de terceiros"
+   },
+   {
+    "valor": "1,3 milhão",
+    "rotulo": "metros cúbicos de madeira consumidos anualmente pela unidade"
+   },
+   {
+    "valor": "R$ 120",
+    "rotulo": "preço médio por metro cúbico da madeira"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "7% do Ebitda",
+  "porQueImporta": "Para investidores e traders, o impacto de até 7% no Ebitda da Klabin com o acidente é relevante na avaliação dos resultados financeiros da empresa. Entender o potencial de recuperação e os custos envolvidos ajuda a interpretar a volatilidade das ações e possíveis ajustes nas projeções de lucro.",
+  "impactoMercado": "O acidente pode impactar o desempenho operacional e financeiro da Klabin, especialmente em papéis que representem cerca de 19% da capacidade da empresa. Setores ligados a papel e celulose podem refletir essa instabilidade momentânea, influenciando ativos negociados na bolsa.",
+  "entenda": "Ebitda é o lucro antes de juros, impostos, depreciação e amortização, que mostra a capacidade de geração de caixa da empresa. Um impacto de até 7% no Ebitda significa que o resultado operacional pode diminuir diante de paradas e custos extras, afetando a análise financeira dos investidores.",
+  "observar": "Fique atento aos próximos comunicados da Klabin sobre extensão dos danos, prazo de paralisação e os resultados trimestrais que podem refletir os efeitos do acidente.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia mostra como eventos operacionais de uma empresa impactam seus resultados financeiros e, consequentemente, o mercado. Entender isso ajuda a quem quer aprender a analisar desequilíbrios e riscos para operar com mais segurança, conectando teoria e prática com a",
+  "gancho": "Acidente na *Klabin*: impacto e gestão",
+  "ideias": [
+   "Entenda o que é Ebitda e seu impacto",
+   "Como acidentes industriais afetam resultados de empresas",
+   "Klabin: estratégias para mitigar prejuízos operacionais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "raio",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 16,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "url": "https://www.moneytimes.com.br/klabin-klbn11-impacto-de-acidente-pode-variar-entre-4-e-7-do-ebitda-mas-e-administravel-diz-safra-pads/",
+  "publicadoEm": "2026-11-18T17:38:22-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-21"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-before-2027",
+  "titulo": "Mercado de previsões vê 39.5% de chance de Ethereum abaixo de $1,500 em 2026",
+  "resumo": "Essa chance é baseada em apostas e não representa uma previsão oficial sobre o preço do Ethereum.",
+  "probs": [
+   {
+    "opcao": "↓ 1,500",
+    "prob": 39.5
+   },
+   {
+    "opcao": "↓ 1,250",
+    "prob": 18.5
+   },
+   {
+    "opcao": "↓ 1,000",
+    "prob": 7.6
+   },
+   {
+    "opcao": "↑ 3,000",
+    "prob": 3.3
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 63 mil",
+  "fatos": [
+   "↓ 1,500: 39,5%",
+   "↓ 1,250: 18,5%",
+   "↓ 1,000: 7,6%",
+   "↑ 3,000: 3,3%"
+  ],
+  "numeros": [
+   {
+    "valor": "39,5%",
+    "rotulo": "↓ 1,500"
+   },
+   {
+    "valor": "18,5%",
+    "rotulo": "↓ 1,250"
+   },
+   {
+    "valor": "7,6%",
+    "rotulo": "↓ 1,000"
+   },
+   {
+    "valor": "3,3%",
+    "rotulo": "↑ 3,000"
+   }
+  ],
+  "destaque": "39,5%",
+  "gancho": "*Expectativas* para o Ethereum",
+  "entenda": "O Ethereum, assim como outras criptomoedas, tem seu preço ditado pela oferta e demanda no mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
+  "publicadoEm": "2026-11-18T19:41:48-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-18T19:41:48-03:00",
+  "data": "2026-11-18",
+  "status": "nova",
+  "id": "2026-11-18-p3"
+ },
+ {
   "titulo": "Dólar sobe a R$ 5,83 com incertezas no pacote fiscal e atenção ao Fed",
   "resumo": "Dólar avançou 0,97%, alcançando R$ 5,83 em meio a dúvidas sobre o ajuste fiscal no Congresso e expectativa pela ata do Fed.",
   "fatos": [
