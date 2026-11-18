@@ -1,5 +1,405 @@
 [
  {
+  "titulo": "Custo Brasil chega a R$ 3,5 trilhões, equivalente a 27,5% do PIB em 2025",
+  "resumo": "Estudo do MBC aponta custo Brasil de R$ 3,5 trilhões anuais, 27,5% do PIB projetado. Novo método inclui insegurança, ilegalidade e juros reais.",
+  "fatos": [
+   "Custo Brasil estimado em R$ 3,5 trilhões ao ano, 27,5% do PIB de 2025.",
+   "Estimativa anterior em 2023 foi de R$ 1,7 trilhão, 19,5% do PIB.",
+   "Inclusão inédita dos custos de insegurança e ilegalidade: R$ 192 bilhões.",
+   "Juros reais adicionam R$ 363 bilhões aos custos.",
+   "Infraestrutura gera custo de R$ 805 bilhões.",
+   "Encargos trabalhistas somam R$ 681 bilhões.",
+   "Custo do financiamento atinge R$ 648 bilhões.",
+   "Carga tributária do setor privado cresceu de 16,3% para 17,5% do PIB entre 2018 e 2025.",
+   "Média de anos de estudo subiu de 9,4 para 10,2 entre 2018 e 2025.",
+   "Distância do Brasil para OCDE em carga tributária dobrou de 1,4 para 2,8 pontos percentuais."
+  ],
+  "explicacao": [
+   "O Movimento Brasil Competitivo (MBC), com apoio da consultoria Monitor Deloitte, revelou que o chamado custo Brasil chega a R$ 3,5 trilhões por ano, valor equivalente a 27,5% do PIB projetado para 2025. Este número representa custos adicionais para produzir, contratar e investir no país.",
+   "A alta se deve à inclusão inédita de fatores como custos da insegurança, ilegalidade e juros reais, que adicionaram R$ 192 bilhões e R$ 363 bilhões respectivamente. A infraestrutura lidera com R$ 805 bilhões em custos, seguida pela mão de obra e financiamento com R$ 681 bilhões e R$ 648 bilhões.",
+   "Apesar de melhorias em educação, digitalização e abertura de empresas, houve aumento nos encargos trabalhistas e na carga tributária do setor privado. A carga tributária subiu de 16,3% para 17,5% do PIB, ampliando a distância para os países da OCDE, referência internacional.",
+   "O estudo alerta que os R$ 3,5 trilhões não indicam uma perda direta ou valor a ser imediatamente recuperado, mas uma estimativa dos custos extras que dificultam a competitividade brasileira. O foco agora é compreender esses fatores para propor reformas eficazes."
+  ],
+  "detalhes": [
+   "O estudo foi apresentado em 18 de novembro de 2026 pelo MBC.",
+   "A nova metodologia inclui elementos não considerados em levantamentos anteriores.",
+   "Comparação é feita principalmente com países da OCDE.",
+   "Custo Brasil representa entraves na produção, contratação e investimento.",
+   "O aumento dos custos logísticos foi de 12,2% para 15,5% do PIB entre 2018 e 2024.",
+   "Brasil avançou em digitalização e abertura de empresas, reduzindo alguns gargalos.",
+   "Custo adicional em carga tributária, por exemplo, chegou a R$ 366 bilhões em 2025."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Tatiana Ribeiro, diretora-executiva do MBC",
+    "oque": "Brasil evoluiu em áreas como digitalização, mas enfrenta aumento em logística e custos tributários."
+   },
+   {
+    "quem": "Luiz Paulo Pereira Assis, sócio-líder da Monitor Deloitte",
+    "oque": "Esses custos precisam ser vistos para repensar as alavancas da transformação econômica."
+   },
+   {
+    "quem": "Tatiana Ribeiro, diretora-executiva do MBC",
+    "oque": "Alterações globais tornam ainda mais urgente a implantação de reformas estruturais internas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2023",
+    "oque": "Anterior estimativa do custo Brasil era R$ 1,7 trilhão."
+   },
+   {
+    "quando": "2018 a 2025",
+    "oque": "Carga tributária do setor privado subiu de 16,3% para 17,5% do PIB."
+   },
+   {
+    "quando": "2018 a 2025",
+    "oque": "Escolaridade média no Brasil passou de 9,4 para 10,2 anos."
+   },
+   {
+    "quando": "2024",
+    "oque": "Custo logístico aumentou para 15,5% do PIB."
+   },
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Apresentação atual do estudo do custo Brasil pelo MBC."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Custo Brasil",
+    "significado": "Custos extras e entraves que dificultam negócios no Brasil."
+   },
+   {
+    "termo": "PIB",
+    "significado": "Produto Interno Bruto, soma de bens e serviços produzidos."
+   },
+   {
+    "termo": "Juros reais",
+    "significado": "Juros descontada a inflação, custo efetivo do dinheiro."
+   }
+  ],
+  "pergunta": "Como você vê o impacto do custo Brasil no seu dia a dia de investimento e negócios?",
+  "tamanhoTexto": 17406,
+  "numeros": [
+   {
+    "valor": "R$ 3,5 trilhões",
+    "rotulo": "Custo Brasil estimado para 2025"
+   },
+   {
+    "valor": "27,5%",
+    "rotulo": "% do PIB que representa custo Brasil"
+   },
+   {
+    "valor": "R$ 192 bilhões",
+    "rotulo": "Custos adicionados por insegurança e ilegalidade"
+   },
+   {
+    "valor": "R$ 363 bilhões",
+    "rotulo": "Custos adicionais de juros reais"
+   },
+   {
+    "valor": "R$ 805 bilhões",
+    "rotulo": "Custo de infraestrutura"
+   },
+   {
+    "valor": "R$ 681 bilhões",
+    "rotulo": "Custos associados à mão de obra"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Carga tributária setor privado",
+    "antes": "16,3% do PIB em 2018",
+    "depois": "17,5% do PIB em 2025"
+   },
+   {
+    "item": "Custo Brasil",
+    "antes": "R$ 1,7 trilhão em 2023",
+    "depois": "R$ 3,5 trilhões em 2025"
+   },
+   {
+    "item": "Escolaridade média (anos de estudo)",
+    "antes": "9,4 em 2018",
+    "depois": "10,2 em 2025"
+   },
+   {
+    "item": "Custo logístico (% do PIB)",
+    "antes": "12,2% em 2018",
+    "depois": "15,5% em 2024"
+   }
+  ],
+  "destaque": "R$ 3,5 trilhões",
+  "porQueImporta": "O custo Brasil elevado afeta diretamente o ambiente de negócios, encarecendo produtos, serviços e investimentos. Para quem opera no mercado, isso significa cenários desafiadores e a necessidade de compreender fatores estruturais para melhor tomada de decisão.",
+  "impactoMercado": "Os altos custos em infraestrutura, tributação e financiamento influenciam setores como logística e indústria, podendo refletir em maior volatilidade e impacto no planejamento financeiro de empresas, investidores e traders.",
+  "entenda": "O custo Brasil representa os obstáculos e custos adicionais que empresas enfrentam para produzir, contratar e investir, comparados a países desenvolvidos. Inclui fatores como burocracia, infraestrutura deficiente, carga tributária alta e insegurança, que dificultam a competitividade.",
+  "observar": "Acompanhar as próximas decisões sobre reformas tributária e infraestrutura, bem como indicadores como inflação, juros e investimentos públicos, que podem influenciar a evolução do Custo Brasil.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "Explicamos os principais desafios que encarecem o mercado brasileiro para que você entenda o ambiente econômico e valorize o conhecimento oferecido pela faculdade de mercado financeiro.",
+  "gancho": "*Custo Brasil*: desafio e oportunidade",
+  "ideias": [
+   "O que é o Custo Brasil e como ele te afeta?",
+   "Entenda os maiores entraves do mercado brasileiro",
+   "Infraestrutura e impostos: as principais parcelas do Custo Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "cadeado",
+  "fonte": "Folha Mercado; Exame; Estadão Economia",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:08:05-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/custo-brasil-chega-a-r-35-trilhoes-por-ano-aponta-estudo.shtml",
+  "publicadoEm": "2026-11-18T00:01:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-01"
+ },
+ {
+  "titulo": "BC anuncia leilões de dólar de até US$ 1 bilhão para 18 de novembro",
+  "resumo": "Banco Central fará dois leilões de venda de dólares com compromisso de recompra no total de US$ 1 bilhão na quarta (18). Objetivo é atuar no câmbio diante da alta do dólar frente ao real.",
+  "fatos": [
+   "Serão realizados dois leilões de dólares com compromisso de recompra na quarta-feira, 18/11/2026.",
+   "O valor total dos leilões pode chegar a US$ 1 bilhão.",
+   "Na terça-feira, 17/11/2026, o dólar atingiu R$ 5,81 e fechou em R$ 5,78.",
+   "O Banco Central divulgou a operação em comunicado no dia 17/11/2026.",
+   "A alta do dólar está ligada a dúvidas sobre o ajuste fiscal de 2027 e cenários de juros internacionais."
+  ],
+  "explicacao": [
+   "O Banco Central informou que realizará na quarta-feira, 18 de novembro de 2026, dois leilões de venda de dólares com compromisso de recompra, totalizando até US$ 1 bilhão. A medida busca oferecer liquidez e conter a valorização da moeda americana no mercado local.",
+   "A ação ocorre num cenário em que o dólar tem subido frente ao real, alcançando R$ 5,81 na terça (17) e fechando próximo a R$ 5,78, aumento motivado por dúvidas sobre o ajuste fiscal para 2027 e o cenário de juros internacionais.",
+   "A intervenção do BC tenta reduzir a pressão sobre o câmbio, especialmente diante da tensão doméstica e da incerteza do apetite dos investidores por ativos emergentes. O leilão é uma ferramenta para estabilizar a moeda sem alterar a política monetária.",
+   "Nos próximos dias, o mercado deverá acompanhar as decisões fiscais do governo e os movimentos nos juros americanos, que influenciam diretamente a cotação do dólar. O resultado desses leilões também será observado para medir seu impacto no câmbio."
+  ],
+  "detalhes": [
+   "O leilão é do tipo operação compromissada, com recompra futura dos dólares vendidos.",
+   "A intervenção busca proporcionar liquidez em um momento de valorização do dólar no Brasil.",
+   "A cotação do dólar tem sofrido influência das expectativas sobre a política fiscal do governo Lula.",
+   "Outros fatores incluem a política de juros dos EUA e o apetide de risco dos investidores estrangeiros.",
+   "O leilão ocorre antes da divulgação de indicadores e decisões importantes no Brasil e no exterior.",
+   "O Banco Central utiliza leilões para manejar a oferta de dólares no mercado cambial.",
+   "O valor desta operação (US$ 1 bilhão) é relevante para a tentativa de estabilizar o real."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "17/11/2026",
+    "oque": "Banco Central divulga comunicado sobre leilões para 18/11"
+   },
+   {
+    "quando": "17/11/2026",
+    "oque": "Dólar fecha cotação em R$ 5,78, após alta no dia anterior"
+   },
+   {
+    "quando": "18/11/2026",
+    "oque": "Serão realizados dois leilões de venda de dólares com recompra"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Leilão de dólar",
+    "significado": "Venda temporária de dólares pelo BC para controlar o câmbio"
+   },
+   {
+    "termo": "Compromisso de recompra",
+    "significado": "BC promete recomprar dólares futuramente para retirar efeito temporário"
+   },
+   {
+    "termo": "Apetite por risco",
+    "significado": "Disposição de investidores em apostar em ativos mais arriscados"
+   }
+  ],
+  "pergunta": "Você acha que os leilões do BC vão segurara alta do dólar ou não?",
+  "tamanhoTexto": 5902,
+  "numeros": [
+   {
+    "valor": "1 bilhão",
+    "rotulo": "Valor total dos leilões em dólares"
+   },
+   {
+    "valor": "5,81",
+    "rotulo": "Maior cotação do dólar em reais na terça-feira"
+   },
+   {
+    "valor": "5,78",
+    "rotulo": "Cotação de fechamento do dólar em reais na terça-feira"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 1 bilhão",
+  "porQueImporta": "Essa intervenção do Banco Central é importante porque visa controlar a alta do dólar, que afeta custos de importação, inflação e investimentos no Brasil. Para investidores e traders, entender essa medida indica o esforço do BC em reduzir volatilidade e sustentar o real.",
+  "impactoMercado": "O leilão de dólares pode diminuir a pressão sobre o câmbio, beneficiando setores que dependem da moeda, como importação e empresas endividadas em dólar. Também pode influenciar a percepção do mercado sobre política monetária e risco Brasil.",
+  "entenda": "Leilões com compromisso de recompra são operações em que o Banco Central vende dólares no mercado para aumentar oferta, com a promessa de recomprá-los depois. Essa ação ajuda a evitar flutuações excessivas no câmbio sem alterar juros.",
+  "observar": "Fique atento aos próximos anúncios fiscais do governo e decisões de juros nos EUA, que podem influenciar o câmbio e a necessidade de novas intervenções do BC.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Essa notícia mostra como o Banco Central age para controlar a oscilação do dólar, um tema essencial para quem quer entender os mecanismos do mercado financeiro e o funcionamento da política cambial brasileira.",
+  "gancho": "*Leilões* de dólar em foco",
+  "ideias": [
+   "Como o BC usa leilões para controlar o dólar?",
+   "Leilões de dólar explicados para investidores iniciantes",
+   "Por que o dólar subiu e como o BC reage?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Folha Mercado; Times Brasil; BP Money",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:08:05-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468058",
+  "publicadoEm": "2026-11-17T22:20:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-02"
+ },
+ {
+  "titulo": "Senado aprova Brasil Soberano 3 com R$ 13,5 bi para socorrer empresas",
+  "resumo": "Senado aprovou MP que libera até R$ 13,5 bilhões do Tesouro para socorro a empresas afetadas por tarifaço dos EUA. Projeto segue para sanção presidencial após alterações no Congresso.",
+  "fatos": [
+   "Senado aprovou MP do Brasil Soberano 3 em 17/11/2026.",
+   "Recursos do Tesouro Nacional para socorro somam até R$ 13,5 bilhões.",
+   "Além disso, R$ 5 bilhões estarão disponíveis via BNDES.",
+   "MP permite financiamento com juros entre 3% e 9,8%.",
+   "Três grupos de empresas serão beneficiados: setores tradicionais, estratégicos e exportadores ao Golfo Pérsico.",
+   "MP foi editada originalmente em julho e caducaria em 18/11/2026.",
+   "Brasil Soberano 3 é resposta ao tarifaço dos EUA com sobretaxa de 12,5% anunciada em julho.",
+   "Anteriormente, duas versões do programa concederam R$ 35,5 bilhões em crédito.",
+   "Câmara aprovou crédito extraordinário de R$ 6,5 bilhões do Fundo de Garantia à Exportação.",
+   "Programa ampliou foco para crises como conflito no Oriente Médio e setores estratégicos."
+  ],
+  "explicacao": [
+   "O Senado Federal aprovou a medida provisória brasileira que libera até R$ 13,5 bilhões do Tesouro Nacional para ajudar empresas prejudicadas pela sobretaxa dos Estados Unidos contra o Brasil. O texto foi aprovado como projeto de lei de conversão, com alterações, e seguirá para sanção pelo presidente Lula.",
+   "A medida, chamada Brasil Soberano 3, prevê um total de até R$ 18,5 bilhões para os setores afetados, incluindo R$ 5 bilhões liberados pelo BNDES. O programa já vinha sendo adotado em duas versões anteriores para mitigar impactos comerciais envolvendo tarifas americanas.",
+   "Os recursos beneficiarão três grupos de empresas, desde setores tradicionais como aço e automotivo até setores estratégicos, além de exportadores para o Golfo Pérsico. As linhas de crédito terão taxas variando entre 3% e 9,8%, dependendo da finalidade e carteira.",
+   "Com a aprovação, o governo antecipa recursos para socorrer as empresas antes que a medida perca validade. O desafio agora é a sanção definitiva e o acompanhamento da demanda para que os recursos sejam efetivamente alocados conforme as necessidades do mercado."
+  ],
+  "detalhes": [
+   "O texto aprovado no Senado é um projeto de lei de conversão de MP com alterações feitas no Congresso.",
+   "Os recursos do Tesouro decorrem de valores não utilizados no Plano Brasil Soberano 1.",
+   "Grupos beneficiados incluem setores como aço, automotivo, cerâmicos, plástico, fertilizantes e exportadores específicos.",
+   "Linhas de crédito variam conforme perfil, com empresas dos grupos 1 e 3 tendo acesso total.",
+   "Relatora do texto na comissão mista foi a senadora Leany Lemos (PSB-DF).",
+   "Tarifas americanas foram justificadas por supostas práticas comerciais desleais brasileiras.",
+   "Programa visa mitigar impacto de sobretaxas americanas sobre exportações brasileiras."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Senadora Leany Lemos (PSB-DF)",
+    "oque": "Desvinculou liberação de recursos à disponibilidade de receita especifica, ampliando o uso dos fundos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Julho de 2026",
+    "oque": "Governo federal edita MP do Brasil Soberano 3 para socorrer empresas."
+   },
+   {
+    "quando": "17 de novembro de 2026",
+    "oque": "Senado aprova MP que libera até R$ 13,5 bilhões para empresas afetadas pelo tarifaço."
+   },
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "MP caducaria se não aprovada até esta data."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Medida Provisória (MP)",
+    "significado": "Norma com força de lei que precisa ser aprovada pelo Congresso."
+   },
+   {
+    "termo": "Projeto de Lei de Conversão",
+    "significado": "Lei que resulta da aprovação e alteração de uma MP no Congresso."
+   },
+   {
+    "termo": "Tarifaço",
+    "significado": "Aumento expressivo de tarifas de importação com impacto econômico."
+   }
+  ],
+  "pergunta": "Você acha que esse programa vai ajudar as empresas brasileiras a enfrentar o tarifaço dos EUA?",
+  "tamanhoTexto": 14882,
+  "numeros": [
+   {
+    "valor": "13,5 bilhões",
+    "rotulo": "Recursos do Tesouro Nacional liberados para socorro"
+   },
+   {
+    "valor": "5 bilhões",
+    "rotulo": "Recursos do BNDES para crédito"
+   },
+   {
+    "valor": "18,5 bilhões",
+    "rotulo": "Total previsto no Brasil Soberano 3"
+   },
+   {
+    "valor": "3% a 9,8%",
+    "rotulo": "Faixa de juros dos financiamentos"
+   },
+   {
+    "valor": "12,5%",
+    "rotulo": "Sobretaxa americana aplicada a produtos brasileiros"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "Primeira tarifa americana sobre produtos brasileiros"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Recursos do Tesouro no Brasil Soberano 1",
+    "antes": "valor não utilizado",
+    "depois": "R$ 13,5 bilhões liberados no Brasil Soberano 3"
+   }
+  ],
+  "destaque": "R$ 13,5 bilhões",
+  "porQueImporta": "Essa liberação de recursos é fundamental para mitigar os impactos econômicos das tarifas americanas impostas ao Brasil, que afetaram setores exportadores estratégicos. Para investidores e operadores, compreender essa intervenção auxilia na avaliação dos setores beneficiados e das potenciais reações do mercado diante de medidas governamentais de apoio.",
+  "impactoMercado": "A medida pode influenciar a estabilidade financeira de setores produtivos brasileiros que enfrentam barreiras comerciais externas. A distribuição de crédito pode aliviar a liquidez dessas empresas, afetando positivamente suas operações e influenciando indicadores setoriais, mas não garante retornos financeiros específicos.",
+  "entenda": "O Brasil Soberano é um programa do governo para socorrer empresas impactadas por tarifas internacionais elevadas, especialmente as impostas pelos EUA. O governo libera recursos via crédito subsidiado para ajudar as empresas a superar dificuldades financeiras decorrentes das tarifas, mantendo a produção e as exportações.",
+  "observar": "Fique atento à sanção presidencial do texto aprovado e ao cronograma para a liberação dos recursos. Acompanhe também dados de demanda pelo crédito e eventuais atualizações sobre novas tarifas ou medidas de comércio internacional que possam alterar o cenário.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicamos passo a passo como funciona a liberação de crédito para empresas por conta do tarifaço americano, mostrando os impactos e o papel do governo, facilitando quem quer entender o mercado e pensar em estratégias mais informadas.",
+  "gancho": "*Brasil Soberano* libera R$ 13,5 bi",
+  "ideias": [
+   "Como o Brasil Soberano ajuda empresas afetadas pelas tarifas dos EUA",
+   "Entenda a nova rodada de crédito para socorrer setores estratégicos brasileiros",
+   "O impacto do tarifaço americano e a resposta do governo federal"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "escudo",
+  "fonte": "Valor Econômico; Folha Mercado; Folha Mercado",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:08:05-03:00",
+  "url": "https://valor.globo.com/politica/noticia/2026/11/17/senado-aprova-brasil-soberano-3-que-libera-ate-r-135-bilhoes-para-conter-feitos-do-tarifaco.ghtml",
+  "publicadoEm": "2026-11-17T21:04:54-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-03"
+ },
+ {
   "titulo": "Ex-FMI alerta que foco no crescimento eleva juros no Brasil e no mundo",
   "resumo": "Maurice Obstfeld, ex-economista-chefe do FMI, afirma que apostar só em crescimento para resolver finanças públicas aumenta juros. Ele citou o Brasil e outros países com dívidas altas que enfrentam esse desafio.",
   "fatos": [
@@ -12195,137 +12595,6 @@
   "id": "2026-11-11-08"
  },
  {
-  "titulo": "Petrobras tem lucro 21% maior no 3º tri e revisa projeção de produção",
-  "resumo": "Lucro da Petrobras no 3º trimestre de 2026 foi R$ 39,7 bilhões, 21,1% acima do ano passado. Produtividade e investimentos foram revisados para cima, e dividendos de R$ 15,3 bilhões foram aprovados.",
-  "fatos": [
-   "Lucro líquido de R$ 39,7 bilhões no 3º tri de 2026",
-   "Lucro ajustado de R$ 47,9 bilhões, alta de 67,2% na comparação anual",
-   "Produção recorde de 3,51 milhões de boed, 11,7% maior que 3º tri de 2025",
-   "Receita líquida de R$ 169,3 bilhões, aumento de 32,4%",
-   "Ebitda ajustado de R$ 94,5 bilhões, aumento de 34,3%",
-   "Dividendos aprovados no valor de R$ 15,3 bilhões para 2026",
-   "Capex revisado de US$ 19,4 bilhões para até US$ 25,5 bilhões em 2026",
-   "Gastos operacionais projetados entre US$ 24,2 bilhões e US$ 25,5 bilhões",
-   "Dívida líquida da Petrobras somou US$ 57,8 bilhões no trimestre",
-   "Produção revisada para 2026: 3,3 a 3,4 milhões de boed"
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, a Petrobras registrou um lucro líquido de R$ 39,7 bilhões, 21,1% maior que no mesmo período do ano anterior. O lucro ajustado, descontando eventos extraordinários, chegou a R$ 47,9 bilhões, alta de 67,2% anual. O Ebitda ajustado foi de R$ 94,5 bilhões, aumento de 34,3%.",
-   "Esse crescimento reflete a eficiência operacional e o sucesso dos investimentos realizados nos últimos anos, além do aumento dos preços do petróleo no mercado global. A produção também bateu recorde, atingindo 3,51 milhões de barris de óleo equivalente por dia, 11,7% acima do 3º tri de 2025.",
-   "A companhia revisou a projeção de produção própria para 2026, agora estimada entre 3,3 e 3,4 milhões de boed e a produção de óleo e líquidos de gás natural para entre 2,7 e 2,8 milhões de barris por dia, ressaltando ganhos operacionais e aumento de capacidade.",
-   "A Petrobras ainda aprovou o pagamento de dividendos e juros sobre capital próprio no valor de R$ 15,3 bilhões, pagos em duas parcelas em 2027. O aumento do capex total para 2026, de US$ 19,4 bilhões para até US$ 25,5 bilhões, mostrou a ambição da empresa em ampliar sua produção e infraestrutura."
-  ],
-  "detalhes": [
-   "Balanço enviado à Comissão de Valores Mobiliários em 10 de novembro de 2026",
-   "Dividendos pagos em duas parcelas: 22 de fevereiro e 22 de março de 2027",
-   "Dividendos corrigidos pela Selic a partir de 31 de dezembro de 2026",
-   "Projeção de capex elevada devido ao efeito cambial e melhor execução de projetos",
-   "Ajustes no lucro líquido desconsideram eventos como impostos e alienação de ativos",
-   "Venda de derivados interna com maior volume desde 3º tri de 2021 e 99% de utilização das refinarias",
-   "Investimento de US$ 6,4 bilhões entre julho e setembro, com US$ 5,3 bilhões em exploração e produção"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Petrobras, no fato relevante",
-    "oque": "Revisão das projeções reflete avanço consistente da eficiência operacional"
-   },
-   {
-    "quem": "Magda Chambriard, CEO da Petrobras",
-    "oque": "Desempenho demonstra a força da gestão operacional e capacidade de executar projetos"
-   },
-   {
-    "quem": "Petrobras, no relatório financeiro",
-    "oque": "Novos investimentos estão associados ao efeito cambial e melhor execução dos projetos"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Divulgação do balanço e aprovação do pagamento de dividendos"
-   },
-   {
-    "quando": "22 de fevereiro e 22 de",
-    "oque": "Pagamentos das parcelas dos dividendos aprovados"
-   },
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Registro do lucro e produção recorde"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
-   },
-   {
-    "termo": "Capex",
-    "significado": "Investimentos em infraestrutura e expansão"
-   },
-   {
-    "termo": "Dividendos",
-    "significado": "Parte do lucro distribuída aos acionistas"
-   }
-  ],
-  "pergunta": "Como você vê o impacto dos maiores investimentos da Petrobras nos próximos anos?",
-  "tamanhoTexto": 13076,
-  "numeros": [
-   {
-    "valor": "39,7 bilhões",
-    "rotulo": "Lucro líquido em reais no 3º trimestre"
-   },
-   {
-    "valor": "47,9 bilhões",
-    "rotulo": "Lucro líquido ajustado em reais no 3º trimestre"
-   },
-   {
-    "valor": "3,51 milhões",
-    "rotulo": "Produção de boed no 3º trimestre"
-   },
-   {
-    "valor": "15,3 bilhões",
-    "rotulo": "Valor dos dividendos aprovados em reais"
-   },
-   {
-    "valor": "25,5 bilhões",
-    "rotulo": "Estimativa máxima de capex em dólares para 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 39,7 bilhões",
-  "porQueImporta": "O forte lucro e as projeções revisadas da Petrobras indicam recuperação e expansão da produção, afetando diretamente investidores e o mercado de ações. A eficiência operacional e os investimentos suportam o potencial de ganhos futuros, mas o menor payout gera cautela na remuneração aos acionistas.",
-  "impactoMercado": "A reação do mercado com queda nas ações reflete a expectativa frustrada em dividendos maiores, apesar dos resultados robustos. O aumento do capex pode indicar mais gastos futuros, impactando a percepção do risco e o setor de petróleo e gás na bolsa.",
-  "entenda": "Lucro líquido é o resultado final da empresa após todos os gastos. Produção em boed (barris de óleo equivalente por dia) mede volume total de petróleo e gás. Capex indica investimentos para manter e ampliar operações, fundamental para crescimento da Petrobras.",
-  "observar": "Acompanhe os pagamentos dos dividendos em fevereiro e março de 2027 e a divulgação de novos resultados trimestrais para monitorar continuidade da produção e política de proventos da Petrobras.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT"
-  ],
-  "angulo": "A notícia traz um panorama completo de como a Petrobras estrutura seus resultados e projeções, mostrando operações, investimentos e a decisão sobre dividendos, ajudando quem quer entender a dinâmica do mercado de energia e investimentos.",
-  "gancho": "*Petrobras* avança: lucro e produção recorde",
-  "ideias": [
-   "Entenda o lucro recorde da Petrobras no 3º tri",
-   "Por que a Petrobras revisou para cima sua produção?",
-   "Dividendos de Petrobras: o que mudou e impacto para investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Bloomberg Línea; InvestNews; Exame Invest",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T19:16:47-03:00",
-  "url": "https://www.bloomberglinea.com.br/negocios/petrobras-tem-alta-de-21-do-lucro-no-3-trimestre-e-eleva-projecao-de-producao/",
-  "publicadoEm": "2026-11-10T21:30:44-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-11-09"
- },
- {
   "titulo": "Ultra (UGPA3) lucra R$ 2,7 bi no 3T; dividendo de R$ 1,1 bi anunciado",
   "resumo": "No 3º trimestre de 2026, a Ultra registrou lucro de R$ 2,7 bilhões, alta de 249%. Distribuirá dividendos de R$ 1,1 bilhão, reforçando retorno aos acionistas.",
   "fatos": [
@@ -13333,130 +13602,6 @@
   "id": "2026-11-11-05"
  },
  {
-  "titulo": "Preso ‘Unabomber brasileiro’ que extorquia R$1,7 mi em bitcoin com cartas bomba",
-  "resumo": "Ítalo Francisco foi preso após enviar mais de 70 cartas em São Paulo, com pedaços de bomba, exigindo R$ 1,7 milhão em bitcoin. Ele já havia ameaçado donos de corretoras de criptomoedas em 2019 usando veneno ricina.",
-  "fatos": [
-   "Mais de 70 cartas com pedaços de bomba foram enviadas em São Paulo.",
-   "O valor exigido para resgate era R$ 1,7 milhão em bitcoin.",
-   "Ítalo Francisco tem 42 anos e foi preso em São Paulo.",
-   "Ele ameaçava usar drones carregados com dinamite e C4.",
-   "Em 2019, já tentou extorquir donos de corretoras usando venenoricina.",
-   "As investigações usaram análise grafotécnica para ligar os crimes.",
-   "Ítalo tem passagens por uso de dinheiro falso.",
-   "Entre as vítimas estavam parentes do piloto Ayrton Senna.",
-   "Ele se declarou como engenheiro social e possui experiência em informática.",
-   "A origem dos selos postais usados foi rastreada pela polícia."
-  ],
-  "explicacao": [
-   "Ítalo Francisco, de 42 anos, foi preso após enviar mais de 70 cartas a moradores de condomínios em São Paulo. Essas cartas continham fragmentos de artefatos explosivos e exigiam um resgate de R$ 1,7 milhão em bitcoin para evitar ataques com drones carregados de dinamite e C4.",
-   "A investigação descobriu que o suspeito começou suas ameaças em 2019, quando tentou extorquir donos de corretoras de criptomoedas ao enviar envelopes com o veneno ricina. Peritos da Polícia Civil confirmaram a ligação entre as cartas por meio da análise da grafia.",
-   "O autor confessou o crime e alegou desespero financeiro. Usava selos postais comprados em grande quantidade e pagamentos via aplicativo para se manter oculto. Entre as vítimas estavam parentes de Ayrton Senna, que denunciaram o caso à polícia, que monitorou e prendeu o suspeito.",
-   "Agora, ele enfrenta acusações pelos dois tipos distintos de extorsão, encerrando casos que envolvem métodos incomuns de chantagem por criptomoedas, revelando também riscos enfrentados por corretoras e investidores no mercado de criptoativos."
-  ],
-  "detalhes": [
-   "Crimes ocorreram em São Paulo, com cartas físicas enviadas pelos Correios.",
-   "O suspeito obrigava vítimas a pagar em bitcoin para não serem atacadas.",
-   "Usou dois tipos de ameaças: explosivos e veneno ricina em 2019.",
-   "O monitoramento da polícia identificou o suspeito por pagamentos via aplicativo.",
-   "Ítalo Francisco disse agir por desespero financeiro.",
-   "A grafia das cartas antigas e recentes foi idêntica, confirmando autoria.",
-   "O caso mostra riscos legais e de segurança envolvendo criptomoedas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ítalo Francisco, autor confesso",
-    "oque": "Alegou desespero financeiro como motivo para envio das cartas."
-   },
-   {
-    "quem": "Peritos da Polícia Civil de São Paulo",
-    "oque": "Confirmaram que a grafia das cartas antigas e recentes é a mesma."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2019",
-    "oque": "Tentativa de extorsão a donos de corretoras com envelopes contendo ricina."
-   },
-   {
-    "quando": "2024",
-    "oque": "Envio de mais de 70 cartas bomba com ameaça de explosão via drones em São Paulo."
-   },
-   {
-    "quando": "Após denúncias em 2024",
-    "oque": "Polícia identificou e prendeu Ítalo Francisco, suspeito da chantagem."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ricina",
-    "significado": "Veneno letal extraído da mamona usado em ameaças."
-   },
-   {
-    "termo": "Bitcoin",
-    "significado": "Criptomoeda digital usada para pagamentos e transferências."
-   },
-   {
-    "termo": "Engenheiro social",
-    "significado": "Pessoa que manipula outros para obter informações ou vantagens."
-   }
-  ],
-  "pergunta": "Você sabia que criminosos podem pedir resgate em bitcoin com ameaças físicas?",
-  "tamanhoTexto": 3963,
-  "numeros": [
-   {
-    "valor": "70",
-    "rotulo": "Número mínimo de cartas com pedaços de bomba enviadas"
-   },
-   {
-    "valor": "42",
-    "rotulo": "Idade do suspeito Ítalo Francisco"
-   },
-   {
-    "valor": "R$ 1,7 milhão",
-    "rotulo": "Valor exigido em bitcoin como resgate"
-   },
-   {
-    "valor": "2019",
-    "rotulo": "Ano das primeiras extorsões com veneno ricina"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 1,7 milhão",
-  "porQueImporta": "A notícia destaca riscos de segurança ligados a criptomoedas, pois criminosos usam métodos tecnológicos e físicos para extorsão. Isso mostra a importância da verificação e segurança legais para investidores e operadores no mercado cripto.",
-  "impactoMercado": "Casos como esse podem gerar maior cautela no mercado cripto, afetando corretoras e investidores que busquem proteção contra tentativas de extorsão e ameaças, influenciando regras e protocolos de segurança digital e física para ativos digitais.",
-  "entenda": "Extorsão em criptomoedas ocorre quando criminosos exigem pagamento em moedas digitais, aproveitando a anonimidade e dificuldade de rastreamento desse meio. Aqui, as ameaças usaram cartas físicas com explosivos e veneno, combinando uso tradicional com tecnologia e cripto.",
-  "observar": "Acompanhe possíveis novas medidas de segurança das corretoras e comunicados da polícia sobre casos semelhantes. Dados sobre investigações futuras podem surgir no próximo semestre.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Essa notícia conecta crimes reais ao mercado cripto, mostrando riscos e desafios que incentivam a entender segurança digital e regulamentação, conhecimento oferecido na faculdade de mercado financeiro.",
-  "gancho": "*Criptomoedas* e *extorsão*: crime real",
-  "ideias": [
-   "Como golpes com criptomoedas são aplicados na prática",
-   "O que fazer se receber ameaças pedindo pagamento em bitcoin",
-   "Riscos e segurança no mercado cripto: entenda as ameaças físicas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Cripto",
-  "icone": "cadeado",
-  "fonte": "Livecoins (cripto)",
-  "impacto": "medio",
-  "ordem": 12,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "url": "https://livecoins.com.br/unabomber-brasileiro-preso-apos-enviar-cartas-com-pedacos-de-bomba-pedindo-bitcoin-ja-havia-ameacado-donos-de-corretoras-com-veneno/",
-  "publicadoEm": "2026-11-10T19:42:38-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-11-06"
- },
- {
   "tipo": "sinal",
   "slug": "largest-company-end-of-november-2026",
   "titulo": "Mercado de previsões vê 94.9% de chance de Apple ser a maior empresa em novembro",
@@ -13521,2976 +13666,5 @@
   "status": "atualizada",
   "id": "2026-11-11-p1",
   "atualizadoEm": "2026-11-16T08:32:44-03:00"
- },
- {
-  "titulo": "Petrobras tem lucro líquido de R$ 39,8 bi no 3º tri, alta de 21,5%",
-  "resumo": "No terceiro trimestre de 2026, a Petrobras registrou lucro líquido de R$ 39,8 bilhões, com aumento de 21,5% em relação ao mesmo período do ano anterior. O fluxo de caixa operacional cresceu 15%, alcançando R$ 61,8 bilhões.",
-  "fatos": [
-   "Lucro líquido de R$ 39,8 bilhões no 3º trimestre de 2026",
-   "Alta de 21,5% em relação ao mesmo período do ano anterior",
-   "Fluxo de caixa operacional de R$ 61,8 bilhões, alta de 15% em 12 meses",
-   "Produção média prevista entre 3,3 e 3,4 milhões de barris por dia",
-   "Vendas de derivados no mercado interno de 1,854 milhão de barris por dia",
-   "Recorde trimestral na produção de diesel: 769 mil barris por dia",
-   "Investimento de R$ 33 bilhões no trimestre, sendo R$ 27,5 bilhões em exploração e produção",
-   "R$ 15,3 bilhões aprovados para dividendos e juros sobre capital próprio",
-   "Dívida líquida de US$ 57,85 bilhões em setembro de 2026",
-   "Receita líquida do trimestre de R$ 169,3 bilhões, alta de 32,4% na comparação anual"
-  ],
-  "explicacao": [
-   "A Petrobras comunicou lucro líquido de R$ 39,8 bilhões no terceiro trimestre de 2026, o que representa alta de 21,5% em relação ao mesmo intervalo de 2025. Além disso, o fluxo de caixa operacional (FCO) atingiu R$ 61,8 bilhões, um crescimento de 15% em doze meses, segundo balanço divulgado em 10 de novembro.",
-   "O crescimento do lucro e do caixa operacional se devem à revisão para cima na produção, que passou da projeção inicial de 3,1 milhões de barris de óleo equivalente por dia para uma média entre 3,3 e 3,4 milhões. A petroleira também aumentou as vendas internas de derivados, chegando a 1,854 milhão de barris por dia, o maior volume desde 2021.",
-   "Esses números refletem avanços na eficiência operacional, com recordes consecutivos de produção e aumento do fator de utilização das refinarias. O investimento no trimestre foi de R$ 33 bilhões, com R$ 27,5 bilhões destinados à exploração e produção, o que fortalece a capacidade produtiva para o futuro.",
-   "A Petrobras aprovou o pagamento de R$ 15,3 bilhões em dividendos e juros sobre capital próprio, que serão distribuídos em fevereiro e março de 2027. A expectativa da empresa é manter o crescimento da produção, com investimentos e controle de custos, apesar do aumento dos gastos operacionais por efeito cambial."
-  ],
-  "detalhes": [
-   "Lucro divulgado em 10 de novembro de 2026, referente ao 3º trimestre do ano",
-   "Projeção da produção revisada para cima devido à eficiência operacional",
-   "Venda de derivados interna no maior volume desde 3º trimestre de 2021",
-   "Dividendos pagos em duas parcelas: 22 de fevereiro e 22 de março de 2027",
-   "Investimentos concentram-se em exploração, produção e inovação em plataformas",
-   "Dívida líquida caiu 4,2% em relação ao segundo trimestre de 2026",
-   "Receita e Ebitda ajustado também apresentaram crescimento expressivo no período"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Magda Chambriard, presidente da Petrobras",
-    "oque": "Revisamos a projeção de produção para uma média superior a 3,3 milhões de barris por dia em 2026"
-   },
-   {
-    "quem": "Magda Chambriard, CEO da Petrobras",
-    "oque": "Este desempenho demonstra nossa gestão operacional eficiente e execução dos projetos"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Petrobras registra lucro e fluxo de caixa operacional elevados"
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Balanço trimestral da Petrobras é divulgado"
-   },
-   {
-    "quando": "22 de fevereiro de 2027",
-    "oque": "Pagamento da primeira parcela dos dividendos aprovados"
-   },
-   {
-    "quando": "22 de março de 2027",
-    "oque": "Pagamento da segunda parcela dos dividendos"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro líquido",
-    "significado": "Resultado final da empresa após custos e impostos"
-   },
-   {
-    "termo": "Fluxo de caixa operacional",
-    "significado": "Dinheiro gerado pelas atividades principais da empresa"
-   },
-   {
-    "termo": "Barril de óleo equivalente por",
-    "significado": "Unidade que mede a produção diária de petróleo e gás"
-   }
-  ],
-  "pergunta": "Como você avalia a revisão para cima da produção da Petrobras em 2026?",
-  "tamanhoTexto": 10661,
-  "numeros": [
-   {
-    "valor": "R$ 39,8 bilhões",
-    "rotulo": "lucro líquido 3º trimestre 2026"
-   },
-   {
-    "valor": "21,5%",
-    "rotulo": "alta anual do lucro líquido"
-   },
-   {
-    "valor": "R$ 61,8 bilhões",
-    "rotulo": "fluxo de caixa operacional 3º trimestre"
-   },
-   {
-    "valor": "15%",
-    "rotulo": "crescimento do fluxo de caixa em 12 meses"
-   },
-   {
-    "valor": "1,854 milhão barris/dia",
-    "rotulo": "vendas de derivados no mercado interno"
-   },
-   {
-    "valor": "R$ 33 bilhões",
-    "rotulo": "investimento total no trimestre"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro líquido",
-    "antes": "R$ 32,7 bilhões no 3º tri de 2025",
-    "depois": "R$ 39,8 bilhões no 3º tri de 2026"
-   },
-   {
-    "item": "Fluxo de caixa operacional",
-    "antes": "R$ 53,7 bilhões no 3º tri de 2025",
-    "depois": "R$ 61,8 bilhões no 3º tri de 2026"
-   },
-   {
-    "item": "Produção média prevista",
-    "antes": "3,1 milhões de barris por dia",
-    "depois": "3,3 a 3,4 milhões de barris por dia"
-   }
-  ],
-  "destaque": "R$ 39,8 bilhões",
-  "porQueImporta": "O lucro elevado da Petrobras e a perspectiva de maior produção indicam força operacional e capacidade de geração de caixa, essenciais para investidores e operadores avaliarem a saúde financeira da estatal e seu potencial para distribuir dividendos e financiar investimentos.",
-  "impactoMercado": "Resultados robustos e projeções positivas podem influenciar o desempenho das ações da Petrobras (PETR3, PETR4) e reforçam a dinâmica do setor de petróleo. Além disso, a distribuição de dividendos atrai investidores de renda variável, e o controle da dívida reduz riscos financeiros.",
-  "entenda": "O lucro líquido representa o resultado final da empresa após despesas e impostos. O fluxo de caixa operacional mostra a capacidade de gerar dinheiro pela atividade principal. A produção de barris equivale à quantidade diária de petróleo produzido, impacto direto na receita e lucratividade.",
-  "observar": "Fique atento ao pagamento dos dividendos nos meses de fevereiro e março de 2027, e à divulgação dos resultados do quarto trimestre. Acompanhe também os próximos relatórios sobre produção e investimentos para avaliar a continuidade do crescimento.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes",
-   "Empresários"
-  ],
-  "angulo": "A notícia ajuda a entender como resultados financeiros e operacionais impactam a Petrobras e o mercado de energia, mostrando a importância de acompanhar balanços para decisões no mercado financeiro e a oferta da faculdade de mercado e day trade, que",
-  "gancho": "*Lucro* e *Produção* recorde Petrobras",
-  "ideias": [
-   "Lucro recorde da Petrobras no 3º trimestre de 2026",
-   "O que significa a alta da produção da Petrobras para o mercado?",
-   "Dividendos da Petrobras: quando e como serão pagos em 2027"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Agência Brasil Economia; Bloomberg Línea; Valor Econômico",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
-  "publicadoEm": "2026-11-10T21:37:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-15"
- },
- {
-  "titulo": "Anthropic prepara IPO histórico com forte alta esperada na estreia",
-  "resumo": "Anthropic, empresa de IA, caminha para um IPO histórico com forte valorização esperada. Contratos futuros indicam preço de US$ 98 por ação e valor de mercado de US$ 1,7 trilhão.",
-  "fatos": [
-   "Anthropic se prepara para IPO neste mês de novembro de 2026.",
-   "Contratos futuros perpétuos indicam preço de US$ 98 por ação da Anthropic.",
-   "Valor de mercado estimado da Anthropic: US$ 1,7 trilhão.",
-   "Negociações desses contratos são feitas em plataformas como Hyperliquid, Coinbase, Binance e OKX.",
-   "Expectativa de forte valorização na estreia das ações da Anthropic.",
-   "Mercado futuro ainda acompanha empresas antes de abrirem capital."
-  ],
-  "explicacao": [
-   "A Anthropic, empresa de inteligência artificial, está se preparando para uma oferta pública inicial (IPO) histórica ainda neste mês. As expectativas dos investidores estão otimistas, refletidas nas negociações realizadas no mercado futuro.",
-   "Essa percepção positiva é demonstrada pelos contratos perpétuos pré-IPO, que acompanham o preço de ações de empresas ainda fechadas. Esses contratos são ativos negociados em plataformas de criptoativos como Hyperliquid, Coinbase, Binance e OKX.",
-   "No caso da Anthropic, o contrato na plataforma Hyperliquid aponta para um preço sugerido de US$ 98 por ação, estimando um valor de mercado próximo de US$ 1,7 trilhão. Isso indica uma forte valorização esperada para o primeiro dia de negociação na bolsa.",
-   "Para o mercado, essa alta nas expectativas pode significar um maior interesse de investidores em tecnologia e IA, setores em expansão. O progresso do IPO da Anthropic será um evento importante para acompanhar em novembro."
-  ],
-  "detalhes": [
-   "Quem: Empresa americana de inteligência artificial Anthropic.",
-   "Quanto: US$ 98 preço por ação, valor total de US$ 1,7 trilhão.",
-   "Quando: IPO previsto para este mês de novembro de 2026.",
-   "Onde: Bolsa americana, com contratos futuros em plataformas cripto.",
-   "Como: Através de contratos perpétuos pré-IPO negociados em exchanges de criptomoedas.",
-   "Contexto: Alta expectativa no mercado tecnológico impulsiona valorização.",
-   "Comparação: Mercado futuro cria preço para ações antes da abertura oficial."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "Novembro de 2026",
-    "oque": "Anthropic prepara oferta pública inicial histórica"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Oferta Pública Inicial (IPO)",
-    "significado": "Primeira venda de ações de uma empresa na bolsa de valores."
-   },
-   {
-    "termo": "Contratos perpétuos",
-    "significado": "Instrumentos financeiros que acompanham preço de ativos sem data de vencimento."
-   },
-   {
-    "termo": "Valor de mercado",
-    "significado": "Preço total das ações de uma empresa no mercado."
-   }
-  ],
-  "pergunta": "Você já acompanhou o lançamento de uma empresa de IA na bolsa antes?",
-  "tamanhoTexto": 1585,
-  "numeros": [
-   {
-    "valor": "98",
-    "rotulo": "Preço sugerido por ação em contrato futuro (US$)"
-   },
-   {
-    "valor": "1.700.000.000.000",
-    "rotulo": "Valor de mercado estimado da Anthropic (US$)"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 1,7 trilhão",
-  "porQueImporta": "Esse IPO pode influenciar o interesse em ações de tecnologia e IA, setores que apresentam rápido crescimento e impacto nos mercados financeiros globais, impactando estratégias e decisões de investidores e traders.",
-  "impactoMercado": "Com a forte valorização esperada da Anthropic, investidores podem direcionar capital para tecnologia e inovação. Plataformas e ativos relacionados a contratos futuros e ações de tecnologia podem ser mais observados no mercado.",
-  "entenda": "IPO é a oferta inicial de ações de uma empresa na bolsa. Contratos futuros perpétuos são instrumentos financeiros que permitem apostar no preço da ação antes dela abrir capital oficialmente.",
-  "observar": "Acompanhar o andamento do IPO da Anthropic neste mês, além das oscilações dos contratos futuros para entender o comportamento do mercado em tecnologia.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Explicar como o IPO da Anthropic reflete o interesse em tecnologia e contratos futuros ajuda iniciantes e traders a entender o funcionamento do mercado e as oportunidades dessa novidade.",
-  "gancho": "*IPO* histórico da *Anthropic*",
-  "ideias": [
-   "O que é IPO e por que a Anthropic é histórica",
-   "Como funcionam contratos futuros antes do IPO",
-   "Impacto do IPO da Anthropic para investidores em tecnologia"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Bolsa",
-  "icone": "foguete",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://timesbrasil.com.br/empresas-e-negocios/operadores-preveem-forte-alta-na-estreia-da-anthropic-na-bolsa/",
-  "publicadoEm": "2026-11-10T22:12:23-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-16"
- },
- {
-  "titulo": "Plano Petrobras 2027-2031 pode investir até US$ 120 bi",
-  "resumo": "Plano de negócios da Petrobras para 2027-2031 deve alcançar US$ 115 a 120 bilhões. O tema transição energética e autossuficiência no diesel são pontos-chave do investimento.",
-  "fatos": [
-   "O plano deve ser divulgado em 23 de novembro de 2026.",
-   "Investimento previsto entre US$ 115 bilhões e US$ 120 bilhões.",
-   "Plano anterior para 2026-2030 previa US$ 109 bilhões.",
-   "Recorde anterior foi US$ 236,7 bilhões em 2013-2017.",
-   "Meta de autossuficiência no diesel prevista para os próximos cinco anos.",
-   "Consumo de diesel previsto para crescer 19% até 2036, segundo EPE.",
-   "Expansão da oferta de diesel em refinarias prevista em 13%.",
-   "US$ 2,5 bilhões estimados para perfuração de 15 poços na Margem Equatorial no plano anterior.",
-   "Poços como Morpho, Pitu Oeste e Anhangá são foco de investimentos recentes.",
-   "Petrobras aposta em projetos de biocombustíveis e combustíveis sustentáveis."
-  ],
-  "explicacao": [
-   "A Petrobras prepara seu Plano de Negócios para o período 2027-2031 com investimentos entre US$ 115 bilhões e US$ 120 bilhões, valor que será confirmado pelo Conselho de Administração ainda esta semana.",
-   "O aumento do orçamento em relação ao plano anterior, que previa US$ 109 bilhões, visa contemplar a autossuficiência no diesel, avanços na Margem Equatorial e o retorno ao setor de etanol.",
-   "A empresa enfatiza a importância da transição energética sustentável aliada à continuidade da produção de petróleo e gás, reforçando que seguirá como uma companhia de energia diversificada com projetos em biocombustíveis e renováveis.",
-   "Além disso, a Petrobras planeja expandir a produção de combustíveis renováveis como SAF, biodiesel e biobunker, enquanto explora novas reservas, principalmente na região da Margem Equatorial."
-  ],
-  "detalhes": [
-   "Conselho da Petrobras decide orçamento nesta semana, com anúncio previsto para 23/11/2026.",
-   "Plano traz ambições como autossuficiência no diesel e expansão na Margem Equatorial.",
-   "Magda Chambriard destaca que transição energética será paralela à produção de petróleo e gás.",
-   "Plano inclui retorno da Petrobras ao setor de etanol.",
-   "Construção do trem 2 da Refinaria Abreu e Lima e ampliação de outras refinarias contribuem para expansão.",
-   "Consumo futuro de diesel previsto pela EPE supera a capacidade projetada de oferta da Petrobras.",
-   "Estratégia inclui maior produção de combustíveis limpos e diversificação energética."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Magda Chambriard, presidente da Petrobras",
-    "oque": "Transição energética deve caminhar junto com manutenção da produção de petróleo e gás no Brasil."
-   },
-   {
-    "quem": "Magda Chambriard",
-    "oque": "Petrobras é empresa de energia desde os anos 1990 com atuação em biocombustíveis e renováveis."
-   },
-   {
-    "quem": "Magda Chambriard",
-    "oque": "Transição energética precisa ser justa e adequada ao poder de compra da sociedade brasileira."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "23/11/2026",
-    "oque": "Previsão da divulgação oficial do Plano de Negócios 2027-2031."
-   },
-   {
-    "quando": "09/11/2026",
-    "oque": "Evento no Rio discutiu transição energética e estratégia da Petrobras."
-   },
-   {
-    "quando": "até final de novembro de 2026",
-    "oque": "Sonda NS-42 será relocada de Morpho para bacia Potiguar."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Plano de Negócios",
-    "significado": "Documento que define investimentos e estratégias da empresa para anos futuros."
-   },
-   {
-    "termo": "Autossuficiência no diesel",
-    "significado": "Capacidade da empresa em produzir todo o diesel que o Brasil consome."
-   },
-   {
-    "termo": "Margem Equatorial",
-    "significado": "Região de exploração offshore no Brasil, importante para novas descobertas."
-   }
-  ],
-  "pergunta": "Como você vê o equilíbrio entre petróleo e energia limpa no plano da Petrobras?",
-  "tamanhoTexto": 5573,
-  "numeros": [
-   {
-    "valor": "115-120 bilhões",
-    "rotulo": "Investimento planejado em dólares para 2027-2031"
-   },
-   {
-    "valor": "109 bilhões",
-    "rotulo": "Investimento previsto no plano 2026-2030"
-   },
-   {
-    "valor": "236,7 bilhões",
-    "rotulo": "Maior investimento já feito pela Petrobras em 2013-2017"
-   },
-   {
-    "valor": "5 anos",
-    "rotulo": "Prazo para atingir autossuficiência no diesel"
-   },
-   {
-    "valor": "19%",
-    "rotulo": "Crescimento previsto do consumo de diesel até 2036"
-   },
-   {
-    "valor": "13%",
-    "rotulo": "Aumento projetado da oferta de diesel nas refinarias"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Investimento Petrobras",
-    "antes": "US$ 109 bilhões (plano 2026-2030)",
-    "depois": "US$ 115-120 bilhões (plano 2027-2031)"
-   }
-  ],
-  "destaque": "US$ 115-120 bilhões",
-  "porQueImporta": "Este plano define o rumo dos maiores investimentos da Petrobras nos próximos cinco anos, impactando setores ligados a energia, petróleo e renováveis. Entender as prioridades da empresa ajuda investidores e operadores a avaliarem como o mercado pode reagir a mudanças na produção e na transição energética.",
-  "impactoMercado": "O aumento do investimento e a aposta na autossuficiência no diesel podem mudar o cenário do setor de energia no Brasil. A expansão em renováveis e combustíveis sustentáveis amplia oportunidades em novos mercados, enquanto o setor de petróleo mantém seu peso na economia e na matriz energética nacional.",
-  "entenda": "O Plano de Negócios da Petrobras é um documento estratégico que define onde a empresa vai investir e crescer nos próximos anos. Entre os focos estão petróleo, gás, biocombustíveis e energia limpa, equilibrando a produção tradicional e a transição energética para fontes renováveis.",
-  "observar": "Fique atento à divulgação oficial do Plano de Negócios em 23/11 e às reuniões do Conselho de Administração. Também acompanhe os desdobramentos na Margem Equatorial e os investimentos em renováveis e produção de diesel.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes",
-   "Empresários"
-  ],
-  "angulo": "Essa notícia serve para explicar como grandes empresas planejam investimentos estratégicos, conectando petróleo tradicional e energias renováveis, mostrando os desafios do mercado e incentivando o aprendizado sobre o setor.",
-  "gancho": "*Plano Petrobras* US$ 120 bi",
-  "ideias": [
-   "Entenda o Plano de Negócios da Petrobras 2027-2031",
-   "Autossuficiência no diesel: o que muda no mercado brasileiro",
-   "Petrobras e a transição energética: planejamento e desafios"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Estadão Economia",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/",
-  "publicadoEm": "2026-11-10T22:00:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-17"
- },
- {
-  "titulo": "Governo sinaliza cancelamento extra de R$ 12,8 bi em gastos para 2027",
-  "resumo": "Equipe econômica do governo Lula projeta cancelar até R$ 12,8 bilhões em 2027 para ajustar a meta fiscal, além de outras medidas que somam R$ 70 a R$ 80 bilhões.",
-  "fatos": [
-   "Cancelamento extra de gastos previsto é de R$ 12,8 bilhões em 2027.",
-   "Plano geral de ajuste prevê R$ 70 a R$ 80 bilhões em medidas.",
-   "Meta fiscal do ano é superávit de pelo menos R$ 8,5 bilhões, com margem até déficit de R$ 28,1 bilhões.",
-   "Limite legal do arcabouço fiscal é crescimento de gastos em 2,5% acima da inflação.",
-   "Cancelamento reduz crescimento real permitido para 2%, uma diferença de 0,5 ponto percentual.",
-   "Essa redução impacta a base de cálculo para os próximos anos, gerando economia permanente.",
-   "Medidas permitirão contingenciar gastos obrigatórios sem prejudicar obrigações já contratadas.",
-   "Regra para excluir receitas extraordinárias da base de cálculo da receita corrente líquida será permanente.",
-   "Essa exclusão reduz a obrigatoriedade mínima de gastos em saúde em pelo menos R$ 6 bilhões para 2027.",
-   "Projeto de lei complementar será apresentado pelo senador Jaques Wagner, com relatoria do senador Eduardo Braga."
-  ],
-  "explicacao": [
-   "Integrantes do governo Lula comunicaram ao mercado que, para cumprir a meta fiscal de 2027, poderão cancelar até R$ 12,8 bilhões em despesas orçamentárias. Essa medida é um recurso adicional para conter gastos, complementando ações já usadas, como o contingenciamento temporário de verbas.",
-   "Essa ação é motivada pela possibilidade de frustração na arrecadação do governo, que, se abaixo do esperado, pode comprometer o resultado das contas públicas. O esforço visa evitar que o déficit ultrapasse o piso da meta fiscal, estimado em déficit máximo de R$ 28,1 bilhões.",
-   "O cancelamento previsto limita o crescimento real dos gastos públicos a 2% acima da inflação, abaixo do limite atual de 2,5%, reduzindo a base de cálculo para o teto de gastos nos anos seguintes e gerando uma economia permanente. Essa estratégia oferece maior sustentabilidade fiscal.",
-   "O governo também planeja ampliar o uso do contingenciamento para despesas obrigatórias, sem afetar contratos já firmados. Um projeto de lei complementar será apresentado para formalizar essas medidas, com expectativa de análise no Congresso para garantir responsabilidade fiscal."
-  ],
-  "detalhes": [
-   "Quem: Governo do presidente Luiz Inácio Lula da Silva, Ministério da Fazenda e Planejamento.",
-   "Quando: Orçamento de 2027, com planejamento e discussões em outubro de 2026.",
-   "Onde: Medidas discutidas entre governo, mercado financeiro e Congresso Nacional.",
-   "Como: Cancelamento extra de despesas e contingenciamento, incluindo gastos obrigatórios.",
-   "Comparação: Limite do arcabouço fiscal atual é 2,5% acima da inflação, ajuste reduz para 2%.",
-   "Contexto: Ajustes necessários para cumprimento da meta fiscal dada possível frustração de receitas.",
-   "Próximos passos: Apresentação de projeto de lei complementar para regulamentar medidas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Davi Alcolumbre, presidente do Senado",
-    "oque": "Compromisso de analisar a proposta no Congresso com responsabilidade pelo Brasil."
-   },
-   {
-    "quem": "Presidente Luiz Inácio Lula da Silva",
-    "oque": "Compromisso com responsabilidade fiscal para manter políticas sociais e investimentos."
-   },
-   {
-    "quem": "Integrantes da equipe econômica (sob reserva)",
-    "oque": "Plano visa congelamentos que gerem impactos duradouros na trajetória de gastos."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "9 de outubro de 2026",
-    "oque": "Ministros do governo se reuniram com o presidente do Senado para discutir ajuste."
-   },
-   {
-    "quando": "Agosto de 2026",
-    "oque": "Lei aprovada que exclui receitas com venda de petróleo da base da receita corrente líquida."
-   },
-   {
-    "quando": "8 de outubro de 2026",
-    "oque": "Lula reafirmou compromisso com responsabilidade fiscal em pronunciamento na TV."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Contingenciamento",
-    "significado": "Bloqueio temporário de verbas para controlar gastos públicos."
-   },
-   {
-    "termo": "Cancelamento de despesas",
-    "significado": "Ato de eliminar parte dos gastos previstos no orçamento para ajustar contas."
-   },
-   {
-    "termo": "Meta fiscal",
-    "significado": "Objetivo definido para o saldo das contas públicas em um período."
-   }
-  ],
-  "pergunta": "Você acha que o cancelamento extra vai ajudar a garantir a meta fiscal de 2027?",
-  "tamanhoTexto": 10653,
-  "numeros": [
-   {
-    "valor": "12,8 bilhões",
-    "rotulo": "Cancelamento extra previsto em 2027 (R$)"
-   },
-   {
-    "valor": "70 a 80 bilhões",
-    "rotulo": "Montante total estimado do ajuste fiscal (R$)"
-   },
-   {
-    "valor": "8,5 bilhões",
-    "rotulo": "Superávit mínimo para a meta fiscal 2027 (R$)"
-   },
-   {
-    "valor": "28,1 bilhões",
-    "rotulo": "Déficit máximo tolerado pela margem da meta (R$)"
-   },
-   {
-    "valor": "2,5%",
-    "rotulo": "Limite do arcabouço fiscal para crescimento real de gastos"
-   },
-   {
-    "valor": "2%",
-    "rotulo": "Crescimento real de gastos após cancelamento extra"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Crescimento real permitido dos gastos públicos",
-    "antes": "2,5% acima da inflação",
-    "depois": "2% acima da inflação com cancelamento extra"
-   }
-  ],
-  "destaque": "R$ 12,8 bilhões",
-  "porQueImporta": "Essas medidas indicam esforço do governo para garantir o cumprimento da meta fiscal e a sustentabilidade das contas públicas. Para investidores e operadores, o ajuste reflete a prioridade em manter a estabilidade fiscal e controlar o crescimento dos gastos, influenciando o ambiente econômico e a percepção do risco Brasil.",
-  "impactoMercado": "O ajuste pode impactar setores ligados a gastos públicos, influenciar a trajetória dos juros e a confiança dos investidores estrangeiros. O uso do cancelamento de despesas e o contingenciamento ampliado sinalizam um controle mais rígido dos gastos, que afeta o orçamento e as expectativas para políticas públicas e investimentos.",
-  "entenda": "A meta fiscal é o resultado que o governo busca para o orçamento, medindo receitas e despesas para equilibrar as contas. Para ajustar a meta, o governo pode cancelar despesas previstas ou congelar verbas, garantindo que os gastos não ultrapassem limites definidos e mantendo a sustentabilidade das políticas públicas.",
-  "observar": "Fique atento à apresentação e votação do projeto de lei complementar no Congresso e aos próximos relatórios fiscais e arrecadação mensal para avaliar sinais de ajuste ou necessidade de medidas adicionais.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia explica como o governo usa mecanismos orçamentários para manter o equilíbrio fiscal, um conhecimento essencial para entender impactos macroeconômicos e decisões políticas que influenciam o mercado financeiro e a estabilidade econômica.",
-  "gancho": "*ajuste fiscal* e *cancelamento* de gastos",
-  "ideias": [
-   "O que significa cancelamento extra no orçamento público?",
-   "Como o governo tenta cumprir a meta fiscal em 2027?",
-   "Entenda o impacto do ajuste fiscal no mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "cadeado",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-sinaliza-ao-mercado-cancelamento-extra-de-r-128-bi-em-gastos-em-2027-para-cumprir-meta.shtml",
-  "publicadoEm": "2026-11-10T21:19:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-18"
- },
- {
-  "titulo": "UE alerta sobre ataques hackers a geladeiras e roteadores conectados",
-  "resumo": "Após ataques a geladeiras em supermercados, UE alerta para risco em outros aparelhos conectados, diz Juhan Lepassaar, da ENISA.",
-  "fatos": [
-   "O alerta da UE foi feito em 10/11/2026 por Juhan Lepassaar, diretor da ENISA.",
-   "Ataques anteriores comprometeram geladeiras em supermercados europeus.",
-   "A França acusou uma unidade cibernética ligada à Guarda Revolucionária do Irã.",
-   "O ataque francês foi na madrugada de 12 de outubro de 2026.",
-   "Quase 700 unidades de distribuição foram atingidas na França.",
-   "Os ataques provocaram danos materiais e riscos de incêndio."
-  ],
-  "explicacao": [
-   "A União Europeia emitiu um alerta após invasões que comprometeram geladeiras em supermercados europeus, destacando que ataques hackers podem atingir outros aparelhos conectados, como roteadores e eletrodomésticos.",
-   "O aviso foi feito em 10 de novembro por Juhan Lepassaar, diretor executivo da Agência da União Europeia para a Cibersegurança (ENISA), que enfatizou a necessidade de aumentar investimentos em proteção tecnológica.",
-   "Essa preocupação surgiu depois que a França acusou uma unidade cibernética ligada à Guarda Revolucionária do Irã de atacar sistemas de refrigeração em 12 de outubro, danificando quase 700 unidades e causando riscos de incêndio.",
-   "O recado principal é que a segurança de dispositivos conectados à internet deve ser prioridade para evitar que ataques se multipliquem e atinjam equipamentos cada vez mais variados."
-  ],
-  "detalhes": [
-   "Quem alertou: Juhan Lepassaar, diretor executivo da ENISA.",
-   "Quando: 10 de novembro de 2026, alerta comunicado na UE.",
-   "Onde: Ataques ocorreram em supermercados europeus, foco na França.",
-   "Como: Ataques invasores hackers comprometeram equipamentos conectados.",
-   "Comparação: Primeiro geladeiras, depois roteadores e outros eletrodomésticos.",
-   "Contexto: Aumenta preocupação com segurança digital em dispositivos IoT."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Juhan Lepassaar, diretor executivo da ENISA",
-    "oque": "Segurança não pode ser tratada como algo secundário; risco se amplia para vários eletrodomésticos conectados."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12 de outubro de 2026",
-    "oque": "Ataque a sistemas de refrigeração na França por unidade ligada ao Irã."
-   },
-   {
-    "quando": "9 de novembro de 2026",
-    "oque": "França faz acusação formal contra unidade cibernética ligada à Guarda Revolucionária do Irã."
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "UE alerta sobre a ampliação dos riscos em aparelhos conectados."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "ENISA",
-    "significado": "Agência da União Europeia para a Cibersegurança."
-   },
-   {
-    "termo": "Guarda Revolucionária do Irã",
-    "significado": "Força militar com unidades cibernéticas ligadas ao governo iraniano."
-   }
-  ],
-  "pergunta": "Você confia na segurança dos seus dispositivos conectados em casa?",
-  "tamanhoTexto": 1678,
-  "numeros": [
-   {
-    "valor": "700",
-    "rotulo": "unidades de distribuição atingidas na França"
-   },
-   {
-    "valor": "12/10/2026",
-    "rotulo": "data do ataque cibernético na França"
-   },
-   {
-    "valor": "10/11/2026",
-    "rotulo": "data do alerta da ENISA"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "700 unidades de",
-  "porQueImporta": "Esse alerta é essencial para investidores e operadores porque destaca a vulnerabilidade crescente de dispositivos conectados, impactando setores que vão do varejo à tecnologia, o que pode afetar custos, seguros e estratégias de segurança empresarial.",
-  "impactoMercado": "O aumento dos ataques cibernéticos a dispositivos conectados pode gerar maior demanda por empresas de cibersegurança, influenciar setores de tecnologia e eletrônicos, além de elevar a atenção dos investidores para riscos associados a proteção digital.",
-  "entenda": "Dispositivos conectados à internet, conhecidos como Internet das Coisas (IoT), possuem risco de invasão se não forem protegidos. Ataques hackers podem desestabilizar sistemas, causar prejuízos materiais e impactar operações comerciais.",
-  "observar": "Fique atento a próximos relatórios da ENISA e ações de segurança na UE, além de possíveis novas acusações ou ataques envolvendo equipamentos conectados.",
-  "publico": [
-   "Day traders",
-   "Investidores",
-   "Iniciantes",
-   "Empresários"
-  ],
-  "angulo": "A notícia ajuda a entender a importância da cibersegurança para o mercado financeiro e tecnológico, mostrando riscos que podem impactar ativos e investimentos, incentivando o aprendizado na faculdade de mercado.",
-  "gancho": "*Ciberataques* em *aparelhos* conectados",
-  "ideias": [
-   "Por que geladeiras estão virando alvo de hackers?",
-   "Como proteger seus dispositivos conectados contra ataques",
-   "O impacto dos ataques cibernéticos no mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Global",
-  "icone": "escudo",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/ue-alerta-para-frente-de-ataques-hackers-a-aparelhos-conectados/",
-  "publicadoEm": "2026-11-10T22:03:03-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-19"
- },
- {
-  "titulo": "Petrobras registra alta de 25% nas vendas internas no 3º trimestre",
-  "resumo": "No terceiro trimestre, Petrobras teve R$ 111,486 bi em vendas internas, 25% acima do ano passado. Vendas externas cresceram 49,3%, totalizando R$ 57,8 bi, elevando a receita total para R$ 169,35 bilhões.",
-  "fatos": [
-   "Receita interna no 3º trimestre: R$ 111,486 bilhões (+25% em relação a 2025).",
-   "Receita externa no 3º trimestre: R$ 57,8 bilhões (+49,3% em relação a 2025).",
-   "Receita total de vendas: R$ 169,35 bilhões (+32,4% em relação a 2025).",
-   "Receita de refino, transporte e comercialização: R$ 162,399 bilhões (+35%).",
-   "Preço dos derivados internos: R$ 580,81 por barril (+26,1%).",
-   "Receita com diesel: R$ 41,175 bilhões (+6,2%).",
-   "Subvenções para diesel: R$ 13,865 bilhões (sem valor em 2025).",
-   "Receita com gasolina: R$ 16 bilhões (-4,7%).",
-   "Receita com GLP: R$ 4,7 bilhões (-7,9%).",
-   "Receitas de subvenção para gasolina e GLP: R$ 1,769 bilhão."
-  ],
-  "explicacao": [
-   "A Petrobras divulgou resultados do terceiro trimestre de 2026, registrando uma receita de vendas no mercado interno de R$ 111,486 bilhões, um aumento de 25% em comparação ao mesmo período de 2025.",
-   "Esse crescimento se deu junto à alta significativa de 49,3% nas vendas externas, que totalizaram R$ 57,8 bilhões. Como resultado, a receita total de vendas da estatal foi de R$ 169,35 bilhões no trimestre.",
-   "A receita com refino, transporte e comercialização registrou alta de 35%, chegando a R$ 162,399 bilhões. Mesmo com algumas quedas nas vendas de gasolina e GLP, as subvenções governamentais ajudaram a compensar as receitas.",
-   "O aumento dos preços dos derivados, influenciado pela crise entre EUA e Irã, é uma das causas das maiores receitas. A Petrobras deve continuar monitorando os efeitos dos preços e das políticas públicas nas próximas divulgações."
-  ],
-  "detalhes": [
-   "Os dados correspondem ao terceiro trimestre de 2026, comparados ao mesmo período de 2025.",
-   "Subvenções governamentais foram criadas para conter os impactos da guerra entre EUA e Irã nos preços.",
-   "Apesar da queda nas receitas com gasolina e GLP, as subvenções ajudaram a equilibrar o resultado.",
-   "O preço dos derivados básicos no mercado interno subiu para R$ 580,81 por barril.",
-   "O diesel teve crescimento moderado de receita, acompanhado da primeira contabilização de subvenções.",
-   "A receita com querosene de aviação avançou significativamente, mostrando demanda robusta neste setor.",
-   "O balanço foi divulgado em 10 de novembro de 2026."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Receita total da Petrobras reportada com crescimento significativo"
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Divulgação oficial do balanço trimestral da Petrobras"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Receita",
-    "significado": "Dinheiro recebido pelas vendas de bens ou serviços"
-   },
-   {
-    "termo": "Subvenção",
-    "significado": "Apoio financeiro do governo para reduzir preços"
-   },
-   {
-    "termo": "Derivados",
-    "significado": "Produtos obtidos do petróleo, como gasolina e diesel"
-   }
-  ],
-  "pergunta": "Como você acha que as subvenções influenciam o preço final dos combustíveis?",
-  "tamanhoTexto": 2938,
-  "numeros": [
-   {
-    "valor": "111,486 bilhões",
-    "rotulo": "Receita interna no 3º trimestre (R$)"
-   },
-   {
-    "valor": "57,8 bilhões",
-    "rotulo": "Receita externa no 3º trimestre (R$)"
-   },
-   {
-    "valor": "169,35 bilhões",
-    "rotulo": "Receita total de vendas no 3º trimestre (R$)"
-   },
-   {
-    "valor": "580,81",
-    "rotulo": "Preço por barril de derivados no mercado interno (R$)"
-   },
-   {
-    "valor": "13,865 bilhões",
-    "rotulo": "Subvenções para diesel (R$)"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Receita interna",
-    "antes": "R$ 89,158 bilhões",
-    "depois": "R$ 111,486 bilhões"
-   },
-   {
-    "item": "Receita externa",
-    "antes": "R$ 38,748 bilhões",
-    "depois": "R$ 57,8 bilhões"
-   },
-   {
-    "item": "Preço derivados básicos",
-    "antes": "R$ 460,54 por barril",
-    "depois": "R$ 580,81 por barril"
-   }
-  ],
-  "destaque": "Receita interna de",
-  "porQueImporta": "Esse aumento expressivo nas receitas da Petrobras no mercado interno e externo mostra como fatores globais e internos influenciam o desempenho da estatal. Para investidores e operadores, acompanhar essas variações ajuda a entender o impacto dos preços do petróleo e das políticas públicas no lucro e na valorização da empresa.",
-  "impactoMercado": "O crescimento das receitas pode reforçar o peso da Petrobras no Ibovespa e influencia setores ligados a combustíveis e energia. Além disso, os resultados refletem o efeito das subvenções e dos preços internacionais, que impactam diretamente as expectativas para preços dos combustíveis e a dinâmica de cargos futuros.",
-  "entenda": "A receita da Petrobras reúne as vendas internas e externas de petróleo e derivados, mostrando quanto a empresa fatura com esses produtos. O preço por barril é um indicador-chave que reflete o custo e o valor do petróleo no mercado. Subvenções são auxílios do governo para diminuir o preço dos combustíveis para o consumidor final.",
-  "observar": "Acompanhe próximos balanços trimestrais da Petrobras e variações nos preços do petróleo, além das decisões sobre subvenções pelo governo federal, que afetam receita e mercado.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Explicamos os resultados da Petrobras no 3º trimestre de forma simples, mostrando como preços internacionais e políticas influenciam o mercado financeiro e a vida do investidor.",
-  "gancho": "*Petrobras* cresce 25% nas vendas internas",
-  "ideias": [
-   "Por que a receita da Petrobras cresceu 25% no 3º trimestre?",
-   "Como as subvenções impactaram as vendas de combustíveis da Petrobras?",
-   "Entenda o efeito dos preços do petróleo nas receitas da estatal"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/10/vendas-da-petrobras-no-mercado-interno-sobem-25percent-no-terceiro-trimestre.ghtml",
-  "publicadoEm": "2026-11-10T21:12:14-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-20"
- },
- {
-  "titulo": "54% dos municípios fecham 2024 no vermelho com déficit de R$ 33 bi",
-  "resumo": "Segundo a CNM, 54% dos municípios tiveram déficit de R$ 33 bilhões em 2024. Em 2025, 80,2% dos gestores consideram a crise financeira o maior desafio.",
-  "fatos": [
-   "54% dos municípios fecharam 2024 com déficit",
-   "Déficit total estimado de R$ 33 bilhões em 2024",
-   "Quase R$ 50 bilhões de déficit municipal acumulado em dois anos",
-   "80,2% dos gestores relataram crise financeira como maior desafio em 2025",
-   "Piso dos agentes comunitários elevado para dois salários mínimos em 2022",
-   "Piso da enfermagem criado em 2022 com impacto de R$ 10,5 bilhões anuais",
-   "Nova lei aumenta piso do magistério para R$ 5.130,63, gerando R$ 8 bilhões anuais extras em 2026",
-   "16 pautas-bomba em tramitação no Congresso com impacto de R$ 295 bilhões para municípios",
-   "Proposta de Súmula Vinculante 150 tramita no STF para controlar criação de despesas sem previsão"
-  ],
-  "explicacao": [
-   "Todo ano eleitoral, a União anuncia benefícios financiados sem medidas compensatórias, pressionando os municípios. Em 2024, 54% fecharam com déficit total de R$ 33 bilhões, segundo a Confederação Nacional de Municípios (CNM).",
-   "A elevação de pisos salariais foi destaque em 2022 e 2026, com aumento dos custos municipais: o piso dos agentes comunitários cresceu para dois salários mínimos; o piso da enfermagem e do magistério também aumentaram, somando bilhões em despesas extras anuais.",
-   "Esse cenário evidencia o descompasso fiscal gerado por políticas públicas sem previsão orçamentária clara, tornando os municípios responsáveis por ajustar caixas já pressionados, gerando atrasos e cortes em serviços essenciais.",
-   "A Proposta de Súmula Vinculante n.º 150, em análise no STF, propõe tornar inconstitucional a criação ou alteração de despesas obrigatórias sem análise prévia de impacto financeiro e medidas compensatórias, buscando frear essa prática."
-  ],
-  "detalhes": [
-   "A CNM é a fonte dos dados financeiros sobre municípios",
-   "O déficit de R$ 33 bilhões refere-se ao ano eleitoral de 2024",
-   "Leis federais nos últimos anos elevaram pisos salariais com impacto significativo e sem fonte de custeio",
-   "Em 2026, reajuste do piso do magistério elevará custos municipais em R$ 8 bilhões",
-   "Pautas-bomba são projetos em tramitação que podem aumentar ainda mais a despesa municipal",
-   "A Súmula Vinculante 150 visa garantir responsabilidade fiscal na criação de despesas",
-   "O artigo 167, §7º, da Constituição veda transferência de encargos sem custeio explícito"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Presidente da Confederação Nacional de Municípios (CNM)",
-    "oque": "Responsabilidade fiscal não pode ser dura para quem paga e flexível para quem promete"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2022",
-    "oque": "Aumento dos pisos salariais dos agentes comunitários e da enfermagem"
-   },
-   {
-    "quando": "2024",
-    "oque": "54% dos municípios fecharam contas no vermelho"
-   },
-   {
-    "quando": "2025",
-    "oque": "80,2% dos gestores apontam crise financeira como principal desafio"
-   },
-   {
-    "quando": "2026",
-    "oque": "Lei aumenta piso do magistério com impacto de R$ 8 bilhões para municípios"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Déficit",
-    "significado": "Quando despesas são maiores que receitas em um orçamento"
-   },
-   {
-    "termo": "Piso salarial",
-    "significado": "Salário mínimo garantido por lei para uma categoria profissional"
-   },
-   {
-    "termo": "Responsabilidade Fiscal",
-    "significado": "Conjunto de regras para controlar gastos públicos e evitar endividamento"
-   }
-  ],
-  "pergunta": "Como você acha que os municípios devem lidar com o aumento das despesas sem receita garantida?",
-  "tamanhoTexto": 3240,
-  "numeros": [
-   {
-    "valor": "54%",
-    "rotulo": "Percentual de municípios que fecharam 2024 no vermelho"
-   },
-   {
-    "valor": "R$ 33 bilhões",
-    "rotulo": "Déficit acumulado dos municípios em 2024"
-   },
-   {
-    "valor": "80,2%",
-    "rotulo": "Gestores que avaliam crise financeira como maior desafio em 2025"
-   },
-   {
-    "valor": "R$ 1,7 bilhão",
-    "rotulo": "Impacto anual do piso dos agentes comunitários em 2022"
-   },
-   {
-    "valor": "R$ 10,5 bilhões",
-    "rotulo": "Impacto anual do piso da enfermagem em 2022"
-   },
-   {
-    "valor": "R$ 8 bilhões",
-    "rotulo": "Estimativa de impacto do piso do magistério em 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "54% dos municípios",
-  "porQueImporta": "Este cenário mostra a crescente pressão fiscal nos municípios, gerando desafios para manter serviços públicos essenciais. Para quem investe ou opera, entender os impactos das políticas públicas sobre as finanças municipais ajuda a avaliar riscos e oportunidades, especialmente em setores dependentes dessas receitas.",
-  "impactoMercado": "A pressão financeira nos municípios pode afetar o desempenho de empresas fornecedoras de serviços públicos e fornecedores locais, além de influenciar setores sensíveis a gastos públicos, como saúde e educação. O aumento de despesas sem fonte aumenta a incerteza fiscal.",
-  "entenda": "Déficit municipal ocorre quando despesas superam receitas, prejudicando serviços públicos locais. Pisos salariais são salários mínimos definidos por lei para categorias, que impactam diretamente os orçamentos dos municípios. A responsabilidade fiscal busca equilibrar gastos com receitas, evitando desequilíbrios que afetam a economia.",
-  "observar": "Acompanhe a tramitação da Proposta de Súmula Vinculante n.º 150 no STF e a evolução das pautas financeiras no Congresso em 2024 e 2025 para avaliar impactos futuros nas finanças municipais.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "A notícia mostra como políticas públicas influenciam a saúde financeira dos municípios, ajudando quem quer entender os impactos na economia real e explorar conhecimentos sobre finanças públicas na faculdade do mercado financeiro.",
-  "gancho": "*Déficit* municipal e *responsabilidade* fiscal",
-  "ideias": [
-   "Entenda por que mais da metade dos municípios fecham 2024 no vermelho",
-   "Como os pisos salariais impactam a dívida dos municípios",
-   "O que é a Proposta de Súmula Vinculante 150 e por que importa"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "escudo",
-  "fonte": "Estadão Economia",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://www.estadao.com.br/economia/responsabilidade-fiscal-nao-pode-ser-obrigacao-severa-de-quem-paga-e-licenca-poetica-a-quem-promete/",
-  "publicadoEm": "2026-11-10T22:00:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-21"
- },
- {
-  "titulo": "PPSA e GyP firmam acordo para estudar gás de Vaca Muerta ao Brasil",
-  "resumo": "PPSA e GyP assinaram em 10/10 memorando para avaliar fornecimento de gás de Vaca Muerta ao Brasil. Objetivo é ampliar oferta a preços competitivos para a indústria nacional.",
-  "fatos": [
-   "Memorando assinado em 10 de outubro de 2026.",
-   "PPSA representa a União nos contratos do Pré-Sal.",
-   "GyP é a companhia estatal argentina de gás natural do Neuquén.",
-   "Vaca Muerta é uma grande província produtora global de petróleo e gás.",
-   "Objetivo: ampliar oferta de gás a preços competitivos para indústria brasileira.",
-   "O CNPE permite fornecedores externos nos leilões de gás a partir de 2030.",
-   "A iniciativa foi firmada durante reunião na província argentina de Neuquén.",
-   "Luis Fernando Paroli é o presidente da PPSA.",
-   "O acordo visa novos e atuais empreendimentos industriais no Brasil."
-  ],
-  "explicacao": [
-   "No dia 10 de outubro, a PPSA, estatal brasileira que representa a União nos contratos do Pré-Sal, e a argentina GyP, companhia estatal do Neuquén, assinaram um memorando de entendimento. O acordo visa estudar a possibilidade de fornecimento de gás natural da região de Vaca Muerta para o mercado brasileiro.",
-   "Essa iniciativa faz parte da política energética do governo federal brasileiro, que busca ampliar a oferta de gás natural a preços competitivos para abastecer a indústria nacional. A região de Vaca Muerta é uma das maiores produtoras de petróleo e gás natural do mundo, o que torna essa aproximação estratégica para o Brasil.",
-   "O presidente da PPSA, Luis Fernando Paroli, ressaltou a importância de explorar todas as alternativas para aumentar a oferta de gás natural e a competitividade da indústria. O acordo não é uma comercialização imediata, mas um estudo de oportunidades conjunto entre os países.",
-   "Além disso, a possibilidade de importar gás natural de outras origens já foi prevista pelo Conselho Nacional de Política Energética (CNPE), que permite outros fornecedores participarem dos leilões da PPSA a partir de 2030, com o objetivo de expandir novos empreendimentos industriais no Brasil."
-  ],
-  "detalhes": [
-   "Quem: PPSA (Brasil) e GyP (Argentina).",
-   "Quando: acordado em 10 de outubro de 2026.",
-   "Onde: reunião na província argentina de Neuquén.",
-   "Por quê: aumentar oferta de gás natural para indústria a preços competitivos.",
-   "Como: memorando de entendimento para estudar oportunidades, não contrato imediato.",
-   "Contexto: CNPE permite importações e participação de outros fornecedores em leilões.",
-   "Comparação: Vaca Muerta é uma das maiores produtoras mundiais, importante para o mercado brasileiro."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Luis Fernando Paroli, presidente da PPSA",
-    "oque": "Estudar todas as alternativas para ampliar oferta de gás e competitividade da indústria."
-   },
-   {
-    "quem": "PPSA em nota à imprensa",
-    "oque": "Iniciativa busca ampliar oferta de gás natural a preços competitivos, alinhada à política federal."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de outubro de 2026",
-    "oque": "Assinatura do memorando entre PPSA e GyP para estudar fornecimento de gás."
-   },
-   {
-    "quando": "2030",
-    "oque": "CNPE prevê entrada de fornecedores externos em leilões da PPSA."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Memorando de Entendimento",
-    "significado": "Documento preliminar que formaliza intenção de cooperação sem compromisso imediato."
-   },
-   {
-    "termo": "Vaca Muerta",
-    "significado": "Grande província argentina produtora de petróleo e gás natural."
-   },
-   {
-    "termo": "CNPE",
-    "significado": "Conselho Nacional de Política Energética do Brasil, que regula mercado energético."
-   }
-  ],
-  "pergunta": "Como você acha que a entrada de gás argentino pode impactar a indústria brasileira?",
-  "tamanhoTexto": 1871,
-  "numeros": [
-   {
-    "valor": "10/10/2026",
-    "rotulo": "data da assinatura do memorando"
-   },
-   {
-    "valor": "2030",
-    "rotulo": "ano previsto para participação de fornecedores externos em leilões"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "10/10/2026 - memorando",
-  "porQueImporta": "Esse acordo pode ampliar o acesso do Brasil a fontes competitivas de gás natural, fundamental para a indústria. Mais oferta pode reduzir custos e aumentar a produção, impactando a economia industrial do país.",
-  "impactoMercado": "A possível importação de gás da Argentina e a ampliação de fornecimento pode influenciar preços de insumos industriais, contratos de gás e até setores ligados à energia e produção, podendo afetar negociações futuras.",
-  "entenda": "Gás natural é um combustível usado largamente na indústria. Vaca Muerta é uma vasta reserva na Argentina, importante globalmente. Memorandos como este avaliam possibilidades antes de firmar contratos, buscando garantir preços competitivos e segurança energética.",
-  "observar": "Fique atento às evoluções desse acordo e próximos leilões da PPSA previstos para 2030, que podem incluir fornecedores estrangeiros e impactar o mercado de gás natural no Brasil.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "Explica como acordos internacionais em gás natural afetam a competitividade da indústria e mostram caminhos estratégicos no mercado energético para investidores e empresários.",
-  "gancho": "*Gás* de Vaca Muerta ao Brasil",
-  "ideias": [
-   "O que é Vaca Muerta e sua importância para o gás natural",
-   "Como acordos internacionais impactam o mercado de gás no Brasil",
-   "Entenda o papel da PPSA nos contratos do Pré-Sal e novos fornecedores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "foguete",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ppsa-e-argentina-gyp-assinam-acordo-para-estudar-fornecimento-de-gas-de-vaca-muerta-ao-brasil.shtml",
-  "publicadoEm": "2026-11-10T22:10:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-22"
- },
- {
-  "tipo": "sinal",
-  "slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
-  "titulo": "Mercado de previsões vê 85.5% de chance de 2 aumentos (50 bps)",
-  "resumo": "Expectativa de duas elevações nas taxas de juros ao longo de 2026, conforme apostadores decifram o cenário.",
-  "probs": [
-   {
-    "opcao": "2 (50 bps)",
-    "prob": 85.5
-   },
-   {
-    "opcao": "3 (75 bps)",
-    "prob": 9.7
-   },
-   {
-    "opcao": "1 (25 bps)",
-    "prob": 4.6
-   },
-   {
-    "opcao": "4 (100 bps)",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 68 mil",
-  "fatos": [
-   "2 (50 bps): 85,5%",
-   "3 (75 bps): 9,7%",
-   "1 (25 bps): 4,6%",
-   "4 (100 bps): 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "85,5%",
-    "rotulo": "2 (50 bps)"
-   },
-   {
-    "valor": "9,7%",
-    "rotulo": "3 (75 bps)"
-   },
-   {
-    "valor": "4,6%",
-    "rotulo": "1 (25 bps)"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "4 (100 bps)"
-   }
-  ],
-  "destaque": "85,5%",
-  "gancho": "*Previsões sobre aumentos* do Fed",
-  "entenda": "O número de elevações de juros afeta a economia e a direção dos investimentos no mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/how-many-fed-rate-hikes-in-2026-20260623190717369",
-  "publicadoEm": "2026-11-10T22:29:05-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-10T22:29:05-03:00",
-  "data": "2026-11-10",
-  "status": "nova",
-  "id": "2026-11-10-p5"
- },
- {
-  "titulo": "Embraer salta 9,30% com resultado e projeções acima do consenso",
-  "resumo": "Embraer reportou receita recorde de US$ 2,347 bi no 3T26, alta de 17% em um ano, e revisou projeções. Ações subiram 9,30% após resultados superarem expectativas.",
-  "fatos": [
-   "Ações da Embraer subiram 9,30% no dia 10/11/2026, cotadas a R$ 116,29.",
-   "Receita trimestral recorde de US$ 2,347 bilhões, alta de 17% em um ano.",
-   "Margem Ebit recorrente de 10,9%, 0,5 ponto percentual acima da estimativa do JPMorgan.",
-   "Margem bruta da divisão Defesa e Segurança foi 23,4%, 3 pontos percentuais acima do 3T25.",
-   "Nova projeção de receita anual aumentada para faixa entre US$ 8,4 e US$ 8,6 bilhões.",
-   "Fluxo de caixa livre mínimo esperado subiu de US$ 400 milhões para US$ 700 milhões.",
-   "Ebit ajustado do 3T26 foi de US$ 255 milhões, 48% maior que o ano anterior.",
-   "Receita de jatos executivos ficou 9% abaixo da estimativa do JPMorgan.",
-   "Margem bruta da aviação comercial atingiu 7%, 3 pontos abaixo da previsão."
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026 (3T26), a Embraer teve receita recorde de US$ 2,347 bilhões, crescimento de 17% em 12 meses e 11% acima do consenso do mercado, levando suas ações a subirem 9,30% na B3, a R$ 116,29.",
-   "O bom desempenho foi impulsionado principalmente pela divisão de Defesa e Segurança, com margem bruta de 23,4%, 3 pontos percentuais superior ao 3T25 e 4,9 pontos acima da previsão do JPMorgan. Margens positivas também vieram da Aviação Executiva.",
-   "A companhia revisou para cima sua estimativa de receita anual, agora entre US$ 8,4 bilhões e US$ 8,6 bilhões, além de elevar o fluxo de caixa livre mínimo esperado de US$ 400 milhões para US$ 700 milhões. O banco JPMorgan prevê margem Ebit ajustada de 10,3% no 4T26, um pouco abaixo das estimativas do mercado.",
-   "JPMorgan e Itaú BBA avaliaram positivamente os resultados e esperam revisões altistas nas projeções anuais, apesar de algumas divisões como Aviação Comercial e jatos executivos apresentarem desempenho abaixo do esperado. O lucro líquido ficou abaixo devido a aspectos financeiros não caixa."
-  ],
-  "detalhes": [
-   "A divulgação dos resultados ocorreu no terceiro trimestre de 2026, com atualização às 18h21 do dia 10 de novembro.",
-   "O avanço na margem Ebit reforça a eficiência operacional da Embraer, destacada pelo JPMorgan e Itaú BBA.",
-   "O fluxo de caixa livre considera as operações excluindo a empresa Eve, ligada a mobilidade aérea urbana.",
-   "A expectativa do mercado era menor que o desempenho apresentado, motivando aumento das ações.",
-   "O lucro líquido ficou abaixo, afetado por linhas financeiras não caixa e não por resultado operacional.",
-   "Divisões de Defesa, Segurança e Aviação Executiva tiveram bom desempenho, em contraste com Aviação Comercial.",
-   "O JPMorgan mantém visão positiva para 2026, estimando Ebit de US$ 910 milhões, 9% acima da atual previsão de mercado."
-  ],
-  "declaracoes": [
-   {
-    "quem": "JPMorgan",
-    "oque": "Destaca que resultados e projeções positivas devem sustentar reação positiva das ações da Embraer."
-   },
-   {
-    "quem": "Itaú BBA",
-    "oque": "Classifica desempenho da Embraer como positivo, apesar do lucro líquido abaixo do esperado devido a fatores financeiros."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10/11/2026",
-    "oque": "Divulgação dos resultados do 3T26 da Embraer e alta das ações na B3."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Margem Ebit",
-    "significado": "Percentual do lucro operacional antes de juros e impostos"
-   },
-   {
-    "termo": "Fluxo de Caixa Livre (FCF)",
-    "significado": "Dinheiro gerado pelas operações após investimentos"
-   },
-   {
-    "termo": "Consenso do mercado",
-    "significado": "Média das expectativas dos analistas para indicadores"
-   }
-  ],
-  "pergunta": "Você já acompanha os resultados da Embraer para suas decisões de investimento?",
-  "tamanhoTexto": 2850,
-  "numeros": [
-   {
-    "valor": "2,347 bilhões",
-    "rotulo": "Receita trimestral recorde em dólares"
-   },
-   {
-    "valor": "17%",
-    "rotulo": "Crescimento da receita em 1 ano"
-   },
-   {
-    "valor": "9,30%",
-    "rotulo": "Alta das ações no dia da divulgação"
-   },
-   {
-    "valor": "10,9%",
-    "rotulo": "Margem Ebit recorrente no 3T26"
-   },
-   {
-    "valor": "23,4%",
-    "rotulo": "Margem bruta da divisão Defesa e Segurança"
-   },
-   {
-    "valor": "255 milhões",
-    "rotulo": "Ebit ajustado do trimestre em dólares"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Fluxo de caixa livre mínimo",
-    "antes": "US$ 400 milhões",
-    "depois": "US$ 700 milhões"
-   },
-   {
-    "item": "Estimativa de receita anual",
-    "antes": "US$ 8,2 a 8,5 bilhões",
-    "depois": "US$ 8,4 a 8,6 bilhões"
-   },
-   {
-    "item": "Margem Ebit recorrente 3T26",
-    "antes": "concenso de 10,4%",
-    "depois": "10,9%"
-   }
-  ],
-  "destaque": "9,30%",
-  "porQueImporta": "Resultados acima do previsto e revisões positivas reforçam a confiança na saúde financeira da Embraer. Para investidores e operadores, entender margens, fluxo de caixa e projeções ajuda na análise do potencial risco-retorno da ação, impactando decisões de investimento em renda variável.",
-  "impactoMercado": "A valorização das ações da Embraer pode influenciar setores ligados à indústria aeronáutica e defesa. Revisões de estimativas de receita e margem podem alterar expectativas de crescimento e valuation, afetando papéis na Bolsa e atraindo interesse dos investidores institucionais e de varejo.",
-  "entenda": "A margem Ebit indica a lucratividade operacional da empresa, mostrando o quanto sobra após custos e despesas. Fluxo de caixa livre é o dinheiro disponível após investimentos, importante para dividendos ou redução de dívidas. Projeções de receita refletem a expectativa de vendas futuras, fundamentais para avaliação financeira.",
-  "observar": "Acompanhe os próximos balanços trimestrais, especialmente o 4T26, e análises dos bancos para ver se as revisões positivas se confirmam ou se desafios persistem em aviação comercial e executiva.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicar os resultados sólidos da Embraer e suas projeções ajuda quem quer entender como os fundamentos impactam a valorização das ações, mostrando a importância do acompanhamento de balanços para operar ou investir com conhecimento.",
-  "gancho": "Embraer: resultado e *projeções* positivas",
-  "ideias": [
-   "O que significam as margens Ebit para investidores?",
-   "Como fluxo de caixa livre impacta o valor das ações?",
-   "Por que revisar projeções afeta o preço das ações?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "InfoMoney",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://www.infomoney.com.br/mercados/embraer-embj3-analise-resultados-terceiro-trimestre-2026/",
-  "publicadoEm": "2026-11-10T18:21:34-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-06"
- },
- {
-  "titulo": "Magalu vê inflexão em outubro e ação salta 11%, mas recuperação esbarra em juros",
-  "resumo": "Magazine Luiza registrou alta de 11,64% nas ações após divulgar inflexão nas vendas de outubro, com crescimento de 16% nas lojas físicas e 14% no online. Juros elevados ainda limitam recuperação mais forte, segundo analistas.",
-  "fatos": [
-   "Ação do Magalu subiu 11,64%, a R$ 6,52, em 10/11/2026.",
-   "GMV total caiu 4% no 3º tri, para R$ 14,6 bilhões.",
-   "Receita líquida no 3º tri caiu 1%, totalizando R$ 8,9 bilhões.",
-   "Ebitda ajustado ficou estável em R$ 710 milhões com margem de 7,9%.",
-   "Vendas físicas cresceram 10% no trimestre e 16% em outubro.",
-   "Vendas online próprias caíram 9% no 3º semestre, mas subiram 14% em outubro.",
-   "Provisões para devedores duvidosos aumentaram 48%, para R$ 167 milhões.",
-   "Preço-alvo da XP para MGLU3 é R$ 11, com potencial de alta de 88%.",
-   "Itaú BBA manteve preço-alvo em R$ 14,50 e recomendação outperform.",
-   "Mercado convive com juros elevados que impactam o consumo e despesas financeiras."
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, Magazine Luiza teve resultado estável, com receita líquida de R$ 8,9 bilhões e Ebitda ajustado de R$ 710 milhões. O ponto de inflexão ocorreu em outubro, quando vendas físicas subiram 16% e online próprio cresceu 14%.",
-   "Essa melhora veio após meses de pressão no comércio eletrônico e consumo fraco, impulsionada pela reestruturação da Casas Bahia, que diminuiu a competição e pelas parcerias do Magalu com plataformas como Amazon e Mercado Livre.",
-   "Apesar da aceleração nas vendas, os juros elevados continuam pesando no consumo de bens duráveis, dificultando uma recuperação mais sólida. A rentabilidade mostrou estabilidade, mas provisões para inadimplência aumentaram 48%.",
-   "O desafio agora é se o ambiente de juros altos e os custos financeiros não superarão essa retomada das vendas, definindo o ritmo de recuperação sustentável para os próximos trimestres."
-  ],
-  "detalhes": [
-   "Resultado do 3º trimestre mostra ambiente desafiador para varejo de bens duráveis.",
-   "Magalu reforçou parcerias para venda do catálogo em plataformas externas como Amazon.",
-   "Crescimento superior de bens duráveis sustenta ganho de 1,5 ponto percentual de mercado.",
-   "Margem bruta subiu para 31,6%, beneficiada pela maior participação nos serviços.",
-   "Fluxo de caixa foi negativo devido a estoques para Black Friday e antecipação de pagamentos.",
-   "Casas Bahia passou por recuperação judicial, alterando cenário competitivo.",
-   "Analistas discordam: BBI mantém recomendação neutra; JPMorgan tem underweight para ação."
-  ],
-  "declaracoes": [
-   {
-    "quem": "XP Investimentos",
-    "oque": "Enfatizou a importância dos dados preliminares de outubro para a melhora do Magalu."
-   },
-   {
-    "quem": "Bradesco BBI",
-    "oque": "Destacou que os juros elevados ainda limitam a recuperação do consumo."
-   },
-   {
-    "quem": "Itaú BBA",
-    "oque": "Considera que parte dos ganhos de participação pode ser estrutural, mantendo preço-alvo em R$ 14,50."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Magalu apresenta resultados estáveis antes do ponto de inflexão."
-   },
-   {
-    "quando": "Setembro de 2026",
-    "oque": "Começo da virada com aceleração nas vendas."
-   },
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Vendas físicas sobem 16% e online 14%, marcando inflexão."
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Ações do Magalu sobem 11,64% refletindo os resultados."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "GMV",
-    "significado": "Volume bruto de mercadorias vendidas em um período"
-   },
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro operacional antes de juros, impostos, depreciações e amortizações"
-   },
-   {
-    "termo": "Margem bruta",
-    "significado": "Percentual que representa lucro antes das despesas operacionais"
-   }
-  ],
-  "pergunta": "Você acha que a recuperação das vendas do Magalu vai se manter com juros altos?",
-  "tamanhoTexto": 5834,
-  "numeros": [
-   {
-    "valor": "11,64%",
-    "rotulo": "alta das ações em 10/11/2026"
-   },
-   {
-    "valor": "R$ 6,52",
-    "rotulo": "preço da ação na bolsa em 10/11/2026"
-   },
-   {
-    "valor": "R$ 14,6 bilhões",
-    "rotulo": "GMV total no 3º trimestre"
-   },
-   {
-    "valor": "R$ 8,9 bilhões",
-    "rotulo": "receita líquida no 3º trimestre"
-   },
-   {
-    "valor": "R$ 710 milhões",
-    "rotulo": "Ebitda ajustado no 3º trimestre"
-   },
-   {
-    "valor": "16%",
-    "rotulo": "crescimento vendas lojas físicas em outubro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "vendas físicas (jan-ago vs. outubro)",
-    "antes": "8% de crescimento anual",
-    "depois": "16% de crescimento anual"
-   },
-   {
-    "item": "vendas online próprias (jan-ago vs. outubro)",
-    "antes": "-12% de queda anual",
-    "depois": "14% de crescimento anual"
-   }
-  ],
-  "destaque": "11,64% de alta",
-  "porQueImporta": "Para investidores e traders, entender a resposta do Magalu ao ambiente desafiador ajuda a avaliar riscos e oportunidades. A inflexão das vendas pode indicar retomada, mas juros altos continuam a ser limitadores importantes, impactando o desempenho financeiro e o comportamento da ação.",
-  "impactoMercado": "A recuperação parcial da Magalu poderá influenciar o setor varejista, principalmente em bens duráveis. A pressão dos juros elevados afeta consumo e despesas financeiras, o que mantém um cenário cauteloso para investidores, especialmente em ações de varejo e consumo.",
-  "entenda": "Curva de crescimento mostra que vendas em lojas físicas e online podem se comportar de forma diferente. GMV é o valor total comercializado, Ebitda mede lucro operacional antes de impostos, e provisões indicam reservas para inadimplência no crédito concedido pelo varejista.",
-  "observar": "Acompanhar resultados do 4º trimestre, novos dados de vendas e cenário de juros, especialmente decisões do Banco Central e impacto nas vendas de bens duráveis.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Explicar por que o ponto de inflexão em outubro chama a atenção para possíveis mudanças nos resultados do Magalu, ajudando seguidores a entenderem o funcionamento do varejo e impactos do cenário de juros.",
-  "gancho": "*Magalu* e *Inflação*: Ação sobe 11%",
-  "ideias": [
-   "O que é ponto de inflexão nas vendas do Magalu?",
-   "Por que juros elevados impactam a recuperação do Magalu?",
-   "Como a reestruturação da Casas Bahia mudou o setor varejista?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "InfoMoney",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://www.infomoney.com.br/mercados/magalu-mglu3-ponto-de-inflexao-em-outubro-faz-acao-saltar-15-apos-balanco-mas-movimento-continua/",
-  "publicadoEm": "2026-11-10T18:20:49-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-07"
- },
- {
-  "titulo": "Ata do Copom e inflação alta nos EUA elevam juros futuros no Brasil",
-  "resumo": "Ata do Copom indicou choques de oferta que pressionam preços; inflação CPI dos EUA superou expectativas. Juros futuros, como DI 2028 e 2035, subiram refletindo aumento nas apostas de alta do Fed em dezembro.",
-  "fatos": [
-   "DI 2028 subiu para 14,205% contra 14,224% na véspera",
-   "DI 2035 avançou para 15,065% de 14,984% anteriormente",
-   "CPI dos EUA subiu 0,4% em outubro, acima dos 0,3% previstos",
-   "Probabilidade de alta de 0,25 ponto pelo Fed subiu de 84% para 88,2%",
-   "Probabilidade de alta de 0,5 ponto pelo Fed avançou de 0% para 11,8%",
-   "Taxa do Treasury de 10 anos subiu 12 pontos-base a 4,985%",
-   "Ata do Copom indicou impacto 'relevante' de choques de oferta na inflação",
-   "Choques citados: preço do petróleo, El Niño, custo de trabalho e desvalorização do real",
-   "Declarações de dirigentes do Fed indicam necessidade de mais aumentos"
-  ],
-  "explicacao": [
-   "A ata do Copom divulgada no dia 10 destacou impactos relevantes de choques de oferta na inflação brasileira, citando petróleo caro, El Niño, custos trabalhistas e desvalorização do real. Os juros futuros para 2028 e 2035 subiram para 14,205% e 15,065%, respectivamente.",
-   "Nos EUA, o CPI (inflação ao consumidor) subiu 0,4% em outubro, acima dos 0,3% previstos, reforçando o mercado a apostar que o Fed aumentará os juros em dezembro. A probabilidade da alta de 0,25 ponto chegou a 88,2% e de 0,5 ponto a 11,8%.",
-   "Essa combinação de alta inflação doméstica e global endurece a política monetária, dificultando cortes de juros no Brasil e levando a alta dos Treasuries americanos, que servem de referência global de juros. O DI 2028 e 2035 refletiram o custo maior do crédito esperado.",
-   "A expectativa agora é monitorar a próxima reunião do Fed em dezembro e as possíveis reações do Copom, que pondera a desaceleração econômica, mas enfrenta pressões inflacionárias persistentes causadas por choques internos e externos."
-  ],
-  "detalhes": [
-   "Ata do Copom divulgada em 10 de outubro mencionou pressão inflacionária por choques de oferta",
-   "Choques incluem petróleo caro vinculado a conflito no Oriente Médio",
-   "El Niño apontado como fator climático influenciando custos",
-   "Fim da escala 6x1 aumenta custos trabalhistas no Brasil",
-   "Incertezas políticas domésticas somam pressão sobre a moeda",
-   "Inflação americana supera previsão, afetando mercado global",
-   "Fed debate aumento de juros em dezembro, elevando apostas"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Márcio Riauba, chefe da mesa de operações da StoneX",
-    "oque": "Ata dura ancorou parte da curva e afastou cortes no curto prazo, mas prêmio longo persiste"
-   },
-   {
-    "quem": "Lorie Logan, presidente do Fed de Dallas",
-    "oque": "Serão necessários pelo menos dois aumentos de 0,25 ponto para conter inflação"
-   },
-   {
-    "quem": "Christopher Waller, diretor do Fed",
-    "oque": "Apoia alta de juros já em novembro e cogita 0,5 ponto se inflação piorar"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de outubro",
-    "oque": "Ata do Copom divulgada apontou choques de oferta"
-   },
-   {
-    "quando": "10 de outubro",
-    "oque": "Índice CPI dos EUA divulgado com alta de 0,4% em outubro"
-   },
-   {
-    "quando": "Após dados de inflação",
-    "oque": "Mercado elevou chance de alta de juros pelo Fed em dezembro"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "DI (Depósito Interfinanceiro)",
-    "significado": "Título de dívida usado para empréstimos entre bancos, base para juros futuros."
-   },
-   {
-    "termo": "CPI (Consumer Price Index)",
-    "significado": "Índice que mede variação média dos preços ao consumidor nos EUA."
-   },
-   {
-    "termo": "Copom",
-    "significado": "Comitê que define a taxa básica de juros no Brasil."
-   }
-  ],
-  "pergunta": "Como você vê o impacto dos choques de oferta na inflação e juros?",
-  "tamanhoTexto": 5459,
-  "numeros": [
-   {
-    "valor": "14,205%",
-    "rotulo": "Taxa do DI para janeiro de 2028"
-   },
-   {
-    "valor": "15,065%",
-    "rotulo": "Taxa do DI para janeiro de 2035"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Inflação CPI dos EUA em outubro"
-   },
-   {
-    "valor": "88,2%",
-    "rotulo": "Probabilidade de alta de 0,25 ponto pelo Fed em dezembro"
-   },
-   {
-    "valor": "11,8%",
-    "rotulo": "Probabilidade de alta de 0,5 ponto pelo Fed em dezembro"
-   },
-   {
-    "valor": "4,985%",
-    "rotulo": "Rendimento do Treasury de 10 anos nos EUA"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Probabilidade de alta do Fed de 0,25 ponto",
-    "antes": "84%",
-    "depois": "88,2%"
-   },
-   {
-    "item": "Probabilidade de alta do Fed de 0,5 ponto",
-    "antes": "0%",
-    "depois": "11,8%"
-   },
-   {
-    "item": "DI 2035",
-    "antes": "14,984%",
-    "depois": "15,065%"
-   }
-  ],
-  "destaque": "14,205% juros DI",
-  "porQueImporta": "A alta dos juros futuros e a inflação persistente mostram que a política monetária continuará firme, impactando custos de financiamento e investimentos em geral. Investidores precisam entender essa conjuntura para ajustar estratégias sem esperar cortes imediatos e lidar com risco inflacionário.",
-  "impactoMercado": "Juros elevados no Brasil e nos EUA afetam especialmente o mercado de renda fixa e o dólar, influenciando ativos ligados a crédito, energia e commodities. Expectativa de aperto do Fed pode pressionar bolsas e criptomoedas.",
-  "entenda": "O DI é um título negociado no Brasil que reflete a taxa futura de juros. Quando a inflação e riscos aumentam, o DI sobe, indicando expectativas de juros maiores. O CPI mede a inflação ao consumidor e serve de base para decisões do Fed sobre juros.",
-  "observar": "Fique atento à próxima reunião do Fed em dezembro e à divulgação de dados de inflação domésticos, que podem reforçar ou modificar as apostas no mercado de juros.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos de forma simples como a ata do Copom e a inflação americana influenciam os juros futuros no Brasil, mostrando as conexões entre inflação, política monetária e decisões de investimento.",
-  "gancho": "*Copom*, *Inflação* e juros altos",
-  "ideias": [
-   "Entenda a ata do Copom e seus impactos nos juros",
-   "Inflação nos EUA e suas consequências para investidores brasileiros",
-   "O que a alta dos juros futuros diz sobre a economia atual"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://bpmoney.com.br/mercado/dis-sobem-ata-copom-inflacao-eua/",
-  "publicadoEm": "2026-11-10T18:15:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-08"
- },
- {
-  "titulo": "Juros longos sobem enquanto curtos caem após ata do Copom e alta de inflação nos EUA",
-  "resumo": "Na terça (10), juros futuros longos no Brasil subiram diante de alta inflação nos EUA e falas do Fed. Ata do Copom indicou menor chance de alta da Selic no curto prazo.",
-  "fatos": [
-   "Juros futuros do DI para janeiro de 2028 caíram de 14,225% para 14,21%.",
-   "Juros do DI para janeiro de 2029 subiram de 14,59% para 14,62%.",
-   "Juros do DI para janeiro de 2031 avançaram de 14,87% a 14,925%.",
-   "Juros do DI para janeiro de 2037 tiveram alta de 14,935% para 15,00%.",
-   "Inflação ao consumidor (CPI) dos EUA de outubro mostrou alta de 0,4% geral e 0,3% no núcleo, 0,1 ponto acima do esperado.",
-   "Dirigente do Fed, Christopher Waller, defendeu possível elevação de 0,5 ponto percentual dos juros em dezembro.",
-   "Presidenta da distrital de Dallas, Lorie Logan, afirmou que juros nos EUA precisam subir ao menos mais duas vezes de 0,25 ponto.",
-   "Mercado dos EUA debate taxa básica entre 4,25%-4,50% e 4,50%-4,75% ao fim do ciclo de aperto.",
-   "Copom destacou desaceleração da atividade econômica e afirma risco menor de repasse dos choques de oferta à inflação."
-  ],
-  "explicacao": [
-   "Na terça-feira, 10 de novembro de 2026, os juros futuros longos no Brasil aumentaram, com destaque para vencimentos de 2029 a 2037, enquanto os juros curtos caíram após a divulgação da ata da última reunião do Copom.",
-   "A alta dos juros longos foi influenciada por pressão externa provocada por sinalizações mais duras de dirigentes do Federal Reserve e pela inflação ao consumidor (CPI) dos EUA, que veio acima do esperado, reforçando perspectivas de aperto monetário naquele país.",
-   "A ata do Copom trouxe uma mensagem mais suave, ressaltando a desaceleração da atividade econômica brasileira e a desancoragem das expectativas de inflação, o que afasta a possibilidade de aumento da taxa básica de juros, a Selic, no curto prazo.",
-   "Com isso, mercados ajustaram os juros curtos para baixo e os longos para cima, refletindo o desconforto com a inflação americana e o otimismo sobre a política monetária doméstica. A expectativa é que o Copom mantenha ou até reduza a Selic em 2027."
-  ],
-  "detalhes": [
-   "Ata divulgada pela manhã reforçou que o Copom buscará a meta de inflação de forma mais suave para não causar choque econômico.",
-   "O economista Marcos Bredda de Marchi avalia que aumentos da Selic são improváveis e que pode haver cortes em 2027.",
-   "O movimento da curva de juros mostra inclinação maior pelo alívio das taxas curtas contra avanço das longas.",
-   "Inflacionamento maior que esperado nos EUA reforçou sinais de aperto monetário externo rigoroso.",
-   "Comentários do Fed influenciaram mercado global de renda fixa e dólar após a ata do Copom.",
-   "Projeção atual da Oriz Partners prevê Selic em 12,50% no fim de 2027.",
-   "Mercado vê quase 10% de chance de alta de 0,5 ponto nos Fed funds em dezembro."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Marcos Bredda de Marchi, economista-chefe da Oriz Partners",
-    "oque": "Copom provavelmente não vai aumentar Selic e pode reduzir juros em 2027, focando na economia enfraquecida."
-   },
-   {
-    "quem": "Christopher Waller, diretor do Federal Reserve",
-    "oque": "Defendeu possibilidade de aumento de 0,5 ponto percentual nos juros dos Fed funds em dezembro."
-   },
-   {
-    "quem": "Lorie Logan, presidente da distrital de Dallas do Fed",
-    "oque": "A política monetária americana está acomodativa; serão necessárias ao menos duas altas adicionais de 0,25 ponto."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Publicação da ata da última reunião do Copom"
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Divulgação do índice CPI de outubro nos EUA, com alta maior que o esperado"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros usada para controlar a inflação no Brasil."
-   },
-   {
-    "termo": "Ata do Copom",
-    "significado": "Relatório detalhado das reuniões do Comitê de Política Monetária do BC."
-   },
-   {
-    "termo": "Inflação ao consumidor (CPI)",
-    "significado": "Índice que mede a variação de preços para os consumidores."
-   }
-  ],
-  "pergunta": "Você acha que o Copom vai reduzir a Selic em 2027?",
-  "tamanhoTexto": 4879,
-  "numeros": [
-   {
-    "valor": "14,21%",
-    "rotulo": "Juros DI para janeiro de 2028 após ajuste"
-   },
-   {
-    "valor": "14,62%",
-    "rotulo": "Juros DI para janeiro de 2029 após ajuste"
-   },
-   {
-    "valor": "14,925%",
-    "rotulo": "Juros DI para janeiro de 2031 após ajuste"
-   },
-   {
-    "valor": "15,00%",
-    "rotulo": "Juros DI para janeiro de 2037 após ajuste"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "Inflação geral (CPI) nos EUA em outubro"
-   },
-   {
-    "valor": "0,3%",
-    "rotulo": "Inflação núcleo (CPI) nos EUA em outubro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "alta dos juros",
-  "porQueImporta": "Para investidores, entender a movimentação dos juros futuros é essencial para avaliar custos de crédito e precificação de ativos. A divergência entre juros longos e curtos influencia decisões sobre títulos públicos, fundos e estratégias de renda fixa, impactando retornos e riscos.",
-  "impactoMercado": "O aumento dos juros longos, pressionados por mudanças externas, pode afetar setores sensíveis a custo de capital maior, enquanto a expectativa de Selic estável ou em queda no Brasil traz alívio para crédito. O dólar tende a se fortalecer com inflação alta nos EUA, gerando ajuste em investimentos estrangeiros.",
-  "entenda": "Juros futuros representam a estimativa do mercado para as taxas de juros em diferentes prazos. Curva a termo mostra essas taxas distribuídas por vencimento. Ata do Copom é documento que explica decisão sobre Selic e indica cenário econômico e inflacionário esperado.",
-  "observar": "Acompanhe próximos encontros do Fed em dezembro e reuniões do Copom em 2027 para entender alterações nas taxas e impactos na inflação e atividade econômica.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Entender a dinâmica entre políticas monetárias internacionais e brasileiras ajuda traders e investidores a interpretar variações da curva de juros e planejar melhor suas operações e investimentos.",
-  "gancho": "*Juros* longos sobem; *Copom* sinaliza menor alta",
-  "ideias": [
-   "Por que os juros longos sobem enquanto os curtos caem?",
-   "Como a ata do Copom impacta sua estratégia de investimento?",
-   "Efeito da inflação americana na curva de juros brasileira"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://valor.globo.com/financas/noticia/2026/11/10/juros-curtos-fecham-em-queda-e-longos-sobem-com-ata-do-copom-e-pressao-externa.ghtml",
-  "publicadoEm": "2026-11-10T17:41:50-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-09"
- },
- {
-  "titulo": "Ata do Copom detalha manutenção da Selic em 13,75% ao ano",
-  "resumo": "Copom manteve a Selic em 13,75% ao ano, interrompendo cinco cortes consecutivos. Investidores também aguardam o CPI de outubro nos EUA para entender a inflação.",
-  "fatos": [
-   "Copom decidiu manter a Selic em 13,75% ao ano na reunião mais recente.",
-   "Foram cinco cortes consecutivos da taxa antes desta pausa.",
-   "Ata divulgada na manhã de terça-feira, 10 de novembro.",
-   "Ibovespa fechou em alta de 2,22% na segunda-feira (9), aos 172.236,05 pontos.",
-   "Dólar ficou em torno de R$ 5,50 no último fechamento.",
-   "CPI dos EUA de outubro é aguardado nesta semana para sinais da inflação americana.",
-   "Payroll dos EUA mostra criação de 165 mil vagas em outubro e desemprego em 4,1%."
-  ],
-  "explicacao": [
-   "Na terça-feira (10), a ata da última reunião do Copom foi divulgada, explicando a decisão de manter a Selic em 13,75% ao ano. Essa foi a primeira vez em seis reuniões que a taxa básica não sofreu redução, após cinco cortes consecutivos anteriores.",
-   "Essa pausa ocorre em meio à desaceleração da economia brasileira que, no entanto, não foi suficiente para conter totalmente a inflação. O mercado usa a ata para ajustar suas expectativas sobre a política de juros nos próximos meses.",
-   "No cenário externo, investidores focam na divulgação do índice de preços ao consumidor (CPI) dos Estados Unidos referente a outubro. Com dados recentes de emprego positivos no país, o CPI deve indicar se a inflação americana continua sob controle.",
-   "Os resultados do CPI influenciam as expectativas sobre a trajetória de juros do Federal Reserve, o banco central dos EUA, impactando investimentos globais e decisões de investidores brasileiros no curto prazo."
-  ],
-  "detalhes": [
-   "Copom: Comitê de Política Monetária do Banco Central do Brasil.",
-   "Selic: taxa básica de juros usada para controlar a inflação.",
-   "A decisão de manter os juros impede continuidade da trajetória de quedas recentes.",
-   "Índice CPI dos EUA é um importante indicador mensal de inflação ao consumidor.",
-   "Payroll é o relatório mensal de emprego dos EUA que recentemente divulgou números positivos.",
-   "Ibovespa, principal índice brasileiro, subiu com o cenário de alívio nas tensões internacionais.",
-   "Mercado usa ata do Copom para ajustar projeções sobre juros futuros e investimentos."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Comitê de Política Monetária (Copom)",
-    "oque": "Decidiu manter a Selic em 13,75%, interrompendo cinco cortes consecutivos."
-   },
-   {
-    "quem": "Investidores internacionais",
-    "oque": "Aguardam o CPI dos EUA para entender comportamento da inflação americana."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "9 de novembro",
-    "oque": "Ibovespa sobe 2,22%, influenciado por avanços nas bolsas globais."
-   },
-   {
-    "quando": "10 de novembro",
-    "oque": "Divulgação da ata do Copom e expectativa pelo CPI dos EUA."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Copom",
-    "significado": "Comitê que define a taxa básica de juros no Brasil."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros usada para controlar inflação no Brasil."
-   },
-   {
-    "termo": "CPI",
-    "significado": "Índice de preços ao consumidor que mede a inflação nos EUA."
-   }
-  ],
-  "pergunta": "Você acompanha a ata do Copom para entender os juros no Brasil?",
-  "tamanhoTexto": 2576,
-  "numeros": [
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic mantida pelo Copom"
-   },
-   {
-    "valor": "5",
-    "rotulo": "Número de cortes consecutivos da Selic antes da pausa"
-   },
-   {
-    "valor": "2,22%",
-    "rotulo": "Alta do Ibovespa no fechamento do dia 9"
-   },
-   {
-    "valor": "172.236,05",
-    "rotulo": "Pontos do Ibovespa no fechamento do dia 9"
-   },
-   {
-    "valor": "165 mil",
-    "rotulo": "Vagas criadas no payroll de outubro dos EUA"
-   },
-   {
-    "valor": "4,1%",
-    "rotulo": "Taxa de desemprego nos EUA em outubro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Selic",
-    "antes": "reduzida em cinco encontros anteriores",
-    "depois": "13,75% mantida na última reunião"
-   }
-  ],
-  "destaque": "Selic mantida em",
-  "porQueImporta": "A manutenção da Selic em 13,75% indica uma pausa na política monetária, sinalizando que o Copom avalia a inflação e a economia de forma cautelosa. Para investidores, entender esse movimento ajuda a ajustar estratégias conforme a perspectiva dos juros futuros no Brasil.",
-  "impactoMercado": "A decisão do Copom e o dado de inflação dos EUA são fundamentais para os mercados financeiros, influenciando os preços das ações, renda fixa e câmbio. Setores sensíveis a juros no Brasil podem ter sua cotação afetada conforme as expectativas de política monetária se atualizam.",
-  "entenda": "A Selic é a taxa básica de juros usada pelo Banco Central para controlar a inflação e influenciar o crédito no país. O CPI (Consumer Price Index) é o indicador que mede a inflação nos EUA. Alterações nessas taxas indicam mudanças na economia global e local, afetando investimentos.",
-  "observar": "Acompanhar próximos dados de inflação no Brasil e EUA, além das reuniões futuras do Copom que podem retomar ajustes na Selic, importantes para entender as direções da política monetária.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Explicar a ata do Copom e os dados internacionais ajuda seguidores a entenderem política monetária, elementos cruciais para quem quer operar ou investir com mais segurança.",
-  "gancho": "*Selic* em pausa e CPI dos *EUA*",
-  "ideias": [
-   "O que a ata do Copom diz sobre juros em 2024?",
-   "Por que o CPI dos EUA é tão esperado pelo mercado?",
-   "Como a Selic influencia seu investimento no Brasil?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "Bora Investir (B3)",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://borainvestir.b3.com.br/noticias/mercado/mercados-hoje-ata-do-copom-e-inflacao-nos-eua-sao-destaques/",
-  "publicadoEm": "2026-11-10T09:32:55-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-10"
- },
- {
-  "titulo": "Embraer surpreende no 3T26 e amplia projeções de crescimento",
-  "resumo": "Embraer (EMBJ3) entregou resultados operacionais acima do esperado no 3T26, apesar do lucro líquido menor. A fabricante elevou projeções de receita e caixa, impulsionada por recorde de pedidos e crescimento em divisões-chave.",
-  "fatos": [
-   "Lucro líquido de US$ 75 milhões no 3T26, 55% abaixo da estimativa do Itaú BBA.",
-   "Prejuízo financeiro de US$ 157 milhões ligado à marcação a mercado de ações.",
-   "Carteira de pedidos firmes (backlog) chegou a US$ 35,7 bilhões, alta de 14% em 12 meses.",
-   "Margem operacional da aviação comercial foi 2,4%, abaixo dos 3,5% esperados.",
-   "Recomendações do Itaú BBA mantêm 'outperform' com preço-alvo de US$ 95 para 2027.",
-   "Ações EMBJ3 chegaram a subir +6,32% no dia, cotadas a R$ 113,12 por volta das 12h.",
-   "Previsão de entrega de 200 aeronaves executivas por ano em 2028.",
-   "Serviços e Suporte podem alcançar margens entre 17% e 18% até o final da década."
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, a Embraer apresentou resultados operacionais que superaram as expectativas dos analistas, principalmente nas áreas de jatos executivos, defesa e serviços, embora o lucro líquido tenha ficado 55% abaixo do previsto, devido a um ajuste contábil.",
-   "Esse impacto negativo no lucro está relacionado à marcação a mercado nos instrumentos financeiros, que atualiza seu valor conforme o mercado, mas não afeta o caixa imediato da empresa. Portanto, o desempenho operacional manteve-se sólido.",
-   "A empresa alcançou um recorde na carteira de pedidos firmes, totalizando US$ 35,7 bilhões, um crescimento de 14% em um ano, reforçando a expectativa de crescimento para os próximos anos, especialmente na aviação executiva e serviços.",
-   "Para o futuro, a Embraer aposta na expansão sustentável, com crescimento das entregas de aeronaves executivas, eficiência produtiva e melhoria de margens, mas mantém cautela para evitar investimentos que possam comprometer sua saúde financeira."
-  ],
-  "detalhes": [
-   "Os resultados referem-se ao terceiro trimestre de 2026 (3T26).",
-   "O prejuízo financeiro é contábil, ligado à atualização dos valores de ativos financeiros no mercado.",
-   "A margem da aviação comercial decepcionou, ficando abaixo da expectativa dos analistas.",
-   "O Itaú BBA avalia o trimestre como sólido e confirma recomendação positiva para as ADRs da Embraer.",
-   "Francisco Gomes Neto é o presidente da Embraer e comentou sobre a estratégia da empresa.",
-   "A fabricante está cautelosa com novos investimentos para preservar saúde financeira.",
-   "O cenário de preços altos de petróleo favorece a atratividade dos modelos E-Jets E2 por maior eficiência."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Francisco Gomes Neto, presidente da Embraer",
-    "oque": "A Embraer espera crescer sustentavelmente nos próximos 4 a 5 anos, apoiada pela carteira recorde de pedidos."
-   },
-   {
-    "quem": "Francisco Gomes Neto, presidente da Embraer",
-    "oque": "Não iremos realizar grandes projetos que comprometam a saúde financeira da empresa."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3T26",
-    "oque": "Embraer apresenta resultados operacionais acima das expectativas."
-   },
-   {
-    "quando": "2028",
-    "oque": "Previsão de entrega anual de 200 aeronaves executivas."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Backlog",
-    "significado": "Pedidos firmes pendentes de entrega, indicam receita futura."
-   },
-   {
-    "termo": "Marcação a mercado",
-    "significado": "Ajuste contábil que atualiza valor de ativos pelo preço atual de mercado."
-   },
-   {
-    "termo": "ADR",
-    "significado": "Certificado que representa ações brasileiras no exterior."
-   }
-  ],
-  "pergunta": "Você conhece o impacto da marcação a mercado no lucro das empresas?",
-  "tamanhoTexto": 5744,
-  "numeros": [
-   {
-    "valor": "75 milhões",
-    "rotulo": "Lucro líquido em dólares no 3T26"
-   },
-   {
-    "valor": "157 milhões",
-    "rotulo": "Prejuízo financeiro em dólares no 3T26"
-   },
-   {
-    "valor": "35,7 bilhões",
-    "rotulo": "Backlog em dólares da Embraer"
-   },
-   {
-    "valor": "14%",
-    "rotulo": "Crescimento do backlog em 12 meses"
-   },
-   {
-    "valor": "2,4%",
-    "rotulo": "Margem operacional da aviação comercial no 3T26"
-   },
-   {
-    "valor": "6,32%",
-    "rotulo": "Alta das ações EMBJ3 no pregão do dia"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 35,7 bilhões",
-  "porQueImporta": "Este resultado mostra como a Embraer continua firme mesmo frente a desafios financeiros contábeis, reforçando a segurança da empresa. Para quem investe, entender a diferença entre lucro operacional e lucro líquido contábil é essencial para interpretar tendências reais de crescimento.",
-  "impactoMercado": "A recomendação 'outperform' do Itaú BBA e o fortalecimento das divisões estratégicas podem impactar positivamente as ações EMBJ3 e seus ADRs, trazendo atenção para setores de aviação executiva e serviços, que oferecem potencial de valorização sem comprometer a saúde financeira.",
-  "entenda": "Backlog é o total de pedidos firmes feitos por clientes, um indicador importante para prever receita futura. Marcação a mercado é um ajuste contábil que atualiza valores conforme o preço de ativos no mercado, podendo impactar resultados sem mexer no caixa.",
-  "observar": "Fique atento aos próximos balanços trimestrais da Embraer e aos relatórios sobre a carteira de pedidos e margens, assim como eventuais anúncios sobre novos projetos e lançamentos de aeronaves.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia evidencia a importância de entender resultados além do lucro líquido e mostra como a estratégia e carteira de pedidos sustentam o crescimento da Embraer. Ideal para quem quer aprender análise de balanços e projeções no mercado.",
-  "gancho": "*Embraer* cresce com *backlog* recorde",
-  "ideias": [
-   "O que é backlog e por que importa para investidores?",
-   "Entenda a diferença entre lucro líquido e ajuste contábil",
-   "Por que a Embraer aposta na aviação executiva para crescer"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://www.moneytimes.com.br/embraer-embj3-supera-expectativas-e-eleva-projecoes-o-que-fazer-com-as-acoes/",
-  "publicadoEm": "2026-11-10T12:04:49-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-11"
- },
- {
-  "titulo": "Senado prevê iPhone 18 Pro em pregão para telefonia móvel",
-  "resumo": "Senado abre pregão para 95 linhas com iPhone 18 Pro, custando R$ 2,66 milhões em 48 meses. O edital não justifica recursos profissionais do aparelho, focado em fotografia, vídeo e jogos.",
-  "fatos": [
-   "Pregão Eletrônico 290/2026 aberto pelo Senado para telefonia.",
-   "95 linhas previstas com iPhone 18 Pro, modelo esperado para janeiro de 2027.",
-   "Custo estimado de R$ 6.045.048 para 48 meses no total.",
-   "95 linhas com iPhone custam R$ 582,74 por mês cada.",
-   "Valor total das linhas com iPhone: R$ 2,66 milhões em 48 meses.",
-   "Outras 330 linhas com celulares intermediários da Samsung e Motorola, R$ 139,29 por mês cada.",
-   "Edital justifica uso do iPhone pela compatibilidade com sistemas do Senado, sem detalhar quais.",
-   "iPhone 18 Pro tem câmera de 48 megapixels com abertura variável e GPU 40% mais rápida."
-  ],
-  "explicacao": [
-   "O Senado Federal abriu o Pregão Eletrônico 290/2026 para contratar serviços de telefonia móvel, incluindo 95 linhas que virão equipadas com o modelo mais recente do iPhone Pro, o iPhone 18 Pro. O contrato total está estimado em R$ 6.045.048 para vigência de 48 meses.",
-   "A justificativa oficial do Senado para a escolha do iPhone é a necessidade de manter compatibilidade com sistemas e padrões já adotados, conforme a Lei de Licitações 14.133/21. Entretanto, o edital não detalha quais sistemas requerem o aparelho nem por que escolheu a versão Pro, que traz novidades voltadas para fotografia profissional, vídeo e jogos.",
-   "Por sua vez, o iPhone 18 Pro oferece câmera principal de 48 megapixels com abertura variável e controles manuais, primeira vez da Apple nesse recurso, além de uma GPU 40% mais rápida que o modelo anterior. Esses recursos profissionais e de gaming não são citados como motivos no edital, que define o objeto como serviços de voz e dados.",
-   "O contrato prevê que os celulares sejam cedidos em comodato pela operadora durante o serviço, iniciando em 1º de fevereiro de 2027. Além das linhas com iPhone, outras 330 linhas terão celulares intermediários de Samsung e Motorola, com custo menor."
-  ],
-  "detalhes": [
-   "Os celulares serão cedidos em comodato pela operadora contratada ao Senado.",
-   "A sessão de abertura do pregão foi em 27 de outubro de 2026.",
-   "Edital usa iPhone 17 Pro como referência mas prevê entrega do iPhone 18 Pro.",
-   "Cada linha com iPhone inclui ligações ilimitadas e franquia de 100 GB de dados.",
-   "Contrato de telefonia cobre voz e dados, não destaca uso dos recursos profissionais do aparelho.",
-   "O iPhone 18 Pro oferece também acesso à versão beta da Siri AI com limites diários.",
-   "Início previsto dos serviços em 1º de fevereiro de 2027."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "27 de outubro de 2026",
-    "oque": "Sessão de abertura do Pregão Eletrônico 290/2026 pelo Senado"
-   },
-   {
-    "quando": "Janeiro de 2027",
-    "oque": "Previsão de entrega dos iPhones 18 Pro às linhas do Senado"
-   },
-   {
-    "quando": "1º de fevereiro de 2027",
-    "oque": "Início dos serviços de telefonia previstos no contrato"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Pregão Eletrônico",
-    "significado": "Licitação online para compra de bens ou serviços pelo governo."
-   },
-   {
-    "termo": "Comodato",
-    "significado": "Empréstimo gratuito de bens móveis, como celulares."
-   },
-   {
-    "termo": "GPU",
-    "significado": "Processador gráfico que melhora performance em jogos e vídeos."
-   }
-  ],
-  "pergunta": "Você acha justificável o Senado usar iPhone 18 Pro para linhas oficiais?",
-  "tamanhoTexto": 4627,
-  "numeros": [
-   {
-    "valor": "95",
-    "rotulo": "linhas com iPhone 18 Pro previstas"
-   },
-   {
-    "valor": "R$ 6.045.048",
-    "rotulo": "valor estimado do contrato em 48 meses"
-   },
-   {
-    "valor": "R$ 582,74",
-    "rotulo": "custo mensal por linha com iPhone 18 Pro"
-   },
-   {
-    "valor": "R$ 2,66 milhões",
-    "rotulo": "valor total das linhas com iPhone em 48 meses"
-   },
-   {
-    "valor": "330",
-    "rotulo": "linhas com celulares intermediários previstas"
-   },
-   {
-    "valor": "R$ 139,29",
-    "rotulo": "custo mensal por linha com celular intermediário"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "95 linhas com",
-  "porQueImporta": "Esse pregão mostra como contratos públicos podem optar por tecnologia de ponta, talvez sem justificativas transparentes. Para investidores, é sinal da crescente demanda e valorização de aparelhos avançados em segmentos empresariais e governamentais.",
-  "impactoMercado": "O uso do iPhone 18 Pro no setor público pode influenciar contratos futuros com operadoras e fabricantes, além de sinalizar para fornecedores sobre a demanda por dispositivos mais caros e com recursos avançados, impactando o mercado de telefonia móvel e serviços.",
-  "entenda": "Pregão eletrônico é uma modalidade de licitação para contratar serviços ou produtos com transparência. Comodato significa empréstimo de bens, no caso, celulares, para uso durante o contrato, sem transferência imediata de propriedade.",
-  "observar": "Acompanhe o início do contrato em fevereiro de 2027 e atualizações no pregão pelo portal do Senado para entender como os aparelhos serão distribuídos e usados.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia ajuda a entender decisões de tecnologia no setor público, ligando recursos avançados de smartphones ao mercado de telefonia e contratos, aproximando o investidor do funcionamento real do mercado.",
-  "gancho": "*iPhone 18 Pro* no Senado",
-  "ideias": [
-   "Por dentro do pregão eletrônico do Senado para telefonia móvel",
-   "Por que o Senado escolheu o iPhone 18 Pro para suas linhas?",
-   "O que diferencia o iPhone 18 Pro e por que importa para contratos públicos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://timesbrasil.com.br/brasil/politica/iphone-18-pro-previsto-em-pregao-do-senado-tem-camera-profissional-e-recursos-que-o-edital-nao-justifica/",
-  "publicadoEm": "2026-11-10T18:11:03-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-12"
- },
- {
-  "titulo": "Bank of America eleva recomendação para ações do Magalu com potencial de 88% de alta",
-  "resumo": "O Bank of America mudou recomendação do Magalu (MGLU3) para compra, com preço-alvo de R$ 11 e potencial de valorização de 88,4%, após recuperação das vendas em outubro.",
-  "fatos": [
-   "Bank of America elevou recomendação para compra no dia 10 de novembro.",
-   "Preço-alvo mantido em R$ 11, com potencial de alta de 88,4% sobre R$ 5,84.",
-   "Vendas em outubro: 16% crescimento nas lojas físicas e 14% no e-commerce próprio.",
-   "Entre janeiro e agosto, e-commerce próprio do Magalu teve retração de 12%.",
-   "Terceiro trimestre: receita líquida caiu 0,9% para R$ 8,94 bilhões.",
-   "Ebitda ajustado no 3º tri ficou estável em R$ 710 milhões.",
-   "Lucro líquido ajustado foi de R$ 14 milhões no 3º tri, superando expectativa de prejuízo.",
-   "Dívida líquida caiu quase 29% em 12 meses.",
-   "Caixa líquido ajustado reduziu R$ 630 milhões nos últimos 12 meses.",
-   "Estoques aumentaram R$ 440 milhões em preparação para Black Friday e Natal."
-  ],
-  "explicacao": [
-   "Na terça-feira (10), o Bank of America elevou sua recomendação para compra das ações do Magazine Luiza (MGLU3), apontando um potencial de valorização de 88,4% em relação ao fechamento de R$ 5,84 em 9 de novembro, mantendo o preço-alvo em R$ 11.",
-   "Essa decisão foi motivada pela recuperação nas vendas, que em outubro cresceram 16% nas lojas físicas e 14% no comércio eletrônico próprio, após um período de retração e desempenho fraco no terceiro trimestre.",
-   "Apesar do otimismo quanto à recuperação comercial e à desvalorização considerada excessiva das ações, os analistas alertam para desafios financeiros, como o consumo de caixa e o prejuízo registrado no resultado contábil recente.",
-   "Nos próximos meses, o mercado acompanhará se o avanço nas vendas se traduzirá em geração sólida de caixa para o Magalu, fator crucial para sustentar a melhoria operacional e financeira apontada pelo banco americano."
-  ],
-  "detalhes": [
-   "A recomendação foi alterada pelo Bank of America, um grande banco de Wall Street.",
-   "O aumento da recomendação ocorreu em meio a sinais iniciais de recuperação das vendas em outubro.",
-   "Apesar da melhora nas vendas, o caixa da empresa apresenta redução significativa.",
-   "O aumento dos estoques indica investimento para o período de vendas no fim do ano.",
-   "A recuperação nas vendas no 4º trimestre supera o ritmo observado no início do ano.",
-   "O Safra ressalta riscos relacionados ao consumo de caixa e necessidade de controle financeiro.",
-   "Parcerias com Mercado Livre e Shopee são vistas como oportunidades para ampliar vendas digitais."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Analistas Robert E. Ford Aguilar e Wellington Santana, Bank of",
-    "oque": "A melhora nas vendas e a queda exagerada do preço das ações aumentam o potencial do Magalu."
-   },
-   {
-    "quem": "Analistas do Safra",
-    "oque": "O consumo de caixa ainda é um desafio e exige atenção para a recuperação financeira."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Entre janeiro e agosto de 2023",
-    "oque": "Comércio eletrônico próprio do Magalu teve retração acumulada de 12%."
-   },
-   {
-    "quando": "Setembro de 2023",
-    "oque": "E-commerce cresceu 5%, e lojas físicas avançaram 12% nas vendas."
-   },
-   {
-    "quando": "Outubro de 2023",
-    "oque": "Vendas cresceram 14% no e-commerce e 16% nas lojas físicas."
-   },
-   {
-    "quando": "Terceiro trimestre de 2023",
-    "oque": "Receita líquida caiu 0,9%, Ebitda estável e lucro líquido ajustado foi positivo."
-   },
-   {
-    "quando": "10 de novembro de 2023",
-    "oque": "Bank of America elevou recomendação para compra das ações do Magalu."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ebitda ajustado",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização, ajustado para itens não recorrentes."
-   },
-   {
-    "termo": "Dívida líquida",
-    "significado": "Dívidas da empresa menos o dinheiro disponível em caixa."
-   },
-   {
-    "termo": "Preço-alvo",
-    "significado": "Estimativa do valor justo da ação feita por analistas."
-   }
-  ],
-  "pergunta": "Você acredita que a recuperação nas vendas manterá o ritmo para valorizar as ações do Magalu?",
-  "tamanhoTexto": 5347,
-  "numeros": [
-   {
-    "valor": "88,4%",
-    "rotulo": "Potencial de valorização das ações segundo Bank of America"
-   },
-   {
-    "valor": "R$ 11,00",
-    "rotulo": "Preço-alvo do Magalu definido pelo Bank of America"
-   },
-   {
-    "valor": "R$ 5,84",
-    "rotulo": "Cotação das ações do Magalu em 9 de novembro"
-   },
-   {
-    "valor": "16%",
-    "rotulo": "Crescimento das vendas nas lojas físicas em outubro"
-   },
-   {
-    "valor": "14%",
-    "rotulo": "Crescimento do comércio eletrônico próprio em outubro"
-   },
-   {
-    "valor": "-0,9%",
-    "rotulo": "Queda na receita líquida do Magalu no 3º trimestre"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "88,4% de potencial",
-  "porQueImporta": "Esta notícia mostra como a recuperação das vendas pode impactar a confiança dos analistas e influenciar as recomendações para ações do Magalu, importante para investidores acompanharem a dinâmica e riscos da empresa no varejo brasileiro.",
-  "impactoMercado": "Com a mudança para compra de grandes bancos, o Magalu ganha destaque para investidores e pode atrair maior foco no setor de varejo, especialmente em ações ligadas ao comércio eletrônico e lojas físicas, além de reforçar a atenção ao caixa e endividamento.",
-  "entenda": "Recomendações de compra são indicações feitas por analistas que consideram um ativo com potencial de valorização, com base em dados financeiros e operacionais da empresa, sem garantia de retorno. O preço-alvo indica o valor esperado para a ação no futuro.",
-  "observar": "Fique de olho nos resultados do 4º trimestre e nas atualizações sobre geração de caixa do Magalu. Eventos como Black Friday e Natal são decisivos para confirmar a recuperação comercial e financeira da varejista.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia mostra um caso real de como indicadores de vendas e análises financeiras influenciam recomendações de ações, ideal para quem quer entender como o mercado reage às informações operacionais e se preparar para investir com mais conhecimento.",
-  "gancho": "*Magalu* pode subir 88%?",
-  "ideias": [
-   "Por que o Bank of America mudou a recomendação do Magalu?",
-   "Como a recuperação das vendas impacta as ações do Magalu?",
-   "Desafios financeiros do Magalu mesmo com vendas crescendo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "seta",
-  "fonte": "Suno Notícias",
-  "impacto": "medio",
-  "ordem": 11,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://www.suno.com.br/noticias/magalu-mglu3-banco-alta/",
-  "publicadoEm": "2026-11-10T15:44:05-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-13"
- },
- {
-  "titulo": "Ouro cai com CPI nos EUA e aposta em alta de juros pelo Fed",
-  "resumo": "O ouro caiu 2,04% após CPI de outubro nos EUA superar expectativas e reforçar alta de juros pelo Fed. A valorização do dólar e a alta dos Treasuries também pressionaram o metal.",
-  "fatos": [
-   "Ouro para dezembro fechou em queda de 2,04%",
-   "Preço do ouro na Comex ficou em US$ 1.830,2 por onça-troy",
-   "Prata para dezembro caiu 2,79%, a US$ 51,225 por onça-troy",
-   "Índice CPI de outubro dos EUA subiu acima da projeção dos analistas",
-   "Núcleo do CPI também avançou além do esperado",
-   "Expectativa de alta de juros em dezembro pelo Fed está praticamente certa",
-   "Possibilidade de aumento de 50 pontos-base em dezembro ganha força",
-   "Ferramenta FedWatch do CME Group indica alta total para 25 pontos-base",
-   "Autoridade Monetária de Singapura lança serviço de custódia para ouro de bancos centrais",
-   "Distribuição da inflação indica menos categorias contribuindo abaixo da média histórica"
-  ],
-  "explicacao": [
-   "O preço do ouro caiu 2,04% na terça-feira, 10 de novembro, fechando a US$ 1.830,2 por onça-troy na Comex, após o índice de preços ao consumidor (CPI) de outubro dos EUA superar as previsões dos analistas.",
-   "O aumento da inflação reforçou a expectativa do mercado de que o Federal Reserve (Fed) elevará os juros em dezembro, possivelmente até 50 pontos-base, cenário que valorizou o dólar e os rendimentos dos títulos do Tesouro americano (Treasuries).",
-   "Essa valorização do dólar e o aumento dos juros tornam os investimentos em ouro menos atrativos, já que o metal não rende juros, causando a queda nos preços do ouro e prata.",
-   "Além disso, o mercado observa o lançamento, pela Autoridade Monetária de Singapura, de um serviço para custódia de ouro de bancos centrais estrangeiros, ampliando a capacidade de armazenamento do metal no setor oficial."
-  ],
-  "detalhes": [
-   "Ouro e prata recuaram em contratos com vencimento para dezembro na Comex, divisão da bolsa NYMEX",
-   "O CPI é o índice oficial que mede a inflação ao consumidor nos EUA e influenciou a expectativa sobre juros",
-   "Crescimento do núcleo da inflação indica pressão mais ampla sobre preços, segundo analistas do Bank of America",
-   "A alta do dólar é um fator negativo para o ouro, pois ele fica mais caro para detentores de outras moedas",
-   "Rendimentos maiores dos Treasuries prejudicam o apelo do ouro, que é um ativo sem retorno em juros",
-   "O Fed, banco central dos EUA, é responsável por definir a taxa básica de juros americana",
-   "O serviço de custódia em Singapura expande o armazenamento oficial do ouro, antes concentrado na Europa e América do Norte"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Analistas do Bank of America",
-    "oque": "A menos categorias abaixo da média indicam fim do impulso desinflacionário na inflação dos EUA"
-   },
-   {
-    "quem": "Christopher Waller, diretor do Fed",
-    "oque": "Mencionou a possibilidade de um aumento de 50 pontos-base nos juros em dezembro"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro de 2023",
-    "oque": "Ouro encerra com queda após CPI de outubro dos EUA surpreender mercado"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "CPI",
-    "significado": "Índice que mede a inflação ao consumidor nos EUA"
-   },
-   {
-    "termo": "Fed",
-    "significado": "Banco central dos Estados Unidos responsável pela política monetária"
-   },
-   {
-    "termo": "Treasuries",
-    "significado": "Títulos públicos emitidos pelo Tesouro dos EUA"
-   }
-  ],
-  "pergunta": "Como você acha que a alta dos juros afeta o preço do ouro no mercado?",
-  "tamanhoTexto": 3686,
-  "numeros": [
-   {
-    "valor": "2,04%",
-    "rotulo": "queda do ouro em 10 de novembro"
-   },
-   {
-    "valor": "US$ 1.830,2",
-    "rotulo": "preço do ouro por onça-troy na Comex em 10 de novembro"
-   },
-   {
-    "valor": "2,79%",
-    "rotulo": "queda da prata para dezembro em 10 de novembro"
-   },
-   {
-    "valor": "US$ 51,225",
-    "rotulo": "preço da prata por onça-troy na Comex em 10 de novembro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "2,04% de queda",
-  "porQueImporta": "A alta da inflação nos EUA e a expectativa de aumento na taxa de juros do Fed impactam diretamente o ouro, que é sensível a juros e dólar. Investidores e traders precisam entender essas relações para ajustar suas estratégias diante das variações do mercado de commodities e moedas.",
-  "impactoMercado": "A valorização do dólar e a subida dos rendimentos dos títulos americanos podem levar à pressão de queda em ativos como o ouro e prata. Essa dinâmica influencia setores ligados a commodities, investimentos internacionais e ativos sensíveis a juros, afetando portfólios diversificados.",
-  "entenda": "O índice CPI mede a inflação ao consumidor, um indicador chave para decisões do Fed sobre juros. Juros mais altos valorizam o dólar e encarecem ouro para investidores com outras moedas, reduzindo a demanda pelo metal que não oferece rendimento, e assim o preço cai.",
-  "observar": "Fique atento à reunião de dezembro do Fed e divulgação dos próximos dados de inflação nos EUA, que podem mudar as expectativas sobre política monetária e impacto no ouro.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Explicar o impacto da inflação e das decisões do Fed no mercado de ouro ajuda investidores e traders a compreenderem variações e estratégias, mostrando como notícias econômicas influenciam ativos e destacando a importância da análise de dados econômicos.",
-  "gancho": "*ouro* e *Fed*: queda após CPI EUA",
-  "ideias": [
-   "Por que o ouro caiu após o CPI dos EUA? Entenda",
-   "Inflação nos EUA e o que isso significa para o ouro",
-   "Fed deve subir juros? Veja o impacto no ouro e no dólar"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "moeda",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 12,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "url": "https://www.moneytimes.com.br/ouro-fecha-em-queda-apos-cpi-nos-eua-reforcar-posicao-mais-dura-do-fed-davs/",
-  "publicadoEm": "2026-11-10T17:04:45-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-14"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "What price will Bitcoin hit in November?",
-  "resumo": "Apostadores veem 79,5% de chance do Bitcoin cair para abaixo de 62.500 até dezembro de 2026.",
-  "probs": [
-   {
-    "opcao": "↓ 62,500",
-    "prob": 79.5
-   },
-   {
-    "opcao": "↑ 65,000",
-    "prob": 78.5
-   },
-   {
-    "opcao": "↓ 60,000",
-    "prob": 49.5
-   },
-   {
-    "opcao": "↑ 67,500",
-    "prob": 48.5
-   }
-  ],
-  "prazo": "2026-12-01",
-  "volume24h": "US$ 346 mil",
-  "fatos": [
-   "↓ 62,500: 79,5%",
-   "↑ 65,000: 78,5%",
-   "↓ 60,000: 49,5%",
-   "↑ 67,500: 48,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "79,5%",
-    "rotulo": "↓ 62,500"
-   },
-   {
-    "valor": "78,5%",
-    "rotulo": "↑ 65,000"
-   },
-   {
-    "valor": "49,5%",
-    "rotulo": "↓ 60,000"
-   },
-   {
-    "valor": "48,5%",
-    "rotulo": "↑ 67,500"
-   }
-  ],
-  "destaque": "79,5%",
-  "gancho": "*Alta expectativa* para o Bitcoin",
-  "entenda": "As flutuações no preço do Bitcoin refletem a demanda e o sentimento do mercado de criptomoedas.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-november-2026",
-  "publicadoEm": "2026-11-10T18:25:57-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-10T18:25:57-03:00",
-  "data": "2026-11-10",
-  "status": "atualizada",
-  "id": "2026-11-10-p4",
-  "atualizadoEm": "2026-11-17T15:46:19-03:00"
- },
- {
-  "titulo": "Dólar salta a R$ 5,60 após inflação dos EUA acima do esperado",
-  "resumo": "Dólar subiu quase 2%, chegando a R$ 5,607 na venda, após CPI dos EUA crescer 0,4% em outubro, superando expectativa de 0,3%. Também pesou a ata do Copom sobre choques de oferta e inflação no Brasil.",
-  "fatos": [
-   "Dólar à vista subiu 1,85% às 12h57, cotado a R$ 5,607 na venda.",
-   "O índice CPI dos EUA avançou 0,4% em outubro, acima dos 0,3% previstos.",
-   "Na comparação anual, a alta esperada era de 3,9%, mas dados completos não foram divulgados.",
-   "A ata do Copom citou choques de oferta e pressões de demanda como fatores que elevam inflação.",
-   "Banco Central vê expectativas de inflação mais altas e crescimento econômico menor.",
-   "Presidente do BC, Gabriel Galípolo, falou em evento da Abracam, em São Paulo, às 14h30 do dia 10.",
-   "Mercado espera aumento de 25 pontos-base na taxa de juros dos EUA em dezembro.",
-   "Ibovespa recuou 0,57% no mesmo dia, refletindo cautela com cenário econômico.",
-   "Rendimento dos títulos do Tesouro americano a 10 anos subiu para 5,002%.",
-   "Ata do Copom mencionou guerra no Oriente Médio, El Niño, fim da escala 6x1 e disparada do dólar como choques."
-  ],
-  "explicacao": [
-   "Nesta terça-feira, 10 de novembro, o dólar chegou a R$ 5,607 na venda, alta de cerca de 1,85%, impulsionado pelos dados de inflação dos Estados Unidos e pela ata do Copom brasileiras. O CPI americano registrou alta mensal de 0,4%, acima dos 0,3% aguardados pelo mercado.",
-   "A inflação mais alta nos EUA indica pressões de preços persistentes, levando o mercado a esperar aumento da taxa de juros pelo Fed na próxima reunião em dezembro. Por outro lado, a ata do Copom apontou que choques de oferta aliado a pressões de demanda elevaram a inflação no Brasil, com expectativas de crescimento econômico mais fracas.",
-   "Isso cria um cenário de cautela para investidores que operam no câmbio e na renda fixa, pois juros altos e inflação elevada geram incertezas na economia e influenciam o valor do dólar frente ao real. Também reflete as preocupações com a política doméstica brasileira e a conjuntura global.",
-   "Nos próximos dias, os agentes seguirão atentos à inflação americana, à fala do presidente do Banco Central Gabriel Galípolo, e aos desdobramentos da política econômica brasileira para avaliar possíveis impactos no câmbio e nos juros futuros."
-  ],
-  "detalhes": [
-   "Dólar disparou no mercado à vista no horário próximo de meio-dia no Brasil em 10/11.",
-   "Inflação americana acima do esperado foi calculada pelo CPI do Departamento do Trabalho dos EUA.",
-   "Copom divulgou a ata no mesmo dia, confirmando pressão inflacionária e expectativa de juros estáveis em 13,75%.",
-   "Choques de oferta citados pelo BC incluem efeitos climáticos e tensões políticas domésticas brasileiras.",
-   "Mercado projeta alta da Selic estável e sem cortes antecipados, de acordo com economistas consultados.",
-   "A conjuntura internacional, com guerra no Oriente Médio e o mercado global de petróleo, impacta o cenário cambial.",
-   "Futuros de juros exibiram alta no dia, indicando precificação de manutenção de juros ainda elevados."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Leandro Padulla, economista do ASA",
-    "oque": "Ata do Copom manteve tom hawkish e reforçou cenário de Selic estável em 13,75% por longo período."
-   },
-   {
-    "quem": "Vitor Kayo, economista sênior da Nomad",
-    "oque": "Ata indicou choques que pioram inflação, mas também apontou desaceleração econômica limitando impacto."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro",
-    "oque": "CPI dos EUA divulgou alta de 0,4% em outubro, acima do esperado."
-   },
-   {
-    "quando": "10 de novembro",
-    "oque": "Ata do Copom foi publicada e repercutiu no mercado cambial e de juros brasileiro."
-   },
-   {
-    "quando": "10 de novembro, 14h30",
-    "oque": "Presidente do BC, Gabriel Galípolo, palestra em evento da Abracam em SP."
-   },
-   {
-    "quando": "Próximos dias",
-    "oque": "Mercados acompanham reunião do Fed em dezembro, com expectativa de aumento de juros."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "CPI",
-    "significado": "Índice que mede a inflação sobre produtos e serviços ao consumidor."
-   },
-   {
-    "termo": "Copom",
-    "significado": "Comitê do Banco Central que define a taxa básica Selic."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira."
-   }
-  ],
-  "pergunta": "Como você acha que a alta do dólar afeta seu bolso no dia a dia?",
-  "tamanhoTexto": 15348,
-  "numeros": [
-   {
-    "valor": "1,85%",
-    "rotulo": "alta do dólar em 10/11 nas primeiras horas"
-   },
-   {
-    "valor": "R$ 5,607",
-    "rotulo": "cotação do dólar à vista na venda em 10/11"
-   },
-   {
-    "valor": "0,4%",
-    "rotulo": "alta do CPI americano em outubro"
-   },
-   {
-    "valor": "0,3%",
-    "rotulo": "projeção do mercado para a inflação mensal dos EUA"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa básica Selic mantida no Brasil pelo Copom"
-   },
-   {
-    "valor": "5,002%",
-    "rotulo": "rendimento dos títulos americanos de 10 anos"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Dólar a R$",
-  "porQueImporta": "A alta do dólar e a inflação americana acima do esperado impactam diretamente os custos de importação, juros futuros e o desempenho do mercado financeiro brasileiro, influenciando decisões de investidores e operadores diante de pressões inflacionárias globais e domésticas.",
-  "impactoMercado": "A valorização do dólar reflete maior aversão ao risco e expectativa de juros mais altos nos EUA, o que pode pressionar ainda mais os juros no Brasil e afetar setores exportadores e importadores, além de provocar volatilidade no mercado de câmbio e renda fixa.",
-  "entenda": "O CPI (Índice de Preços ao Consumidor) mede a variação dos preços no varejo e é usado para avaliar a inflação. Quando o CPI supera a expectativa, indica pressões inflacionárias, levando bancos centrais a aumentarem juros para conter a alta de preços. O Copom é o comitê do Banco Central do Brasil que decide a Selic, a taxa básica de juros.",
-  "observar": "Fique atento aos próximos dados de inflação dos EUA e à reunião do Fed em dezembro para entender impactos futuros. No Brasil, acompanhe declarações e decisões do Banco Central sobre juros e cenários econômicos.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos o impacto da inflação americana e da ata do Copom na alta do dólar para ajudar quem quer entender o mercado financeiro e operar com mais conhecimento.",
-  "gancho": "*Dólar* dispara e inflação *EUA* surpreende",
-  "ideias": [
-   "Entenda por que o dólar subiu para R$ 5,60",
-   "Influência da inflação americana na cotação do dólar",
-   "Ata do Copom: o que diz sobre inflação e juros no Brasil"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "BP Money; Folha Mercado; Folha Mercado",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T14:18:46-03:00",
-  "url": "https://bpmoney.com.br/mercado/cambio/dolar-sobe-r-5-60-inflacao-eua-acima-esperado/",
-  "publicadoEm": "2026-11-10T13:45:48-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-03"
- },
- {
-  "titulo": "Petróleo Brent cai abaixo de US$ 90 pela primeira vez desde agosto",
-  "resumo": "O barril de petróleo Brent recuou para US$ 89,66 em 10/11/2026, impactado pela redução das tensões no Oriente Médio e recuperação do transporte, aliviando temores sobre o fornecimento global.",
-  "fatos": [
-   "O petróleo Brent chegou a US$ 89,66 (R$ 494,44) em 10/11/2026 pela manhã.",
-   "O preço do Brent voltou a ficar pouco acima de US$ 90 (R$ 496,31) posteriormente no mesmo dia.",
-   "O petróleo WTI recuou 2,08%, para US$ 85,04 (R$ 468,96) em 10/11/2026.",
-   "Donald Trump indicou menor disposição para novos ataques contra o Irã após reunião com o primeiro-ministro do Catar.",
-   "Os fluxos de petróleo no Golfo estão próximos dos níveis anteriores à guerra graças a rotas alternativas ao Estreito de Ormuz.",
-   "A produção da Opep aumentou em outubro de 2026.",
-   "A queda dos preços acontece após tensões menores no Oriente Médio e expectativas de maior oferta.",
-   "Ainda não há sinais concretos de acordo de paz, mas o risco de escalada militar diminuiu."
-  ],
-  "explicacao": [
-   "Nesta terça-feira, 10 de novembro de 2026, o preço do barril de petróleo Brent, referência internacional, caiu para US$ 89,66 pela manhã, uma marca abaixo de US$ 90 que não acontecia desde agosto do mesmo ano. O preço voltou a ficar pouco acima de US$ 90 ao longo do dia.",
-   "Essa queda foi motivada pela expectativa de redução das tensões no Oriente Médio. O presidente Donald Trump indicou menor disposição para novos ataques contra o Irã após reunião com o primeiro-ministro do Catar, o que aliviou o receio do mercado sobre possíveis problemas no fornecimento global de petróleo.",
-   "Além disso, a recuperação do transporte de petróleo na região do Golfo, próximo aos níveis pré-guerra graças a rotas alternativas ao Estreito de Ormuz, também ajudou a pressionar os preços para baixo. Isso indica menor risco de interrupção do fluxo de petróleo no mercado.",
-   "Mesmo com a queda de preços, não há confirmação de acordo de paz e a situação na região ainda é incerta. A oferta global mostra sinais de excesso e a Opep aumentou produção em outubro, sinais que podem continuar influenciando os preços no curto prazo."
-  ],
-  "detalhes": [
-   "Data da queda abaixo de US$ 90: 10 de novembro de 2026.",
-   "Preço mínimo registrado: US$ 89,66 pelo barril de Brent.",
-   "Local: mercado internacional, referência Brent e WTI dos EUA.",
-   "Causa: menor tensão no Oriente Médio após conversa entre Trump e o primeiro-ministro do Catar.",
-   "Impacto da recuperação do transporte no Golfo próximo aos níveis pré-guerra com rotas alternativas ao Estreito de Ormuz.",
-   "Opep aumentou produção em outubro, indicando maior oferta.",
-   "Situação política permanece incerta, sem confirmação de acordo de paz."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "Indicação de menor vontade de lançar novos ataques contra o Irã após reunião com Catar."
-   },
-   {
-    "quem": "Arne Lohmann Rasmussen, analista da Global Risk Management",
-    "oque": "Risco de nova escalada militar diminuiu, mas pouco sinal concreto de paz."
-   },
-   {
-    "quem": "Analistas do ING",
-    "oque": "Fluxos de petróleo no Golfo se recuperam próximos aos níveis pré-guerra graças a rotas alternativas."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Produção da Opep aumentou."
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Petróleo Brent caiu abaixo de US$ 90 pela primeira vez desde agosto."
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Trump se reuniu com primeiro-ministro do Catar e indicou menor disposição para ataques."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Brent",
-    "significado": "Referência internacional de preço do petróleo cru leve produzido no Mar do Norte."
-   },
-   {
-    "termo": "WTI",
-    "significado": "West Texas Intermediate, referência do petróleo nos Estados Unidos."
-   },
-   {
-    "termo": "Opep",
-    "significado": "Organização dos Países Exportadores de Petróleo, que coordena a produção."
-   }
-  ],
-  "pergunta": "Você acompanha como eventos geopolíticos afetam o preço do petróleo?",
-  "tamanhoTexto": 11726,
-  "numeros": [
-   {
-    "valor": "89,66",
-    "rotulo": "US$ preço mínimo do barril Brent em 10/11/2026"
-   },
-   {
-    "valor": "90",
-    "rotulo": "US$ valor de referência do barril Brent que foi ultrapassado para baixo"
-   },
-   {
-    "valor": "85,04",
-    "rotulo": "US$ preço do barril WTI em 10/11/2026"
-   },
-   {
-    "valor": "2,08%",
-    "rotulo": "Queda percentual do petróleo WTI em 10/11/2026"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic mencionada no mercado brasileiro (contexto geral)"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 89,66",
-  "porQueImporta": "A queda do petróleo abaixo de US$ 90 indica redução do risco geopolítico, essencial para custos globais de transporte e produção. Isso impacta setores ligados ao combustível e a inflação, além de afetar a receita de empresas produtoras brasileiras.",
-  "impactoMercado": "Com menor pressão dos riscos no Oriente Médio, preços do petróleo diminuem, influenciando ações de empresas do setor petróleo e gás, commodities e inflação. Investidores podem acompanhar variações no dólar e juros ligados ao cenário econômico global.",
-  "entenda": "O petróleo Brent é uma referência global para precificação do petróleo, usado como base para contratos. Mudanças nos seus preços revelam expectativas sobre oferta, demanda e riscos, especialmente em regiões produtoras como o Oriente Médio.",
-  "observar": "Fique atento a possíveis mudanças nas tensões no Oriente Médio, produção da Opep nas próximas reuniões e indicadores econômicos globais que influenciam a demanda por petróleo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Essa notícia ajuda a entender como tensões internacionais e fluxo de oferta impactam o preço do petróleo, importante ativo ligado a vários setores. É conteúdo essencial para quem quer operar ou investir com mais conhecimento.",
-  "gancho": "*Petróleo* cai e tensão cai",
-  "ideias": [
-   "O que faz o preço do petróleo subir ou cair?",
-   "Como a geopolítica mexe no mercado de petróleo?",
-   "Impacto da queda do petróleo para a economia e investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "globo",
-  "fonte": "G1 Economia; Folha Mercado; Money Times",
-  "impacto": "medio",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T14:18:46-03:00",
-  "url": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml",
-  "publicadoEm": "2026-11-10T12:46:41-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-04"
- },
- {
-  "titulo": "Bradesco revisa inflação para 5,3% em 2027 e vê juros em queda",
-  "resumo": "Bradesco elevou projeção da inflação para 5,3% em 2027, ante 4,1% anterior, e espera corte da Selic para 12,75%. Banco destaca incertezas sobre impacto da reforma tributária e fim da escala 6x1.",
-  "fatos": [
-   "Inflação projetada para 2027 aumentou de 4,1% para 5,3%.",
-   "Selic prevista em 12,75% no final de 2027, acima dos 11% da projeção anterior.",
-   "Projeção para 2026 da Selic subiu de 13,25% para 13,75%.",
-   "Dólar estimado em R$ 5,50 para 2026 e 2027, acima de R$ 5 e R$ 5,20 anteriormente.",
-   "Corte de 4 vezes de 0,25 ponto na Selic esperado no 2º semestre de 2027.",
-   "Impactos estimados: fim da escala 6x1 acrescenta 0,3 ponto no IPCA 2027.",
-   "Efeito do câmbio a R$ 5,50 soma 0,35 ponto ao IPCA.",
-   "Reoneração dos combustíveis adiciona 0,25 ponto ao IPCA.",
-   "Reforma tributária adiciona 0,3 ponto ao IPCA de 2027.",
-   "PIB de 2027 revisado de 1% para 0,4%."
-  ],
-  "explicacao": [
-   "O Bradesco atualizou sua projeção para a inflação de 2027, aumentando o índice esperado de 4,1% para 5,3%. A expectativa foi apresentada em 10 de outubro por Fernando Honorato Barbosa, economista-chefe do banco, durante coletiva com jornalistas.",
-   "Essa subida na inflação está ligada a choques como o fim da escala 6x1, reforma tributária e possíveis aumentos nos combustíveis. O banco incorporou parcialmente esses impactos, mas reconhece que é difícil prever seus efeitos exatos nos preços.",
-   "Apesar da alta projeção inflacionária, o Bradesco prevê quatro cortes de 0,25 ponto na taxa Selic no segundo semestre de 2027, terminando o ano em 12,75%, além de revisar o câmbio para R$ 5,50 em 2026 e 2027, valorizando o real frente ao cenário anterior.",
-   "O banco também reduziu a perspectiva de crescimento do PIB para 0,4% em 2027, ante 1% antes, atribuindo o recuo principalmente ao impacto dos choques inflacionários sobre o consumo. O cenário ainda depende do cumprimento da meta fiscal e da estabilidade do dólar global."
-  ],
-  "detalhes": [
-   "Dados divulgados em 10 de outubro de 2026 por Fernando Honorato Barbosa, economista-chefe do Bradesco.",
-   "Projeções levam em conta efeitos parciais do fim da escala 6x1 e da reforma tributária, consideradas inéditas.",
-   "Projeção do Brent para 2027 está em US$ 75 por barril, abaixo do preço atual de US$ 90.",
-   "Impacto do petróleo pode levar o governo a retirar subvenção em combustível se preço alcançar US$ 100.",
-   "Real está considerado barato em relação à média histórica, apesar de estabilização do câmbio prevista.",
-   "A pesquisa interna revelou que 75% das empresas ainda não sabem os impactos da reforma tributária.",
-   "Choques inflacionários devem reduzir o crescimento do consumo de bens em 1 a 1,5 ponto percentual."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Fernando Honorato Barbosa, economista-chefe do Bradesco",
-    "oque": "A barra para alta de juros está alta; mesmo com choques, o BC pode cortar juros."
-   },
-   {
-    "quem": "Fernando Honorato Barbosa",
-    "oque": "É difícil prever quanto a reforma tributária ou o fim da escala 6x1 vão impactar a inflação."
-   },
-   {
-    "quem": "Myriã Bast, superintendente de Pesquisa Econômica do Bradesco",
-    "oque": "Choques geram aumento de custos, incertezas e perda de poder de compra para famílias."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10/10/2026",
-    "oque": "Bradesco apresenta nova projeção econômica para inflação e juros."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia usada para controlar inflação."
-   },
-   {
-    "termo": "IPCA",
-    "significado": "Índice oficial que mede a inflação ao consumidor no Brasil."
-   },
-   {
-    "termo": "Escala 6x1",
-    "significado": "Modelo de jornada de trabalho com seis dias seguidos e um de descanso."
-   }
-  ],
-  "pergunta": "Como você acha que a alta da inflação impacta seu dia a dia?",
-  "tamanhoTexto": 3687,
-  "numeros": [
-   {
-    "valor": "5,3%",
-    "rotulo": "Inflação projetada para 2027 pelo Bradesco"
-   },
-   {
-    "valor": "12,75%",
-    "rotulo": "Taxa Selic projetada para o final de 2027"
-   },
-   {
-    "valor": "0,25 ponto percentual",
-    "rotulo": "Cada corte esperado na taxa Selic no 2º semestre de 2027"
-   },
-   {
-    "valor": "R$ 5,50",
-    "rotulo": "Projeção do dólar para o fim de 2026 e 2027"
-   },
-   {
-    "valor": "0,3 ponto",
-    "rotulo": "Impacto estimado do fim da escala 6x1 no IPCA 2027"
-   },
-   {
-    "valor": "0,35 ponto",
-    "rotulo": "Impacto do câmbio a R$ 5,50 no IPCA 2027"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Inflação para 2027",
-    "antes": "4,1%",
-    "depois": "5,3%"
-   },
-   {
-    "item": "Selic no final de 2027",
-    "antes": "11%",
-    "depois": "12,75%"
-   },
-   {
-    "item": "Projeção do dólar para 2026",
-    "antes": "R$ 5,00",
-    "depois": "R$ 5,50"
-   },
-   {
-    "item": "PIB para 2027",
-    "antes": "1%",
-    "depois": "0,4%"
-   }
-  ],
-  "destaque": "Inflação de 5,3%",
-  "porQueImporta": "A revisão para cima da inflação reflete novos choques econômicos, incluindo reformas e políticas públicas inéditas que impactam os preços. Para quem opera ou investe, entender esses movimentos é essencial para avaliar cenários de juros e dólar, que afetam custo de capital e rentabilidade.",
-  "impactoMercado": "Com a Selic projetada mais alta, mas com possível queda no segundo semestre de 2027, setores sensíveis a juros, câmbio e inflação podem apresentar volatilidade. A instabilidade nas estimativas dos impactos de reformas e câmbio reforça a necessidade de acompanhar decisões do Banco Central e dados econômicos.",
-  "entenda": "A Selic é a taxa básica de juros que influencia o custo do crédito e investimentos. Inflação mede o aumento médio dos preços. Reformas tributárias e mudanças trabalhistas podem afetar os custos e preços na economia, impactando inflação e decisões de política monetária.",
-  "observar": "Fique atento às próximas divulgações do Banco Central sobre a Selic, aos dados de inflação mensal e à evolução da reforma tributária para entender futuros impactos no mercado e na economia.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia explica como choques econômicos e políticas públicas alteram projeções essenciais para decisões financeiras, mostrando a importância de aprender a interpretar indicadores para operar com mais segurança.",
-  "gancho": "*Inflação*, juros e reforma 2027",
-  "ideias": [
-   "O que muda na inflação com a reforma tributária?",
-   "Por que a Selic pode cair mesmo com inflação alta?",
-   "Impacto do câmbio e petróleo nas projeções econômicas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "seta",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T14:18:46-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bradesco-ve-juros-em-queda-e-inflacao-mais-alta-em-2027-mas-destaca-incerteza-do-cenario.shtml",
-  "publicadoEm": "2026-11-10T13:58:00-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-05"
- },
- {
-  "tipo": "sinal",
-  "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 62.5% de chance de aumento de 25 bps no Fed em janeiro.",
-  "resumo": "Apostadores antecipam continuidade do aumento das taxas no início de 2027.",
-  "probs": [
-   {
-    "opcao": "aumento de 25 bps",
-    "prob": 62.5
-   },
-   {
-    "opcao": "sem mudança",
-    "prob": 35.5
-   },
-   {
-    "opcao": "redução de 25 bps",
-    "prob": 1.1
-   },
-   {
-    "opcao": "aumento de 50+ bps",
-    "prob": 0.9
-   }
-  ],
-  "prazo": "2027-01-28",
-  "volume24h": "US$ 333 mil",
-  "fatos": [
-   "aumento de 25 bps: 62,5%",
-   "sem mudança: 35,5%",
-   "redução de 25 bps: 1,1%",
-   "aumento de 50+ bps: 0,9%"
-  ],
-  "numeros": [
-   {
-    "valor": "62,5%",
-    "rotulo": "aumento de 25 bps"
-   },
-   {
-    "valor": "35,5%",
-    "rotulo": "sem mudança"
-   },
-   {
-    "valor": "1,1%",
-    "rotulo": "redução de 25 bps"
-   },
-   {
-    "valor": "0,9%",
-    "rotulo": "aumento de 50+ bps"
-   }
-  ],
-  "destaque": "62,5%",
-  "gancho": "*Apostas* equilibradas* para janeiro",
-  "entenda": "Decisões sobre as taxas de juros influenciam a economia geral, afetando empréstimos e investimentos.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
-  "publicadoEm": "2026-11-10T14:18:46-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-10T14:18:46-03:00",
-  "data": "2026-11-10",
-  "status": "atualizada",
-  "id": "2026-11-10-p1",
-  "atualizadoEm": "2026-11-16T16:52:59-03:00"
- },
- {
-  "tipo": "sinal",
-  "slug": "another-fed-rate-hike-in-2026",
-  "titulo": "Mercado de previsões vê 95.2% de chance de mais um aumento de juros pelo Fed em 2026",
-  "resumo": "Apostas indicam forte expectativa de que o Fed aumente as taxas de juros mais uma vez em 2026.",
-  "probs": [
-   {
-    "opcao": "Sim",
-    "prob": 95.2
-   },
-   {
-    "opcao": "Não",
-    "prob": 4.9
-   }
-  ],
-  "prazo": "2026-12-10",
-  "volume24h": "US$ 241 mil",
-  "fatos": [
-   "Sim: 95,2%",
-   "Não: 4,9%"
-  ],
-  "numeros": [
-   {
-    "valor": "95,2%",
-    "rotulo": "Sim"
-   },
-   {
-    "valor": "4,9%",
-    "rotulo": "Não"
-   }
-  ],
-  "destaque": "95,2%",
-  "gancho": "*Certeza* sobre aumento de juros*",
-  "entenda": "Os aumentos de juros pelo Fed visam controlar a inflação e estabilizar a economia, impactando o mercado financeiro.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-  "publicadoEm": "2026-11-10T14:18:46-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-10T14:18:46-03:00",
-  "data": "2026-11-10",
-  "status": "nova",
-  "id": "2026-11-10-p3"
- },
- {
-  "titulo": "Mercado reage mal após discurso fiscal de Lula e incertezas econômicas",
-  "resumo": "Após reeleição, Lula admitiu preocupação com dívida pública e altos juros em discurso. Mercado reagiu com queda da bolsa, alta do dólar e aumento da curva de juros devido à incerteza fiscal.",
-  "fatos": [
-   "Discurso de Lula ocorreu em 8 de outubro, após reeleição presidencial.",
-   "O quarto mandato presidencial começa em 5 de janeiro de 2027.",
-   "Mercado reagiu com queda da bolsa e alta do dólar no dia seguinte ao resultado das eleições.",
-   "Curva de juros futuros embicou para cima após a vitória de Lula.",
-   "Principal foco da instabilidade é a incerteza sobre a dívida pública brasileira.",
-   "Lula ressaltou necessidade de equilibrar responsabilidade fiscal com investimentos públicos.",
-   "Especialista Eduardo Giannetti participou de debate sobre os desafios do novo governo.",
-   "Analistas esperam definição de políticas fiscais nos próximos três meses.",
-   "Em 2027, mercado projeta taxa Selic de até 13,75% ao ano, segundo economistas.",
-   "Segundo dados, pobreza no Brasil caiu de 27,3% para 23,1% entre 2023 e 2024."
-  ],
-  "explicacao": [
-   "Na noite de 8 de outubro, Luiz Inácio Lula da Silva fez seu primeiro pronunciamento oficial como presidente reeleito, sinalizando intenção de equilibrar responsabilidade fiscal e investimento público. No dia seguinte, o mercado reagiu negativamente: a bolsa caiu, o dólar subiu e os juros futuros aumentaram.",
-   "A instabilidade no mercado foi atribuída à incerteza sobre a trajetória da dívida pública e os futuros rumos da política econômica do governo Lula no próximo mandato, que terá início em 5 de janeiro de 2027.",
-   "Especialistas destacam que Lula demonstra preocupação com a questão fiscal e os juros brasileiros elevados, indicando buscar um equilíbrio entre ajuste fiscal e estímulo ao investimento. O mercado aguarda definições que possam trazer maior previsibilidade ao ambiente econômico.",
-   "No contexto político-econômico, o governo Lula tenta conciliar características de uma ‘esquerda capitalista’, mantendo o setor privado como motor da economia. A expectativa é que medidas para enfrentar desafios de curto prazo se concretizem nos próximos meses, com possível estabilização do mercado."
-  ],
-  "detalhes": [
-   "Pronunciamento oficial do presidente reeleito aconteceu na noite de domingo, 8 de outubro.",
-   "Quarto mandato de Lula terá início somente em janeiro de 2027, período de expectativa e transição.",
-   "Reação do mercado financeiro ocorreu no dia seguinte à confirmação oficial da vitória presidencial.",
-   "Eduardo Giannetti, economista e filósofo, debate medidas de curto prazo e projetos de investimento verde.",
-   "Mercado projeta manutenção de juros elevados para controlar inflação e estabilizar economia.",
-   "O modelo econômico de Lula combina políticas sociais com uma economia de mercado aberta.",
-   "Bolsa caiu e dólar subiu como reflexo imediato das dúvidas sobre política fiscal futura."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Luiz Inácio Lula da Silva, presidente reeleito",
-    "oque": "Reconhece preocupação com dívida pública e juros, promete equilíbrio fiscal e investimento."
-   },
-   {
-    "quem": "Eduardo Giannetti, economista e filósofo",
-    "oque": "Avalia que reação do mercado é excessiva e espera ações em até três meses."
-   },
-   {
-    "quem": "Lucio Esposito, professor de Economia",
-    "oque": "Diz que modelo Lula combina políticas sociais com economia de mercado e mantém setor privado ativo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "8 de outubro",
-    "oque": "Lula faz primeiro discurso oficial após reeleição presidencial."
-   },
-   {
-    "quando": "9 de outubro",
-    "oque": "Mercado reage com queda da bolsa, alta do dólar e subida da curva de juros."
-   },
-   {
-    "quando": "5 de janeiro de 2027",
-    "oque": "Início do quarto mandato presidencial de Lula."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dívida pública",
-    "significado": "Total que o governo deve a credores internos e externos."
-   },
-   {
-    "termo": "Curva de juros",
-    "significado": "Gráfico que mostra as taxas de juros para diferentes prazos de títulos públicos."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira, definida pelo Banco Central."
-   }
-  ],
-  "pergunta": "Como você vê o impacto da política fiscal de Lula nos seus investimentos?",
-  "tamanhoTexto": 11426,
-  "numeros": [
-   {
-    "valor": "13,75%",
-    "rotulo": "Selic projetada para todo o ano de 2027"
-   },
-   {
-    "valor": "27,3% para 23,1%",
-    "rotulo": "Redução da população em situação de pobreza entre 2023 e 2024"
-   },
-   {
-    "valor": "52",
-    "rotulo": "Número de bilionários no Brasil em 2025"
-   },
-   {
-    "valor": "US$ 228 bilhões",
-    "rotulo": "Riqueza combinada dos bilionários brasileiros em 2025"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Mercado reage com",
-  "porQueImporta": "A sinalização fiscal do presidente reeleito afeta diretamente as expectativas dos investidores e traders quanto à estabilidade econômica brasileira. A definição clara das políticas fiscais e de juros é crucial para a segurança dos investimentos, o que impacta o custo do crédito, o câmbio e os ativos negociados na bolsa.",
-  "impactoMercado": "A incerteza sobre a dívida pública e política econômica eleva a volatilidade dos ativos financeiros e pressiona juros futuros para cima. Setores sensíveis ao custo do dinheiro, como commodities e bancos, podem ter maior oscilação. Investidores acompanham discursos e medidas para ajustar posições conforme as decisões do novo governo.",
-  "entenda": "A curva de juros indica a expectativa do mercado sobre as taxas no futuro, influenciando o custo de financiamentos e investimentos. A Selic é a taxa básica de juros, ferramenta principal do Banco Central para controlar inflação. Quando a bolsa cai e o dólar sobe, indica cautela dos investidores em relação a riscos econômicos futuros.",
-  "observar": "Fique atento a novos pronunciamentos oficiais do governo e ao relatório do Banco Central sobre política monetária, que podem indicar ajustes na taxa Selic e medidas fiscais nos próximos meses.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Esta notícia explica como a política econômica do presidente reeleito impacta mercados e mostra a importância de entender política fiscal e juros para operar com estratégia e segurança na Bolsa e no câmbio.",
-  "gancho": "*Economia* & *Mercado*: desafios futuros",
-  "ideias": [
-   "Entenda a reação do mercado às falas de Lula sobre economia",
-   "O que altas taxas de juros significam para o seu bolso em 2027?",
-   "Como a incerteza fiscal afeta dólar e Bolsa no Brasil"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "G1 Economia; Estadão Economia; Bloomberg Línea",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-10T00:48:14-03:00",
-  "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/10/o-futuro-da-economia-brasileira-no-quarto-mandato-de-lula-o-assunto-1842.ghtml",
-  "publicadoEm": "2026-11-10T00:30:01-03:00",
-  "data": "2026-11-10",
-  "id": "2026-11-10-01"
  }
 ]
