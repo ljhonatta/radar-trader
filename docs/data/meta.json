@@ -1,13 +1,30 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-19T15:41:12-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-19T19:45:58-03:00",
+  "novas": 1,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 nova(s): Juros em alta no Tesouro; Controle fiscal em foco; Agrotóxicos e Riscos na Europa.",
-  "falhas": [],
+  "mensagem": "1 nova(s): Bitcoin nas economias reais.",
+  "falhas": [
+   "Google Notícias 'Ibovespa fechamento' (HTTPError)",
+   "Google Notícias 'dólar hoje real' (HTTPError)",
+   "Google Notícias 'Copom Selic' (HTTPError)",
+   "Google Notícias 'Boletim Focus' (HTTPError)",
+   "Google Notícias 'IPCA inflação IBGE' (HTTPError)",
+   "Google Notícias 'juros futuros DI' (HTTPError)",
+   "Google Notícias 'B3 bolsa' (HTTPError)",
+   "Google Notícias 'Banco Central Galípolo' (HTTPError)",
+   "Google Notícias 'Fed juros Powell' (HTTPError)",
+   "Google Notícias 'petróleo Brent' (HTTPError)",
+   "Google Notícias 'Reuters Brasil mercado' (HTTPError)",
+   "Google Notícias 'CNN Brasil economia' (HTTPError)",
+   "Google Notícias 'CVM regulação' (HTTPError)",
+   "Google Notícias 'Tesouro Direto' (HTTPError)",
+   "Google Notícias 'dividendos ações' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-19T19:45:58-03:00",
    "2026-11-19T15:41:12-03:00",
    "2026-11-18T23:48:31-03:00",
    "2026-11-18T19:41:48-03:00",
@@ -18,62 +35,61 @@
    "2026-11-17T01:10:50-03:00",
    "2026-11-16T20:50:26-03:00",
    "2026-11-16T16:52:59-03:00",
-   "2026-11-16T08:32:44-03:00",
-   "2026-11-15T22:23:06-03:00"
+   "2026-11-16T08:32:44-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 10
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "166.241",
-    "var": "-0,77%"
+    "v": "166.376",
+    "var": "-0,69%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,90",
-    "var": "+0,20%"
+    "v": "R$ 5,93",
+    "var": "+0,88%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,47",
-    "var": "+0,26%"
+    "v": "R$ 6,51",
+    "var": "+0,85%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 63,2 mil",
-    "var": "-0,00%"
+    "v": "US$ 62,2 mil",
+    "var": "-0,39%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.238",
-    "var": "-1,17%"
+    "v": "7.176",
+    "var": "-2,02%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "26.774",
-    "var": "-1,26%"
+    "v": "26.517",
+    "var": "-2,21%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 92,73",
-    "var": "+0,85%"
+    "v": "US$ 92,65",
+    "var": "+0,76%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.686,90",
-    "var": "-1,47%"
+    "v": "US$ 3.627,90",
+    "var": "-3,05%"
    },
    {
     "k": "SELIC",
@@ -88,14 +104,14 @@
     "var": ""
    }
   ],
-  "obs": "Parcial do pregão",
-  "hora": "qui 15h",
+  "obs": "Fechamento",
+  "hora": "qui 19h",
   "data": "2026-11-19",
-  "atualizadoEm": "2026-11-19T15:41:12-03:00",
-  "ibov": "166.241",
-  "ibovVar": "-0,77%",
-  "dolar": "R$ 5,90",
-  "dolarVar": "+0,20%",
-  "btc": "US$ 63,2 mil"
+  "atualizadoEm": "2026-11-19T19:45:58-03:00",
+  "ibov": "166.376",
+  "ibovVar": "-0,69%",
+  "dolar": "R$ 5,93",
+  "dolarVar": "+0,88%",
+  "btc": "US$ 62,2 mil"
  }
 }
