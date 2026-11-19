@@ -1,5 +1,932 @@
 [
  {
+  "titulo": "Tesouro Direto suspende negociações após alta recorde das taxas de juros",
+  "resumo": "Juros dos títulos públicos prefixados superam 15% e forçam paralisação no Tesouro Direto. Investidores reagem à aprovação de pacote fiscal no Senado e declarações de Lula.",
+  "fatos": [
+   "Tesouro Prefixado 2029 superou 15% ao ano nesta quinta-feira.",
+   "Tesouro Prefixado 2032 alcançou 15,43% ao ano.",
+   "Negociações no Tesouro Direto suspensas por volta das 13h10.",
+   "Projeto fiscal aprovado no Senado prevê superávit primário de 0,5% do PIB em 2027.",
+   "Contrato DI para janeiro de 2028 subiu para 15,01%, alta de 0,47 ponto percentual.",
+   "Banco Central vendeu US$ 1 bilhão em leilão câmbio à vista para conter alta do dólar.",
+   "Dólar alcançou máxima de R$ 5,9287 no dia.",
+   "Ministro Bruno Moretti afirmou que novas medidas fiscais podem ser adotadas para superávits maiores.",
+   "Taxa Selic está em 13,75%, mercado espera manutenção na reunião de dezembro.",
+   "Declarações de Lula indicaram não haver pressa na escolha do ministro da Economia."
+  ],
+  "explicacao": [
+   "Na quinta-feira, 19 de novembro, as taxas de juros dos títulos públicos brasileiros dispararam, com o Tesouro Prefixado 2029 atingindo mais de 15% ao ano e o 2032 chegando a 15,43%. Diante da volatilidade, o Tesouro Direto suspendeu temporariamente as negociações desses papéis por volta das 13h10.",
+   "O movimento foi impulsionado pela aprovação de um pacote fiscal pelo Senado que prevê superávit primário de 0,5% do PIB em 2027, mas é considerado insuficiente para equilibrar as contas públicas conforme analistas. Além disso, declarações do presidente Lula reforçaram a manutenção dos direitos sociais e a ausência de pressa para definir os nomes da equipe econômica, gerando incertezas.",
+   "Com as incertezas aumentadas, os investidores passaram a exigir remunerações maiores pelos riscos, o que elevou as taxas futuras de juros. Contratos futuros para prazos intermediários e longos, como janeiro de 2028 a 2030, saltaram em torno de meio ponto percentual, ultrapassando 15% em muitos casos.",
+   "O dólar também registrou forte alta, chegando próximo de R$ 5,93, levando o Banco Central a intervir com um leilão de US$ 1 bilhão para conter a valorização da moeda americana. Apesar do alívio momentâneo no câmbio, a pressão nos juros futuros persiste e o cenário segue de incerteza até desdobramentos no Congresso e definições na economia."
+  ],
+  "detalhes": [
+   "Quem: investidores do Tesouro Direto, governo federal, Banco Central, presidente Lula e Senado.",
+   "Quanto: taxa de juros dos títulos prefixados alcançou mais de 15%, dólar próximo a R$ 5,93.",
+   "Quando: quinta-feira, 19 de novembro de 2026.",
+   "Onde: mercado financeiro brasileiro, Tesouro Direto e contratos futuros de juros.",
+   "Como: aprovação de pacote fiscal no Senado, expectativas sobre política econômica e declarações presidenciais influenciaram o mercado.",
+   "Comparação: taxa DI para janeiro de 2028 subiu de 14,511% para 15,05% em um dia.",
+   "Contexto: incertezas fiscais e atraso na definição da equipe econômica causam volatilidade."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Presidente Luiz Inácio Lula da Silva",
+    "oque": "Não tem pressa para escolher ministros da Economia e critica parte das críticas ao governo como especulação."
+   },
+   {
+    "quem": "Ministro do Planejamento e Orçamento Bruno Moretti",
+    "oque": "Medidas adicionais podem ser adotadas para garantir superávits primários crescentes."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de novembro",
+    "oque": "Senado conclui votação de pacote fiscal com superávit primário de 0,5% do PIB em 2027."
+   },
+   {
+    "quando": "19 de novembro, antes das 13h10",
+    "oque": "Taxas de juros disparam e Tesouro Direto suspende negociações."
+   },
+   {
+    "quando": "19 de novembro, tarde",
+    "oque": "Banco Central realiza leilão de US$ 1 bilhão para conter alta do dólar."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo positivo das contas públicas antes dos juros da dívida."
+   },
+   {
+    "termo": "DI (Depósito Interfinanceiro)",
+    "significado": "Taxa usada para empréstimos entre bancos, referência para juros futuros."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira, usada pelo BC para controlar inflação."
+   }
+  ],
+  "pergunta": "Como você acompanha a volatilidade das taxas de juros no Tesouro Direto?",
+  "tamanhoTexto": 11324,
+  "numeros": [
+   {
+    "valor": "15,43%",
+    "rotulo": "Taxa do Tesouro Prefixado 2032 ao ano"
+   },
+   {
+    "valor": "15,01%",
+    "rotulo": "Taxa do contrato DI para janeiro de 2028"
+   },
+   {
+    "valor": "R$ 5,9287",
+    "rotulo": "Máxima do dólar no dia"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "Valor do leilão de câmbio feito pelo BC"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "Superávit primário projetado para 2027 no pacote fiscal"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic atual"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "DI janeiro de 2028",
+    "antes": "14,511%",
+    "depois": "15,05%"
+   }
+  ],
+  "destaque": "Tesouro Prefixado acima",
+  "porQueImporta": "A alta das taxas dos títulos públicos reflete a maior percepção de risco no equilíbrio fiscal e incertezas na política econômica. Isso impacta diretamente como o governo financia a dívida e os custos para todos os investidores, influenciando preços, rentabilidade e decisões no mercado financeiro.",
+  "impactoMercado": "Com o aumento das taxas e volatilidade, setores sensíveis a juros altos podem enfrentar desafios, enquanto investidores tendem a buscar proteção na renda fixa mais segura. A alta do dólar e a espera por medidas fiscais elevam a aversão ao risco e devem alterar o comportamento dos ativos brasileiros nos próximos meses.",
+  "entenda": "O Tesouro Direto é uma plataforma que permite pessoas físicas comprarem títulos públicos, que são empréstimos ao governo. Quando as taxas de juros sobem, o custo do governo para captar recursos aumenta, e o preço dos títulos cai. A suspensão ocorre para evitar instabilidade em momentos de forte oscilação.",
+  "observar": "Fique atento à aprovação do pacote fiscal na Câmara, reuniões do Copom em dezembro e anúncios sobre equipe econômica, que podem mudar expectativas sobre juros e risco.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como decisões fiscais e políticas influenciam diretamente o custo do dinheiro e os investimentos, conectando o investidor à realidade do mercado e destacando a importância de entender títulos públicos e juros.",
+  "gancho": "*Juros* em alta no Tesouro",
+  "ideias": [
+   "Por que o Tesouro Direto suspende negociações?",
+   "Entenda o efeito do pacote fiscal nas taxas de juros",
+   "Como a alta do dólar e dos juros impactam seus investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "InvestNews; InfoMoney; BPMoney",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://investnews.com.br/investimentos/tesouro-direto-paralisa-negociacoes/",
+  "publicadoEm": "2026-11-19T15:29:45-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-01"
+ },
+ {
+  "titulo": "Lula defende controle fiscal, mas mercado segue cauteloso com pacote",
+  "resumo": "Lula reafirma compromisso com responsabilidade fiscal e nega cortar direitos sociais. Mercado mantém dólar em alta, duvidando da eficácia do ajuste fiscal aprovado pelo Senado.",
+  "fatos": [
+   "Lula reforçou compromisso com o controle fiscal durante evento em Brasília em 19/11/2026.",
+   "Pacote fiscal aprovado pelo Senado prevê economia de cerca de R$ 50 bilhões em 2027.",
+   "Dólar ultrapassou R$ 5,90 em 19/11/2026, alta de 1,09% no dia.",
+   "Banco Central vendeu US$ 1 bilhão em leilão para conter alta do dólar.",
+   "Ata do Fed sinaliza possibilidade de nova alta dos juros nos EUA em breve.",
+   "Mercado avalia 93,5% de chances de aumento de 25 pontos-base na Selic americana.",
+   "Pacote fiscal segue para Câmara a partir de 23 de novembro de 2026.",
+   "Lula afirmou que não haverá corte em direitos sociais enquanto for presidente.",
+   "Presidente disse que escalonará indicações ministeriais no tempo adequado.",
+   "Mercado financeiro reage com cautela diante das medidas e declarações recentes."
+  ],
+  "explicacao": [
+   "Na quinta-feira, 19 de novembro de 2026, o presidente Luiz Inácio Lula da Silva declarou que o controle fiscal é uma prioridade pessoal e não apenas uma demanda do mercado financeiro. Ele ressaltou que seus governos sempre prezaram pelo equilíbrio das contas públicas, durante evento no Palácio do Planalto.",
+   "A fala ocorre um dia depois da aprovação pelo Senado do pacote fiscal que busca melhorar as contas públicas para 2027, com estimativa de economia de cerca de R$ 50 bilhões. No entanto, o projeto tem sido visto como tímido por investidores e criticado por parte da esquerda, aumentando dúvidas sobre sua efetividade.",
+   "Apesar da aprovação, o mercado manteve o dólar em alta, superando R$ 5,90, refletindo uma postura defensiva dos agentes financeiros diante do cenário fiscal e político incerto. O Banco Central precisou intervir vendendo US$ 1 bilhão para estabilizar a moeda.",
+   "O pacote agora segue para análise na Câmara dos Deputados a partir de 23 de novembro. Lula afirmou que continuará priorizando direitos sociais e planeja anunciar futuras nomeações ministeriais apenas quando considerar adequado, o que também é acompanhado com atenção pelo mercado."
+  ],
+  "detalhes": [
+   "Quem? Presidente Lula e o mercado financeiro, além do Senado e Câmara dos Deputados.",
+   "Quanto? R$ 50 bilhões previstos em economias para o orçamento 2027 no pacote fiscal.",
+   "Quando? Declarações em 19/11/2026; pacote aprovado pelo Senado em 18/11/2026.",
+   "Onde? Evento no Palácio do Planalto, Brasília; votações no Senado e Câmara.",
+   "Como? Pacote fiscal aprovado, mas mercado considera medidas tímidas e atuação cautelosa.",
+   "Comparação? Mercado pressiona dólar acima de R$ 5,90, rompendo barreira que antes segurava valor.",
+   "Contexto? Ata do Fed reforça possibilidade de juros altos nos EUA, pressionando câmbio locais."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luiz Inácio Lula da Silva, Presidente",
+    "oque": "Controle fiscal é prioridade do meu governo, não do mercado."
+   },
+   {
+    "quem": "Luiz Inácio Lula da Silva, Presidente",
+    "oque": "Não haverá diminuição dos direitos sociais enquanto eu for presidente."
+   },
+   {
+    "quem": "Reebecca Nossig, estrategista da Nomad",
+    "oque": "Investidores mantêm postura defensiva, buscando ativos mais seguros."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18/11/2026",
+    "oque": "Senado aprova pacote fiscal para 2027."
+   },
+   {
+    "quando": "19/11/2026",
+    "oque": "Lula reforça compromisso com o controle fiscal em evento oficial."
+   },
+   {
+    "quando": "19/11/2026",
+    "oque": "Dólar supera R$ 5,90; BC vende US$ 1 bi para conter alta."
+   },
+   {
+    "quando": "23/11/2026",
+    "oque": "Pacote fiscal começa a ser analisado na Câmara dos Deputados."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pacote fiscal",
+    "significado": "Conjunto de medidas do governo para melhorar as contas públicas."
+   },
+   {
+    "termo": "Dólar",
+    "significado": "Moeda dos EUA que impacta importações, exportações e inflação no Brasil."
+   },
+   {
+    "termo": "Banco Central",
+    "significado": "Instituição que controla a política monetária e câmbio no Brasil."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto das medidas fiscais no câmbio e na economia?",
+  "tamanhoTexto": 10099,
+  "numeros": [
+   {
+    "valor": "R$ 50 bilhões",
+    "rotulo": "economia prevista pelo pacote fiscal em 2027"
+   },
+   {
+    "valor": "R$ 5,93",
+    "rotulo": "máxima intradiária do dólar em 19/11/2026"
+   },
+   {
+    "valor": "1,09%",
+    "rotulo": "alta do dólar no dia 19/11/2026"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "leilão de venda do BC para conter a valorização do dólar"
+   },
+   {
+    "valor": "93,5%",
+    "rotulo": "chance avaliada de aumento de 25 pontos-base pelo Fed"
+   },
+   {
+    "valor": "3,75% a 4,00%",
+    "rotulo": "nível atual da taxa Selic americana"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 50 bilhões",
+  "porQueImporta": "A mensagem do presidente Lula confirma ao mercado que o governo reconhece a importância do controle fiscal, mesmo mantendo direitos sociais. Contudo, a percepção do mercado sobre a insuficiência do pacote fiscal gera volatilidade no câmbio, influenciando custos, inflação e expectativas econômicas.",
+  "impactoMercado": "O cenário atual deve manter o dólar pressionado e elevado, influenciando setores importadores e exportadores. A cautela dos investidores reforça a atenção sobre juros futuros e riscos fiscais, impactando principalmente a renda variável e os ativos ligados ao câmbio e políticas econômicas.",
+  "entenda": "O pacote fiscal é um conjunto de medidas para equilibrar as contas públicas, buscando menos gastos ou mais receitas para o governo. Isso é importante para evitar aumento da dívida e controlar a inflação. O dólar alto reflete dúvidas sobre o sucesso dessas medidas e maior busca por segurança pelos investidores.",
+  "observar": "Acompanhe a votação do pacote fiscal na Câmara a partir de 23/11 e futuras declarações do governo sobre medidas econômicas. Também fique atento às decisões do Fed sobre juros, que impactam o dólar e o mercado local.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia conecta política fiscal, câmbio e o funcionamento do mercado, mostrando para quem opera como decisões do governo e reações do mercado estão interligadas, reforçando o aprendizado necessário para análises financeiras.",
+  "gancho": "*Controle fiscal* em foco",
+  "ideias": [
+   "Lula e o compromisso com o controle fiscal em 2027",
+   "Por que o dólar subiu mesmo com pacote fiscal aprovado?",
+   "Entenda o impacto do pacote fiscal nas contas públicas e no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Times Brasil; Seu Dinheiro; Estadão Economia",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://timesbrasil.com.br/brasil/nao-e-o-mercado-que-deseja-o-controle-fiscal-sou-eu-diz-lula/",
+  "publicadoEm": "2026-11-19T14:13:55-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-02"
+ },
+ {
+  "titulo": "Pacientes com câncer protestam contra flexibilização de regras sobre agrotóxicos na Europa",
+  "resumo": "Em Bruxelas, manifestantes jogaram cinzas contra comissário europeu da Saúde por proposta que elimina reavaliação periódica de pesticidas. Mais de 2 mil cientistas pedem suspensão da medida que pode autorizar substâncias cancerígenas indefinidamente.",
+  "fatos": [
+   "Mais de 2 mil cientistas assinaram carta contra a proposta da Comissão Europeia.",
+   "Proposta elimina a revisão periódica de pesticidas, vigente desde 2011.",
+   "Atualmente, autorização de substâncias ativas é limitada a 15 anos na UE.",
+   "Proposta permite autorizações por prazo indeterminado para agrotóxicos.",
+   "Glifosato está classificado como provável cancerígeno (Grupo 2A pela IARC).",
+   "Lindano está no Grupo 1 da IARC, com evidência suficiente de causar câncer.",
+   "Desde 2011, 56 substâncias foram proibidas na UE após revisões periódicas.",
+   "Protesto ocorreu durante a Cúpula Europeia do Câncer em 19/11/2026 em Bruxelas.",
+   "Foodwatch levou o caso ao Provedor de Justiça Europeu contra a Comissão.",
+   "Levantamento entre 2014 e 2021 detectou resíduos de múltiplos pesticidas em 84% de amostras de urina europeias."
+  ],
+  "explicacao": [
+   "Em 19 de novembro de 2026, durante a Cúpula Europeia do Câncer em Bruxelas, dois pacientes com câncer protestaram contra uma proposta da Comissão Europeia ao jogar um pó cinza no comissário europeu da Saúde, Olivér Várhelyi, que tratava da flexibilização das regras sobre agrotóxicos.",
+   "A proposta faz parte do pacote Omnibus e elimina a revisão regular das substâncias ativas nos pesticidas, permitindo autorizações por prazo indeterminado, inclusive para compostos controversos como o glifosato, associado a riscos cancerígenos.",
+   "Essa mudança ocorre para acelerar aprovações e facilitar a vida dos agricultores, mas enfrenta forte rejeição de mais de dois mil cientistas que pedem avaliação independente, além de organizações como a Foodwatch, que denunciou a Comissão Europeia por má administração.",
+   "O que está em jogo é a segurança do consumidor e o controle dos riscos à saúde, já que revisões periódicas na UE resultaram em proibições como a do inseticida clorpirifós. Agora, aguarda-se a reação dos órgãos decisórios europeus e a continuidade dos debates."
+  ],
+  "detalhes": [
+   "O comissário europeu da Saúde, Olivér Várhelyi, foi alvo do protesto.",
+   "Evento: Cúpula Europeia do Câncer, em Bruxelas, 19 de novembro de 2026.",
+   "Proposta faz parte do pacote Omnibus da Comissão Europeia.",
+   "Regras atuais vigentes desde 2011 limitam pesticidas a autorizações de até 15 anos.",
+   "Glifosato é uma substância controversa pela possível ligação ao câncer.",
+   "Proposta visa agilizar a aprovação de agrotóxicos para beneficiar agricultores.",
+   "Organizações e especialistas pedem suspensão e avaliação independente da medida."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Manifestante no protesto",
+    "oque": "Essas são as cinzas das pessoas que vocês vão matar com os pesticidas."
+   },
+   {
+    "quem": "Stephen Stephanini, médico oncologista",
+    "oque": "Flexibilizar controle e supervisão gera incerteza e risco à saúde."
+   },
+   {
+    "quem": "Salome Roynel, ONG Pesticide Action Network Europe",
+    "oque": "Desde 2011, 56 substâncias proibidas na UE após revisões periódicas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2011",
+    "oque": "Início das regras atuais de revisão periódica para pesticidas na UE."
+   },
+   {
+    "quando": "18/11/2026",
+    "oque": "Mais de 2 mil cientistas assinam carta contra a proposta da Comissão."
+   },
+   {
+    "quando": "19/11/2026",
+    "oque": "Protesto com cinzas contra o comissário europeu da Saúde em Bruxelas."
+   },
+   {
+    "quando": "2014-2021",
+    "oque": "Estudo identifica resíduos de múltiplos pesticidas em 84% das amostras de urina."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Omnibus",
+    "significado": "Pacote de propostas legislativas que reúne várias mudanças em regras."
+   },
+   {
+    "termo": "Glifosato",
+    "significado": "Agrotóxico classificado como provável cancerígeno pela OMS."
+   },
+   {
+    "termo": "Agrotóxico",
+    "significado": "Produto químico para controle de pragas na agricultura."
+   }
+  ],
+  "pergunta": "Você acha que a flexibilização das regras sobre agrotóxicos é segura para a população?",
+  "tamanhoTexto": 7740,
+  "numeros": [
+   {
+    "valor": "2.000",
+    "rotulo": "cientistas que pedem suspensão da proposta"
+   },
+   {
+    "valor": "15 anos",
+    "rotulo": "prazo atual máximo para autorização de pesticidas na UE"
+   },
+   {
+    "valor": "56",
+    "rotulo": "substâncias proibidas após revisões periódicas desde 2011"
+   },
+   {
+    "valor": "84%",
+    "rotulo": "amostras de urina com resíduos de dois ou mais pesticidas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Autorização de pesticidas na UE",
+    "antes": "prazo limitado a 15 anos",
+    "depois": "prazo indeterminado na proposta"
+   }
+  ],
+  "destaque": "proposta de autorização",
+  "porQueImporta": "Alterar o controle sobre agrotóxicos impacta a segurança de agricultores e consumidores, já que muitas substâncias potencialmente cancerígenas poderiam ser usadas sem revisões regulares. Isso traz incertezas e possíveis riscos para a saúde pública, fundamentais para quem investe nos setores ligados à agricultura e alimentos.",
+  "impactoMercado": "No mercado, a flexibilização pode alterar regulações e influenciar negócios agroquímicos diretamente. Setores ligados à agricultura poderão vencer barreiras regulatórias, enquanto empresas de saúde e ambientalistas podem pressionar por contramedidas. Investidores devem observar debates políticos e regulatórios que afetam o setor de agricultura e alimentos.",
+  "entenda": "Agrotóxicos são produtos químicos usados para controlar pragas na agricultura. A União Europeia exige que seus componentes, chamados substâncias ativas, passem por revisões periódicas de segurança. A proposta visa mudar essa regra, autorizando esses produtos por tempo indeterminado, o que pode aumentar riscos à saúde.",
+  "observar": "Acompanhe os debates no Parlamento Europeu e decisões da Comissão Europeia nas próximas semanas, além de novas manifestações da sociedade civil e análises científicas independentes sobre a proposta.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Esta notícia exemplifica como decisões regulatórias internacionais influenciam setores financeiros e decisões de investimento, mostrando a importância de entender o funcionamento das regras e seus impactos na saúde pública e na economia agrícola.",
+  "gancho": "*Agrotóxicos* e *Riscos* na Europa",
+  "ideias": [
+   "Por que a UE quer mudar as regras dos agrotóxicos?",
+   "Como agrotóxicos podem afetar a saúde e o mercado?",
+   "Protestos e impacto econômico: o debate sobre pesticidas na Europa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "escudo",
+  "fonte": "G1 Economia; Times Brasil",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://g1.globo.com/saude/noticia/2026/11/19/manifestantes-jogam-cinzas-em-comissario-europeu-em-protesto-contra-agrotoxicos-video.ghtml",
+  "publicadoEm": "2026-11-19T14:11:29-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-03"
+ },
+ {
+  "titulo": "Banco Central vende US$ 1 bilhão para conter alta do dólar",
+  "resumo": "O Banco Central realizou leilão de US$ 1 bilhão para segurar a alta do dólar, que chegou a R$ 5,92. A ação ocorreu em meio à pressão no câmbio e dúvidas sobre o ajuste fiscal do governo.",
+  "fatos": [
+   "Banco Central vendeu US$ 1 bilhão em leilão à vista nesta quinta-feira.",
+   "Taxa de corte do leilão fixada em 5,860000 reais por dólar.",
+   "Foram aceitas cinco propostas entre 12h03 e 12h08.",
+   "Dólar atingiu máxima intraday de R$ 5,9287 antes da intervenção.",
+   "Dólar fechou em alta de 1,47% na quarta-feira, a R$ 5,867.",
+   "Valorização acumulada do dólar desde outubro ultrapassa 17%.",
+   "Pacote fiscal aprovado pelo Senado prevê ajuste de até R$ 56 bilhões para 2027.",
+   "Sessão extraordinária na Câmara para analisar pacote marcada para 23 de novembro.",
+   "Fed dos EUA sinaliza possível alta de juros em dezembro, afetando câmbio.",
+   "Intervenção do Banco Central incluiu leilões de linha totalizando US$ 1 bilhão."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira, o Banco Central do Brasil fez um leilão à vista para vender US$ 1 bilhão com o objetivo de conter a alta do dólar, cuja cotação chegou próxima a R$ 5,9287, maior patamar do dia. A taxa de corte do leilão foi de 5,8600, com cinco propostas aceitas entre 12h03 e 12h08.",
+   "A pressão sobre o dólar decorre principalmente do ceticismo do mercado quanto ao pacote de ajuste fiscal aprovado pelo Senado, que terá tramitação na Câmara a partir do dia 23. O pacote prevê um impacto de até R$ 56 bilhões no Orçamento de 2027, para garantir o superávit primário de 0,5% do PIB.",
+   "Além da desconfiança sobre a eficiência e continuidade do ajuste fiscal, fatores locais e externos, como há sazonalidade típica do final do ano com alta demanda por dólares e a perspectiva de alta nos juros dos EUA pelo Fed, também têm pressionado a moeda americana para cima.",
+   "Apesar da intervenção do Banco Central e venda de dólares, a cotação da moeda americana voltou a subir durante a tarde, rondando R$ 5,92, mostrando que o mercado permanece atento e desconfiado quanto às medidas fiscais e aos fatores externos que influenciam o câmbio."
+  ],
+  "detalhes": [
+   "A intervenção do BC ocorreu diante da alta do dólar, que chegou perto de R$ 5,93.",
+   "Pacote fiscal tem objetivo de assegurar superávit primário de 0,5% do PIB em 2024.",
+   "Investidores mostram desconfiança quanto à continuidade e impacto do ajuste fiscal.",
+   "Demanda por dólares no fim de ano é reforçada por remessas e viagens internacionais.",
+   "Juros mais altos nos EUA atraem recursos e pressionam o real para baixo.",
+   "Pacote fiscal aprovado tem impacto fiscal estimado em 0,2% do PIB para 2027.",
+   "O mercado aguarda votação na Câmara, que começa na segunda-feira, 23 de novembro."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Governo pode encaminhar medidas adicionais para garantir superávit primário."
+   },
+   {
+    "quem": "Christopher Waller, diretor do Federal Reserve",
+    "oque": "Possível alta de 0,5 ponto percentual nos juros dos EUA na próxima reunião."
+   },
+   {
+    "quem": "Gustavo Sung, economista-chefe da Suno Research",
+    "oque": "Curvas de juros e inflação indicam desconfiança sobre agenda fiscal."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Quarta-feira, 18 de novembro",
+    "oque": "Dólar fechou em alta de 1,47% a R$ 5,867."
+   },
+   {
+    "quando": "Quinta-feira, 19 de novembro às 12h03-12h08",
+    "oque": "Banco Central realizou leilão à vista de US$ 1 bilhão."
+   },
+   {
+    "quando": "Quinta-feira, 19 de novembro à tarde",
+    "oque": "Dólar voltou a subir e ficou próximo de R$ 5,92."
+   },
+   {
+    "quando": "Segunda-feira, 23 de novembro",
+    "oque": "Começo da análise do pacote fiscal na Câmara dos Deputados."
+   },
+   {
+    "quando": "8 e 9 de dezembro",
+    "oque": "Reunião do Federal Reserve sobre política de juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Leilão à vista",
+    "significado": "Venda imediata de dólar pelo Banco Central para ajustar o câmbio."
+   },
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo positivo nas contas públicas antes dos juros da dívida."
+   },
+   {
+    "termo": "Taxa de corte",
+    "significado": "Preço máximo aceito para venda no leilão de câmbio."
+   }
+  ],
+  "pergunta": "Você acha que a intervenção do Banco Central será suficiente para segurar a alta do dólar?",
+  "tamanhoTexto": 11149,
+  "numeros": [
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "Valor do leilão de dólares pelo Banco Central"
+   },
+   {
+    "valor": "5,860000",
+    "rotulo": "Taxa de corte do leilão em reais por dólar"
+   },
+   {
+    "valor": "R$ 5,9287",
+    "rotulo": "Máxima do dólar antes do leilão no dia"
+   },
+   {
+    "valor": "R$ 5,867",
+    "rotulo": "Fechamento do dólar na quarta-feira anterior"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "Valorização acumulada do dólar desde 23 de outubro"
+   },
+   {
+    "valor": "R$ 56 bilhões",
+    "rotulo": "Impacto estimado do ajuste fiscal para 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar",
+    "antes": "R$ 5,867 (fechamento 18/11)",
+    "depois": "R$ 5,9287 (máxima intraday 19/11)"
+   },
+   {
+    "item": "Projeção crescimento do Brasil 2027 (Banco BV)",
+    "antes": "1,5%",
+    "depois": "0,5%"
+   }
+  ],
+  "destaque": "US$ 1 bilhão",
+  "porQueImporta": "O movimento do Banco Central ao vender US$ 1 bilhão mostra a forte pressão sobre o real num cenário de dúvidas sobre o ajuste fiscal e fatores externos. Com o dólar em alta, investidores e operadores acompanham a capacidade do governo e do BC em conter a desvalorização e preservar a estabilidade econômica.",
+  "impactoMercado": "A valorização do dólar influencia custos das importações, inflação e pode afetar setores exportadores, bolsas e títulos públicos. A incerteza fiscal em conjunto com o fortalecimento da moeda americana pressionam juros futuros e tornam o ambiente mais volátil para investidores de renda fixa e variável.",
+  "entenda": "O leilão à vista consiste na venda direta de dólares pelo Banco Central para aumentar a oferta da moeda e tentar conter sua alta. A cotação do dólar é influenciada por fatores internos, como políticas fiscais, e externos, como expectativas de juros nos EUA, afetando preços em geral e investimentos no Brasil.",
+  "observar": "Acompanhe a tramitação do pacote fiscal na Câmara a partir de 23/11 e as decisões do Federal Reserve em dezembro, que podem mexer ainda mais no câmbio e no mercado financeiro brasileiro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Entenda como as ações do Banco Central refletem no dólar e por que o ajuste fiscal e os juros dos EUA mexem com o mercado, mostrando a importância de estar informado para operar ou investir com mais segurança.",
+  "gancho": "Dólar *alta* e leilão *BC*",
+  "ideias": [
+   "O que é e como funciona um leilão cambial do Banco Central?",
+   "Por que o dólar está subindo e como o BC tenta conter?",
+   "Impactos da alta do dólar e dúvidas fiscais no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Money Times; InvestNews; InvestNews",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://www.moneytimes.com.br/dolar-nas-alturas-banco-central-intervem-em-leilao-de-us-1-bilhao/",
+  "publicadoEm": "2026-11-19T13:04:46-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-04"
+ },
+ {
+  "titulo": "Bancos rebaixam Brasil na Bolsa por cautela e dúvidas econômicas",
+  "resumo": "Grandes bancos, como Goldman Sachs e Itaú, cortam recomendações para ações brasileiras devido a juros altos, crescimento fraco e incertezas fiscais, apesar das ações estarem valorizadas abaixo da média histórica.",
+  "fatos": [
+   "Itaú BBA projeta crescimento do PIB brasileiro em 0,5% para 2027.",
+   "Goldman Sachs e outros bancos rebaixaram recomendações para ações brasileiras recentemente.",
+   "Taxa Selic deve permanecer elevada sem cortes relevantes no próximo ano.",
+   "Bancos como JPMorgan e Morgan Stanley apontam pressão sobre lucros corporativos.",
+   "Itaú BBA estima múltiplo da Bolsa em cerca de 8 vezes lucro, 20% abaixo da média histórica.",
+   "Citi destaca múltiplos próximos a 7,3 vezes lucro projetado, menores na América Latina.",
+   "Goldman Sachs aumentou recomendação para o México, sinalizando preferência regional.",
+   "Bancos preferem ações de empresas defensivas, exportadoras e pagadoras de dividendos.",
+   "Preocupações com a trajetória fiscal e sustentabilidade da dívida pública persistem."
+  ],
+  "explicacao": [
+   "Nas últimas semanas de novembro de 2026, bancos como Goldman Sachs, Itaú BBA, Morgan Stanley e UBS reduziram suas recomendações para ações brasileiras, adotando postura mais seletiva mesmo com múltiplos baixos e preços atrativos na Bolsa.",
+   "Essa cautela se baseia na expectativa de desaceleração econômica para 2027, com crescimento do PIB projetado em apenas 0,5% pelo Itaú BBA, além da manutenção da taxa Selic em patamar elevado, limitando cortes e recuperação do mercado acionário.",
+   "O elevado custo do capital e preocupações fiscais aumentam o risco para investidores, enquanto perspectivas de lucros corporativos são revisadas para baixo, especialmente para setores mais dependentes da economia interna e crédito.",
+   "Assim, os bancos preferem ações defensivas, exportadoras e pagadoras de dividendos, e destacam que o Brasil perdeu atratividade relativa na América Latina, com outros países como México e Peru ganhando espaço nas carteiras."
+  ],
+  "detalhes": [
+   "Rebaixamento das ações ocorre apesar dos múltiplos historicamente baixos na Bolsa.",
+   "A deterioração dos fundamentos macroeconômicos preocupa estrategistas dos grandes bancos.",
+   "Juros elevados aumentam o custo de capital e reduzem investimentos e lucros corporativos.",
+   "A preferência se volta a setores menos dependentes do consumo doméstico e crédito.",
+   "Outros países da América Latina apresentam crescimento e inflação mais favoráveis.",
+   "Mercado busca clareza maior sobre políticas fiscais para retomar fluxo consistente.",
+   "Desafios incluem incertezas fiscais, juros altos e perspectivas fracas para crescimento."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Goldman Sachs",
+    "oque": "Justifica rebaixamento por perda de fôlego da economia e limites para corte da Selic."
+   },
+   {
+    "quem": "Itaú BBA",
+    "oque": "Projeta crescimento de apenas 0,5% do PIB e juros elevados ao longo de 2027."
+   },
+   {
+    "quem": "JPMorgan",
+    "oque": "A manutenção dos juros altos eleva custo de capital e pressiona lucros."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "novembro de 2026",
+    "oque": "Grandes bancos reduzem recomendações para ações brasileiras."
+   },
+   {
+    "quando": "2027",
+    "oque": "Expectativa de crescimento econômico fraco e manutenção dos juros altos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Taxa Selic",
+    "significado": "Juros básicos que definem custo do dinheiro no Brasil."
+   },
+   {
+    "termo": "Múltiplo de lucro",
+    "significado": "Valor da ação dividido pelo lucro por ação."
+   },
+   {
+    "termo": "PIB",
+    "significado": "Valor total dos bens e serviços produzidos no país."
+   }
+  ],
+  "pergunta": "Você acredita que o desconto atual na Bolsa brasileira seja uma oportunidade ou sinal de risco?",
+  "tamanhoTexto": 10978,
+  "numeros": [
+   {
+    "valor": "0,5%",
+    "rotulo": "Projeção de crescimento do PIB para 2027 pelo Itaú BBA"
+   },
+   {
+    "valor": "8 vezes",
+    "rotulo": "Múltiplo estimado pelo Itaú BBA para ações brasileiras"
+   },
+   {
+    "valor": "7,3 vezes",
+    "rotulo": "Múltiplo aproximado para lucro projetado segundo Citi"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "Desconto em relação à média histórica dos múltiplos da Bolsa"
+   },
+   {
+    "valor": "10 a 20%",
+    "rotulo": "Queda projetada em lucros corporativos segundo Morgan Stanley"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,5% PIB projetado",
+  "porQueImporta": "A cautela dos grandes bancos com a Bolsa brasileira reflete preocupações macroeconômicas, fiscais e com lucros empresariais. Para investidores e traders, entender esses sinais ajuda a avaliar riscos e ajustar estratégias diante do cenário esperado de crescimento fraco e juros elevados.",
+  "impactoMercado": "A preferência por ações defensivas e exportadoras pode afetar setores ligados ao consumo interno e crédito. Juros altos e dúvidas fiscais tendem a favorecer renda fixa, reduzindo o apetite por risco. Países latino-americanos com fundamentos melhores ganham fluxo, afetando posicionamento global.",
+  "entenda": "Múltiplos baixos indicam que ações estão baratas em relação ao lucro gerado. A Selic é a taxa básica de juros, que influencia custo do dinheiro e investimentos. Crescimento do PIB mede a evolução da economia. Essas variáveis impactam lucro das empresas e a atratividade da Bolsa.",
+  "observar": "Acompanhe projeções atualizadas de PIB e decisões do Banco Central sobre a taxa Selic em 2027, além de relatórios trimestrais de lucros corporativos e novidades fiscais para entender o impacto no mercado acionário.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia explica os motivos por trás da mudança de recomendação dos grandes bancos para o mercado brasileiro, mostrando como cenário econômico e fiscal afetam o investidor, tema-chave para quem quer entender o mercado e conhecer a Trader School Wendell",
+  "gancho": "*Brasil* em alerta: Bolsa e *juros*",
+  "ideias": [
+   "5 motivos dos bancos para rebaixar ações brasileiras",
+   "Como juros e crescimento afetam a Bolsa do Brasil",
+   "Brasil x América Latina: onde os bancos preferem investir?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney; melhorinvestimento.net",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://www.infomoney.com.br/mercados/por-que-bancoes-estao-rebaixando-o-brasil-5-razoes-por-tras-da-cautela-com-a-bolsa/",
+  "publicadoEm": "2026-11-19T15:00:00-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-05"
+ },
+ {
+  "titulo": "ANEEL propõe Tarifa Hora Certa com tarifas variáveis por horário",
+  "resumo": "ANEEL apresentou em 9/11/2026 a Tarifa Hora Certa, que muda cobrança da energia elétrica conforme horário. Implementação gradual começa em abril de 2028 para consumidores de alta demanda, reforçando uso estratégico de baterias e inteligência artificial.",
+  "fatos": [
+   "ANEEL apresentou a proposta da Tarifa Hora Certa em 9 de novembro de 2026.",
+   "A proposta define três períodos tarifários: Ponta (tarifa mais alta), Intermediário e Fora de Ponta (tarifa mais baixa).",
+   "Implementação gradual da tarifa começa em abril de 2028 para consumidores com consumo médio mensal acima de 500 kWh.",
+   "Consumidores com menos de 500 kWh poderão aderir voluntariamente quando elegíveis.",
+   "Para novos pedidos de conexão de energia solar após 90 dias da publicação da norma, a Tarifa Hora Certa será obrigatória.",
+   "Sistema permite arbitragem de energia, usando baterias para armazenar energia barata e consumir na tarifa mais cara.",
+   "Soluções com inteligência artificial da Sigenergy integradas a baterias para otimizar o uso conforme dados climáticos e tarifários.",
+   "i9 Solar integra geração solar, baterias e gestão inteligente para aumentar controle de consumo e eficiência.",
+   "Tarifa Hora Certa não obriga instalação de baterias, que terão retorno dependendo do perfil e uso.",
+   "Períodos tarifários são ajustados por distribuidoras e podem variar conforme localização e uso."
+  ],
+  "explicacao": [
+   "Em 9 de novembro de 2026, a Agência Nacional de Energia Elétrica (ANEEL) lançou a proposta da Tarifa Hora Certa, que prevê tarifas de energia elétrica diferenciadas conforme o horário do consumo, dividindo o dia em períodos Ponta, Intermediário e Fora de Ponta.",
+   "A medida busca incentivar o consumo eficiente, especialmente para quem já tem ou pensa em instalar energia solar, tornando relevante usar baterias para armazenar energia enquanto a tarifa é menor e consumir quando a tarifa é alta, prática chamada arbitragem.",
+   "A Tarifa Hora Certa vai abranger consumidores residenciais, rurais e comerciais de baixa tensão, com implantação gradual entre 2027 e 2028 para locais com consumo médio mensal acima de 500 kWh. Consumidores abaixo deste volume poderão aderir voluntariamente.",
+   "Além das baterias, a proposta permite usar inteligência artificial para gerenciar o consumo conforme o histórico pessoal, clima e tarifas, otimizando o uso e armazenamento de energia para maximizar eficiência e reduzir custos, sem obrigatoriedade de instalação de baterias."
+  ],
+  "detalhes": [
+   "Proposta alcança consumidores residenciais, rurais e comerciais de baixa tensão (B1, B2, B3), com exceções regulatórias.",
+   "O dia é dividido em três faixas tarifárias: Ponta (3 horas no início da noite), Intermediário (uma hora antes e depois da ponta), Fora de Ponta (demais horários).",
+   "Em fins de semana e feriados nacionais, a tarifa fora de ponta vale para todo o dia.",
+   "Pedido de conexão para sistemas solares feitos 90 dias após publicação da norma devem seguir a Tarifa Hora Certa, sem opção de saída.",
+   "A data de publicação exata ainda está em definição, podendo ocorrer em dezembro de 2026.",
+   "Armazenar energia da rede fora da ponta para uso no período de ponta é estratégia conhecida como arbitragem de energia.",
+   "Gestão inteligente permite configurar prioridades com inteligência artificial em função do consumo, previsão solar, clima e tarifas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Flavio Abreu, CEO da i9 Solar",
+    "oque": "A energia solar com baterias e gestão inteligente traz mais controle e eficiência ao imóvel."
+   },
+   {
+    "quem": "ANEEL",
+    "oque": "A Tarifa Hora Certa visa incentivar consumo eficiente e melhor uso da energia, conforme a demanda em horários específicos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "9 de novembro de 2026",
+    "oque": "ANEEL apresentou a proposta da Tarifa Hora Certa."
+   },
+   {
+    "quando": "abril de 2028",
+    "oque": "Prevista implementação gradual da tarifa para faixas de maior consumo."
+   },
+   {
+    "quando": "90 dias após publicação da norma",
+    "oque": "Novos projetos solares deverão obrigatoriamente aderir à Tarifa Hora Certa."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Tarifa Hora Certa",
+    "significado": "Sistema de cobrança que varia o preço do kWh conforme horário do consumo."
+   },
+   {
+    "termo": "Arbitragem de energia",
+    "significado": "Estratégia de armazenar energia no período barato para gastar no caro."
+   },
+   {
+    "termo": "Período Ponta",
+    "significado": "Horário de maior demanda e tarifa mais alta de energia."
+   }
+  ],
+  "pergunta": "Você já usa ou pretende usar baterias para aproveitar a Tarifa Hora Certa?",
+  "tamanhoTexto": 18726,
+  "numeros": [
+   {
+    "valor": "3",
+    "rotulo": "horas consecutivas do período Ponta"
+   },
+   {
+    "valor": "500 kWh",
+    "rotulo": "consumo médio mensal para enquadramento automático"
+   },
+   {
+    "valor": "abril de 2028",
+    "rotulo": "início da implementação gradual"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "prazo após publicação para novos projetos solares seguirem a tarifa"
+   },
+   {
+    "valor": "R$ 0,60 e R$ 1,20",
+    "rotulo": "exemplo de tarifas fora da ponta e na ponta"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Tarifa Hora Certa",
+  "porQueImporta": "Para quem investe ou opera no mercado de energia, a Tarifa Hora Certa traz mudança na forma de tarifação, tornando crucial planejar o consumo conforme os horários para reduzir custos. Para quem tem energia solar, considerar baterias e gestão inteligente pode impactar diretamente o controle financeiro e eficiência energética.",
+  "impactoMercado": "A mudança pode estimular investimentos em armazenamento em baterias e tecnologias de inteligência artificial para otimizar o consumo, afetando setores ligados à energia solar, equipamentos de automação residencial e gestão energética. Também deve alterar a dinâmica de consumo dos consumidores de baixa tensão e potencialmente influenciar tarifas e modelos de negócios das distribuidoras.",
+  "entenda": "A Tarifa Hora Certa é uma modalidade tarifária que cobra valores diferentes pelo consumo de energia em função do horário do dia, visando incentivar o uso fora dos horários de maior demanda (ponta). Com isso, consumidores com sistemas solares podem usar baterias para armazenar energia quando a tarifa é baixa e consumir quando ela é alta, otimizando o custo.",
+  "observar": "Acompanhe o calendário da ANEEL para a publicação oficial da norma, prevista para dezembro de 2026, e o início gradual da Tarifa Hora Certa em abril de 2028. Fique atento às tarifas divulgadas pelas distribuidoras locais e às opções técnicas para integrar baterias e inteligência artificial aos sistemas solares.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia explica como a mudança tarifária no setor elétrico exige que investidores e consumidores entendam o uso de baterias e gestão inteligente para usar energia com eficiência e reduzir custos, tema central na faculdade Trader School Wendell Guimarães.",
+  "gancho": "*Tarifa Hora Certa* muda o jogo da *energia*",
+  "ideias": [
+   "Como a Tarifa Hora Certa impacta seu consumo de energia?",
+   "Baterias e inteligência artificial na nova tarifa elétrica",
+   "Tarifa Hora Certa: o que investidores e consumidores precisam saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Produtos",
+  "icone": "raio",
+  "fonte": "Valor Econômico; Exame Invest; Folha Mercado",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/19/tarifa-hora-certa-coloca-as-baterias-em-foco-1.ghtml",
+  "publicadoEm": "2026-11-19T15:23:42-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-06"
+ },
+ {
+  "titulo": "BDR da Anthropic estreia na B3 por cerca de R$ 60 em 19/11",
+  "resumo": "BDR da Anthropic chega à B3 com código ANTH34, permitindo investimento em IA em reais. Cada ação dos EUA corresponde a 8 BDRs, com preço equivalente a R$ 60 por certificado.",
+  "fatos": [
+   "BDR da Anthropic lançado pela B3 em 19/11, no dia do IPO na Nasdaq.",
+   "Preço do BDR cerca de R$ 60 por certificado no lançamento.",
+   "Paridade do BDR 1:8, ou seja, 8 BDRs equivalem a uma ação nos EUA.",
+   "Ação da Anthropic custava US$ 83 na Nasdaq, equivalendo a R$ 482 na cotação do dólar.",
+   "BDR permite investir em ações internacionais em reais e no mercado brasileiro.",
+   "Investidores compram o BDR com código ANTH34 via home broker da corretora.",
+   "Luiz Masagão, vice-presidente de Produtos e Clientes da B3, destacou o acesso simplificado e preço acessível para inovação global.",
+   "B3 já disponibiliza BDRs de grandes empresas como Apple, Microsoft, Amazon, Tesla e Netflix.",
+   "BDRs sofrem influência da variação do ativo no exterior e da oscilação cambial.",
+   "Curso gratuito da B3 disponível para entender o funcionamento e riscos dos BDRs."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira, 19 de novembro, a B3 lançou o BDR da Anthropic, empresa de inteligência artificial, no mesmo dia da estreia da companhia na Nasdaq. O produto pode ser comprado por investidores brasileiros no home broker, pelo código ANTH34, a cerca de R$ 60 por BDR.",
+   "O BDR da Anthropic tem paridade de 1:8, ou seja, cada ação da Anthropic nos EUA, que custava US$ 83 (aproximadamente R$ 482 pela cotação do dólar na quarta-feira), equivale a 8 certificados na B3. Isso facilita o acesso ao ativo para investidores locais.",
+   "BDR, Brazilian Depositary Receipt, é um certificado negociado no Brasil que representa uma ação emitida no exterior. Ele permite acessar empresas internacionais sem precisar abrir conta fora ou fazer operações de câmbio. O investimento é feito em reais, simplificando o processo.",
+   "Agora, o investidor interessado deve ter conta em corretora brasileira, procurar o código ANTH34 no home broker e enviar ordem de compra. A B3 reforça que BDRs representam oportunidades de diversificação, mas também têm riscos como volatilidade, oscilações cambiais e variações do mercado internacional."
+  ],
+  "detalhes": [
+   "Lançamento do BDR aconteceu em 19 de novembro, data da estreia da companhia na Nasdaq.",
+   "Paridade 1:8 permite que 8 BDRs representam uma ação da Anthropic nos EUA.",
+   "Preço da ação nos EUA era US$ 83, equivalente a R$ 482 na cotação de quarta-feira.",
+   "Investidores brasileiros não precisam comprar dólar ou transferir recursos ao exterior.",
+   "BDR é um investimento local que representa um ativo internacional.",
+   "Luiz Masagão ressaltou a diversificação e acesso a empresas globais inovadoras.",
+   "BDRs já incluem gigantes de tecnologia e consumo, facilitando portfólio diversificado."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luiz Masagão, vice-presidente de Produtos e Clientes da B3",
+    "oque": "Lançamento reforça o papel da B3 em facilitar acesso a empresas globais de inovação com preço acessível."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de novembro",
+    "oque": "Estreia do BDR da Anthropic na B3 e IPO da Anthropic na Nasdaq."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "BDR",
+    "significado": "Certificado brasileiro que representa ações estrangeiras para negociação local"
+   },
+   {
+    "termo": "Paridade 1:8",
+    "significado": "Cada ação corresponde a oito certificados BDRs"
+   },
+   {
+    "termo": "Home broker",
+    "significado": "Plataforma online para operar investimentos na bolsa"
+   }
+  ],
+  "pergunta": "Você já investiu em BDRs de empresas de tecnologia? Qual seu favorito?",
+  "tamanhoTexto": 15642,
+  "numeros": [
+   {
+    "valor": "R$ 60",
+    "rotulo": "Preço aproximado do BDR da Anthropic na B3"
+   },
+   {
+    "valor": "1:8",
+    "rotulo": "Paridade do BDR para ação da Anthropic"
+   },
+   {
+    "valor": "US$ 83",
+    "rotulo": "Preço da ação Anthropic na Nasdaq antes do BDR"
+   },
+   {
+    "valor": "R$ 482",
+    "rotulo": "Equivalência da ação Anthropic em reais pela cotação do dólar"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 60",
+  "porQueImporta": "A chegada do BDR da Anthropic na B3 democratiza o acesso do investidor brasileiro a uma empresa global de inteligência artificial, facilitando a diversificação internacional sem a necessidade de lidar com câmbio ou abertura de contas no exterior, fatores importantes para quem busca ampliar seu portfólio com inovação.",
+  "impactoMercado": "O lançamento do BDR permite que investidores locais participem da dinâmica do mercado global de tecnologia, especialmente IA, via B3. Isso pode ampliar a demanda pelos BDRs na bolsa e fortalecer o papel da B3 como plataforma para investimentos internacionais acessíveis em reais.",
+  "entenda": "BDR é um certificado negociado na bolsa brasileira que representa uma ação emitida fora do país. Ele permite comprar e vender empresas estrangeiras no mercado local, em reais, sem precisar enviar dinheiro para o exterior ou comprar dólar diretamente, tornando o investimento internacional mais simples e acessível.",
+  "observar": "Fique atento ao comportamento do preço do BDR ANTH34 e à volatilidade da ação internacional após o IPO, além da cotação do dólar, pois esses fatores influenciam o rendimento do investimento.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia do lançamento do BDR da Anthropic é uma forma prática de explicar como funciona a negociação de ações internacionais em reais no Brasil, mostrando o potencial de diversificação e o papel da B3 como facilitadora, despertando interesse no",
+  "gancho": "*BDR* da Anthropic na B3",
+  "ideias": [
+   "O que é BDR e como investir na Anthropic pela B3?",
+   "Anthropic estreia na B3: entenda a paridade 1:8 do BDR",
+   "Investir em IA com BDR: riscos e oportunidades da Anthropic"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "moeda",
+  "fonte": "Bora Investir (B3); BP Money; BP Money",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T15:41:12-03:00",
+  "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/bdr-da-anthropic-chega-a-b3-por-cerca-de-r-60/",
+  "publicadoEm": "2026-11-19T12:05:35-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-07"
+ },
+ {
   "titulo": "Dólar pode ficar perto de R$ 6 e ajuste fiscal precisa ser maior, diz Vale",
   "resumo": "Sérgio Vale, economista da MB Associados, alerta que o ajuste fiscal previsto para 2027 é insuficiente para reduzir incertezas e pressão sobre o dólar, que já superou R$ 5,85 em alta recente.",
   "fatos": [
@@ -5145,71 +6072,6 @@
   "publicadoEm": "2026-11-17T02:00:14-03:00",
   "data": "2026-11-17",
   "id": "2026-11-17-10"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-ethereum-hit-on-november-17-2026",
-  "titulo": "Mercado vê 33.5% de chance do Ethereum acima de $1,850",
-  "resumo": "A expectativa é que o Ethereum possa alcançar novos preços em novembro de 2026.",
-  "probs": [
-   {
-    "opcao": "acima de $1,850",
-    "prob": 33.5
-   },
-   {
-    "opcao": "abaixo de $1,750",
-    "prob": 4.5
-   },
-   {
-    "opcao": "acima de $1,900",
-    "prob": 2.5
-   },
-   {
-    "opcao": "abaixo de $1,700",
-    "prob": 2.1
-   }
-  ],
-  "prazo": "2026-11-18",
-  "volume24h": "US$ 119 mil",
-  "fatos": [
-   "acima de $1,850: 33,5%",
-   "abaixo de $1,750: 4,5%",
-   "acima de $1,900: 2,5%",
-   "abaixo de $1,700: 2,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "33,5%",
-    "rotulo": "acima de $1,850"
-   },
-   {
-    "valor": "4,5%",
-    "rotulo": "abaixo de $1,750"
-   },
-   {
-    "valor": "2,5%",
-    "rotulo": "acima de $1,900"
-   },
-   {
-    "valor": "2,1%",
-    "rotulo": "abaixo de $1,700"
-   }
-  ],
-  "destaque": "33,5%",
-  "gancho": "Ethereum pode *crescer* mais",
-  "entenda": "Ethereum é uma das principais criptomoedas e seu preço pode ser afetado por novas aplicações e inovações na tecnologia de blockchain.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-november-17-2026",
-  "publicadoEm": "2026-11-17T20:09:53-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-17T20:09:53-03:00",
-  "data": "2026-11-17",
-  "status": "nova",
-  "id": "2026-11-17-p3"
  },
  {
   "titulo": "Centrão apoia pacote fiscal de Lula para ajuste econômico em 2027",
@@ -16342,1688 +17204,5 @@
   "publicadoEm": "2026-11-12T14:21:28-03:00",
   "data": "2026-11-12",
   "id": "2026-11-12-15"
- },
- {
-  "titulo": "Log-In Logística reverte lucro e tem prejuízo de R$ 92,3 milhões no 3º tri",
-  "resumo": "Log-In registrou prejuízo de R$ 92,3 milhões no 3º trimestre, contra lucro de R$ 19,2 milhões em 2025. Receita subiu 1,2%, mas custos cresceram 13,2%, puxados por Tecmar e TVV.",
-  "fatos": [
-   "Prejuízo líquido de R$ 92,3 milhões no 3º trimestre de 2026",
-   "Lucro líquido de R$ 19,2 milhões no 3º trimestre de 2025",
-   "Receita líquida de R$ 803,5 milhões, alta de 1,2% na comparação anual",
-   "Custos operacionais cresceram 13,2%, atingindo R$ 702,6 milhões",
-   "Despesas aumentaram 64%, totalizando R$ 79,1 milhões",
-   "Ebitda ajustado caiu 58,5%, chegando a R$ 64,3 milhões",
-   "Resultado financeiro negativo em R$ 56,7 milhões, piora de 32,5%",
-   "Dívida líquida estável em R$ 1,18 bilhão no fim de setembro",
-   "Alavancagem subiu de 1,3 para 1,6 vez entre junho e setembro"
-  ],
-  "explicacao": [
-   "A Log-In Logística teve um prejuízo líquido de R$ 92,3 milhões no terceiro trimestre de 2026. Esse resultado reverte o lucro líquido de R$ 19,2 milhões registrado no mesmo período do ano anterior, apontando uma piora significante no desempenho financeiro da empresa.",
-   "A receita líquida da Log-In cresceu 1,2%, chegando a R$ 803,5 milhões, enquanto os custos operacionais aumentaram 13,2%, para R$ 702,6 milhões. A piora foi atribuição principalmente aos maiores custos da Tecmar, empresa do grupo focada em transporte rodoviário de cargas, e do Terminal Portuário de Vila Velha (TVV).",
-   "Além disso, as despesas da companhia aumentaram 64%, para R$ 79,1 milhões, influenciadas por baixas reconhecidas na Tecmar. O Ebitda ajustado caiu 58,5%, para R$ 64,3 milhões, e o resultado financeiro piorou 32,5%, ficando negativo em R$ 56,7 milhões, devido a uma queda nas receitas financeiras e aumento das despesas.",
-   "A dívida líquida da Log-In ficou praticamente estável, em R$ 1,18 bilhão no fim de setembro, porém a alavancagem subiu de 1,3 para 1,6 vez, mostrando uma pressão maior sobre a capacidade de geração de caixa. O cenário indica desafios para a companhia nos próximos trimestres."
-  ],
-  "detalhes": [
-   "A piora nos custos está relacionada à operação da Tecmar, focada em transporte rodoviário, e do Terminal Portuário de Vila Velha.",
-   "O aumento expressivo das despesas decorre, entre outros motivos, de baixas reconhecidas na Tecmar.",
-   "O resultado financeiro negativo reflete queda de 13,7% nas receitas financeiras e alta de 16% nas despesas financeiras, que chegaram a R$ 69,4 milhões.",
-   "A estabilidade da dívida líquida indica que a Log-In não aumentou significativamente seu endividamento no trimestre.",
-   "O crescimento pequeno da receita líquida não compensou o aumento proporcional muito maior dos custos e despesas.",
-   "A alavancagem, medida pela relação dívida líquida/Ebitda, piorou, mostrando maior dificuldade de geração de caixa em relação ao endividamento.",
-   "O Ebitda ajustado é uma medida que reflete a geração operacional antes de alguns custos e perdas financeiras."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Log-In Logística",
-    "oque": "Explicou que a piora no resultado reflete os custos da Tecmar e do Terminal Portuário de Vila Velha."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Terceiro trimestre de 2026",
-    "oque": "Log-In reporta prejuízo líquido de R$ 92,3 milhões."
-   },
-   {
-    "quando": "Terceiro trimestre de 2025",
-    "oque": "Log-In havia registrado lucro líquido de R$ 19,2 milhões."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Prejuízo Líquido",
-    "significado": "Quando as despesas superam as receitas num período."
-   },
-   {
-    "termo": "Ebitda Ajustado",
-    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização."
-   },
-   {
-    "termo": "Dívida Líquida",
-    "significado": "Total da dívida descontando o caixa da empresa."
-   }
-  ],
-  "pergunta": "Como você avalia o impacto do prejuízo da Log-In no setor de logística?",
-  "tamanhoTexto": 13129,
-  "numeros": [
-   {
-    "valor": "R$ 92,3 milhões",
-    "rotulo": "Prejuízo líquido no 3º tri de 2026"
-   },
-   {
-    "valor": "R$ 19,2 milhões",
-    "rotulo": "Lucro líquido no 3º tri de 2025"
-   },
-   {
-    "valor": "R$ 803,5 milhões",
-    "rotulo": "Receita líquida no 3º tri de 2026"
-   },
-   {
-    "valor": "13,2%",
-    "rotulo": "Aumento dos custos ano a ano"
-   },
-   {
-    "valor": "64%",
-    "rotulo": "Aumento das despesas no período"
-   },
-   {
-    "valor": "R$ 64,3 milhões",
-    "rotulo": "Ebitda ajustado no 3º tri de 2026"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro líquido",
-    "antes": "R$ 19,2 milhões no 3º tri de 2025",
-    "depois": "Prejuízo de R$ 92,3 milhões no 3º tri de 2026"
-   },
-   {
-    "item": "Ebitda ajustado",
-    "antes": "R$ 154,8 milhões em 2025 (estimado pela queda de 58,5%)",
-    "depois": "R$ 64,3 milhões em 2026"
-   },
-   {
-    "item": "Alavancagem",
-    "antes": "1,3 vez ao final de junho de 2026",
-    "depois": "1,6 vez ao final de setembro de 2026"
-   }
-  ],
-  "destaque": "Prejuízo líquido de",
-  "porQueImporta": "Para investidores, o prejuízo da Log-In indica que custos e despesas estão pressionando significativamente a rentabilidade. A elevação da alavancagem pode afetar o perfil de crédito e a capacidade de investimento da empresa, temas fundamentais para quem acompanha ações e dívidas da companhia.",
-  "impactoMercado": "O resultado fraco da Log-In pode impactar a confiança em empresas do setor de logística e transporte, pressionando preços das ações. O aumento dos custos operacionais e financeiro pode reduzir a liquidez e afetar negociações de ativos correlatos, exigindo atenção aos balanços futuros.",
-  "entenda": "O prejuízo líquido representa quanto a empresa perdeu após descontar todos os custos, despesas e impostos. O Ebitda ajustado mostra a geração de caixa operacional, antes de juros, impostos, depreciação e amortização, excluindo efeitos não recorrentes. A alavancagem indica o quanto a empresa está endividada em relação à sua geração operacional.",
-  "observar": "Acompanhe os próximos balanços trimestrais da Log-In e anúncios de gestão sobre controle de custos e estratégia financeira para avaliar se a empresa reverte essa tendência negativa.",
-  "publico": [
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "Apresentar a reversão do lucro para prejuízo e os motivos financeiros que levam a isso ajuda o público a entender o impacto dos custos operacionais e financeiros no resultado, conectando com conceitos de alavancagem e Ebitda.",
-  "gancho": "*Logística* em prejuízo: custos sobem",
-  "ideias": [
-   "Por que a Log-In reverteu lucro em prejuízo em 2026?",
-   "Como custos operacionais impactam resultado da Logística?",
-   "Ebitda e alavancagem: o que dizem os números da Log-In?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "queda",
-  "fonte": "Valor Econômico; G1 Economia; Times Brasil",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T23:30:39-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/log-in-logstica-reverte-lucro-e-tem-prejuzo-de-r-923-milhes-no-3-tri.ghtml",
-  "publicadoEm": "2026-11-11T23:04:23-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-12"
- },
- {
-  "titulo": "Taesa tem lucro regulatório de R$ 363,8 mi no 3º tri, alta de 12,5%",
-  "resumo": "Taesa registrou lucro líquido regulatório 12,5% maior, R$ 363,8 milhões no 3º tri de 2026. Receitas regulatórias subiram 22,7%, chegando a R$ 798,4 milhões no período.",
-  "fatos": [
-   "Lucro líquido regulatório no 3º tri de 2026 foi R$ 363,8 milhões.",
-   "Lucro regulatório subiu 12,5% em relação a 2025.",
-   "Receitas regulatórias totalizaram R$ 798,4 milhões, aumento de 22,7%.",
-   "Ebitda alcançou R$ 687,2 milhões, crescimento anual de 25,2%.",
-   "Despesa financeira líquida foi de R$ 249 milhões, alta de 9,7%.",
-   "Dívida líquida em setembro chegou a R$ 12,47 bilhões.",
-   "Dívida líquida era R$ 10,42 bilhões em junho de 2026.",
-   "Alavancagem subiu para 4,7 vezes em setembro, contra 4,2 em junho.",
-   "Dividendos intercalares totalizam R$ 363,8 milhões.",
-   "Pagamento dos dividendos será em 27 de janeiro de 2027."
-  ],
-  "explicacao": [
-   "A Taesa, empresa de transmissão de energia, divulgou lucro líquido regulatório de R$ 363,8 milhões no terceiro trimestre de 2026, alta de 12,5% em relação ao mesmo período de 2025. Suas receitas regulatórias atingiram R$ 798,4 milhões, crescimento anual de 22,7%.",
-   "O aumento no lucro e receitas foi impulsionado pelo crescimento do Ebitda, que foi de R$ 687,2 milhões, avanço de 25,2% no ano. Porém, a despesa financeira líquida também subiu 9,7% chegando a R$ 249 milhões, impactando o resultado financeiro.",
-   "A dívida líquida da Taesa aumentou para R$ 12,47 bilhões em setembro, contra R$ 10,42 bilhões em junho. A alavancagem (relação dívida líquida sobre Ebitda) subiu para 4,7 vezes, de 4,2 vezes no trimestre anterior, mostrando maior endividamento relativo.",
-   "Além disso, a companhia autorizou o pagamento de dividendos intercalares no total de R$ 363,8 milhões, que será feito em janeiro de 2027. Isso representa R$ 1,0561 por unit e R$ 0,3520 por ação ON e PN."
-  ],
-  "detalhes": [
-   "A Taesa atua no setor de transmissão de energia elétrica no Brasil.",
-   "Os resultados financeiros são referentes ao terceiro trimestre de 2026.",
-   "A dívida foi medida em termos líquidos, ou seja, descontados os valores em caixa.",
-   "A alavancagem considera a dívida líquida proporcional das controladas e coligadas.",
-   "Os dividendos intercalares foram fixados por unit e por ação ordinária e preferencial.",
-   "O pagamento dos dividendos dependerá da base acionária em 16 de novembro de 2026.",
-   "O Ebitda é indicador que mede o lucro antes de juros, impostos, depreciação e amortização."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "setembro de 2026",
-    "oque": "Dívida líquida da Taesa atingiu R$ 12,47 bilhões"
-   },
-   {
-    "quando": "junho de 2026",
-    "oque": "Dívida líquida era R$ 10,42 bilhões"
-   },
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Lucro líquido regulatório de R$ 363,8 milhões"
-   },
-   {
-    "quando": "27 de janeiro de 2027",
-    "oque": "Pagamento de dividendos intercalares"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro líquido regulatório",
-    "significado": "Lucro calculado conforme regras da agência reguladora"
-   },
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
-   },
-   {
-    "termo": "Alavancagem",
-    "significado": "Relação entre dívida líquida e Ebitda"
-   }
-  ],
-  "pergunta": "Você conhece o impacto dos dividendos para quem investe em ações?",
-  "tamanhoTexto": 1936,
-  "numeros": [
-   {
-    "valor": "363,8 milhões",
-    "rotulo": "lucro líquido regulatório no 3º trimestre"
-   },
-   {
-    "valor": "22,7%",
-    "rotulo": "crescimento das receitas regulatórias"
-   },
-   {
-    "valor": "687,2 milhões",
-    "rotulo": "Ebitda no 3º trimestre"
-   },
-   {
-    "valor": "249 milhões",
-    "rotulo": "despesa financeira líquida no 3º trimestre"
-   },
-   {
-    "valor": "12,47 bilhões",
-    "rotulo": "dívida líquida em setembro de 2026"
-   },
-   {
-    "valor": "4,7 vezes",
-    "rotulo": "relação dívida líquida sobre Ebitda em setembro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "lucro líquido regulatório",
-    "antes": "R$ 323,2 milhões",
-    "depois": "R$ 363,8 milhões"
-   },
-   {
-    "item": "receitas regulatórias",
-    "antes": "R$ 650 milhões",
-    "depois": "R$ 798,4 milhões"
-   },
-   {
-    "item": "Ebitda",
-    "antes": "R$ 548,9 milhões",
-    "depois": "R$ 687,2 milhões"
-   },
-   {
-    "item": "dívida líquida",
-    "antes": "R$ 10,42 bilhões",
-    "depois": "R$ 12,47 bilhões"
-   }
-  ],
-  "destaque": "R$ 363,8 milhões",
-  "porQueImporta": "O lucro e a receita regulatória em alta indicam a boa performance da Taesa no setor de energia. Controlar a dívida e a alavancagem é crucial para a sustentabilidade financeira da empresa, essencial para investidores e analistas avaliarem riscos e oportunidades.",
-  "impactoMercado": "Os resultados podem influenciar a percepção de investidores sobre as ações e os títulos da Taesa, especialmente para quem acompanha empresas do setor elétrico e dividendos. A elevação da dívida pode afetar decisões de crédito e capitalização.",
-  "entenda": "A Taesa gera receitas regulatórias pelo serviço de transmissão de energia, que são receitas previstas e monitoradas pela agência reguladora. O Ebitda indica a capacidade operacional de geração de caixa da empresa. A dívida líquida e alavancagem medem o endividamento em relação ao lucro operacional.",
-  "observar": "Fique atento à divulgação dos resultados dos próximos trimestres e dos impactos regulatórios que podem afetar receitas. Monitorar a evolução da dívida e o calendário de dividendos também será importante para quem acompanha Taesa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra na prática como resultados financeiros detalhados, como lucro regulatório, Ebitda e dívida, explicam a saúde da Taesa. Isso ajuda quem quer entender o mercado de energia e a atuação da faculdade em formar profissionais capacitados.",
-  "gancho": "*Lucro* e *Dividendos* Taesa",
-  "ideias": [
-   "Como Taesa cresceu 12,5% no lucro regulatório",
-   "Entenda o que é Ebitda e dívida líquida na Taesa",
-   "Dividendos de Taesa: data, valores e significado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T23:30:39-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/taesa-tem-lucro-regulatorio-de-r-3638-milhoes-no-3o-trimestre-alta-de-125percent.ghtml",
-  "publicadoEm": "2026-11-11T22:33:35-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-13"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-will-the-fed-rate-be-at-the-end-of-2026",
-  "titulo": "What will the Fed rate be at the end of 2026?",
-  "resumo": "Apostadores veem 85,5% de chance de a taxa do Fed estar em 4,25% ao final de 2026.",
-  "probs": [
-   {
-    "opcao": "4,25%",
-    "prob": 85.5
-   },
-   {
-    "opcao": "≥ 4,5%",
-    "prob": 9.7
-   },
-   {
-    "opcao": "4,0%",
-    "prob": 3.8
-   },
-   {
-    "opcao": "≤1,0%",
-    "prob": 1.5
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 32 mil",
-  "fatos": [
-   "4,25%: 85,5%",
-   "≥ 4,5%: 9,7%",
-   "4,0%: 3,8%",
-   "≤1,0%: 1,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "85,5%",
-    "rotulo": "4,25%"
-   },
-   {
-    "valor": "9,7%",
-    "rotulo": "≥ 4,5%"
-   },
-   {
-    "valor": "3,8%",
-    "rotulo": "4,0%"
-   },
-   {
-    "valor": "1,5%",
-    "rotulo": "≤1,0%"
-   }
-  ],
-  "destaque": "85,5%",
-  "gancho": "*Taxas de juros em análise*",
-  "entenda": "A taxa do Fed afeta as condições de crédito e pode impactar diversas áreas da economia e dos investimentos.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026",
-  "publicadoEm": "2026-11-11T23:30:39-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-11T23:30:39-03:00",
-  "data": "2026-11-11",
-  "status": "nova",
-  "id": "2026-11-11-p3"
- },
- {
-  "titulo": "Governo Lula propõe ajuste fiscal de até R$ 60 bi em 2027 com gatilhos e cortes",
-  "resumo": "Projeto enviado ao Congresso visa medidas para ajuste fiscal de R$ 50 a R$ 60 bilhões em 2027, incluindo cortes em benefícios fiscais, gatilhos para contenção de gastos e mudanças no piso da saúde.",
-  "fatos": [
-   "Projeto encaminhado em 11 de novembro de 2026 pelo senador Jaques Wagner (PT-BA).",
-   "Impacto fiscal estimado entre R$ 50 bilhões e R$ 60 bilhões para 2027.",
-   "Contingenciamento adicional pode congelar R$ 12,8 bilhões em despesas.",
-   "Corte linear de 10% em benefícios tributários previstos na proposta.",
-   "Mudança no cálculo do piso da saúde exclui receitas voláteis do setor de petróleo.",
-   "Retirada de R$ 10,5 bilhões em subsídios ao diesel da meta fiscal.",
-   "Superávit primário planejado de 0,5% do PIB (R$ 73,2 bilhões) para 2027.",
-   "Projeto será relatado pelo senador Eduardo Braga (MDB-AM).",
-   "Meta fiscal de 2026 já inclui abatimentos de R$ 67,3 bilhões autorizados pelo Congresso e STF.",
-   "Contingenciamento vigente em 2026 é de R$ 16,1 bilhões, com R$ 13,6 bi por instrumentos de contenção."
-  ],
-  "explicacao": [
-   "O governo Lula apresentou em 11 de novembro de 2026 um projeto de lei complementar (PLP) com medidas de ajuste fiscal que somam entre R$ 50 bilhões e R$ 60 bilhões para o ano de 2027, com o objetivo de estabilizar a trajetória da dívida pública e consolidar a situação fiscal.",
-   "O projeto, protocolado pelo senador Jaques Wagner, inclui gatilhos para ampliar o bloqueio de gastos, cortes lineares de 10% em benefícios tributários para setores econômicos, limitações em compensações tributárias, e uma revisão na metodologia do cálculo do piso mínimo de gastos com saúde.",
-   "Essas medidas permitirão, por exemplo, limitar o crescimento real das despesas públicas de 2,5% para 2%, criando um contingenciamento adicional de R$ 12,8 bilhões. Além disso, o projeto retira R$ 10,5 bilhões em subsídios ao diesel do cálculo da meta fiscal, aliviando a contenção orçamentária.",
-   "O ministro do Planejamento, Bruno Moretti, destacou que o ajuste fiscal será gradual, com meta de superávit de 0,5% do PIB em 2027 e melhora até 1,5% do PIB em 2030, protegendo direitos sociais e despesas essenciais como saúde e educação. O projeto deve ser pautado no Senado em breve."
-  ],
-  "detalhes": [
-   "Medidas buscam racionalizar despesas e rever gastos tributários considerados ineficazes ou privilégios.",
-   "Gatilho limita crescimento real das despesas ao reduzir o limite de 2,5% para 2% caso a meta fiscal não seja cumprida.",
-   "Limitação do uso de compensações tributárias, mecanismo que permite pagar tributos com créditos fiscais.",
-   "Mudança no cálculo do piso da saúde visa excluir receitas instáveis, diminuindo o gasto obrigatório.",
-   "Projeto incorpora medidas junto à regulamentação da obrigatoriedade do seguro rural, facilitando aprovação.",
-   "Contingenciamento adicional e corte de benefícios fiscais visam garantir cumprimento do resultado primário.",
-   "Projeto prorroga vigência de restos a pagar até 31 de dezembro de 2027 para despesas plurianuais."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
-    "oque": "Projeto propõe medidas para contenção de despesas e revisão de gastos tributários visando resultado primário."
-   },
-   {
-    "quem": "Bruno Moretti",
-    "oque": "Não há na agenda do governo retirada de direitos; intenção é equilíbrio fiscal com proteção social."
-   },
-   {
-    "quem": "Felipe Salto, economista-chefe da Warren",
-    "oque": "Medidas não resolvem todos os problemas, mas representam um bom caminho para ajustes fiscais."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "11 de novembro de 2026",
-    "oque": "Projeto de lei complementar com medidas de ajuste fiscal apresentado ao Senado."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Contingenciamento",
-    "significado": "Congelamento temporário de gastos para cumprir metas fiscais."
-   },
-   {
-    "termo": "Meta fiscal",
-    "significado": "Objetivo de resultado primário do governo para equilíbrio das contas públicas."
-   },
-   {
-    "termo": "Benefícios fiscais",
-    "significado": "Descontos ou isenções de impostos concedidos a setores econômicos."
-   }
-  ],
-  "pergunta": "Como você acha que o ajuste fiscal pode impactar seus investimentos em 2027?",
-  "tamanhoTexto": 16370,
-  "numeros": [
-   {
-    "valor": "R$ 50 a R$ 60 bilhões",
-    "rotulo": "Impacto esperado das medidas em 2027"
-   },
-   {
-    "valor": "R$ 10,5 bilhões",
-    "rotulo": "Valor dos subsídios ao diesel retirados da meta fiscal"
-   },
-   {
-    "valor": "R$ 12,8 bilhões",
-    "rotulo": "Valor que pode ser contingenciado ao reduzir limite de despesas de 2,5% para 2%"
-   },
-   {
-    "valor": "0,5%",
-    "rotulo": "Meta de superávit primário do PIB para 2027"
-   },
-   {
-    "valor": "10%",
-    "rotulo": "Corte linear em benefícios fiscais previsto"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Crescimento real das despesas públicas",
-    "antes": "2,5% ao ano",
-    "depois": "2% ao ano no gatilho de contingenciamento"
-   }
-  ],
-  "destaque": "R$ 60 bilhões",
-  "porQueImporta": "O ajuste fiscal é essencial para evitar deterioração das contas públicas do Brasil e assegurar estabilidade econômica. Para quem opera no mercado financeiro, medidas que dão mais segurança ao cumprimento da meta fiscal tendem a reduzir incertezas, contribuir para a manutenção do controle da dívida e influenciar indicadores econômicos fundamentais.",
-  "impactoMercado": "As medidas podem afetar setores que se beneficiam de isenções fiscais e o ritmo dos gastos públicos, impactando ativos vinculados ao setor público. Também podem favorecer um ambiente mais estável para os juros futuros e a confiança no real, importante para investidores e traders que acompanham as políticas fiscais do país.",
-  "entenda": "A meta fiscal é o resultado que o governo quer alcançar para equilibrar receitas e despesas, sem considerar o pagamento da dívida. Contingenciamento é o congelamento de despesas para cumprir essa meta. Benefícios fiscais são isenções e incentivos tributários dados a setores econômicos. O piso da saúde é o mínimo que a União deve gastar obrigatoriamente nessa área, calculado com base na receita.",
-  "observar": "Acompanhe a possível votação do projeto no Senado e a apresentação do relatório pelo senador Eduardo Braga. Observe também os relatórios bimestrais de receitas e despesas para monitorar o acionamento dos gatilhos de contenção.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "Entenda as medidas propostas para conter gastos públicos, sua relação com a meta fiscal e o impacto na economia geral para operar com mais conhecimento no mercado financeiro e reconhecer a importância da disciplina fiscal.",
-  "gancho": "*Ajuste fiscal* Brasil 2027",
-  "ideias": [
-   "Conheça o projeto do governo para ajuste fiscal de 2027",
-   "Entenda o que é contingenciamento no Orçamento público",
-   "Como cortes fiscais podem influenciar a economia em 2027"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "escudo",
-  "fonte": "Estadão Economia; Folha Mercado; Seu Dinheiro",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T19:16:47-03:00",
-  "url": "https://www.estadao.com.br/economia/governo-projeto-medidas-ajuste-fiscal-lula-4/",
-  "publicadoEm": "2026-11-11T15:09:07-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-07"
- },
- {
-  "titulo": "Nvidia reage na bolsa em meio a crise envolvendo CEO Jensen Huang",
-  "resumo": "Ações da Nvidia subiram 2,87% após quedas pela crise do CEO Jensen Huang, que enfrenta investigação por suposto vazamento de segredos comerciais.",
-  "fatos": [
-   "Ações da Nvidia subiram 2,87% em 11 de novembro de 2026.",
-   "Na terça-feira (10), as ações caíram 5,47%; na segunda-feira (9), recuaram 4,3%.",
-   "A investigação está sendo conduzida pelo escritório Wachtell, Lipton, Rosen & Katz.",
-   "Caso envolve suposto vazamento de segredos comerciais e segurança nacional.",
-   "CEO Jensen Huang retornou ao escritório na segunda-feira após revelação do caso.",
-   "Resultados trimestrais da Nvidia serão divulgados em 17 de novembro de 2026.",
-   "Bank of America analisou três cenários para possíveis impactos na empresa."
-  ],
-  "explicacao": [
-   "Nesta quarta-feira (11), as ações da Nvidia recuperaram 2,87% depois de sofrerem duas quedas consecutivas devido a revelações sobre um caso extraconjugal do CEO Jensen Huang, suspeito de envolvimento com uma espiã chinesa.",
-   "A crise ganhou maior dimensão com a contratação do escritório Wachtell, Lipton, Rosen & Katz para investigar possíveis vazamentos de informações sensíveis relacionados ao episódio, com o objetivo de preservar dados de segurança nacional.",
-   "Huang tentou mostrar normalidade retornando ao escritório e participando de reuniões antes da divulgação dos resultados trimestrais, agendada para 17 de novembro, mas a situação aumenta a incerteza entre investidores quanto ao impacto futuro.",
-   "Análise do Bank of America indicou três possíveis cenários para a Nvidia: consequências limitadas, prolongamento da crise com pressão no mercado ou agravamento com mudanças na liderança e revisão de projeções de resultados."
-  ],
-  "detalhes": [
-   "Jensen Huang, CEO da Nvidia, está no centro da crise por suposto caso extraconjugal ligado a espiã chinesa.",
-   "Nvidia é a empresa de tecnologia mais valiosa do mundo.",
-   "Empresa contratou escritório de advocacia para apurar riscos de vazamentos de informações.",
-   "Huang participou de reuniões na sede da companhia, sinalizando foco nos negócios.",
-   "Bank of America é o analista que avaliou os cenários futuros da Nvidia.",
-   "Próximos resultados financeiros serão fundamentais para avaliar os impactos da crise.",
-   "Motivações políticas aparecem pela acusação de um senador contra Trump, ligada ao caso."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Vivek Arya, analista do Bank of America",
-    "oque": "Descreveu três cenários possíveis para a crise na Nvidia, desde impactos limitados até mudanças na liderança."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "9 de novembro de 2026",
-    "oque": "Ações da Nvidia caíram 4,3% após os primeiros rumores do caso."
-   },
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Queda de 5,47% nas ações diante de detalhes do suposto caso do CEO."
-   },
-   {
-    "quando": "11 de novembro de 2026",
-    "oque": "Ações da Nvidia subiram 2,87% e empresa contratou escritório para investigar."
-   },
-   {
-    "quando": "17 de novembro de 2026",
-    "oque": "Divulgação dos resultados trimestrais da Nvidia prevista."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Vazamento de segredos comerciais",
-    "significado": "Divulgação não autorizada de informações estratégicas empresariais."
-   },
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização."
-   },
-   {
-    "termo": "Análise de cenário",
-    "significado": "Avaliação de possíveis desdobramentos futuros de um evento."
-   }
-  ],
-  "pergunta": "Como você vê o impacto da crise do CEO na Nvidia para investidores e o mercado?",
-  "tamanhoTexto": 9859,
-  "numeros": [
-   {
-    "valor": "2,87%",
-    "rotulo": "alta das ações da Nvidia em 11/11/2026"
-   },
-   {
-    "valor": "5,47%",
-    "rotulo": "queda das ações em 10/11/2026"
-   },
-   {
-    "valor": "4,3%",
-    "rotulo": "queda das ações em 9/11/2026"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Ações Nvidia (9/11/2026)",
-    "antes": "sem crise relativa",
-    "depois": "-4,3%"
-   },
-   {
-    "item": "Ações Nvidia (10/11/2026)",
-    "antes": "queda menor",
-    "depois": "-5,47%"
-   },
-   {
-    "item": "Ações Nvidia (11/11/2026)",
-    "antes": "queda contínua",
-    "depois": "+2,87%"
-   }
-  ],
-  "destaque": "2,87% alta das",
-  "porQueImporta": "A crise envolvendo o CEO da Nvidia pode afetar a confiança dos investidores e a estabilidade da empresa, que é líder global em tecnologia e inteligência artificial, influenciando seu valor de mercado e as decisões estratégicas.",
-  "impactoMercado": "A pressão sobre a liderança da Nvidia pode gerar volatilidade nas ações, afetar setores de tecnologia e inteligência artificial, enquanto investidores monitoram os desdobramentos para ajustar posições e avaliar riscos do cenário.",
-  "entenda": "A crise envolve a suspeita de vazamento de informações estratégicas da Nvidia ligadas a segurança nacional, o que pode comprometer a confiança dos investidores e a estabilidade da empresa no mercado financeiro.",
-  "observar": "A divulgação dos resultados trimestrais da Nvidia em 17 de novembro e o andamento da investigação serão decisivos para futuros movimentos da empresa no mercado financeiro.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia traz um caso real que mostra como riscos corporativos podem impactar ações, convidando o público a entender finanças, governança e risco para operar melhor o mercado.",
-  "gancho": "*Nvidia* enfrenta crise e reage na bolsa",
-  "ideias": [
-   "Entenda a crise do CEO da Nvidia e seus impactos",
-   "Como vazamento de segredos afeta o preço das ações",
-   "O que investidores devem olhar no balanço após crise"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "grafico",
-  "fonte": "Times Brasil; InfoMoney; InfoMoney",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T19:16:47-03:00",
-  "url": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/nvidia-se-recupera-na-bolsa-enquanto-jensen-huang-enfrenta-pressao-antes-de-balanco/",
-  "publicadoEm": "2026-11-11T19:01:34-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-08"
- },
- {
-  "titulo": "Ultra (UGPA3) lucra R$ 2,7 bi no 3T; dividendo de R$ 1,1 bi anunciado",
-  "resumo": "No 3º trimestre de 2026, a Ultra registrou lucro de R$ 2,7 bilhões, alta de 249%. Distribuirá dividendos de R$ 1,1 bilhão, reforçando retorno aos acionistas.",
-  "fatos": [
-   "Lucro da Ultra no 3T26 foi de R$ 2,7 bilhões, aumento de 249% em um ano.",
-   "Ebitda ajustado recorrente da Ultra: R$ 3,1 bilhões, alta de 74%.",
-   "Receita líquida da Ultra cresceu 20%, alcançando R$ 44,4 bilhões no trimestre.",
-   "Volume vendido da Ipiranga aumentou 9% no período.",
-   "Dívida líquida da Ultra caiu para R$ 11 bilhões, alavancagem financeira de 1 vez.",
-   "Dividendos anunciados: R$ 1,085 bilhão, R$ 1,00 por ação, rendimento de 3,3%.",
-   "Pagamento dos dividendos começa em 3 de dezembro de 2026, ex-dividendo em 24 de novembro.",
-   "Novas operações iniciadas nas capacidades da Ultracargo em Suape e Itaqui.",
-   "Inauguração de ponto de abastecimento de biometano da Ultragaz em Paulínia.",
-   "Liquidação antecipada de dívidas de maior custo na Hidrovias do Brasil."
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, o grupo Ultra, dono da rede Ipiranga, alcançou lucro de R$ 2,7 bilhões, um crescimento de 249% em relação aos R$ 772 milhões do mesmo período em 2025. O Ebitda ajustado foi de R$ 3,1 bilhões, 74% maior comparado ao ano anterior.",
-   "O crescimento da empresa foi impulsionado principalmente pelo aumento de 20% na receita líquida, que ficou em R$ 44,4 bilhões, e pelo aumento no volume vendido pela Ipiranga em 9%. As ações governamentais contra o comércio ilegal de combustíveis também beneficiaram a rede de postos.",
-   "Com dívida líquida reduzida para R$ 11 bilhões e alavancagem financeira diminuída para 1 vez, a Ultra demonstrou solidez financeira. A empresa anunciou distribuição de dividendos de R$ 1,085 bilhão, equivalente a R$ 1,00 por ação, com pagamento em dezembro de 2026.",
-   "Além dos resultados financeiros, a Ultrapar iniciou operações em novas instalações da Ultracargo e ampliou pontos de abastecimento de biometano, além de liquidação de dívidas caras na Hidrovias do Brasil. Isso mostra uma estratégia alinhada à expansão e fortalecimento operacional."
-  ],
-  "detalhes": [
-   "Empresa: Grupo Ultra (UGPA3), com destaque para a rede Ipiranga.",
-   "Data do balanço: publicado em 11 de novembro de 2026.",
-   "Lucro do 3T26: R$ 2,7 bilhões, contra R$ 772 milhões em 3T25.",
-   "Ebitda esperado pelos analistas era R$ 3,3 bilhões, resultado veio abaixo disso com R$ 3,1 bilhões.",
-   "Dividendos equivalem a cerca de 3,3% de dividend yield.",
-   "Dívida líquida caiu de R$ 12 bilhões para R$ 11 bilhões em um ano.",
-   "Destaque operacional para expansão logística e maior capacidade em combustíveis renováveis."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ultra",
-    "oque": "O dividend yield reforça a estratégia de retorno de capital mesmo com investimentos em expansão."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3 de dezembro de 2026",
-    "oque": "Início do pagamento dos dividendos da Ultra."
-   },
-   {
-    "quando": "24 de novembro de 2026",
-    "oque": "Ações da Ultra passam a ser negociadas ex-dividendo na B3."
-   },
-   {
-    "quando": "Agosto de 2025",
-    "oque": "Começo da Operação Carbono Oculto contra comércio ilegal de combustíveis."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ebitda Ajustado Recorrente",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização, ajustado para itens não recorrentes."
-   },
-   {
-    "termo": "Dividend Yield",
-    "significado": "Rendimento percentual do dividendo pago em relação ao preço da ação."
-   },
-   {
-    "termo": "Dívida Líquida",
-    "significado": "Dívida total da empresa descontando o caixa disponível."
-   }
-  ],
-  "pergunta": "Você acompanha empresas que pagam dividendos altos como a Ultra?",
-  "tamanhoTexto": 10029,
-  "numeros": [
-   {
-    "valor": "2,7 bilhões",
-    "rotulo": "Lucro líquido da Ultra no 3T26"
-   },
-   {
-    "valor": "249%",
-    "rotulo": "Crescimento do lucro líquido anual da Ultra"
-   },
-   {
-    "valor": "3,1 bilhões",
-    "rotulo": "Ebitda ajustado recorrente do 3T26"
-   },
-   {
-    "valor": "44,4 bilhões",
-    "rotulo": "Receita líquida do grupo no 3T26"
-   },
-   {
-    "valor": "1,085 bilhão",
-    "rotulo": "Valor total do dividendo a ser pago"
-   },
-   {
-    "valor": "1,00",
-    "rotulo": "Dividendo por ação em reais"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "249%",
-  "porQueImporta": "O forte crescimento do lucro e o pagamento consistente de dividendos mostram a capacidade da Ultra em gerar retorno, mesmo investindo em expansão. Isso reforça a solidez financeira e a confiança para investidores, essencial em ambientes de mercado desafiadores.",
-  "impactoMercado": "Este resultado pode atrair a atenção para ações do setor de combustíveis e logística, principalmente pela redução da dívida e avanço operacional da Ultra. Dividendos relevantes também podem influenciar a renda variável, principalmente para investidores focados em renda passiva.",
-  "entenda": "Lucro líquido é o que sobra para a empresa após todos os custos e impostos. Ebitda é um indicador que mostra o lucro operacional com ajustes, importante para medir a geração de caixa. Dividendos são pagamentos aos acionistas como parte dos lucros da empresa.",
-  "observar": "Fique atento à data ex-dividendo em 24 de novembro e ao pagamento dos dividendos em dezembro. Também observe futuros balanços para verificar o impacto das expansões operacionais anunciadas no desempenho da Ultra.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia mostra como uma empresa sólida e consolidada no setor de combustíveis com boa gestão financeira pode crescer e remunerar acionistas, incentivando o entendimento sobre resultados e dividendos no mercado financeiro.",
-  "gancho": "*Lucro* e *Dividendos* em destaque",
-  "ideias": [
-   "Entenda o que impulsionou o salto de 249% no lucro da Ultra",
-   "Como o pagamento de R$ 1,1 bi em dividendos impacta o investidor?",
-   "O que é EBITDA ajustado e por que importa para a Ultra?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T19:16:47-03:00",
-  "url": "https://www.infomoney.com.br/mercados/grupo-ultra-ugpa3-resultados-terceiro-trimestre-2026-anuncio-dividendos/",
-  "publicadoEm": "2026-11-11T19:16:02-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-10"
- },
- {
-  "titulo": "Lucro da Equatorial cresce 53% no 3º trimestre de 2026",
-  "resumo": "Equatorial Energia teve lucro líquido de R$ 934 mi no 3º tri, alta de 53% em 1 ano. Lucro ajustado subiu 159,5%, para R$ 757 mi, apesar da queda de 1,2% nas receitas.",
-  "fatos": [
-   "Lucro líquido de R$ 934 milhões no 3º tri de 2026",
-   "Lucro líquido ajustado de R$ 757 milhões, alta de 159,5%",
-   "Receita de R$ 13,64 bilhões, queda de 1,2% em 12 meses",
-   "Redução de custos totais em 11,8% para R$ 8,45 bilhões",
-   "Ebitda ajustado de R$ 3,21 bilhões, alta de 4,1%",
-   "Dívida líquida alcançou R$ 52,8 bilhões em setembro",
-   "Alavancagem de 3,1 vezes (dívida líquida/Ebitda)",
-   "Setor de distribuição cresceu R$ 230 milhões no trimestre",
-   "Redução de R$ 131 milhões em equivalência patrimonial da Sabesp"
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, a Equatorial Energia registrou um lucro líquido de R$ 934 milhões, o que representa aumento de 53% em relação ao mesmo período do ano anterior. O lucro líquido ajustado por minoritários foi R$ 757 milhões, alta de 159,5% frente aos R$ 292 milhões do 3º tri de 2025.",
-   "A receita da empresa somou R$ 13,64 bilhões, queda de 1,2% na comparação anual. Apesar da receita menor, a empresa conseguiu reduzir os custos totais em 11,8%, para R$ 8,45 bilhões, o que ajudou a impulsionar o lucro final.",
-   "O Ebitda ajustado da Equatorial foi de R$ 3,21 bilhões no trimestre, subindo 4,1% na base anual. O crescimento do segmento de distribuição e a equivalência patrimonial da Copasa foram os principais fatores positivos, enquanto menores resultados da holding, renováveis e Sabesp prejudicaram o desempenho.",
-   "A dívida líquida da empresa encerrou setembro em R$ 52,8 bilhões, resultando numa alavancagem (dívida líquida/Ebitda) de 3,1 vezes. A empresa mantém foco em gestão financeira, monitorando riscos e resultados para os próximos trimestres."
-  ],
-  "detalhes": [
-   "Lucro líquido ajustado considera a parte de minoritários para visão mais aderente",
-   "Ebitda levou em conta crescimento do segmento Distribuição e Copasa",
-   "Redução de receita e desempenho negativo da comercializadora e holding influenciaram Ebitda",
-   "Dívida líquida subiu 14,5% em 12 meses",
-   "Alavancagem sobe para 3,6 vezes se excluir ganho de capital da venda da transmissão",
-   "Aumento do mercado Fio-B em 4,9% impactou positivamente o segmento de distribuição",
-   "Geração líquida das renováveis aumentou 14,3% no trimestre"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Equatorial Energia",
-    "oque": "Lucro ajustado cresceu significativamente impulsionado pela distribuição e Copasa."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "Resultado financeiro e operacional declarado no balanço trimestral"
-   },
-   {
-    "quando": "Até setembro de 2026",
-    "oque": "Dívida líquida atingiu R$ 52,8 bilhões com alavancagem de 3,1 vezes"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lucro líquido ajustado",
-    "significado": "Lucro da empresa ajustado para excluir impacto de minoritários, para melhor análise"
-   },
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
-   },
-   {
-    "termo": "Dívida líquida",
-    "significado": "Dívida total menos o dinheiro em caixa disponível"
-   }
-  ],
-  "pergunta": "Você já conhecia o impacto da alavancagem na avaliação das empresas?",
-  "tamanhoTexto": 5017,
-  "numeros": [
-   {
-    "valor": "934 milhões",
-    "rotulo": "Lucro líquido no 3º trimestre de 2026"
-   },
-   {
-    "valor": "757 milhões",
-    "rotulo": "Lucro líquido ajustado no 3º trimestre"
-   },
-   {
-    "valor": "13,64 bilhões",
-    "rotulo": "Receita total no 3º trimestre de 2026"
-   },
-   {
-    "valor": "8,45 bilhões",
-    "rotulo": "Custos totais no 3º trimestre"
-   },
-   {
-    "valor": "3,21 bilhões",
-    "rotulo": "Ebitda ajustado no trimestre"
-   },
-   {
-    "valor": "52,8 bilhões",
-    "rotulo": "Dívida líquida da Equatorial em setembro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Lucro líquido R$",
-  "porQueImporta": "Os resultados da Equatorial refletem a importância da gestão eficiente de custos e portfólio para enfrentar desafios como queda de receita. Isso destaca a capacidade da empresa em gerar lucro em contextos adversos, informação útil para investidores e operadores acompanharem a saúde financeira.",
-  "impactoMercado": "O desempenho forte no lucro e Ebitda, associado à alta dívida, mostra desafios e oportunidades no setor elétrico. Para o mercado, dados como custo, receita e alavancagem impactam a avaliação de risco e expectativa para ações, olhando também setores correlatos em distribuição e renováveis.",
-  "entenda": "Lucro líquido representa o resultado final da empresa após custos e despesas. O Ebitda mostra o lucro antes de juros, impostos, depreciação e amortização, refletindo a capacidade operacional. Dívida líquida indica as obrigações financeiras subtraindo caixa, e alavancagem mostra o nível de endividamento em relação ao lucro operacional.",
-  "observar": "Acompanhe próximos resultados trimestrais e balanços para avaliar evolução da dívida e impacto dos custos. Eventos relacionados ao setor de energia e regulações podem influenciar os próximos trimestres da empresa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários"
-  ],
-  "angulo": "A notícia mostra como entender lucro, Ebitda e dívida é essencial para tomar decisões informadas no mercado financeiro, demonstrando a relevância de estudar o mercado com a Trader School Wendell Guimarães.",
-  "gancho": "*Lucro* e *Dívida* em alta",
-  "ideias": [
-   "Como entender lucro líquido e Ebitda na prática",
-   "O que é alavancagem e por que importa para investidores",
-   "Por que queda na receita não eliminou alta no lucro da Equatorial"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Valor Econômico; InfoMoney; InfoMoney",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T19:16:47-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/lucro-da-equatorial-cresce-53percent-no-3o-trimestre.ghtml",
-  "publicadoEm": "2026-11-11T18:48:49-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-11"
- },
- {
-  "tipo": "sinal",
-  "slug": "how-many-fed-rate-cuts-in-2026",
-  "titulo": "Mercado de previsões vê 98.4% de chance de nenhum corte de taxa pelo Fed em 2026",
-  "resumo": "As previsões sugerem que os apostadores não esperam cortes nas taxas de juros do Fed durante o ano.",
-  "probs": [
-   {
-    "opcao": "0 (0 bps)",
-    "prob": 98.4
-   },
-   {
-    "opcao": "1 (25 bps)",
-    "prob": 0.5
-   },
-   {
-    "opcao": "2 (50 bps)",
-    "prob": 0.2
-   },
-   {
-    "opcao": "3 (75 bps)",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 31 mil",
-  "fatos": [
-   "0 (0 bps): 98,4%",
-   "1 (25 bps): 0,5%",
-   "2 (50 bps): 0,2%",
-   "3 (75 bps): 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "98,4%",
-    "rotulo": "0 (0 bps)"
-   },
-   {
-    "valor": "0,5%",
-    "rotulo": "1 (25 bps)"
-   },
-   {
-    "valor": "0,2%",
-    "rotulo": "2 (50 bps)"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "3 (75 bps)"
-   }
-  ],
-  "destaque": "98,4%",
-  "gancho": "*Estabilidade* nas taxas",
-  "entenda": "Mudanças nas taxas de juros do Fed afetam mercados financeiros e a economia. A expectativa de estabilidade pode influenciar decisões de investimento.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-  "publicadoEm": "2026-11-11T19:16:47-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-11T19:16:47-03:00",
-  "data": "2026-11-11",
-  "status": "nova",
-  "id": "2026-11-11-p2"
- },
- {
-  "titulo": "Governo propõe 30 dias extras para ajuste do novo tributo CBS em 2027",
-  "resumo": "Ministério da Fazenda sugere prorrogar prazo para que empresas ajustem a apuração da CBS, que substituirá PIS e Cofins. A proposta prevê pagamento inicial estimado e ajuste definitivo no mês seguinte.",
-  "fatos": [
-   "A CBS substitui o PIS e Cofins e começará a valer em janeiro de 2027.",
-   "O governo propõe um mês extra para ajuste do imposto, com recolhimento estimado no segundo mês e ajuste definitivo no terceiro.",
-   "Secretário da Receita, Robinson Barreirinhas, anunciou o projeto em 11 de novembro de 2026.",
-   "O primeiro pagamento da CBS será no fim de fevereiro de 2027, referente às vendas de janeiro.",
-   "Empresas do Simples terão novas regras de nota fiscal adiadas de janeiro para março de 2027.",
-   "Programa de conformidade deve evitar autuações para casos sem intenção de sonegação.",
-   "O ajuste do imposto levará em conta os créditos tributários efetivamente recolhidos pelos fornecedores.",
-   "A Receita permitirá uso da apuração atual baseada nas notas fiscais durante 2027 para evitar impactos financeiros.",
-   "Entidades empresariais pediram adiamento, citando instabilidade dos sistemas e dificuldades operacionais.",
-   "O governo defende que adiar a reforma tributária apenas postergaria problemas futuros."
-  ],
-  "explicacao": [
-   "O Ministério da Fazenda apresentou ao Congresso um projeto que altera a forma de pagamento da Contribuição sobre Bens e Serviços (CBS), tributo federal previsto para começar em 2027 substituindo PIS e Cofins. A proposta permite que as empresas façam um recolhimento estimado no mês seguinte às vendas e o ajuste definitivo no mês subsequente.",
-   "Essa iniciativa visa dar mais prazo para as empresas conferirem os valores de impostos e créditos tributários, reduzindo inseguranças das companhias no novo sistema. Segundo o secretário especial da Receita Federal, Robinson Barreirinhas, a mudança evita problemas de fluxo de caixa causados pelo recolhimento completo sem abatimento imediato dos créditos.",
-   "Na prática, uma venda feita em janeiro de 2027 terá recolhimento estimado em fevereiro e o cálculo final em março, quando a empresa ajusta o que pagou antecipadamente. O projeto exige aprovação do Congresso, pois altera regras de apuração e pagamento tributário, não podendo ser feito por norma infralegal.",
-   "O governo também adiou para março de 2027 a exigência de novos modelos de notas fiscais para o Simples Nacional e setores como aéreo e transporte coletivo municipal. Além disso, foi anunciado um programa de conformidade para evitar autuações de contribuintes de boa-fé na CBS."
-  ],
-  "detalhes": [
-   "Quem propõe: Ministério da Fazenda, representado pela Receita Federal.",
-   "Quando: mudanças para pagamento da CBS em 2027, projeto anunciado em novembro de 2026.",
-   "Como: recolhimento inicial estimado e ajuste definitivo após confirmação dos valores reais.",
-   "Por que: para evitar riscos de fluxo de caixa e insegurança na apuração do novo tributo.",
-   "O que muda: substituição do sistema atual, que usa somente dados da nota fiscal, para um modelo que depende do recolhimento do fornecedor.",
-   "Quem será afetado: empresas em geral, especialmente aquelas no Simples Nacional e setores como transporte e plataformas digitais.",
-   "Qual contexto: antes da CBS, PIS, Cofins e partes do IPI eram cobrados separadamente."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Robinson Barreirinhas, secretário especial da Receita Federal",
-    "oque": "Adiar não resolve, mas a proposta evita problemas de fluxo de caixa e insegurança para empresas."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "11 de novembro de 2026",
-    "oque": "Anúncio do projeto para prorrogar prazo de ajuste do pagamento da CBS."
-   },
-   {
-    "quando": "Janeiro de 2027",
-    "oque": "Início da vigência da CBS e das vendas que geram o tributo."
-   },
-   {
-    "quando": "Fevereiro de 2027",
-    "oque": "Primeiro recolhimento estimado da CBS."
-   },
-   {
-    "quando": "Março de 2027",
-    "oque": "Recolhimento definitivo e ajuste da CBS."
-   },
-   {
-    "quando": "Março de 2027",
-    "oque": "Adiado exigência de novos modelos fiscais para o Simples Nacional e outros setores."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "CBS",
-    "significado": "Contribuição sobre Bens e Serviços, imposto federal unificado substituindo PIS e Cofins."
-   },
-   {
-    "termo": "crédito tributário",
-    "significado": "Valor que a empresa pode abater do imposto a pagar, referente a tributos já pagos."
-   },
-   {
-    "termo": "fluxo de caixa",
-    "significado": "Movimentação de dinheiro em uma empresa, entradas e saídas financeiras."
-   }
-  ],
-  "pergunta": "Você acha que o prazo extra vai facilitar a adaptação das empresas ao novo tributo?",
-  "tamanhoTexto": 8111,
-  "numeros": [
-   {
-    "valor": "30 dias",
-    "rotulo": "Prazo extra para ajuste do recolhimento da CBS"
-   },
-   {
-    "valor": "2027",
-    "rotulo": "Ano em que a CBS entrará em vigor"
-   },
-   {
-    "valor": "fevereiro",
-    "rotulo": "Primeiro pagamento estimado da CBS referente a vendas de janeiro"
-   },
-   {
-    "valor": "março",
-    "rotulo": "Prazo para cálculo definitivo da CBS e ajuste do valor"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "30 dias extras",
-  "porQueImporta": "Essa mudança importa porque amplia o tempo para as empresas se adaptarem ao novo tributo federal, reduzindo riscos financeiros e incertezas. Para quem opera ou investe em empresas sujeitas à CBS, a medida pode diminuir choques de caixa e evitar erros no recolhimento, impactando a saúde financeira de negócios.",
-  "impactoMercado": "Ao dar mais prazo para ajustes do recolhimento da CBS, setores empresariais terão menos pressão sobre fluxo de caixa. Isso poderá reduzir volatilidade em segmentos afetados pelo tributo, especialmente indústrias e varejo. Investidores devem acompanhar a implementação para avaliar o impacto em custos e lucratividade das companhias.",
-  "entenda": "A CBS é um imposto criado pela reforma tributária que substituirá o PIS e a Cofins, tributos federais pagos sobre bens e serviços. A novidade é que o novo mecanismo permite às empresas recolher um valor estimado inicialmente e fazer um ajuste posterior, facilitando o controle do tributo e o uso de créditos fiscais em seu cálculo.",
-  "observar": "Acompanhe o andamento do projeto no Congresso e as normas sobre o programa de conformidade. Observe também o adiamento das exigências para o Simples Nacional e outras obrigações fiscais previstas para março de 2027.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Uma notícia que apresenta a complexidade da reforma tributária e como ela impacta operações e negócios, estimulando o interesse por entender tributos, fluxo de caixa e planejamento fiscal, temas centrais na formação financeira.",
-  "gancho": "Novo tributo: prazo extra para *CBS*",
-  "ideias": [
-   "Como vai funcionar a CBS em 2027?",
-   "O que muda para as empresas com o novo prazo do tributo?",
-   "Entenda o impacto do ajuste do imposto CBS no fluxo de caixa"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "cadeado",
-  "fonte": "Times Brasil; Folha Mercado",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "url": "https://timesbrasil.com.br/brasil/governo-propoe-mais-30-dias-para-empresas-ajustarem-o-pagamento-de-novo-tributo-em-meio-a-pedidos-de-adiamento/",
-  "publicadoEm": "2026-11-11T13:28:23-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-01"
- },
- {
-  "titulo": "Dividendos da Petrobras caem; especialistas indicam cautela na carteira",
-  "resumo": "Petrobras distribuirá R$ 1,19 por ação no 3º trimestre de 2026, abaixo da expectativa do mercado. Especialistas mantêm a estatal na carteira de renda, porém com peso moderado e expectativa calibrada devido ao aumento do capex.",
-  "fatos": [
-   "Petrobras distribuirá R$ 15,3 bilhões em dividendos no 3º trimestre de 2026.",
-   "Provento por ação: R$ 1,19, abaixo do consenso do mercado.",
-   "Lucro trimestral foi R$ 39,8 bilhões, alta de 21,5% em relação a 2025.",
-   "Lucro caiu 24% em relação ao 2º trimestre de 2026.",
-   "Brent médio no trimestre foi US$ 96,8, US$ 8 abaixo do período anterior.",
-   "Capex 2026 foi elevado de US$ 19,4 bilhões para US$ 24-25,5 bilhões.",
-   "Fluxo de caixa livre caiu 11,9% no trimestre, para R$ 34 bilhões.",
-   "Dividend yield trimestral estimado em 2,6%, anualizado próximo de 10%.",
-   "Ações PETR4 fecharam a R$ 44,95 no dia 10/11/2026.",
-   "Plano de negócios para 2027-2031 será divulgado em 23 de novembro."
-  ],
-  "explicacao": [
-   "A Petrobras anunciou a distribuição de R$ 15,3 bilhões em dividendos no terceiro trimestre de 2026, o equivalente a R$ 1,19 por ação, valor inferior às estimativas dos analistas que esperavam entre US$ 3,6 bilhões e US$ 4,2 bilhões. O lucro da estatal cresceu 21,5% em relação ao mesmo período de 2025, somando R$ 39,8 bilhões.",
-   "A queda nos dividendos decorre do aumento dos investimentos (capex), revisão do consumo de capital de giro e itens não recorrentes como impostos e provisões judiciais. A Petrobras elevou seu capex para 2026, o que reduz o fluxo de caixa disponível para distribuição aos acionistas, apesar do crescimento na produção de petróleo.",
-   "Apesar da redução nos proventos, os especialistas consultados mantêm a visão estrutural positiva para a Petrobras, dada sua posição no pré-sal e balanço saudável. Porém, recomendam moderação na exposição dos investidores e ajuste das expectativas quanto à geração de dividendos futuros.",
-   "O mercado aguarda o Plano de Negócios 2027-2031, previsto para 23 de novembro, que deve esclarecer os investimentos futuros e a política de remuneração aos acionistas, especialmente diante de fatores externos como a volatilidade do preço do petróleo e o câmbio."
-  ],
-  "detalhes": [
-   "Anúncio feito no dia 11 de novembro de 2026.",
-   "Dividendos ficaram abaixo das faixas projetadas por bancos e analistas.",
-   "Queda do lucro em relação ao trimestre anterior influenciada pelo preço do petróleo e câmbio.",
-   "Itens não recorrentes somaram cerca de R$ 8 bilhões impactando o lucro.",
-   "Expectativa de produção aumentou para até 3,4 milhões de barris por dia em 2026.",
-   "Proventos extraordinários não foram anunciados neste trimestre.",
-   "Especialistas indicam moderação na posição da Petrobras em carteiras de renda fixa."
-  ],
-  "declaracoes": [
-   {
-    "quem": "João Luis Debom, sócio da Supernova Investimentos",
-    "oque": "A operação foi boa, mas o caixa disponível para acionistas diminuiu devido a maior investimento e capital de giro."
-   },
-   {
-    "quem": "Enrico Cozzolino, CEO e estrategista da Zermatt Partners",
-    "oque": "Qualquer aumento no capex compromete diretamente o valor dos dividendos pelo critério da empresa."
-   },
-   {
-    "quem": "Rafael Minotto, analista da Ciano Investimentos",
-    "oque": "Downgrade dos dividendos vem também pela pressão de itens não recorrentes e fatores externos como petróleo e câmbio."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Petrobras divulga balanço do 3º trimestre e anúncio de dividendos."
-   },
-   {
-    "quando": "11 de novembro de 2026",
-    "oque": "Mercado reage com queda de cerca de 3% nas ações PETR4."
-   },
-   {
-    "quando": "22 de dezembro de 2026",
-    "oque": "Data para negociação das ações sem direito ao próximo dividendo."
-   },
-   {
-    "quando": "10 de dezembro de 2026",
-    "oque": "Prazo para definição entre dividendos e juros sobre capital próprio."
-   },
-   {
-    "quando": "23 de novembro de 2026",
-    "oque": "Divulgação do Plano de Negócios 2027-2031 da Petrobras."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Capex",
-    "significado": "Investimentos feitos em bens duráveis pela empresa."
-   },
-   {
-    "termo": "Dividend yield",
-    "significado": "Rendimento percentual dos dividendos em relação ao preço da ação."
-   },
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização."
-   }
-  ],
-  "pergunta": "Você considera Petrobras para sua carteira de dividendos mesmo com capex em alta?",
-  "tamanhoTexto": 10376,
-  "numeros": [
-   {
-    "valor": "R$ 15,3 bilhões",
-    "rotulo": "Valor total dos dividendos no 3º trimestre de 2026"
-   },
-   {
-    "valor": "R$ 1,19",
-    "rotulo": "Dividendos por ação no 3º trimestre de 2026"
-   },
-   {
-    "valor": "R$ 39,8 bilhões",
-    "rotulo": "Lucro da Petrobras no 3º trimestre de 2026"
-   },
-   {
-    "valor": "21,5%",
-    "rotulo": "Alta do lucro em relação ao 3º trimestre de 2025"
-   },
-   {
-    "valor": "24%",
-    "rotulo": "Queda do lucro em relação ao 2º trimestre de 2026"
-   },
-   {
-    "valor": "US$ 96,8",
-    "rotulo": "Preço médio do barril de Brent no trimestre"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Capex 2026",
-    "antes": "US$ 19,4 bilhões",
-    "depois": "US$ 24 a 25,5 bilhões"
-   },
-   {
-    "item": "Produção diária 2026",
-    "antes": "3,1 milhões de barris",
-    "depois": "3,3 a 3,4 milhões de barris"
-   },
-   {
-    "item": "Dividendos 3T 2025",
-    "antes": "R$ 0,94 por ação",
-    "depois": "R$ 1,19 por ação no 3T 2026"
-   }
-  ],
-  "destaque": "R$ 1,19 por",
-  "porQueImporta": "A redução dos dividendos da Petrobras pode impactar a renda de investidores que usam esses proventos como fonte de receita. Ajustar expectativas e o peso do ativo na carteira ajuda a equilibrar riscos diante do aumento de investimentos e volatilidade do petróleo.",
-  "impactoMercado": "A notícia reforça a necessidade de cautela com Petrobras em carteiras focadas em dividendos, levando investidores a diversificar e acompanhar políticas de investimentos e o preço do petróleo, influenciando a volatilidade das ações PETR4 e PETR3.",
-  "entenda": "Dividendos são a parte do lucro distribuída aos acionistas, e na Petrobras eles dependem do caixa livre disponível após investimentos. O capex é o investimento em ativos e pode reduzir o dinheiro disponível para esses pagamentos.",
-  "observar": "Fique de olho na divulgação do Plano de Negócios 2027-2031 em 23/11 e nos resultados do 4º trimestre para avaliar a política de dividendos e investimentos da Petrobras.",
-  "publico": [
-   "Investidores",
-   "Iniciantes",
-   "CLT"
-  ],
-  "angulo": "A notícia traz um cenário realista dos dividendos da Petrobras, mostrando a importância de entender os impactos dos investimentos e preços do petróleo na renda futura, motivando o aprendizado aprofundado no mercado financeiro.",
-  "gancho": "*Dividendos* Petrobras em queda",
-  "ideias": [
-   "Por que os dividendos da Petrobras caíram em 2026?",
-   "Qual o impacto do capex alto nos proventos da Petrobras?",
-   "Como ajustar a carteira de dividendos com Petrobras?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Dividendos",
-  "icone": "grafico",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "url": "https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-encolheram-ainda-vale-ter-petr4-na-carteira-de-renda/",
-  "publicadoEm": "2026-11-11T14:15:44-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-02"
- },
- {
-  "titulo": "Amazon e Google podem lucrar bilhões com IPO da Anthropic",
-  "resumo": "Anthropic abrirá capital em novembro com valor esperado de até US$ 1,4 trilhão. Amazon e Google, maiores acionistas externos, podem ver ganhos bilionários com seus investimentos.",
-  "fatos": [
-   "Anthropic pode ser avaliada em até US$ 1,4 trilhão após IPO.",
-   "Amazon e Google detêm juntos mais de 25% das ações da Anthropic.",
-   "Amazon investiu US$ 18 bilhões, podendo valer US$ 250 bilhões.",
-   "Google aportou US$ 33 bilhões, com possível valorização para US$ 140 bilhões.",
-   "Amazon fez aporte inicial de US$ 1,25 bilhão em 2023.",
-   "Anthropic escolheu Amazon como principal fornecedora de serviços de nuvem.",
-   "Amazon constrói grande data center para Anthropic.",
-   "Primeiros investidores foram indivíduos com grandes fortunas, como Jaan Tallinn e Sam Bankman-Fried.",
-   "IPO está previsto para novembro de 2026.",
-   "Microsoft investiu US$ 1 bilhão na concorrente OpenAI em 2019."
-  ],
-  "explicacao": [
-   "A Anthropic, startup de inteligência artificial fundada há cinco anos, prepara um IPO que pode avaliá-la em até US$ 1,4 trilhão. Amazon e Google são principais investidores externos, detendo juntos mais de 25% das ações.",
-   "Amazon investiu US$ 18 bilhões e pode ver seu valor chegar a US$ 250 bilhões, enquanto Google aportou US$ 33 bilhões com possível valorização para US$ 140 bilhões. O mercado de IA está em crescimento acelerado impulsionando esses resultados.",
-   "Essa relação reflete o paradoxo do boom da IA: startups desenvolvem a tecnologia na linha de frente, mas as gigantes de tecnologia lucram mais com a comercialização e infraestrutura, como a computação em nuvem e chips.",
-   "Com a citada parceria entre Anthropic e Amazon para serviços de nuvem e chips, e investimento paralelo do Google, o futuro da IA no mercado dependerá da demanda e da viabilidade de monetizar essa inovação."
-  ],
-  "detalhes": [
-   "Investimentos da Amazon e Google começaram em 2023 e se ampliaram ao longo do ano.",
-   "Amazon é fornecedora principal de computação em nuvem para Anthropic.",
-   "Google forneceu chips internos para Anthropic desde 2023.",
-   "Amazon constrói infraestrutura dedicada para atender demanda da Anthropic.",
-   "IPO da Anthropic pode ser um dos maiores da história.",
-   "Primeiros investidores foram principalmente pessoas físicas com grandes fortunas.",
-   "Parceria entre Amazon e Anthropic é descrita como 'simbiótica'."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Andy Jassy, presidente-executivo da Amazon",
-    "oque": "IA é oportunidade para ampliar o tamanho da Amazon."
-   },
-   {
-    "quem": "Adam Selipsky, ex-chefe da divisão de nuvem da Amazon",
-    "oque": "Relação com Anthropic é 'muito simbiótica' e fortalece desenvolvimento de chips."
-   },
-   {
-    "quem": "Matt McIlwain, sócio do Madrona Venture Group",
-    "oque": "Ganho potencial da Amazon é a participação acionária significativa na Anthropic."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2021",
-    "oque": "Fundação da Anthropic."
-   },
-   {
-    "quando": "2019",
-    "oque": "Microsoft investe US$ 1 bilhão na OpenAI."
-   },
-   {
-    "quando": "2023",
-    "oque": "Google faz primeiro investimento na Anthropic."
-   },
-   {
-    "quando": "Setembro 2023",
-    "oque": "Amazon faz aporte inicial de US$ 1,25 bilhão na Anthropic."
-   },
-   {
-    "quando": "Novembro 2026",
-    "oque": "IPO da Anthropic previsto para este mês."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IPO",
-    "significado": "Oferta pública inicial: quando uma empresa abre seu capital na bolsa de valores."
-   },
-   {
-    "termo": "Inteligência Artificial (IA)",
-    "significado": "Tecnologia que imita inteligência humana para realizar tarefas complexas."
-   },
-   {
-    "termo": "Computação em nuvem",
-    "significado": "Uso de servidores remotos para armazenar e processar dados pela internet."
-   }
-  ],
-  "pergunta": "Você acredita que a inteligência artificial mudará a forma como investimos em tecnologia?",
-  "tamanhoTexto": 7827,
-  "numeros": [
-   {
-    "valor": "1,4 trilhão",
-    "rotulo": "Avaliação esperada da Anthropic (em dólares)"
-   },
-   {
-    "valor": "25%",
-    "rotulo": "Participação acionária conjunta da Amazon e Google na Anthropic"
-   },
-   {
-    "valor": "18 bilhões",
-    "rotulo": "Investimento da Amazon na Anthropic (em dólares)"
-   },
-   {
-    "valor": "33 bilhões",
-    "rotulo": "Investimento do Google na Anthropic (em dólares)"
-   },
-   {
-    "valor": "1,25 bilhão",
-    "rotulo": "Aporte inicial da Amazon em 2023 (em dólares)"
-   },
-   {
-    "valor": "250 bilhões",
-    "rotulo": "Valor esperado dos investimentos da Amazon na Anthropic"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 1,4 trilhão",
-  "porQueImporta": "O IPO da Anthropic mostra como investimentos estratégicos em tecnologia podem gerar valores bilionários para grandes empresas. Para quem investe, isso evidencia a importância de acompanhar o setor de IA e os movimentos das gigantes tecnológicas aliadas às startups inovadoras.",
-  "impactoMercado": "O avanço da IA e o sucesso da Anthropic podem impulsionar os setores de tecnologia, serviços em nuvem e hardware, influenciando ações e avaliação de empresas como Amazon, Google e Nvidia, com foco em capacidade computacional e parcerias estratégicas.",
-  "entenda": "A Anthropic é uma startup focada em IA que entrará na bolsa com uma oferta pública inicial (IPO). IPO é quando uma empresa vende ações no mercado pela primeira vez, permitindo captar recursos e colocando seu valor à mostra para investidores.",
-  "observar": "Acompanhe o IPO da Anthropic em novembro e os relatórios trimestrais das gigantes Amazon e Google sobre seus investimentos em IA para entender o impacto no mercado e na tecnologia.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários"
-  ],
-  "angulo": "Essa notícia ensina o impacto dos investimentos estratégicos em IA e como grandes empresas criam valor junto a startups, despertando o interesse em aprender mais sobre o mercado e suas oportunidades.",
-  "gancho": "*IPO* da Anthropic: gigantes da *IA*",
-  "ideias": [
-   "Como Amazon e Google lucram com o IPO da Anthropic",
-   "Entenda a importância do IPO para startups de IA",
-   "O que o IPO da Anthropic revela sobre o mercado de tecnologia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/amazon-e-google-podem-ganhar-bilhoes-de-dolares-com-ipo-da-anthropic.shtml",
-  "publicadoEm": "2026-11-11T11:51:00-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-03"
- },
- {
-  "titulo": "Venda de veículos cresce 16,1% em 2026; Anfavea busca diálogo com governo",
-  "resumo": "Segundo Anfavea, vendas de veículos no Brasil subiram 16,1% até outubro. A entidade quer discutir políticas para o setor automotivo com o governo reeleito.",
-  "fatos": [
-   "Vendas cresceram 16,1% até outubro de 2026, totalizando 2,52 milhões de veículos.",
-   "Produção aumentou 8% no mesmo período, com 2,42 milhões de veículos fabricados.",
-   "Venda de veículos importados cresceu quase 30%, com 400 mil unidades até outubro.",
-   "Previsão de 700 mil veículos importados até o fim de 2026, representando 23% do mercado.",
-   "Exportações recuaram 23,5%, totalizando 363,1 mil veículos exportados até outubro.",
-   "Receita com exportações diminuiu 21,8%, alcançando US$ 9,3 bilhões.",
-   "Queda de 5,4% nas vendas de carros a combustão no mercado interno em 2026.",
-   "Imposto Seletivo não alterou significativamente a tributação do setor.",
-   "Preocupação com elevação da carga tributária pela nova Contribuição Social sobre Bens e Serviços (CBS).",
-   "China superou Argentina como maior exportadora para o Brasil desde julho de 2025."
-  ],
-  "explicacao": [
-   "A Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea), representada pelo presidente Igor Calvet, divulgou que as vendas no mercado interno cresceram 16,1% até outubro de 2026, enquanto a produção aumentou 8% no mesmo período.",
-   "Esse ritmo maior nas vendas em relação à produção ocorre principalmente pelo avanço das importações, impulsionadas pelo crescimento de quase 30% na venda de veículos importados, especialmente da China, que já representa 23% do mercado com previsão de 700 mil unidades importadas no ano.",
-   "O desequilíbrio preocupa a Anfavea, que nota também perda de espaço das fábricas brasileiras na exportação, onde a China substituiu a Argentina como principal fornecedora para o Brasil desde julho de 2025, além do impacto potencial da nova carga tributária da CBS sobre o setor.",
-   "Para o futuro, o presidente busca conversar com o governo reeleito para planejar políticas industriais que estejam alinhadas a novos ciclos, como o desenvolvimento de baterias, eletrônicos e acordos comerciais para fortalecer a produção local e a competitividade."
-  ],
-  "detalhes": [
-   "Presidente da Anfavea: Igor Calvet.",
-   "Data do balanço: 11 de novembro de 2026.",
-   "Venda de veículos novos em outubro cresceu 1,8%, com 265,5 mil unidades.",
-   "Produção cresceu 2,7% em outubro na comparação anual.",
-   "Programa Mover: incentivos fiscais brasileiros para veículos eficientes e produção local.",
-   "Imposto Seletivo segue premissas do imposto verde, pouco impacto atual.",
-   "CBS substituirá IPI, PIS e Cofins, impactando carga tributária do setor."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Igor Calvet, presidente da Anfavea",
-    "oque": "Pretendemos discutir novas políticas industriais com o governo reeleito para fortalecer o setor automotivo."
-   },
-   {
-    "quem": "Igor Calvet",
-    "oque": "Há necessidade de pensar em novos ciclos, como baterias e eletrônicos, para o setor automotivo brasileiro."
-   },
-   {
-    "quem": "Igor Calvet",
-    "oque": "A carga tributária da nova CBS, prevista em 11%, preocupa a indústria automobilística."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "julho de 2025",
-    "oque": "China passa a ser maior exportadora de veículos para o Brasil, superando Argentina."
-   },
-   {
-    "quando": "janeiro a outubro de 2026",
-    "oque": "Mercado interno registra crescimento de vendas de 16,1% e produção de 8%."
-   },
-   {
-    "quando": "outubro de 2026",
-    "oque": "Vendas de veículos novos cresceram 1,8% em relação a outubro de 2025."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Anfavea",
-    "significado": "Associação dos fabricantes de veículos no Brasil"
-   },
-   {
-    "termo": "Mover",
-    "significado": "Programa governamental de incentivos para setor automotivo"
-   },
-   {
-    "termo": "CBS",
-    "significado": "Nova Contribuição Social sobre Bens e Serviços"
-   }
-  ],
-  "pergunta": "Como você vê o impacto das importações no setor automotivo brasileiro?",
-  "tamanhoTexto": 4411,
-  "numeros": [
-   {
-    "valor": "16,1%",
-    "rotulo": "Crescimento das vendas até outubro de 2026"
-   },
-   {
-    "valor": "8%",
-    "rotulo": "Crescimento da produção até outubro de 2026"
-   },
-   {
-    "valor": "700 mil",
-    "rotulo": "Previsão de veículos importados em 2026"
-   },
-   {
-    "valor": "23%",
-    "rotulo": "Participação de importados no mercado brasileiro"
-   },
-   {
-    "valor": "363,1 mil",
-    "rotulo": "Veículos exportados até outubro de 2026"
-   },
-   {
-    "valor": "21,8%",
-    "rotulo": "Recuo na receita com exportações"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Venda de veículos",
-    "antes": "no acumulado até outubro de 2025 não informado",
-    "depois": "+16,1% até outubro de 2026"
-   },
-   {
-    "item": "Produção de veículos",
-    "antes": "no acumulado até outubro de 2025 não informado",
-    "depois": "+8% até outubro de 2026"
-   },
-   {
-    "item": "Exportação de veículos",
-    "antes": "anterior a 2026 maior que 363,1 mil unidades",
-    "depois": "-23,5% até outubro de 2026"
-   }
-  ],
-  "destaque": "16,1% de crescimento",
-  "porQueImporta": "Esse crescimento nas vendas e o aumento das importações impactam a estrutura do setor automotivo, que precisa se adaptar em termos de produção local, tecnologia e competitividade para manter empregos e investimentos no Brasil.",
-  "impactoMercado": "O aumento das importações e a nova carga tributária trazem desafios para montadoras e fornecedores locais, podendo influenciar decisões sobre investimentos, cadeias produtivas e o ritmo da eletrificação no setor.",
-  "entenda": "Venda de veículos refere-se ao total de carros e caminhões vendidos no país, produção indica veículos fabricados localmente, e importação são os veículos trazidos do exterior. A diferença crescente entre vendas e produção mostra a entrada maior de importados no mercado.",
-  "observar": "Acompanhe a definição da carga tributária da CBS e eventuais novas políticas industriais após diálogo entre Anfavea e governo reeleito, que podem impactar produção e importações.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "O crescimento das vendas de veículos e a participação maior de importados mostram como o mercado automotivo se transforma, criando pontos essenciais para entender economia e política industrial no Brasil.",
-  "gancho": "Setor *automotivo* em *crescimento*",
-  "ideias": [
-   "Por que cresce a venda de veículos no Brasil?",
-   "Importados crescem 30%: impacto na indústria nacional",
-   "O que esperar das políticas para o setor automotivo em 2027?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/venda-de-veiculos-cresce-161percent-no-ano-e-anfavea-fala-em-discutir-politica-para-o-setor-com-o-governo-reeleito.ghtml",
-  "publicadoEm": "2026-11-11T13:51:55-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-04"
- },
- {
-  "titulo": "Operação Caronte apreende bens do falido Grupo Refit no RJ",
-  "resumo": "MPRJ apreendeu duas aeronaves, sete carros de luxo, dinheiro e criptomoedas ligados a Ricardo Magro, controlador do Grupo Refit.",
-  "fatos": [
-   "Operação Caronte ocorreu em 11/11/2026 pelo MPRJ.",
-   "Foram apreendidas duas aeronaves avaliadas em R$ 25 milhões.",
-   "Sete carros de luxo apreendidos valem cerca de R$ 10 milhões.",
-   "Também foram achados R$ 100 mil em espécie e US$ 40 mil.",
-   "Foi recolhida uma carteira digital de criptomoedas de valor não estimado.",
-   "Dez pessoas foram presas preventivamente na ação.",
-   "Ricardo Magro e seus pais são considerados foragidos.",
-   "Magro é controlador do falido Grupo Refit, da antiga Refinaria de Manguinhos.",
-   "Investigação aponta fraude fiscal de até R$ 5,5 bilhões.",
-   "Suspeitos incluem ex-presidente da Refit e suplente de deputado federal."
-  ],
-  "explicacao": [
-   "Nesta quarta-feira (11), o Ministério Público do Rio de Janeiro (MPRJ) realizou a Operação Caronte e apreendeu bens ligados ao Grupo Refit, falido e controlado por Ricardo Magro, um dos maiores devedores de imposto do Brasil. Entre os bens estavam duas aeronaves, sete carros de luxo, dinheiro em espécie e criptomoedas.",
-   "A operação resultou na prisão preventiva de 10 pessoas, incluindo o ex-presidente da Refit, além do tio do empresário e um piloto conhecido. Ricardo Magro, no entanto, não foi encontrado e agora é considerado foragido, com indícios de estar nos Estados Unidos. Seus pais também são procurados, supostamente em Portugal.",
-   "A apreensão dos bens, avaliada em dezenas de milhões de reais, busca aprofundar as investigações sobre fraudes fiscais de até R$ 5,5 bilhões e lavagem de dinheiro envolvendo o grupo. O MPRJ detalhou que a movimentação financeira suspeita envolve IPs no exterior, fortalecendo a suspeita de fuga internacional.",
-   "O caso tem desdobramentos importantes para a Justiça e para o mercado, pois envolve um esquema milionário de crimes financeiros em empresas falidas, destacando a complexidade das investigações em crimes fiscais e lavagem de dinheiro no Brasil."
-  ],
-  "detalhes": [
-   "Ricardo Magro é controlador do Grupo Refit, falido e investigado por fraude fiscal.",
-   "A operação foi coordenada pelo Ministério Público do Rio de Janeiro em 11 de novembro.",
-   "Apreensões aconteceram nos endereços ligados aos investigados.",
-   "IP de logins indicam que Magro pode estar nos Estados Unidos.",
-   "Pais de Magro, João Manuel Magro e Gabriela Andrade Magro, supostamente estão em Portugal.",
-   "Entre os presos está Cristiano Beraldo, ligado ao MBL e suplente do PP por SP.",
-   "Bens apreendidos somam aproximadamente R$ 35 milhões em aeronaves e carros, além de dinheiro e criptomoedas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ministério Público do Rio de Janeiro (MPRJ)",
-    "oque": "Confirmou prisão de 10 pessoas e que Magro é tratado como foragido."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "11/11/2026",
-    "oque": "Realização da Operação Caronte e apreensões contra Grupo Refit."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fraude fiscal",
-    "significado": "Ocultar informações para pagar menos imposto legalmente devido."
-   },
-   {
-    "termo": "Lavagem de dinheiro",
-    "significado": "Disfarçar dinheiro ilegal para parecer origem legítima."
-   },
-   {
-    "termo": "Carteira de criptomoedas",
-    "significado": "Aplicativo para guardar e movimentar moedas digitais."
-   }
-  ],
-  "pergunta": "Como você avalia o impacto de fraudes como essa no mercado financeiro?",
-  "tamanhoTexto": 3283,
-  "numeros": [
-   {
-    "valor": "25 milhões",
-    "rotulo": "Valor das aeronaves apreendidas em reais"
-   },
-   {
-    "valor": "10 milhões",
-    "rotulo": "Valor dos carros de luxo apreendidos em reais"
-   },
-   {
-    "valor": "100 mil",
-    "rotulo": "Dinheiro em espécie apreendido em reais"
-   },
-   {
-    "valor": "40 mil",
-    "rotulo": "Dinheiro em espécie apreendido em dólares"
-   },
-   {
-    "valor": "5,5 bilhões",
-    "rotulo": "Valor da fraude fiscal investigada em reais"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 5,5 bilhões",
-  "porQueImporta": "Essa investigação revela o tamanho das fraudes fiscais e lavagem de dinheiro em grandes grupos empresariais. Entender esses casos ajuda investidores a identificar riscos de governança e compliance que podem afetar empresas e setores.",
-  "impactoMercado": "A operação destaca os desafios para setores afetados por fraudes e empresas em recuperação judicial. Bens apreendidos mostram a extensão dos ativos envolvidos, podendo influenciar confiança em ações relacionadas a falências e irregularidades.",
-  "entenda": "Fraude fiscal é quando uma empresa omite ou falseia informações para pagar menos impostos. A lavagem de dinheiro é o processo de esconder a origem ilegal do dinheiro, dificultando sua identificação pelos órgãos fiscais e judiciais.",
-  "observar": "Fique atento às próximas decisões judiciais dos presos e possíveis buscas internacionais a Ricardo Magro e seus familiares considerados foragidos.",
-  "publico": [
-   "Investidores",
-   "Iniciantes",
-   "Day traders",
-   "Empresários"
-  ],
-  "angulo": "Explicar uma grande operação contra fraudes mostra o quanto problemas legais podem afetar a saúde financeira de empresas, essencial para interessados em mercado e na segurança dos investimentos.",
-  "gancho": "*Fraude* e *investigações* em grupo Refit",
-  "ideias": [
-   "O que é fraude fiscal e como identificar riscos em empresas",
-   "Bens milionários apreendidos em operação contra grupo Refit",
-   "Quem são os principais alvos da Operação Caronte no RJ"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "cadeado",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 11,
-  "status": "nova",
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/11/operacao-contra-grupo-refit-apreendeu-aeronaves-carros-de-luxo-dinheiro-e-criptomoedas.ghtml",
-  "publicadoEm": "2026-11-11T14:10:44-03:00",
-  "data": "2026-11-11",
-  "id": "2026-11-11-05"
- },
- {
-  "tipo": "sinal",
-  "slug": "largest-company-end-of-november-2026",
-  "titulo": "Mercado de previsões vê 94.9% de chance de Apple ser a maior empresa em novembro",
-  "resumo": "Os apostadores acreditam que a Apple manterá sua posição de liderança no mercado em novembro.",
-  "probs": [
-   {
-    "opcao": "Apple",
-    "prob": 94.9
-   },
-   {
-    "opcao": "Empresa H",
-    "prob": 50.0
-   },
-   {
-    "opcao": "Empresa I",
-    "prob": 50.0
-   },
-   {
-    "opcao": "Empresa J",
-    "prob": 50.0
-   }
-  ],
-  "prazo": "2026-12-01",
-  "volume24h": "US$ 64 mil",
-  "fatos": [
-   "Apple: 94,9%",
-   "Empresa H: 50,0%",
-   "Empresa I: 50,0%",
-   "Empresa J: 50,0%"
-  ],
-  "numeros": [
-   {
-    "valor": "94,9%",
-    "rotulo": "Apple"
-   },
-   {
-    "valor": "50,0%",
-    "rotulo": "Empresa H"
-   },
-   {
-    "valor": "50,0%",
-    "rotulo": "Empresa I"
-   },
-   {
-    "valor": "50,0%",
-    "rotulo": "Empresa J"
-   }
-  ],
-  "destaque": "94,9%",
-  "gancho": "*Dominância da Apple* no mercado",
-  "entenda": "O valor de mercado das empresas é crucial para os investidores, pois impacta seus portfólios e a economia em geral. A percepção de valor influencia as decisões de investimento.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/largest-company-end-of-november-2026",
-  "publicadoEm": "2026-11-11T14:28:12-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-11T14:28:12-03:00",
-  "data": "2026-11-11",
-  "status": "atualizada",
-  "id": "2026-11-11-p1",
-  "atualizadoEm": "2026-11-16T08:32:44-03:00"
  }
 ]
