@@ -1,5 +1,721 @@
 [
  {
+  "titulo": "BC esclarece regras para transferências internacionais com criptoativos",
+  "resumo": "Banco Central reuniu setor cripto em 19/11 para explicar regras sobre operações internacionais e envio de dados ao regulador.",
+  "fatos": [
+   "Reunião realizada em 19 de novembro de 2026 pelo Banco Central.",
+   "Encontro com representantes do setor de ativos digitais sem participação aberta.",
+   "Discutiu regras para operações internacionais com cripto e envio de informações ao BC.",
+   "Destaque para distinção entre pagamentos internacionais e operações de câmbio com cripto.",
+   "Operações com entrega de moeda estrangeira exigem autorização do BC.",
+   "Uso do termo 'operação sanduíche' foi desaconselhado pelo BC por ser confuso.",
+   "Cerca de 100 prestadoras enviaram 600 mil registros ao sistema ACAM212 em maio, com muitas inconsistências.",
+   "Dados de maio serão usados apenas para estudos internos pelo BC.",
+   "Envio de informações atualizado para movimentos de novembro, com prazo até 5 de dezembro.",
+   "BC planeja consulta pública sobre operações entre participantes profissionais do setor."
+  ],
+  "explicacao": [
+   "Em 19 de novembro de 2026, o Banco Central promoveu reunião com empresas e entidades do setor de criptoativos para esclarecer dúvidas sobre regulamentação de operações internacionais com esses ativos e o envio obrigatório de informações ao BC.",
+   "O encontro teve formato expositivo, sem debates abertos, focando em uniformizar o entendimento sobre diferentes modelos de negócio e detalhando quando transferências internacionais com cripto são classificadas como operações cambiais, que exigem autorização do BC.",
+   "Foram apresentados casos práticos, como conversão de reais em stablecoins e entrega de moeda estrangeira no exterior, destacando que pequenas variações na estrutura das transações podem alterar o enquadramento regulatório, e que operações só são autorizadas mediante regras específicas.",
+   "O BC também abordou problemas com dados inconsistentes enviados pelas prestadoras ao sistema ACAM212, informando que registros com erros serão utilizados apenas para estudo e que o reporte será retomado para novembro, com novas checagens automáticas."
+  ],
+  "detalhes": [
+   "Quem: Banco Central do Brasil e setor de criptoativos.",
+   "Quando: reunião em 19 de novembro de 2026; dados referentes a maio e novembro de 2026.",
+   "Onde: reunião promovida pelo BC, sem detalhar local físico ou virtual.",
+   "Como: formato expositivo, sem debate, para uniformização de entendimentos.",
+   "Comparação com antes: regras em vigor sem alteração anunciada, foco na interpretação.",
+   "Contexto: reforço regulatório e obrigações de envio de dados pelo setor cripto.",
+   "Novidade: BC irá publicar esclarecimentos escritos e pode promover novos encontros."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Documento do Banco Central obtido pelo Valor",
+    "oque": "Pequenas variações nas transações podem mudar o enquadramento regulatório, com casos permitidos e não permitidos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de novembro de 2026",
+    "oque": "Banco Central realiza reunião com empresas do setor de criptoativos."
+   },
+   {
+    "quando": "maio de 2026",
+    "oque": "Início da exigência de envio de informações ao BC via sistema ACAM212."
+   },
+   {
+    "quando": "até 5 de dezembro de 2026",
+    "oque": "Prazo para envio dos dados referentes a operações de novembro de 2026."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Stablecoin",
+    "significado": "Criptoativo com valor atrelado a moeda ou ativo estável."
+   },
+   {
+    "termo": "Operação de câmbio",
+    "significado": "Transação autorizada para compra ou venda de moeda estrangeira."
+   },
+   {
+    "termo": "ACAM212",
+    "significado": "Sistema do BC para envio de informações sobre ativos virtuais."
+   }
+  ],
+  "pergunta": "Você entende as regras para transferências internacionais com cripto?",
+  "tamanhoTexto": 6137,
+  "numeros": [
+   {
+    "valor": "600.000",
+    "rotulo": "registros enviados ao BC em maio por prestadoras"
+   },
+   {
+    "valor": "100",
+    "rotulo": "prestadoras que enviaram dados ao sistema ACAM212"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "19/11/2026: reunião BC",
+  "porQueImporta": "A reunião do BC é fundamental para assegurar que empresas de cripto cumpram corretamente as regras de operações internacionais e envio de informações, garantindo maior transparência e segurança no mercado e reduzindo riscos regulatórios para o setor.",
+  "impactoMercado": "A uniformização das interpretações das regras pode evitar disputas regulatórias e irregularidades, influenciando instituições financeiras e empresas de cripto em suas operações internacionais e no registro das transações junto ao BC.",
+  "entenda": "Operações internacionais com criptoativos envolvem regras específicas que determinam quando tais movimentações são consideradas pagamentos, transferências ou operações cambiais. O Banco Central regula essas operações para evitar fraudes e garantir o controle sobre moedas estrangeiras e ativos digitais.",
+  "observar": "Fique atento ao envio dos dados de novembro até 5 de dezembro e possíveis publicações do BC com esclarecimentos sobre dúvidas e novas regras para o setor cripto.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicar de forma simples as regras do Banco Central para transferências internacionais com cripto ajuda quem está começando ou já atua a entender melhor o mercado e a importância da regulamentação.",
+  "gancho": "*Regulação* cripto BC",
+  "ideias": [
+   "Entenda as regras do BC para cripto no exterior",
+   "Por que o BC regula transferências internacionais com cripto?",
+   "Erros no envio de dados cripto: o que mudou com o BC"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Cripto",
+  "icone": "cadeado",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T23:35:54-03:00",
+  "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/11/19/bc-rene-setor-cripto-para-esclarecer-regras-de-transferncias-internacionais-e-prestao-de-informaes.ghtml",
+  "publicadoEm": "2026-11-19T20:07:11-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-09"
+ },
+ {
+  "titulo": "BofA vê chance de Brasil atrair capital, mas pede 'lição de casa' fiscal",
+  "resumo": "Executivos do Bank of America reconhecem cenário externo desafiador, mas destacam chance relevante para Brasil captar investimentos. Banco projeta dólar a R$ 5,85 para o fim de 2027.",
+  "fatos": [
+   "Bruno Saraiva é co-head de investment banking Brasil e head de equity capital markets Latam do BofA.",
+   "BofA cita necessidade de 'dever de casa' fiscal para atrair capital.",
+   "Banco projeta dólar a R$ 5,85 para final de 2027.",
+   "BofA revisa projeção de oito cortes de 0,25 ponto percentual na Selic até 2027.",
+   "Executivos destacam minério crítico e infraestrutura como setores atraentes.",
+   "Fluxo da B3 é positivo acumulado no ano, apesar de indefinições políticas.",
+   "Diogo Aragão, head de M&A Brasil do BofA, ressalta reservas relevantes de terras raras.",
+   "Expectativa de volatilidade permanece como principal preocupação no mercado.",
+   "IPOs devem voltar com força primeiro nos Estados Unidos, no Brasil focando empresas de alto crescimento."
+  ],
+  "explicacao": [
+   "O Bank of America, representado por seus líderes no Brasil, avalia que o país tem uma chance significativa de atrair investidores estrangeiros, desde que o governo faça a 'lição de casa' em relação ao pacote fiscal.",
+   "O cenário externo é desafiador devido ao crescimento econômico dos Estados Unidos e investimentos em Inteligência Artificial que favorecem o mercado americano, mas setores brasileiros como infraestrutura e minerais críticos continuam atrativos.",
+   "O déficit de infraestrutura e a posição do Brasil como fornecedor de terras raras são vantagens competitivas que mantêm o interesse estrangeiro, segundo os executivos do BofA.",
+   "O banco projeta um dólar cotado a R$ 5,85 no fim de 2027 e revisa a expectativa de cortes na taxa Selic. A volatilidade do mercado brasileiro ainda preocupa, principalmente no impacto sobre receitas das empresas."
+  ],
+  "detalhes": [
+   "Bruno Saraiva falou em entrevista no dia 19, destacando cenário externo e questões fiscais brasileiras.",
+   "O BofA considera a economia norte-americana mais atrativa devido ao crescimento e avanços em IA.",
+   "O Brasil abriga grandes reservas de minerais críticos, essenciais para tecnologias atuais.",
+   "Setores como infraestrutura ainda enfrentam déficit, mas são oportunidades para investidores estrangeiros.",
+   "Pacote fiscal é apontado como fator decisivo para mudanças no fluxo de investimentos.",
+   "Projeção anterior do BofA indicava oito cortes da Selic, mas está agora sob revisão.",
+   "A volatilidade pode impactar negativamente a receita das empresas brasileiras, segundo Aragão."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Saraiva, co-head investment banking Brasil e head equity capital",
+    "oque": "Brasil tem chance relevante de atrair capital se fizer o dever de casa fiscal."
+   },
+   {
+    "quem": "Diogo Aragão, head de M&A Brasil do BofA",
+    "oque": "É difícil ignorar o Brasil em terras raras, com grandes reservas."
+   },
+   {
+    "quem": "Diogo Aragão, head de M&A Brasil do BofA",
+    "oque": "Volatilidade é principal preocupação, afetando a receita mesmo se ativos ficarem mais baratos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de outubro de 2023",
+    "oque": "Executivos do BofA falam sobre cenário brasileiro e dólar em entrevista."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Selic",
+    "significado": "taxa básica de juros da economia brasileira, usada pelo Banco Central"
+   },
+   {
+    "termo": "IPOs",
+    "significado": "ofertas públicas iniciais de ações para captar recursos no mercado"
+   },
+   {
+    "termo": "minerais críticos",
+    "significado": "recursos naturais essenciais para tecnologias e indústrias estratégicas"
+   }
+  ],
+  "pergunta": "Você acredita que o Brasil fará a 'lição de casa' fiscal para atrair mais investimentos?",
+  "tamanhoTexto": 2247,
+  "numeros": [
+   {
+    "valor": "R$ 5,85",
+    "rotulo": "projeção do dólar para final de 2027"
+   },
+   {
+    "valor": "0,25",
+    "rotulo": "ponto percentual de possíveis cortes na Selic"
+   },
+   {
+    "valor": "8",
+    "rotulo": "número inicial de cortes projetados na Selic até 2027"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "dólar a R$",
+  "porQueImporta": "O posicionamento do BofA revela que o Brasil, apesar de um ambiente global complexo, pode se destacar na captação de investimentos se o governo mantiver disciplina fiscal, impactando diretamente o fluxo de capital para setores estratégicos e a cotação do dólar no longo prazo.",
+  "impactoMercado": "A expectativa de um dólar mais alto e a volatilidade apontada pelo BofA indicam desafios para investidores, que devem acompanhar setores como infraestrutura e minerais críticos. Além disso, o ritmo de cortes da Selic e a definição de políticas fiscais serão centrais para o apetite no mercado brasileiro.",
+  "entenda": "O dólar influencia o custo e o retorno de investimentos estrangeiros no Brasil, enquanto a Selic, taxa básica de juros, é importante para a economia e atratividade dos ativos locais. O pacote fiscal refere-se às medidas do governo para organizar contas públicas, essencial para a confiança dos investidores.",
+  "observar": "Fique atento aos anúncios sobre o pacote fiscal do governo, novas projeções do Banco Central, e movimentos do mercado global que podem impactar o fluxo de capital e o dólar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra que entender medidas fiscais e o cenário externo é essencial para quem deseja operar ou investir no Brasil, despertando interesse em aprender mais sobre mercado e estratégia financeira.",
+  "gancho": "*Brasil* atrai capital com *fiscal* em foco",
+  "ideias": [
+   "O que significa o pacote fiscal para investidores?",
+   "Como a volatilidade afeta seus investimentos no Brasil?",
+   "Por que o dólar pode subir até R$ 5,85 em 2027?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "moeda",
+  "fonte": "Bloomberg Línea",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T23:35:54-03:00",
+  "url": "https://www.bloomberglinea.com.br/brasil/brasil-tem-chance-de-atrair-capital-mas-precisa-fazer-licao-de-casa-diz-bofa/",
+  "publicadoEm": "2026-11-19T22:14:58-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-10"
+ },
+ {
+  "titulo": "Relator mantém texto do Senado para ajuste fiscal; vota Câmara segunda",
+  "resumo": "Deputado Mauro Benevides mantém texto aprovado no Senado para ajuste fiscal de R$ 50 bilhões em 2027. Proposta está prevista para votação na segunda-feira (23), com objetivo de estabilizar dívida e proteger políticas sociais.",
+  "fatos": [
+   "Mauro Benevides é relator do projeto na Câmara dos Deputados.",
+   "Texto do Senado foi mantido sem alterações no parecer da Câmara.",
+   "Projeto prevê economia de R$ 50 bilhões em 2027.",
+   "Votação na Câmara está marcada para segunda-feira, 23 de novembro de 2026.",
+   "Limite de 2% para crescimento dos gastos públicos em anos com contingenciamento.",
+   "Correção linear de 10% em benefícios fiscais para diversos setores econômicos.",
+   "Medida limita uso de créditos tributários cruzados para compensar impostos.",
+   "Empresas usaram R$ 200,1 bilhões em créditos para pagar tributos entre jan-set 2026.",
+   "Presidente da Câmara, Hugo Motta, decidiu acelerar votação na segunda-feira.",
+   "Ministro Bruno Moretti é responsável pela proposta do governo."
+  ],
+  "explicacao": [
+   "O relator do projeto de ajuste fiscal do governo Lula na Câmara, Mauro Benevides, apresentou parecer mantendo integralmente o texto aprovado pelo Senado. A proposta busca economizar R$ 50 bilhões em 2027.",
+   "A decisão de manter o texto intacto visa acelerar a aprovação, sinalizando positivamente para o mercado e sociedade. O ajuste limita o crescimento de gastos públicos a 2% em anos com contingenciamento e prevê um corte de 10% em benefícios fiscais.",
+   "O pacote objetiva conter despesas e aumentar arrecadação para estabilizar a dívida pública e preservar políticas sociais, além de restringir o uso de créditos tributários cruzados para compensação de impostos.",
+   "Com a votação prevista para segunda-feira, o governo trabalha para garantir apoio, contando com a facilitação da tramitação na Câmara, diferente do cenário desafiador no Senado."
+  ],
+  "detalhes": [
+   "Relator é Mauro Benevides, deputado da União Brasil-CE.",
+   "Texto aprovado anteriormente no Senado e mantido pela Câmara.",
+   "Objetivo é acelerar aprovação para dar segurança ao mercado.",
+   "Projeto busca conter crescimento das despesas e aumentar a arrecadação.",
+   "Inclui regras para contingenciamento orçamentário e cortes fiscais.",
+   "Limitação sobre créditos tributários cruzados evita compensação entre impostos diferentes.",
+   "Repercussão em setores produtivos devido a cortes e restrições fiscais."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Deputado Mauro Benevides, relator do projeto na Câmara",
+    "oque": "Manter texto intacto visa acelerar aprovação e enviar sinal positivo ao mercado."
+   },
+   {
+    "quem": "Ministro do Planejamento Bruno Moretti",
+    "oque": "Pacote fiscal dará segurança ao mercado, mas novas medidas podem surgir."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de novembro de 2026",
+    "oque": "Relator apresentou parecer mantendo texto do Senado."
+   },
+   {
+    "quando": "23 de novembro de 2026",
+    "oque": "Projeto de ajuste fiscal deve ser votado na Câmara."
+   },
+   {
+    "quando": "Janeiro a setembro de 2026",
+    "oque": "Empresas usaram R$ 200,1 bilhões em créditos para pagar impostos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Créditos tributários",
+    "significado": "Valores que empresas podem usar para compensar impostos devidos."
+   },
+   {
+    "termo": "Contingenciamento",
+    "significado": "Bloqueio temporário de gastos públicos para conter despesas."
+   },
+   {
+    "termo": "Corte linear",
+    "significado": "Redução uniforme aplicada a todos os setores ou benefícios."
+   }
+  ],
+  "pergunta": "Como você acha que o ajuste fiscal impacta o seu bolso e os investimentos?",
+  "tamanhoTexto": 4053,
+  "numeros": [
+   {
+    "valor": "50 bilhões",
+    "rotulo": "Economia estimada para 2027 com ajuste"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "Limite para crescimento de gastos em anos de contingenciamento"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Corte linear em benefícios fiscais para setores da economia"
+   },
+   {
+    "valor": "200,1 bilhões",
+    "rotulo": "Créditos tributários usados para pagamento de tributos (jan-set 2026)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 50 bilhões",
+  "porQueImporta": "O ajuste fiscal impacta diretamente no controle das contas públicas e na estabilidade econômica. Para quem investe, entender as mudanças e restrições fiscais é importante para avaliar riscos e oportunidades no cenário macroeconômico brasileiro.",
+  "impactoMercado": "A aprovação rápida pode reduzir incertezas econômicas, influenciando mercados de renda fixa e câmbio. Restrição dos créditos fiscais pode afetar fluxos de caixa de empresas, com impactos específicos no setor produtivo.",
+  "entenda": "O ajuste fiscal é um conjunto de medidas para limitar gastos públicos e aumentar arrecadação, visando a estabilidade da economia e o equilíbrio das contas do governo. Isso traz sinalizações importantes para a confiança dos investidores e a saúde financeira do país.",
+  "observar": "Acompanhe a votação do projeto na Câmara na segunda-feira (23/11) e eventuais medidas complementares anunciadas pelo governo para cumprimento das metas fiscais.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Essa notícia permite entender como ajustes fiscais influenciam o cenário econômico e decisões do governo, ajudando quem quer estudar mercado financeiro e acompanhar políticas públicas relevantes.",
+  "gancho": "*Ajuste Fiscal* na Câmara",
+  "ideias": [
+   "Como o ajuste fiscal pode impactar seus investimentos",
+   "O que muda com a votação do ajuste fiscal na Câmara",
+   "Créditos tributários: entenda as restrições do novo ajuste"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "G1 Economia",
+  "impacto": "medio",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T23:35:54-03:00",
+  "url": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml",
+  "publicadoEm": "2026-11-19T20:37:50-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-11"
+ },
+ {
+  "titulo": "Ações da Anthropic sobem 17%, mas Wall Street fecha em queda forte",
+  "resumo": "Anthropic abriu na bolsa com alta de 17%, mas S&P 500 caiu 2% e Nasdaq 2,25% em um dia negativo para tecnologia nos EUA.",
+  "fatos": [
+   "Anthropic teve alta de 17% em sua estreia na bolsa.",
+   "S&P 500 caiu 2% no fechamento do pregão.",
+   "Nasdaq Composite recuou 2,25% no mesmo dia.",
+   "Dow Jones caiu 1.101 pontos, equivalente a 2,19%.",
+   "29 das 30 ações do Dow Jones fecharam em baixa.",
+   "93% das ações do S&P 500 fecharam em queda na quinta-feira.",
+   "Nasdaq acumula queda de 5% na semana e 13,5% desde o pico em outubro.",
+   "Advanced Micro Devices (AMD) caiu 7,7% após denúncias envolvendo empresas chinesas.",
+   "AMD negou as alegações em comunicado oficial."
+  ],
+  "explicacao": [
+   "Na última quinta-feira, as ações da startup Anthropic avançaram 17% em sua estreia na bolsa de valores, mostrando entusiasmo inicial do mercado. No entanto, os principais índices dos Estados Unidos fecharam em queda acentuada.",
+   "O S&P 500 teve baixa de 2%, o Nasdaq Composite, grande foco em tecnologia, perdeu 2,25%, e o Dow Jones despencou 2,19%, ou 1.101 pontos. A queda foi causada por preocupações relacionadas à inteligência artificial e notícias específicas do setor, incluindo controvérsias envolvendo empresas como Nvidia e AMD.",
+   "O mercado enfrentou uma onda de vendas generalizadas, com 93% das ações do S&P 500 em baixa e 29 em 30 empresas do Dow Jones fechando no vermelho. Setores de tecnologia especialmente sofreram, devido ao receio sobre expansão de data centers e escândalos recentes.",
+   "Os próximos dias trarão mais atenção às movimentações das ações de tecnologia e inteligência artificial, assim como ao impacto que o desempenho do IPO da Anthropic pode ter na confiança dos investidores no setor."
+  ],
+  "detalhes": [
+   "Anthropic é uma startup no ramo de inteligência artificial que abriu capital recentemente.",
+   "O Dow Jones registrou queda expressiva, com 29 das 30 ações fechando em baixa.",
+   "A controvérsia envolvendo Nvidia e seu ex-CEO Jensen Huang afeta o setor de IA e tecnologia.",
+   "Relatório de vendedor a descoberto levantou questionamentos sobre a relação da AMD com empresas chinesas em listas negras.",
+   "Apesar da alta da Anthropic, o forte movimento de vendas generalizadas não permitiu recuperação do setor tecnológico.",
+   "A queda no Nasdaq reflete preocupação com data centers e a expansão do setor de inteligência artificial.",
+   "A sexta baixa diária consecutiva do S&P 500 indica um momento de sell-off no mercado americano."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luke Lango, analista de tecnologia",
+    "oque": "Disse que o IPO recorde da Anthropic não conseguiu salvar o setor de IA da queda generalizada."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "quinta-feira",
+    "oque": "Anthropic estreou na bolsa com alta de 17%, demais índices americanos fecharam em queda."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPO",
+    "significado": "Primeira venda de ações de uma empresa na bolsa."
+   },
+   {
+    "termo": "S&P 500",
+    "significado": "Índice que mede desempenho de 500 grandes empresas dos EUA."
+   },
+   {
+    "termo": "Nasdaq Composite",
+    "significado": "Índice que inclui muitas ações de tecnologia e internet."
+   }
+  ],
+  "pergunta": "Você acredita que o setor de IA vai se recuperar rápido após essa queda?",
+  "tamanhoTexto": 1676,
+  "numeros": [
+   {
+    "valor": "17%",
+    "rotulo": "Alta das ações da Anthropic na estreia"
+   },
+   {
+    "valor": "-2%",
+    "rotulo": "Queda do S&P 500 no pregão"
+   },
+   {
+    "valor": "-2,25%",
+    "rotulo": "Queda do Nasdaq Composite"
+   },
+   {
+    "valor": "-1.101 pontos",
+    "rotulo": "Perda do Dow Jones em pontos"
+   },
+   {
+    "valor": "2,19%",
+    "rotulo": "Queda percentual do Dow Jones"
+   },
+   {
+    "valor": "93%",
+    "rotulo": "Ações do S&P 500 em baixa"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "17% (alta Anthropic",
+  "porQueImporta": "O mercado de ações de tecnologia e inteligência artificial é volátil, e o desempenho de grandes IPOs como o da Anthropic pode influenciar o ânimo dos investidores. Entender esses movimentos ajuda quem opera a avaliar riscos e oportunidades no setor que mais impacta o mercado no momento.",
+  "impactoMercado": "A queda generalizada nos índices americanos, especialmente em tecnologia, pode afetar ativos ligados a IA e chips no Brasil e no exterior, influenciando decisões de alocação e liquidez. A incerteza sobre controles regulatórios e expansão da IA deve manter a volatilidade elevada.",
+  "entenda": "O IPO (Oferta Pública Inicial) é quando uma empresa abre seu capital na bolsa para investidores. A Anthropic, startup de IA, estreou valorizada, mas a pressão negativa nos índices americanos mostra que movimentos pontuais podem não reverter tendências amplas de queda.",
+  "observar": "Fique atento às próximas divulgações de resultados das empresas de tecnologia e dados sobre a expansão dos data centers, além de notícias sobre regulamentação da inteligência artificial, que podem impactar a volatilidade em breve.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como o mercado reage a grandes estreias e notícias controversas, ideal para quem quer aprender como eventos específicos influenciam índices e setores, embasando a formação na faculdade de mercado financeiro.",
+  "gancho": "*IPO* e *queda* do setor de tecnologia",
+  "ideias": [
+   "Entenda o impacto do IPO da Anthropic no mercado",
+   "Por que ações de tecnologia caíram mesmo com alta da Anthropic?",
+   "Setor de IA enfrentando desafios: notícias que afetam o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "CNN Brasil",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T23:35:54-03:00",
+  "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-da-anthropic-avancam-enquanto-wall-street-fecha-em-queda/",
+  "publicadoEm": "2026-11-19T20:30:39-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-12"
+ },
+ {
+  "titulo": "Senado aprova ajuste fiscal de R$ 56 bi; Anthropic estreia na Nasdaq",
+  "resumo": "O Senado aprovou o projeto do ajuste fiscal com impacto de até R$ 56 bilhões; nos EUA, Anthropic lançou ações na Nasdaq e na B3.",
+  "fatos": [
+   "O projeto de ajuste fiscal aprovado pelo Senado prevê impacto de até R$ 56 bilhões nas contas públicas.",
+   "A votação no Senado ocorreu em 18 de maio, com rejeição dos destaques da oposição.",
+   "O projeto segue para análise da Câmara dos Deputados.",
+   "A Anthropic lançou 825 milhões de ações na Nasdaq.",
+   "A faixa indicativa da oferta da Anthropic varia entre US$ 70 e US$ 78 por ação.",
+   "A oferta da Anthropic pode movimentar entre US$ 57,75 bilhões e US$ 64,35 bilhões.",
+   "A B3 lançou o BDR da Anthropic no Brasil, com o código ANTH34.",
+   "O Ibovespa fechou em queda de 1,34%, a 167.537,95 pontos, em 18 de maio.",
+   "O dólar valorizou-se frente ao real, chegando a R$ 5,93."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira (19), os mercados focam na aprovação pelo Senado do projeto que traz as primeiras medidas do ajuste fiscal do governo brasileiro, com impacto estimado de até R$ 56 bilhões nas contas públicas.",
+   "A votação no Senado terminou na quarta-feira (18), rejeitando os destaques da oposição, e o projeto agora segue para análise da Câmara dos Deputados, mantendo a atenção dos investidores nas metas fiscais e saúde das contas públicas.",
+   "No exterior, a Anthropic, empresa de inteligência artificial criadora do Claude, estreou suas ações na Nasdaq com uma oferta prevista entre US$ 57,75 bilhões e US$ 64,35 bilhões, refletindo o interesse crescente no setor de IA.",
+   "No mesmo dia, a B3 lançou o BDR da Anthropic no Brasil, com o código ANTH34, permitindo que investidores brasileiros acompanhem essa novidade do mercado internacional."
+  ],
+  "detalhes": [
+   "A aprovação ocorreu no Senado na quarta-feira, 18 de maio.",
+   "O projeto reúne medidas iniciais do governo para ajuste fiscal.",
+   "Após o Senado, o texto será analisado pela Câmara dos Deputados.",
+   "Anthropic é a criadora do Claude, um sistema de inteligência artificial.",
+   "A estreia da Anthropic na Nasdaq é considerada uma das maiores no setor de IA.",
+   "A B3 lançou o BDR ANTH34 simultaneamente à estreia na Nasdaq.",
+   "O mercado doméstico reagiu com cautela, refletida na queda do Ibovespa e alta do dólar."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "18 de maio",
+    "oque": "Senado aprova projeto de ajuste fiscal com impacto de até R$ 56 bilhões"
+   },
+   {
+    "quando": "19 de maio",
+    "oque": "Anthropic estreia na Nasdaq e B3 lança BDR ANTH34"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ajuste Fiscal",
+    "significado": "Medidas do governo para equilibrar receitas e despesas públicas."
+   },
+   {
+    "termo": "BDR",
+    "significado": "Ações estrangeiras representadas e negociadas na bolsa brasileira."
+   },
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial de ações de uma empresa em bolsa."
+   }
+  ],
+  "pergunta": "Como você acha que o ajuste fiscal pode afetar seus investimentos?",
+  "tamanhoTexto": 2696,
+  "numeros": [
+   {
+    "valor": "56 bilhões",
+    "rotulo": "impacto estimado em reais do ajuste fiscal"
+   },
+   {
+    "valor": "825 milhões",
+    "rotulo": "número de ações da Anthropic na oferta"
+   },
+   {
+    "valor": "70 a 78",
+    "rotulo": "faixa indicativa em dólares por ação da Anthropic"
+   },
+   {
+    "valor": "57,75 a 64,35 bilhões",
+    "rotulo": "valores estimados da oferta da Anthropic em dólares"
+   },
+   {
+    "valor": "1,34%",
+    "rotulo": "queda do Ibovespa em 18 de maio"
+   },
+   {
+    "valor": "167.537,95",
+    "rotulo": "pontos do Ibovespa após queda"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 56 bilhões",
+  "porQueImporta": "A aprovação das medidas do ajuste fiscal sinaliza o compromisso do governo com a estabilidade das contas públicas, impactando o ambiente econômico e a confiança dos investidores que acompanham os rumos das finanças brasileiras.",
+  "impactoMercado": "O avanço do ajuste fiscal pode influenciar o comportamento de investimentos na Bolsa, juros e câmbio, enquanto a estreia da Anthropic na Nasdaq e BDR no Brasil amplia as opções de exposição ao setor de inteligência artificial para investidores brasileiros.",
+  "entenda": "O ajuste fiscal é um conjunto de medidas do governo para equilibrar as contas públicas, reduzindo gastos ou aumentando receitas. Um BDR (Brazilian Depositary Receipt) é um certificado que representa ações de empresas estrangeiras negociadas no Brasil, facilitando o acesso dos investidores locais.",
+  "observar": "Acompanhe a análise da Câmara dos Deputados sobre o projeto fiscal e os próximos movimentos da Anthropic na Nasdaq e B3 para entender impactos futuros no mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos o impacto do ajuste fiscal e como a estreia da Anthropic traz uma oportunidade para entender novas opções na bolsa, despertando interesse pelo mercado financeiro e pela faculdade de mercado.",
+  "gancho": "*Ajuste Fiscal* e *IA*: Conheça a Anthropic",
+  "ideias": [
+   "O que é o ajuste fiscal de R$ 56 bilhões aprovado pelo Senado?",
+   "Conheça a Anthropic: estreia na Nasdaq e BDR na B3",
+   "Como o ajuste fiscal brasileiro impacta o Ibovespa e o dólar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 10,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T23:35:54-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/mercado/mercados-hoje-aprovacao-do-ajuste-fiscal-e-estreia-da-anthropic-sao-destaques/",
+  "publicadoEm": "2026-11-19T09:42:27-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-13"
+ },
+ {
+  "titulo": "Itaú BBA rebaixa Ibovespa para neutra mesmo com potencial de alta",
+  "resumo": "Itaú BBA reduz recomendação para as ações brasileiras de compra para neutra por riscos macroeconômicos. Banco projeta Ibovespa a 195 mil pontos ao fim de 2027, com potencial de valorização total próximo a 20%.",
+  "fatos": [
+   "Itaú BBA mudou recomendação das ações brasileiras de overweight para neutra.",
+   "Ibovespa tem preço-alvo de 195 mil pontos para fim de 2027, ante 185 mil pontos para fim de 2026.",
+   "Potencial de valorização da bolsa brasileira estimado em 14%, somado a dividend yield de cerca de 6%.",
+   "Mercado brasileiro negocia a aproximadamente 8 vezes o lucro estimado das empresas, 20% abaixo da média histórica.",
+   "Banco projeta crescimento do PIB em 2027 de 0,5% e inflação de 6,1%.",
+   "Taxa Selic deve permanecer em 13,75% ao longo de 2027, com cortes previstos só a partir de 2028.",
+   "Recomendações positivas para setores de infraestrutura e serviços públicos, como Sabesp e Copel.",
+   "México recebeu upgrade de underweight para posição levemente acima da média.",
+   "Colômbia foi rebaixada de neutra para underweight.",
+   "Peru e Argentina mantêm recomendação overweight pelo banco."
+  ],
+  "explicacao": [
+   "O Itaú BBA rebaixou a recomendação das ações brasileiras de overweight (compra) para neutra, citando piora nas perspectivas econômicas, inflação mais alta e espaço limitado para cortes de juros no Brasil. Essa revisão regional também afetou Chile, México, Colômbia e outras economias latino-americanas.",
+   "Embora o banco reconheça que a bolsa brasileira está negociada a cerca de oito vezes o lucro estimado, um desconto de 20% em relação à média histórica, o ambiente de juros elevados e crescimento econômico lento trazem riscos para os lucros das empresas locais, justificando a cautela.",
+   "O Itaú BBA espera crescimento do PIB brasileiro de apenas 0,5% em 2027 e inflação ao redor de 6,1%, mantendo a taxa Selic em 13,75% durante o ano, com cortes de juros apenas a partir de 2028, após progresso fiscal.",
+   "Apesar da avaliação neutra para o mercado geral, o banco mantém preferência por setores de infraestrutura, serviços públicos e commodities, destacando ações como Sabesp, Copel, Petrobras e Rede D’Or, empresas com receitas mais previsíveis e proteção contra inflação."
+  ],
+  "detalhes": [
+   "Quem: Itaú BBA, banco de investimento com atuação na América Latina.",
+   "Quando: projeções atualizadas em meados de 2023; preços-alvo para 2026 e 2027.",
+   "Como: mudança da recomendação por conta da combinação de inflação alta e juro elevado no Brasil.",
+   "Contexto: bolsa barata em termos de valuation, mas cenário macroeconômico aponta riscos para lucro corporativo.",
+   "Comparação: preço-alvo anterior do Ibovespa era 185 mil pontos para 2026, agora 195 mil para 2027.",
+   "Setores preferidos: infraestrutura, serviços públicos, commodities, saúde e indústria.",
+   "Exposição regional: redução de Brasil e Chile, aumento do México nas carteiras do Itaú BBA."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Itaú BBA",
+    "oque": "A piora das perspectivas econômicas e os juros mais elevados levam à exposição menor ao Brasil."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "fim de 2026",
+    "oque": "Projeção anterior do Ibovespa: 185 mil pontos."
+   },
+   {
+    "quando": "fim de 2027",
+    "oque": "Nova projeção do Ibovespa pelo Itaú BBA: 195 mil pontos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Overweight",
+    "significado": "Recomendação para comprar ou ter maior exposição que a média."
+   },
+   {
+    "termo": "Valuation",
+    "significado": "Avaliação do preço justo de uma ação ou mercado, geralmente pelo múltiplo lucro/preço."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira."
+   }
+  ],
+  "pergunta": "Você concorda com a cautela do Itaú BBA sobre a bolsa brasileira?",
+  "tamanhoTexto": 6025,
+  "numeros": [
+   {
+    "valor": "195000",
+    "rotulo": "Preço alvo do Ibovespa para fim de 2027"
+   },
+   {
+    "valor": "185000",
+    "rotulo": "Preço alvo anterior do Ibovespa para fim de 2026"
+   },
+   {
+    "valor": "14%",
+    "rotulo": "Potencial de valorização da bolsa"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "Dividend yield estimado"
+   },
+   {
+    "valor": "8",
+    "rotulo": "Múltiplo atual do lucro estimado das ações brasileiras"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "Desconto em relação à média histórica do múltiplo"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Ibovespa preço-alvo",
+    "antes": "185 mil pontos para 2026",
+    "depois": "195 mil pontos para 2027"
+   },
+   {
+    "item": "Recomendação Ibovespa",
+    "antes": "Overweight (compra)",
+    "depois": "Neutra"
+   }
+  ],
+  "destaque": "195 mil pontos",
+  "porQueImporta": "Essa notícia é importante porque mostra que, mesmo com potencial de valorização, o Itaú BBA está cauteloso com ações brasileiras devido a riscos macroeconômicos, como juros altos e inflação, impactando decisões de alocação regional para investidores.",
+  "impactoMercado": "A recomendação neutra pode levar a menor demanda por ações brasileiras em portfólios da América Latina, impactando principalmente setores financeiros e de materiais, enquanto favorece infraestrutura, commodities e saúde, além de moedas e juros locais.",
+  "entenda": "Ibovespa é o principal índice da Bolsa brasileira, representando ações mais negociadas. Recomendação overweight indica expectativa de desempenho acima da média, enquanto neutra sugere manter posição, refletindo avaliação sobre riscos e oportunidades no mercado.",
+  "observar": "Fique atento a indicadores econômicos brasileiros, como inflação e PIB trimestrais, e comunicados do Banco Central sobre a Selic para acompanhar mudanças no cenário de juros em 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT"
+  ],
+  "angulo": "A notícia ajuda a entender como análises macroeconômicas influenciam recomendações de investimento e mostram a importância da faculdade para dominar esses conceitos complexos.",
+  "gancho": "*Ibovespa* e *Itaú* em revisão",
+  "ideias": [
+   "Por que Itaú BBA rebaixou ações brasileiras?",
+   "Entenda o impacto dos juros altos na bolsa",
+   "Setores favoritos do Itaú BBA na bolsa brasileira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "Money Times",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-11-19T23:35:54-03:00",
+  "url": "https://www.moneytimes.com.br/ibovespa-pode-subir-20-mas-itau-bba-nao-ve-motivos-para-comprar-banco-rebaixa-bolsa-para-neutra-miql/",
+  "publicadoEm": "2026-11-19T10:48:02-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-19-14"
+ },
+ {
   "titulo": "Encontro global em El Salvador mostra bitcoin como dinheiro real",
   "resumo": "A Global Bitcoin Circular Economies Summit reúne comerciantes, educadores e desenvolvedores de África, Ásia e América Latina para debater o uso cotidiano do bitcoin.",
   "fatos": [
@@ -13373,53 +14089,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 91.5% de chance de Ethereum abaixo de 1.800 em novembro.",
-  "resumo": "Os apostadores projetam uma queda significativa para o Ethereum no próximo mês.",
+  "titulo": "Mercado de previsões vê 83.5% de chance de Ethereum abaixo de 1.700 em novembro",
+  "resumo": "As expectativas do mercado indicam uma possível desvalorização do Ethereum nos próximos meses.",
   "probs": [
    {
-    "opcao": "abaixo de 1.750",
-    "prob": 91.5
+    "opcao": "abaixo de 1.700",
+    "prob": 83.5
+   },
+   {
+    "opcao": "acima de 1.800",
+    "prob": 74.0
+   },
+   {
+    "opcao": "abaixo de 1.600",
+    "prob": 44.8
    },
    {
     "opcao": "acima de 1.900",
-    "prob": 68.5
-   },
-   {
-    "opcao": "abaixo de 1.700",
-    "prob": 54.5
-   },
-   {
-    "opcao": "acima de 1.950",
     "prob": 33.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 149 mil",
+  "volume24h": "US$ 98 mil",
   "fatos": [
-   "abaixo de 1.750: 91,5%",
-   "acima de 1.900: 68,5%",
-   "abaixo de 1.700: 54,5%",
-   "acima de 1.950: 33,5%"
+   "abaixo de 1.700: 83,5%",
+   "acima de 1.800: 74,0%",
+   "abaixo de 1.600: 44,8%",
+   "acima de 1.900: 33,5%"
   ],
   "numeros": [
    {
-    "valor": "91,5%",
-    "rotulo": "abaixo de 1.750"
-   },
-   {
-    "valor": "68,5%",
-    "rotulo": "acima de 1.900"
-   },
-   {
-    "valor": "54,5%",
+    "valor": "83,5%",
     "rotulo": "abaixo de 1.700"
    },
    {
+    "valor": "74,0%",
+    "rotulo": "acima de 1.800"
+   },
+   {
+    "valor": "44,8%",
+    "rotulo": "abaixo de 1.600"
+   },
+   {
     "valor": "33,5%",
-    "rotulo": "acima de 1.950"
+    "rotulo": "acima de 1.900"
    }
   ],
-  "destaque": "91,5%",
+  "destaque": "83,5%",
   "gancho": "*Ethereum em novembro*",
   "entenda": "Como o Bitcoin, o Ethereum também sofre influências de mercado e eventos globais na nova economia digital.",
   "categoria": "Previsões",
@@ -13434,7 +14150,7 @@
   "data": "2026-11-13",
   "status": "atualizada",
   "id": "2026-11-13-p1",
-  "atualizadoEm": "2026-11-16T16:52:59-03:00"
+  "atualizadoEm": "2026-11-19T23:35:54-03:00"
  },
  {
   "titulo": "Engenheiro brasileiro lança livro sobre teste de falhas em softwares Bitcoin",
