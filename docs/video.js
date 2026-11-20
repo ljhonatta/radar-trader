@@ -271,7 +271,7 @@ function objetoPara(txt){const s=String(txt||"").toLowerCase();
   if(/suspen|para|circuit/.test(s))return "placa-pare";return "alvo";}
 function numeroEm(s){const re=/(R\$|US\$)?\s?[+-]?\d[\d.,]*\s?(%|mi\b|bi\b|tri\b|mil\b|bilh(?:ões|ão)|milh(?:ões|ão)|trilh(?:ões|ão)|pontos)?/gi;let m;
   while((m=re.exec(String(s||"")))){const t=m[0].trim(),antes=String(s).slice(Math.max(0,m.index-1),m.index);
-    if(antes==="("||/^\d{1,2}$/.test(t)&&!m[1]&&!m[2])continue;
+    if(antes==="("||/^\d{1,2}$/.test(t)&&!m[1]&&!m[2]||/^(19|20)\d\d$/.test(t))continue; // dia do mês, ano, número solto
     if(m[1]||m[2]||/[.,]\d/.test(t)||/^\d{3,}$/.test(t.replace(/\D/g,"")))return t;}return "";}
 const fimTxt=()=>APP.cta?APP.cta(V):`Siga ${V.handle} para entender o mercado todos os dias.`;
 const fimBotao=()=>APP.botao?APP.botao(V):"Seguir";
