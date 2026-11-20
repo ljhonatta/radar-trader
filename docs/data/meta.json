@@ -1,13 +1,24 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-19T23:35:54-03:00",
-  "novas": 6,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-20T15:01:54-03:00",
+  "novas": 5,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "6 nova(s) e 1 atualizada(s): Regulação cripto BC; Brasil atrai capital com fiscal em foco; Ajuste Fiscal na Câmara.",
-  "falhas": [],
+  "mensagem": "5 nova(s) e 2 atualizada(s): Dólar segue forte, confira motivos; Fórmula 1 e valorização em 2026; Ataque ao prédio mais alto.",
+  "falhas": [
+   "Google Notícias 'dólar hoje real' (HTTPError)",
+   "Google Notícias 'Copom Selic' (HTTPError)",
+   "Google Notícias 'Boletim Focus' (HTTPError)",
+   "Google Notícias 'juros futuros DI' (HTTPError)",
+   "Google Notícias 'Banco Central Galípolo' (HTTPError)",
+   "Google Notícias 'petróleo Brent' (HTTPError)",
+   "Google Notícias 'CVM regulação' (HTTPError)",
+   "Google Notícias 'dividendos ações' (HTTPError)",
+   "Google Notícias 'fundos imobiliários FIIs' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-20T15:01:54-03:00",
    "2026-11-19T23:35:54-03:00",
    "2026-11-19T19:45:58-03:00",
    "2026-11-19T15:41:12-03:00",
@@ -18,12 +29,11 @@
    "2026-11-17T20:09:53-03:00",
    "2026-11-17T15:46:19-03:00",
    "2026-11-17T01:10:50-03:00",
-   "2026-11-16T20:50:26-03:00",
-   "2026-11-16T16:52:59-03:00"
+   "2026-11-16T20:50:26-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 11
+  "textosCompletos": 7
  },
  "placar": {
   "itens": [
@@ -36,44 +46,44 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,94",
-    "var": "+0,02%"
+    "v": "R$ 5,95",
+    "var": "+0,23%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,51",
-    "var": ""
+    "v": "R$ 6,53",
+    "var": "+0,26%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 61,4 mil",
-    "var": "-1,95%"
+    "v": "US$ 59,1 mil",
+    "var": "-5,70%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "7.176",
-    "var": "-2,02%"
+    "v": "7.017",
+    "var": "-2,22%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "26.517",
-    "var": "-2,21%"
+    "v": "25.524",
+    "var": "-3,74%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 92,37",
-    "var": "+0,42%"
+    "v": "US$ 91,68",
+    "var": "-0,33%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.534,50",
-    "var": "-4,10%"
+    "v": "US$ 3.526,40",
+    "var": "-4,32%"
    },
    {
     "k": "SELIC",
@@ -88,14 +98,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "qui 23h",
-  "data": "2026-11-19",
-  "atualizadoEm": "2026-11-19T23:35:54-03:00",
+  "obs": "Último fechamento",
+  "hora": "sex 15h",
+  "data": "2026-11-20",
+  "atualizadoEm": "2026-11-20T15:01:54-03:00",
   "ibov": "166.376",
   "ibovVar": "-0,69%",
-  "dolar": "R$ 5,94",
-  "dolarVar": "+0,02%",
-  "btc": "US$ 61,4 mil"
+  "dolar": "R$ 5,95",
+  "dolarVar": "+0,23%",
+  "btc": "US$ 59,1 mil"
  }
 }
