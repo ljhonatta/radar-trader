@@ -1,5 +1,719 @@
 [
  {
+  "titulo": "Dólar fecha acima de R$ 5,93, maior valor desde abril de 2025",
+  "resumo": "Dólar subiu 1,1% nesta quinta (19), chegando a R$ 5,932, maior patamar desde abril de 2025, mesmo após BC vender US$ 1 bilhão para conter alta.",
+  "fatos": [
+   "Dólar comercial fechou em R$ 5,932 na quinta-feira (19), alta de 1,1%.",
+   "Banco Central vendeu US$ 1 bilhão entre 12h03 e 12h08 para tentar conter alta do dólar.",
+   "Cotação teve o maior patamar desde 8 de abril de 2025, quando fechou a R$ 5,9985.",
+   "Ibovespa caiu 0,69%, fechando em 166.376,43 pontos no dia 19.",
+   "Ibovespa acumulou queda de 3,53% na semana e de 0,92% em novembro até dia 19.",
+   "Dólar subiu 4,95% na semana e 9,01% no mês de novembro até dia 19.",
+   "Tesouro Direto suspendeu temporariamente negociações de títulos prefixados e atrelados à inflação devido à forte oscilação das taxas.",
+   "Senado aprovou projeto fiscal para superávit de 0,5% do PIB em 2027, que agora vai para a Câmara em votação prevista para 23 de novembro.",
+   "NASDAQ caiu 2,25% e S&P 500, 2,02%, na véspera, influenciando mercado global."
+  ],
+  "explicacao": [
+   "Nesta quinta-feira (19), o dólar comercial fechou a R$ 5,932, com alta de 1,1%, atingindo a maior cotação desde 8 de abril de 2025. A moeda superou R$ 5,93 mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a valorização.",
+   "A elevação do dólar ocorre num cenário de pressão do mercado financeiro por cortes no orçamento público e por indicações da equipe econômica do governo. A instabilidade também foi evidenciada pela oscilação das taxas de juros, que levou à suspensão temporária da negociação de alguns títulos do Tesouro Direto.",
+   "Isso representa um ambiente de tensão no mercado brasileiro, refletido também no Ibovespa, que caiu 0,69% no dia, e acumula perda semanal e mensal. Internamente, o Senado aprovou projeto fiscal para garantir superávit primário, mas a votação na Câmara está marcada para a próxima segunda (23), gerando ainda insegurança.",
+   "Para os próximos dias, investidores e operadores devem acompanhar a tramitação do pacote fiscal na Câmara, as reações do mercado às indicações do governo e a continuidade da volatilidade cambial e das taxas de juros, que impactam diretamente na economia e na Bolsa brasileira."
+  ],
+  "detalhes": [
+   "Venda de US$ 1 bilhão foi realizada em operação à vista pelo Banco Central no meio do pregão.",
+   "Apesar da intervenção, dólar chegou a cair para R$ 5,85, mas voltou a subir rapidamente.",
+   "Projeto fiscal aprovado no Senado tem impacto estimado em mais de R$ 50 bilhões.",
+   "Votação na Câmara está marcada para segunda-feira, 23 de novembro.",
+   "Tesouro Direto suspendeu operações especialmente nos títulos prefixados e indexados à inflação.",
+   "Ibovespa oscilou entre 165.833,29 e 168.498,42 pontos durante o pregão de quinta-feira.",
+   "Dólar também se valorizou frente a moedas emergentes como peso colombiano, peso mexicano e rand sul-africano."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Presidente Luiz Inácio Lula da Silva",
+    "oque": "Atribuiu parte das críticas ao governo a especulação de agentes que lucram com a instabilidade."
+   },
+   {
+    "quem": "Presidente Luiz Inácio Lula da Silva",
+    "oque": "Reforçou que ele próprio deseja um controle fiscal rigoroso, diferentemente do que o mercado apregoa."
+   },
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Disse que medidas adicionais podem ser tomadas, mas prioridade é aprovar projeto fiscal na Câmara."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de novembro de 2025",
+    "oque": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025."
+   },
+   {
+    "quando": "Entre 12h03 e 12h08 de 19/11/2025",
+    "oque": "Banco Central realiza leilão de US$ 1 bilhão para conter alta do dólar."
+   },
+   {
+    "quando": "8 de abril de 2025",
+    "oque": "Última vez em que dólar atingiu patamar similar, fechando a R$ 5,9985."
+   },
+   {
+    "quando": "23 de novembro de 2025",
+    "oque": "Votação do pacote fiscal está prevista na Câmara dos Deputados."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo positivo das contas públicas antes do pagamento de juros da dívida."
+   },
+   {
+    "termo": "Tesouro Direto",
+    "significado": "Programa de compra e venda de títulos públicos por investidores."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Principal índice da Bolsa brasileira que mede o desempenho das ações."
+   }
+  ],
+  "pergunta": "Você acha que o dólar continuará subindo nas próximas semanas?",
+  "tamanhoTexto": 6882,
+  "numeros": [
+   {
+    "valor": "5,932",
+    "rotulo": "Cotação do dólar em 19 de novembro de 2025"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "Alta do dólar no dia 19 de novembro"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "Valor em dólares vendido pelo Banco Central"
+   },
+   {
+    "valor": "0,69%",
+    "rotulo": "Queda do Ibovespa em 19 de novembro"
+   },
+   {
+    "valor": "4,95%",
+    "rotulo": "Alta do dólar na semana até 19 de novembro"
+   },
+   {
+    "valor": "9,01%",
+    "rotulo": "Alta do dólar no mês até 19 de novembro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "5,932",
+  "porQueImporta": "Essa alta do dólar reflete a instabilidade no cenário econômico brasileiro, afetando custos de importação, investimentos e inflação. Para quem opera ou investe, é crucial acompanhar como esse ambiente impactará as decisões do Banco Central, o mercado de juros e o desempenho da Bolsa.",
+  "impactoMercado": "A valorização do dólar pode elevar os custos das empresas endividadas em moeda estrangeira e pressionar juros e inflação. O ambiente de alta volatilidade se estende para o mercado de ações, especialmente em setores sensíveis ao câmbio e à inflação, demandando atenção redobrada dos investidores.",
+  "entenda": "O dólar comercial é a referência para operações cambiais no Brasil e sua alta significa que a moeda brasileira está desvalorizada. Isso pode ser influenciado por fatores internos, como política fiscal, e externos, como mercados globais. O Banco Central pode intervir vendendo dólares para tentar conter a valorização da moeda americana.",
+  "observar": "Fique de olho na votação do pacote fiscal na Câmara, marcada para 23 de novembro, e nas próximas operações do Banco Central para conter a alta do dólar, pois podem alterar a volatilidade do câmbio e dos juros.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Esta notícia explica como a alta do dólar e a tensão fiscal impactam o mercado, ajudando quem quer entender o funcionamento do câmbio e da Bolsa, fundamental para operar e investir com mais conhecimento.",
+  "gancho": "*Dólar* no maior valor",
+  "ideias": [
+   "Entenda por que o dólar ultrapassou R$ 5,93",
+   "Impactos da alta do dólar no seu bolso e na Bolsa",
+   "O que a interferência do Banco Central revela sobre o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; GZH",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
+  "publicadoEm": "2026-11-19T19:47:00-03:00",
+  "data": "2026-11-19",
+  "id": "2026-11-20-06"
+ },
+ {
+  "titulo": "SEC investiga práticas contábeis da Nvidia em meio a escândalo",
+  "resumo": "A SEC iniciou uma investigação sobre as práticas contábeis da Nvidia, aumentando os desafios legais da empresa ligada a um escândalo envolvendo o ex-CEO Jensen Huang e possíveis violações de exportação.",
+  "fatos": [
+   "SEC investiga práticas contábeis da Nvidia após escândalo envolvendo ex-CEO Jensen Huang.",
+   "Investigação tem foco em possíveis irregularidades contábeis, segundo fontes anônimas.",
+   "Alice Huang, ligada a Megaspeed, é suspeita de espionagem e a empresa é investigada desde 2024.",
+   "Crise fez ações da Nvidia caírem mais de um terço.",
+   "Nvidia mudou em 2025 a forma de reportar receitas por região, omitindo Cingapura da divisão geográfica.",
+   "Departamentos de Justiça e Comércio dos EUA investigam envio ilegal de chips para a China.",
+   "Aquisição de US$ 12,9 bilhões da Hugging Face também está sob análise antitruste.",
+   "SEC criou nova unidade para casos contábeis recentemente.",
+   "Colette Kress, CEO interina, afirmou que serão mais seletivos em operações financeiras para IA."
+  ],
+  "explicacao": [
+   "A Comissão de Valores Mobiliários dos Estados Unidos (SEC) está investigando as práticas contábeis da fabricante de chips Nvidia, conforme fontes informadas. Esta apuração amplia os problemas legais da companhia, já envolvida em um escândalo relacionado ao ex-presidente-executivo Jensen Huang, divulgado em novembro de 2026.",
+   "A investigação ocorre em meio a suspeitas relacionadas a relações extraconjugais de Jensen Huang, incluindo com Alice Huang, líder da Megaspeed, empresa sob investigação por possíveis violações de controle de exportação de chips para a China. Essas acusações afetam diretamente a confiança dos investidores na Nvidia.",
+   "Além disso, a Nvidia fez uma mudança contábil que alterou a forma como reporta receitas por região, deixando de evidenciar vendas em Cingapura, uma região-chave para vendas da empresa, o que chamou atenção em meio à crise. A SEC examina se essas mudanças e acordos financeiros complexos refletem com clareza a situação da companhia.",
+   "Agora, a Nvidia enfrenta uma temporada crítica, com investigação da SEC focada em contabilidade, problemas antitruste ligados à compra da Hugging Face e a necessidade de maior transparência, enquanto as autoridades buscam garantir a adequada divulgação dos riscos para investidores."
+  ],
+  "detalhes": [
+   "Investigação da SEC ampliada após escândalo pessoal do ex-CEO Jensen Huang.",
+   "Alice Huang deixou a Megaspeed em agosto de 2025.",
+   "Mudança contábil pela Nvidia priorizou localização do cliente sobre endereço de faturamento.",
+   "Megaspeed sediada em Cingapura, importante região para vendas da Nvidia.",
+   "Departamentos do governo americano suspeitam de violações de controle de exportação desde 2024.",
+   "Nvidia está sob pressão devido à queda das ações e escrutínio regulatório.",
+   "SEC procura garantir maior transparência nos riscos das empresas de IA."
+  ],
+  "declaracoes": [
+   {
+    "quem": "David Woodcock, chefe da divisão de fiscalização da SEC",
+    "oque": "A SEC examina divulgações corporativas para garantir visão completa dos riscos aos investidores."
+   },
+   {
+    "quem": "Colette Kress, presidente-executiva interina da Nvidia",
+    "oque": "A Nvidia será mais seletiva em operações financeiras voltadas para o setor de inteligência artificial."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2024",
+    "oque": "Início da investigação dos Departamentos de Justiça e Comércio sobre Megaspeed."
+   },
+   {
+    "quando": "Agosto de 2025",
+    "oque": "Alice Huang deixa a Megaspeed, conforme comunicado da empresa."
+   },
+   {
+    "quando": "2025",
+    "oque": "Nvidia altera método de contabilização das receitas por região geográfica."
+   },
+   {
+    "quando": "Novembro de 2026",
+    "oque": "Escândalo envolvendo Jensen Huang ganha repercussão pública."
+   },
+   {
+    "quando": "Novembro de 2026",
+    "oque": "SEC inicia investigação das práticas contábeis da Nvidia."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Nvidia",
+    "significado": "Empresa americana fabricante de chips, com foco em IA."
+   },
+   {
+    "termo": "SEC",
+    "significado": "Comissão de Valores Mobiliários dos EUA, órgão regulador do mercado."
+   },
+   {
+    "termo": "Contabilidade",
+    "significado": "Registro e apresentação das finanças de uma empresa."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto dessas acusações na confiança dos investidores em empresas de tecnologia?",
+  "tamanhoTexto": 7156,
+  "numeros": [
+   {
+    "valor": "12,9 bilhões",
+    "rotulo": "Valor da aquisição da Hugging Face pela Nvidia, em dólares"
+   },
+   {
+    "valor": "mais de um terço",
+    "rotulo": "Queda das ações da Nvidia após escândalo"
+   },
+   {
+    "valor": "2024",
+    "rotulo": "Ano em que começou investigação contra Megaspeed"
+   },
+   {
+    "valor": "agosto de 2025",
+    "rotulo": "Mês e ano da saída de Alice Huang da Megaspeed"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "investigação contábil da",
+  "porQueImporta": "Investidores ficam atentos a investigações regulatórias como a da SEC porque elas indicam potenciais riscos legais e operacionais para as empresas, afetando a percepção de valor e a confiança nos ativos no mercado financeiro.",
+  "impactoMercado": "A investigação da SEC pode aumentar a volatilidade nas ações da Nvidia e pressionar o setor de tecnologia e chips, especialmente em segmentos ligados à inteligência artificial e exportação, além de estender a cautela dos investidores sobre empresas com práticas contábeis complexas.",
+  "entenda": "A SEC é a agência reguladora que fiscaliza as práticas financeiras das empresas nos EUA para proteger investidores. Ela investiga contas e divulgação de informações para garantir transparência e evitar fraudes, o que é fundamental para a confiança no mercado.",
+  "observar": "Fique atento aos próximos relatórios trimestrais da Nvidia e comunicados da SEC para atualizações sobre a investigação e medidas que a empresa adotará para esclarecer dúvidas.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explorar como investigações regulatórias em grandes empresas de tecnologia impactam o mercado e a importância de entender práticas contábeis para quem opera na bolsa.",
+  "gancho": "*SEC* investiga *Nvidia*: entenda",
+  "ideias": [
+   "O que a investigação da SEC significa para a Nvidia?",
+   "Entenda o impacto das práticas contábeis na confiança do investidor",
+   "Como crises legais afetam ações de empresas de tecnologia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "escudo",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/20/sec-investiga-contabilidade-da-nvidia-em-meio-a-crise-envolvendo-ex-ceo-dizem-fontes.ghtml",
+  "publicadoEm": "2026-11-20T16:47:16-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-07"
+ },
+ {
+  "titulo": "Mercado vê chance de manutenção dos juros pelo Fed em dezembro",
+  "resumo": "CME indica 7,9% de chance de manutenção dos juros pelo Fed na reunião de 9 de dezembro, enquanto a aposta de alta de 50 pontos-base zerou.",
+  "fatos": [
+   "Data da reunião do Fed: 9 de dezembro de 2026",
+   "Probabilidade de manutenção dos juros: 7,9%, segundo FedWatch do CME",
+   "Probabilidade de alta de 50 pontos-base zerada",
+   "Até ontem, chance da alta de 50 pontos-base era 6,1%",
+   "Probabilidade de alta de 25 pontos-base está em 92,1%",
+   "Dirigente do Fed, Lisa Cook, pediu ação mais agressiva contra inflação",
+   "Secretário do Tesouro comentou análise de dirigente que apoiou alta de 50 pontos no passado",
+   "Inflação prevista para 1 e 5 anos caiu, mas está acima da meta de 2%"
+  ],
+  "explicacao": [
+   "O mercado, segundo a ferramenta FedWatch do CME Group, passou a considerar uma probabilidade de 7,9% para que o Federal Reserve mantenha a taxa de juros na próxima reunião de política monetária, em 9 de dezembro de 2026.",
+   "Este movimento ocorre mesmo após diversas declarações de integrantes do Fed ressaltando a necessidade de aumentos nos juros para conter a inflação alta, como a diretora Lisa Cook, que defendeu resposta mais agressiva da política monetária.",
+   "Na sessão, o mercado descartou a chance de um aumento de 50 pontos-base na taxa dos Fed Funds, que havia até ontem 6,1% de probabilidade, e manteve como principal aposta um aumento de 25 pontos-base, com 92,1% de chance.",
+   "Além disso, dados recentes indicam que as expectativas de inflação para 1 e 5 anos recuaram, mas ainda permanecem acima da meta de 2% do Fed, o que mantém a pressão para ajustes na política monetária."
+  ],
+  "detalhes": [
+   "Ferramenta usada: FedWatch do CME Group, que monitora apostas de mercado",
+   "Reunião de política monetária marcada para 9 de dezembro, decisiva para juros",
+   "Alta de 25 pontos-base elevaria taxa para faixa de 4% a 4,25% ao ano",
+   "Sinalizações recentes do Fed mostram disposição para control os juros para conter inflação persistente",
+   "Dados da Universidade de Michigan indicaram redução nas expectativas de inflação, porém ainda altas",
+   "Comentário do secretário do Tesouro destacou reversão de opinião de dirigente sobre taxa no ano anterior",
+   "Mercado revisa cenário após semanas de sinalizações divergentes sobre tamanho do aumento"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Lisa Cook, diretora do Fed",
+    "oque": "Inflamação elevada e disseminada exige resposta mais agressiva da política monetária"
+   },
+   {
+    "quem": "Secretário do Tesouro dos EUA",
+    "oque": "Dirigente que apoia aumento de 50 pontos-base já defendeu corte semelhante no ano passado"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "até 19/11/2026",
+    "oque": "Chance de manutenção dos juros era nula"
+   },
+   {
+    "quando": "até 19/11/2026",
+    "oque": "Probabilidade de alta de 50 pontos-base era 6,1%"
+   },
+   {
+    "quando": "20/11/2026",
+    "oque": "Probabilidade de manutenção dos juros subiu para 7,9%"
+   },
+   {
+    "quando": "20/11/2026",
+    "oque": "Probabilidade de alta de 50 pontos-base zerada"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fed Funds",
+    "significado": "Taxa básica de juros americana definida pelo Fed"
+   },
+   {
+    "termo": "FedWatch",
+    "significado": "Ferramenta que mostra probabilidade de mudanças nos juros"
+   },
+   {
+    "termo": "Pontos-base",
+    "significado": "Unidade que representa 0,01% em taxas de juros"
+   }
+  ],
+  "pergunta": "Você acha que o Fed deve pausar ou aumentar os juros em dezembro?",
+  "tamanhoTexto": 1586,
+  "numeros": [
+   {
+    "valor": "7,9%",
+    "rotulo": "Probabilidade de manutenção dos juros"
+   },
+   {
+    "valor": "0%",
+    "rotulo": "Probabilidade de alta de 50 pontos-base"
+   },
+   {
+    "valor": "6,1%",
+    "rotulo": "Probabilidade anterior da alta de 50 pontos-base"
+   },
+   {
+    "valor": "92,1%",
+    "rotulo": "Probabilidade do aumento de 25 pontos-base"
+   },
+   {
+    "valor": "4% a 4,25%",
+    "rotulo": "Faixa estimada da taxa dos Fed Funds após alta de 25 pontos-base"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "Meta de inflação anual do Fed"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Probabilidade de manutenção dos juros",
+    "antes": "0%",
+    "depois": "7,9%"
+   },
+   {
+    "item": "Probabilidade da alta de 50 pontos-base",
+    "antes": "6,1%",
+    "depois": "0%"
+   }
+  ],
+  "destaque": "7,9% chance de",
+  "porQueImporta": "Este dado mostra que o mercado está considerando uma pausa nos aumentos de juros do Fed, um sinal relevante dado o contexto de inflação persistente e a incerteza sobre o ritmo da política monetária americana. Investidores precisam acompanhar essas mudanças para ajustar posicionamentos conforme a expectativa de custos de crédito e retorno.",
+  "impactoMercado": "A revisão das expectativas para os juros do Fed pode influenciar o dólar, os juros futuros e o mercado de ações global. Setores sensíveis a crédito, como bancos e tecnologia, podem reagir às decisões, assim como investidores que acompanham câmbio e títulos de renda fixa.",
+  "entenda": "O Fed Funds é a taxa básica de juros americana definida pelo Federal Reserve. Decisões sobre essa taxa influenciam todo o mercado financeiro, afetando empréstimos, investimentos e inflação. Ferramentas como o FedWatch mensuram a probabilidade de movimentos nos juros com base nas posições do mercado.",
+  "observar": "Acompanhe a reunião do Fed em 9 de dezembro e os dados de inflação que podem alterar as expectativas sobre juros. Declarações dos dirigentes do Fed também poderão influenciar o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar as mudanças nas expectativas do Fed ajuda seguidores a entenderem como decisões de juros afetam oportunidades e riscos na bolsa e renda fixa, conectando com os benefícios de estudar o mercado financeiro.",
+  "gancho": "*Fed* e juros em dezembro",
+  "ideias": [
+   "O que o Fed sinaliza para os juros em dezembro?",
+   "Entenda as apostas do mercado para os Fed Funds",
+   "Como a inflação impacta a decisão do Fed sobre juros?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "url": "https://www.infomoney.com.br/economia/cme-mercado-ve-chance-de-manutencao-de-juro-pelo-fed-em-dezembro/",
+  "publicadoEm": "2026-11-20T18:29:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-08"
+ },
+ {
+  "titulo": "Qual a parcela ideal para renda fixa em sua carteira de investimentos?",
+  "resumo": "A proporção de renda fixa ideal varia conforme objetivos, riscos e retornos. Michael Viriato explica que não há regra fixa, e a alocação depende do perfil e condições do mercado brasileiro.",
+  "fatos": [
+   "Não existe regra fixa de alocação entre renda fixa e renda variável para investidores brasileiros.",
+   "Recomendações tradicionais falham por basearem-se em características dos mercados americanos.",
+   "Juros reais elevados permitem alcançar objetivos com maior proporção em renda fixa.",
+   "Renda fixa deve garantir recursos para curto prazo, estabilidade e retornos futuros.",
+   "Títulos prefixados e pós-fixados atendem a necessidades diferentes dentro da renda fixa.",
+   "O percentual ideal depende dos objetivos, perfil de risco e condições do mercado.",
+   "Um investidor com retorno real necessário de 5% pode não precisar arriscar mais.",
+   "As condições de mercado influenciam se renda fixa ou outros ativos são mais atraentes.",
+   "Idade e perfil de risco são insuficientes para determinar alocação ideal.",
+   "Michael Viriato é planejador patrimonial e sócio fundador da Casa do Investidor."
+  ],
+  "explicacao": [
+   "Michael Viriato destaca que a decisão sobre quanto do patrimônio investir em renda fixa depende dos objetivos financeiros, tolerância a riscos e dos retornos disponíveis no mercado. Não existe uma regra universal como 60% em ações e 40% em renda fixa aplicável ao investidor brasileiro.",
+   "A origem dessas regras geralmente vem de estudos dos EUA, que nem sempre se aplicam ao Brasil devido às diferenças no mercado e nas taxas de juros reais. Por exemplo, com juros altos, um investidor consegue atingir seus objetivos mesmo com 100% em renda fixa.",
+   "A renda fixa desempenha três funções principais: garantir recursos para compromissos de curto prazo, proporcionar estabilidade à carteira e buscar retornos reais previsíveis para metas futuras. Diferentes títulos e prazos são necessários para cada função, portanto, 100% em renda fixa não significa necessariamente conservador.",
+   "Por fim, é importante avaliar o retorno mínimo necessário para cada investidor. Se um portfólio de renda fixa oferece esse retorno com prazos compatíveis, não será preciso assumir riscos maiores. Contudo, assumir riscos pode ser necessário para quem precisa acumular patrimônio e tolerar volatilidade."
+  ],
+  "detalhes": [
+   "O texto foi publicado na Folha Mercado em 20 de novembro de 2026 às 18h00.",
+   "Michael Viriato alerta que recomendações fixas ignoram o contexto brasileiro.",
+   "Funções da renda fixa: liquidez para curto prazo, estabilidade e proteção contra inflação.",
+   "Os títulos públicos indexados à inflação ajudam a preservar o poder de compra.",
+   "A volatilidade de títulos prefixados pode ser alta antes do vencimento.",
+   "Renda fixa não implica necessariamente em carteira conservadora.",
+   "A decisão inclui avaliar o custo de oportunidade de não investir em ações ou imóveis."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Michael Viriato, planejador patrimonial e sócio fundador da Casa do",
+    "oque": "Não existe proporção fixa para renda fixa; depende dos objetivos, riscos e mercado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "20/11/2026",
+    "oque": "Publicação da análise sobre alocação em renda fixa na Folha Mercado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Renda fixa",
+    "significado": "Investimentos com retorno previsível e menor volatilidade."
+   },
+   {
+    "termo": "Juros reais",
+    "significado": "Taxa de juros descontada a inflação."
+   },
+   {
+    "termo": "Títulos prefixados",
+    "significado": "Títulos com taxa de juros fixada no momento da compra."
+   }
+  ],
+  "pergunta": "Qual a sua estratégia atual para alocar renda fixa na carteira? Você já adaptou conforme seus objetivos?",
+  "tamanhoTexto": 9179,
+  "numeros": [
+   {
+    "valor": "60%",
+    "rotulo": "proporção tradicional em ações recomendada nos EUA"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "proporção tradicional em renda fixa recomendada nos EUA"
+   },
+   {
+    "valor": "5%",
+    "rotulo": "retorno real líquido anual que um investidor pode precisar alcançar"
+   },
+   {
+    "valor": "7",
+    "rotulo": "acessos gratuitos por dia para não assinantes liberados por assinantes"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Não existe proporção",
+  "porQueImporta": "Entender que a alocação em renda fixa depende dos objetivos, do perfil de risco e do cenário do mercado ajuda o investidor a montar uma carteira mais alinhada à sua necessidade, evitando decisões baseadas em regras genéricas que podem não servir para o contexto brasileiro.",
+  "impactoMercado": "Essa análise reforça a importância de avaliar o cenário econômico e as taxas de juros para escolher entre renda fixa e renda variável. Mudanças nas condições de juros reais podem impactar o apetite por volatilidade, afetando setores e tipos de ativos preferidos pelos investidores.",
+  "entenda": "Renda fixa inclui investimentos que oferecem pagamentos previsíveis, como títulos públicos e privados. Eles são usados para garantir dinheiro para compromissos, proteger o patrimônio e buscar retornos estáveis. A escolha da proporção ideal depende de quanto risco se pode e quer assumir.",
+  "observar": "Acompanhe as mudanças nas taxas de juros reais, preços das ações e índices de inflação, pois elas influenciam as decisões sobre alocação entre renda fixa e variável.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicando de forma clara e contextualizada, esta notícia ajuda o seguidor a entender como montar uma carteira planejada, considerando o mercado brasileiro e perfil pessoal, incentivando a busca de conhecimento e formação em mercado financeiro.",
+  "gancho": "*Renda Fixa* na Carteira",
+  "ideias": [
+   "Como escolher a proporção ideal de renda fixa na sua carteira?",
+   "Renda fixa: estabilidade e segurança para diferentes objetivos",
+   "Por que não existe uma regra fixa para investir em renda fixa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "escudo",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/quanto-da-sua-carteira-deveria-estar-em-renda-fixa.shtml",
+  "publicadoEm": "2026-11-20T18:00:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-09"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "titulo": "Mercado de previsões vê 89,5% de chance de aumento de 25 bps pelo Fed em dezembro",
+  "resumo": "Os apostadores acreditam na probabilidade significativa de um aumento nas taxas de juros na próxima reunião do Fed.",
+  "probs": [
+   {
+    "opcao": "aumento de 25 bps",
+    "prob": 89.5
+   },
+   {
+    "opcao": "sem alteração",
+    "prob": 8.6
+   },
+   {
+    "opcao": "aumento de 50+ bps",
+    "prob": 1.8
+   },
+   {
+    "opcao": "redução de 25 bps",
+    "prob": 0.4
+   }
+  ],
+  "prazo": "2026-12-10",
+  "volume24h": "US$ 3,6 mi",
+  "fatos": [
+   "aumento de 25 bps: 89,5%",
+   "sem alteração: 8,6%",
+   "aumento de 50+ bps: 1,8%",
+   "redução de 25 bps: 0,4%"
+  ],
+  "numeros": [
+   {
+    "valor": "89,5%",
+    "rotulo": "aumento de 25 bps"
+   },
+   {
+    "valor": "8,6%",
+    "rotulo": "sem alteração"
+   },
+   {
+    "valor": "1,8%",
+    "rotulo": "aumento de 50+ bps"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "redução de 25 bps"
+   }
+  ],
+  "destaque": "89,5%",
+  "gancho": "*Expectativa* de política monetária do Fed",
+  "entenda": "O Federal Reserve, banco central dos EUA, define taxas de juros para controlar a inflação e estimular a economia. As decisões impactam os mercados financeiros.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+  "publicadoEm": "2026-11-20T19:21:15-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "data": "2026-11-20",
+  "status": "nova",
+  "id": "2026-11-20-p1"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
+  "titulo": "Mercado de previsões vê 90% de chance de 2 aumentos de taxa (50 bps) pelo Fed em 2026",
+  "resumo": "Os apostadores estão prevendo uma abordagem gradual nas elevações das taxas de juros ao longo do ano.",
+  "probs": [
+   {
+    "opcao": "2 (50 bps)",
+    "prob": 90.0
+   },
+   {
+    "opcao": "1 (25 bps)",
+    "prob": 7.1
+   },
+   {
+    "opcao": "3 (75 bps)",
+    "prob": 3.4
+   },
+   {
+    "opcao": "4 (100 bps)",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 77 mil",
+  "fatos": [
+   "2 (50 bps): 90,0%",
+   "1 (25 bps): 7,1%",
+   "3 (75 bps): 3,4%",
+   "4 (100 bps): 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "90,0%",
+    "rotulo": "2 (50 bps)"
+   },
+   {
+    "valor": "7,1%",
+    "rotulo": "1 (25 bps)"
+   },
+   {
+    "valor": "3,4%",
+    "rotulo": "3 (75 bps)"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "4 (100 bps)"
+   }
+  ],
+  "destaque": "90,0%",
+  "gancho": "*Mudança* na política monetária",
+  "entenda": "As decisões de aumento das taxas visam controlar a inflação e estabilizar o crescimento econômico, afetando diversos ativos financeiros.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-many-fed-rate-hikes-in-2026-20260623190717369",
+  "publicadoEm": "2026-11-20T19:21:15-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "data": "2026-11-20",
+  "status": "nova",
+  "id": "2026-11-20-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bitcoin-above-on-november-22-2026",
+  "titulo": "Mercado de previsões vê 97,8% de chance do Bitcoin estar acima de 54.000 em 22 de novembro de",
+  "resumo": "A maioria dos apostadores acredita que o Bitcoin manterá um preço saudável no final de novembro.",
+  "probs": [
+   {
+    "opcao": "54,000",
+    "prob": 97.8
+   },
+   {
+    "opcao": "56,000",
+    "prob": 93.1
+   },
+   {
+    "opcao": "58,000",
+    "prob": 75.3
+   },
+   {
+    "opcao": "60,000",
+    "prob": 35.5
+   }
+  ],
+  "prazo": "2026-11-22",
+  "volume24h": "US$ 122 mil",
+  "fatos": [
+   "54,000: 97,8%",
+   "56,000: 93,1%",
+   "58,000: 75,3%",
+   "60,000: 35,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "97,8%",
+    "rotulo": "54,000"
+   },
+   {
+    "valor": "93,1%",
+    "rotulo": "56,000"
+   },
+   {
+    "valor": "75,3%",
+    "rotulo": "58,000"
+   },
+   {
+    "valor": "35,5%",
+    "rotulo": "60,000"
+   }
+  ],
+  "destaque": "97,8%",
+  "gancho": "*Expectativa alta* para o Bitcoin",
+  "entenda": "O movimento de preços do Bitcoin é amplamente acompanhado como uma métrica de interesse e confiança no mercado de criptoativos.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bitcoin-above-on-november-22-2026",
+  "publicadoEm": "2026-11-20T19:21:15-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-20T19:21:15-03:00",
+  "data": "2026-11-20",
+  "status": "nova",
+  "id": "2026-11-20-p3"
+ },
+ {
   "titulo": "Dólar se fortalece por quarto semana seguida com Fed e IA",
   "resumo": "Dólar caminha para alta pela 4ª semana consecutiva, apoiado em expectativas de aperto do Fed e busca de proteção por inteligência artificial.",
   "fatos": [
@@ -6697,35 +7411,35 @@
  {
   "tipo": "sinal",
   "slug": "another-fed-rate-hike-in-2026",
-  "titulo": "Mercado de previsões vê 97% de chance de novo aumento de taxa pelo Fed em 2026",
-  "resumo": "Acredita-se fortemente que o Fed realizará outra elevação nas taxas de juros, com base nas apostas.",
+  "titulo": "Mercado de previsões vê 91,8% de chance de outro aumento de taxas pelo Fed em 2026",
+  "resumo": "Os apostadores têm uma expectativa alta de novas elevações nas taxas ao longo de 2026.",
   "probs": [
    {
     "opcao": "Sim",
-    "prob": 97.0
+    "prob": 91.8
    },
    {
     "opcao": "Não",
-    "prob": 3.0
+    "prob": 8.2
    }
   ],
   "prazo": "2026-12-10",
-  "volume24h": "US$ 32 mil",
+  "volume24h": "US$ 96 mil",
   "fatos": [
-   "Sim: 97,0%",
-   "Não: 3,0%"
+   "Sim: 91,8%",
+   "Não: 8,2%"
   ],
   "numeros": [
    {
-    "valor": "97,0%",
+    "valor": "91,8%",
     "rotulo": "Sim"
    },
    {
-    "valor": "3,0%",
+    "valor": "8,2%",
     "rotulo": "Não"
    }
   ],
-  "destaque": "97,0%",
+  "destaque": "91,8%",
   "gancho": "*Alta probabilidade* de nova elevação",
   "entenda": "Expectativas de novas elevações de juros refletem as condições econômicas e as metas de controle da inflação pelo Fed.",
   "categoria": "Previsões",
@@ -6738,8 +7452,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-18T15:24:41-03:00",
   "data": "2026-11-18",
-  "status": "nova",
-  "id": "2026-11-18-p2"
+  "status": "atualizada",
+  "id": "2026-11-18-p2",
+  "atualizadoEm": "2026-11-20T19:21:15-03:00"
  },
  {
   "titulo": "Custo Brasil chega a R$ 3,5 trilhões, equivalente a 27,5% do PIB em 2025",
