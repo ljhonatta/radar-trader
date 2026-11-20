@@ -4,12 +4,14 @@
    legenda palavra por palavra. Grade fixa (margem 72px), uma cor de destaque, sem brilho exagerado. */
 (function(){
 const W=1080,H=1920,MX=72,FPS=30;
-const VOZES={onyx:"Onyx (grave)",ash:"Ash (masculina)",echo:"Echo (masculina leve)",nova:"Nova (feminina)",coral:"Coral (feminina calma)",sage:"Sage (feminina)",alloy:"Alloy (neutra)"};
+const VOZES={ash:"Ash (masculina, natural)",onyx:"Onyx (grave)",echo:"Echo (masculina leve)",nova:"Nova (feminina)",coral:"Coral (feminina calma)",sage:"Sage (feminina)",alloy:"Alloy (neutra)"};
 const OBJETOS={"seta-baixo":"Seta para baixo","seta-cima":"Seta para cima",termometro:"Termômetro (juros)",pilha:"Pilha de dinheiro",moedas:"Moedas",predio:"Prédio (Bolsa, BC)",
   "placa-pare":"Placa de pare",alvo:"Alvo",relogio:"Relógio",calendario:"Calendário",cartao:"Cartão",escudo:"Escudo",lupa:"Lupa",barras:"Barras",nenhum:"Sem objeto"};
 const TIPOS_V={numero:"Número em destaque",objeto:"Objeto + frase",grafico:"Gráfico",comparativo:"Antes × depois",lista:"Lista",citacao:"Citação",titulo:"Título",fim:"Fechamento (seguir)"};
-let V=null,cur=0,AUD={},tocando=null,gravando=null;
-const $v=id=>document.getElementById(id);
+let V=null,cur=0,tocando=null,gravando=null;
+/* o mesmo motor serve o Radar Trader e o Radar de Pautas: cada painel pode passar window.VIDEO_APP com os ganchos dele */
+const APP=window.VIDEO_APP||{};const PFX=APP.pfx||"v";
+const $v=id=>document.getElementById(PFX+id.slice(1));
 const cv=()=>$v("vCanvas");
 
 /* ---------------- utilidades ---------------- */
@@ -21,7 +23,7 @@ function mix(a,b,f){const x=hex(a),y=hex(b);return "#"+x.map((v,i)=>Math.round(v
 function rgba(c,a){const x=hex(c);return `rgba(${x[0]},${x[1]},${x[2]},${a})`;}
 function rnd(s){let x=Math.sin(s*9301+49297)*233280;return x-Math.floor(x);}
 const palavras=s=>String(s||"").trim().split(/\s+/).filter(Boolean);
-function paleta(){const p=(typeof PALETAS!=="undefined"&&PALETAS[V?.paleta])||PALETAS.laranja;
+function paleta(){const p=(APP.paleta&&APP.paleta(V))||(typeof PALETAS!=="undefined"&&PALETAS[V?.paleta])||PALETAS.laranja;
   return {a:p.a,a2:p.a2,bg0:"#16171b",bg1:"#08090b",txt:"#f4f3ef",sub:"#9a9ca3",card:"rgba(20,21,25,.86)",line:"rgba(255,255,255,.09)",
     clay:"#e8e6e1",clayD:"#a9a69f",clayS:"#7d7a74",neg:"#ff5a4e",pos:"#2fcf7a"};}
 function rr(g,x,y,w,h,r){r=Math.min(r,w/2,h/2);g.beginPath();g.moveTo(x+r,y);g.arcTo(x+w,y,x+w,y+h,r);g.arcTo(x+w,y+h,x,y+h,r);g.arcTo(x,y+h,x,y,r);g.arcTo(x,y,x+w,y,r);g.closePath();}
@@ -125,10 +127,11 @@ function cardFrase(g,P,txt,t0,cy,tam){const k=ease.out(prog(t0,.15,.55));if(k<=0
   const ls=quebra(g,txt,max).slice(0,4);const lh=(tam||58)*1.15,cw=Math.min(W-2*MX,Math.max(...ls.map(l=>g.measureText(l).width))+90),ch=ls.length*lh+56,x=(W-cw)/2,y=cy-ch;
   card(g,P,x,y,cw,ch,k,(1-k)*40);g.save();g.globalAlpha=k;g.translate(0,(1-k)*40);g.fillStyle=P.txt;g.textAlign="center";
   ls.forEach((l,i)=>{g.fillText(l,W/2,y+28+lh*(i+.82));});g.restore();}
-function legenda(g,P,c,tc,dur){const ws=palavras(c.narracao);if(!ws.length)return;
+function legenda(g,P,c,tc,dur,tw){const ws=palavras(c.narracao);if(!ws.length)return;
   // tempo de cada palavra proporcional ao tamanho (+ pausa em pontuação)
   const pesos=ws.map(w=>w.length+2+(/[.,;:!?]$/.test(w)?4:0)),tot=pesos.reduce((a,b)=>a+b,0),fala=Math.max(.5,dur-.25);let acc=0;const ini=pesos.map(p=>{const s=acc/tot*fala;acc+=p;return s;});
-  let iw=ini.findIndex((s,i)=>tc<(ini[i+1]??1e9));if(iw<0)iw=ws.length-1;
+  const tt=Array.isArray(tw)&&tw.length===ws.length?tw:ini; // com a narração "ouvida", usa o tempo real de cada palavra
+  let iw=tt.findIndex((s,i)=>tc<(tt[i+1]??1e9));if(iw<0)iw=ws.length-1;if(tc<tt[0])iw=0;
   // blocos de até 6 palavras, quebrando em pontuação
   const blocos=[];let b=[];ws.forEach((w,i)=>{b.push(i);if(b.length>=6||/[.,;:!?]$/.test(w)&&b.length>=3){blocos.push(b);b=[];}});if(b.length)blocos.push(b);
   const bl=blocos.find(x=>x.includes(iw))||blocos[0];fonte(g,700,54);const max=W-2*MX-60;
@@ -162,7 +165,7 @@ function desenhar(g,tAbs,L){
   else if(tipo==="fim"){desFim(g,P,v,tc,tAbs);}
   g.restore();g.globalAlpha=1;
   cabecalho(g,P,c,Math.min(ent,sai)*.999+.001);
-  legenda(g,P,c,tc,dur);rodape(g,P,i,V.cenas.length,1);
+  legenda(g,P,c,tc,dur,V._tw&&V._tw[i]);rodape(g,P,i,V.cenas.length,1);
   graoPor(g,tAbs);return i;}
 function desGrafico(g,P,v,tc){const x=MX+20,y=560,w=W-2*MX-40,h=640,k=ease.out(prog(tc,.1,.5));card(g,P,x,y,w,h,k,(1-k)*30);
   g.save();g.globalAlpha=k;g.strokeStyle="rgba(255,255,255,.06)";g.lineWidth=2;for(let i=1;i<5;i++){g.beginPath();g.moveTo(x+40,y+i*h/5);g.lineTo(x+w-40,y+i*h/5);g.stroke();}
@@ -194,32 +197,69 @@ function desCitacao(g,P,v,tc){const k=ease.out(prog(tc,.1,.5));const x=MX+10,w=W
   ls.forEach((l,i)=>g.fillText(l,x+60,y+90+i*70));fonte(g,600,26,"'JetBrains Mono',monospace");espaco(g,"2px");g.fillStyle=P.a2;g.fillText("— "+String(v.quem||"").toUpperCase().slice(0,48),x+60,y+h-50);espaco(g,"0px");g.restore();}
 const IMGS={};
 function img(src){if(!src)return null;if(IMGS[src])return IMGS[src].complete?IMGS[src]:null;const im=new Image();im.src=src;IMGS[src]=im;return null;}
-function desFim(g,P,v,tc,tAbs){const b=(typeof brandOf==="function"?brandOf(V.handle):{})||{};const k=ease.back(cl(tc/.6));const cy=880;
+function desFim(g,P,v,tc,tAbs){const b=(APP.marca?APP.marca(V):(typeof brandOf==="function"?brandOf(V.handle):{}))||{};const k=ease.back(cl(tc/.6));const cy=880;
   g.save();g.translate(W/2,cy);g.scale(.7+.3*k,.7+.3*k);g.globalAlpha=cl(tc/.4);g.strokeStyle=P.a;g.lineWidth=10;g.beginPath();g.arc(0,0,170,0,7);g.stroke();
-  const f=img(b.foto?blobSrc(b.foto):"");g.save();g.beginPath();g.arc(0,0,158,0,7);g.clip();if(f){const s=Math.max(316/f.width,316/f.height);g.drawImage(f,-f.width*s/2,-f.height*s/2,f.width*s,f.height*s);}else{g.fillStyle="#222";g.fillRect(-160,-160,320,320);}g.restore();g.restore();
+  const fu=b.fotoUrl||(b.foto?blobSrc(b.foto):""),f=img(fu||b.logoUrl||"");g.save();g.beginPath();g.arc(0,0,158,0,7);g.clip();g.fillStyle="#141518";g.fillRect(-160,-160,320,320);
+  if(f){const s=fu?Math.max(316/f.width,316/f.height):Math.min(230/f.width,230/f.height);g.drawImage(f,-f.width*s/2,-f.height*s/2,f.width*s,f.height*s);}g.restore();g.restore();
   const k2=ease.out(prog(tc,.35,.5));g.save();g.globalAlpha=k2;g.textAlign="center";fonte(g,900,cabe(g,b.nome||V.handle,W-2*MX,76,40,900));g.fillStyle=P.txt;g.fillText(b.nome||V.handle,W/2,1150);
   fonte(g,600,34,"'JetBrains Mono',monospace");g.fillStyle=P.sub;g.fillText(V.handle||"",W/2,1206);
   const bw=420,bx=(W-bw)/2,by=1260;g.fillStyle=P.a;rr(g,bx,by,bw,96,48);g.fill();fonte(g,800,44);g.fillStyle="#fff";g.fillText(v.texto||"Seguir",W/2,by+64);g.restore();}
 
 /* ---------------- tempo ---------------- */
-function linha(){const ini=[],dur=[];let t=0;V.cenas.forEach((c,i)=>{const a=AUD[chave(c)];let d=a?a.duration+.35:Math.max(2.4,palavras(c.narracao).length/2.6+.4);
-  if(V.audioProprio&&V._durs)d=V._durs[i];if((c.visual||{}).tipo==="fim")d=Math.max(d,3.2);ini.push(t);dur.push(d);t+=d;});return {ini,dur,total:t};}
-const chave=c=>(V.voz||"onyx")+"|"+(c.narracao||"");
+// com narração: as cenas seguem o tempo real da fala (V._durs); sem narração: estimativa pelo número de palavras
+function linha(){const ini=[],dur=[];let t=0;V.cenas.forEach((c,i)=>{let d=V._buf&&V._durs?V._durs[i]:Math.max(2.4,palavras(c.narracao).length/2.6+.4);
+  if((c.visual||{}).tipo==="fim")d=Math.max(d,3.2);ini.push(t);dur.push(d);t+=d;});return {ini,dur,total:t};}
 
-/* ---------------- narração (OpenAI) ---------------- */
+/* ---------------- narração ---------------- */
 let ACtx=null;const actx=()=>ACtx||(ACtx=new (window.AudioContext||window.webkitAudioContext)());
-async function narrar(){const key=window.radarKey?.get();if(!key){st("Para a narração com IA, coloque a chave da OpenAI na aba Marca. Ou envie o seu áudio.","err");return;}
-  V.audioProprio=false;const fila=V.cenas.filter(c=>c.narracao&&!AUD[chave(c)]);let feitos=0;st(`Gerando a voz: 0 de ${fila.length} cenas…`);
-  const um=async c=>{let r;for(const modelo of ["gpt-4o-mini-tts","tts-1"]){r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+key,"Content-Type":"application/json"},
-      body:JSON.stringify({model:modelo,voice:V.voz||"onyx",input:c.narracao,response_format:"mp3",...(modelo==="gpt-4o-mini-tts"?{instructions:"Português do Brasil. Tom de jornalista de mercado explicando para um amigo: natural, seguro, ritmo dinâmico, sem soar robótico."}:{})})});
-      if(r.ok)break;if(r.status===401)throw {code:"bad_key"};}
-    if(!r.ok)throw {code:"http_"+r.status};AUD[chave(c)]=await actx().decodeAudioData(await r.arrayBuffer());feitos++;st(`Gerando a voz: ${feitos} de ${fila.length} cenas…`);};
-  try{for(let i=0;i<fila.length;i+=4)await Promise.all(fila.slice(i,i+4).map(um));st("Narração pronta. Toque em Assistir ou Gravar vídeo.","ok");}
-  catch(e){st(e?.code==="bad_key"?"A chave da OpenAI foi recusada.":"Não consegui gerar a voz agora ("+(e?.code||"erro")+"). Tente de novo.","err");}
-  renderLista();quadro();}
-async function audioProprio(f){try{const buf=await actx().decodeAudioData(await f.arrayBuffer());V._buf=buf;V.audioProprio=true;
-  const ws=V.cenas.map(c=>Math.max(3,palavras(c.narracao).length));const tot=ws.reduce((a,b)=>a+b,0);V._durs=ws.map(w=>w/tot*buf.duration);
-  st(`Áudio carregado (${Math.round(buf.duration)}s). As cenas foram divididas pelo tamanho de cada fala.`,"ok");quadro();}catch(e){st("Não consegui ler esse áudio. Use MP3 ou M4A.","err");}}
+const LSv={get:(k,d)=>{try{const v=localStorage.getItem(k);return v==null?d:v;}catch(e){return d;}},set:(k,v)=>{try{v?localStorage.setItem(k,v):localStorage.removeItem(k);}catch(e){}}};
+const elKey=()=>LSv.get("rv-eleven-key",""),oaKey=()=>window.radarKey?.get()||"";
+const INSTR="Fale em português do Brasil, com sotaque brasileiro natural (paulistano neutro), como um jornalista de economia gravando um Reels: "+
+  "tom de conversa, seguro e próximo, ritmo dinâmico com pausas curtas entre as frases, ênfase leve nos números. Nada de tom de locutor de rádio nem de robô.";
+function textoNarr(){return V.cenas.map(c=>String(c.narracao||"").trim()).filter(Boolean).map(t=>/[.!?…]$/.test(t)?t:t+".").join(" ");}
+async function vozOpenAI(txt){const key=oaKey();if(!key)throw {code:"sem_chave"};let r;
+  for(const modelo of ["gpt-4o-mini-tts","tts-1-hd"]){r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+key,"Content-Type":"application/json"},
+      body:JSON.stringify({model:modelo,voice:V.voz||"ash",input:txt,response_format:"mp3",...(modelo==="gpt-4o-mini-tts"?{instructions:INSTR}:{speed:1.05})})});
+    if(r.ok)break;if(r.status===401)throw {code:"bad_key"};}
+  if(!r.ok)throw {code:"http_"+r.status};return await r.arrayBuffer();}
+async function vozEleven(txt,voz){const r=await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(voz)}?output_format=mp3_44100_128`,{method:"POST",
+    headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",language_code:"pt",voice_settings:{stability:.45,similarity_boost:.8,style:.25,use_speaker_boost:true}})});
+  if(r.status===401)throw {code:"eleven_key"};if(!r.ok)throw {code:"eleven_"+r.status};return await r.arrayBuffer();}
+// "ouve" o áudio pronto para saber o tempo de cada palavra (legenda e cortes de cena no tempo exato)
+async function ouvir(mp3){const key=oaKey();if(!key)return null;try{const fd=new FormData();fd.append("file",new Blob([mp3],{type:"audio/mpeg"}),"narracao.mp3");fd.append("model","whisper-1");
+    fd.append("language","pt");fd.append("response_format","verbose_json");fd.append("timestamp_granularities[]","word");
+    const r=await fetch("https://api.openai.com/v1/audio/transcriptions",{method:"POST",headers:{"Authorization":"Bearer "+key},body:fd});if(!r.ok)return null;const j=await r.json();
+    return Array.isArray(j.words)&&j.words.length?j.words.map(w=>({w:String(w.word||""),s:+w.start,e:+w.end})):null;}catch(e){return null;}}
+function alinhar(dur,ouvidas){const cenas=V.cenas.map(c=>palavras(c.narracao));const tot=cenas.reduce((a,b)=>a+b.length,0);if(!tot){V._durs=V.cenas.map(()=>dur/V.cenas.length);V._tw=null;return;}
+  // tempo de cada palavra do roteiro: pelo áudio "ouvido" (mesma ordem, ajustado pela contagem) ou proporcional ao tamanho
+  let tempos=[];
+  if(ouvidas&&ouvidas.length){const n=ouvidas.length;for(let k=0;k<tot;k++){const j=Math.min(n-1,Math.round(k*(n/tot)));tempos.push(ouvidas[j].s);}}
+  else{const ws=cenas.flat(),pesos=ws.map(w=>w.length+2+(/[.,;:!?]$/.test(w)?5:0)),sp=pesos.reduce((a,b)=>a+b,0);let acc=0;tempos=pesos.map(p=>{const s=acc/sp*dur;acc+=p;return s;});}
+  let k=0;const ini=[];cenas.forEach(ws=>{ini.push(ws.length?Math.max(0,tempos[k]-.12):null);k+=ws.length;});
+  for(let i=0;i<ini.length;i++)if(ini[i]==null)ini[i]=i?ini[i-1]:0;ini[0]=0;
+  V._durs=ini.map((s,i)=>((i+1<ini.length?ini[i+1]:dur+.6)-s));k=0;V._tw=cenas.map((ws,i)=>{const t=ws.map((w,j)=>tempos[k+j]-ini[i]);k+=ws.length;return t;});}
+async function narrar(){if(!V)return false;const txt=textoNarr();if(!txt){st("O roteiro está vazio.","err");return false;}
+  const ev=$v("vVoz").value||"";const usarEl=ev.startsWith("el:")&&elKey();
+  if(!usarEl&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o ElevenLabs aqui embaixo).","err");return false;}
+  st(usarEl?"Gravando a narração com a voz do ElevenLabs…":"Gravando a narração…");$v("vNarrar").disabled=true;
+  try{const mp3=usarEl?await vozEleven(txt,ev.slice(3)):await vozOpenAI(txt);V._buf=await actx().decodeAudioData(mp3.slice(0));V._audioProprio=false;
+    st("Sincronizando a legenda com a fala…");const ouvidas=await ouvir(mp3);alinhar(V._buf.duration,ouvidas);
+    st(`Narração pronta (${Math.round(V._buf.duration)}s)${ouvidas?", legenda no tempo exato da fala":""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
+  catch(e){const c=e?.code||"";st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
+  finally{$v("vNarrar").disabled=false;renderLista();quadro();}}
+async function audioProprio(f){try{const ab=await f.arrayBuffer();V._buf=await actx().decodeAudioData(ab.slice(0));V._audioProprio=true;st("Sincronizando a legenda com o seu áudio…");
+  const ouvidas=f.size<24e6?await ouvir(ab):null;alinhar(V._buf.duration,ouvidas);
+  st(`Áudio carregado (${Math.round(V._buf.duration)}s)${ouvidas?", legenda sincronizada com a fala":". Sem a chave da OpenAI, as cenas foram divididas pelo tamanho de cada fala"}.`,"ok");renderLista();quadro();}
+  catch(e){st("Não consegui ler esse áudio. Use MP3 ou M4A.","err");}}
+async function carregarVozesEleven(){const k=elKey();if(!k)return;try{const r=await fetch("https://api.elevenlabs.io/v1/voices",{headers:{"xi-api-key":k}});if(!r.ok)throw 0;
+    const j=await r.json();const vs=(j.voices||[]).map(v=>({id:v.voice_id,nome:v.name,br:/portug|brazil|brasil|pt-br/i.test(JSON.stringify(v.labels||{})+" "+(v.description||"")+" "+v.name)}));
+    vs.sort((a,b)=>b.br-a.br||a.nome.localeCompare(b.nome));VOZES_EL=vs;renderVozes();st(`${vs.length} vozes do ElevenLabs carregadas${vs.some(v=>v.br)?" (as brasileiras aparecem primeiro)":""}.`,"ok");}
+  catch(e){st("Não consegui ler suas vozes do ElevenLabs. Confira a chave.","err");}}
+let VOZES_EL=[];
+function renderVozes(){const sel=$v("vVoz");if(!sel)return;const atual=V?.vozSel||LSv.get("rv-voz-sel","oa:ash");
+  sel.innerHTML=`<optgroup label="OpenAI (sotaque brasileiro por instrução)">${Object.entries(VOZES).map(([k,v])=>`<option value="oa:${k}">${v}</option>`).join("")}</optgroup>`+
+    (VOZES_EL.length?`<optgroup label="ElevenLabs (mais natural)">${VOZES_EL.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join("")}</optgroup>`:"");
+  sel.value=[...sel.options].some(o=>o.value===atual)?atual:(VOZES_EL.find(v=>v.br)?"el:"+VOZES_EL.find(v=>v.br).id:"oa:ash");if(V){V.vozSel=sel.value;V.voz=sel.value.startsWith("oa:")?sel.value.slice(3):V.voz;}}
 
 /* ---------------- roteiro ---------------- */
 const cortaP=(s,n)=>{const w=palavras(s);return w.length>n?w.slice(0,n).join(" ").replace(/[,;:]$/,"")+".":w.join(" ");};
@@ -231,30 +271,35 @@ function objetoPara(txt){const s=String(txt||"").toLowerCase();
   if(/suspen|para|circuit/.test(s))return "placa-pare";return "alvo";}
 function numeroEm(s){const re=/(R\$|US\$)?\s?[+-]?\d[\d.,]*\s?(%|mi\b|bi\b|tri\b|mil\b|bilh(?:ões|ão)|milh(?:ões|ão)|trilh(?:ões|ão)|pontos)?/gi;let m;
   while((m=re.exec(String(s||"")))){const t=m[0].trim(),antes=String(s).slice(Math.max(0,m.index-1),m.index);
-    if(antes==="("||/^\d{1,2}$/.test(t)&&!m[1]&&!m[2])continue; // dia do mês, número solto
+    if(antes==="("||/^\d{1,2}$/.test(t)&&!m[1]&&!m[2])continue;
     if(m[1]||m[2]||/[.,]\d/.test(t)||/^\d{3,}$/.test(t.replace(/\D/g,"")))return t;}return "";}
-function roteiroDaFicha(n,h){const cs=[];const add=(cap,narr,visual)=>narr&&cs.push({cap,narracao:cortaP(narr,26),visual});
+const fimTxt=()=>APP.cta?APP.cta(V):`Siga ${V.handle} para entender o mercado todos os dias.`;
+const fimBotao=()=>APP.botao?APP.botao(V):"Seguir";
+function roteiroDaFicha(n){const cs=[];const add=(cap,narr,visual)=>narr&&cs.push({cap,narracao:cortaP(narr,26),visual});
   add("A NOTÍCIA",(n.gancho?plain(n.gancho)+". ":"")+(frases(n.resumo)[0]||n.titulo),{tipo:"titulo",texto:plain(n.gancho||n.titulo),objeto:objetoPara(n.titulo)});
-  frases((n.explicacao||[])[0]).slice(0,2).forEach((f,i)=>{const num=numeroEm(f);add("O FATO",f,num?{tipo:"numero",valor:num,rotulo:cortaP(f.replace(num,""),8).replace(/\.$/,""),objeto:objetoPara(f)}:{tipo:"objeto",objeto:objetoPara(f)});});
+  const base=(n.explicacao||[])[0]||(n.fatos||[]).slice(0,2).join(" ");
+  frases(base).slice(0,2).forEach(f=>{const num=numeroEm(f);add("O FATO",f,num?{tipo:"numero",valor:num,rotulo:cortaP(f.replace(num,""),8).replace(/\.$/,""),objeto:objetoPara(f)}:{tipo:"objeto",objeto:objetoPara(f)});});
   (n.numeros||[]).slice(0,2).forEach(x=>add("OS NÚMEROS",`${x.valor}: ${x.rotulo}.`,{tipo:"numero",valor:x.valor,rotulo:x.rotulo,objeto:objetoPara(x.rotulo+" "+x.valor)}));
   if((n.comparativo||[]).length)add("ANTES × DEPOIS","Veja o que mudou: "+n.comparativo.map(x=>`${x.item}, de ${x.antes} para ${x.depois}`).join("; ")+".",{tipo:"comparativo",itens:n.comparativo.map(x=>({rotulo:x.item,antes:x.antes,depois:x.depois}))});
   if((n.declaracoes||[]).length){const d=n.declaracoes[0];add("QUEM FALOU",`${d.quem.split(",")[0]} resumiu assim: ${d.oque}`,{tipo:"citacao",frase:d.oque,quem:d.quem});}
-  frases(n.porQueImporta).slice(0,1).forEach(f=>add("POR QUE IMPORTA",f,{tipo:"objeto",objeto:objetoPara(f),texto:""}));
+  frases(n.porQueImporta||n.dor).slice(0,1).forEach(f=>add("POR QUE IMPORTA",f,{tipo:"objeto",objeto:objetoPara(f)}));
   frases(n.impactoMercado).slice(0,1).forEach(f=>add("O IMPACTO",f,{tipo:"grafico",direcao:/cai|queda|recu|press/.test(f)?"cai":"sobe",rotulo:"movimento ilustrativo"}));
-  frases(n.entenda).slice(0,1).forEach(f=>add("ENTENDA",f,{tipo:"objeto",objeto:"lupa"}));
+  frases(n.entenda||n.angulo).slice(0,1).forEach(f=>add(n.entenda?"ENTENDA":"O CAMINHO",f,{tipo:"objeto",objeto:n.entenda?"lupa":"alvo"}));
   frases(n.observar).slice(0,1).forEach(f=>add("E AGORA",f,{tipo:"objeto",objeto:"calendario"}));
-  add("",`Siga ${h} para entender o mercado todos os dias.`,{tipo:"fim",texto:"Seguir"});return cs;}
-function roteiroDoTexto(txt,h){const ps=String(txt||"").split(/\n\s*\n|\n/).map(x=>x.trim()).filter(Boolean);
+  add("",fimTxt(),{tipo:"fim",texto:fimBotao()});return cs;}
+function roteiroDoTexto(txt){const ps=String(txt||"").split(/\n\s*\n|\n/).map(x=>x.trim()).filter(Boolean);
   const cs=ps.map((p,i)=>{const num=numeroEm(p);return {cap:i?"":"A NOTÍCIA",narracao:p,visual:num&&i?{tipo:"numero",valor:num,rotulo:cortaP(p.replace(num,""),7).replace(/\.$/,""),objeto:objetoPara(p)}:{tipo:i?"objeto":"titulo",texto:i?"":cortaP(p,9),objeto:objetoPara(p)}};});
-  cs.push({cap:"",narracao:`Siga ${h} para entender o mercado todos os dias.`,visual:{tipo:"fim",texto:"Seguir"}});return cs;}
-async function roteiroIA(modo){if(!(typeof temIA==="function"&&temIA())){st("Para a IA escrever o roteiro, coloque a chave da OpenAI na aba Marca. Usei a ficha da notícia.","err");V.cenas=roteiroDaFicha(V.noticia,V.handle);pronto();return;}
+  cs.push({cap:"",narracao:fimTxt(),visual:{tipo:"fim",texto:fimBotao()}});return cs;}
+const iaOk=()=>APP.temIA?APP.temIA():(typeof temIA==="function"&&temIA());
+async function roteiroIA(modo){if(!iaOk()){st("Para a IA escrever o roteiro, coloque a chave da OpenAI na aba Marca. Usei a ficha da notícia.","err");V.cenas=roteiroDaFicha(V.noticia);pronto();return false;}
   const n=V.noticia;st("Escrevendo o roteiro…");
   const mat=modo==="meu"?`ROTEIRO DO USUÁRIO (mantenha as falas, só ajuste para ficarem naturais e divida em cenas): ${$v("vMeu").value}`:
-    `NOTÍCIA: ${JSON.stringify({titulo:n.titulo,resumo:n.resumo,explicacao:n.explicacao,fatos:n.fatos,numeros:n.numeros,comparativo:n.comparativo,declaracoes:n.declaracoes,porQueImporta:n.porQueImporta,impactoMercado:n.impactoMercado,entenda:n.entenda,observar:n.observar,fonte:n.fonte})}`;
-  const prompt=`Você é roteirista de Reels de notícias do mercado financeiro para o perfil ${V.handle}, em português do Brasil.
+    `NOTÍCIA: ${JSON.stringify({titulo:n.titulo,resumo:n.resumo,explicacao:n.explicacao,fatos:n.fatos,numeros:n.numeros,comparativo:n.comparativo,declaracoes:n.declaracoes,porQueImporta:n.porQueImporta,impactoMercado:n.impactoMercado,entenda:n.entenda,observar:n.observar,dor:n.dor,angulo:n.angulo,fonte:n.fonte})}`;
+  const contexto=APP.contexto?APP.contexto(V):`Perfil ${V.handle}: notícias do mercado financeiro explicadas de um jeito simples para quem investe ou quer começar.`;
+  const prompt=`Você é roteirista de Reels em português do Brasil. ${contexto}
 ${mat}
-Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um jornalista explicando para um amigo: frases curtas, ritmo de conversa, nada de clichê, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Só use números, nomes e fatos do material.
-Estrutura: gancho forte na primeira cena; o que aconteceu; os números; por que importa; o que muda para quem investe; um conceito explicado; o que observar; fechamento convidando a seguir ${V.handle}.
+Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um brasileiro explicando para um amigo: frases curtas, ritmo de conversa, expressões naturais do dia a dia, nada de clichê, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Escreva os números por extenso quando ajudar a leitura em voz alta (ex.: "cinco reais e noventa e três"), mas no campo "valor" do visual use o número curto. Só use números, nomes e fatos do material.
+Estrutura: gancho forte na primeira cena; o que aconteceu; os números; por que importa; o que muda para quem assiste; um conceito explicado; o que observar; fechamento: ${fimTxt()}
 Divida em 9 a 13 cenas. Cada cena tem uma fala de 8 a 22 palavras e UM visual:
 - "numero": {"valor":"número curto do material, ex: R$ 11 tri, -20%, 5,93","rotulo":"até 7 palavras","objeto":"um objeto"}
 - "objeto": {"objeto":"um objeto","texto":"opcional, até 6 palavras"}
@@ -263,15 +308,15 @@ Divida em 9 a 13 cenas. Cada cena tem uma fala de 8 a 22 palavras e UM visual:
 - "lista": {"itens":["até 3 itens de até 9 palavras"]}
 - "citacao": {"frase":"paráfrase curta","quem":"nome e cargo do material"}
 - "titulo": {"texto":"até 8 palavras","objeto":"um objeto"}
-- a última cena é {"tipo":"fim","texto":"Seguir"}
+- a última cena é {"tipo":"fim","texto":"${fimBotao()}"}
 Objetos possíveis: ${Object.keys(OBJETOS).join(", ")}. Varie os visuais; não repita o mesmo objeto em cenas seguidas.
 "cap" é a etiqueta do capítulo em 1 ou 2 palavras (ex: A NOTÍCIA, A CONTA, O IMPACTO, ENTENDA, E AGORA).
 Responda só com JSON: {"cenas":[{"cap":"","narracao":"","visual":{"tipo":"","...":""}}],"legenda":"legenda do post com 2 parágrafos, a fonte e 5 hashtags"}`;
   try{const r=await sample.json(prompt,{cache:false});if(!Array.isArray(r?.cenas)||!r.cenas.length)throw {code:"invalid_json"};
     V.cenas=r.cenas.map(c=>({cap:String(c.cap||""),narracao:String(c.narracao||""),visual:limpaVisual(c.visual,c.narracao)}));
-    if(!V.cenas.length||V.cenas[V.cenas.length-1].visual.tipo!=="fim")V.cenas.push({cap:"",narracao:`Siga ${V.handle} para entender o mercado todos os dias.`,visual:{tipo:"fim",texto:"Seguir"}});
-    V.legendaPost=String(r.legenda||"");pronto("Roteiro pronto. Revise as falas e toque em Gerar narração.");}
-  catch(e){st("A IA não respondeu agora. Usei a ficha da notícia; tente de novo depois.","err");V.cenas=roteiroDaFicha(n,V.handle);pronto();}}
+    const ult=V.cenas[V.cenas.length-1];if(ult.visual.tipo!=="fim")V.cenas.push({cap:"",narracao:fimTxt(),visual:{tipo:"fim",texto:fimBotao()}});else ult.visual.texto=ult.visual.texto||fimBotao();
+    V.legendaPost=String(r.legenda||"");pronto("Roteiro pronto.");return true;}
+  catch(e){st("A IA não respondeu agora. Usei a ficha da notícia; tente de novo depois.","err");V.cenas=roteiroDaFicha(n);pronto();return false;}}
 function limpaVisual(v,narr){v=v&&typeof v==="object"?v:{};const tipo=TIPOS_V[v.tipo]?v.tipo:"objeto";const o={tipo};
   for(const k of ["valor","rotulo","texto","frase","quem","direcao","dia"])if(v[k])o[k]=String(v[k]);
   if(Array.isArray(v.itens))o.itens=v.itens.slice(0,4).map(x=>typeof x==="object"?{rotulo:String(x.rotulo||x.item||""),antes:String(x.antes||""),depois:String(x.depois||"")}:String(x));
@@ -282,47 +327,42 @@ const ALT={moedas:["pilha","barras","seta-cima","cartao"],pilha:["moedas","barra
 function variar(cs){let ant="";const usados={};cs.forEach(c=>{const v=c.visual||{};if(!v.objeto||v.objeto==="nenhum"){ant="";return;}
   if(v.objeto===ant||(usados[v.objeto]||0)>=2){const op=(ALT[v.objeto]||["alvo","barras","lupa"]).find(o=>o!==ant&&(usados[o]||0)<2);if(op)v.objeto=op;}
   usados[v.objeto]=(usados[v.objeto]||0)+1;ant=v.objeto;});return cs;}
-function pronto(msg){cur=0;variar(V.cenas);V.legendaPost=V.legendaPost||legendaLocal();salvar();renderLista();renderCena();quadro();if(msg)st(msg,"ok");}
-function legendaLocal(){const n=V.noticia;return `${plain(n.gancho||n.titulo)}\n\n${(n.explicacao||[]).slice(0,2).join("\n\n")||n.resumo}\n\nFonte: ${n.fonte}\n\nSiga ${V.handle} para entender o mercado todos os dias.\n\nConteúdo informativo, não é recomendação de investimento.\n\n#mercadofinanceiro #investimentos #economia #bolsadevalores #trader`;}
+function pronto(msg){cur=0;variar(V.cenas);V._buf=null;V._durs=null;V._tw=null;V.legendaPost=V.legendaPost||legendaLocal();salvar();renderLista();renderCena();quadro();if(msg)st(msg,"ok");}
+function legendaLocal(){const n=V.noticia;return APP.legenda?APP.legenda(V):`${plain(n.gancho||n.titulo)}\n\n${(n.explicacao||[]).slice(0,2).join("\n\n")||n.resumo}\n\nFonte: ${n.fonte}\n\n${fimTxt()}\n\nConteúdo informativo, não é recomendação de investimento.\n\n#mercadofinanceiro #investimentos #economia #bolsadevalores #trader`;}
 
 /* ---------------- tocar e gravar ---------------- */
 function quadro(){if(!V||!cv())return;const g=cv().getContext("2d");const L=linha();desenhar(g,(L.ini[cur]||0)+Math.min(1.6,(L.dur[cur]||2)*.7),L);
-  $v("vTempo").textContent=`${Math.round(L.total)}s · ${V.cenas.length} cenas`;}
+  $v("vTempo").textContent=`${Math.round(L.total)}s · ${V.cenas.length} cenas${V._buf?" · com narração":""}`;}
 function parar(){if(tocando){tocando.stop=true;try{tocando.src.forEach(s=>s.stop());}catch(e){}tocando=null;}$v("vPlay").textContent="Assistir";}
-function tocar(rec){if(tocando){parar();return Promise.resolve();}
-  const ctx=actx();ctx.resume();const L=linha(),g=cv().getContext("2d"),t0=ctx.currentTime+.15,dest=rec?ctx.createMediaStreamDestination():null,src=[];
-  const ligar=b=>{const s=ctx.createBufferSource();s.buffer=b;s.connect(ctx.destination);if(dest)s.connect(dest);return s;};
-  if(V.audioProprio&&V._buf){const s=ligar(V._buf);s.start(t0);src.push(s);}
-  else V.cenas.forEach((c,i)=>{const b=AUD[chave(c)];if(b){const s=ligar(b);s.start(t0+L.ini[i]+.1);src.push(s);}});
-  const est={stop:false,src};tocando=est;$v("vPlay").textContent="Parar";
-  return new Promise(res=>{const passo=()=>{if(est.stop){res();return;}const t=ctx.currentTime-t0;if(t>=L.total){parar();res(true);return;}
-      const i=desenhar(g,Math.max(0,t),L);if(i!==cur){cur=i;marcar();}if(rec)rec(t/L.total);requestAnimationFrame(passo);};requestAnimationFrame(passo);
-    est.dest=dest;});}
-async function gravar(){if(!V||gravando)return;const c=cv();
-  if(!c.captureStream||typeof MediaRecorder==="undefined"){st("Este navegador não grava vídeo. Use o Chrome ou o Safari atualizado.","err");return;}
+function rodar(dest,onFrame){const ctx=actx(),L=linha(),g=cv().getContext("2d"),t0=ctx.currentTime+.3,src=[];
+  if(V._buf){const s=ctx.createBufferSource();s.buffer=V._buf;s.connect(ctx.destination);if(dest)s.connect(dest);s.start(t0);src.push(s);}
+  const est={stop:false,src};return {est,fim:new Promise(res=>{const passo=()=>{if(est.stop){res(false);return;}const t=ctx.currentTime-t0;
+      if(t>=L.total+.2){res(true);return;}const i=desenhar(g,cl(t,0,L.total-.001),L);if(i!==cur){cur=i;marcar();}onFrame&&onFrame(cl(t/L.total));requestAnimationFrame(passo);};requestAnimationFrame(passo);})};}
+async function tocar(){if(tocando){parar();return;}await actx().resume();const r=rodar(null);tocando=r.est;$v("vPlay").textContent="Parar";await r.fim;if(tocando===r.est)parar();}
+async function gravar(){if(!V||gravando)return false;const c=cv();
+  if(!c.captureStream||typeof MediaRecorder==="undefined"){st("Este navegador não grava vídeo. Use o Chrome ou o Safari atualizado.","err");return false;}
   const mime=["video/mp4;codecs=avc1.42E01E,mp4a.40.2","video/mp4;codecs=avc1","video/mp4","video/webm;codecs=vp9,opus","video/webm"].find(m=>MediaRecorder.isTypeSupported(m));
-  if(!mime){st("Este navegador não grava vídeo.","err");return;}
+  if(!mime){st("Este navegador não grava vídeo.","err");return false;}
   parar();await document.fonts.ready;const ctx=actx();await ctx.resume();
-  const vs=c.captureStream(FPS);const dest=ctx.createMediaStreamDestination();
-  const stream=new MediaStream([...vs.getVideoTracks(),...dest.stream.getAudioTracks()]);
-  const chunks=[];const mr=new MediaRecorder(stream,{mimeType:mime,videoBitsPerSecond:10e6,audioBitsPerSecond:160e3});mr.ondataavailable=e=>e.data.size&&chunks.push(e.data);
-  gravando=mr;$v("vRec").disabled=true;mr.start(500);
-  const L=linha(),g=c.getContext("2d"),t0=ctx.currentTime+.3,src=[];
-  const ligar=b=>{const s=ctx.createBufferSource();s.buffer=b;s.connect(ctx.destination);s.connect(dest);return s;};
-  if(V.audioProprio&&V._buf){const s=ligar(V._buf);s.start(t0);src.push(s);}else V.cenas.forEach((cc,i)=>{const b=AUD[chave(cc)];if(b){const s=ligar(b);s.start(t0+L.ini[i]+.1);src.push(s);}});
-  await new Promise(res=>{const passo=()=>{const t=ctx.currentTime-t0;if(t>=L.total+.3){res();return;}const i=desenhar(g,cl(t,0,L.total-.001),L);if(i!==cur){cur=i;marcar();}
-    st(`Gravando… ${Math.round(cl(t/L.total)*100)}% (deixe esta aba aberta na tela)`);requestAnimationFrame(passo);};requestAnimationFrame(passo);});
-  mr.stop();await new Promise(r=>mr.onstop=r);gravando=null;$v("vRec").disabled=false;
+  const dest=ctx.createMediaStreamDestination(),vs=c.captureStream(FPS);
+  const stream=new MediaStream([...vs.getVideoTracks(),...(V._buf?dest.stream.getAudioTracks():[])]);
+  const chunks=[];const mr=new MediaRecorder(stream,{mimeType:mime,videoBitsPerSecond:10e6,audioBitsPerSecond:192e3});mr.ondataavailable=e=>e.data.size&&chunks.push(e.data);
+  gravando=mr;$v("vRec").disabled=true;$v("vTudo").disabled=true;mr.start(500);
+  const r=rodar(dest,p=>st(`Gravando o vídeo… ${Math.round(p*100)}% (deixe esta aba aberta na tela)`));tocando=r.est;await r.fim;tocando=null;
+  mr.stop();await new Promise(x=>mr.onstop=x);gravando=null;$v("vRec").disabled=false;$v("vTudo").disabled=false;
   const ext=mime.startsWith("video/mp4")?"mp4":"webm";const blob=new Blob(chunks,{type:mime.split(";")[0]});
   const nome=`video-${(typeof slug==="function"?slug(V.handle):"perfil")||"perfil"}-${new Date().toISOString().slice(0,10)}.${ext}`;
-  try{await downloads.save({filename:nome,data:blob});st(ext==="mp4"?"Vídeo MP4 baixado.":"Vídeo baixado em WebM (este navegador não grava MP4). No Chrome atualizado ou no Safari ele sai em MP4.","ok");}
-  catch(e){st("Não consegui baixar o vídeo.","err");}}
+  try{await downloads.save({filename:nome,data:blob});st((ext==="mp4"?"Vídeo MP4 pronto e baixado":"Vídeo baixado em WebM (este navegador não grava MP4; no Chrome atualizado ou no Safari sai em MP4)")+(V._buf?", com narração e legenda.":", sem narração."),"ok");return true;}
+  catch(e){st("Não consegui baixar o vídeo.","err");return false;}}
+// um toque: roteiro com IA → narração → legenda sincronizada → MP4
+async function tudo(){if(!V)return;if(!oaKey()&&!elKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
+  $v("vTudo").disabled=true;try{if(iaOk())await roteiroIA("ficha");if(!await narrar())return;await gravar();}finally{$v("vTudo").disabled=false;}}
 
 /* ---------------- tela ---------------- */
-function st(t,c){if(typeof setStatus==="function")setStatus("vStatus",t,c);}
-function salvar(){try{if(db&&V)db.doc("videos/"+V.id).set({...V,_buf:null,_durs:V.audioProprio?V._durs:null,atualizadoEm:new Date().toISOString()});}catch(e){}}
-function marcar(){document.querySelectorAll("#vLista .vcena").forEach((b,i)=>b.setAttribute("aria-current",String(i===cur)));renderCena();}
-function renderLista(){if(!V)return;$v("vLista").innerHTML=V.cenas.map((c,i)=>`<button class="vcena" data-vc="${i}" aria-current="${i===cur}"><span class="n">${String(i+1).padStart(2,"0")}</span><span class="t">${esc(c.narracao||"(sem fala)")}</span><span class="k">${esc(TIPOS_V[c.visual?.tipo]||"")}${AUD[chave(c)]?" · voz ✓":""}</span></button>`).join("");}
+function st(t,c){if(typeof setStatus==="function")setStatus(PFX+"Status",t,c);}
+function salvar(){try{if(db&&V){const {_buf,_durs,_tw,...d}=V;db.doc("videos2/"+V.id).set({...d,atualizadoEm:new Date().toISOString()});}}catch(e){}}
+function marcar(){$v("vLista").querySelectorAll(".vcena").forEach((b,i)=>b.setAttribute("aria-current",String(i===cur)));renderCena();}
+function renderLista(){if(!V)return;$v("vLista").innerHTML=V.cenas.map((c,i)=>`<button class="vcena" data-vc="${i}" aria-current="${i===cur}"><span class="n">${String(i+1).padStart(2,"0")}</span><span class="t">${esc(c.narracao||"(sem fala)")}</span><span class="k">${esc(TIPOS_V[c.visual?.tipo]||"")}</span></button>`).join("");}
 function renderCena(){if(!V)return;const c=V.cenas[cur];if(!c)return;const v=c.visual||{};
   $v("vcCap").value=c.cap||"";$v("vcNarr").value=c.narracao||"";$v("vcTipo").value=v.tipo||"objeto";$v("vcObj").value=v.objeto||"nenhum";
   $v("vcValor").value=v.valor||v.texto||v.frase||"";$v("vcRot").value=v.rotulo||v.quem||v.direcao||"";
@@ -331,22 +371,26 @@ function renderCena(){if(!V)return;const c=V.cenas[cur];if(!c)return;const v=c.v
   $v("vfRot").querySelector("span").textContent=t==="citacao"?"Quem falou":t==="grafico"?"Rótulo (ou: sobe / cai)":"Rótulo";
   $v("vfItens").hidden=!["lista","comparativo"].includes(t);$v("vfItens").querySelector("span").textContent=t==="comparativo"?"Linhas (item; antes; depois)":"Itens (um por linha)";
   $v("vfObj").hidden=!["numero","objeto","titulo"].includes(t);$v("vcIdx").textContent=`Cena ${cur+1} de ${V.cenas.length}`;}
-function editar(){const c=V.cenas[cur];if(!c)return;const v=c.visual=c.visual||{};c.cap=$v("vcCap").value;c.narracao=$v("vcNarr").value;v.tipo=$v("vcTipo").value;v.objeto=$v("vcObj").value;
+function editar(){const c=V.cenas[cur];if(!c)return;const v=c.visual=c.visual||{};const antes=c.narracao;c.cap=$v("vcCap").value;c.narracao=$v("vcNarr").value;v.tipo=$v("vcTipo").value;v.objeto=$v("vcObj").value;
   const a=$v("vcValor").value,b=$v("vcRot").value;delete v.valor;delete v.texto;delete v.frase;delete v.quem;delete v.rotulo;
   if(v.tipo==="citacao"){v.frase=a;v.quem=b;}else if(["titulo","objeto","fim"].includes(v.tipo))v.texto=a;else{v.valor=a;v.rotulo=b;if(v.tipo==="grafico")v.direcao=/cai|queda/i.test(b)?"cai":/oscil/i.test(b)?"oscila":"sobe";}
   const ls=$v("vcItens").value.split("\n").map(x=>x.trim()).filter(Boolean);v.itens=v.tipo==="comparativo"?ls.map(l=>{const p=l.split(";");return {rotulo:(p[0]||"").trim(),antes:(p[1]||"").trim(),depois:(p.slice(2).join(";")||"").trim()};}):ls;
+  if(antes!==c.narracao&&V._buf&&!V._audioProprio){V._buf=null;V._durs=null;V._tw=null;st("A fala mudou: toque em Gerar narração de novo.");}
   renderCena();renderLista();quadro();salvar();}
-function abrir(n){const perfis=typeof perfisOrd==="function"?perfisOrd():[];const h=(typeof atH==="function"&&atH(prefs.handle))||perfis[0]?.handle||"@seuperfil";
-  V={id:"v"+Date.now().toString(36),noticiaId:n.id,noticia:n,handle:h,paleta:(brandOf(h)||{}).paleta||prefs.paleta||"laranja",voz:prefs.voz||"onyx",marca:"Radar Trader",cenas:roteiroDaFicha(n,h),criadoEm:new Date().toISOString()};
-  cur=0;showTab("video");$v("vVazio").hidden=true;$v("vCorpo").hidden=false;$v("vbTitulo").textContent=n.titulo;$v("vbFonte").textContent=n.fonte||"";
+function abrir(n){const perfis=APP.perfis?APP.perfis():(typeof perfisOrd==="function"?perfisOrd():[]);
+  const h=APP.handle?APP.handle():((typeof atH==="function"&&atH(prefs.handle))||perfis[0]?.handle||"@seuperfil");
+  V={id:"v"+Date.now().toString(36),noticiaId:n.id,noticia:n,handle:h,paleta:(typeof brandOf==="function"&&(brandOf(h)||{}).paleta)||prefs.paleta||"laranja",
+    voz:"ash",vozSel:LSv.get("rv-voz-sel","oa:ash"),marca:APP.marcaTopo?APP.marcaTopo():"Radar Trader",cenas:[],criadoEm:new Date().toISOString()};
+  V.cenas=roteiroDaFicha(n);cur=0;(APP.mostrar||showTab)(APP.aba||"video");$v("vVazio").hidden=true;$v("vCorpo").hidden=false;$v("vbTitulo").textContent=n.titulo;$v("vbFonte").textContent=n.fonte||"";
   $v("vPerfil").innerHTML=perfis.map(p=>`<option value="${esc(p.handle)}" ${p.handle===h?"selected":""}>${esc(p.nome||p.handle)} · ${esc(p.handle)}</option>`).join("")||`<option>${esc(h)}</option>`;
-  $v("vVoz").innerHTML=Object.entries(VOZES).map(([k,v])=>`<option value="${k}" ${k===V.voz?"selected":""}>${v}</option>`).join("");
-  $v("vCor").innerHTML=Object.entries(PALETAS).filter(([k])=>k!=="claro").map(([k,p])=>`<button class="swc" data-vcor="${k}" aria-pressed="${k===V.paleta}" title="${p.nome}" style="--b1:${p.bg1};--a1:${p.a};--a2:${p.a2}"></button>`).join("");
-  $v("vMeu").value="";pronto(temIA()?"Rascunho montado com a ficha. Toque em Escrever roteiro com IA para uma versão melhor.":"Roteiro montado com a ficha da notícia. Revise as falas.");
-  const b=brandOf(h);if(b.foto)img(blobSrc(b.foto));}
+  renderVozes();
+  if(!APP.semCores)$v("vCor").innerHTML=Object.entries(PALETAS).filter(([k])=>k!=="claro").map(([k,p])=>`<button class="swc" data-vcor="${k}" aria-pressed="${k===V.paleta}" title="${p.nome}" style="--b1:${p.bg1};--a1:${p.a};--a2:${p.a2}"></button>`).join("");
+  $v("vMeu").value="";$v("vElKey").value=elKey()?"••••••••"+elKey().slice(-4):"";
+  pronto(iaOk()?"Pronto para gerar. Toque em Fazer tudo para sair o vídeo pronto, ou vá passo a passo.":"Roteiro montado com a ficha. Coloque a chave da OpenAI na aba Marca para a IA e a narração.");
+  const b=APP.marca?APP.marca(V):(typeof brandOf==="function"?brandOf(h):{});if(b?.fotoUrl||b?.foto)img(b.fotoUrl||blobSrc(b.foto));if(b?.logoUrl)img(b.logoUrl);}
 window.radarVideo={abrir};
-document.addEventListener("click",e=>{const b=e.target.closest("[data-video],#nbVideo");if(!b)return;
-  const id=b.dataset.video||(typeof deck!=="undefined"&&deck?.noticiaId);const n=NEWS.find(x=>x.id===id)||(typeof deck!=="undefined"&&deck?.noticia);if(n)abrir(n);});
+document.addEventListener("click",e=>{const b=e.target.closest(APP.botoes||"[data-video],#nbVideo");if(!b)return;e.stopPropagation();
+  const n=APP.noticiaDe?APP.noticiaDe(b):(NEWS.find(x=>x.id===(b.dataset.video||(typeof deck!=="undefined"&&deck?.noticiaId)))||(typeof deck!=="undefined"&&deck?.noticia));if(n)abrir(n);},true);
 
 /* ---------------- eventos ---------------- */
 function ligarTela(){if(!$v("vCanvas"))return;
@@ -354,17 +398,20 @@ function ligarTela(){if(!$v("vCanvas"))return;
   $v("vcObj").innerHTML=Object.entries(OBJETOS).map(([k,v])=>`<option value="${k}">${v}</option>`).join("");
   $v("vLista").addEventListener("click",e=>{const b=e.target.closest("[data-vc]");if(!b)return;parar();cur=+b.dataset.vc;marcar();quadro();});
   ["vcCap","vcNarr","vcValor","vcRot","vcItens"].forEach(id=>$v(id).addEventListener("input",editar));["vcTipo","vcObj"].forEach(id=>$v(id).addEventListener("change",editar));
-  $v("vCor").addEventListener("click",e=>{const b=e.target.closest("[data-vcor]");if(!b||!V)return;V.paleta=b.dataset.vcor;document.querySelectorAll("#vCor .swc").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));quadro();salvar();});
-  $v("vPerfil").onchange=e=>{V.handle=e.target.value;const f=V.cenas[V.cenas.length-1];if(f?.visual?.tipo==="fim")f.narracao=`Siga ${V.handle} para entender o mercado todos os dias.`;renderLista();quadro();};
-  $v("vVoz").onchange=e=>{V.voz=prefs.voz=e.target.value;savePrefs();renderLista();st("Voz trocada. Toque em Gerar narração de novo.");};
+  if($v("vCor"))$v("vCor").addEventListener("click",e=>{const b=e.target.closest("[data-vcor]");if(!b||!V)return;V.paleta=b.dataset.vcor;$v("vCor").querySelectorAll(".swc").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));quadro();salvar();});
+  $v("vPerfil").onchange=e=>{V.handle=e.target.value;const f=V.cenas[V.cenas.length-1];if(f?.visual?.tipo==="fim"){f.narracao=fimTxt();V._buf=null;}renderLista();quadro();};
+  $v("vVoz").onchange=e=>{V.vozSel=e.target.value;LSv.set("rv-voz-sel",V.vozSel);if(V.vozSel.startsWith("oa:"))V.voz=V.vozSel.slice(3);if(!V._audioProprio){V._buf=null;}st("Voz trocada. Toque em Gerar narração.");quadro();};
   $v("vIA").onclick=()=>roteiroIA("ficha");$v("vUsarMeu").onclick=()=>{const t=$v("vMeu").value.trim();if(!t){st("Escreva ou cole o seu roteiro: um parágrafo por cena.","err");return;}
-    if(temIA())roteiroIA("meu");else{V.cenas=roteiroDoTexto(t,V.handle);pronto("Roteiro dividido em cenas. Ajuste o visual de cada uma se quiser.");}};
-  $v("vFicha").onclick=()=>{V.cenas=roteiroDaFicha(V.noticia,V.handle);pronto("Roteiro montado com a ficha da notícia.");};
+    if(iaOk())roteiroIA("meu");else{V.cenas=roteiroDoTexto(t);pronto("Roteiro dividido em cenas. Ajuste o visual de cada uma se quiser.");}};
+  $v("vFicha").onclick=()=>{V.cenas=roteiroDaFicha(V.noticia);pronto("Roteiro montado com a ficha da notícia.");};
   $v("vNarrar").onclick=narrar;$v("vAudio").onchange=e=>{const f=e.target.files[0];if(f)audioProprio(f);e.target.value="";};
-  $v("vPlay").onclick=()=>tocar();$v("vRec").onclick=gravar;
-  $v("vMais").onclick=()=>{V.cenas.splice(cur+1,0,{cap:"",narracao:"",visual:{tipo:"objeto",objeto:"alvo"}});cur++;renderLista();renderCena();quadro();};
-  $v("vMenos").onclick=()=>{if(V.cenas.length<=1)return;V.cenas.splice(cur,1);cur=Math.max(0,cur-1);renderLista();renderCena();quadro();};
+  $v("vPlay").onclick=tocar;$v("vRec").onclick=gravar;$v("vTudo").onclick=tudo;
+  $v("vElSalvar").onclick=()=>{const k=$v("vElKey").value.trim();if(k&&!k.startsWith("••")){LSv.set("rv-eleven-key",k);$v("vElKey").value="••••••••"+k.slice(-4);}carregarVozesEleven();};
+  $v("vElRemover").onclick=()=>{LSv.set("rv-eleven-key","");VOZES_EL=[];$v("vElKey").value="";renderVozes();st("ElevenLabs desligado.");};
+  $v("vMais").onclick=()=>{V.cenas.splice(cur+1,0,{cap:"",narracao:"",visual:{tipo:"objeto",objeto:"alvo"}});cur++;V._buf=null;renderLista();renderCena();quadro();};
+  $v("vMenos").onclick=()=>{if(V.cenas.length<=1)return;V.cenas.splice(cur,1);cur=Math.max(0,cur-1);V._buf=null;renderLista();renderCena();quadro();};
   $v("vLeg").onclick=()=>{const t=V?.legendaPost||"";navigator.clipboard?.writeText(t).then(()=>st("Legenda do post copiada.","ok"),()=>st(t));};
+  if(elKey())carregarVozesEleven();
   document.fonts?.ready.then(quadro);}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",ligarTela);else ligarTela();
 })();

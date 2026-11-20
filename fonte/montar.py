@@ -406,14 +406,21 @@ troca('  <!-- ===== HISTÓRICO ===== -->', """  <!-- ===== VÍDEO ===== -->
       <div class="newsbar"><div class="t"><span class="eyebrow" id="vbFonte"></span><div id="vbTitulo"></div></div><span class="status" id="vTempo"></span></div>
       <div class="vstudio">
         <div class="panel">
+          <button class="btn primary" id="vTudo" style="padding:13px 14px;font-size:15px">Fazer tudo: roteiro, voz e vídeo</button>
+          <p class="note">Um toque: a IA escreve o roteiro, grava a narração em português, sincroniza a legenda e baixa o MP4 pronto para postar.</p>
+          <h2 style="margin-top:6px">Ou passo a passo</h2>
           <h2>1. Roteiro</h2>
-          <button class="btn primary" id="vIA">Escrever roteiro com IA</button>
+          <button class="btn" id="vIA">Escrever roteiro com IA</button>
           <button class="btn sm ghost" id="vFicha" style="align-self:flex-start">Montar com a ficha (sem IA)</button>
           <div class="field"><label for="vMeu">Ou cole o seu roteiro (um parágrafo por cena)</label><textarea id="vMeu" style="min-height:120px" placeholder="O dólar teve a maior alta em um dia desde 1999…"></textarea></div>
           <button class="btn sm" id="vUsarMeu">Usar meu roteiro</button>
           <h2 style="margin-top:6px">2. Voz</h2>
-          <div class="field"><label for="vVoz">Voz da narração (OpenAI)</label><select id="vVoz"></select></div>
-          <button class="btn primary" id="vNarrar">Gerar narração</button>
+          <div class="field"><label for="vVoz">Voz da narração</label><select id="vVoz"></select></div>
+          <button class="btn" id="vNarrar">Gerar narração</button>
+          <details class="field"><summary class="lbl" style="cursor:pointer">Voz brasileira mais natural (ElevenLabs)</summary>
+            <p class="note" style="margin-top:6px">Crie uma conta em elevenlabs.io, adicione uma voz brasileira da biblioteca às suas vozes e cole aqui a sua chave (Profile → API keys). Ela fica só neste navegador.</p>
+            <div class="row" style="gap:6px"><input type="password" id="vElKey" placeholder="chave do ElevenLabs" style="flex:1;min-width:140px;width:auto"><button class="btn sm" id="vElSalvar">Ligar</button><button class="btn sm ghost" id="vElRemover">Remover</button></div>
+          </details>
           <div class="field"><span class="lbl">Ou use o seu áudio (MP3)</span><label class="btn sm" for="vAudio" style="cursor:pointer;align-self:flex-start">Enviar áudio</label><input type="file" id="vAudio" accept="audio/*" hidden></div>
           <h2 style="margin-top:6px">3. Visual</h2>
           <div class="field"><label for="vPerfil">Perfil</label><select id="vPerfil"></select></div>
@@ -421,7 +428,7 @@ troca('  <!-- ===== HISTÓRICO ===== -->', """  <!-- ===== VÍDEO ===== -->
         </div>
         <div class="stage-col">
           <canvas id="vCanvas" class="vcanvas" width="1080" height="1920"></canvas>
-          <div class="row" style="justify-content:center"><button class="btn" id="vPlay">Assistir</button><button class="btn primary" id="vRec">Gravar vídeo</button><button class="btn sm ghost" id="vLeg">Copiar legenda do post</button></div>
+          <div class="row" style="justify-content:center"><button class="btn" id="vPlay">Assistir</button><button class="btn" id="vRec">Gravar vídeo</button><button class="btn sm ghost" id="vLeg">Copiar legenda do post</button></div>
           <div class="status" id="vStatus" style="text-align:center"></div>
           <p class="note" style="text-align:center">A gravação acontece em tempo real: deixe esta aba aberta na tela até terminar. Sai em MP4 no Chrome atualizado e no Safari.</p>
         </div>
