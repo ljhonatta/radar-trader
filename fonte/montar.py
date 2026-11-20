@@ -393,5 +393,68 @@ troca('''    await Promise.all([...el.querySelectorAll("img")].map(im=>im.comple
     achatar(el);
     const c=await html2canvas(el,''')
 
+# ---------- estúdio de vídeo (docs/video.js) ----------
+troca('<button class="tab" role="tab" aria-selected="false" data-tab="historico" id="tab-historico">',
+      '<button class="tab" role="tab" aria-selected="false" data-tab="video" id="tab-video">Vídeo</button>\n    <button class="tab" role="tab" aria-selected="false" data-tab="historico" id="tab-historico">')
+troca('["noticias","editor","historico","marca"].forEach(x=>$("p-"+x).hidden=x!==k);', '["noticias","editor","video","historico","marca"].forEach(x=>$("p-"+x).hidden=x!==k);')
+troca('<button class="btn sm primary" data-criar="${esc(n.id)}">Criar carrossel</button>', '<button class="btn sm" data-video="${esc(n.id)}">Vídeo</button><button class="btn sm primary" data-criar="${esc(n.id)}">Carrossel</button>')
+troca('<div class="row"><a class="btn sm" id="nbLink" target="_blank" rel="noopener">Ver notícia original ↗</a>', '<div class="row"><button class="btn sm" id="nbVideo">Criar vídeo</button><a class="btn sm" id="nbLink" target="_blank" rel="noopener">Ver notícia original ↗</a>')
+troca('  <!-- ===== HISTÓRICO ===== -->', """  <!-- ===== VÍDEO ===== -->
+  <section id="p-video" role="tabpanel" hidden style="display:flex;flex-direction:column;gap:14px">
+    <div class="empty" id="vVazio">Escolha uma notícia na aba Notícias e toque em <b>Vídeo</b>.</div>
+    <div id="vCorpo" hidden style="display:flex;flex-direction:column;gap:14px">
+      <div class="newsbar"><div class="t"><span class="eyebrow" id="vbFonte"></span><div id="vbTitulo"></div></div><span class="status" id="vTempo"></span></div>
+      <div class="vstudio">
+        <div class="panel">
+          <h2>1. Roteiro</h2>
+          <button class="btn primary" id="vIA">Escrever roteiro com IA</button>
+          <button class="btn sm ghost" id="vFicha" style="align-self:flex-start">Montar com a ficha (sem IA)</button>
+          <div class="field"><label for="vMeu">Ou cole o seu roteiro (um parágrafo por cena)</label><textarea id="vMeu" style="min-height:120px" placeholder="O dólar teve a maior alta em um dia desde 1999…"></textarea></div>
+          <button class="btn sm" id="vUsarMeu">Usar meu roteiro</button>
+          <h2 style="margin-top:6px">2. Voz</h2>
+          <div class="field"><label for="vVoz">Voz da narração (OpenAI)</label><select id="vVoz"></select></div>
+          <button class="btn primary" id="vNarrar">Gerar narração</button>
+          <div class="field"><span class="lbl">Ou use o seu áudio (MP3)</span><label class="btn sm" for="vAudio" style="cursor:pointer;align-self:flex-start">Enviar áudio</label><input type="file" id="vAudio" accept="audio/*" hidden></div>
+          <h2 style="margin-top:6px">3. Visual</h2>
+          <div class="field"><label for="vPerfil">Perfil</label><select id="vPerfil"></select></div>
+          <div class="field"><span class="lbl">Cor de destaque</span><div class="swatches" id="vCor"></div></div>
+        </div>
+        <div class="stage-col">
+          <canvas id="vCanvas" class="vcanvas" width="1080" height="1920"></canvas>
+          <div class="row" style="justify-content:center"><button class="btn" id="vPlay">Assistir</button><button class="btn primary" id="vRec">Gravar vídeo</button><button class="btn sm ghost" id="vLeg">Copiar legenda do post</button></div>
+          <div class="status" id="vStatus" style="text-align:center"></div>
+          <p class="note" style="text-align:center">A gravação acontece em tempo real: deixe esta aba aberta na tela até terminar. Sai em MP4 no Chrome atualizado e no Safari.</p>
+        </div>
+        <div class="panel">
+          <div class="row" style="justify-content:space-between"><h2 id="vcIdx">Cena</h2><div class="row" style="gap:6px"><button class="btn sm" id="vMais">+ Cena</button><button class="btn sm ghost" id="vMenos">Remover</button></div></div>
+          <div class="field"><label for="vcCap">Capítulo (etiqueta)</label><input type="text" id="vcCap"></div>
+          <div class="field"><label for="vcNarr">Fala (vira a legenda)</label><textarea id="vcNarr" style="min-height:90px"></textarea></div>
+          <div class="field"><label for="vcTipo">Visual</label><select id="vcTipo"></select></div>
+          <div class="field" id="vfObj"><label for="vcObj">Objeto 3D</label><select id="vcObj"></select></div>
+          <div class="field" id="vfValor"><span class="lbl">Número / valor</span><input type="text" id="vcValor"></div>
+          <div class="field" id="vfRot"><span class="lbl">Rótulo</span><input type="text" id="vcRot"></div>
+          <div class="field" id="vfItens" hidden><span class="lbl">Itens</span><textarea id="vcItens"></textarea></div>
+          <div class="vlista" id="vLista"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== HISTÓRICO ===== -->""")
+troca('</style>', """.vstudio{display:grid;grid-template-columns:300px minmax(0,1fr) 340px;gap:16px;align-items:start}
+@media (max-width:1180px){.vstudio{grid-template-columns:1fr 1fr}.vstudio .stage-col{grid-column:1/-1;order:-1}}
+@media (max-width:720px){.vstudio{grid-template-columns:1fr}}
+.vcanvas{width:100%;max-width:380px;aspect-ratio:9/16;height:auto;border-radius:14px;background:#000;display:block;margin:0 auto;box-shadow:0 18px 40px -18px rgba(0,0,0,.45)}
+.vlista{display:flex;flex-direction:column;gap:6px;max-height:420px;overflow:auto;margin-top:6px}
+.vcena{display:grid;grid-template-columns:28px minmax(0,1fr);gap:2px 8px;text-align:left;border:1px solid var(--line);background:var(--raise);border-radius:9px;padding:8px 10px;cursor:pointer;color:var(--ink);font:inherit}
+.vcena[aria-current="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.vcena .n{font-family:var(--f-mono);font-size:12px;color:var(--accent);grid-row:span 2}
+.vcena .t{font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.vcena .k{font-size:11.5px;color:var(--muted)}
+</style>""", 2)
+s = s.replace('</script>\n</body></html>', '</script>\n<script src="video.js"></script>\n</body></html>') if False else s
+
+s = s.replace("</script>\n</body></html>", "</script>\n<script src=\"video.js\"></script>\n</body></html>")
+assert 'src="video.js"' in s
 open(os.path.join(os.path.dirname(AQUI), "docs", "index.html"), "w", encoding="utf-8").write(s)
 print("index.html montado:", len(s), "bytes")
