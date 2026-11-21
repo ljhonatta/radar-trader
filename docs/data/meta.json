@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-21T13:57:50-03:00",
-  "novas": 6,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-21T18:09:38-03:00",
+  "novas": 13,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 nova(s) e 1 atualizada(s): Bitcoin no menor nível desde 2024; Queda Nvidia no mercado; Correção no Nasdaq e medo no mercado.",
+  "mensagem": "13 nova(s): Ajuste Fiscal e Faria Lima; Ajuste Fiscal e Investimentos Sociais; Crise no Banco do Brasil e troca na liderança.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-21T18:09:38-03:00",
    "2026-11-21T13:57:50-03:00",
    "2026-11-21T10:07:45-03:00",
    "2026-11-20T23:50:06-03:00",
@@ -18,12 +19,11 @@
    "2026-11-19T15:41:12-03:00",
    "2026-11-18T23:48:31-03:00",
    "2026-11-18T19:41:48-03:00",
-   "2026-11-18T15:24:41-03:00",
-   "2026-11-18T00:08:05-03:00"
+   "2026-11-18T15:24:41-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 10
+  "textosCompletos": 13
  },
  "placar": {
   "itens": [
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 60,0 mil",
-    "var": "+1,02%"
+    "v": "US$ 60,4 mil",
+    "var": "+3,53%"
    },
    {
     "k": "SPX",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 13h",
+  "hora": "sáb 18h",
   "data": "2026-11-21",
-  "atualizadoEm": "2026-11-21T13:57:50-03:00",
+  "atualizadoEm": "2026-11-21T18:09:38-03:00",
   "ibov": "166.376",
   "ibovVar": "-0,69%",
   "dolar": "R$ 5,95",
   "dolarVar": "+0,24%",
-  "btc": "US$ 60,0 mil"
+  "btc": "US$ 60,4 mil"
  }
 }
