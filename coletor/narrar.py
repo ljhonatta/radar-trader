@@ -58,7 +58,7 @@ Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um criado
 Estrutura: gancho forte; o que aconteceu; os números; por que importa; o que muda para quem assiste; um conceito explicado; o que observar; fechamento: {fim}
 Nunca escreva @ nem o nome do perfil nas falas (a voz não lê bem); no fechamento, só convide a seguir o perfil para acompanhar as novidades.
 Divida em 9 a 12 cenas de 8 a 24 palavras cada. A maioria das cenas é do tipo "cena", com 3 a 4 elementos que aparecem um a um, cada um na palavra da fala que o menciona.
-Formato: {{"tipo":"cena","topico":"faixa no topo, até 6 palavras em caixa alta","continua":false,"atores":[...]}}
+Formato do "visual" de cada cena (o visual é SEMPRE a cena inteira, nunca um elemento solto): {{"tipo":"cena","topico":"faixa no topo, até 6 palavras em caixa alta","continua":false,"atores":[3 a 4 elementos]}}
 Elementos (cada um com "gatilho": a palavra exata da fala em que ele entra):
 - {{"tipo":"objeto","objeto":"um dos objetos","rotulo":"etiqueta até 4 palavras","direcao":"sobe|cai","gatilho":""}}
 - {{"tipo":"numero","valor":"número curto do material","rotulo":"até 7 palavras","gatilho":""}}
@@ -78,6 +78,11 @@ Responda só com JSON: {{"cenas":[{{"cap":"","narracao":"","tom":"","visual":{{}
     r.raise_for_status()
     d = json.loads(r.json()["choices"][0]["message"]["content"])
     cenas = [c for c in d.get("cenas", []) if str(c.get("narracao", "")).strip()]
+    for c in cenas:  # elemento solto no lugar da cena: embrulha numa cena montada
+        v = c.get("visual") or {}
+        if v.get("tipo") in ("objeto", "numero", "etiqueta", "citacao"):
+            ator = {k: x for k, x in v.items() if k not in ("topico", "continua")}
+            c["visual"] = {"tipo": "cena", "topico": v.get("topico", ""), "continua": bool(v.get("continua")), "atores": [ator]}
     if not cenas or (cenas[-1].get("visual") or {}).get("tipo") != "fim":
         cenas.append({"cap": "", "narracao": fim, "tom": "warm", "visual": {"tipo": "fim", "texto": "Seguir"}})
     return cenas, str(d.get("legenda", ""))
