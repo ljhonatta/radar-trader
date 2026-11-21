@@ -1,5 +1,138 @@
 [
  {
+  "titulo": "IPO recorde da Anthropic e balanços fracos no Brasil marcam semana",
+  "resumo": "Anthropic levantou US$ 81,3 bilhões no maior IPO da história. No Brasil, só 19% das empresas superaram estimativas de EBITDA no 3º tri, menor desde 2021.",
+  "fatos": [
+   "Somente 19% das empresas brasileiras superaram estimativas de EBITDA no 3º trimestre de 2026.",
+   "Percentual de superação de EBITDA caiu de 26% para 19% em relação ao trimestre anterior.",
+   "Banco do Brasil teve preço-alvo reduzido de R$ 21 para R$ 15 por ação ao final de 2027 pela XP.",
+   "Anthropic levantou US$ 81,3 bilhões em IPO, precificando ações a US$ 83.",
+   "Valorização da Anthropic em IPO foi de aproximadamente US$ 1,5 trilhão.",
+   "Nvidia teve receita de US$ 115,8 bilhões no 3º trimestre fiscal de 2026, alta de 103,1% anual.",
+   "Divisão de data centers da Nvidia faturou US$ 107,6 bilhões no período.",
+   "XP projeta Selic mantida em 13,75% por período prolongado no cenário-base para 2027.",
+   "Ibovespa caiu em média 0,64% no pregão após divulgação dos balanços.",
+   "Risco fiscal, câmbio pressionado e juros globais elevados podem levar a aperto adicional da política monetária."
+  ],
+  "explicacao": [
+   "A temporada de balanços do terceiro trimestre de 2026 no Brasil foi marcada por resultados fracos, com apenas 19% das empresas superando estimativas de EBITDA, segundo análise da XP, o pior percentual desde o início da série histórica em 2021.",
+   "No setor financeiro, o Banco do Brasil teve seu preço-alvo reduzido para R$ 15 ao final de 2027 pela XP, com recomendação neutra, refletindo uma recuperação mais lenta na qualidade dos ativos e juros elevados, o que limita a valorização das ações.",
+   "No cenário internacional, a Anthropic realizou o maior IPO da história ao levantar cerca de US$ 81,3 bilhões, precificando suas ações a US$ 83 e avaliando a empresa em US$ 1,5 trilhão. Também se destacou a Nvidia, com receita de US$ 115,8 bilhões no 3º trimestre fiscal, principalmente por demanda em inteligência artificial.",
+   "A XP simulou cenários de política monetária brasileiros para 2027, indicando possibilidade de manutenção da Selic em 13,75% por período prolongado, dependendo do câmbio, atividade econômica e inflação. O Banco Central poderá ajustar caso variáveis externas ou internas apresentem mudanças significativas."
+  ],
+  "detalhes": [
+   "Temporada de balanços corresponde ao terceiro trimestre de 2026",
+   "Análise e projeções feitas pela XP Investimentos",
+   "Banco do Brasil enfrenta recuperação lenta na qualidade dos ativos e pressão na inadimplência",
+   "IPO da Anthropic aconteceu nos Estados Unidos com precificação acima da faixa inicial",
+   "Receita da Nvidia foi impulsionada especialmente pela divisão de data centers",
+   "Cena macroeconômica brasileira inclui crescimento do PIB projetado em 0,3% para 2027",
+   "Simulações de taxa Selic consideram variações no dólar, inflação e juros internacionais"
+  ],
+  "declaracoes": [
+   {
+    "quem": "analistas da XP",
+    "oque": "XP mantém recomendação neutra para Banco do Brasil diante de cenário mais fraco"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2026",
+    "oque": "balanços das empresas brasileiras e resultados da Nvidia"
+   },
+   {
+    "quando": "novembro de 2026",
+    "oque": "IPO da Anthropic e análises semanais pelo InfoMoney"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "EBITDA",
+    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
+   },
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial de ações na bolsa"
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira"
+   }
+  ],
+  "pergunta": "Como você vê o impacto do IPO da Anthropic no mercado de tecnologia?",
+  "tamanhoTexto": 5517,
+  "numeros": [
+   {
+    "valor": "19%",
+    "rotulo": "Empresas brasileiras que superaram estimativas de EBITDA"
+   },
+   {
+    "valor": "R$ 15",
+    "rotulo": "Preço-alvo do Banco do Brasil para final de 2027 pela XP"
+   },
+   {
+    "valor": "US$ 81,3 bilhões",
+    "rotulo": "Valor captado pela Anthropic no IPO"
+   },
+   {
+    "valor": "1,5 trilhão",
+    "rotulo": "Avaliação estimada da Anthropic em dólares no IPO"
+   },
+   {
+    "valor": "US$ 115,8 bilhões",
+    "rotulo": "Receita da Nvidia no 3º trimestre fiscal de 2026"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "Taxa Selic projetada para ser mantida em cenário-base"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Percentual de empresas que superaram EBITDA",
+    "antes": "26%",
+    "depois": "19%"
+   },
+   {
+    "item": "Preço-alvo Banco do Brasil",
+    "antes": "R$ 21",
+    "depois": "R$ 15"
+   }
+  ],
+  "destaque": "US$ 81,3 bilhões",
+  "porQueImporta": "O desempenho fraco das empresas brasileiras e a redução no preço-alvo do Banco do Brasil indicam desafios no cenário econômico e financeiro local. Já o IPO da Anthropic e os resultados da Nvidia mostram o avanço robusto em tecnologia e IA. Esse contraste ajuda investidores a entenderem riscos e oportunidades atuais.",
+  "impactoMercado": "Setores como saúde e telecom se destacam positivamente, enquanto mineração e siderurgia decepcionam. A manutenção da Selic elevada pode influenciar custo de crédito e investimento. IPO recorde e bons resultados da Nvidia reforçam a importância da tecnologia para o mercado global e as ações ligadas à inteligência artificial.",
+  "entenda": "Temporada de balanços é o período em que empresas divulgam seus resultados financeiros. EBITDA é um indicador de lucro operacional importante para avaliar desempenho. IPO é a abertura de capital de uma empresa. Taxa Selic é a referência dos juros no Brasil que impacta economia e investimentos. Tudo isso ajuda o investidor a analisar riscos e tendências.",
+  "observar": "Fique atento aos próximos balanços trimestrais e às decisões do Banco Central sobre a Selic, influenciados por dados de inflação, câmbio e atividade econômica em 2027. A volatilidade desses indicadores pode alterar estratégias de investimento.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia conecta balanços nacionais fracos e ajustes de preço-alvo com avanços tecnológicos e política monetária, incentivando o aprendizado para entender riscos e oportunidades no mercado financeiro.",
+  "gancho": "*IPO* histórico e balanços fracos",
+  "ideias": [
+   "Entenda o menor índice de empresas superando EBITDA em 2026",
+   "Descubra por que o preço-alvo do Banco do Brasil caiu",
+   "Como o IPO da Anthropic entrou para a história do mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T10:07:45-03:00",
+  "url": "https://www.infomoney.com.br/onde-investir/ipo-historico-da-anthropic-nvidia-e-balancos-na-b3-veja-os-destaques-da-semana/",
+  "publicadoEm": "2026-11-21T07:00:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-01"
+ },
+ {
   "titulo": "Queda em Wall Street reacende dúvidas sobre rali da inteligência artificial",
   "resumo": "Na semana de 20/11/2026, ações de tecnologia em Wall Street caíram forte, com Nasdaq recuando 5,28%. Investidores questionam se o ciclo de alta das empresas de IA está próximo do fim.",
   "fatos": [
@@ -12494,71 +12627,6 @@
   "id": "2026-11-15-12"
  },
  {
-  "tipo": "sinal",
-  "slug": "bitcoin-above-on-november-20-2026",
-  "titulo": "Mercado de previsões vê 93.7% de chance de Bitcoin acima de 58,000 em 20 de novembro",
-  "resumo": "Alta probabilidade de Bitcoin se manter acima de 58,000, conforme aposta do mercado, não uma previsão oficial.",
-  "probs": [
-   {
-    "opcao": "acima de 58,000",
-    "prob": 93.7
-   },
-   {
-    "opcao": "acima de 60,000",
-    "prob": 88.6
-   },
-   {
-    "opcao": "acima de 62,000",
-    "prob": 79.3
-   },
-   {
-    "opcao": "acima de 64,000",
-    "prob": 61.0
-   }
-  ],
-  "prazo": "2026-11-20",
-  "volume24h": "US$ 106 mil",
-  "fatos": [
-   "acima de 58,000: 93,7%",
-   "acima de 60,000: 88,6%",
-   "acima de 62,000: 79,3%",
-   "acima de 64,000: 61,0%"
-  ],
-  "numeros": [
-   {
-    "valor": "93,7%",
-    "rotulo": "acima de 58,000"
-   },
-   {
-    "valor": "88,6%",
-    "rotulo": "acima de 60,000"
-   },
-   {
-    "valor": "79,3%",
-    "rotulo": "acima de 62,000"
-   },
-   {
-    "valor": "61,0%",
-    "rotulo": "acima de 64,000"
-   }
-  ],
-  "destaque": "93,7%",
-  "gancho": "*Bitcoin operando* forte em novembro",
-  "entenda": "O Bitcoin é uma criptomoeda sujeita a volatilidade. O preço pode ser influenciado por demanda e fatores de mercado.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bitcoin-above-on-november-20-2026",
-  "publicadoEm": "2026-11-15T22:23:06-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-15T22:23:06-03:00",
-  "data": "2026-11-15",
-  "status": "nova",
-  "id": "2026-11-15-p2"
- },
- {
   "titulo": "Dirigente do Fed alerta que inflação nos EUA vai na direção errada",
   "resumo": "Jeff Schmid, presidente do Fed de Kansas City, afirma que inflação está acima da meta de 2% e o Fed tem trabalho para conter os preços. Mercados já precificam alta de juros em dezembro de 0,25 ponto percentual.",
   "fatos": [
@@ -14714,273 +14782,6 @@
   "id": "2026-11-14-08"
  },
  {
-  "titulo": "Governo encerra subsídio de R$ 1,40 ao diesel importado após 30 dias",
-  "resumo": "Ministério da Fazenda comunicou que o benefício ao diesel importado não será renovado após 13 de novembro. A subvenção de R$ 2,12 por litro para diesel rodoviário permanece válida.",
-  "fatos": [
-   "Subvenção de R$ 1,40 por litro ao diesel importado não será renovada após 13 de novembro.",
-   "Portaria 3.082 do Ministério da Fazenda, que criou o benefício, venceu em 13 de outubro.",
-   "Subsídio de R$ 2,12 por litro para diesel A rodoviário segue vigente, por Portaria 3.181 de 27 de outubro.",
-   "O benefício de R$ 1,40 durou exatamente 30 dias.",
-   "Mais de 25% do consumo nacional de diesel depende de importações.",
-   "A subvenção de R$ 1,40 foi criada em meio à alta do petróleo devido ao conflito no Oriente Médio.",
-   "Pacote de ajuste fiscal aprovado pelo Senado tenta retirar até R$ 10,5 bilhões em subsídios ao diesel da meta fiscal 2026.",
-   "O fim do subsídio ao diesel importado não significa o fim de todo apoio governamental ao diesel."
-  ],
-  "explicacao": [
-   "O Ministério da Fazenda anunciou em 13 de novembro que o subsídio de R$ 1,40 por litro ao diesel importado não será renovado após o fim da validade da Portaria 3.082, de 13 de outubro.",
-   "Esse benefício foi criado para amenizar o impacto da alta dos preços internacionais do petróleo, especialmente considerando que mais de 25% do diesel consumido no Brasil é importado.",
-   "Apesar do fim do auxílio ao diesel importado, a subvenção de R$ 2,12 por litro para o diesel A rodoviário permanece, conforme Portaria 3.181, prorrogada em 27 de outubro.",
-   "O governo pode rever a reativação do benefício de R$ 1,40 dependendo da evolução dos preços internacionais do petróleo, mantendo medidas diferenciadas para ajudar o mercado interno."
-  ],
-  "detalhes": [
-   "Ministério da Fazenda é responsável pelas portarias que definem os subsídios.",
-   "Portaria 3.082, de 13 de outubro, instituiu a subvenção ao diesel importado.",
-   "Portaria 3.181, de 27 de outubro, mantém subsídio ao diesel A rodoviário.",
-   "Diesel A é o combustível antes da mistura obrigatória com biodiesel.",
-   "Diesel B é vendido nos postos após adição do biodiesel obrigatório.",
-   "Pacote fiscal prevê mudança contábil para subsídios do diesel, não redução real de gastos.",
-   "Conflicto no Oriente Médio elevou preços internacionais do petróleo, motivando os subsídios."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ministério da Fazenda",
-    "oque": "A possibilidade de reavaliar o benefício dependerá da evolução dos preços do petróleo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "13 de outubro",
-    "oque": "Criação da subvenção de R$ 1,40 ao diesel importado pela Portaria 3.082."
-   },
-   {
-    "quando": "12 de novembro",
-    "oque": "Senado aprovou pacote de ajuste fiscal com alterações nas subvenções ao diesel."
-   },
-   {
-    "quando": "13 de novembro",
-    "oque": "Fim da validade do subsídio de R$ 1,40 ao diesel importado, sem renovação."
-   },
-   {
-    "quando": "27 de outubro",
-    "oque": "Prorrogação da subvenção de R$ 2,12 para diesel A rodoviário pela Portaria 3.181."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Subvenção",
-    "significado": "Ajuda financeira do governo para reduzir custo de um produto."
-   },
-   {
-    "termo": "Portaria",
-    "significado": "Documento oficial que cria ou altera regras administrativas."
-   },
-   {
-    "termo": "Diesel A",
-    "significado": "Diesel antes da mistura com biodiesel, usado no transporte rodoviário."
-   }
-  ],
-  "pergunta": "Como o fim do subsídio ao diesel importado pode impactar os preços e o mercado?",
-  "tamanhoTexto": 2786,
-  "numeros": [
-   {
-    "valor": "R$ 1,40",
-    "rotulo": "Subsídio por litro ao diesel importado encerrado"
-   },
-   {
-    "valor": "R$ 2,12",
-    "rotulo": "Subsídio por litro ao diesel A rodoviário mantido"
-   },
-   {
-    "valor": "30 dias",
-    "rotulo": "Duração do benefício ao diesel importado"
-   },
-   {
-    "valor": "25%",
-    "rotulo": "Consumo de diesel brasileiro dependente de importação"
-   },
-   {
-    "valor": "R$ 10,5 bilhões",
-    "rotulo": "Valor de subsídios ao diesel no pacote fiscal para 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 1,40 subsídio",
-  "porQueImporta": "O fim do subsídio ao diesel importado impacta o custo de importações, refletindo na composição dos preços do diesel. Para investidores e operadores, entender esse ajuste mostra como o governo age para controlar inflação e mercado de combustíveis.",
-  "impactoMercado": "A interrupção do subsídio pode pressionar custos do diesel importado e agravar volatilidade nos preços de combustíveis. Setores dependentes de diesel importado e empresas de logística podem ser afetados, enquanto a manutenção da subvenção ao diesel rodoviário assegura alguma estabilidade.",
-  "entenda": "Diesel importado tem custo maior quando o petróleo sobe; o governo usa subsídio para aliviar esse impacto. A portaria define regras para esses pagamentos. Diesel A é o combustível puro antes da mistura do biodiesel, usado principalmente em transportes rodoviários.",
-  "observar": "Acompanhe a evolução dos preços internacionais do petróleo e possíveis novas decisões do governo sobre subsídios que podem reativar o benefício ao diesel importado.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes",
-   "Empresários",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "A notícia mostra como decisões do governo influenciam preços dos combustíveis e afetam o mercado, importante para quem quer entender políticas públicas e mercado financeiro.",
-  "gancho": "*Subsídio* ao diesel importado acaba",
-  "ideias": [
-   "Fim do subsídio ao diesel importado: entenda o impacto",
-   "Subsídios ao diesel: o que muda para o mercado em novembro",
-   "Diesel A e B: conheça as diferenças e os subsídios atuais"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Agência Brasil Economia",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T17:05:20-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
-  "publicadoEm": "2026-11-13T19:54:00-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-14-09"
- },
- {
-  "titulo": "Fed sinaliza necessidade de aumentos graduais nos juros para controle da inflação",
-  "resumo": "Susan Collins, do Federal Reserve de Boston, afirma que aumentos graduais de juros são apropriados, com foco na redução da inflação.",
-  "fatos": [
-   "Taxa Selic está atualmente em 13,75% ao ano.",
-   "Pesquisa do Banco Central consultou mais de 100 bancos.",
-   "Mercado projeta Selic em 10% ao ano somente em 2030.",
-   "Dívida pública do Brasil é 82,9% do PIB pelo BC e 95,2% pelo FMI.",
-   "Pacote fiscal aprovado em 12 de novembro busca ajuste, mas gera dúvidas.",
-   "Inflação projetada para 2026 está em 5,22%, acima da meta de 3%."
-  ],
-  "explicacao": [
-   "O mercado financeiro projeta que a taxa básica de juros, a Selic, continuará em patamar elevado, acima de 10% ao ano, até pelo menos 2030, abrangendo os mandatos de 2023 a 2030 do presidente Luiz Inácio Lula da Silva.",
-   "Essa perspectiva foi registrada em pesquisa do Banco Central com mais de 100 instituições financeiras, refletindo déficits fiscais sucessivos, crescimento da dívida pública e pressões inflacionárias persistentes no Brasil.",
-   "Com dívida pública brasileira em cerca de 83% do PIB segundo o Banco Central, e mais de 95% pelo FMI, os altos juros servem para conter inflação, mas aumentam os custos de financiamento para famílias, empresas e setor público.",
-   "A expectativa cautelosa do mercado indica efeitos prolongados para o custo do crédito, investimentos e crescimento econômico, enquanto parte do ajuste fiscal proposto ainda é considerado insuficiente para estabilidade plena."
-  ],
-  "detalhes": [
-   "A taxa Selic é o principal instrumento do Banco Central para controlar a inflação.",
-   "O ajuste fiscal aprovado pelo Senado altera o arcabouço fiscal com medidas para limitar gastos e aumentar arrecadação.",
-   "Mercado vinha projetando queda dos juros para um dígito ainda em 2024, mas essa previsão mudou desde 2026.",
-   "Alta dívida pública e despesas obrigatórias crescentes limitam o espaço para redução rápida dos juros.",
-   "Elevados juros reais tornam o real mais valorizado, limitando recuperações pronunciadas no câmbio.",
-   "Juros altos freiam crédito, consumo, investimentos e podem afetar crescimento e emprego.",
-   "Alta das taxas nos EUA também influencia a taxa doméstica pela elevação do piso para os juros brasileiros."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Emerson Junior, head de câmbio da Convexa Investimentos",
-    "oque": "Dado do PPI dos EUA não alterou a expectativa de novos aumentos nos juros americanos."
-   },
-   {
-    "quem": "Vitor Kayo, economista sênior da Nomad",
-    "oque": "Dúvidas sobre impacto real do pacote fiscal mantêm investidores cautelosos."
-   },
-   {
-    "quem": "Francisco Pesole, estrategista de câmbio do ING",
-    "oque": "Alta taxa real e banco central independente tornam o real uma venda cara; recuperação prevista só em 2027."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "13 de novembro de 2026",
-    "oque": "Dólar fecha em alta a R$ 5,6550 com incertezas fiscais e política monetária dos EUA."
-   },
-   {
-    "quando": "12 de novembro de 2026",
-    "oque": "Senado aprova pacote de ajuste fiscal que altera arcabouço fiscal brasileiro."
-   },
-   {
-    "quando": "4 de novembro de 2026",
-    "oque": "Copom mantém Selic em 13,75% após cinco cortes consecutivos."
-   },
-   {
-    "quando": "Início de 2023",
-    "oque": "Expectativa inicial era que Selic caísse para dígito único em 2024."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "taxa básica de juros da economia brasileira"
-   },
-   {
-    "termo": "Arcabouço fiscal",
-    "significado": "conjunto de regras para limitar gastos públicos"
-   },
-   {
-    "termo": "PPI",
-    "significado": "Índice de Preços ao Produtor, indicador econômico"
-   }
-  ],
-  "pergunta": "Como você acha que a Selic alta influencia seus investimentos e despesas?",
-  "tamanhoTexto": 16208,
-  "numeros": [
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa Selic atual em novembro de 2026"
-   },
-   {
-    "valor": "2,66%",
-    "rotulo": "ganho semanal do dólar frente ao real em novembro de 2026"
-   },
-   {
-    "valor": "5,6550",
-    "rotulo": "cotação do dólar em reais em 13/11/2026"
-   },
-   {
-    "valor": "82,9%",
-    "rotulo": "dívida pública em percentagem do PIB pelo Banco Central"
-   },
-   {
-    "valor": "95,2%",
-    "rotulo": "dívida pública em percentagem do PIB pelo FMI"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Selic",
-    "antes": "projeção abaixo de 10% em 2024",
-    "depois": "projeção acima de 10% até 2030"
-   }
-  ],
-  "destaque": "Selic em dois",
-  "porQueImporta": "Juros em dois dígitos até 2030 afetam diretamente o custo do crédito, investimentos e crescimento econômico no Brasil. Para quem investe ou opera, isso implica maior volatilidade e maior cautela em ativos sensíveis a juros e câmbio, além de impactos no poder de compra.",
-  "impactoMercado": "A permanência de juros altos influencia setores ligados a crédito, como imobiliário e varejo. Estimula aplicações em renda fixa por maior remuneração, enquanto pode limitar crescimento no mercado de ações e investimentos de longo prazo.",
-  "entenda": "A Selic é a taxa básica de juros definida pelo Banco Central para controlar a inflação. Juros altos encarecem o crédito e o consumo, mas são usados para conter a alta persistente dos preços. A política fiscal e situação da dívida pública influenciam as decisões sobre a Selic.",
-  "observar": "Acompanhe as reuniões do Copom, indicadores da inflação e os desdobramentos do pacote fiscal para entender o impacto nos juros e na economia brasileira.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "A notícia mostra como a política monetária e fiscal afetam o custo do dinheiro no Brasil, tema essencial para entender o mercado financeiro e a gestão de investimentos, despertando interesse pela formação completa em finanças.",
-  "gancho": "*Juros altos* até 2030",
-  "ideias": [
-   "Selic em dois dígitos: impacto no seu bolso",
-   "Por que os juros não baixarão rápido no Brasil?",
-   "A relação entre dívida pública e taxa de juros"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Money Times; G1 Economia; ncnews.com.br; Valor Econômico",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "atualizada",
-  "coletadoEm": "2026-11-14T13:07:42-03:00",
-  "url": "https://www.moneytimes.com.br/dolar-13-11-2026/",
-  "publicadoEm": "2026-11-13T17:29:59-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-14-01",
-  "atualizadoEm": "2026-11-14T17:05:20-03:00"
- },
- {
   "titulo": "Ibovespa sobe 2,35% na semana com Magazine Luiza em alta e CSN em queda",
   "resumo": "Ibovespa fechou a semana aos 172.457,76 pontos, com alta de 2,35%. Magazine Luiza avançou 39,22%, e CSN caiu 15,65% após resultados do 3º trimestre.",
   "fatos": [
@@ -15243,151 +15044,6 @@
   "id": "2026-11-14-03"
  },
  {
-  "titulo": "CSN tem prejuízo de R$ 1,25 bi e ação cai 12% ao menor nível desde 2016",
-  "resumo": "CSN reportou prejuízo de R$ 1,25 bilhão no 3º tri e queda de 12% nas ações. Dívida líquida chegou a R$ 44,9 bilhões, preocupando analistas.",
-  "fatos": [
-   "Prejuízo de R$ 1,25 bilhão no 3º trimestre de 2026.",
-   "Queda de 12,06% nas ações, cotadas a R$ 3,72, menor nível desde janeiro de 2016.",
-   "EBITDA caiu 43%, para R$ 1,88 bilhão, abaixo dos R$ 1,94 bilhão esperados.",
-   "Dívida líquida de R$ 44,9 bilhões com relação dívida/EBITDA de 4,23 vezes.",
-   "Venda da CSN Cimentos por R$ 12,7 bilhões para Huaxin.",
-   "Venda da siderúrgica alemã Stahlwerk Thüringen por € 550 milhões (R$ 3,1 bilhões).",
-   "Margem EBITDA no aço calculada em 6%, perto das mínimas da última década.",
-   "Reajuste de 7,5% no preço do aço em novembro, com novo aumento previsto para dezembro.",
-   "CSN Mineração reajustou para baixo a projeção de produção e interrompeu planta no Complexo Pires."
-  ],
-  "explicacao": [
-   "A CSN teve um prejuízo de R$ 1,25 bilhão no terceiro trimestre de 2026, revertendo um lucro de R$ 76 milhões no mesmo período do ano anterior. Como consequência, as ações da empresa fecharam em queda de 12,06% a R$ 3,72, no menor patamar desde janeiro de 2016, liderando as perdas do Ibovespa.",
-   "Esse resultado negativo deve-se principalmente ao aumento dos custos e à queda nos preços do minério de ferro, que impactaram significativamente o EBITDA, que caiu 43% na comparação com o terceiro trimestre de 2025, somando R$ 1,88 bilhão, abaixo das expectativas do mercado.",
-   "A dívida líquida da CSN alcançou R$ 44,9 bilhões, com a relação dívida/EBITDA subindo para 4,23 vezes, nível considerado alto, o que acende um alerta para a alavancagem financeira da empresa. A companhia tem vendido ativos, como a CSN Cimentos por R$ 12,7 bilhões e a siderúrgica alemã Stahlwerk Thüringen por € 550 milhões, mas os analistas consideram essas medidas insuficientes para estabilizar suas finanças.",
-   "O novo CEO Fabio Schvartsman, que assumiu em setembro, reconhece a gravidade da situação e promete mudar a estratégia da empresa com foco na renegociação das dívidas e ajuste operacional. O mercado deve acompanhar os desdobramentos das vendas de ativos e negociações de dívida nos próximos trimestres."
-  ],
-  "detalhes": [
-   "As ações da CSN (CSNA3) fecharam a sexta-feira (13) em R$ 3,72.",
-   "O prejuízo de R$ 1,25 bilhão foi reportado no terceiro trimestre de 2026.",
-   "O EBITDA do terceiro trimestre foi de R$ 1,88 bilhão, queda de 43% em um ano.",
-   "A relação dívida líquida/EBITDA passou de 3,49 para 4,23.",
-   "Venda da CSN Cimentos para a Huaxin somou R$ 12,7 bilhões.",
-   "Venda da siderúrgica alemã SWT ao grupo espanhol Megasa custou € 550 milhões.",
-   "Novo CEO, Fabio Schvartsman, assumiu o cargo em setembro de 2026."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Fabio Schvartsman, CEO da CSN",
-    "oque": "Reconheceu que a empresa está no fundo do poço e que o caminho é de recuperação."
-   },
-   {
-    "quem": "Analistas do BTG Pactual (Leonardo Correa, Marcelo Arazi e Rodrigo",
-    "oque": "Vendas de ativos são bem-vindas, mas insuficientes para estabilizar a alavancagem."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "setembro de 2026",
-    "oque": "Fabio Schvartsman assume como novo CEO da CSN."
-   },
-   {
-    "quando": "13 de novembro de 2026",
-    "oque": "CSN anuncia prejuízo bilionário e ações caem 12%."
-   },
-   {
-    "quando": "dezembro de 2026",
-    "oque": "Prevista conclusão da venda da siderúrgica alemã Stahlwerk Thüringen."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "EBITDA",
-    "significado": "Lucro operacional antes de juros, impostos, depreciação e amortização."
-   },
-   {
-    "termo": "Alavancagem",
-    "significado": "Nível de endividamento comparado à capacidade de geração operacional."
-   },
-   {
-    "termo": "Dívida líquida",
-    "significado": "Total das dívidas menos o caixa disponível."
-   }
-  ],
-  "pergunta": "Como você avalia o impacto da alavancagem da CSN no preço das ações?",
-  "tamanhoTexto": 14160,
-  "numeros": [
-   {
-    "valor": "R$ 1,25 bi",
-    "rotulo": "Prejuízo da CSN no 3º trimestre de 2026"
-   },
-   {
-    "valor": "12,06%",
-    "rotulo": "Queda nas ações da CSN em 13/11/2026"
-   },
-   {
-    "valor": "R$ 3,72",
-    "rotulo": "Preço das ações da CSN no fechamento em 13/11/2026"
-   },
-   {
-    "valor": "R$ 44,9 bi",
-    "rotulo": "Dívida líquida da CSN no 3º trimestre de 2026"
-   },
-   {
-    "valor": "4,23 vezes",
-    "rotulo": "Relação dívida líquida/EBITDA no 3º trimestre"
-   },
-   {
-    "valor": "R$ 12,7 bi",
-    "rotulo": "Valor da venda da CSN Cimentos"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro líquido no 3º trimestre",
-    "antes": "R$ 76 milhões (ano anterior)",
-    "depois": "Prejuízo de R$ 1,25 bilhão (2026)"
-   },
-   {
-    "item": "Relação dívida líquida / EBITDA",
-    "antes": "3,49 vezes",
-    "depois": "4,23 vezes"
-   },
-   {
-    "item": "Preço das ações (fechamento)",
-    "antes": "R$ 3,72 (menor desde 2016)",
-    "depois": "R$ 3,72 (queda de 12,06% no dia)"
-   }
-  ],
-  "destaque": "Prejuízo de R$",
-  "porQueImporta": "O prejuízo bilionário da CSN e a alta alavancagem financeira indicam que a empresa enfrenta dificuldades operacionais e financeiras graves. Isso afeta diretamente o valor das ações e mostra os desafios para quem investe na empresa ou setores correlatos.",
-  "impactoMercado": "A queda das ações e a necessidade de venda de ativos podem impactar o setor siderúrgico e mercados vinculados ao aço e mineração. Investidores ficam atentos à renegociação de dívidas e eventuais ajustes operacionais que influenciam o desempenho e risco da empresa no curto prazo.",
-  "entenda": "O EBITDA é um indicador que mostra o resultado operacional da empresa antes de juros, impostos, depreciação e amortização. Uma relação dívida/EBITDA acima de 3 vezes indica alto endividamento e risco financeiro, importante para avaliar a saúde da empresa.",
-  "observar": "Fique atento à conclusão da venda da siderúrgica alemã prevista para dezembro e negociações da dívida pela CSN em 2027 e 2028, que podem alterar a situação financeira da empresa.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Essa notícia explica na prática como resultados financeiros e endividamento intensificam a volatilidade das ações. Uma ótima oportunidade para aprender como interpretar balanços e riscos em empresas listadas e conectar com a faculdade de mercado financeiro.",
-  "gancho": "*CSN* em queda e *endividamento* crescente",
-  "ideias": [
-   "O que significa a alta alavancagem da CSN para investidores?",
-   "Como prejuízos impactam o preço das ações? Entenda pelo caso CSN",
-   "Estratégias da CSN para enfrentar prejuízos e dívida alta"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "queda",
-  "fonte": "InvestNews; Times Brasil; Bloomberg Línea",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T13:07:42-03:00",
-  "url": "https://investnews.com.br/investimentos/csn-afunda-10-e-atinge-menor-patamar-em-10-anos-apos-prejuizo-bilionario/",
-  "publicadoEm": "2026-11-13T17:53:22-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-14-04"
- },
- {
   "titulo": "Itália multa Meta em €805 milhões por acessar fotos sem consentimento",
   "resumo": "Autoridade italiana puniu Meta em €805 milhões (R$ 5 bilhões) por acessar fotos e vídeos de 20 milhões de usuários Android sem autorização clara. Multa exige mudanças no app Facebook em 60 dias.",
   "fatos": [
@@ -15526,804 +15182,5 @@
   "publicadoEm": "2026-11-14T09:32:39-03:00",
   "data": "2026-11-14",
   "id": "2026-11-14-05"
- },
- {
-  "titulo": "Inflação desacelera a 0,14% em outubro; transporte e habitação caem",
-  "resumo": "IPCA registrou alta menor em outubro, 0,14%, com queda em transportes e habitação. Alimentos subiram 1,04%, acumulado em 2026 é de 4,10%.",
-  "fatos": [
-   "IPCA ficou em 0,14% em outubro de 2026",
-   "IPCA acumula alta de 4,10% no ano e 4,63% nos últimos 12 meses",
-   "Setor de transportes caiu 0,59% em outubro",
-   "Habitação teve redução de 0,51%",
-   "Passagens aéreas tiveram queda de 9,21%",
-   "Gasolina recuou 0,56%",
-   "Energia elétrica residencial caiu 1,92% em outubro após alta de 7,98% em setembro",
-   "Alimentação e bebidas subiram 1,04% no mês",
-   "Tomate subiu 19,57% em outubro",
-   "Cenoura caiu 9,72%"
-  ],
-  "explicacao": [
-   "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou uma inflação de 0,14% em outubro, menor que o mês anterior, segundo dados do IBGE divulgados em 13 de novembro de 2026.",
-   "A desaceleração reflete quedas de preços nos setores de transportes (-0,59%) e habitação (-0,51%), com destaques como passagens aéreas 9,21% mais baratas e gasolina caindo 0,56%.",
-   "Ao mesmo tempo, o grupo de alimentação e bebidas subiu 1,04%, puxado por alimentos como tomate (+19,57%) e cebola (+11,29%), e algumas quedas isoladas, como cenoura (-9,72%).",
-   "Apesar da desaceleração mensal, o IPCA acumula alta de 4,10% em 2026 e 4,63% em 12 meses; o INPC, que mede inflação para famílias de menor renda, avançou 0,22% em outubro."
-  ],
-  "detalhes": [
-   "Dados divulgados pelo IBGE em 13/11/2026",
-   "IPCA é principal índice oficial de inflação no Brasil",
-   "Queda na energia elétrica residencial ocorreu com bandeira tarifária verde em outubro",
-   "Alta nos alimentos consumidos em casa foi puxada por alimentos básicos",
-   "INPC, que mede inflação para famílias de menor renda, teve alta de 0,22% em outubro",
-   "Apesar de desaceleração, inflação acumulada em 2026 permanece acima de 4%",
-   "Setores de transporte e habitação colaboraram para a desaceleração na inflação do mês"
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Inflação medida pelo IPCA desacelera para 0,14%"
-   },
-   {
-    "quando": "Setembro de 2026",
-    "oque": "Energia elétrica residencial caiu com passagem para bandeira verde"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IPCA",
-    "significado": "Índice que mede a inflação oficial no Brasil"
-   },
-   {
-    "termo": "INPC",
-    "significado": "Índice que mede inflação para famílias de menor renda"
-   },
-   {
-    "termo": "Bandeira tarifária",
-    "significado": "Sistema que ajusta o custo da energia elétrica mensalmente"
-   }
-  ],
-  "pergunta": "Você percebeu mudanças nos preços de energia ou transporte em sua região?",
-  "tamanhoTexto": 10234,
-  "numeros": [
-   {
-    "valor": "0,14%",
-    "rotulo": "Inflação mensal (IPCA) em outubro"
-   },
-   {
-    "valor": "4,10%",
-    "rotulo": "Inflação acumulada pelo IPCA em 2026"
-   },
-   {
-    "valor": "4,63%",
-    "rotulo": "Inflação acumulada nos últimos 12 meses"
-   },
-   {
-    "valor": "-0,59%",
-    "rotulo": "Queda em transportes em outubro"
-   },
-   {
-    "valor": "-0,51%",
-    "rotulo": "Queda em habitação em outubro"
-   },
-   {
-    "valor": "-9,21%",
-    "rotulo": "Redução nas passagens aéreas"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "0,14%",
-  "porQueImporta": "A desaceleração da inflação em outubro impacta o custo de vida, destacando setores que pressionam ou aliviam o orçamento das famílias. O entendimento dessas variações é fundamental para quem investe ou opera no mercado, pois reflete consumo, política de preços e condições econômicas do país.",
-  "impactoMercado": "Setores como transporte e habitação influenciam na inflação e podem afetar decisões de política monetária e investimentos em renda variável e fixa. A alta dos alimentos impacta orçamento e pode gerar maior volatilidade em setores de consumo. Investidores acompanham esses dados para avaliar cenário econômico e tendências de juros.",
-  "entenda": "IPCA é o principal índice que mede a inflação oficial no Brasil, indicando variação média de preços para as famílias. A inflação impacta o poder de compra, custos e investimentos. Quedas em alguns setores podem equilibrar aumentos em outros, e o acumulado anual ajuda a entender a tendência de preços no país.",
-  "observar": "Nas próximas semanas, fiquem atentos à divulgação dos dados de inflação de novembro e ao comportamento dos principais setores, como alimentação e transporte, que influenciam o IPCA e o planejamento econômico.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "A notícia sobre inflação desacelerada é porta de entrada para entender como os índices oficiais impactam o orçamento e as decisões no mercado financeiro, mostrando a importância de acompanhar dados econômicos reais.",
-  "gancho": "*Inflação* desacelera no Brasil",
-  "ideias": [
-   "O que significa a desaceleração da inflação para seu bolso?",
-   "Entenda por que passagens aéreas ficaram até 9% mais baratas",
-   "Como alta e baixa dos preços impactam seu dia a dia e investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Inflação",
-  "icone": "seta",
-  "fonte": "Times Brasil; Estadão Economia",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-13T22:46:47-03:00",
-  "url": "https://timesbrasil.com.br/brasil/inflacao-desacelera-e-registra-queda-em-alguns-setores/",
-  "publicadoEm": "2026-11-13T22:30:00-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-13-05"
- },
- {
-  "titulo": "Dólar fecha estável a R$ 5,65 e sobe 2,63% na semana",
-  "resumo": "O dólar encerrou a sexta-feira (13) cotado a R$ 5,65, estável no dia, mas acumulou alta de 2,63% na semana. O Ibovespa avançou 0,66%, aos 172.457 pontos, impulsionado por varejo e petroleiras.",
-  "fatos": [
-   "Dólar fechou a R$ 5,65 em 13/11, com alta diária de 0,11%",
-   "Dólar acumulou alta de 2,63% na semana até 13/11",
-   "Ibovespa fechou a 172.457,77 pontos, alta de 0,66% no dia",
-   "Ibovespa subiu 2,35% na semana até 13/11",
-   "Senado aprovou pacote fiscal com impacto de até R$ 60 bilhões em 2027 em 12/11",
-   "Votação dos destaques do pacote fiscal marcada para 17/11",
-   "Índice de preços ao produtor dos EUA subiu 0,3% em outubro, abaixo da expectativa de 0,4%",
-   "Barril de petróleo Brent cotado a US$ 95,84, estabilidade diária de +0,02%",
-   "Barril de petróleo WTI cotado a US$ 88,56, queda diária de -0,20%",
-   "O volume financeiro do Ibovespa na sexta foi de R$ 16,75 bilhões"
-  ],
-  "explicacao": [
-   "Na sexta-feira (13), o dólar fechou praticamente estável, cotado a R$ 5,65, com leve alta diária de 0,11%, após oscilar entre R$ 5,632 e R$ 5,667. Na semana, acumulou valorização de 2,63%, refletindo incertezas internas e externas. O Ibovespa subiu 0,66%, chegando aos 172.457 pontos.",
-   "O câmbio reagiu à aprovação do pacote fiscal pelo Senado na quinta-feira (12), que inclui medidas estimadas para impactar as contas públicas em até R$ 60 bilhões em 2027. A votação dos destaques está marcada para terça-feira (17), antes do avanço do texto para a Câmara dos Deputados. No exterior, os dados de inflação ao produtor (PPI) dos EUA ficaram abaixo da expectativa, aliviando tensões sobre juros.",
-   "O resultado indica um mercado atento aos riscos fiscais domésticos e às condições internacionais, como oscilações do dólar global e preocupações geopolíticas relacionadas ao petróleo. O Ibovespa foi positivamente influenciado por ações de varejo e petroleiras, impulsionadas ainda pelo crescimento das vendas do comércio varejista em setembro.",
-   "Para a próxima semana, o foco estará na votação dos destaques do pacote fiscal no Congresso e nos indicadores econômicos domésticos, que podem influenciar o comportamento do dólar e da bolsa. Internamente, as decisões fiscais serão decisivas para a percepção de risco e para os preços dos ativos."
-  ],
-  "detalhes": [
-   "Pacote fiscal prevê medidas para conter gastos públicos, reduzindo limite de crescimento real dos gastos de 2,5% para 2%",
-   "Dólar oscilou entre R$ 5,632 e R$ 5,667 durante o pregão de sexta",
-   "O Ibovespa foi impulsionado principalmente por ações das áreas de varejo e petróleo",
-   "Dados recentes apontam crescimento positivo do comércio varejista brasileiro em setembro (0,2% frente a agosto)",
-   "Inflação ao produtor nos EUA abaixo da previsão, traz alívio sobre preocupações com aumento de juros",
-   "Nos EUA, índices Dow Jones, S&P 500 e Nasdaq fecharam mistos, com Nasdaq pressionado por problemas na Nvidia e Microsoft",
-   "Setor de petróleo se mantém volátil devido a riscos geopolíticos e aumento da oferta global depois da recuperação das exportações do Oriente Médio"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Agência Internacional de Energia",
-    "oque": "Indicou aumento do excedente global de petróleo no último trimestre de 2025"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12/11",
-    "oque": "Senado aprovou texto-base do pacote fiscal para 2027"
-   },
-   {
-    "quando": "13/11",
-    "oque": "Dólar fechou estável a R$ 5,65, Ibovespa subiu 0,66%"
-   },
-   {
-    "quando": "17/11",
-    "oque": "Prevista votação dos destaques do pacote fiscal na Câmara"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Pacote Fiscal",
-    "significado": "Conjunto de políticas para controlar gastos públicos e metas fiscais"
-   },
-   {
-    "termo": "Ibovespa",
-    "significado": "Índice que representa ações mais negociadas na B3"
-   },
-   {
-    "termo": "Índice de preços ao produtor",
-    "significado": "Medida da variação dos preços na saída da fábrica"
-   }
-  ],
-  "pergunta": "Como você acha que o pacote fiscal vai impactar o mercado em 2027?",
-  "tamanhoTexto": 7754,
-  "numeros": [
-   {
-    "valor": "5,65",
-    "rotulo": "Cotação do dólar em reais (fechamento 13/11)"
-   },
-   {
-    "valor": "2,63%",
-    "rotulo": "Alta acumulada do dólar na semana"
-   },
-   {
-    "valor": "172.457,77",
-    "rotulo": "Pontos do Ibovespa no fechamento de 13/11"
-   },
-   {
-    "valor": "0,66%",
-    "rotulo": "Alta do Ibovespa na sexta-feira"
-   },
-   {
-    "valor": "60 bilhões",
-    "rotulo": "Impacto estimado do pacote fiscal em reais para 2027"
-   },
-   {
-    "valor": "0,3%",
-    "rotulo": "Inflação ao produtor nos EUA em outubro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Dólar",
-    "antes": "5,51 (aproximado no início da semana)",
-    "depois": "5,65 no fechamento de 13/11"
-   },
-   {
-    "item": "Ibovespa",
-    "antes": "168.520 pontos (aproximado início da semana)",
-    "depois": "172.457 pontos no fechamento de 13/11"
-   },
-   {
-    "item": "Petróleo Brent",
-    "antes": "US$ 97,73 no início da semana",
-    "depois": "US$ 95,84 no fechamento de 13/11"
-   }
-  ],
-  "destaque": "2,63% alta do",
-  "porQueImporta": "Essa alta do dólar sinaliza maior custo para importações e pressiona preços internos, afetando decisões de investidores ligados a câmbio e setores sensíveis. O pacote fiscal e os riscos internacionais moldam o cenário econômico e a percepção de risco no Brasil.",
-  "impactoMercado": "A valorização do dólar e o pacote fiscal refletem em ativos de renda variável, especialmente varejo e energia, enquanto o mercado aguarda desdobramentos fiscais e ajuste global nos preços do petróleo, influenciando bolsas, moedas e juros.",
-  "entenda": "O dólar representa a moeda americana usada no comércio global. O Ibovespa é o principal índice da bolsa brasileira, medindo o desempenho das maiores ações. Pacote fiscal é o conjunto de medidas para controlar gastos e ajustar a economia do governo.",
-  "observar": "Fique atento à votação dos destaques do pacote fiscal na Câmara em 17/11 e aos próximos resultados do comércio varejista, que influenciam câmbio e bolsa.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Essa notícia mostra como decisões políticas e fatores internacionais influenciam o dólar e o Ibovespa, ajudando a entender o mercado e a importância da formação em finanças para atuar com mais conhecimento.",
-  "gancho": "Dólar *estável* e *fiscal* em foco",
-  "ideias": [
-   "Entenda o impacto do pacote fiscal no dólar",
-   "Por que o Ibovespa subiu com o dólar em alta?",
-   "O que significa alta do dólar para o comércio varejista?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Agência Brasil Economia; PlanetaOsasco.com; Portal VV8",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-13T22:46:47-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana",
-  "publicadoEm": "2026-11-13T18:53:00-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-13-06"
- },
- {
-  "tipo": "sinal",
-  "slug": "largest-company-end-of-december-2026",
-  "titulo": "Mercado de previsões vê 88.1% de chance da Apple ser a maior empresa",
-  "resumo": "Essa probabilidade é uma avaliação de apostadores sobre o posicionamento de grandes empresas até o final de 2026.",
-  "probs": [
-   {
-    "opcao": "Apple",
-    "prob": 88.1
-   },
-   {
-    "opcao": "NVIDIA",
-    "prob": 9.0
-   },
-   {
-    "opcao": "Alphabet",
-    "prob": 0.9
-   },
-   {
-    "opcao": "Microsoft",
-    "prob": 0.7
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 105 mil",
-  "fatos": [
-   "Apple: 88,1%",
-   "NVIDIA: 9,0%",
-   "Alphabet: 0,9%",
-   "Microsoft: 0,7%"
-  ],
-  "numeros": [
-   {
-    "valor": "88,1%",
-    "rotulo": "Apple"
-   },
-   {
-    "valor": "9,0%",
-    "rotulo": "NVIDIA"
-   },
-   {
-    "valor": "0,9%",
-    "rotulo": "Alphabet"
-   },
-   {
-    "valor": "0,7%",
-    "rotulo": "Microsoft"
-   }
-  ],
-  "destaque": "88,1%",
-  "gancho": "*Domínio do mercado* tecnológico",
-  "entenda": "Fatores como inovação, vendas e lucratividade determinam a posição das empresas no mercado global.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-  "publicadoEm": "2026-11-13T18:38:12-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-13T18:38:12-03:00",
-  "data": "2026-11-13",
-  "status": "nova",
-  "id": "2026-11-13-p3"
- },
- {
-  "titulo": "Caixa avalia aumentar juros do crédito imobiliário após bancos privados",
-  "resumo": "A Caixa, que detém cerca de 70% do crédito imobiliário, estuda subir juros devido ao maior custo de captação. Bradesco, Itaú e Santander já aumentaram suas taxas, pressionando o mercado.",
-  "fatos": [
-   "Caixa detém cerca de 70% do mercado de financiamento habitacional no Brasil.",
-   "Bradesco elevou juros de 11,69% para 13,60% ao ano mais TR em outubro de 2026.",
-   "Itaú ajustou juros de 11,99% para 12,95% ao ano mais TR no mesmo período.",
-   "Santander subiu taxa para 12,49% ao ano mais TR na última semana de outubro.",
-   "Carteira imobiliária da Caixa atingiu R$ 1,043 trilhão em setembro de 2026, alta de 15,5% em 12 meses.",
-   "Lucro líquido recorrente da Caixa caiu 7,4% no terceiro trimestre de 2026, para R$ 3,5 bilhões.",
-   "Saques líquidos da poupança somaram R$ 53,2 bilhões entre janeiro e setembro de 2026.",
-   "Saldo em Letras de Crédito Imobiliário da Caixa chegou a R$ 268,7 bilhões em setembro de 2026, alta de 13,8% em 12 meses.",
-   "Inadimplência da carteira imobiliária da Caixa subiu de 1,30% para 1,70% entre setembro de 2025 e 2026.",
-   "Caixa contratou R$ 72,5 bilhões em crédito habitacional no 3º trimestre de 2026, aumento anual de 7,6%."
-  ],
-  "explicacao": [
-   "A Caixa Econômica Federal está analisando se e quando vai elevar os juros do financiamento imobiliário, considerando o aumento dos custos para captar recursos no mercado financeiro. Essa avaliação ocorre após bancos privados, como Bradesco, Itaú e Santander, ajustarem suas taxas na última semana de outubro de 2026.",
-   "O principal motivo para essa possível alta é o aumento do custo da captação, já que os depósitos na poupança diminuíram, levando o banco a recorrer a Letras de Crédito Imobiliário (LCIs), que são mais caras. A Caixa busca equilibrar manter a oferta de crédito e a rentabilidade, sem prejudicar o setor.",
-   "Como maior financiador habitacional do país, com cerca de 70% do mercado, qualquer aumento dos juros pela Caixa pode impactar todo o sistema financeiro e o mercado imobiliário, influenciando gerações de emprego e investimentos. O banco pondera o efeito econômico da decisão, para que não cause um impacto negativo significativo.",
-   "Nos próximos meses, a decisão deve ser anunciada, considerando o volume de recursos disponível para o crédito imobiliário. A Caixa já contabiliza crescimento de 15,5% na carteira imobiliária em 12 meses, com inadimplência crescente e lucro líquido em queda, fatores que influenciam na estratégia do banco."
-  ],
-  "detalhes": [
-   "A decisão sobre reajuste dos juros cabe exclusivamente à Caixa, sem necessidade de aprovação do governo controlador.",
-   "A Caixa combina recursos da poupança com Letras de Crédito Imobiliário para financiar o crédito imobiliário, devido à queda no saldo líquido da poupança.",
-   "O aumento nas taxas dos bancos privados ultrapassou o teto de 12% da Taxa Referencial (TR) do Sistema Financeiro da Habitação (SFH).",
-   "A vice-presidente de Habitação da Caixa, Inês Magalhães, afirma que o banco considerará o volume de recursos disponíveis na decisão de reajuste.",
-   "O crédito imobiliário tem impacto direto na geração de mais de 1,6 milhão de empregos nos primeiros nove meses de 2026, segundo a Caixa.",
-   "R$ 646,4 bilhões do crédito imobiliário da Caixa (62% do total) são provenientes do FGTS e Fundo Social.",
-   "A inadimplência geral da Caixa chegou a 4,01% em setembro de 2026, maior que os 3,01% do ano anterior, embora não seja só do crédito imobiliário."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Marcos Brasiliano Rosa, vice-presidente de Finanças e Controladoria da Caixa",
-    "oque": "A decisão sobre reajuste é técnica, e a Caixa precisa equilibrar custo, oferta e impacto no país."
-   },
-   {
-    "quem": "Inês Magalhães, vice-presidente de Habitação da Caixa",
-    "oque": "Estudamos reajustar juros do crédito imobiliário conforme o volume de recursos disponíveis."
-   },
-   {
-    "quem": "Marcos Brasiliano Rosa",
-    "oque": "Se aumentarmos a taxa, parte das famílias pode migrar para habitação social, por isso o cuidado."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Bradesco, Itaú e Santander aumentam juros mínimos do crédito imobiliário."
-   },
-   {
-    "quando": "Setembro de 2026",
-    "oque": "Carteira imobiliária da Caixa atingiu R$ 1,043 trilhão."
-   },
-   {
-    "quando": "13 de novembro de 2026",
-    "oque": "Caixa anuncia estudo para possível reajuste nos juros imobiliários."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Taxa Referencial (TR)",
-    "significado": "Indicador usado para reajustar contratos, como financiamentos residenciais."
-   },
-   {
-    "termo": "Letras de Crédito Imobiliário (LCI)",
-    "significado": "Títulos emitidos por bancos para captar recursos, usados no crédito imobiliário."
-   },
-   {
-    "termo": "Sistema Brasileiro de Poupança e",
-    "significado": "Sistema que regula empréstimos imobiliários financiados pela poupança."
-   }
-  ],
-  "pergunta": "Você acha que a Caixa vai reajustar os juros do financiamento imobiliário?",
-  "tamanhoTexto": 10864,
-  "numeros": [
-   {
-    "valor": "70%",
-    "rotulo": "Participação da Caixa no crédito imobiliário"
-   },
-   {
-    "valor": "13,60%",
-    "rotulo": "Juros Bradesco em financiamento imobiliário"
-   },
-   {
-    "valor": "12,95%",
-    "rotulo": "Juros Itaú em financiamento imobiliário"
-   },
-   {
-    "valor": "12,49%",
-    "rotulo": "Juros Santander em financiamento imobiliário"
-   },
-   {
-    "valor": "12,05%",
-    "rotulo": "Juros médios Caixa com recursos SBPE"
-   },
-   {
-    "valor": "R$ 1,043 tri",
-    "rotulo": "Carteira imobiliária da Caixa em setembro 2026"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Lucro líquido recorrente Caixa",
-    "antes": "R$ 3,78 bilhões no 3º tri 2025",
-    "depois": "R$ 3,5 bilhões no 3º tri 2026"
-   },
-   {
-    "item": "Inadimplência da carteira imobiliária",
-    "antes": "1,30% em setembro de 2025",
-    "depois": "1,70% em setembro de 2026"
-   }
-  ],
-  "destaque": "70% do crédito",
-  "porQueImporta": "Essa decisão da Caixa é fundamental porque o banco é o maior financiador imobiliário no Brasil. Mudanças nos juros pela Caixa influenciam os custos do crédito para milhões de famílias, assim como afetam a construção civil e emprego, impactando a economia de modo geral.",
-  "impactoMercado": "A possível elevação dos juros pela Caixa pode levar ao aumento do custo do crédito imobiliário em todo o país, afetando setores ligados à construção, habitação e infraestrutura. Também pode provocar uma mudança na demanda por programas sociais de moradia e influenciar negociações futuras de crédito e investimentos.",
-  "entenda": "O crédito imobiliário é o empréstimo dado por bancos para compra ou construção de imóveis. Os juros desse crédito refletem o custo do dinheiro para o banco captar recursos no mercado, que pode variar pela entrada em depósitos na poupança ou emissão de títulos como as Letras de Crédito Imobiliário (LCI).",
-  "observar": "Fique atento nas próximas semanas à divulgação oficial da Caixa sobre o reajuste das taxas de juros do crédito imobiliário e acompanhamento do saldo da poupança e indexação das LCIs, que influenciam o custo do crédito.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "Essa notícia mostra como decisões de grandes bancos, especialmente da Caixa, influenciam o mercado imobiliário e o custo do crédito, despertando interesse para entender taxas, crédito e o impacto econômico.",
-  "gancho": "*Caixa* e juros do crédito imobiliário",
-  "ideias": [
-   "Por que a Caixa pode subir os juros do financiamento imobiliário?",
-   "Entenda o impacto do aumento dos juros no crédito imobiliário",
-   "Como a captação de recursos afeta as taxas de financiamento"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Folha Mercado; Exame",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-13T14:23:22-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
-  "publicadoEm": "2026-11-13T13:09:00-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-13-01"
- },
- {
-  "titulo": "Ibovespa sobe e dólar cai com pacote fiscal e dados econômicos",
-  "resumo": "Ibovespa avança 0,65% com Petrobras e balanços; dólar recua 0,26%, cotado a R$ 5,637. Senado aprovou pacote fiscal de até R$ 60 bilhões para 2027, com emendas para próxima semana.",
-  "fatos": [
-   "Ibovespa subiu 0,65% na sexta-feira, aos 172.440 pontos às 13h50",
-   "Dólar caiu 0,26% cotado a R$ 5,637 na venda às 12h17",
-   "Senado aprovou texto-base do pacote fiscal por 45 votos a 31 na quinta-feira (12)",
-   "Pacote fiscal prevê impacto de até R$ 60 bilhões em 2027",
-   "Emendas ao pacote serão votadas na terça-feira (17)",
-   "Vendas do varejo brasileiro cresceram 0,2% de agosto para setembro",
-   "Vendas do varejo subiram 1,7% na comparação anual em setembro",
-   "Inflação ao produtor dos EUA avançou 0,4% em outubro, acima da projeção de 0,3%",
-   "Microsoft enfrenta pane em serviços globais sem evidência de ataque cibernético",
-   "Ações da Nvidia caíram 4,34% após saída do presidente Jensen Huang"
-  ],
-  "explicacao": [
-   "Na sexta-feira (13), o Ibovespa, principal índice da bolsa brasileira, subiu 0,65%, impulsionado por balanços corporativos e Petrobras. No mesmo dia, o dólar recuou 0,26%, cotado a R$ 5,637, após alta forte na quinta-feira impulsionada por preocupações fiscais.",
-   "A movimentação no mercado refletiu a aprovação no Senado do texto-base de um pacote fiscal com impacto previsto de até R$ 60 bilhões para 2027. A proposta visa controlar gastos públicos e cumprir metas de superávit fiscal, porém a votação definitiva com possíveis emendas será realizada na próxima terça-feira (17).",
-   "Além do cenário fiscal, os investidores também reagiram a dados econômicos, como o crescimento de 0,2% nas vendas do varejo brasileiro em setembro, que superou expectativas, e o índice de preços ao produtor dos EUA acima do esperado, influenciando as decisões no mercado americano e mundial.",
-   "O mercado segue atento à definição do pacote fiscal, à política monetária do Banco Central, incluidas possíveis declarações de seu presidente, e aos desdobramentos globais em tecnologia, incluindo impactos da pane na Microsoft e movimentações na Nvidia, com potencial impacto no setor."
-  ],
-  "detalhes": [
-   "Pacote fiscal busca atingir metas de superávit com R$ 50 bi para metas fiscais e R$10 bi para novas despesas",
-   "Principais medidas do pacote incluem limite para crescimento dos gastos públicos e redução de até 20% em alguns benefícios fiscais",
-   "Senado aprovou o texto-base do projeto para ajuste fiscal, mas precisa analisar quatro pontos restantes",
-   "Vendas de equipamentos de informática e comunicação tiveram alta de 7,6% em setembro",
-   "O dólar comercial estava cotado a R$ 5,636 para compra e R$ 5,637 para venda no dia da notícia",
-   "O Banco Central e seu presidente Gabriel Galípolo estão sob atenção por possíveis declarações no Barclays Day",
-   "A queda de ações de tecnologia em NY pressiona o setor, com destaque para a Nvidia"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ministério do Planejamento",
-    "oque": "Pacote fiscal pode gerar impacto de até R$ 60 bilhões em 2027"
-   },
-   {
-    "quem": "Gabriel Galípolo, presidente do Banco Central",
-    "oque": "Participa de palestra no Barclays Day sobre inflação, juros e contas públicas"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12/11/2026",
-    "oque": "Senado aprovou texto-base de pacote fiscal com impacto até R$ 60 bilhões"
-   },
-   {
-    "quando": "13/11/2026",
-    "oque": "Ibovespa sobe 0,65% e dólar recua 0,26% repercutindo pacote e dados do varejo"
-   },
-   {
-    "quando": "17/11/2026",
-    "oque": "Votação das emendas do pacote fiscal no Senado prevista"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Pacote fiscal",
-    "significado": "Conjunto de medidas para controlar gastos e equilibrar orçamento público"
-   },
-   {
-    "termo": "Ibovespa",
-    "significado": "Principal índice da bolsa brasileira, com as ações mais negociadas"
-   },
-   {
-    "termo": "Superávit fiscal",
-    "significado": "Situação em que as receitas superam as despesas do governo"
-   }
-  ],
-  "pergunta": "Você acha que o pacote fiscal será suficiente para controlar a dívida pública?",
-  "tamanhoTexto": 11816,
-  "numeros": [
-   {
-    "valor": "0,65%",
-    "rotulo": "alta do Ibovespa na sexta-feira (13)"
-   },
-   {
-    "valor": "5,637",
-    "rotulo": "cotação do dólar na venda em reais"
-   },
-   {
-    "valor": "R$ 60 bilhões",
-    "rotulo": "impacto fiscal previsto para 2027 do pacote aprovado"
-   },
-   {
-    "valor": "45 a 31",
-    "rotulo": "votação do texto-base no Senado"
-   },
-   {
-    "valor": "0,2%",
-    "rotulo": "alta mensal das vendas do varejo brasileiro em setembro"
-   },
-   {
-    "valor": "1,7%",
-    "rotulo": "alta anual das vendas do varejo em setembro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Dólar à vista",
-    "antes": "R$ 5,6507 (12/11/2026)",
-    "depois": "R$ 5,637 (13/11/2026)"
-   }
-  ],
-  "destaque": "R$ 60 bilhões",
-  "porQueImporta": "O pacote fiscal que pode impactar as contas públicas em R$ 60 bilhões em 2027 é crucial para a estabilidade econômica e fiscal do Brasil, influenciando confiança do investidor e o comportamento do dólar, além de condicionar decisões do Banco Central sobre juros e política monetária.",
-  "impactoMercado": "A aprovação do pacote e o desempenho surpreendente do varejo trazem sinais positivos para o Ibovespa, enquanto mantêm o dólar sob pressão, impactando setores como commodities e ações ligadas a política fiscal. Juros futuros podem reagir com ajustes conforme decisões do Senado e dados econômicos internacionais.",
-  "entenda": "Ibovespa é o principal índice da bolsa brasileira, que reflete a variação das ações negociadas. O dólar influencia o custo de importações e investimentos. Pacote fiscal é conjunto de medidas que visam controlar gastos e ajudar a cumprir metas fiscais para manter as contas públicas equilibradas.",
-  "observar": "Fique atento à votação das emendas do pacote fiscal prevista para 17 de novembro, declarações do presidente do Banco Central no Barclays Day e dados econômicos internacionais que podem influenciar dólar e juros futuros.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos como o pacote fiscal, dados do varejo e indicadores internacionais influenciam bolsa, dólar e juros, mostrando o mercado em ação e sua importância para quem quer operar ou investir com conhecimento.",
-  "gancho": "*Pacote fiscal* e *mercado hoje*",
-  "ideias": [
-   "Como o pacote fiscal impacta o Ibovespa e dólar",
-   "Por que as vendas do varejo são importantes para o mercado",
-   "Efeitos da inflação dos EUA e pacote fiscal no mercado brasileiro"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Valor Econômico; BP Money; G1 Economia",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-13T14:23:22-03:00",
-  "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-  "publicadoEm": "2026-11-13T13:32:58-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-13-02"
- },
- {
-  "titulo": "André Esteves diz que ajuste fiscal cabe nas promessas de governo Lula 4",
-  "resumo": "O presidente do conselho do BTG Pactual, André Esteves, afirmou que o ajuste fiscal não conflita com o programa do governo Lula quarto mandato. O Senado aprovou projeto para ajudar a economia a alcançar meta primária em 2027.",
-  "fatos": [
-   "André Esteves é presidente do conselho e sócio principal do BTG Pactual.",
-   "O ajuste fiscal foi aprovado em texto-base pelo Senado nesta quinta-feira (12).",
-   "O esforço fiscal adicional estimado fica entre R$ 46 bilhões e R$ 56 bilhões para 2027.",
-   "A taxa básica de juros atual está em 13,75% ao ano conforme comentário de Esteves.",
-   "O ministro do Planejamento é Bruno Moretti.",
-   "André Esteves falou em evento organizado pelo IDP e Metrópoles nesta sexta (13).",
-   "Ele criticou a resistência ao ajuste como 'negacionismo econômico'.",
-   "Gilmar Mendes, ministro do STF, esteve presente e defendeu equilíbrio entre responsabilidade fiscal e social.",
-   "Esteves citou que problemas fiscais são globais, incluindo EUA, Reino Unido, França e Japão.",
-   "Esteves considera que a redução dos juros seria mais benéfica para a base da pirâmide social."
-  ],
-  "explicacao": [
-   "Nesta sexta-feira (13), André Esteves, líder do BTG Pactual, declarou que o ajuste fiscal previsto pelo governo Lula não é incompatível com as promessas feitas durante a campanha para seu quarto mandato. O Senado aprovou o texto-base do projeto no dia anterior.",
-   "O ajuste fiscal busca reduzir o déficit público, focando no resultado primário, que é a diferença entre receitas e despesas excluindo o serviço da dívida. Segundo o ministro Bruno Moretti, esse esforço representará um impacto extra de R$ 46 bilhões a R$ 56 bilhões para 2027.",
-   "Esteves destaca que o ajuste é necessário e possível, reforçando que pode ocorrer junto às propostas do presidente eleito. Também ressaltou que cortes nos juros básicos para cerca de 8% ao ano representariam o maior programa social para a base da pirâmide econômica.",
-   "No próximo período, o governo e o Congresso devem acompanhar a implementação das medidas para garantir o cumprimento das metas fiscais, lidando com a repercussão política e econômica apontada pelo mercado e especialistas."
-  ],
-  "detalhes": [
-   "Evento ocorreu nesta sexta-feira, 13 de novembro de 2026.",
-   "O ajuste fiscal visa alcançar a meta de resultado fiscal primário para o ano de 2027.",
-   "André Esteves comentou durante evento no IDP, instituto fundado por Gilmar Mendes.",
-   "A proposta legislativa já recebeu aprovação inicial no Senado em 12 de novembro.",
-   "Entre as consequências do ajuste, espera-se a redução dos juros básicos.",
-   "O ajuste fiscal é visto como compatível com as promessas feitas por Lula à sociedade.",
-   "Críticas ao ajuste foram comparadas por Esteves com negacionismo observado em outras áreas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "André Esteves, presidente do conselho e principal sócio do BTG",
-    "oque": "O ajuste fiscal não é incompatível com o que foi prometido pelo presidente Lula."
-   },
-   {
-    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
-    "oque": "O esforço extra para cumprir a meta fiscal em 2027 ficará entre R$ 46 bilhões e R$ 56 bilhões."
-   },
-   {
-    "quem": "André Esteves",
-    "oque": "Reduzir juros básicos para cerca de 8% seria o maior programa social para a base da pirâmide."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12 de novembro de 2026",
-    "oque": "Senado aprovou texto-base do projeto de ajuste fiscal do governo."
-   },
-   {
-    "quando": "13 de novembro de 2026",
-    "oque": "André Esteves falou em evento do IDP sobre ajuste fiscal e promessas do governo."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Resultado Primário",
-    "significado": "Diferença entre receitas e despesas do governo, excluindo juros da dívida."
-   },
-   {
-    "termo": "Meta Fiscal",
-    "significado": "Objetivo de resultado financeiro das contas públicas definido no orçamento."
-   },
-   {
-    "termo": "Juros Básicos (Selic)",
-    "significado": "Taxa de referência usada pelo Banco Central para controlar a economia."
-   }
-  ],
-  "pergunta": "Você acha possível conciliar ajuste fiscal com programas sociais do governo?",
-  "tamanhoTexto": 6959,
-  "numeros": [
-   {
-    "valor": "R$ 46 bilhões a R$ 56 bilhões",
-    "rotulo": "Esforço extra fiscal previsto para 2027"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa básica de juros atual mencionada"
-   },
-   {
-    "valor": "~8%",
-    "rotulo": "Taxa de juros ideal sugerida por André Esteves"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Taxa básica de juros",
-    "antes": "13,75% ao ano",
-    "depois": "cerca de 8% ao ano (sugerido)"
-   }
-  ],
-  "destaque": "R$ 46 bilhões",
-  "porQueImporta": "O ajuste fiscal é fundamental para controlar o déficit público e garantir estabilidade econômica durante o novo governo Lula. Isso impacta diretamente a confiança dos investidores e as condições do crédito no país, influenciando decisões de quem opera na bolsa, câmbio e renda fixa.",
-  "impactoMercado": "Com a aprovação do ajuste fiscal, espera-se maior controle da dívida pública e possibilidade de queda da taxa Selic, o que pode refletir em juros menores para financiamentos e menor volatilidade para ações e câmbio, afetando especialmente setores sensíveis a custos de capital.",
-  "entenda": "A meta fiscal primária é o saldo entre receitas e despesas do governo, sem incluir o pagamento de juros da dívida. Ajuste fiscal significa implementar medidas para equilibrar as contas públicas, reduzindo gastos ou aumentando receitas, essenciais para controlar a inflação e juros no país.",
-  "observar": "Acompanhe próximos passos no Congresso para aprovação final do ajuste fiscal e dados econômicos como taxas de inflação e reuniões do Banco Central, que podem indicar como o mercado reagirá às mudanças.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "A notícia mostra como o ajuste fiscal presente no governo Lula pode afetar o cenário financeiro e como entender isso ajuda quem quer operar melhor na bolsa e no mercado de juros.",
-  "gancho": "Ajuste Fiscal e *Lula*",
-  "ideias": [
-   "O que é ajuste fiscal e por que importa em 2027?",
-   "André Esteves explica: juros e ajuste fiscal no governo Lula",
-   "Como o Senado aprovou o plano para equilibrar as contas públicas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-13T14:23:22-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
-  "publicadoEm": "2026-11-13T14:21:00-03:00",
-  "data": "2026-11-13",
-  "id": "2026-11-13-04"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 83.5% de chance de Ethereum abaixo de 1.700 em novembro",
-  "resumo": "As expectativas do mercado indicam uma possível desvalorização do Ethereum nos próximos meses.",
-  "probs": [
-   {
-    "opcao": "abaixo de 1.700",
-    "prob": 83.5
-   },
-   {
-    "opcao": "acima de 1.800",
-    "prob": 74.0
-   },
-   {
-    "opcao": "abaixo de 1.600",
-    "prob": 44.8
-   },
-   {
-    "opcao": "acima de 1.900",
-    "prob": 33.5
-   }
-  ],
-  "prazo": "2026-12-01",
-  "volume24h": "US$ 98 mil",
-  "fatos": [
-   "abaixo de 1.700: 83,5%",
-   "acima de 1.800: 74,0%",
-   "abaixo de 1.600: 44,8%",
-   "acima de 1.900: 33,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "83,5%",
-    "rotulo": "abaixo de 1.700"
-   },
-   {
-    "valor": "74,0%",
-    "rotulo": "acima de 1.800"
-   },
-   {
-    "valor": "44,8%",
-    "rotulo": "abaixo de 1.600"
-   },
-   {
-    "valor": "33,5%",
-    "rotulo": "acima de 1.900"
-   }
-  ],
-  "destaque": "83,5%",
-  "gancho": "*Ethereum em novembro*",
-  "entenda": "Como o Bitcoin, o Ethereum também sofre influências de mercado e eventos globais na nova economia digital.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-november-2026",
-  "publicadoEm": "2026-11-13T14:23:22-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-13T14:23:22-03:00",
-  "data": "2026-11-13",
-  "status": "atualizada",
-  "id": "2026-11-13-p1",
-  "atualizadoEm": "2026-11-19T23:35:54-03:00"
  }
 ]
