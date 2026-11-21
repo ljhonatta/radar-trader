@@ -88,6 +88,11 @@ troca('''    <div class="panel">
       <div class="row ai-row"><input type="password" id="aiKey" autocomplete="off" placeholder="sk-..."><button class="btn primary" id="aiSalvar">Salvar chave</button><button class="btn ghost" id="aiRemover">Remover</button></div>
       <div class="row ai-row"><label class="lbl" for="aiModelo">Modelo</label><input type="text" id="aiModelo" placeholder="gpt-4o-mini"><button class="btn sm" id="aiModeloSalvar">Salvar modelo</button></div>
       <span class="status" id="aiStatus"></span>
+      <div class="field" style="margin-top:10px;border-top:1px solid var(--line);padding-top:12px"><span class="lbl">Chave do ElevenLabs (voz da narração dos vídeos)</span>
+        <p class="note" style="margin:0">Pegue em elevenlabs.io → Developers → API keys. Com ela, os vídeos saem na voz brasileira do Yuri. Fica só neste navegador.</p>
+        <div class="row"><input type="password" id="elKeyMarca" autocomplete="off" placeholder="sk_..." style="flex:1;min-width:220px;width:auto;border:1px solid var(--line);background:var(--raise);border-radius:8px;padding:8px 10px;font-size:13.5px"><button class="btn primary" id="elSalvarMarca">Salvar chave</button><button class="btn ghost" id="elRemoverMarca">Remover</button></div>
+        <span class="status" id="elStatusMarca"></span>
+      </div>
       <p class="note">Perfis, carrosséis e imagens que você mudar aqui ficam neste navegador. A coleta de notícias usa a chave guardada no GitHub (Settings → Secrets).</p>
     </div>
     <div class="panel">
@@ -470,6 +475,7 @@ troca('</style>', """.vstudio{display:grid;grid-template-columns:300px minmax(0,
 s = s.replace('</script>\n</body></html>', '</script>\n<script src="video.js"></script>\n</body></html>') if False else s
 
 s = s.replace("</script>\n</body></html>", "</script>\n<script src=\"video.js\"></script>\n</body></html>")
+s = s.replace('<script src="video.js"></script>', '<script>\n/* chave do ElevenLabs na aba Marca: mesma chave que o estúdio de vídeo usa (localStorage "rv-eleven-key") */\n(function(){const K="rv-eleven-key",g=()=>{try{return localStorage.getItem(K)||"";}catch(e){return "";}},s=v=>{try{v?localStorage.setItem(K,v):localStorage.removeItem(K);}catch(e){}};\n const st=()=>{const k=g();setStatus("elStatusMarca",k?"Chave salva (termina em "+k.slice(-4)+"). Os vídeos saem na voz do Yuri.":"Sem chave: a narração usa a voz da OpenAI.",k?"ok":"");};\n document.getElementById("elSalvarMarca").onclick=()=>{const v=document.getElementById("elKeyMarca").value.trim();if(v.length<20){setStatus("elStatusMarca","Cole a chave inteira do ElevenLabs.","err");return;}\n   s(v);document.getElementById("elKeyMarca").value="";try{localStorage.removeItem("rv-voz-sel");}catch(e){}st();};\n document.getElementById("elRemoverMarca").onclick=()=>{s("");st();};st();})();\n</script>\n'+'<script src="video.js"></script>')
 assert 'src="video.js"' in s
 open(os.path.join(os.path.dirname(AQUI), "docs", "index.html"), "w", encoding="utf-8").write(s)
 print("index.html montado:", len(s), "bytes")
