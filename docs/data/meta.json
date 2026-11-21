@@ -1,16 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-20T19:21:15-03:00",
+  "ultimaColeta": "2026-11-20T23:50:06-03:00",
   "novas": 7,
-  "atualizadas": 1,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 nova(s) e 1 atualizada(s): Dólar no maior valor; SEC investiga Nvidia: entenda; Fed e juros em dezembro.",
-  "falhas": [
-   "Google Notícias 'Ibovespa fechamento' (HTTPError)",
-   "Google Notícias 'dólar hoje real' (HTTPError)"
-  ],
+  "mensagem": "7 nova(s): Queda em IA e bolsa; dólar em alta no Brasil; Queda do EWZ e pressão no dólar.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-20T23:50:06-03:00",
    "2026-11-20T19:21:15-03:00",
    "2026-11-20T15:01:54-03:00",
    "2026-11-19T23:35:54-03:00",
@@ -21,12 +19,11 @@
    "2026-11-18T15:24:41-03:00",
    "2026-11-18T00:08:05-03:00",
    "2026-11-17T20:09:53-03:00",
-   "2026-11-17T15:46:19-03:00",
-   "2026-11-17T01:10:50-03:00"
+   "2026-11-17T15:46:19-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 6
+  "textosCompletos": 9
  },
  "placar": {
   "itens": [
@@ -51,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 59,1 mil",
-    "var": "-4,39%"
+    "v": "US$ 58,6 mil",
+    "var": "-4,96%"
    },
    {
     "k": "SPX",
@@ -92,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sex 19h",
+  "hora": "sex 23h",
   "data": "2026-11-20",
-  "atualizadoEm": "2026-11-20T19:21:15-03:00",
+  "atualizadoEm": "2026-11-20T23:50:06-03:00",
   "ibov": "166.376",
   "ibovVar": "-0,69%",
   "dolar": "R$ 5,95",
   "dolarVar": "+0,24%",
-  "btc": "US$ 59,1 mil"
+  "btc": "US$ 58,6 mil"
  }
 }

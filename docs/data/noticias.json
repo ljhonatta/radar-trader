@@ -1,5 +1,963 @@
 [
  {
+  "titulo": "Queda em Wall Street reacende dúvidas sobre rali da inteligência artificial",
+  "resumo": "Na semana de 20/11/2026, ações de tecnologia em Wall Street caíram forte, com Nasdaq recuando 5,28%. Investidores questionam se o ciclo de alta das empresas de IA está próximo do fim.",
+  "fatos": [
+   "Nasdaq caiu 5,28% no dia 20/11/2026, a 22.617,733 pontos",
+   "Dow Jones recuou 1,93%, fechando em 48.147,42 pontos",
+   "S&P 500 caiu 3,69%, aos 6.910,77 pontos",
+   "Nas semana as perdas foram: Dow Jones 8,02%, S&P 8,61%, Nasdaq 10,02%",
+   "Setores de tecnologia tiveram queda diária de 7,11%",
+   "Ações de Nvidia recuaram 13,8%, Micron 13,86%, SanDisk 16,03%",
+   "IPO da Anthropic arrecadou US$ 93,5 bilhões, mas ações caíram 8,5% no dia seguinte",
+   "Valor de mercado da Nvidia caiu para US$ 3,03 trilhões",
+   "Índice VIX subiu mais de 39%, chegando ao maior nível desde abril do ano passado"
+  ],
+  "explicacao": [
+   "Nesta semana, os principais índices acionários de Nova York sofreram fortes quedas. O Nasdaq caiu 5,28%, apagando a valorização acumulada no ano, enquanto Dow Jones e S&P 500 entraram em território de correção, com perdas semanais de até 10,02%.",
+   "Esse movimento foi provocado pela aversão ao risco diante de juros mais altos nos EUA e incertezas sobre o retorno dos investimentos bilionários em infraestrutura de inteligência artificial, impactando especialmente ações de tecnologia e fabricantes de semicondutores.",
+   "A situação indica que a confiança dos investidores na sustentação do rali de IA, uma das estratégias mais rentáveis dos últimos anos, está abalada. O índice de volatilidade VIX subiu mais de 39%, refletindo o nervosismo no mercado.",
+   "Especialistas do J.P. Morgan destacam que, embora a demanda por IA permaneça forte, a concretização dos ganhos de produtividade deve demorar e isso pode exigir paciência dos investidores, com maior atenção às revisões das expectativas futuras das empresas."
+  ],
+  "detalhes": [
+   "Quedas ocorreram entre 18 e 20 de novembro de 2026 nas bolsas americanas",
+   "Juros mais altos nos EUA aumentaram a aversão ao risco dos investidores",
+   "Empresas de semicondutores, base para infraestrutura de IA, foram as mais penalizadas",
+   "IPO recorde da Anthropic não evitou queda do setor tecnológico",
+   "Mais de 60% do valor de mercado do índice S&P 500 de tecnologia depende de expectativas futuras",
+   "J.P. Morgan prevê ganhos de produtividade da IA só na década de 2030",
+   "Grandes empresas de computação em nuvem têm posição mais sólida que fornecedores de hardware no curto prazo"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Seema Shah, estrategista-chefe global da Principal Asset Management",
+    "oque": "Mercado tecnológico é vulnerável a revisões nas expectativas futuras dos lucros"
+   },
+   {
+    "quem": "Madison Faller, diretora-executiva de estratégia global de investimentos no J.P.",
+    "oque": "Demanda por IA segue forte, mas ganhos de produtividade levarão tempo para se concretizar"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "20/11/2026",
+    "oque": "Fortes quedas nos índices Dow Jones, S&P 500 e Nasdaq"
+   },
+   {
+    "quando": "19/11/2026",
+    "oque": "IPO recorde da Anthropic levantou US$ 93,5 bilhões"
+   },
+   {
+    "quando": "Desde abril de 2025",
+    "oque": "Nível de volatilidade VIX atinge máximas similares às do 'Dia da Libertação'"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial de ações para captar recursos"
+   },
+   {
+    "termo": "Índice VIX",
+    "significado": "Indicador de volatilidade e estresse nos mercados"
+   },
+   {
+    "termo": "Correção",
+    "significado": "Queda de 10% ou mais nos preços das ações em relação ao pico recente"
+   }
+  ],
+  "pergunta": "Você acredita que a queda das ações de IA é uma correção ou o fim do rali?",
+  "tamanhoTexto": 6531,
+  "numeros": [
+   {
+    "valor": "5,28%",
+    "rotulo": "Queda do índice Nasdaq no dia 20/11/2026"
+   },
+   {
+    "valor": "3,69%",
+    "rotulo": "Queda do índice S&P 500 no dia 20/11/2026"
+   },
+   {
+    "valor": "1,93%",
+    "rotulo": "Queda do índice Dow Jones no dia 20/11/2026"
+   },
+   {
+    "valor": "93,5 bilhões",
+    "rotulo": "Arrecadação do IPO da Anthropic em dólares"
+   },
+   {
+    "valor": "39%",
+    "rotulo": "Alta do índice VIX de volatilidade no dia 20/11/2026"
+   },
+   {
+    "valor": "3,03 trilhões",
+    "rotulo": "Valor de mercado da Nvidia em dólares após queda"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Nasdaq",
+    "antes": "valorização acumulada no ano",
+    "depois": "apagou a valorização acumulada no ano com queda de 5,28%"
+   },
+   {
+    "item": "Índice VIX",
+    "antes": "níveis abaixo de 30 pontos",
+    "depois": "superou 40 pontos, maior desde abril do ano passado"
+   }
+  ],
+  "destaque": "5,28% queda do",
+  "porQueImporta": "Esta queda evidencia a volatilidade do setor de tecnologia e IA diante de políticas de juros e expectativas de lucro, mostrando como esse ambiente afeta diretamente a confiança dos investidores no mercado acionário.",
+  "impactoMercado": "A retração dos ativos de tecnologia pode afetar fundos e investidores expostos ao setor, além de demandar maior atenção para a gestão de riscos diante da incerteza sobre o ritmo de crescimento e produtividade da IA.",
+  "entenda": "O índice Nasdaq reúne principalmente empresas de tecnologia e comunicação, setor que puxou o rali da inteligência artificial. Correção de mercado ocorre quando o índice cai mais de 10% a partir do seu pico recente. O índice VIX mede a expectativa de volatilidade dos mercados.",
+  "observar": "Fique atento aos próximos dados econômicos dos EUA, decisões do Fed sobre juros e relatórios de resultados do setor de tecnologia para entender o movimento futuro dos ativos de IA.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Mostramos como a volatilidade recente em ações de IA afeta o mercado e destacamos aspectos da gestão de risco, incentivando seguidores a aprofundar conhecimentos na faculdade Trader School Wendell Guimarães.",
+  "gancho": "Queda em *IA* e *bolsa*",
+  "ideias": [
+   "O que causa a queda das ações de inteligência artificial?",
+   "Entenda por que o Nasdaq perdeu ganhos do ano em um dia",
+   "Como juros altos impactam o rali tecnológico em Wall Street"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Valor Econômico",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://valor.globo.com/financas/intraday/post/2026/11/queda-das-acoes-em-wall-street-reacende-duvidas-sobre-o-folego-do-rali-da-ia.ghtml",
+  "publicadoEm": "2026-11-20T19:40:33-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-10"
+ },
+ {
+  "titulo": "Alta do dólar reflete juros nos EUA e incertezas fiscais no Brasil",
+  "resumo": "O dólar subiu 4% em uma semana, alcançando R$ 5,93, a maior cotação desde abril de 2025. Fatores globais e dúvidas sobre a política fiscal brasileira pressionam o real.",
+  "fatos": [
+   "Dólar fechou em R$ 5,93 em 19 de novembro de 2025, alta de 4% na semana",
+   "Maior cotação do dólar desde 8 de abril de 2025 (R$ 5,99)",
+   "Juros nos EUA subiram em setembro, e novas altas são esperadas",
+   "Brasil aprovou pacote fiscal com corte de déficit de R$ 53 bilhões para 2027",
+   "Real foi a moeda emergente que mais desvalorizou nos últimos 30 dias",
+   "Banco Central fez leilão de US$ 1 bilhão para conter alta do dólar",
+   "Incertezas sobre equipe econômica e política fiscal elevam volatilidade do real",
+   "China é principal compradora de commodities brasileiras, economia estáfraca",
+   "Queda do preço de petróleo reduz entrada de dólares no Brasil"
+  ],
+  "explicacao": [
+   "Na segunda semana de novembro, o dólar iniciou a segunda-feira (16) em R$ 5,69 e fechou a quinta-feira (19) a R$ 5,93, um aumento de 4% em apenas quatro dias, maior valor desde abril de 2025. A alta acelerou após o segundo turno das eleições brasileiras.",
+   "O fortalecimento do dólar tem causas externas, como o aumento dos juros nos EUA, que atraem investidores em busca de rendimentos maiores. Além disso, a desaceleração da economia chinesa e a queda nos preços de commodities como o petróleo diminuem a entrada de dólares no Brasil.",
+   "Internamente, o real sofre pela instabilidade fiscal. Investidores aguardam definições claras sobre a equipe econômica do novo governo e o plano fiscal, essenciais para estabilizar a dívida pública. A incerteza aumenta a aversão ao risco e pressiona a moeda nacional.",
+   "Para reverter esse cenário, o governo precisaria mostrar credibilidade fiscal. Ajustes no orçamento e estabilização das contas públicas podem ajudar o Banco Central a reduzir juros, o que influenciaria positivamente o câmbio."
+  ],
+  "detalhes": [
+   "Leilão de US$ 1 bilhão pelo Banco Central não conteve alta do dólar em 19/11",
+   "Pacote Moretti promove corte fiscal, mas é considerado insuficiente para controlar dívida",
+   "Alta dos juros nos EUA aumenta atratividade do dólar globalmente",
+   "Exportadores brasileiros tendem a manter receitas em dólar fora do país",
+   "Incerteza fiscal gera clima de insegurança, afetando PIB e arrecadação",
+   "Mercado aguarda anúncio da nova equipe econômica do governo Lula",
+   "Movimento de alta do dólar acelerou após o segundo turno das eleições brasileiras"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Marcelo Fonseca, economista-chefe da CVPAR",
+    "oque": "Juros mais altos nos EUA atraem capitais, fortalecendo o dólar mundialmente."
+   },
+   {
+    "quem": "André Galhardo, economista-chefe da Análise Econômica",
+    "oque": "Real sofre mais por incertezas fiscais e composição da equipe econômica brasileira."
+   },
+   {
+    "quem": "Marcelo Fonseca",
+    "oque": "Plano fiscal crível ajudará o Banco Central a cortar juros no futuro."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "8 de abril de 2025",
+    "oque": "Dólar atingiu seu maior valor recente a R$ 5,99."
+   },
+   {
+    "quando": "Maio de 2025",
+    "oque": "Dólar recuou para R$ 4,99 antes de voltar a subir."
+   },
+   {
+    "quando": "Setembro de 2025",
+    "oque": "Juros nos EUA foram elevados, gerando maior atratividade do dólar."
+   },
+   {
+    "quando": "16 a 19 de novembro de",
+    "oque": "Dólar subiu 4% em quatro dias, chegando a R$ 5,93."
+   },
+   {
+    "quando": "Novembro de 2025",
+    "oque": "Pacote Meotti com corte fiscal de R$ 53 bilhões aprovado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Plano fiscal",
+    "significado": "Conjunto de regras para controlar gastos e dívidas do governo."
+   },
+   {
+    "termo": "Leilão de dólar",
+    "significado": "Venda de dólares pelo Banco Central para estabilizar o câmbio."
+   },
+   {
+    "termo": "Juros nos EUA",
+    "significado": "Taxas que definem o custo do dinheiro no mercado americano."
+   }
+  ],
+  "pergunta": "Como você acha que o dólar alto impacta seu bolso e seus investimentos?",
+  "tamanhoTexto": 7507,
+  "numeros": [
+   {
+    "valor": "4%",
+    "rotulo": "Alta do dólar de 16 a 19 de novembro de 2025"
+   },
+   {
+    "valor": "R$ 5,93",
+    "rotulo": "Fechamento do dólar em 19 de novembro de 2025"
+   },
+   {
+    "valor": "R$ 5,99",
+    "rotulo": "Maior valor do dólar desde abril de 2025"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "Leilão de dólares pelo Banco Central em 19 de novembro"
+   },
+   {
+    "valor": "R$ 53 bilhões",
+    "rotulo": "Corte no déficit fiscal previsto para 2027 no pacote Moretti"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar em reais",
+    "antes": "R$ 4,99 em maio de 2025",
+    "depois": "R$ 5,93 em novembro de 2025"
+   }
+  ],
+  "destaque": "4% alta do",
+  "porQueImporta": "Investidores acompanham o dólar de perto, pois a valorização altera custos de importação, inflação e atratividade de investimentos. Em mercados emergentes, como o Brasil, a política fiscal e as taxas de juros locais influenciam diretamente a cotação do dólar e o risco país, afetando decisões de investidores e traders.",
+  "impactoMercado": "A alta do dólar tende a pressionar os preços internos, podendo influenciar setores de commodities exportadoras e importadoras. Juros mais altos nos EUA sinalizam fluxo de capitais para lá, enquanto dúvidas fiscais no Brasil podem aumentar a volatilidade, impactando ações, câmbio e juros futuros.",
+  "entenda": "O dólar é a moeda de referência global e a cotação frente ao real reflete oferta e demanda. Quando juros nos EUA sobem, investidores preferem lá, fortalecendo o dólar. Já o plano fiscal é o conjunto de decisões do governo sobre gastos e dívidas, que influencia a confiança dos investidores e o valor da moeda local.",
+  "observar": "Fique atento ao anúncio da nova equipe econômica e políticas fiscais do governo nas próximas semanas, além da evolução dos juros americanos e indicadores da economia chinesa, que poderão influenciar o câmbio e a confiança do mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como fatores externos e internos influenciam o dólar, explicando conceitos-chave para quem quer entender ou operar no mercado financeiro, na jornada de aprender e lidar com riscos de câmbio e política fiscal.",
+  "gancho": "*dólar* em alta no Brasil",
+  "ideias": [
+   "Por que o dólar está subindo tanto em 2025?",
+   "Juros nos EUA e impacto no real e no seu bolso",
+   "Entenda o papel do plano fiscal na cotação do dólar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "G1 Economia; Estadão Economia",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+  "publicadoEm": "2026-11-20T22:01:51-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-11"
+ },
+ {
+  "titulo": "EWZ cai 3,29% em meio a queda global de tech e dúvidas fiscais no Brasil",
+  "resumo": "O ETF EWZ, que replica o Ibovespa em dólar nos EUA, despencou 3,29% em 20/11. A desvalorização reflete tanto a aversão ao setor de tecnologia americano quanto preocupações com o plano fiscal do governo Lula.",
+  "fatos": [
+   "EWZ caiu 3,29% em 20/11, fechando a US$ 28,54.",
+   "Ibovespa fechou aos 166.376,43 pontos no pregão de 19/11.",
+   "Dólar fechou a R$ 5,9350, alta de 4,95% na semana.",
+   "Nasdaq caiu 5,28% e S&P 500 recuou 3,70% no mesmo dia.",
+   "Índice VIX subiu 31%, alcançando cerca de 36 pontos.",
+   "ADRs de Petrobras caiu 1,72%; Vale 3,46%; Itaú 2,54%.",
+   "Pacote fiscal no Brasil prevê corte de até R$ 60 bilhões.",
+   "Definição do ministro da Fazenda pode sair na próxima semana.",
+   "Dow Jones Brazil Titans 20 ADR caiu 2,48% em 20/11."
+  ],
+  "explicacao": [
+   "Na sexta-feira, 20 de novembro de 2026, o iShares MSCI Brazil ETF (EWZ) despencou 3,29% nos EUA, enquanto o mercado brasileiro esteve fechado pelo feriado da Consciência Negra. Apesar da liquidez inferior ao Ibovespa, o EWZ é um termômetro importante para investidores estrangeiros.",
+   "A queda foi causada pela forte aversão a ações de tecnologia nos EUA, com a Nasdaq caindo 5,28% e o S&P 500 recuando 3,70%. Notícias sobre possível investigação da SEC na Nvidia pioraram o clima, aumentando o índice VIX em 31%.",
+   "Além disso, a percepção negativa sobre o Brasil, em função do plano fiscal considerado insuficiente para conter as contas públicas, contribuiu para a venda de ativos brasileiros no exterior. ADRs da Petrobras, Vale e Itaú também recuaram na Bolsa americana.",
+   "Com o mercado brasileiro fechado até segunda-feira, os investidores continuam atentos à definição da equipe econômica do governo Lula e à efetividade do ajuste fiscal aprovado, que deverá influenciar o humor dos mercados na próxima semana."
+  ],
+  "detalhes": [
+   "O EWZ é o principal ETF brasileiro negociado na Bolsa americana e reflete percepções externas sobre o mercado brasileiro.",
+   "Mercados brasileiros estiveram fechados por feriado da Consciência Negra em 20/11.",
+   "A queda do EWZ foi agravada pela desvalorização de ações de tecnologia nos EUA, destacando a Nvidia sob suspeita.",
+   "O plano fiscal do governo Lula, apesar de recente aprovação no Congresso, ainda gera dúvidas quanto à sustentabilidade das contas públicas brasileiras.",
+   "Investidores aguardam a definição da equipe econômica, com nomes como Rafael Fonteles e Geraldo Alckmin cotados para a Fazenda.",
+   "ADRs são recibos que permitem a compra de ações brasileiras no mercado dos EUA sem operação direta na Bolsa brasileira.",
+   "A alta do dólar frente ao real soma quase 5% na semana, pressionando as empresas e o mercado local."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Adam Turnquist, LPL Financial",
+    "oque": "Disse que o entusiasmo com IPOs de IA não se estende ao mercado de tecnologia, gerando alerta aos investidores."
+   },
+   {
+    "quem": "Tejal Patel",
+    "oque": "Comentou que a queda após IPOs pode indicar volatilidade e alerta para continuidade do movimento."
+   },
+   {
+    "quem": "Richard Saperstein, Treasury Partners",
+    "oque": "Indicou que o mercado revisa preços da IA com desaceleração do setor e expectativa de juros altos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "20/11/2026",
+    "oque": "EWZ e Dow Jones Brazil Titans 20 ADR caem com bolsas americanas fechando em forte baixa."
+   },
+   {
+    "quando": "19/11/2026",
+    "oque": "Ibovespa fecha aos 166.376 pontos antes do feriado no Brasil."
+   },
+   {
+    "quando": "Semana de 16 a 20/11",
+    "oque": "Dólar avança quase 5% frente ao real no período."
+   },
+   {
+    "quando": "Próxima semana",
+    "oque": "Possível decisão sobre o ministro da Fazenda no governo Lula."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "ETF",
+    "significado": "Fundo de índice que replica carteira de ações ou ativos."
+   },
+   {
+    "termo": "ADR",
+    "significado": "Recibo que permite comprar ações estrangeiras nos EUA."
+   },
+   {
+    "termo": "VIX",
+    "significado": "Índice que mede a volatilidade e o risco do mercado americano."
+   }
+  ],
+  "pergunta": "Você acha que o plano fiscal brasileiro traz segurança para os investidores?",
+  "tamanhoTexto": 11716,
+  "numeros": [
+   {
+    "valor": "3,29%",
+    "rotulo": "queda do EWZ em 20/11"
+   },
+   {
+    "valor": "166.376,43",
+    "rotulo": "Ibovespa em pontos em 19/11"
+   },
+   {
+    "valor": "4,95%",
+    "rotulo": "alta do dólar na semana frente ao real"
+   },
+   {
+    "valor": "31%",
+    "rotulo": "alta do índice VIX em 20/11"
+   },
+   {
+    "valor": "60 bilhões",
+    "rotulo": "corte previsto no plano fiscal brasileiro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "EWZ",
+    "antes": "preço anterior não informado",
+    "depois": "queda de 3,29% até US$ 28,54"
+   },
+   {
+    "item": "Nasdaq",
+    "antes": "não informado",
+    "depois": "queda de 5,28%"
+   },
+   {
+    "item": "S&P 500",
+    "antes": "não informado",
+    "depois": "queda de 3,70%"
+   },
+   {
+    "item": "Dólar (Real)",
+    "antes": "R$ 5,65 (aproximado, para +4,95%)",
+    "depois": "R$ 5,9350"
+   }
+  ],
+  "destaque": "queda de 3,29%",
+  "porQueImporta": "A queda do EWZ indica como investidores estrangeiros avaliam os riscos do Brasil, especialmente frente a dúvidas fiscais e dólar forte. Para quem investe em ações brasileiras via exterior, é um sinal claro de maior aversão ao risco e atenção às políticas e condições globais.",
+  "impactoMercado": "Essa pressão pode afetar a liquidez e a precificação dos ativos brasileiros, especialmente bancos, commodities e ações negociadas nos EUA. Também reflete um cenário global com alta volatilidade, juros americanos em alta e dólar valorizado, influenciando custos e apetite por risco.",
+  "entenda": "O EWZ é um ETF que reúne ações das maiores empresas brasileiras e é negociado na Bolsa dos EUA. Assim, mesmo com a B3 fechada, o preço do EWZ mostra a percepção dos investidores externos sobre o Brasil, influenciado tanto por fatores locais quanto internacionais como juros e notícias corporativas.",
+  "observar": "Nas próximas semanas, fique atento à definição do ministro da Fazenda do novo governo e à reação dos mercados ao pacote fiscal em meio a juros internacionais e volatilidade dos setores de tecnologia.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como fatores externos (como a aversão a tecnologia) e internos (dúvidas fiscais) interagem para impactar ativos brasileiros no exterior, despertando o interesse de aprender a navegar nesse cenário.",
+  "gancho": "Queda do *EWZ* e pressão no *dólar*",
+  "ideias": [
+   "O que explica a queda de 3% do EWZ?",
+   "Como a bolsa de tecnologia dos EUA afeta o mercado brasileiro?",
+   "Por que o plano fiscal brasileiro preocupa investidores?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times; InfoMoney; Investidor10",
+  "impacto": "alto",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/",
+  "publicadoEm": "2026-11-20T18:28:06-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-12"
+ },
+ {
+  "titulo": "Ações da Nvidia têm pior queda semanal desde 2008 em Nasdaq",
+  "resumo": "Na sexta (20), ações da Nvidia caíram mais de 7%, marcando a sétima semana seguida de perdas, a pior sequência desde 2008. A empresa agora vale US$ 3,7 trilhões, atrás de Microsoft, Apple e Google.",
+  "fatos": [
+   "Na sexta-feira (20), ações da Nvidia caíram mais de 7% na Nasdaq.",
+   "Nvidia acumula sete semanas consecutivas de queda, pior desde 2008.",
+   "Queda acumulada desde 16 de outubro é de cerca de 30,4%.",
+   "Valor de mercado atual da Nvidia é US$ 3,7 trilhões (R$ 5,95 trilhões).",
+   "Jensen Huang renunciou ao cargo em 12 de novembro de 2026.",
+   "Nasdaq recuou 3,33% na sexta, zerando ganhos acumulados de 2026.",
+   "Ações da Anthropic caíram 6% após alta de 17% na estreia.",
+   "Setores de IA pressionam pela preocupação com custos e riscos regulatórios.",
+   "A ação da Nvidia já sofria pressão por dúvidas sobre a sustentabilidade da demanda por IA."
+  ],
+  "explicacao": [
+   "As ações da Nvidia caíram mais de 7% na sexta-feira, 20 de novembro, na bolsa americana Nasdaq, acumulando a sétima semana seguida de desvalorização. Essa é a pior sequência de quedas da empresa desde 2008.",
+   "A queda recente é consequência de um escândalo interno, que resultou na saída do seu presidente Jensen Huang em 12 de novembro, além da pressão de analistas sobre a sustentabilidade da demanda por inteligência artificial, que vinha impulsionando a empresa.",
+   "O valor de mercado da Nvidia despencou para US$ 3,7 trilhões, caindo para a quarta posição global, atrás de Microsoft, Apple e Alphabet, que controla o Google. A instabilidade no setor de IA também afetou outros papéis na Nasdaq, zerando os ganhos acumulados de 2026.",
+   "Agora, o mercado observa o impacto dos eventos recentes, como a estreia da Anthropic e os balanços trimestrais da Nvidia, que não conseguiram recuperar a confiança dos investidores diante das dúvidas sobre rentabilidade, riscos regulatórios e aumento de custos."
+  ],
+  "detalhes": [
+   "A Nasdaq é a bolsa americana que reúne empresas de tecnologia como Apple, Meta e Tesla.",
+   "A queda representa o pior desempenho da Nvidia desde a crise financeira de 2008.",
+   "Escândalo interno envolvendo suspeita de espionagem levou à saída do presidente Jensen Huang.",
+   "Antes, a Nvidia ocupava o topo mundial entre empresas de capital aberto por valor de mercado.",
+   "O aumento dos custos de empréstimos e riscos regulatórios nos EUA influenciam negativamente o setor de IA.",
+   "A estreia da Anthropic na bolsa tinha gerado expectativa para estabilizar o setor, mas suas ações caíram.",
+   "A queda da Nvidia e outros papéis causou a pior queda semanal dos índices americanos desde abril de 2025."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Sadiq Adatia, diretor de investimentos da BMO Global Asset Management",
+    "oque": "Investidores questionam se os investimentos crescentes estão sendo financiados pela operação principal ou por dívida."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "16 de outubro de 2026",
+    "oque": "Data do fechamento usado para medir a queda acumulada da Nvidia."
+   },
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Jensen Huang renuncia ao cargo de presidente da Nvidia."
+   },
+   {
+    "quando": "20 de novembro de 2026",
+    "oque": "Nvidia cai mais de 7% na Nasdaq, sétima semana seguida de perdas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Nasdaq",
+    "significado": "Bolsa americana onde são negociadas grandes empresas de tecnologia."
+   },
+   {
+    "termo": "Valor de mercado",
+    "significado": "Valor total das ações de uma empresa no mercado."
+   },
+   {
+    "termo": "IPO",
+    "significado": "Oferta pública inicial, quando uma empresa abre ações na bolsa."
+   }
+  ],
+  "pergunta": "Você já operou ações de empresas de inteligência artificial? Como lida com a volatilidade?",
+  "tamanhoTexto": 16234,
+  "numeros": [
+   {
+    "valor": "7%",
+    "rotulo": "queda das ações da Nvidia em 20 de novembro"
+   },
+   {
+    "valor": "7 semanas",
+    "rotulo": "sequência de perdas consecutivas da Nvidia"
+   },
+   {
+    "valor": "30,4%",
+    "rotulo": "queda acumulada da Nvidia desde 16 de outubro"
+   },
+   {
+    "valor": "US$ 3,7 trilhões",
+    "rotulo": "valor de mercado atual da Nvidia"
+   },
+   {
+    "valor": "3,33%",
+    "rotulo": "queda do índice Nasdaq em 20 de novembro"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "queda das ações da Anthropic após estreia"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "30,4% queda acumulada",
+  "porQueImporta": "A queda prolongada da Nvidia indica possível desaceleração no setor de IA e maior cautela dos investidores sobre o modelo de negócios e sustentabilidade dos investimentos em tecnologia, afetando quem opera ações da empresa ou do setor.",
+  "impactoMercado": "Com a queda das ações da Nvidia e outras relacionadas à IA, índices como a Nasdaq registram perdas significativas, gerando volatilidade e impacto em fundos e investidores que apostam no setor tech e inovação.",
+  "entenda": "A Nasdaq é uma bolsa americana que reúne empresas de tecnologia. A Nvidia é líder em chips usados em inteligência artificial, área que teve forte valorização recente mas agora enfrenta dúvidas e quedas devido a eventos internos e mercado.",
+  "observar": "Fique atento ao próximo balanço trimestral da Nvidia e à evolução das ações da Anthropic, além de possíveis notícias sobre regulação do setor e movimentações internas na empresa.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Esta notícia ajuda o investidor a entender riscos recentes no setor de IA e como eventos internos e externos afetam o valor das ações, reforçando a importância do conhecimento para operar o mercado financeiro com segurança.",
+  "gancho": "*Nvidia* enfrenta queda histórica",
+  "ideias": [
+   "Por que as ações da Nvidia caem sete semanas seguidas?",
+   "Entenda o impacto do escândalo interno na Nvidia",
+   "Como a baixa nas ações de IA afeta o mercado tecnológico"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "G1 Economia; InfoMoney; Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
+  "publicadoEm": "2026-11-20T15:47:51-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-13"
+ },
+ {
+  "titulo": "Tempestade no RS destrói lavouras e prejudica grandes empresas do agro",
+  "resumo": "Temporal de 20/11/2026 no RS atingiu lavouras e infraestrutura em Tupanciretã, comprometendo produtores rurais e cooperativas como C.Vale e Grupo Vega.",
+  "fatos": [
+   "Tempestade ocorreu na madrugada de 20 de novembro de 2026 em Tupanciretã, RS.",
+   "Tupanciretã é o segundo maior produtor de soja do RS, com 147 mil hectares previstos para a safra 2026/27.",
+   "Aproximadamente 70% da área de soja já havia sido plantada antes do temporal.",
+   "C.Vale faturou R$ 20,6 bilhões no período jan-set 2026 e movimenta 6,56 milhões de toneladas de produtos agrícolas.",
+   "Grupo Vega anunciou investimento superior a R$ 50 milhões em novo complexo de armazenamento em Tupanciretã em 19/11/2026.",
+   "Tempestade destruiu silos, armazéns e equipamentos da C.Vale e Grupo Vega na região.",
+   "Corsan deslocou nove geradores para recuperar abastecimento de água após queda de energia.",
+   "Defesa Civil identificou passagem de supercélula e ventos de 114 km/h em Tupanciretã.",
+   "33 municípios do RS registraram danos relacionados às tempestades desde 16 de novembro.",
+   "Brasil teve aumento de 67% nas perdas econômicas por eventos climáticos no 1º semestre de 2026, totalizando R$ 51,9 bilhões."
+  ],
+  "explicacao": [
+   "Na madrugada de 20 de novembro de 2026, uma forte tempestade atingiu Tupanciretã, importante região produtora do RS, destruindo lavouras, silos e armazéns, afetando operações agrícolas e industriais.",
+   "A crise financeira dos produtores rurais, já fragilizada por estiagens e alto endividamento, se agravou com perdas no trigo, soja e milho, algumas irreversíveis, e a maioria dos agricultores não tem seguro para cobrir os danos.",
+   "Grandes cooperativas como C.Vale e empresas do Grupo Vega tiveram instalações e estoques danificados, comprometendo a armazenagem, processamento e distribuição, o que elevará custos logísticos e pode atrasar operações.",
+   "A tempestade também danificou a infraestrutura urbana, causando falta de energia e afetando o abastecimento de água em Tupanciretã. A Defesa Civil registrou três mortos, 60 feridos e danos em 33 municípios do RS."
+  ],
+  "detalhes": [
+   "Produtores iniciaram safra 2026/27 com alto endividamento e dificuldade de crédito.",
+   "Perdas de trigo próximas à colheita consideradas irreversíveis.",
+   "Soja precisará de replantio, implicando gastos extras com sementes e máquinas.",
+   "Milho poderá não ser recuperado devido ao calendário agrícola.",
+   "C.Vale opera em seis estados e no Paraguai, atuando em mais de 50 países.",
+   "Grupo Vega tem unidades em RS e atuação no Paraguai e Uruguai, emprega mais de 140 trabalhadores em Tupanciretã.",
+   "Incerteza sobre atrasos em entregas e impacto nas exportações após o temporal."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Antônio da Luz, economista-chefe da Farsul",
+    "oque": "Produtores rurais enfrentam crise financeira grave e alto endividamento, dificultando recuperação das perdas."
+   },
+   {
+    "quem": "Evandro Riboli, gerente regional da C.Vale",
+    "oque": "Três instalações importantes da cooperativa sofreram danos severos que ainda estão sendo avaliados."
+   },
+   {
+    "quem": "Silvana Spiazzi, CEO do Grupo Vega",
+    "oque": "Prioridade é atendimento aos afetados; equipes e recursos foram mobilizados para apoio emergencial."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "16 de novembro de 2026",
+    "oque": "Início do monitoramento das tempestades que atingiram RS."
+   },
+   {
+    "quando": "19 de novembro de 2026",
+    "oque": "Grupo Vega anuncia investimento de R$ 50 milhões em Tupanciretã."
+   },
+   {
+    "quando": "20 de novembro de 2026",
+    "oque": "Tempestade destrói lavouras e instalações em Tupanciretã."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Silo",
+    "significado": "Estrutura para armazenar grãos após a colheita."
+   },
+   {
+    "termo": "Moega",
+    "significado": "Equipamento para receber e encaminhar grãos armazenados."
+   },
+   {
+    "termo": "Safra 2026/27",
+    "significado": "Período de plantio e colheita agrícola entre 2026 e 2027."
+   }
+  ],
+  "pergunta": "Como você avalia o impacto da tempestade no agronegócio do RS?",
+  "tamanhoTexto": 12000,
+  "numeros": [
+   {
+    "valor": "147.000",
+    "rotulo": "hectares de soja previstos para safra 2026/27 em Tupanciretã"
+   },
+   {
+    "valor": "20,6 bilhões",
+    "rotulo": "faturamento da C.Vale entre janeiro e setembro de 2026 (R$)"
+   },
+   {
+    "valor": "6,56 milhões",
+    "rotulo": "toneladas de produtos agrícolas movimentados pela C.Vale em 2025"
+   },
+   {
+    "valor": "50 milhões",
+    "rotulo": "investimento anunciado pelo Grupo Vega para Tupanciretã (R$)"
+   },
+   {
+    "valor": "114 km/h",
+    "rotulo": "rajada máxima de vento registrada pelo Inmet em Tupanciretã"
+   },
+   {
+    "valor": "3",
+    "rotulo": "mortos pela tempestade em Tupanciretã"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Tempestade destrói lavouras",
+  "porQueImporta": "A tempestade agrava uma crise financeira já existente dos produtores rurais no RS, impactando produção, endividamento e infraestrutura. Isso dificulta a recuperação da safra e afeta empresas que movimentam grandes volumes agrícolas e exportações, podendo alterar custos e operações do agronegócio.",
+  "impactoMercado": "Os danos à infraestrutura e plantações elevam custos de produção e logística, pressionando margens do setor agro. A escassez pontual pode afetar oferta regional de soja, milho e trigo. Cooperativas e empresas envolvidas enfrentam desafios operacionais e financeiros, potencialmente impactando suas ações e negócios no curto prazo.",
+  "entenda": "Tempestades severas como essa derrubam plantações e estruturas, causando perdas diretas aos agricultores e empresas do setor. Endividamento e falta de seguro agravam a crise, pois os produtores custeiam prejuízos sozinhos. Infraestrutura danificada dificulta armazenamento e distribuição, elevando custos e podendo atrasar entregas e vendas.",
+  "observar": "Acompanhe atualizações sobre recuperação das instalações das cooperativas, estimativas oficiais de prejuízos agrícolas e dados da safra 2026/27. Fique atento a novos boletins da Defesa Civil e Inmet sobre eventos climáticos na região.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Mostre como eventos climáticos extremos afetam a produção agrícola, empresas e finanças rurais, despertando interesse por entender riscos e operações do mercado financeiro ligado ao agronegócio.",
+  "gancho": "*Tempestade* no RS abala *agro*",
+  "ideias": [
+   "Como a tempestade de novembro impacta a safra gaúcha?",
+   "Endividamento e perdas agrícolas: a crise dos produtores no RS",
+   "Grandes cooperativas do agro enfrentam desafios após temporal"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "raio",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://timesbrasil.com.br/brasil/tempestade-no-rs-compromete-safra-atinge-gigantes-do-agro-e-agrava-crise-de-produtores-endividados/",
+  "publicadoEm": "2026-11-20T20:40:15-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-14"
+ },
+ {
+  "titulo": "Nova POF do IBGE promete retrato melhor da pobreza no Brasil",
+  "resumo": "IBGE divulgará dados da POF 2024–2025 em novembro, atualizando o perfil dos recursos das famílias pobres, incluindo MEIs e trabalhadores por aplicativo.",
+  "fatos": [
+   "A POF investiga detalhadamente rendimentos monetários e não monetários das famílias.",
+   "Pnad Contínua é a principal fonte para indicadores como insegurança alimentar e pobreza.",
+   "Em 2017-2018, renda média mensal per capita dos 10% mais pobres era R$ 96 na Pnad e R$ 217 na POF.",
+   "Entre os 25% mais pobres, renda era R$ 217 na Pnad e R$ 364 na POF no mesmo período.",
+   "POF é feita a cada cinco anos, Pnad é anual.",
+   "Divulgação da POF 2024-2025 está prevista para 27 de novembro.",
+   "Renda irregular e autoconsumo são fundamentais para captar realidade das famílias mais pobres.",
+   "Trabalhadores como MEIs e por aplicativo têm variações significativas de rendimento mensal.",
+   "A complementação entre Pnad e POF visa melhorar diagnósticos para políticas sociais.",
+   "Estudo do livro ‘A desigualdade brasileira caiu?’ usa a POF para metodologia mais abrangente."
+  ],
+  "explicacao": [
+   "O IBGE prepara a divulgação dos primeiros resultados da Pesquisa de Orçamentos Familiares (POF) 2024–2025 em 27 de novembro. Essa pesquisa detalha consumo, despesas e rendimentos monetários e não monetários das famílias brasileiras.",
+   "A POF complementa a Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua), que é referência para análise social, mas não captura com a mesma riqueza renda variável, autoconsumo e outros recursos importantes para os mais pobres.",
+   "Na comparação entre as pesquisas de 2017–2018, a renda mensal média per capita dos 10% mais pobres foi mais que o dobro na POF (R$ 217) frente à Pnad (R$ 96), evidenciando diferenças relevantes para diagnóstico socioeconômico.",
+   "O uso combinado da Pnad e POF pode melhorar a precisão das políticas públicas, identificando melhor necessidades específicas, como qualificação profissional ou transferência de renda, especialmente para trabalhadores informais e MEIs."
+  ],
+  "detalhes": [
+   "A POF detalha rendimentos, consumo e despesas, incluindo recursos não monetários como autoconsumo e doações.",
+   "A Pnad Contínua atualiza anualmente o panorama, mas com menor detalhamento sobre rendimentos irregulares.",
+   "Trabalhadores informais e autônomos nem sempre têm seus rendimentos totalmente captados pela Pnad.",
+   "O INICIO da divulgação da POF 2024-2025 ocorre em 27 de novembro pelo IBGE.",
+   "A POF é realizada quinquenalmente, o que limita sua atualização frequente em comparação à Pnad.",
+   "Os recursos captados pela POF ajudam a identificar necessidades específicas para políticas sociais.",
+   "O estudo citado foi publicado em 2026, com dados históricos de 2017-2018."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ricardo Paes de Barros, economista e autor",
+    "oque": "Usar dados da POF permite medir renda familiar mais próxima da realidade dos mais pobres."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "27 de novembro de 2024",
+    "oque": "Divulgação dos primeiros resultados da POF 2024–2025 pelo IBGE"
+   },
+   {
+    "quando": "2017–2018",
+    "oque": "Dados usados para comparar POF e Pnad sobre renda dos mais pobres"
+   },
+   {
+    "quando": "2026",
+    "oque": "Publicação do livro que analisa desigualdade com dados da POF"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "POF",
+    "significado": "Pesquisa detalhada sobre consumo, renda e despesas das famílias brasileiras."
+   },
+   {
+    "termo": "Pnad Contínua",
+    "significado": "Pesquisa anual que mede renda, emprego e pobreza no país."
+   },
+   {
+    "termo": "MEI",
+    "significado": "Microempreendedor Individual, trabalhador autônomo formalizado."
+   }
+  ],
+  "pergunta": "Você sabia que a renda dos mais pobres pode ser maior do que mostram as pesquisas tradicionais?",
+  "tamanhoTexto": 7720,
+  "numeros": [
+   {
+    "valor": "R$ 217",
+    "rotulo": "Renda média mensal per capita dos 10% mais pobres na POF 2017-2018"
+   },
+   {
+    "valor": "R$ 96",
+    "rotulo": "Renda média mensal per capita dos 10% mais pobres na Pnad 2017-2018"
+   },
+   {
+    "valor": "27 de novembro de 2024",
+    "rotulo": "Data prevista para divulgação da POF 2024-2025"
+   },
+   {
+    "valor": "5 anos",
+    "rotulo": "Periodicidade da realização da POF"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Renda média dos 10% mais pobres",
+    "antes": "R$ 96 na Pnad 2017-2018",
+    "depois": "R$ 217 na POF 2017-2018"
+   },
+   {
+    "item": "Renda média dos 25% mais pobres",
+    "antes": "R$ 217 na Pnad 2017-2018",
+    "depois": "R$ 364 na POF 2017-2018"
+   }
+  ],
+  "destaque": "R$ 217 renda",
+  "porQueImporta": "Para investidores e operadores, entender como o IBGE mede a riqueza real das famílias mais pobres ajuda a captar as bases da demanda interna e do consumo, influenciando setores e políticas sociais que podem impactar o ambiente econômico e financeiro brasileiro.",
+  "impactoMercado": "A atualização dos dados da POF pode afetar a percepção do mercado sobre a vulnerabilidade social, influenciando decisões em setores ligados a consumo, crédito e políticas públicas, além de moldar debates sobre programas sociais e investimentos em qualificação.",
+  "entenda": "A POF é uma pesquisa detalhada que mostra quanto as famílias realmente ganham, considerando não só dinheiro recebido, mas comida própria, moradia e doações, ajudando a entender melhor a pobreza e orientar políticas sociais mais eficazes.",
+  "observar": "Fique atento à divulgação dos resultados da POF 2024-2025 no dia 27 de novembro para acompanhar a atualização das condições de vida das famílias brasileiras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Mostramos como uma pesquisa detalhada do IBGE pode revelar fatos importantes sobre a renda dos mais pobres e influenciar políticas sociais, despertando interesse em estudar o mercado financeiro com base em dados reais.",
+  "gancho": "*POF* e *pobreza*: dados que importam",
+  "ideias": [
+   "Como o IBGE mede a renda dos mais pobres?",
+   "Diferenças entre POF e Pnad: o que muda na análise social?",
+   "Por que entender renda irregular importa para o mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/11/nova-pesquisa-do-ibge-pode-ajudar-a-combater-a-pobreza.shtml",
+  "publicadoEm": "2026-11-20T23:00:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-15"
+ },
+ {
+  "titulo": "Trump exige que Filipinas comprem só produtos agrícolas dos EUA a partir de 1º de janeiro",
+  "resumo": "Donald Trump afirmou que as Filipinas devem adquirir 100% de seus produtos agrícolas dos EUA, substituindo países como Brasil. Negociação inclui também compra de energia americana e envolve questões comerciais e militares.",
+  "fatos": [
+   "Donald Trump fez declaração em 20 de novembro na Casa Branca.",
+   "Filipinas devem comprar 100% de produtos agrícolas dos EUA a partir de 1º de janeiro, segundo Trump.",
+   "Brasil exportou 900 mil toneladas de produtos alimentícios para Filipinas em 2026, totalizando US$ 1,2 bilhão.",
+   "Carne suína representa 251 mil toneladas e US$ 587 milhões dessas exportações brasileiras para Filipinas.",
+   "Carne bovina exportada do Brasil soma 63 mil toneladas e US$ 310 milhões.",
+   "Carnes de aves brasileiras representaram US$ 181 milhões em exportações para as Filipinas em 2026.",
+   "Trump afirmou que a continuidade da aliança comercial e militar dos EUA com as Filipinas depende da compra exclusiva dos produtos americanos.",
+   "Filipinas ainda não confirmaram as afirmações de Trump e disseram que negociações continuam.",
+   "Casa Branca divulgou documento em 18 de novembro destacando a intenção de reduzir déficit comercial ampliando compras agrícolas e de energia dos EUA pelas Filipinas."
+  ],
+  "explicacao": [
+   "O presidente dos Estados Unidos, Donald Trump, declarou em 20 de novembro que as Filipinas terão que comprar apenas produtos agrícolas americanos a partir de 1º de janeiro. A exigência foi feita durante reunião com o presidente filipino Ferdinand Marcos Jr. e inclui também a compra de energia dos EUA.",
+   "Trump justificou a medida afirmando que as Filipinas importavam grandes volumes de produtos agrícolas do Brasil e de outros países, e condicionou a continuidade da relação comercial e militar entre os EUA e as Filipinas à compra exclusiva de produtos agrícolas americanos.",
+   "Essa imposição sinaliza uma possível perda significativa para o agronegócio brasileiro no mercado filipino, que em 2026 exportou cerca de 900 mil toneladas em alimentos, principalmente carnes suína, bovina e de aves, totalizando US$ 1,2 bilhão.",
+   "Embora Trump tenha afirmado o fechamento do acordo para compra exclusiva a partir de janeiro, o governo filipino ainda negocia os termos e não confirmou comprometimento de abandonar fornecedores brasileiros. As conversas bilaterais continuam em andamento."
+  ],
+  "detalhes": [
+   "Exigência feita durante reunião de Trump com o presidente filipino Ferdinand Marcos Jr.",
+   "Filipinas importavam grande quantidade de produtos agrícolas do Brasil, especialmente carnes suína, bovina e de aves.",
+   "Trump relacionou a negociação ao vínculo militar dos EUA com as Filipinas, citando possíveis conflitos na região com a China.",
+   "Governo filipino ainda está negociando e não confirmou exclusividade nas compras.",
+   "Casa Branca destacou ampliar compras filipinas para reduzir déficit comercial dos EUA, sem impor exclusividade.",
+   "Trump também mencionou acordo para compra integral da energia importada pelas Filipinas.",
+   "A declaração foi dada após viagem de Trump à Ásia e reunião da cúpula da Apec."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "As Filipinas vão comprar 100% dos seus produtos agrícolas dos EUA a partir de 1º de janeiro."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "Condicionei a relação comercial e segurança entre nossos países à ampliação das compras americanas."
+   },
+   {
+    "quem": "Donald Trump, presidente dos EUA",
+    "oque": "O Brasil vai ajudar as Filipinas contra a China? Acho que não."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Casa Branca divulga documento sobre intenção de ampliar compras filipinas de produtos e energia dos EUA."
+   },
+   {
+    "quando": "20 de novembro de 2026",
+    "oque": "Trump anuncia condição para Filipinas comprarem só produtos agrícolas americanos a partir de 1º de janeiro."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Agronegócio",
+    "significado": "Conjunto de atividades econômicas ligadas à agricultura e pecuária para produção e comércio."
+   },
+   {
+    "termo": "Déficit comercial",
+    "significado": "Quando um país importa mais do que exporta em termos de valor."
+   },
+   {
+    "termo": "Exportação",
+    "significado": "Venda de bens e serviços para outros países."
+   }
+  ],
+  "pergunta": "Como você acha que essa exclusividade afetará o agronegócio brasileiro no mercado asiático?",
+  "tamanhoTexto": 11045,
+  "numeros": [
+   {
+    "valor": "900 mil toneladas",
+    "rotulo": "exportações brasileiras de alimentos para Filipinas em 2026"
+   },
+   {
+    "valor": "US$ 1,2 bilhão",
+    "rotulo": "valor total das exportações agrícolas brasileiras para Filipinas em 2026"
+   },
+   {
+    "valor": "251 mil toneladas",
+    "rotulo": "volume de carne suína exportada do Brasil para Filipinas"
+   },
+   {
+    "valor": "US$ 587 milhões",
+    "rotulo": "valor das exportações de carne suína brasileira às Filipinas"
+   },
+   {
+    "valor": "63 mil toneladas",
+    "rotulo": "carne bovina exportada às Filipinas pelo Brasil"
+   },
+   {
+    "valor": "US$ 310 milhões",
+    "rotulo": "valor das exportações brasileiras de carne bovina às Filipinas"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "100% produtos agrícolas",
+  "porQueImporta": "A possível exclusividade na compra de produtos agrícolas dos EUA pelas Filipinas pode impactar as exportações brasileiras, especialmente do agronegócio, e alterar fluxos comerciais importantes para o Brasil, depois de volumes significativos já exportados em 2026.",
+  "impactoMercado": "O movimento pode reduzir a participação brasileira no mercado filipino, afetar exportadores do agronegócio e influenciar negociações comerciais internacionais. A amplitude da substituição ainda é incerta, mas o setor agrícola pode enfrentar riscos comerciais relevantes.",
+  "entenda": "Exportações agrícolas envolvem venda de produtos como carnes e grãos a outros países. Negociações comerciais podem incluir exigências de compra exclusiva. Relações comerciais e militares podem estar ligadas, influenciando decisões de importação e acordos internacionais.",
+  "observar": "Acompanhe as negociações comerciais oficiais entre EUA e Filipinas nas próximas semanas e eventuais confirmações do governo filipino sobre as condições de compra exclusiva.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicar a conexão entre negociações internacionais, exportação agrícola e impacto comercial enseja conhecer melhor a dinâmica do mercado e incentivar aprofundamento em estudos financeiros.",
+  "gancho": "*Agronegócio* e *comércio* nas *Filipinas*",
+  "ideias": [
+   "Entenda o acordo agrícola EUA-Filipinas anunciado por Trump",
+   "Como a exclusividade nas compras americanas impacta o Brasil",
+   "O que significa condicionamento comercial ligado à segurança entre países"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Folha Mercado; CNN Brasil",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T23:50:06-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/trump-diz-ter-exigido-que-filipinas-comprem-produtos-agricolas-dos-eua-e-cancelem-negocios-com-brasil.shtml",
+  "publicadoEm": "2026-11-20T17:39:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-16"
+ },
+ {
   "titulo": "Dólar fecha acima de R$ 5,93, maior valor desde abril de 2025",
   "resumo": "Dólar subiu 1,1% nesta quinta (19), chegando a R$ 5,932, maior patamar desde abril de 2025, mesmo após BC vender US$ 1 bilhão para conter alta.",
   "fatos": [
