@@ -49,14 +49,15 @@ def gravar(caminho, obj):
 
 # ---------------- roteiro (mesmo formato da aba Vídeo) ----------------
 def roteiro(n):
-    fim = f"Siga {PERFIL} para entender o mercado todos os dias."
+    fim = "Segue o perfil pra ficar por dentro das novidades do mercado todo dia!"
     material = {k: n.get(k) for k in ("titulo", "resumo", "explicacao", "fatos", "numeros", "comparativo", "declaracoes",
                                        "porQueImporta", "impactoMercado", "entenda", "observar", "fonte")}
     prompt = f"""Você é roteirista de Reels em português do Brasil. Perfil {PERFIL}: notícias do mercado financeiro explicadas de um jeito simples para quem investe ou quer começar.
 NOTÍCIA: {json.dumps(material, ensure_ascii=False)}
 Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um criador de conteúdo brasileiro que prende a atenção: energia, curiosidade e ritmo de Reels. Use frases curtas de impacto, perguntas que puxam a próxima cena ("E sabe o que aconteceu depois?"), viradas ("E não parou aí…"), reticências e vírgulas para marcar pausas, expressões naturais do dia a dia. Nada de clichê de coach, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Escreva os números por extenso quando ajudar a leitura em voz alta, mas no campo "valor" use o número curto. Só use números, nomes e fatos do material.
 Estrutura: gancho forte; o que aconteceu; os números; por que importa; o que muda para quem assiste; um conceito explicado; o que observar; fechamento: {fim}
-Divida em 9 a 12 cenas de 8 a 24 palavras cada. A maioria das cenas é do tipo "cena", com 2 a 4 elementos que aparecem um a um, cada um na palavra da fala que o menciona.
+Nunca escreva @ nem o nome do perfil nas falas (a voz não lê bem); no fechamento, só convide a seguir o perfil para acompanhar as novidades.
+Divida em 9 a 12 cenas de 8 a 24 palavras cada. A maioria das cenas é do tipo "cena", com 3 a 4 elementos que aparecem um a um, cada um na palavra da fala que o menciona.
 Formato: {{"tipo":"cena","topico":"faixa no topo, até 6 palavras em caixa alta","continua":false,"atores":[...]}}
 Elementos (cada um com "gatilho": a palavra exata da fala em que ele entra):
 - {{"tipo":"objeto","objeto":"um dos objetos","rotulo":"etiqueta até 4 palavras","direcao":"sobe|cai","gatilho":""}}
@@ -89,6 +90,7 @@ TONS = {"excited", "serious", "curious", "confident", "warm"}
 def narrar_cena(cliente, texto, tom, antes, depois):
     """Grava uma cena e devolve (mp3, duração, início de cada palavra em segundos)."""
     tag = f"[{tom}] " if tom in TONS and MODELO_VOZ in ("eleven_v4", "eleven_v3") else ""
+    texto = re.sub(r"@[\w.]+", "o perfil", texto)  # a voz tropeça no @ do perfil
     entrada = tag + texto
     extra = {}
     if MODELO_VOZ != "eleven_multilingual_v2":
@@ -149,6 +151,8 @@ def main():
         return
     for n in alvo:
         cenas, legenda = roteiro(n)
+        for c in cenas:  # fala e legenda sem @ do perfil
+            c["narracao"] = re.sub(r"\s{2,}", " ", re.sub(r"@[\w.]+", "o perfil", str(c.get("narracao", "")))).strip()
         pasta = os.path.join(PASTA, n["id"])
         os.makedirs(pasta, exist_ok=True)
         saida, total = [], 0
