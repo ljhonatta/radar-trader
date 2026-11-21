@@ -1,5 +1,801 @@
 [
  {
+  "titulo": "Bitcoin cai ao menor nível em 2 anos com derrocada global",
+  "resumo": "Bitcoin despenca a US$ 55.533, menor patamar desde 09/2024, após hacker na Binance e eleições EUA. Perdeu mais da metade desde pico de US$ 126 mil em 10/2025.",
+  "fatos": [
+   "Bitcoin caiu para US$ 55.533 em 20 e 21 de novembro de 2026.",
+   "Queda acumulada superior a 50% desde pico de US$ 126.000 em outubro de 2025.",
+   "Ataque hacker ocorreu na Binance no final de outubro de 2026.",
+   "ETFs de Bitcoin sofreram retiradas líquidas de mais de US$ 3 bilhões em 2026.",
+   "Nasdaq caiu cerca de 5% em contexto de dúvidas sobre investimentos em IA.",
+   "Liquidação de US$ 2 bilhões em posições compradas em criptomoedas em 24h.",
+   "Corretoras Binance, Bybit e OKX registraram US$ 94,6 milhões em liquidações só numa hora.",
+   "Ethereum, XRP, Solana e BNB também caíram entre 5% e 7%.",
+   "Empresas de mineração como Hut 8 e Core Scientific tiveram queda acima de 13% na bolsa de NY."
+  ],
+  "explicacao": [
+   "Na última semana de novembro de 2026, o Bitcoin caiu a US$ 55.533, valor mais baixo desde setembro de 2024, caindo 6% nos EUA e 5,7% na Ásia, e acumulando queda de mais de 20% no mês.",
+   "A queda foi causada por um ataque hacker à Binance, maior bolsa de criptomoedas, eleitores democratas nas eleições de meio de mandato dos EUA gerando preocupação regulatória, além da alta do dólar e expectativa de juros mais altos do Fed.",
+   "Além disso, fundos negociados em bolsa (ETFs) de Bitcoin sofreram saídas líquidas superiores a US$ 3 bilhões no ano, em meio a desalavancagem e redução do apetite por risco no mercado global de ativos.",
+   "O Bitcoin agora vale menos do que quando Donald Trump, que apoia criptomoedas, retornou à Casa Branca; o mercado vive um ambiente de forte aversão ao risco e percepção pessimista sobre investimentos em ativos digitais."
+  ],
+  "detalhes": [
+   "Queda ocorreu em ambientes de desalavancagem e aumento do dólar.",
+   "Vencedores democratas nas eleições aumentaram incertezas regulatórias para o setor cripto.",
+   "Trade resultou em liquidações massivas devido à alavancagem excessiva dos investidores.",
+   "Expectativa do mercado de juros mais altos pelo Federal Reserve aumenta pressão negativa.",
+   "Retração constante da demanda difere de quedas anteriores marcadas por eventos espetaculares.",
+   "Bitcoin falhou em se comportar como proteção contra inflação no momento.",
+   "Movimento ocorre apesar dos avanços regulatórios obtidos durante a presidência de Trump."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Andy Baehr, diretor-geral da GSR",
+    "oque": "Investidores estão reduzindo exposição ao risco; mercado mostra forte falta de confiança."
+   },
+   {
+    "quem": "Fabian Dori, diretor de investimentos do Sygnum Bank",
+    "oque": "Mercado está interpretando pessimisticamente expectativa de alta dos juros e desaceleração da IA."
+   },
+   {
+    "quem": "Andrew Yang, analista da Kaiko",
+    "oque": "Movimento foi tão rápido por causa da alavancagem em posições compradas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "final de outubro de 2026",
+    "oque": "Ataque hacker à Binance abalou o mercado de criptomoedas."
+   },
+   {
+    "quando": "primeira quinzena de novembro de 2026",
+    "oque": "Vitória democrática nas eleições aumenta incertezas regulatórias."
+   },
+   {
+    "quando": "20 e 21 de novembro de",
+    "oque": "Bitcoin cai para US$ 55.533, mínima desde setembro de 2024."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "ETF (Fundo Negociado em Bolsa)",
+    "significado": "Fundo que replica preço de ativos e é negociado na bolsa, facilitando acesso a investimentos."
+   },
+   {
+    "termo": "Alavancagem",
+    "significado": "Uso de dinheiro emprestado para aumentar potencial de ganhos (e perdas) em operações."
+   },
+   {
+    "termo": "Liquidação",
+    "significado": "Fechamento forçado de posições quando perdas atingem limites, gerando venda rápida."
+   }
+  ],
+  "pergunta": "Você acha que o Bitcoin vai recuperar seu valor ou a queda continua?",
+  "tamanhoTexto": 15914,
+  "numeros": [
+   {
+    "valor": "US$ 55.533",
+    "rotulo": "Preço do Bitcoin no menor nível desde 09/2024"
+   },
+   {
+    "valor": "US$ 126.000",
+    "rotulo": "Pico do Bitcoin em 10/2025"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "Queda do Bitcoin nos EUA em 20/11/2026"
+   },
+   {
+    "valor": "5,7%",
+    "rotulo": "Queda do Bitcoin na Ásia em 21/11/2026"
+   },
+   {
+    "valor": "US$ 3 bilhões",
+    "rotulo": "Retiradas líquidas de ETFs de Bitcoin no ano"
+   },
+   {
+    "valor": "US$ 2 bilhões",
+    "rotulo": "Liquidação em posições compradas em criptomoedas em 24h"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 55.533",
+  "porQueImporta": "A queda do Bitcoin mostra como o mercado cripto é sensível a eventos globais, regulação e cenário macroeconômico, afetando traders e investidores que precisam entender os riscos de volatilidade e desalavancagem nesses ativos digitais.",
+  "impactoMercado": "Com a pressão sobre o Bitcoin e outras criptomoedas, ativos de maior risco ficam voláteis, ETFs sofrem saídas e investidores tendem a buscar proteção em ativos tradicionais, influenciando setores ligados a tecnologia e de ativos digitais.",
+  "entenda": "O Bitcoin é a principal criptomoeda negociada globalmente e seu preço é influenciado por fatores como confiança dos investidores, regulação, juros dos EUA e liquidez. Quando o mercado reduz riscos, o Bitcoin costuma sofrer quedas mais acentuadas por sua alta volatilidade.",
+  "observar": "Acompanhe a divulgação de decisões do Federal Reserve sobre juros e eventos políticos nas eleições norte-americanas, que podem afetar a regulamentação e o apetite por risco no mercado de criptomoedas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explica como eventos internacionais, regulação e mercado financeiro impactam o preço do Bitcoin e a importância de entender volatilidade e riscos no mercado digital.",
+  "gancho": "*Bitcoin* no menor nível desde 2024",
+  "ideias": [
+   "Por que o Bitcoin despencou em novembro de 2026?",
+   "Como o ataque hacker à Binance afetou o mercado cripto?",
+   "Quais fatores externos pressionam o preço das criptomoedas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Cripto",
+  "icone": "queda",
+  "fonte": "Folha Mercado; Money Times; Vietnam.vn",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T13:57:50-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bitcoin-cai-para-o-menor-nivel-em-mais-de-dois-anos-com-derrocada-dos-mercados-globais.shtml",
+  "publicadoEm": "2026-11-21T13:44:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-02"
+ },
+ {
+  "titulo": "Nvidia perde quase US$ 3 trilhões em valor e sofre perda histórica de ações",
+  "resumo": "Ações da Nvidia caíram 13,8% em 20/11, marcando a sétima baixa seguida e queda acumulada de quase 48% desde 6/10. A empresa perdeu quase US$ 3 trilhões em valor de mercado, saindo da liderança global no setor.",
+  "fatos": [
+   "Ações da Nvidia caíram 13,8% em 20/11/2026, a US$ 125,84",
+   "Sete sessões consecutivas de perdas para Nvidia",
+   "Acumulada queda de quase 48% desde 6/10/2026",
+   "Valor de mercado da Nvidia encolheu cerca de US$ 2,5 trilhões",
+   "CEO Jensen Huang deixou empresa em 12/11/2026 após escândalo pessoal",
+   "SEC investiga possíveis irregularidades contábeis na Nvidia",
+   "Departamento de Justiça dos EUA analisa aquisições antitruste",
+   "Nasdaq caiu 5,28% em 20/11/2026, pior desde 2015",
+   "S&P 500 recuou 3,7%, Dow Jones caiu 1,93%",
+   "Índice VIX subiu 26% no mesmo dia, maior nível do ano"
+  ],
+  "explicacao": [
+   "Na sexta-feira, 20 de novembro de 2026, as ações da Nvidia fecharam em forte queda de 13,8%, negociadas a US$ 125,84, marcando sete sessões consecutivas de perdas. Desde 6 de outubro, os papéis acumulam desvalorização próxima de 48%, com valor de mercado encolhendo em cerca de US$ 2,5 trilhões.",
+   "Essa queda intensa ocorreu após uma série de eventos negativos, incluindo a saída do CEO Jensen Huang em 12 de novembro, ligado a escândalos pessoais, além de investigação da SEC por possíveis irregularidades contábeis e apurações antitruste do Departamento de Justiça dos EUA. Preocupações sobre a competitividade da Nvidia diante concorrentes como AMD e Google também pressionaram os investidores.",
+   "O encolhimento do valor da Nvidia impactou negativamente todo o setor de tecnologia, causando o maior tombo do índice Nasdaq desde 2015, com queda de 5,28%, e levando S&P 500 e Dow Jones a entrarem em território de correção, o que significa recuos superiores a 10%. O medo do mercado aumentou, evidenciado pela alta de 26% no índice VIX, o indicador da volatilidade.",
+   "Para os próximos dias, o mercado vai observar o desdobramento das investigações, a nova liderança da Nvidia, os resultados financeiros e as decisões do Federal Reserve sobre juros, que podem influenciar o apetite por risco nas ações de tecnologia e IA."
+  ],
+  "detalhes": [
+   "Jensen Huang, cofundador da Nvidia, saiu após casos de relacionamentos extraconjugais, um deles relacionado a empresária suspeita de espionagem",
+   "A investigada empresa Megaspeed de Cingapura é grande compradora de chips Nvidia e é alvo de suspeitas desde 2024",
+   "Ações da Nvidia negociam a cerca de 9,3 vezes lucro projetado, abaixo da AMD que está em 29 vezes",
+   "Apesar do balanço otimista divulgado em 18/11, com receita prevista a crescer 75%, investidores não reagiram positivamente",
+   "Nvidia saiu do topo global, hoje valendo cerca de US$ 3,1 trilhões, atrás de Apple, Microsoft e Alphabet",
+   "Setor de semicondutores caiu 11% na semana, parte da queda de 7% do setor de tecnologia na bolsa americana",
+   "Outras companhias como AMD, Micron, Sandisk e Broadcom também registraram fortes quedas"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Colette Kress, diretora financeira da Nvidia",
+    "oque": "Garantiu que os clientes continuarão e encerrou a teleconferência afirmando 'nós damos conta'"
+   },
+   {
+    "quem": "Harvey Jones, presidente do conselho da Nvidia",
+    "oque": "Afastamento do CEO ocorreu após divulgação de comportamento pessoal incompatível com código da empresa"
+   },
+   {
+    "quem": "Richard Saperstein, diretor de investimentos da Treasury Partners",
+    "oque": "Disse que o mercado reajusta avaliações sobre IA diante da desaceleração e crescimento mais lento do setor"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "6 de outubro de 2026",
+    "oque": "Nvidia alcançou máxima histórica de valor de mercado"
+   },
+   {
+    "quando": "12 de novembro de 2026",
+    "oque": "Jensen Huang deixou o comando da Nvidia"
+   },
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Nvidia divulgou balanço positivo de receita e lucro"
+   },
+   {
+    "quando": "20 de novembro de 2026",
+    "oque": "Ações da Nvidia caíram 13,8%, sétima sessão consecutiva em baixa"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "SEC",
+    "significado": "Comissão de valores mobiliários dos EUA, que regulam e fiscalizam o mercado"
+   },
+   {
+    "termo": "Valor de mercado",
+    "significado": "Preço total das ações de uma empresa multiplicado pelo número de ações"
+   },
+   {
+    "termo": "Índice Nasdaq",
+    "significado": "Principal índice da bolsa americana para ações de tecnologia"
+   }
+  ],
+  "pergunta": "Você acha que a Nvidia vai se recuperar após essa crise?",
+  "tamanhoTexto": 13122,
+  "numeros": [
+   {
+    "valor": "13,8%",
+    "rotulo": "queda das ações em 20/11"
+   },
+   {
+    "valor": "7",
+    "rotulo": "sessões consecutivas de queda das ações"
+   },
+   {
+    "valor": "48%",
+    "rotulo": "queda acumulada das ações desde 6/10"
+   },
+   {
+    "valor": "2,5 trilhões",
+    "rotulo": "US$ perdidos no valor de mercado da Nvidia"
+   },
+   {
+    "valor": "3,1 trilhões",
+    "rotulo": "valor atual da Nvidia em US$"
+   },
+   {
+    "valor": "5 trilhões",
+    "rotulo": "valor da Nvidia em seu topo global"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Lucro projetado - ação Nvidia",
+    "antes": "mais de 40 vezes (estimativa anterior)",
+    "depois": "cerca de 9,3 vezes"
+   }
+  ],
+  "destaque": "quase 48% de",
+  "porQueImporta": "A queda expressiva da Nvidia impacta o mercado de tecnologia e investidores que aplicam nesse setor. A perda de valor e desconfiança em relação à liderança da empresa indicam riscos maiores e maior volatilidade em ações de IA e semicondutores, influenciando carteiras e estratégias.",
+  "impactoMercado": "O setor de tecnologia, especialmente chips e IA, enfrenta forte pressão. Índices americanos importantes entraram em correção, e o aumento do medo no mercado pode levar investidores a evitarem ativos com risco elevado. A possibilidade de alta nos juros americanos também pesa nesse cenário.",
+  "entenda": "A Nvidia é uma das maiores fabricantes de chips para inteligência artificial, e seu valor de mercado reflete expectativas sobre esse setor. Quedas nas ações indicam perda de confiança dos investidores, que avaliam riscos jurídicos, concorrência e sustentabilidade dos lucros futuros. O índice VIX mede a incerteza e volatilidade do mercado.",
+  "observar": "Acompanhe desdobramentos das investigações da SEC e DOJ, próximos resultados trimestrais da Nvidia, discursos do Fed sobre juros em dezembro e desempenho dos índices Nasdaq, S&P 500 e Dow Jones nos próximos pregões.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Conteúdo que explica com detalhes a crise da Nvidia, ajudando o seguidor a entender riscos e impactos na tecnologia e IA, aproximando de conceitos essenciais do mercado financeiro e da análise de riscos.",
+  "gancho": "Queda *Nvidia* no mercado",
+  "ideias": [
+   "Crise da Nvidia e impacto nas ações de tecnologia",
+   "Entenda por que a Nvidia perdeu US$ 3 trilhões em valor",
+   "Setor de IA em queda: o que aconteceu com a Nvidia?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Valor Econômico; Seu Dinheiro; Exame Invest",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T13:57:50-03:00",
+  "url": "https://valor.globo.com/valor-data/internacional/noticia/2026/11/21/nvidia-perde-us-3-trilhoes-em-valor-de-mercado-em-meio-a-crise-de-governanca-e-investigacao-da-sec.ghtml",
+  "publicadoEm": "2026-11-21T10:37:53-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-03"
+ },
+ {
+  "titulo": "Nasdaq despenca 5% e índice do medo sobe 31% com correção em techs",
+  "resumo": "Na sexta (20), Nasdaq caiu 5,28%, ampliando queda de 2026; VIX subiu 31%. Dúvidas sobre investimentos em IA e queda da Nvidia dominaram o dia.",
+  "fatos": [
+   "Nasdaq caiu 5,28% no dia 20 de novembro de 2026.",
+   "Índice VIX subiu 31%, chegando próximo a 36 pontos.",
+   "S&P 500 caiu 3,70%; Dow Jones recuou 1,93%.",
+   "Ações da Nvidia caíram até 14%, ampliando queda acumulada para quase 50% desde outubro.",
+   "Fabricantes de chips como AMD e Micron tiveram quedas acima de 10%.",
+   "Anthropic recuou 8,5% no segundo dia após sua estreia em IPO.",
+   "71 das 101 empresas do Nasdaq 100 estão em bear market.",
+   "Nasdaq acumula queda de 10,02% em 2026, pior desde março de 2020.",
+   "Venda se espalhou a outras bolsas globais, criptomoedas e commodities.",
+   "Segundo Goldman Sachs, investidores sistemáticos venderam US$ 57 bilhões em ações no último mês."
+  ],
+  "explicacao": [
+   "Na sexta-feira, 20 de novembro de 2026, os mercados americanos sofreram forte turbulência, com o índice Nasdaq caindo 5,28%, aprofundando a correção de suas ações de tecnologia. O índice VIX, conhecido como índice do medo, disparou 31% no pregão, refletindo maior aversão ao risco.",
+   "O movimento foi puxado por dúvidas em relação à continuidade dos altos investimentos em inteligência artificial (IA), impactando fabricantes de semicondutores líderes como Nvidia, AMD, Broadcom e Micron, que tiveram perdas superiores a 10%. Ainda pesaram reportagens sobre investigações da Nvidia sobre práticas contábeis.",
+   "A liquidação afetou significativamente as chamadas \"Magnificent Seven\", grupo de gigantes de tecnologia que perderam mais de US$ 1 trilhão em valor de mercado em poucos dias, com a Nvidia respondendo por quase US$ 440 bilhões. O índice Nasdaq 100 tem 71 das 101 empresas em território de bear market.",
+   "Além dos EUA, as bolsas europeias e asiáticas também fecharam em baixa, com receios sobre desaceleração global, restrições à exportação de chips e custos crescentes dos investimentos. O movimento refletiu em criptomoedas e ADRs brasileiros negociados nos EUA, ampliando o clima de aversão ao risco."
+  ],
+  "detalhes": [
+   "Queda ocorreu em 20 de novembro de 2026, sexta-feira.",
+   "Movimento foi liderado pelo setor de tecnologia e semicondutores.",
+   "VIX é considerado o indicador do medo do mercado nos EUA.",
+   "Investigações da SEC sobre Nvidia pesaram no sentimento dos investidores.",
+   "IPO da Anthropic levantou US$ 81 bilhões, mas suas ações caíram após estreia.",
+   "Venda de ações não ficou restrita ao setor tech; afetou todos os 11 setores do S&P 500.",
+   "Bolsa brasileira B3 estava fechada pelo feriado da Consciência Negra."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Massimo Santicchia, chefe de ações dos EUA da Procyon",
+    "oque": "Movimento atual é uma ampla aversão ao risco, não apenas uma correção de valuation."
+   },
+   {
+    "quem": "Tejal Patel, analista",
+    "oque": "A queda pós-IPO da Anthropic alerta para volatilidade futura e incertezas no setor."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de novembro de 2026",
+    "oque": "Índices já recuaram mais de 2%, Dow Jones abaixo de 50 mil pontos pela primeira vez desde junho."
+   },
+   {
+    "quando": "20 de novembro de 2026",
+    "oque": "Nasdaq cai 5,28%, VIX sobe 31%, ações de tecnologia despencam."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Nasdaq",
+    "significado": "Índice americano que reúne ações principalmente de tecnologia."
+   },
+   {
+    "termo": "Índice VIX",
+    "significado": "Indicador que mede a volatilidade e o medo no mercado financeiro."
+   },
+   {
+    "termo": "Bear market",
+    "significado": "Quando uma ação ou índice cai mais de 20% em relação ao pico recente."
+   }
+  ],
+  "pergunta": "Você acredita que a correção em tecnologia já atingiu o fundo ou ainda tem espaço para queda?",
+  "tamanhoTexto": 16649,
+  "numeros": [
+   {
+    "valor": "5,28%",
+    "rotulo": "queda do Nasdaq no dia 20/11/2026"
+   },
+   {
+    "valor": "31%",
+    "rotulo": "alta do índice VIX no pregão"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "queda acumulada da Nvidia desde outubro"
+   },
+   {
+    "valor": "71",
+    "rotulo": "número de empresas do Nasdaq 100 em bear market"
+   },
+   {
+    "valor": "US$ 81 bilhões",
+    "rotulo": "valor levantado no IPO da Anthropic"
+   },
+   {
+    "valor": "US$ 1 trilhão",
+    "rotulo": "perda em valor de mercado das Magnificent Seven recentemente"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Nasdaq",
+    "antes": "perdas menores em setembro e outubro",
+    "depois": "queda de 5,28% em 20/11/2026"
+   },
+   {
+    "item": "VIX",
+    "antes": "níveis baixos nos meses anteriores",
+    "depois": "subiu 31% no pregão de 20/11/2026"
+   }
+  ],
+  "destaque": "5,28% queda do",
+  "porQueImporta": "A queda do Nasdaq e o salto do índice VIX indicam forte aversão ao risco, especialmente em tecnologia e IA, impactando traders e investidores que acompanham a volatilidade e buscam entender os riscos atuais no mercado.",
+  "impactoMercado": "O movimento pode aumentar a volatilidade nos ativos de tecnologia e semicondutores, influenciar a renda variável global e afetar a disposição de investidores em assumir riscos, com reflexos em ADRs brasileiros e criptomoedas.",
+  "entenda": "O índice Nasdaq reúne muitas empresas de tecnologia e é sensível a expectativas sobre inovação. O VIX mede a volatilidade esperada, sendo chamado de 'índice do medo', que aumenta quando incertezas crescem, impactando o humor do mercado.",
+  "observar": "Fique atento às próximas divulgações de balanços da Nvidia e Anthropic, além de anúncios do Federal Reserve sobre política monetária, que podem influenciar a recuperação ou continuidade da volatilidade.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explicar a correção nas ações de tecnologia e o aumento do medo no mercado ajuda seguidores a entender riscos atuais e o impacto da IA, convidando-os a aprofundar conhecimento financeiro na faculdade.",
+  "gancho": "*Correção* no Nasdaq e *medo* no mercado",
+  "ideias": [
+   "O que moveu a queda de 5% no Nasdaq? Entenda!",
+   "Índice do medo dispara 31%: o que isso significa?",
+   "IA em xeque: por que as ações de tecnologia caíram tanto?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Money Times; Seu Dinheiro; InfoMoney",
+  "impacto": "alto",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T13:57:50-03:00",
+  "url": "https://www.moneytimes.com.br/mercado-do-urso-nasdaq-tem-forte-correcao-e-despenca-5-indice-do-medo-salta-ate-31-com-liquidacao-de-techs/",
+  "publicadoEm": "2026-11-20T18:11:50-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-21-04"
+ },
+ {
+  "titulo": "Diretora do Fed rejeita esperar para subir juros contra inflação",
+  "resumo": "Lisa Cook, do Fed, advertiu em discurso no Chile que adiar alta de juros pode aumentar pressões inflacionárias nos EUA. A inflação medida pelo PCE subiu 3,8% em 12 meses até outubro, permanecendo acima da meta há 67 meses.",
+  "fatos": [
+   "Lisa Cook é diretora do Federal Reserve (Fed) dos Estados Unidos.",
+   "Discurso aconteceu em 20 de novembro, em Santiago, no Chile.",
+   "Índice PCE subiu 3,8% em 12 meses até outubro, núcleo subiu 3,2%.",
+   "Inflação está acima da meta de 2% há 67 meses consecutivos.",
+   "Taxa de desemprego dos EUA estava em 4,1% em outubro.",
+   "PIB dos EUA cresceu 3,4% anualizado no terceiro trimestre de 2023.",
+   "Cook votou para aumento de 25 pontos-base em outubro, mas foi vencida.",
+   "Taxa de juros no intervalo entre 3,75% e 4% após alta em setembro.",
+   "Cook alertou para riscos de altas maiores no futuro se juros forem adiados."
+  ],
+  "explicacao": [
+   "Em 20 de novembro, Lisa Cook, diretora do Federal Reserve, falou em Santiago, Chile, destacando que a política monetária dos EUA precisa ser mais firme para conter a inflação elevada e disseminada pelo país. Ela defendeu que postergar o aumento da taxa básica pode exigir elevações maiores no futuro.",
+   "Cook explicou que a inflação medida pelo índice de preços do PCE avançou 3,8% em 12 meses até outubro, com o núcleo em alta de 3,2%. O Banco Central dos EUA não atingiu a meta de inflação de 2% nos últimos 67 meses, o que preocupa na formação das expectativas de preços e salários.",
+   "A diretora ressaltou que, apesar da economia aquecida – com desemprego em 4,1% e crescimento anualizado do PIB de 3,4% no terceiro trimestre –, as condições financeiras permanecem muito frouxas. Ela foi contra a decisão de manter os juros em outubro e apoiava um aumento de 0,25 ponto percentual naquele mês.",
+   "Cook também apontou que a aposta em investimentos tecnológicos, como em inteligência artificial, cria incertezas, inclusive em custos de produção e no mercado de trabalho, especialmente para jovens. Seu foco atual está na estabilidade dos preços para preservar o equilíbrio econômico."
+  ],
+  "detalhes": [
+   "Lisa Cook discursou em evento organizado pelo Banco Central do Chile.",
+   "Em setembro, Fed elevou taxa de juros para faixa entre 3,75%-4%.",
+   "Em outubro, decidiu-se não alterar os juros, Cook discordou.",
+   "Adiar alta dos juros pode impactar negativamente famílias e sistema financeiro.",
+   "Os riscos globais citados incluem conflitos e bloqueios ao comércio.",
+   "Investimento em IA é um fator de crescimento e desafio econômico.",
+   "Mercado de trabalho continua sólido com 165 mil empregos criados em outubro."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Lisa Cook, diretora do Fed",
+    "oque": "Adiar ajuste dos juros pode exigir altas maiores no futuro e não temos esse luxo."
+   },
+   {
+    "quem": "Lisa Cook, diretora do Fed",
+    "oque": "Dados recentes não indicam retorno consistente à meta oficial de inflação de 2%."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Setembro 2023",
+    "oque": "Fed aumentou juros para intervalo entre 3,75% e 4%."
+   },
+   {
+    "quando": "Outubro 2023",
+    "oque": "Fed manteve juros estáveis; Cook votou por aumento em 25 pontos-base."
+   },
+   {
+    "quando": "20 de novembro de 2023",
+    "oque": "Lisa Cook falou no Chile defendendo política monetária mais rigorosa."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fed",
+    "significado": "Banco Central dos Estados Unidos, que define políticas monetárias."
+   },
+   {
+    "termo": "PCE",
+    "significado": "Índice de preços que mede os gastos de consumo, usado para medir inflação."
+   },
+   {
+    "termo": "Taxa de juros",
+    "significado": "Custo do dinheiro, influencia empréstimos e investimentos."
+   }
+  ],
+  "pergunta": "Como você acha que a alta dos juros do Fed afeta o mercado financeiro no Brasil?",
+  "tamanhoTexto": 4570,
+  "numeros": [
+   {
+    "valor": "3,8%",
+    "rotulo": "alta do índice PCE em 12 meses até outubro"
+   },
+   {
+    "valor": "3,2%",
+    "rotulo": "alta do núcleo do índice PCE no mesmo período"
+   },
+   {
+    "valor": "67 meses",
+    "rotulo": "tempo que a inflação está acima da meta de 2%"
+   },
+   {
+    "valor": "4,1%",
+    "rotulo": "taxa de desemprego nos EUA em outubro"
+   },
+   {
+    "valor": "3,4%",
+    "rotulo": "crescimento anualizado do PIB no 3º trimestre"
+   },
+   {
+    "valor": "0,25 ponto percentual",
+    "rotulo": "aumento defendido por Cook em outubro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa de juros",
+    "antes": "3,5% a 3,75% em agosto",
+    "depois": "3,75% a 4% após setembro"
+   }
+  ],
+  "destaque": "3,8% inflação PCE",
+  "porQueImporta": "A postura do Fed em elevar os juros impacta o custo do crédito e a inflação, afetando diretamente o poder de compra das famílias e os investimentos das empresas. Entender essa dinâmica ajuda investidores a interpretar movimentos em títulos, ações e dólar.",
+  "impactoMercado": "Um Fed mais duro com a inflação tende a elevar juros e fortalecer o dólar, influenciando juros futuros, ações de setores sensíveis ao crédito e investimentos ligados ao mercado interno nos EUA e globalmente.",
+  "entenda": "A inflação medida pelo PCE é o indicador oficial do Fed para definir metas. Quando está acima da meta (2%), o banco central pode aumentar juros para desaquecer a economia e controlar preços elevados.",
+  "observar": "Acompanhe decisões e declarações oficiais do Fed nas próximas reuniões e dados mensais de inflação divulgados nos EUA para entender os próximos passos da política monetária.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos como o Fed pensa em controlar a inflação e por que isso é fundamental para quem quer dominar o mercado financeiro, mostrando impactos diretos dos juros no cotidiano.",
+  "gancho": "*Fed* e *Juros*: inflação em foco",
+  "ideias": [
+   "Por que o Fed não pode esperar para aumentar juros?",
+   "Entenda o impacto da inflação elevada para o mercado financeiro",
+   "Como a decisão do Fed afeta investidores e famílias nos EUA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T13:57:50-03:00",
+  "url": "https://bpmoney.com.br/economia/internacional-economia/diretora-fed-lisa-cook-nao-temos-esse-luxo-inflacao-juros/",
+  "publicadoEm": "2026-11-20T16:52:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-21-05"
+ },
+ {
+  "titulo": "Bayer fechará acordo de até US$ 7,25 bi para processos do Roundup",
+  "resumo": "Justiça dos EUA aprovou acordo de até US$ 7,25 bilhões para encerrar processos contra Bayer por Roundup. Indenizações vão cobrir pessoas com linfoma não-Hodgkin associadas ao uso do herbicida.",
+  "fatos": [
+   "Justiça dos EUA aprovou acordo no dia 20 de outubro.",
+   "Valor máximo do acordo é de US$ 7,25 bilhões.",
+   "Pagamentos poderão ocorrer ao longo de 20 anos.",
+   "Indenizações variam entre US$ 10 mil e US$ 165 mil.",
+   "Processos relacionam Roundup ao linfoma não-Hodgkin.",
+   "Suprema Corte dos EUA modificou fundamentos jurídicos em junho.",
+   "Juiz Timothy Boyer chamou as indenizações de justas e adequadas.",
+   "CEO Bill Anderson comentou o acordo como marco decisivo.",
+   "Bayer nega relação entre herbicida e câncer.",
+   "Bayer já havia modificado fórmula do Roundup para uso doméstico."
+  ],
+  "explicacao": [
+   "No dia 20 de outubro, um juiz do Missouri aprovou um acordo nacional que obriga a Bayer a pagar até US$ 7,25 bilhões para encerrar milhares de processos nos EUA. Esses processos acusam o herbicida Roundup de causar linfoma não-Hodgkin.",
+   "Os processos envolvem pessoas que afirmam ter desenvolvido a doença após usar o produto, alegando falta de advertência sobre os riscos. O acordo inclui compensação para quem já tem diagnóstico e para futuros casos em até 20 anos.",
+   "Com pagamentos que vão de US$ 10 mil a US$ 165 mil por pessoa, a Bayer tenta reduzir a imprevisibilidade financeira e as despesas judiciais, embora continue negando que o Roundup provoque câncer.",
+   "O acordo foi influenciado pela decisão da Suprema Corte dos EUA que limitou ações estaduais contra a Bayer, tornando o acordo uma solução para mitigar riscos e custos futuros dos litígios."
+  ],
+  "detalhes": [
+   "O acordo engloba tanto quem já tem o diagnóstico quanto futuros casos ligados ao Roundup.",
+   "Os valores de indenização dependem da idade, gravidade e exposição ao produto.",
+   "A decisão do juiz do Missouri é um dos maiores acordos coletivos em danos pessoais nos EUA.",
+   "A Suprema Corte limitou processos baseados em legislação estadual contra a Bayer.",
+   "A decisão da Suprema Corte ocorreu em junho antes do acordo ser aprovado.",
+   "O CEO da Bayer, Bill Anderson, declarou que o acordo ajuda a mitigar riscos legais.",
+   "A Bayer considerou retirar o Roundup do mercado agrícola americano, mas buscou o acordo para maior estabilidade."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bill Anderson, CEO da Bayer",
+    "oque": "Homologação é marco decisivo para mitigar riscos de litígios do Roundup."
+   },
+   {
+    "quem": "Juiz Timothy Boyer, de St. Louis",
+    "oque": "Indenizações previstas são justas e adequadas para participantes."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "junho de 2023",
+    "oque": "Suprema Corte dos EUA modifica fundamentos jurídicos dos processos contra Bayer."
+   },
+   {
+    "quando": "20 de outubro de 2023",
+    "oque": "Juiz do Missouri aprova acordo nacional da Bayer para indenizações do Roundup."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Linfoma não-Hodgkin",
+    "significado": "Tipo de câncer que afeta sistema linfático."
+   },
+   {
+    "termo": "Herbicida",
+    "significado": "Produto químico para eliminar plantas indesejadas."
+   },
+   {
+    "termo": "Acordo judicial",
+    "significado": "Compromisso para encerrar processos com pagamento acordado."
+   }
+  ],
+  "pergunta": "Você sabia desse acordo bilionário entre Bayer e consumidores do Roundup?",
+  "tamanhoTexto": 5402,
+  "numeros": [
+   {
+    "valor": "7,25 bilhões",
+    "rotulo": "valor máximo do acordo em dólares"
+   },
+   {
+    "valor": "20",
+    "rotulo": "anos para pagamentos do acordo"
+   },
+   {
+    "valor": "10 mil a 165 mil",
+    "rotulo": "faixa de indenizações individuais em dólares"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 7,25 bilhões",
+  "porQueImporta": "Esse acordo importa para quem investe pois reduz a incerteza financeira da Bayer relacionada a litígios potencialmente altos. A solução financeira pode afetar o balanço da empresa e surgem aprendizados sobre riscos jurídicos em ativos agroquímicos.",
+  "impactoMercado": "O acordo pode diminuir volatilidade nas ações da Bayer e setores ligados ao agronegócio, enquanto destaca riscos legais em empresas do ramo químico. Investidores poderão avaliar a estabilidade futura da empresa diante de despesas judiciais controladas.",
+  "entenda": "O acordo judicial é um pagamento negociado para encerrar processos coletivos que acusam o Roundup da Bayer de causar câncer. A Justiça aprova valor e condições para compensar vítimas e evitar disputas judiciais longas e incertas.",
+  "observar": "Acompanhe possíveis novos pagamentos ao longo dos próximos 20 anos e desdobramentos de processos jurídicos similares em setores agroquímicos nos EUA e globalmente.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Notícia exemplifica como riscos jurídicos afetam empresas globais e a importância de entender litígios no mercado financeiro para avaliar ativos e estratégias corporativas.",
+  "gancho": "*Bayer* e *Roundup*: acordo bilionário",
+  "ideias": [
+   "Entenda o acordo da Bayer com consumidores do Roundup",
+   "O que o acordo judicial bilionário significa para a Bayer",
+   "Como riscos legais afetam grandes empresas agroquímicas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "escudo",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T13:57:50-03:00",
+  "url": "https://bpmoney.com.br/economia/internacional-economia/bayer-acordo-7-bilhoes-roundup-cancer-eua/",
+  "publicadoEm": "2026-11-21T13:01:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-06"
+ },
+ {
+  "titulo": "Disney cortará milhares de empregos para poupar US$ 3 bilhões até 2029",
+  "resumo": "A Disney espera economizar US$ 3 bilhões anuais até 2029 com cortes e reestruturação, liderada por CEO Josh D’Amaro.",
+  "fatos": [
+   "Meta de economia anual de US$ 3 bilhões até 2029",
+   "Cortes envolveram milhares de postos de trabalho em 2023",
+   "Orçamento para conteúdo em 2024 será de US$ 26 bilhões, aumento de 9%",
+   "Receita de US$ 25,95 bilhões no quarto trimestre, alta de 16%",
+   "Lucro por ação ajustado de US$ 1,77, avanço de 59%",
+   "Parques tiveram aumento de 4% no público global, exceto China",
+   "Streaming gerou lucro de US$ 824 milhões, mais que o dobro do ano anterior",
+   "Disney deixará de divulgar lucro separado do streaming neste ano fiscal",
+   "Ações da Disney subiram 28% desde julho",
+   "Filme 'Vingadores: Doutor Destino' estreia no próximo mês, expectativa alta"
+  ],
+  "explicacao": [
+   "A Disney anunciou planos para economizar US$ 3 bilhões por ano até 2029, como parte da estratégia do CEO Josh D’Amaro para tornar a empresa mais competitiva, principalmente no mercado global de streaming.",
+   "Para alcançar essa economia, a empresa realizou diversas rodadas de demissões, cortando milhares de empregos, e ofereceu desligamento voluntário para funcionários antigos. Esses esforços fazem parte de uma redução ampla de custos.",
+   "Ao mesmo tempo, a companhia vai aumentar seu orçamento para produção de conteúdo em 9%, chegando a US$ 26 bilhões, com foco em esportes e conteúdos em idiomas estrangeiros, visando ampliar assinantes no Disney+ ao redor do mundo.",
+   "Os resultados financeiros recentes mostraram crescimento na receita e no lucro, impulsionados por parques e streaming, o que reforça a confiança da Disney em acelerar seus investimentos e aproveitar o crescimento esperado para o ano fiscal."
+  ],
+  "detalhes": [
+   "Cortes e programa de desligamento voluntário são parte da reestruturação",
+   "Economia será reinvestida em produção, esportes e conteúdo estrangeiro",
+   "Crescimento nos parques impulsionado por Walt Disney World e Disneyland Paris",
+   "Redução de público nas Disneylands de Shanghai e Hong Kong devido a pressão na China",
+   "Semana adicional no trimestre beneficiou resultados financeiros recentes",
+   "Parceria com TikTok para incluir criadores digitais no Disney+ iniciará em abril",
+   "Super Bowl será transmitido pela primeira vez pela ESPN, ABC e Disney+ em fevereiro"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Hugh Johnston, diretor financeiro da Disney",
+    "oque": "Redução de custos será revertida para investimentos em crescimento e conteúdo."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Ano fiscal de 2029",
+    "oque": "Meta de economia anual de US$ 3 bilhões deverá ser alcançada"
+   },
+   {
+    "quando": "Quarto trimestre fiscal recente",
+    "oque": "Divulgação de resultados financeiros fortes da Disney"
+   },
+   {
+    "quando": "Próximo mês",
+    "oque": "Estreia do filme 'Vingadores: Doutor Destino'"
+   },
+   {
+    "quando": "Fevereiro",
+    "oque": "Super Bowl transmitido pela ESPN, ABC e Disney+"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Streaming",
+    "significado": "Transmissão de vídeo e áudio pela internet ao vivo ou sob demanda."
+   },
+   {
+    "termo": "Lucro por ação (LPA)",
+    "significado": "Lucro líquido dividido pelo número de ações, usado para medir rentabilidade."
+   },
+   {
+    "termo": "Orçamento de conteúdo",
+    "significado": "Recursos destinados à criação e aquisição de produções para a plataforma."
+   }
+  ],
+  "pergunta": "O que você acha dos cortes para investir mais em streaming e conteúdo global?",
+  "tamanhoTexto": 4807,
+  "numeros": [
+   {
+    "valor": "3 bilhões",
+    "rotulo": "Economia anual projetada em dólares até 2029"
+   },
+   {
+    "valor": "26 bilhões",
+    "rotulo": "Orçamento para produção de conteúdo em dólares no ano fiscal"
+   },
+   {
+    "valor": "25,95 bilhões",
+    "rotulo": "Receita trimestral da Disney em dólares"
+   },
+   {
+    "valor": "16%",
+    "rotulo": "Crescimento da receita no trimestre"
+   },
+   {
+    "valor": "1,77",
+    "rotulo": "Lucro por ação ajustado, em dólares"
+   },
+   {
+    "valor": "59%",
+    "rotulo": "Crescimento do lucro por ação em relação ao ano anterior"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 3 bilhões",
+  "porQueImporta": "Economizar US$ 3 bilhões permite à Disney reforçar investimentos em conteúdo e expansão global do Disney+, fatores que influenciam diretamente o crescimento da empresa e o desempenho de suas ações no mercado.",
+  "impactoMercado": "Os cortes e novos investimentos podem afetar setores ligados a entretenimento e mídia, influenciando o comportamento das ações da Disney e o desempenho dos serviços de streaming e parques temáticos.",
+  "entenda": "A Disney está reduzindo custos com demissões para economizar e investir mais em conteúdo para streaming, usando o dinheiro poupado para ampliar sua base global de assinantes, especialmente via Disney+.",
+  "observar": "Acompanhe os próximos resultados financeiros da Disney e a estreia de 'Vingadores: Doutor Destino', que podem influenciar o desempenho do streaming e parques em 2024.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia mostra como grandes empresas reestruturam gastos para crescer no mercado digital, mostrando a importância de entender fundamentos do mercado para operar com mais conhecimento.",
+  "gancho": "*Disney* reduz custos e investe *streaming*",
+  "ideias": [
+   "Por que a Disney está cortando empregos?",
+   "Como os cortes impactam o Disney+ e os investidores?",
+   "Resultados financeiros da Disney mostram crescimento em 2023"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "raio",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T13:57:50-03:00",
+  "url": "https://investnews.com.br/the-wall-street-journal/disney-corta-milhares-de-empregos-e-preve-economizar-us-3-bilhoes-ate-2029/",
+  "publicadoEm": "2026-11-21T06:00:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-07"
+ },
+ {
   "titulo": "IPO recorde da Anthropic e balanços fracos no Brasil marcam semana",
   "resumo": "Anthropic levantou US$ 81,3 bilhões no maior IPO da história. No Brasil, só 19% das empresas superaram estimativas de EBITDA no 3º tri, menor desde 2021.",
   "fatos": [
@@ -8436,53 +9232,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 56.5% de chance de aumento de 25 bps pelo Fed em janeiro",
-  "resumo": "Os investidores têm uma expectativa moderada de aumento contínuo nas taxas de juros ao começar o ano, refletindo um panorama de política monetária cautelosa.",
+  "titulo": "Mercado de previsões vê 48,5% de chance de sem mudança nas taxas do Fed em janeiro",
+  "resumo": "Embora haja expectativa de estabilidade nas taxas, o mercado permanece alerta às possíveis mudanças.",
   "probs": [
    {
-    "opcao": "Aumento de 25 bps",
-    "prob": 56.5
-   },
-   {
     "opcao": "Sem alteração",
-    "prob": 39.5
+    "prob": 48.5
    },
    {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 1.2
+    "opcao": "Aumento de 25 bps",
+    "prob": 45.5
    },
    {
     "opcao": "Redução de 25 bps",
+    "prob": 2.3
+   },
+   {
+    "opcao": "Aumento de 50+ bps",
     "prob": 1.1
    }
   ],
   "prazo": "2027-01-28",
-  "volume24h": "US$ 117 mil",
+  "volume24h": "US$ 149 mil",
   "fatos": [
-   "Aumento de 25 bps: 56,5%",
-   "Sem alteração: 39,5%",
-   "Aumento de 50+ bps: 1,2%",
-   "Redução de 25 bps: 1,1%"
+   "Sem alteração: 48,5%",
+   "Aumento de 25 bps: 45,5%",
+   "Redução de 25 bps: 2,3%",
+   "Aumento de 50+ bps: 1,1%"
   ],
   "numeros": [
    {
-    "valor": "56,5%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "39,5%",
+    "valor": "48,5%",
     "rotulo": "Sem alteração"
    },
    {
-    "valor": "1,2%",
-    "rotulo": "Aumento de 50+ bps"
+    "valor": "45,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "2,3%",
+    "rotulo": "Redução de 25 bps"
    },
    {
     "valor": "1,1%",
-    "rotulo": "Redução de 25 bps"
+    "rotulo": "Aumento de 50+ bps"
    }
   ],
-  "destaque": "56,5%",
+  "destaque": "48,5%",
   "gancho": "*Expectativa moderada* de aumento",
   "entenda": "As decisões do Fed sobre taxas de juros influenciam o mercado financeiro e as expectativas econômicas, afetando investimento e consumo.",
   "categoria": "Previsões",
@@ -8497,7 +9293,7 @@
   "data": "2026-11-18",
   "status": "atualizada",
   "id": "2026-11-18-p1",
-  "atualizadoEm": "2026-11-20T15:01:54-03:00"
+  "atualizadoEm": "2026-11-21T13:57:50-03:00"
  },
  {
   "tipo": "sinal",
