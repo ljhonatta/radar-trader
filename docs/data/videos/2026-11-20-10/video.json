@@ -1,0 +1,459 @@
+{
+ "noticiaId": "2026-11-20-10",
+ "titulo": "Queda em Wall Street reacende dúvidas sobre rali da inteligência artificial",
+ "perfil": "@traderjhonatta",
+ "voz": "JBFqnCBsd6RMkjVDRZzb",
+ "modelo": "eleven_v4",
+ "criadoEm": "2026-11-21T10:10:48-03:00",
+ "cenas": [
+  {
+   "cap": "QUEDA CHOCANTE",
+   "narracao": "Semana pesada em Wall Street! Tecnologia despencou, e o Nasdaq caiu mais de cinco por cento em um único dia.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "QUEDA CHOCANTE",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "5,28%",
+      "rotulo": "Queda do Nasdaq",
+      "gatilho": "mais de cinco por cento"
+     }
+    ]
+   },
+   "audio": "cena-01.mp3",
+   "dur": 7.83,
+   "tw": [
+    0.16,
+    0.64,
+    1.36,
+    1.56,
+    1.76,
+    2.48,
+    3.12,
+    4.04,
+    4.12,
+    4.24,
+    4.8,
+    5.08,
+    5.28,
+    5.6,
+    5.84,
+    6.16,
+    6.32,
+    6.48,
+    6.72,
+    7.04
+   ]
+  },
+  {
+   "cap": "QUEDA CHOCANTE",
+   "narracao": "Sabe o que aconteceu depois? Dow Jones e S&P entraram em correção com perdas próximas de dez por cento na semana.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "QUEDA CHOCANTE",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "10,02%",
+      "rotulo": "Perda semanal Nasdaq",
+      "gatilho": "próximas de dez por cento"
+     }
+    ]
+   },
+   "audio": "cena-02.mp3",
+   "dur": 7.91,
+   "tw": [
+    0.16,
+    0.4,
+    0.453,
+    0.56,
+    1.04,
+    1.92,
+    2.24,
+    2.6,
+    2.8,
+    3.36,
+    3.84,
+    4.0,
+    4.64,
+    4.88,
+    5.24,
+    5.8,
+    6.04,
+    6.24,
+    6.6,
+    6.8,
+    6.96
+   ]
+  },
+  {
+   "cap": "O IMPACTO",
+   "narracao": "Esse tombo está assombrando investidores com receio dos juros mais altos e da AI que não entrega resultados rápidos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "O IMPACTO",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "seta-baixo",
+      "rotulo": "Juros mais altos",
+      "direcao": "cai",
+      "gatilho": "juros mais altos"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "seta-baixo",
+      "rotulo": "Incerteza IA",
+      "direcao": "cai",
+      "gatilho": "receio dos juros"
+     }
+    ]
+   },
+   "audio": "cena-03.mp3",
+   "dur": 7.91,
+   "tw": [
+    0.08,
+    0.48,
+    0.8,
+    1.16,
+    1.84,
+    2.56,
+    2.84,
+    3.24,
+    3.4,
+    3.72,
+    4.08,
+    4.6,
+    4.72,
+    4.92,
+    5.36,
+    5.493,
+    5.72,
+    6.24,
+    6.76
+   ]
+  },
+  {
+   "cap": "NÚMEROS QUE IMPACTAM",
+   "narracao": "Olha só Nvidia caindo quase quatorze por cento! E o IPO da Anthropic que levantou noventa e três bilhões, mas já caiu oito por cento.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "NÚMEROS QUE IMPACTAM",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "13,8%",
+      "rotulo": "Queda Nvidia",
+      "gatilho": "quatorze por cento"
+     },
+     {
+      "tipo": "numero",
+      "valor": "93,5 bilhões",
+      "rotulo": "IPO Anthropic",
+      "gatilho": "noventa e três bilhões"
+     },
+     {
+      "tipo": "numero",
+      "valor": "8,5%",
+      "rotulo": "Queda pós-IPO",
+      "gatilho": "oito por cento"
+     }
+    ]
+   },
+   "audio": "cena-04.mp3",
+   "dur": 9.11,
+   "tw": [
+    0.08,
+    0.4,
+    0.64,
+    1.12,
+    1.48,
+    1.8,
+    2.4,
+    2.72,
+    3.333,
+    3.4,
+    3.52,
+    3.96,
+    4.08,
+    4.72,
+    4.96,
+    5.4,
+    5.8,
+    5.92,
+    6.24,
+    7.04,
+    7.2,
+    7.36,
+    7.68,
+    8.0,
+    8.16
+   ]
+  },
+  {
+   "cap": "POR QUE IMPORTA",
+   "narracao": "Esse cenário revela como tecnologia e AI são voláteis quando juros sobem e lucros ficam incertos, mexendo direto na confiança.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "POR QUE IMPORTA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "etiqueta",
+      "texto": "Volatilidade alta",
+      "gatilho": "voláteis"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "escudo",
+      "rotulo": "Confiança abalada",
+      "direcao": "cai",
+      "gatilho": "confiança"
+     }
+    ]
+   },
+   "audio": "cena-05.mp3",
+   "dur": 9.43,
+   "tw": [
+    0.08,
+    0.4,
+    1.0,
+    1.44,
+    1.68,
+    2.56,
+    2.72,
+    3.2,
+    3.36,
+    4.16,
+    4.44,
+    4.8,
+    5.32,
+    5.44,
+    5.84,
+    6.24,
+    7.12,
+    7.68,
+    8.0,
+    8.2
+   ]
+  },
+  {
+   "cap": "O QUE MUDA PARA VOCÊ",
+   "narracao": "Quem investe em tech ou AI precisa redobrar atenção e paciência. O mercado pode balançar mais, exige gestão de risco.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "O QUE MUDA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "balanca",
+      "rotulo": "Gestão de risco",
+      "direcao": "cai",
+      "gatilho": "gestão de risco"
+     },
+     {
+      "tipo": "etiqueta",
+      "texto": "Paciência",
+      "gatilho": "paciência"
+     }
+    ]
+   },
+   "audio": "cena-06.mp3",
+   "dur": 8.95,
+   "tw": [
+    0.067,
+    0.24,
+    0.72,
+    1.04,
+    1.28,
+    1.52,
+    2.12,
+    2.48,
+    3.16,
+    3.56,
+    3.68,
+    4.773,
+    4.88,
+    5.36,
+    5.6,
+    6.16,
+    6.72,
+    7.36,
+    7.72,
+    7.84
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "Nasdaq reúne empresas de tecnologia, que puxaram o rali da inteligência artificial. Queda de dez por cento é sinal de correção.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "ENTENDA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "barras",
+      "rotulo": "Queda 10%",
+      "direcao": "cai",
+      "gatilho": "dez por cento"
+     }
+    ]
+   },
+   "audio": "cena-07.mp3",
+   "dur": 9.11,
+   "tw": [
+    0.16,
+    0.8,
+    1.24,
+    1.72,
+    1.84,
+    2.88,
+    3.067,
+    3.52,
+    3.76,
+    4.0,
+    4.16,
+    4.8,
+    5.96,
+    6.28,
+    6.4,
+    6.64,
+    6.88,
+    7.36,
+    7.48,
+    7.8,
+    7.92
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "Já o VIX mede o medo do mercado e saltou quarenta por cento, sinal de nervosismo, maior alta desde abril do ano passado.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "ENTENDA",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "39%",
+      "rotulo": "Alta VIX",
+      "gatilho": "quarenta por cento"
+     }
+    ]
+   },
+   "audio": "cena-08.mp3",
+   "dur": 8.71,
+   "tw": [
+    0.16,
+    0.4,
+    0.56,
+    1.04,
+    1.36,
+    1.56,
+    1.76,
+    2.0,
+    2.52,
+    2.64,
+    3.04,
+    3.52,
+    3.84,
+    4.48,
+    4.76,
+    4.84,
+    5.92,
+    6.4,
+    6.72,
+    7.04,
+    7.32,
+    7.44,
+    7.68
+   ]
+  },
+  {
+   "cap": "O QUE OBSERVAR",
+   "narracao": "Fique ligado nas próximas decisões do Fed, dados econômicos e resultados das empresas de tecnologia para entender os próximos passos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "O QUE OBSERVAR",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "relogio",
+      "rotulo": "Decisões do Fed",
+      "direcao": "cai",
+      "gatilho": "decisões do Fed"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "calendario",
+      "rotulo": "Dados econômicos",
+      "direcao": "sobe",
+      "gatilho": "dados econômicos"
+     }
+    ]
+   },
+   "audio": "cena-09.mp3",
+   "dur": 8.79,
+   "tw": [
+    0.08,
+    0.4,
+    0.8,
+    1.04,
+    1.52,
+    2.08,
+    2.24,
+    2.88,
+    3.2,
+    4.0,
+    4.08,
+    4.8,
+    5.0,
+    5.52,
+    5.64,
+    6.48,
+    6.72,
+    7.2,
+    7.32,
+    7.92
+   ]
+  },
+  {
+   "cap": "FECHAMENTO",
+   "narracao": "Quer entender o mercado todo dia, com informação simples e direta? Siga @traderjhonatta e fique por dentro!",
+   "visual": {
+    "tipo": "fim",
+    "texto": "Seguir"
+   },
+   "audio": "cena-10.mp3",
+   "dur": 7.35,
+   "tw": [
+    0.067,
+    0.24,
+    0.6,
+    0.76,
+    1.2,
+    1.52,
+    2.0,
+    2.24,
+    2.8,
+    3.2,
+    3.28,
+    4.12,
+    4.56,
+    5.96,
+    6.12,
+    6.4,
+    6.56
+   ]
+  }
+ ],
+ "legenda": "Semana de fortes quedas em Wall Street indica que o rali da inteligência artificial está sendo questionado. A tecnologia, que liderou grandes ganhos, agora sofre com incertezas por juros mais altos e atrasos nos ganhos de produtividade.\n\nInvestidores precisam estar atentos às próximas decisões econômicas e ter cautela nessa volatilidade. Para entender o que vem pela frente, acompanhe nosso conteúdo diário.\nFonte: Valor Econômico\n#mercadofinanceiro #inteligenciaartificial #wallstreet #investimentos #traderjhonatta"
+}
