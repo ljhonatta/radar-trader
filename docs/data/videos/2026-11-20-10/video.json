@@ -4,456 +4,319 @@
  "perfil": "@traderjhonatta",
  "voz": "JBFqnCBsd6RMkjVDRZzb",
  "modelo": "eleven_v4",
- "criadoEm": "2026-11-21T10:10:48-03:00",
+ "criadoEm": "2026-11-21T10:51:49-03:00",
  "cenas": [
   {
-   "cap": "QUEDA CHOCANTE",
-   "narracao": "Semana pesada em Wall Street! Tecnologia despencou, e o Nasdaq caiu mais de cinco por cento em um único dia.",
+   "cap": "QUEDA EM TECH",
+   "narracao": "Wall Street já começou a semana com um tom pesado. Tecnologia despencou, Nasdaq caiu mais de cinco por cento em um dia!",
    "visual": {
     "tipo": "cena",
-    "topico": "QUEDA CHOCANTE",
-    "continua": false,
+    "topico": "QUEDA NAS TECNOLOGIAS",
+    "continua": true,
     "atores": [
      {
       "tipo": "numero",
-      "valor": "5,28%",
-      "rotulo": "Queda do Nasdaq",
-      "gatilho": "mais de cinco por cento"
+      "valor": "5,28",
+      "rotulo": "Queda do índice Nasdaq",
+      "gatilho": "Nasdaq caiu"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "seta-baixo",
+      "rotulo": "queda",
+      "direcao": "cai",
+      "gatilho": "caiu"
      }
     ]
    },
    "audio": "cena-01.mp3",
-   "dur": 7.83,
-   "tw": [
-    0.16,
-    0.64,
-    1.36,
-    1.56,
-    1.76,
-    2.48,
-    3.12,
-    4.04,
-    4.12,
-    4.24,
-    4.8,
-    5.08,
-    5.28,
-    5.6,
-    5.84,
-    6.16,
-    6.32,
-    6.48,
-    6.72,
-    7.04
-   ]
-  },
-  {
-   "cap": "QUEDA CHOCANTE",
-   "narracao": "Sabe o que aconteceu depois? Dow Jones e S&P entraram em correção com perdas próximas de dez por cento na semana.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "QUEDA CHOCANTE",
-    "continua": true,
-    "atores": [
-     {
-      "tipo": "numero",
-      "valor": "10,02%",
-      "rotulo": "Perda semanal Nasdaq",
-      "gatilho": "próximas de dez por cento"
-     }
-    ]
-   },
-   "audio": "cena-02.mp3",
-   "dur": 7.91,
+   "dur": 8.23,
    "tw": [
     0.16,
     0.4,
-    0.453,
-    0.56,
-    1.04,
-    1.92,
-    2.24,
-    2.6,
-    2.8,
-    3.36,
-    3.84,
-    4.0,
-    4.64,
-    4.88,
-    5.24,
-    5.8,
-    6.04,
-    6.24,
-    6.6,
-    6.8,
-    6.96
-   ]
-  },
-  {
-   "cap": "O IMPACTO",
-   "narracao": "Esse tombo está assombrando investidores com receio dos juros mais altos e da AI que não entrega resultados rápidos.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "O IMPACTO",
-    "continua": false,
-    "atores": [
-     {
-      "tipo": "objeto",
-      "objeto": "seta-baixo",
-      "rotulo": "Juros mais altos",
-      "direcao": "cai",
-      "gatilho": "juros mais altos"
-     },
-     {
-      "tipo": "objeto",
-      "objeto": "seta-baixo",
-      "rotulo": "Incerteza IA",
-      "direcao": "cai",
-      "gatilho": "receio dos juros"
-     }
-    ]
-   },
-   "audio": "cena-03.mp3",
-   "dur": 7.91,
-   "tw": [
-    0.08,
-    0.48,
-    0.8,
-    1.16,
-    1.84,
-    2.56,
-    2.84,
-    3.24,
-    3.4,
-    3.72,
-    4.08,
-    4.6,
-    4.72,
-    4.92,
-    5.36,
-    5.493,
-    5.72,
-    6.24,
-    6.76
-   ]
-  },
-  {
-   "cap": "NÚMEROS QUE IMPACTAM",
-   "narracao": "Olha só Nvidia caindo quase quatorze por cento! E o IPO da Anthropic que levantou noventa e três bilhões, mas já caiu oito por cento.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "NÚMEROS QUE IMPACTAM",
-    "continua": false,
-    "atores": [
-     {
-      "tipo": "numero",
-      "valor": "13,8%",
-      "rotulo": "Queda Nvidia",
-      "gatilho": "quatorze por cento"
-     },
-     {
-      "tipo": "numero",
-      "valor": "93,5 bilhões",
-      "rotulo": "IPO Anthropic",
-      "gatilho": "noventa e três bilhões"
-     },
-     {
-      "tipo": "numero",
-      "valor": "8,5%",
-      "rotulo": "Queda pós-IPO",
-      "gatilho": "oito por cento"
-     }
-    ]
-   },
-   "audio": "cena-04.mp3",
-   "dur": 9.11,
-   "tw": [
-    0.08,
-    0.4,
-    0.64,
-    1.12,
-    1.48,
-    1.8,
-    2.4,
-    2.72,
-    3.333,
-    3.4,
-    3.52,
-    3.96,
-    4.08,
-    4.72,
-    4.96,
-    5.4,
-    5.8,
-    5.92,
-    6.24,
-    7.04,
-    7.2,
-    7.36,
-    7.68,
-    8.0,
-    8.16
-   ]
-  },
-  {
-   "cap": "POR QUE IMPORTA",
-   "narracao": "Esse cenário revela como tecnologia e AI são voláteis quando juros sobem e lucros ficam incertos, mexendo direto na confiança.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "POR QUE IMPORTA",
-    "continua": false,
-    "atores": [
-     {
-      "tipo": "etiqueta",
-      "texto": "Volatilidade alta",
-      "gatilho": "voláteis"
-     },
-     {
-      "tipo": "objeto",
-      "objeto": "escudo",
-      "rotulo": "Confiança abalada",
-      "direcao": "cai",
-      "gatilho": "confiança"
-     }
-    ]
-   },
-   "audio": "cena-05.mp3",
-   "dur": 9.43,
-   "tw": [
-    0.08,
-    0.4,
-    1.0,
-    1.44,
-    1.68,
-    2.56,
-    2.72,
-    3.2,
-    3.36,
-    4.16,
-    4.44,
-    4.8,
-    5.32,
-    5.44,
-    5.84,
-    6.24,
-    7.12,
-    7.68,
-    8.0,
-    8.2
-   ]
-  },
-  {
-   "cap": "O QUE MUDA PARA VOCÊ",
-   "narracao": "Quem investe em tech ou AI precisa redobrar atenção e paciência. O mercado pode balançar mais, exige gestão de risco.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "O QUE MUDA",
-    "continua": false,
-    "atores": [
-     {
-      "tipo": "objeto",
-      "objeto": "balanca",
-      "rotulo": "Gestão de risco",
-      "direcao": "cai",
-      "gatilho": "gestão de risco"
-     },
-     {
-      "tipo": "etiqueta",
-      "texto": "Paciência",
-      "gatilho": "paciência"
-     }
-    ]
-   },
-   "audio": "cena-06.mp3",
-   "dur": 8.95,
-   "tw": [
-    0.067,
-    0.24,
-    0.72,
-    1.04,
-    1.28,
-    1.52,
-    2.12,
-    2.48,
-    3.16,
-    3.56,
-    3.68,
-    4.773,
-    4.88,
-    5.36,
-    5.6,
-    6.16,
-    6.72,
-    7.36,
-    7.72,
-    7.84
-   ]
-  },
-  {
-   "cap": "ENTENDA",
-   "narracao": "Nasdaq reúne empresas de tecnologia, que puxaram o rali da inteligência artificial. Queda de dez por cento é sinal de correção.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "ENTENDA",
-    "continua": false,
-    "atores": [
-     {
-      "tipo": "objeto",
-      "objeto": "barras",
-      "rotulo": "Queda 10%",
-      "direcao": "cai",
-      "gatilho": "dez por cento"
-     }
-    ]
-   },
-   "audio": "cena-07.mp3",
-   "dur": 9.11,
-   "tw": [
-    0.16,
-    0.8,
+    0.68,
+    0.92,
     1.24,
-    1.72,
-    1.84,
-    2.88,
-    3.067,
-    3.52,
-    3.76,
-    4.0,
-    4.16,
-    4.8,
-    5.96,
-    6.28,
-    6.4,
-    6.64,
-    6.88,
-    7.36,
-    7.48,
-    7.8,
-    7.92
-   ]
-  },
-  {
-   "cap": "ENTENDA",
-   "narracao": "Já o VIX mede o medo do mercado e saltou quarenta por cento, sinal de nervosismo, maior alta desde abril do ano passado.",
-   "visual": {
-    "tipo": "cena",
-    "topico": "ENTENDA",
-    "continua": true,
-    "atores": [
-     {
-      "tipo": "numero",
-      "valor": "39%",
-      "rotulo": "Alta VIX",
-      "gatilho": "quarenta por cento"
-     }
-    ]
-   },
-   "audio": "cena-08.mp3",
-   "dur": 8.71,
-   "tw": [
-    0.16,
-    0.4,
-    0.56,
-    1.04,
     1.36,
-    1.56,
     1.76,
-    2.0,
-    2.52,
-    2.64,
-    3.04,
-    3.52,
-    3.84,
-    4.48,
-    4.76,
-    4.84,
-    5.92,
+    1.92,
+    2.12,
+    2.44,
+    3.36,
+    4.0,
+    5.04,
+    5.6,
+    5.88,
+    6.2,
     6.4,
-    6.72,
-    7.04,
-    7.32,
-    7.44,
+    6.76,
+    6.96,
+    7.12,
+    7.28,
     7.68
    ]
   },
   {
-   "cap": "O QUE OBSERVAR",
-   "narracao": "Fique ligado nas próximas decisões do Fed, dados econômicos e resultados das empresas de tecnologia para entender os próximos passos.",
+   "cap": "QUEDA EM TECH",
+   "narracao": "E não parou por aí. Dow Jones recuou quase dois por cento. S&P, quase quatro por cento no mesmo dia!",
    "visual": {
-    "tipo": "cena",
-    "topico": "O QUE OBSERVAR",
-    "continua": false,
-    "atores": [
-     {
-      "tipo": "objeto",
-      "objeto": "relogio",
-      "rotulo": "Decisões do Fed",
-      "direcao": "cai",
-      "gatilho": "decisões do Fed"
-     },
-     {
-      "tipo": "objeto",
-      "objeto": "calendario",
-      "rotulo": "Dados econômicos",
-      "direcao": "sobe",
-      "gatilho": "dados econômicos"
-     }
-    ]
+    "tipo": "objeto",
+    "objeto": "seta-baixo",
+    "rotulo": "Dow Jones -1,93%",
+    "direcao": "cai",
+    "gatilho": "Dow Jones recuou"
    },
-   "audio": "cena-09.mp3",
-   "dur": 8.79,
+   "audio": "cena-02.mp3",
+   "dur": 8.23,
+   "tw": [
+    0.067,
+    0.16,
+    0.48,
+    0.8,
+    0.96,
+    1.6,
+    1.92,
+    2.36,
+    2.76,
+    3.2,
+    3.52,
+    3.84,
+    4.48,
+    5.253,
+    5.76,
+    6.08,
+    6.32,
+    6.56,
+    6.92,
+    7.36
+   ]
+  },
+  {
+   "cap": "QUEDA EM TECH",
+   "narracao": "Na semana, a coisa ficou ainda mais séria. Nasdaq perdeu dez por cento. Dow e S&P, mais de oito por cento cada.",
+   "visual": {
+    "tipo": "numero",
+    "valor": "10,02",
+    "rotulo": "Queda semanal Nasdaq",
+    "gatilho": "Nasdaq perdeu dez por cento"
+   },
+   "audio": "cena-03.mp3",
+   "dur": 9.35,
+   "tw": [
+    0.08,
+    0.24,
+    0.92,
+    1.04,
+    1.36,
+    1.68,
+    2.08,
+    2.4,
+    3.28,
+    3.96,
+    4.44,
+    4.64,
+    4.88,
+    5.76,
+    6.16,
+    6.32,
+    7.12,
+    7.36,
+    7.6,
+    7.84,
+    8.08,
+    8.4
+   ]
+  },
+  {
+   "cap": "POR QUE IMPORTA?",
+   "narracao": "Isso mexe com a confiança do mercado em inteligência artificial — o motor de alta dos últimos anos.",
+   "visual": {
+    "tipo": "etiqueta",
+    "texto": "Confiança abalada",
+    "gatilho": "confiança do mercado"
+   },
+   "audio": "cena-04.mp3",
+   "dur": 6.47,
    "tw": [
     0.08,
     0.4,
-    0.8,
-    1.04,
-    1.52,
+    0.76,
+    0.84,
+    0.96,
+    1.48,
+    1.6,
     2.08,
     2.24,
     2.88,
+    3.94,
+    3.98,
+    4.2,
+    4.48,
+    4.64,
+    4.96,
+    5.12,
+    5.52
+   ]
+  },
+  {
+   "cap": "O QUE MUDOU",
+   "narracao": "Investidores estão receosos com juros altos e se perguntam: será que o ciclo de alta da IA está perto do fim?",
+   "visual": {
+    "tipo": "etiqueta",
+    "texto": "Ciclo de IA em dúvida",
+    "gatilho": "ciclo de alta da IA"
+   },
+   "audio": "cena-05.mp3",
+   "dur": 7.99,
+   "tw": [
+    0.32,
+    0.88,
+    1.2,
+    2.0,
+    2.16,
+    2.56,
+    3.08,
     3.2,
-    4.0,
+    3.36,
+    4.32,
+    4.56,
+    4.64,
+    4.84,
+    5.2,
+    5.36,
+    5.68,
+    5.92,
+    6.32,
+    6.6,
+    6.88,
+    7.08
+   ]
+  },
+  {
+   "cap": "CONCEITO EXPLICADO",
+   "narracao": "Importante saber: Nasdaq reúne as maiores techs e caiu mais de dez por cento do pico. Isso é considerado \"correção\".",
+   "visual": {
+    "tipo": "etiqueta",
+    "texto": "Correção de mercado",
+    "gatilho": "correção"
+   },
+   "audio": "cena-06.mp3",
+   "dur": 8.63,
+   "tw": [
+    0.08,
+    0.72,
+    1.6,
+    2.16,
+    2.56,
+    2.72,
+    3.2,
+    3.68,
+    3.84,
+    4.12,
+    4.44,
+    4.68,
+    4.88,
+    5.12,
+    5.36,
+    5.56,
+    6.32,
+    6.6,
+    6.88,
+    7.4
+   ]
+  },
+  {
+   "cap": "CONCEITO EXPLICADO",
+   "narracao": "E o VIX, índice que mede o medo do mercado, disparou quase quarenta por cento, maior nível desde abril do ano passado.",
+   "visual": {
+    "tipo": "numero",
+    "valor": "39",
+    "rotulo": "Alta VIX",
+    "gatilho": "disparou quase quarenta por cento"
+   },
+   "audio": "cena-07.mp3",
+   "dur": 8.23,
+   "tw": [
+    0.067,
+    0.16,
+    0.32,
+    1.0,
+    1.44,
+    1.6,
+    1.92,
+    2.12,
+    2.32,
+    2.56,
+    3.24,
+    3.72,
     4.08,
+    4.56,
     4.8,
-    5.0,
     5.52,
-    5.64,
-    6.48,
-    6.72,
-    7.2,
-    7.32,
-    7.92
+    5.92,
+    6.36,
+    6.56,
+    6.96,
+    7.04,
+    7.36
+   ]
+  },
+  {
+   "cap": "O QUE OBSERVAR",
+   "narracao": "Fique de olho nas próximas decisões do Fed sobre juros e nos resultados das empresas de tecnologia.",
+   "visual": {
+    "tipo": "etiqueta",
+    "texto": "Decisões do Fed, resultados tech",
+    "gatilho": "Fique de olho"
+   },
+   "audio": "cena-08.mp3",
+   "dur": 6.95,
+   "tw": [
+    0.08,
+    0.4,
+    0.56,
+    0.92,
+    1.08,
+    1.64,
+    2.16,
+    2.32,
+    2.72,
+    3.08,
+    3.64,
+    3.76,
+    4.04,
+    4.56,
+    4.72,
+    5.28,
+    5.44
    ]
   },
   {
    "cap": "FECHAMENTO",
-   "narracao": "Quer entender o mercado todo dia, com informação simples e direta? Siga @traderjhonatta e fique por dentro!",
+   "narracao": "Quer entender tudo do mercado todos os dias? Então, segue para não perder nada!",
    "visual": {
     "tipo": "fim",
     "texto": "Seguir"
    },
-   "audio": "cena-10.mp3",
-   "dur": 7.35,
+   "audio": "cena-09.mp3",
+   "dur": 5.67,
    "tw": [
     0.067,
     0.24,
-    0.6,
-    0.76,
+    0.8,
+    1.08,
     1.2,
-    1.52,
-    2.0,
+    1.84,
+    2.08,
     2.24,
-    2.8,
-    3.2,
-    3.28,
-    4.12,
-    4.56,
-    5.96,
-    6.12,
-    6.4,
-    6.56
+    2.96,
+    3.68,
+    4.0,
+    4.24,
+    4.48,
+    4.88
    ]
   }
  ],
- "legenda": "Semana de fortes quedas em Wall Street indica que o rali da inteligência artificial está sendo questionado. A tecnologia, que liderou grandes ganhos, agora sofre com incertezas por juros mais altos e atrasos nos ganhos de produtividade.\n\nInvestidores precisam estar atentos às próximas decisões econômicas e ter cautela nessa volatilidade. Para entender o que vem pela frente, acompanhe nosso conteúdo diário.\nFonte: Valor Econômico\n#mercadofinanceiro #inteligenciaartificial #wallstreet #investimentos #traderjhonatta"
+ "legenda": "Semana tensa em Wall Street. Ações de tecnologia despencaram com o Nasdaq caindo cinco vírgula vinte e oito por cento só no dia vinte de novembro de dois mil e vinte e seis. O índice VIX, que mede a ansiedade do mercado, subiu quase quarenta por cento, chegando ao maior nível em mais de um ano.\n\nEssa turbulência mostra que o rali da inteligência artificial enfrenta dúvidas diante dos juros altos e revisões nas expectativas de lucro. Quem acompanha investimentos em tech precisa estar atento aos próximos passos do Fed e aos relatórios das empresas para entender o que vem por aí.\n\nFonte: Valor Econômico\n#WallStreet #MercadoFinanceiro #IA #Investimentos #Tecnologia"
 }
