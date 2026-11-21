@@ -155,6 +155,8 @@ def main():
             c["narracao"] = re.sub(r"\s{2,}", " ", re.sub(r"@[\w.]+", "o perfil", str(c.get("narracao", "")))).strip()
         pasta = os.path.join(PASTA, n["id"])
         os.makedirs(pasta, exist_ok=True)
+        for f in os.listdir(pasta):  # narrando de novo: tira os áudios da versão anterior
+            os.remove(os.path.join(pasta, f))
         saida, total = [], 0
         for i, c in enumerate(cenas):
             mp3, dur, tw = narrar_cena(cliente, str(c["narracao"]).strip(), str(c.get("tom", "")).lower(),
