@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-21T18:09:38-03:00",
-  "novas": 13,
+  "ultimaColeta": "2026-11-21T22:34:11-03:00",
+  "novas": 18,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "13 nova(s): Ajuste Fiscal e Faria Lima; Ajuste Fiscal e Investimentos Sociais; Crise no Banco do Brasil e troca na liderança.",
+  "mensagem": "18 nova(s): Estádio e inovação esportiva; Greve paralisa tráfego aéreo na Bélgica; Transição energética em debate.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-21T22:34:11-03:00",
    "2026-11-21T18:09:38-03:00",
    "2026-11-21T13:57:50-03:00",
    "2026-11-21T10:07:45-03:00",
@@ -18,12 +19,11 @@
    "2026-11-19T19:45:58-03:00",
    "2026-11-19T15:41:12-03:00",
    "2026-11-18T23:48:31-03:00",
-   "2026-11-18T19:41:48-03:00",
-   "2026-11-18T15:24:41-03:00"
+   "2026-11-18T19:41:48-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 13
+  "textosCompletos": 21
  },
  "placar": {
   "itens": [
@@ -48,14 +48,14 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 60,4 mil",
-    "var": "+3,53%"
+    "v": "US$ 60,0 mil",
+    "var": "+1,92%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
     "v": "6.910",
-    "var": "-3,70%"
+    "var": "-8,61%"
    },
    {
     "k": "NDX",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "sáb 18h",
+  "hora": "sáb 22h",
   "data": "2026-11-21",
-  "atualizadoEm": "2026-11-21T18:09:38-03:00",
+  "atualizadoEm": "2026-11-21T22:34:11-03:00",
   "ibov": "166.376",
   "ibovVar": "-0,69%",
   "dolar": "R$ 5,95",
   "dolarVar": "+0,24%",
-  "btc": "US$ 60,4 mil"
+  "btc": "US$ 60,0 mil"
  }
 }
