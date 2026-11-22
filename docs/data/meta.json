@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-22T14:24:53-03:00",
-  "novas": 9,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-11-22T18:16:13-03:00",
+  "novas": 7,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "9 nova(s): ajuste fiscal e dívida em alta; Alta do ICMS no diesel; Margem flexibilizada na China.",
+  "mensagem": "7 nova(s) e 1 atualizada(s): Risco Fiscal no Brasil: saída de recursos bilionária; Ataques cibernéticos em portos EUA; Petrobras aumenta investimentos e aposta em diesel.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-22T18:16:13-03:00",
    "2026-11-22T14:24:53-03:00",
    "2026-11-21T22:34:11-03:00",
    "2026-11-21T18:09:38-03:00",
@@ -18,8 +19,7 @@
    "2026-11-20T15:01:54-03:00",
    "2026-11-19T23:35:54-03:00",
    "2026-11-19T19:45:58-03:00",
-   "2026-11-19T15:41:12-03:00",
-   "2026-11-18T23:48:31-03:00"
+   "2026-11-19T15:41:12-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 60,8 mil",
-    "var": "+1,11%"
+    "v": "US$ 60,9 mil",
+    "var": "+0,81%"
    },
    {
     "k": "SPX",
@@ -67,13 +67,13 @@
     "k": "BRENT",
     "nome": "Petróleo Brent",
     "v": "US$ 92,56",
-    "var": "+0,63%"
+    "var": "-0,01%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
     "v": "US$ 3.539,00",
-    "var": "-3,98%"
+    "var": "+0,67%"
    },
    {
     "k": "SELIC",
@@ -89,13 +89,13 @@
    }
   ],
   "obs": "Último fechamento",
-  "hora": "dom 14h",
+  "hora": "dom 18h",
   "data": "2026-11-22",
-  "atualizadoEm": "2026-11-22T14:24:53-03:00",
+  "atualizadoEm": "2026-11-22T18:16:13-03:00",
   "ibov": "166.376",
   "ibovVar": "-0,69%",
   "dolar": "R$ 5,95",
   "dolarVar": "+0,24%",
-  "btc": "US$ 60,8 mil"
+  "btc": "US$ 60,9 mil"
  }
 }

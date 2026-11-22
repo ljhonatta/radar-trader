@@ -1,5 +1,857 @@
 [
  {
+  "titulo": "Ashmore estima saída de até US$ 420 bi do Brasil em crise fiscal",
+  "resumo": "Gestora Ashmore aponta risco de saída bruta de US$ 420 bilhões do Brasil em 18 meses sem ajustes fiscais eficazes. Montante equivale a 16% do PIB, alerta relatório de 18 de novembro.",
+  "fatos": [
+   "Saída bruta estimada de até US$ 420 bilhões em 18 meses pelo relatório da Ashmore.",
+   "Montante representa cerca de 16% do Produto Interno Bruto do Brasil.",
+   "Investidores residentes podem remeter US$ 317 bilhões para o exterior.",
+   "Estrangeiros poderiam vender US$ 103 bilhões em ações e títulos brasileiros.",
+   "Relatório foi publicado em 18 de novembro por Gustavo Medeiros e Ben Underhill.",
+   "Título do estudo: “Can Brazil regain credibility?”",
+   "Ashmore alerta que cenários são hipóteses, não previsões.",
+   "Total projetado ultrapassa reservas internacionais brasileiras de US$ 366 bilhões.",
+   "Saídas brutas não equivalem necessariamente à perda equivalente das reservas."
+  ],
+  "explicacao": [
+   "A gestora britânica Ashmore divulgou um relatório no dia 18 de novembro que simula cenários para o Brasil enfrentar uma crise fiscal, apontando uma possível saída bruta de recursos de até US$ 420 bilhões em 18 meses, equivalente a 16% do PIB brasileiro.",
+   "Esse levantamento, assinado por Gustavo Medeiros e Ben Underhill, projeta que investidores residentes poderiam transferir US$ 317 bilhões para o exterior, enquanto estrangeiros venderiam US$ 103 bilhões em títulos e ações brasileiras, somando o total estimado.",
+   "A Ashmore ressalta que esses números ilustram cenários hipotéticos e não previsões definitivas, destacando o risco maior em situações de ajustes pontuais e crises, com impacto potencial sobre a confiança dos investidores e reservas internacionais.",
+   "O estudo sugere que se medidas fiscais graduais não conseguirem recuperar a credibilidade no mercado, a economia brasileira pode sofrer uma retirada expressiva de patrimônio, exigindo atenção a políticas e ajustes futuros para evitar desestabilizações."
+  ],
+  "detalhes": [
+   "Relatório da gestora britânica Ashmore publicado em 18 de novembro de 2026.",
+   "Autor: Gustavo Medeiros e Ben Underhill, especialistas em mercado financeiro.",
+   "Simulação de saída de recursos ocorre em horizonte de 18 meses.",
+   "Considera cenários de crise fiscal e medidas pontuais insuficientes.",
+   "Os US$ 420 bilhões somam transferência de investimentos domésticos e vendas por estrangeiros.",
+   "Comparação: valor ultrapassa reservas internacionais brasileiras, mas saída e perda de reservas não são iguais.",
+   "Contexto: confiança dos investidores no Brasil está em foco diante de desafios fiscais."
+  ],
+  "declaracoes": [
+   {
+    "quem": "gestora Ashmore",
+    "oque": "Cenários simulam possíveis caminhos para o Brasil, sem previsões definitivas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "18 de novembro de 2026",
+    "oque": "Ashmore publica relatório com simulação da saída de recursos do Brasil."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "saída bruta de recursos",
+    "significado": "valor total de capitais que deixam um país sem considerar entradas."
+   },
+   {
+    "termo": "Produto Interno Bruto (PIB)",
+    "significado": "soma dos bens e serviços produzidos em um país em um período."
+   },
+   {
+    "termo": "reservas internacionais",
+    "significado": "ativos em moedas estrangeiras mantidos pelo banco central."
+   }
+  ],
+  "pergunta": "Como você avalia o risco de saída de recursos no Brasil em 2026?",
+  "tamanhoTexto": 13846,
+  "numeros": [
+   {
+    "valor": "420 bilhões",
+    "rotulo": "US$ estimados em saída bruta do Brasil em 18 meses"
+   },
+   {
+    "valor": "16%",
+    "rotulo": "Percentual do PIB brasileiro correspondente à saída simulada"
+   },
+   {
+    "valor": "317 bilhões",
+    "rotulo": "US$ dos investidores residentes podendo sair do Brasil"
+   },
+   {
+    "valor": "103 bilhões",
+    "rotulo": "US$ de vendas hipotéticas por estrangeiros em títulos e ações"
+   },
+   {
+    "valor": "366 bilhões",
+    "rotulo": "US$ reservas internacionais do Brasil citadas no relatório"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 420 bilhões",
+  "porQueImporta": "Essa estimativa mostra o risco de fuga de capitais caso a confiança no país não seja restaurada, afetando a liquidez do mercado e a estabilidade econômica, pontos críticos para investidores e traders acompanharem.",
+  "impactoMercado": "A perspectiva de grande saída de recursos pode pressionar ativos financeiros brasileiros, influenciar a valorização do dólar e alterar a dinâmica dos juros, demandando atenção dos investidores às políticas fiscais e ao mercado cambial.",
+  "entenda": "A saída bruta de recursos refere-se ao montante total de capitais que podem deixar o país, combinando investimentos externos e vendas internas convertidas em dólares, o que pode impactar as reservas e a confiança no mercado financeiro local.",
+  "observar": "Acompanhe futuras atualizações das políticas fiscais brasileiras e relatórios da Ashmore para monitorar a evolução da confiança dos investidores e possíveis impactos no mercado financeiro nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia ajuda a entender os riscos fiscais que influenciam a entrada e saída de recursos no país, essencial para quem quer operar ou investir com mais consciência e busca aprender o funcionamento do mercado financeiro.",
+  "gancho": "*Risco Fiscal* no Brasil: saída de *recursos* bilionária",
+  "ideias": [
+   "Entenda o risco de saída de US$ 420 bi do Brasil",
+   "O que significa a fuga de investidores para o mercado brasileiro",
+   "Como a confiança fiscal impacta os investimentos no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Times Brasil; Folha Mercado; InvestNews",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/saida-de-recursos-do-brasil-pode-chegar-a-us-420-bilhoes/",
+  "publicadoEm": "2026-11-22T16:14:09-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-06"
+ },
+ {
+  "titulo": "Portos dos EUA enfrentam onda crescente de ataques cibernéticos",
+  "resumo": "Portos, petroleiros e empresas de navegação nos EUA sofrem milhares de tentativas diárias de invasão digital, com riscos agravados pela inteligência artificial.",
+  "fatos": [
+   "Milhares de tentativas diárias de invasão são registradas nos portos dos EUA.",
+   "Investigação conjunta do FBI e Guarda Costeira em agosto por invasões a petroleiros.",
+   "Porto de Los Angeles bloqueou 120 milhões de tentativas de ataque em agosto.",
+   "Aumento de 17% nos incidentes cibernéticos no setor marítimo no último ano.",
+   "Ataques são associados a Irã, Coreia do Norte, China e grupo russo Noname057(16).",
+   "FBI alertou uso da ferramenta de IA Artex para automatizar ataques.",
+   "Porto de Corpus Christi sofre centenas a milhares de ataques diários.",
+   "Porto da Virgínia reforça equipe e realiza treinamentos mensais com Guarda Costeira.",
+   "Em agosto, ataque ao sistema da North Carolina Ports causou atrasos e uso de procedimentos manuais.",
+   "Maersk confirmou roubo de dados sem impacto operacional nem uso de ransomware."
+  ],
+  "explicacao": [
+   "Os portos dos Estados Unidos vêm registrando um aumento significativo em ataques cibernéticos, que atingem instalações portuárias, petroleiros e empresas de transporte marítimo. O Financial Times revelou que essa escalada ocorre nos últimos meses, com milhares de tentativas diárias, expondo fragilidades em sistemas antigos.",
+   "Esse avanço dos ataques está ligado ao uso crescente da inteligência artificial por hackers, que consegue identificar e explorar vulnerabilidades com mais eficácia que as defesas das empresas. Países como Irã, Coreia do Norte e China são apontados por especialistas como possíveis responsáveis, além de grupos de origem russa.",
+   "A ameaça não se limita à área portuária, já que em agosto dois petroleiros com destino ao Texas sofreram invasões digitais perto do Estreito de Gibraltar. Em casos como o Porto de Los Angeles e o de Corpus Christi, quase 120 milhões de ataques foram bloqueados em um mês, enquanto medidas de segurança vêm sendo reforçadas.",
+   "Diante dessa situação, os portos americanos investem em equipes de cibersegurança, treinamentos e planos de contingência analógicos, como uso de rádios e registros manuais, para manter as operações mesmo em caso de ataques bem-sucedidos. O desafio maior é que os defensores precisam ser infalíveis, enquanto hackers precisam errar apenas uma vez."
+  ],
+  "detalhes": [
+   "Ataques ocorrem desde tentativas automatizadas a invasões sofisticadas para roubo ou apagamento de dados.",
+   "Grupos usam países terceiros para dificultar identificação da origem dos ataques.",
+   "Portos implementam planos de contingência com métodos analógicos para eventual comprometimento digital.",
+   "O Porto de Corpus Christi não tinha equipe de segurança cibernética há quatro anos e hoje está expandindo.",
+   "A inteligência artificial ajuda hackers a explorar falhas mais rápido que as defesas reagem.",
+   "Apesar dos ataques, algumas operações portuárias não foram interrompidas, segundo empresas.",
+   "Falhas tecnológicas recentes em outras infraestruturas americanas evidenciam vulnerabilidade digital local."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Kent Britton, diretor-executivo do porto de Corpus Christi",
+    "oque": "Hackers estão sondando sistemas e usando IA para encontrar vulnerabilidades, complicando defesas."
+   },
+   {
+    "quem": "Joe Harris, porta-voz do porto da Virgínia",
+    "oque": "Somos um ponto econômico vital, ficar fora da operação não é uma opção."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "agosto de 2026",
+    "oque": "Investigação conjunta do FBI e Guarda Costeira sobre invasão a dois petroleiros."
+   },
+   {
+    "quando": "agosto de 2026",
+    "oque": "Porto de Los Angeles bloqueia 120 milhões de tentativas de ataque cibernético."
+   },
+   {
+    "quando": "setembro de 2026",
+    "oque": "FBI alerta uso da IA Artex para automatizar ataques cibernéticos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ransomware",
+    "significado": "Ataque que bloqueia sistemas e exige pagamento para liberação."
+   },
+   {
+    "termo": "Inteligência Artificial",
+    "significado": "Tecnologia que simula inteligência humana para agilizar tarefas, usada também por hackers."
+   }
+  ],
+  "pergunta": "Você sabia que portos enfrentam milhares de ataques cibernéticos diariamente? Como protegeria essas infraestruturas?",
+  "tamanhoTexto": 18367,
+  "numeros": [
+   {
+    "valor": "120 milhões",
+    "rotulo": "tentativas de ataque bloqueadas pelo Porto de Los Angeles em agosto"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "aumento nos incidentes cibernéticos no setor marítimo segundo Guarda Costeira dos EUA"
+   },
+   {
+    "valor": "2,3 milhões",
+    "rotulo": "barris por dia exportados pelo porto de Corpus Christi"
+   },
+   {
+    "valor": "4",
+    "rotulo": "número de profissionais de segurança cibernética no Porto de Corpus Christi a ser alcançado"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "tentativas de ataque no Porto de Los Angeles",
+    "antes": "média mensal menor em 2023",
+    "depois": "120 milhões em agosto de 2026"
+   },
+   {
+    "item": "funcionários dedicados à segurança cibernética em Corpus Christi",
+    "antes": "nenhum há quatro anos",
+    "depois": "próximo a quatro em 2026"
+   }
+  ],
+  "destaque": "120 milhões tentativas",
+  "porQueImporta": "O aumento dos ataques cibernéticos nos portos dos EUA revela um risco crescente à infraestrutura crítica do comércio internacional, que pode afetar cadeias globais e setores de exportação, além de demandar maior atenção em segurança digital pelos investidores e operadores.",
+  "impactoMercado": "Setores ligados ao comércio internacional, energia e logística podem sofrer com interrupções ou aumento de gastos em segurança. O risco reforça a volatilidade em segmentos ligados a exportações e investimentos em tecnologia e segurança digital nas operações.",
+  "entenda": "Os ataques cibernéticos são tentativas de invasão a sistemas digitais para roubo ou interrupção de dados ou operações. Nos portos, isso ameaça o fluxo de mercadorias e energia, podendo causar prejuízos econômicos e impactos no comércio internacional.",
+  "observar": "Acompanhe próximos relatórios de segurança portuária e alertas do FBI sobre novas ferramentas digitais usadas em ataques, além das atualizações sobre treinamentos e investimentos em cibersegurança nas instalações sensíveis.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra a importância de entender cibersegurança como tema crítico no mercado global, aproximando o público da relevância das infraestruturas para a economia e os riscos digitais envolvidos.",
+  "gancho": "*Ataques* cibernéticos em *portos* EUA",
+  "ideias": [
+   "Como ataques cibernéticos impactam o comércio global?",
+   "Por que a inteligência artificial aumenta riscos digitais nos portos?",
+   "Medidas de segurança em portos contra invasões digitais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Global",
+  "icone": "escudo",
+  "fonte": "Exame; Folha Mercado; Valor Econômico",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "url": "https://exame.com/mundo/portos-dos-eua-sofrem-onda-de-tentativas-de-invasao-digital-revela-financial-times/",
+  "publicadoEm": "2026-11-22T14:40:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-07"
+ },
+ {
+  "titulo": "Petrobras deve elevar investimentos e aposta em diesel e biocombustíveis",
+  "resumo": "Petrobras atualiza plano de investimentos para 2027-2031 com previsão entre US$ 115 e 120 bilhões, aumento frente a US$ 109 bi anteriores, focando autossuficiência em diesel.",
+  "fatos": [
+   "Plano de investimentos 2027-2031 estimado entre US$ 115 bilhões e US$ 120 bilhões.",
+   "Valor anterior aprovado no fim de 2025 foi de US$ 109 bilhões.",
+   "Demanda interna de diesel do Brasil depende em média 25% de importações.",
+   "Petrobras tenta recomprar a refinaria de Mataripe vendida ao fundo Mubadala.",
+   "Presidenta Magda Chambriard destacou aceleração de produção com petróleo em alta.",
+   "Projetos aprovados só se forem resilientes a preço de petróleo de US$ 50 o barril.",
+   "Preços atuais elevados são considerados conjunturais devido à guerra no Irã.",
+   "Analistas do Citi alertam risco de maior endividamento e alocação de capital.",
+   "Petrobras priorizará ampliar capacidade das refinarias existentes.",
+   "Plano ainda aposta no crescimento da produção de diesel e biocombustíveis."
+  ],
+  "explicacao": [
+   "A Petrobras divulgará em 23 de novembro de 2026 a atualização do seu plano de investimentos para os próximos cinco anos (2027-2031), estimado entre US$ 115 bilhões e US$ 120 bilhões, acima dos US$ 109 bilhões do plano anterior.",
+   "O aumento acontece em função da alta recente do preço do petróleo, que permitiu acelerar projetos e produção, além da estratégia de produzir todo o diesel consumido internamente para reduzir importações, que hoje representam cerca de 25% da demanda brasileira.",
+   "Isso significa um esforço da empresa para ampliar sua capacidade de refino sem construir novas refinarias, incluindo a recompra da refinaria de Mataripe, e para crescer em diesel e biocombustíveis para fortalecer a autossuficiência energética do Brasil.",
+   "Agora, o mercado acompanhará os impactos do aumento do investimento, considerando as preocupações de analistas quanto ao endividamento da empresa caso o preço do petróleo caia, e a atenção para manter a disciplina financeira frente ao cenário volátil."
+  ],
+  "detalhes": [
+   "Divulgação do novo plano marcada para 23 de novembro de 2026.",
+   "Investimento previsto entre US$ 115 bi (R$ 684 bi) e US$ 120 bi (R$ 714 bi).",
+   "Plano anterior era de US$ 109 bilhões (R$ 648 bilhões).",
+   "Magda Chambriard é presidenta da Petrobras.",
+   "Refinaria de Mataripe foi vendida durante governo Bolsonaro ao Mubadala.",
+   "Brasil importa um quarto do diesel que consome e pretende zerar essa importação.",
+   "Discurso interno reforça planejamento com disciplina financeira e preços resilientes."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Magda Chambriard, presidenta da Petrobras",
+    "oque": "A empresa acelerou projetos para garantir mais produção rápida aproveitando o petróleo em alta."
+   },
+   {
+    "quem": "Mario Jorge da Silva, gerente-executivo de Estratégia da Petrobras",
+    "oque": "Preços elevados do petróleo são temporários, e projetos só são aprovados para preços a partir de US$ 50 o barril."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de novembro de 2026",
+    "oque": "Divulgação da atualização do plano de investimentos da Petrobras."
+   },
+   {
+    "quando": "Fim de 2025",
+    "oque": "Aprovação do plano anterior de US$ 109 bilhões de investimentos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Plano de Investimentos",
+    "significado": "Projeção do gasto da empresa para projetos futuros."
+   },
+   {
+    "termo": "Diesel",
+    "significado": "Combustível derivado do petróleo usado em veículos pesados."
+   },
+   {
+    "termo": "Biocombustíveis",
+    "significado": "Combustíveis produzidos a partir de matéria orgânica."
+   }
+  ],
+  "pergunta": "Você acha que a Petrobras conseguirá ser autossuficiente em diesel até 2031?",
+  "tamanhoTexto": 15831,
+  "numeros": [
+   {
+    "valor": "US$ 115 bilhões a US$ 120 bilhões",
+    "rotulo": "Nova projeção de investimentos Petrobras 2027-2031"
+   },
+   {
+    "valor": "US$ 109 bilhões",
+    "rotulo": "Investimento previsto no plano anterior"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "Participação das importações no consumo de diesel no Brasil"
+   },
+   {
+    "valor": "US$ 50",
+    "rotulo": "Preço mínimo do barril de petróleo para aprovação de projetos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Plano de Investimentos Petrobras (2027-2031)",
+    "antes": "US$ 109 bilhões",
+    "depois": "Entre US$ 115 bilhões e US$ 120 bilhões"
+   }
+  ],
+  "destaque": "US$ 115-120 bilhões",
+  "porQueImporta": "Este aumento no plano de investimentos indica que a Petrobras pretende ampliar a produção e refino de diesel e biocombustíveis, buscando autossuficiência e aproveitando a alta do petróleo. Para investidores e operadores, isso mostra uma mudança estratégica relevante, mas também aumenta os riscos financeiros associados à volatilidade dos preços do petróleo.",
+  "impactoMercado": "Com o plano maior, setores ligados ao petróleo e energia podem ter maior dinamismo, enquanto investidores devem monitorar possíveis impactos no endividamento da Petrobras e na política de preços dos combustíveis, além da influência da geopolítica sobre os preços do petróleo no curto prazo.",
+  "entenda": "O plano de investimentos mostra quanto a Petrobras planeja gastar para expandir seus negócios nos próximos cinco anos. O foco está em aumentar a produção de diesel nacional para reduzir importações, usando as refinarias já existentes e aproveitando o momento de preços altos do petróleo, mas mantendo cautela financeira para quando esses preços caírem.",
+  "observar": "Fique atento à divulgação do plano pela Petrobras em 23/11/2026 e à evolução dos preços do petróleo globalmente, que podem impactar a execução dos projetos e a saúde financeira da empresa.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra uma oportunidade para aprender como as empresas do setor de energia planejam seus investimentos, lidam com os preços internacionais e buscam autossuficiência, o que é fundamental para quem quer entender o mercado e investir com conhecimento sólido.",
+  "gancho": "*Petrobras* aumenta *investimentos* e aposta em *diesel*",
+  "ideias": [
+   "Como funciona o plano de investimentos da Petrobras?",
+   "Por que a produção de diesel é importante para o Brasil?",
+   "Qual o impacto dos preços internacionais do petróleo nos investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Folha Mercado; BP Money; Times Brasil",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-deve-elevar-meta-de-investimentos-em-novo-plano-para-cinco-anos.shtml",
+  "publicadoEm": "2026-11-22T14:26:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-08"
+ },
+ {
+  "titulo": "Wall Street em correção pressionada por incertezas sobre IA e juros",
+  "resumo": "Dow Jones e S&P 500 entraram em correção, Nasdaq perdeu ganhos de 2026. Pressão vendedora ocorre mesmo após resultados da Nvidia e estreia da Anthropic.",
+  "fatos": [
+   "Dow Jones e S&P 500 entraram em território de correção em novembro de 2026.",
+   "Nasdaq Composite apagou os ganhos acumulados em 2026.",
+   "Índice VIX ultrapassou 30 pontos, maior nível desde março.",
+   "Ações da Anthropic recuaram 10% após alta de 17% na estreia.",
+   "Reunião do Fed está marcada para 9 de dezembro de 2026.",
+   "Juros mais altos preocupam investidores e pressionam o mercado.",
+   "S&P 500 acumulava alta de 4% até 19 de novembro, enquanto índice igualitário subiu mais de 10%.",
+   "Projeção do Goldman Sachs para S&P 500 é 8.700 pontos em 2027, alta de 17%.",
+   "Volatilidade deve continuar alta devido a incertezas econômicas e políticas."
+  ],
+  "explicacao": [
+   "Wall Street passou por uma forte correção entre novembro e dezembro de 2026, com o Dow Jones e o S&P 500 entrando em território de correção e o Nasdaq apagando os ganhos acumulados no ano. Isso ocorreu mesmo após a estreia da Anthropic e resultados positivos da Nvidia.",
+   "O movimento vendedor foi impulsionado por dúvidas sobre o futuro dos investimentos em inteligência artificial, preocupações com política monetária e eventos geopolíticos. O índice de volatilidade VIX ultrapassou 30 pontos, sinalizando maior aversão ao risco.",
+   "Apesar do cenário negativo, indicadores técnicos como o índice de força relativa (RSI) do S&P 500 mostraram sinais de sobrevenda, o que pode indicar possibilidades de recuperação pontual. Além disso, o histórico sazonal de novembro e dezembro costuma ser favorável ao mercado.",
+   "No entanto, o mercado permanece cauteloso diante da reunião do Federal Reserve em dezembro, audiências no Congresso americano, risco de paralisação do governo e tensões internacionais, que podem provocar novas oscilações e manter volatilidade elevada em 2027."
+  ],
+  "detalhes": [
+   "Pressão vendedora afeta praticamente todos os segmentos do mercado.",
+   "Estreia da Anthropic na bolsa foi em 19 de novembro, mas ações caíram no dia seguinte.",
+   "Jay Woods, estrategista da Freedom Capital, indica liquidação generalizada.",
+   "Katie Stockton, da Fairlead Strategies, recomenda manter posição e reduzir exposição em altas.",
+   "David Miller, da Catalyst Funds, destaca seletividade dos investidores em IA.",
+   "Riscos incluem audiências no Congresso sobre Jensen Huang, fim do governo dos EUA e conflito Washington-Irã.",
+   "Indicadores de inflação abaixo das expectativas podem aliviar pressão nas próximas semanas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Jay Woods, estrategista-chefe da Freedom Capital Markets",
+    "oque": "O mercado finalmente cedeu e está no meio de uma liquidação generalizada."
+   },
+   {
+    "quem": "Katie Stockton, fundadora da Fairlead Strategies",
+    "oque": "Recomendo manter exposição existente e aproveitar picos para reduzir posições, não abrir novas."
+   },
+   {
+    "quem": "David Miller, diretor de investimentos da Catalyst Funds",
+    "oque": "Investidores acreditam na IA, mas estão mais seletivos quanto ao preço por crescimento."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "20 de novembro de 2026",
+    "oque": "Queda generalizada nos principais índices americanos, acionando correção."
+   },
+   {
+    "quando": "9 de dezembro de 2026",
+    "oque": "Reunião do Federal Reserve marcada para decidir política de juros."
+   },
+   {
+    "quando": "Próximo mês",
+    "oque": "Início das audiências no Congresso americano envolvendo Jensen Huang."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Correção",
+    "significado": "queda de pelo menos 10% nos índices de ações após alta significativa"
+   },
+   {
+    "termo": "VIX",
+    "significado": "índice que mede a volatilidade e o medo em Wall Street"
+   },
+   {
+    "termo": "RSI",
+    "significado": "índice técnico que indica níveis de sobrecompra ou sobrevenda"
+   }
+  ],
+  "pergunta": "Você acha que o mercado de ações dos EUA já tocou o fundo nesta correção?",
+  "tamanhoTexto": 11444,
+  "numeros": [
+   {
+    "valor": "30",
+    "rotulo": "Índice VIX ultrapassou esse nível, indicador do medo em Wall Street"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "Alta da ação da Anthropic na estreia na bolsa"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "Queda das ações da Anthropic um dia após estreia"
+   },
+   {
+    "valor": "8.700 pontos",
+    "rotulo": "Meta projetada do S&P 500 para o final de 2027 pelo Goldman Sachs"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "Valorização estimada do S&P 500 para 2027 segundo Goldman Sachs"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "Valorização acumulada do S&P 500 até 19 de novembro de 2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Índice VIX",
+    "antes": "níveis abaixo de 30 durante 2026",
+    "depois": "acima de 30 em novembro de 2026"
+   }
+  ],
+  "destaque": "Dow Jones e",
+  "porQueImporta": "Para investidores e traders, a correção em Wall Street reflete um ambiente de maior risco, exigindo atenção às decisões de política monetária e resultados corporativos, especialmente no setor de inteligência artificial, influenciando estratégias de exposição e proteção de carteira.",
+  "impactoMercado": "Setores ligados à tecnologia e IA enfrentam maior volatilidade e seletividade. A alta nos juros estimula cautela em ações de crescimento, impactando Nasdaq e S&P 500, enquanto indicadores econômicos e eventos políticos americanos podem gerar oscilações nos próximos meses.",
+  "entenda": "Mercado em correção ocorre quando índices caem mais de 10% desde o pico recente. O VIX mede o medo do mercado, com altos valores indicando aversão ao risco. RSI mostra se ações estão sobrecompradas ou sobrevendidas, o que pode indicar pontos de reversão no preço das ações.",
+  "observar": "Acompanhe a reunião do Federal Reserve em 9 de dezembro, indicadores de inflação que serão divulgados e as audiências no Congresso; esses eventos podem impactar a volatilidade e direcionar o mercado americano.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "A notícia é a chance perfeita para explicar como funcionam correções, índices chave e volatilidade, mostrando a importância de entender riscos, política monetária e setor de tecnologia — conteúdo essencial para quem quer dominar o mercado e conhecer a faculdade.",
+  "gancho": "*Wall Street* em *correção* e *IA* incerta",
+  "ideias": [
+   "O que é uma correção e por que ela acontece?",
+   "Como a volatilidade impacta seus investimentos em bolsa",
+   "Inteligência artificial na bolsa: expectativas versus realidade"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "url": "https://exame.com/invest/mercados/wall-street-entra-em-alerta-apos-onda-de-vendas-o-que-pode-acontecer-com-as-bolsas-americanas/",
+  "publicadoEm": "2026-11-22T10:43:39-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-09"
+ },
+ {
+  "titulo": "Lula reconhece estado de calamidade em Tupanciretã após tempestade no RS",
+  "resumo": "Tempestade com ventos até 114 km/h causou 5 mortes e quase 20 mil desalojados em Tupanciretã. Governo federal libera R$ 2 milhões para apoio emergencial e mobiliza 200 militares para ajuda.",
+  "fatos": [
+   "Vendaval atingiu Tupanciretã na madrugada de 20 de novembro de 2026.",
+   "Velocidade dos ventos chegou a 114 km/h durante a tempestade.",
+   "Cinco pessoas morreram e 265 ficaram feridas no município.",
+   "Foram registradas 7.796 casas destelhadas em Tupanciretã.",
+   "Cerca de 19.780 pessoas ficaram desalojadas e 40 desabrigadas.",
+   "Queda de mil árvores e 5 mil postes ou trechos de fiação elétrica.",
+   "Exército mobilizou 200 militares para auxiliar nas ações locais.",
+   "Governo estadual liberou R$ 2 milhões como apoio emergencial.",
+   "Defesa Civil atribuiu a tempestade a uma supercélula com microexplosão.",
+   "Estado de calamidade pública foi reconhecido oficialmente pelo presidente Lula em 21 de novembro."
+  ],
+  "explicacao": [
+   "Na madrugada da sexta-feira (20), Tupanciretã, no interior do Rio Grande do Sul, foi atingida por uma tempestade severe que gerou rajadas de vendaval de até 114 km/h, causando cinco mortos, 265 feridos e deixando quase 20 mil pessoas desalojadas. Foram danificadas quase 8 mil casas, além de escolas e hospital.",
+   "A supercélula de tempestade, formada por rotações ascendentes de ar, gerou ventos severos possivelmente associados a uma microexplosão, segundo a Defesa Civil do RS. Embora a possibilidade de tornado não esteja totalmente descartada, os danos foram atribuídos a essa tempestade organizada.",
+   "O presidente Lula reconheceu oficialmente o estado de calamidade pública no município no sábado (21), o que facilita o envio rápido de recursos e políticas de apoio. O governo federal, junto com os governos estadual e municipal, coordena ações de assistência humanitária, limpeza, reparos em moradias e infraestrutura.",
+   "Além do reconhecimento, o governo federal liberou inicialmente R$ 2 milhões para emergências e mobilizou cerca de 200 militares do Exército para ajudar na remoção de destroços e apoio às vítimas. A Defesa Civil trabalha agora na elaboração de planos para a reconstrução e levantamento dos custos."
+  ],
+  "detalhes": [
+   "Tupanciretã é uma cidade no interior do Rio Grande do Sul.",
+   "A tempestade durou aproximadamente 30 minutos na madrugada da sexta-feira.",
+   "A supercélula é uma tempestade com circulação rotativa e pode causar danos extensos.",
+   "A Defesa Civil ainda não tem cálculo preciso do valor necessário para reconstrução.",
+   "O prefeito Gustavo Terra destacou a necessidade urgente de telhas, cimento e mão de obra.",
+   "O governo estadual mobilizou Defesa Civil e Brigada Militar para apoio local.",
+   "Na véspera do temporal, um alerta de tempestade foi enviado pelo Centro de Monitoramento da Defesa Civil."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Waldez Góes, ministro da Integração e do Desenvolvimento Regional",
+    "oque": "Garantiu recursos urgentes para alimentação, água e materiais de higiene às famílias afetadas."
+   },
+   {
+    "quem": "Gustavo Terra, prefeito de Tupanciretã",
+    "oque": "Relatou falta de telhas, cimento e mão de obra para a reconstrução, destacando apoio de máquinas de outros municípios."
+   },
+   {
+    "quem": "Gabriel Souza, vice-governador do RS",
+    "oque": "Descrito o cenário na cidade como uma destruição completa, comparando com situação de guerra."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "19 de novembro de 2026 à",
+    "oque": "Centro de Monitoramento da Defesa Civil emitiu alerta vermelho para tempestade."
+   },
+   {
+    "quando": "20 de novembro de 2026, madrugada",
+    "oque": "Tempestade atingiu Tupanciretã, durando cerca de 30 minutos."
+   },
+   {
+    "quando": "21 de novembro de 2026",
+    "oque": "Presidente Lula reconheceu estado de calamidade pública no município."
+   },
+   {
+    "quando": "22 de novembro de 2026, manhã",
+    "oque": "Defesa Civil divulgou balanço dos danos e número de feridos e desalojados."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Supercélula",
+    "significado": "Tempestade severa com ventos rotativos e potencial para danos intensos."
+   },
+   {
+    "termo": "Estado de calamidade pública",
+    "significado": "Reconhecimento oficial que permite uso facilitado de recursos públicos para emergências."
+   },
+   {
+    "termo": "Desalojado",
+    "significado": "Pessoa que precisa deixar temporariamente sua casa por riscos ou danos."
+   }
+  ],
+  "pergunta": "Você já sabia o que é uma supercélula e como ela afeta o clima?",
+  "tamanhoTexto": 17740,
+  "numeros": [
+   {
+    "valor": "114 km/h",
+    "rotulo": "Velocidade máxima das rajadas do vendaval"
+   },
+   {
+    "valor": "5",
+    "rotulo": "Número de mortos pela tempestade"
+   },
+   {
+    "valor": "265",
+    "rotulo": "Número de feridos registrados"
+   },
+   {
+    "valor": "19.780",
+    "rotulo": "Pessoas desalojadas após o vendaval"
+   },
+   {
+    "valor": "7.796",
+    "rotulo": "Casas destelhadas na cidade"
+   },
+   {
+    "valor": "200",
+    "rotulo": "Militares do Exército mobilizados para ajuda"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "5 mortos e",
+  "porQueImporta": "O reconhecimento do estado de calamidade facilita o envio de recursos públicos e apoios emergenciais essenciais para a recuperação do município. Para quem investe ou opera, esse tipo de desastre pode afetar negócios locais, Impactar setores regionais e exigir atenção às medidas do governo para reconstrução e assistência.",
+  "impactoMercado": "Embora seja uma tragédia local, o evento exige atenção dos investidores em setores ligados a infraestrutura, construção e serviços de emergência. Recursos liberados pelo governo podem mobilizar os mercados regionais e setores de materiais de construção, sem impactos diretos nos índices nacionais ainda.",
+  "entenda": "Estado de calamidade pública é uma declaração oficial que libera recursos e medidas excepcionais após eventos catastróficos, facilitando o apoio emergencial e reconstrução. A supercélula é um fenômeno meteorológico de tempestade severa com ventos rotativos que pode causar danos extensos como tornados e microexplosões.",
+  "observar": "Acompanhe dados atualizados da Defesa Civil sobre o avanço da reconstrução e possíveis novos alertas meteorológicos para a região nos próximos dias, além dos repasses de recursos estaduais e federais para Tupanciretã.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "CLT",
+   "Aposentados",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia explica como fenômenos climáticos extremos podem impactar cidades e mobilizar recursos públicos, mostrando a importância de entender riscos e políticas emergenciais no mercado financeiro.",
+  "gancho": "*Calamidade* em Tupanciretã",
+  "ideias": [
+   "O que é estado de calamidade e seu impacto financeiro?",
+   "Como uma supercélula provoca tempestades severas?",
+   "O papel do governo na recuperação após desastres naturais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Economia",
+  "icone": "raio",
+  "fonte": "BP Money; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "url": "https://bpmoney.com.br/brasil/lula-reconhece-calamidade-tupancireta-rs-tempestade-5-mortos/",
+  "publicadoEm": "2026-11-22T13:33:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-10"
+ },
+ {
+  "titulo": "Democratas conquistam maior bancada da Câmara dos EUA desde 1992",
+  "resumo": "Em 2026, democratas alcançam pelo menos 258 cadeiras na Câmara, maior número em 34 anos, ampliando controle do Congresso e pressão sobre Trump.",
+  "fatos": [
+   "Democratas conquistaram ao menos 258 cadeiras na Câmara em 2026.",
+   "Câmara dos Representantes dos EUA tem 435 cadeiras no total.",
+   "Vitória confirmada com a eleição de Chuck Hubbard sobre Virginia Foxx.",
+   "Democratas tomaram 44 cadeiras de republicanos, recorde desde 2018.",
+   "Republicanos asseguraram pelo menos 173 assentos na Câmara.",
+   "Senado está com 56 das 100 cadeiras dominadas pelos democratas.",
+   "Quatro disputas na Câmara permanecem indefinidas, com segundo turno em dezembro.",
+   "Hakeem Jeffries, do Partido Democrata, deve assumir presidência da Câmara.",
+   "Democratas planejam foco no custo de vida e investigações contra Trump.",
+   "Eleitores expressaram descontentamento com preços altos e guerra no Irã."
+  ],
+  "explicacao": [
+   "Nas eleições de meio de mandato dos Estados Unidos, realizadas em 2026, os democratas garantiram pelo menos 258 cadeiras na Câmara dos Representantes, composta por 435 membros. Esse é o maior número desde 1992, quando também conquistaram 258 assentos.",
+   "A vitória foi confirmada após o democrata Chuck Hubbard derrotar a deputada republicana Virginia Foxx, na Carolina do Norte, marcando a tomada de 44 cadeiras anteriormente dos republicanos, superando as 40 cadeiras trocadas em 2018, primeiro mandato de Trump.",
+   "Com o controle da Câmara e do Senado, onde têm maioria de 56 das 100 cadeiras, e um presidente republicano em exercício, haverá um governo dividido. Esse equilíbrio intensifica a expectativa de que os democratas cumpram promessas de campanha, em especial focadas no alto custo de vida.",
+   "Além disso, a bancada democrática planeja usar o poder no Congresso para fortalecer a fiscalização do governo Trump, com planos de investigar enriquecimento da família do presidente e considerar um terceiro processo de impeachment, com Hakeem Jeffries prestes a assumir a presidência da Câmara."
+  ],
+  "detalhes": [
+   "A marca de 258 cadeiras foi igualada pela última vez em 1992, quando Bill Clinton venceu a presidência.",
+   "O resultado supera as 257 cadeiras conquistadas por democratas nas eleições de 2008, ano da eleição de Obama.",
+   "Disputas eleitorais em Minnesota, Tennessee e Louisiana decidirão quatro cadeiras restantes.",
+   "O Senado está sob controle democrata pela primeira vez em mais de uma década.",
+   "Os democratas planejam apresentar a agenda legislativa nos primeiros 100 dias após janeiro.",
+   "Críticas ao governo Trump incluem custo de vida, corrupção e política externa no Oriente Médio.",
+   "Democratas consideram arrancar um terceiro processo de impeachment contra Trump."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Hakeem Jeffries, líder democrata e futuro presidente da Câmara",
+    "oque": "Não descartou tentar um terceiro processo de impeachment contra Trump."
+   },
+   {
+    "quem": "Tom Suozzi, deputado democrata moderado de Nova York",
+    "oque": "Sugeriu dividir 75% do tempo legislativo para custo de vida e 25% para fiscalização."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "22 de novembro de 2026",
+    "oque": "Democratas alcançaram 258 cadeiras após vitória em Carolina do Norte."
+   },
+   {
+    "quando": "Dezembro de 2026",
+    "oque": "Segundo turno eleitoral para definir quatro cadeiras em disputa."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Câmara dos Representantes",
+    "significado": "Casa baixa do Congresso dos EUA, com 435 membros, que legisla e fiscaliza o governo."
+   },
+   {
+    "termo": "Governo dividido",
+    "significado": "Quando poderes executivo e legislativo são controlados por partidos diferentes."
+   },
+   {
+    "termo": "Processo de impeachment",
+    "significado": "Procedimento para destituir um presidente por crimes ou má conduta."
+   }
+  ],
+  "pergunta": "Como você acha que o Congresso democrático vai impactar o mercado financeiro nos EUA?",
+  "tamanhoTexto": 7118,
+  "numeros": [
+   {
+    "valor": "258",
+    "rotulo": "cadeiras democratas conquistadas na Câmara"
+   },
+   {
+    "valor": "435",
+    "rotulo": "cadeiras totais na Câmara dos Representantes dos EUA"
+   },
+   {
+    "valor": "44",
+    "rotulo": "cadeiras tomadas de republicanos em 2026"
+   },
+   {
+    "valor": "40",
+    "rotulo": "cadeiras tomadas de republicanos em 2018"
+   },
+   {
+    "valor": "173",
+    "rotulo": "cadeiras republicanas garantidas na Câmara"
+   },
+   {
+    "valor": "56",
+    "rotulo": "cadeiras democratas no Senado"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "cadeiras democratas na Câmara",
+    "antes": "257 em 2008",
+    "depois": "258 em 2026"
+   },
+   {
+    "item": "cadeiras tomadas de republicanos",
+    "antes": "40 em 2018",
+    "depois": "44 em 2026"
+   }
+  ],
+  "destaque": "258 cadeiras democratas",
+  "porQueImporta": "Esse resultado amplia o controle do Congresso pelos democratas, influenciando a legislação nos EUA. Para quem investe, é uma mudança que sinaliza maior fiscalização do governo e potencial impacto em políticas econômicas que afetam mercados globais e americanos.",
+  "impactoMercado": "O controle ampliado do Congresso por democratas pode aumentar a pressão para mudanças em políticas fiscais e regulatórias. Isso pode influenciar setores impactados por decisões sobre impostos, gastos públicos e comércio, afetando o comportamento de investidores e operadores no mercado global.",
+  "entenda": "A Câmara dos Representantes é uma das duas casas do Congresso dos EUA, responsável por criar leis federais. Mudar o controle da Câmara significa alterar quem define as prioridades legislativas, afetando políticas econômicas e políticas que impactam o mercado e a sociedade.",
+  "observar": "Fique de olho nos resultados dos segundos turnos em dezembro e a agenda legislativa dos democratas nos primeiros 100 dias para entender como as promessas e investigações podem afetar o cenário político e econômico.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicamos de forma simples como a maior bancada democrata em 34 anos pode transformar o Congresso americano, conectando política e impactos no mercado, mostrando a importância do estudo para quem quer dominar o mercado financeiro.",
+  "gancho": "*Democratas* têm *maior bancada* desde 1992",
+  "ideias": [
+   "Como o resultado das eleições nos EUA afeta o mercado financeiro?",
+   "Democratas dominam a Câmara: entenda os impactos para investidores",
+   "O que esperar do Congresso americano com a maior bancada democrata desde 1992?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "alvo",
+  "fonte": "Times Brasil; InfoMoney; Exame",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "url": "https://timesbrasil.com.br/brasil/democratas-tem-maior-bancada-na-camara-dos-eua-desde-1992/",
+  "publicadoEm": "2026-11-22T17:18:31-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-11"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-on-november-22-2026",
+  "titulo": "Mercado indica 36.0% de chance de Bitcoin a ↑ 62,000",
+  "resumo": "Expectativas para o preço do Bitcoin em 22 de novembro de 2026 estão consistentemente em alta.",
+  "probs": [
+   {
+    "opcao": "↑ 62,000",
+    "prob": 36.0
+   },
+   {
+    "opcao": "↑ 63,000",
+    "prob": 10.5
+   },
+   {
+    "opcao": "↓ 58,000",
+    "prob": 7.5
+   },
+   {
+    "opcao": "↓ 57,000",
+    "prob": 3.1
+   }
+  ],
+  "prazo": "2026-11-23",
+  "volume24h": "US$ 622 mil",
+  "fatos": [
+   "↑ 62,000: 36,0%",
+   "↑ 63,000: 10,5%",
+   "↓ 58,000: 7,5%",
+   "↓ 57,000: 3,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "36,0%",
+    "rotulo": "↑ 62,000"
+   },
+   {
+    "valor": "10,5%",
+    "rotulo": "↑ 63,000"
+   },
+   {
+    "valor": "7,5%",
+    "rotulo": "↓ 58,000"
+   },
+   {
+    "valor": "3,1%",
+    "rotulo": "↓ 57,000"
+   }
+  ],
+  "destaque": "36,0%",
+  "gancho": "*Expectativa* de preço do Bitcoin",
+  "entenda": "Os apostadores fazem previsões baseadas em tendências do mercado e eventos futuros que podem impactar o preço do Bitcoin.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-november-22-2026",
+  "publicadoEm": "2026-11-22T18:16:13-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-22T18:16:13-03:00",
+  "data": "2026-11-22",
+  "status": "nova",
+  "id": "2026-11-22-p5"
+ },
+ {
   "titulo": "Goldman Sachs: Brasil precisa de ajuste de R$ 400 bi para conter dívida",
   "resumo": "Alberto Ramos projeta crescimento de até 0,6% em 2027 e inflação entre 5% e 6%. Banco vê dívida se aproximando de 83% do PIB, podendo superar 90% em 2-3 anos sem ajuste fiscal.",
   "fatos": [
@@ -693,53 +1545,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 67.0% de chance de Ethereum cair abaixo de 1,700 em novembro.",
-  "resumo": "Uma maioria dos apostadores espera que o Ethereum não ultrapasse 1,700 neste período, refletindo uma expectativa de queda.",
+  "titulo": "Mercado vê 89.5% de chance de Ethereum a ↓ 1,700",
+  "resumo": "Os preços do Ethereum estão projetados para uma tendência de queda, segundo as apostas dos investidores.",
   "probs": [
    {
     "opcao": "↓ 1,700",
-    "prob": 67.0
+    "prob": 89.5
    },
    {
     "opcao": "↑ 1,800",
-    "prob": 60.5
+    "prob": 64.5
    },
    {
     "opcao": "↓ 1,600",
-    "prob": 51.5
+    "prob": 48.0
    },
    {
     "opcao": "↑ 1,900",
-    "prob": 28.5
+    "prob": 31.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 284 mil",
+  "volume24h": "US$ 326 mil",
   "fatos": [
-   "↓ 1,700: 67,0%",
-   "↑ 1,800: 60,5%",
-   "↓ 1,600: 51,5%",
-   "↑ 1,900: 28,5%"
+   "↓ 1,700: 89,5%",
+   "↑ 1,800: 64,5%",
+   "↓ 1,600: 48,0%",
+   "↑ 1,900: 31,5%"
   ],
   "numeros": [
    {
-    "valor": "67,0%",
+    "valor": "89,5%",
     "rotulo": "↓ 1,700"
    },
    {
-    "valor": "60,5%",
+    "valor": "64,5%",
     "rotulo": "↑ 1,800"
    },
    {
-    "valor": "51,5%",
+    "valor": "48,0%",
     "rotulo": "↓ 1,600"
    },
    {
-    "valor": "28,5%",
+    "valor": "31,5%",
     "rotulo": "↑ 1,900"
    }
   ],
-  "destaque": "67,0%",
+  "destaque": "89,5%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -752,8 +1604,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-22T14:24:53-03:00",
   "data": "2026-11-22",
-  "status": "nova",
-  "id": "2026-11-22-p2"
+  "status": "atualizada",
+  "id": "2026-11-22-p2",
+  "atualizadoEm": "2026-11-22T18:16:13-03:00"
  },
  {
   "tipo": "sinal",
