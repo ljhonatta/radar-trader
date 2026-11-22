@@ -1,5 +1,891 @@
 [
  {
+  "titulo": "Goldman Sachs: Brasil precisa de ajuste de R$ 400 bi para conter dívida",
+  "resumo": "Alberto Ramos projeta crescimento de até 0,6% em 2027 e inflação entre 5% e 6%. Banco vê dívida se aproximando de 83% do PIB, podendo superar 90% em 2-3 anos sem ajuste fiscal.",
+  "fatos": [
+   "Projeção de crescimento do Brasil para 2027: 0,5% a 0,6%",
+   "Inflação prevista para 2027: entre 5% e 6%",
+   "Dívida pública brasileira perto de 83% do PIB em 2024",
+   "Dívida pode superar 90% do PIB em 2 a 3 anos",
+   "Necessidade de ajuste fiscal de R$ 400 bilhões para estabilidade",
+   "Pacote fiscal atual de cerca de R$ 50 bilhões é considerado insuficiente",
+   "Meta fiscal oficial para 2027 é 0,5% do PIB, mas ajuste real é próximo de zero",
+   "Câmbio perto de R$ 6 restringe atuação do Banco Central",
+   "Altas despesas do governo e custos tributários pressionam inflação",
+   "Economia pode crescer pouco ou até menos que zero em 2027"
+  ],
+  "explicacao": [
+   "O economista-chefe para América Latina do Goldman Sachs, Alberto Ramos, projeta crescimento econômico do Brasil entre 0,5% e 0,6% em 2027, com inflação resistente entre 5% e 6%. Ele alerta para um cenário de quase estagflação com expansão econômica fraca e preços persistentes.",
+   "Segundo Ramos, a dívida pública brasileira já está próxima de 83% do PIB e deve ultrapassar 90% em até três anos. Para estabilizar esse endividamento, o país precisaria de um ajuste fiscal de cerca de R$ 400 bilhões, representando superávit primário de 3% do PIB, o que ele considera pouco provável.",
+   "O economista critica o pacote fiscal recente, avaliado em R$ 50 bilhões, por ser insuficiente e focado em aumentar arrecadação, sem conter gastos. Ele destaca ainda que a meta fiscal de 0,5% do PIB para 2027 praticamente não representa avanço, já que considera despesas excluídas do cálculo oficial.",
+   "Para o médio prazo, Ramos projeta crescimento anual médio ligeiramente acima de 2% entre 2023 e 2027, com inflação ao redor de 5%, resultado de uma política fiscal que tributa e gasta, sem estimular maior crescimento econômico."
+  ],
+  "detalhes": [
+   "Alberto Ramos é chefe para América Latina do Goldman Sachs",
+   "Cenário chamado de quase estagflação combina crescimento baixo e inflação resistente",
+   "Pressão sobre preços vêm da depreciação cambial, reforma tributária e mudança na legislação trabalhista",
+   "Ajutes fiscais são criticados por focar em arrecadação, não em contenção de gastos",
+   "Pacote fiscal de R$ 50 bilhões anunciado recentemente não é visto como suficiente",
+   "Superávit primário necessário para estabilizar dívida é 3% do PIB",
+   "Inflação resistente dificulta ação do Banco Central numa conjuntura de juros altos e câmbio depreciado"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Alberto Ramos, economista-chefe para América Latina do Goldman Sachs",
+    "oque": "Crescimento em 2027 deve ficar entre zero e 0,6%, inflação será resistente entre 5% e 6%."
+   },
+   {
+    "quem": "Alberto Ramos, economista-chefe para América Latina do Goldman Sachs",
+    "oque": "Ajuste fiscal de R$ 400 bilhões necessário para estabilizar dívida, mas não vai acontecer."
+   },
+   {
+    "quem": "Alberto Ramos, economista-chefe para América Latina do Goldman Sachs",
+    "oque": "Pacote fiscal de R$ 50 bilhões é insuficiente e de má qualidade, focado em arrecadação."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2027",
+    "oque": "Projeção de crescimento econômico e inflação para o Brasil"
+   },
+   {
+    "quando": "2 a 3 anos",
+    "oque": "Dívida pública pode superar 90% do PIB"
+   },
+   {
+    "quando": "abril de 2024",
+    "oque": "Divulgação da meta fiscal oficial de 0,5% do PIB para 2027"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo das contas do governo excluindo juros da dívida"
+   },
+   {
+    "termo": "Estagflação",
+    "significado": "Situação de crescimento baixo com inflação alta"
+   },
+   {
+    "termo": "PIB",
+    "significado": "Produto Interno Bruto, soma de bens e serviços produzidos"
+   }
+  ],
+  "pergunta": "Como você vê o impacto do ajuste fiscal de R$ 400 bi no seu investimento?",
+  "tamanhoTexto": 8143,
+  "numeros": [
+   {
+    "valor": "0,5% a 0,6%",
+    "rotulo": "Projeção de crescimento do Brasil em 2027"
+   },
+   {
+    "valor": "5% a 6%",
+    "rotulo": "Projeção de inflação para 2027"
+   },
+   {
+    "valor": "83%",
+    "rotulo": "Dívida pública em relação ao PIB atualmente"
+   },
+   {
+    "valor": "90%",
+    "rotulo": "Dívida pública prevista em % do PIB em 2 a 3 anos"
+   },
+   {
+    "valor": "R$ 400 bilhões",
+    "rotulo": "Ajuste fiscal necessário para estabilizar dívida"
+   },
+   {
+    "valor": "R$ 50 bilhões",
+    "rotulo": "Valor do pacote fiscal recente considerado insuficiente"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 400 bilhões",
+  "porQueImporta": "Esse ajuste fiscal de R$ 400 bilhões é crucial para estabilizar a dívida pública que já é alta e impacta a confiança na economia. Para quem investe ou opera, a sustentabilidade fiscal do país afeta juros, dólar e o cenário para ativos no médio e longo prazo.",
+  "impactoMercado": "Sem o ajuste necessário, a dívida pública deve subir, elevando riscos fiscais e tornando a política monetária mais rígida. Isso pode afetar a volatilidade da bolsa, o desempenho dos títulos públicos e a entrada de capital estrangeiro.",
+  "entenda": "Endividamento público alto significa que o governo gasta mais do que arrecada, aumentando sua dívida. Ajuste fiscal é o esforço para equilibrar receitas e despesas, podendo ser feito com cortes ou aumento de impostos. Quando isso não ocorre, a dívida cresce e dificulta o crescimento econômico.",
+  "observar": "Fique atento a dados econômicos e fiscais em 2027, como inflação mensal e divulgação do resultado fiscal. Eventos sobre política monetária e pacotes fiscais também afetarão o cenário.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia detalha desafios fiscais e econômicos que influenciam diretamente os mercados, mostrando a importância de entender a política fiscal para quem quer operar ou investir com consciência no Brasil.",
+  "gancho": "*ajuste fiscal* e *dívida* em alta",
+  "ideias": [
+   "O que é ajuste fiscal e por que o Brasil precisa de R$ 400 bi?",
+   "Crescimento baixo e inflação alta: entenda o cenário do Brasil para 2027",
+   "Dívida pública perto de 90% do PIB: riscos e impactos para investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "BP Money; CNN Brasil",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "url": "https://bpmoney.com.br/economia/goldman-sachs-brasil-ajuste-fiscal-400-bilhoes/",
+  "publicadoEm": "2026-11-22T10:32:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-01"
+ },
+ {
+  "titulo": "ICMS sobre diesel cresce 735,7% desde 2002, acima da inflação",
+  "resumo": "ICMS no diesel B subiu 735,7% entre 2002 e 2026, supera inflação de 321,1%. Estudo da EPE destaca variações também em outros combustíveis.",
+  "fatos": [
+   "ICMS do diesel B passou de R$ 0,1388 para R$ 1,1700 por litro desde 2002.",
+   "A inflação acumulada (IPCA) no período foi de 321,1%.",
+   "ICMS do GLP a granel subiu 425%, de R$ 0,2773 para R$ 1,4700 por kg.",
+   "ICMS da gasolina C aumentou 273,8%, de R$ 0,4155 para R$ 1,5700 por litro.",
+   "ICMS do etanol hidratado cresceu 107,7%, de R$ 0,2637 para R$ 0,5394 por litro.",
+   "Tributos federais no diesel aumentaram 99,1%, de R$ 0,1578 para R$ 0,3142 por litro.",
+   "Tributos federais na gasolina C subiram 76,6%, de R$ 0,3864 para R$ 0,6824 por litro.",
+   "Tributos federais no etanol cresceram 115,5%, de R$ 0,0892 para R$ 0,1922 por litro.",
+   "Tributos federais no GLP aumentaram 60,3%, de R$ 0,1046 para R$ 0,1677 por kg."
+  ],
+  "explicacao": [
+   "Entre janeiro de 2002 e agosto de 2026, o ICMS cobrado por litro de diesel B, combustível mais usado no Brasil, aumentou 735,7%. O valor do imposto por litro passou de R$ 0,1388 para R$ 1,1700. Esse aumento supera mais que o dobro da inflação medida pelo IPCA no período, que foi de 321,1%.",
+   "A alta do ICMS reflete o modelo ad valorem adotado pelos estados, em que o tributo é cobrado como um percentual do preço do combustível. Diferentemente dos tributos federais, que tiveram reajustes menores, o ICMS acompanhou o aumento do preço do combustível mais de perto.",
+   "Além do diesel, o imposto estadual também subiu significativamente no Gás Liquefeito de Petróleo (GLP) e na gasolina C, com aumentos de 425% e 273,8%, respectivamente. O etanol hidratado foi a exceção, com aumento aproximado de 107,7%, mais alinhado ao ritmo da inflação.",
+   "Já os tributos federais somados (PIS, Cofins e Cide) tiveram aumentos modestos no mesmo período, abaixo da inflação em geral. Isso mostra uma diferença clara entre política tributária federal e estadual no setor de combustíveis."
+  ],
+  "detalhes": [
+   "Período analisado: janeiro de 2002 a agosto de 2026.",
+   "Fonte dos dados: estudo da Empresa de Pesquisa Energética (EPE).",
+   "ICMS utiliza modelo ad valorem, percentual sobre o preço do combustível.",
+   "Tributação federal (PIS, Cofins e Cide) teve aumento menor que ICMS.",
+   "Diesel B é o principal combustível consumido no Brasil.",
+   "O aumento do ICMS no diesel é mais do que o dobro da inflação medida pelo IPCA.",
+   "Etanol teve aumento de imposto abaixo da inflação comparado a outros combustíveis."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "Janeiro de 2002",
+    "oque": "Início da liberalização dos preços dos combustíveis no Brasil"
+   },
+   {
+    "quando": "Agosto de 2026",
+    "oque": "Fim do período de análise do estudo da EPE sobre tributos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "ICMS",
+    "significado": "Imposto estadual sobre circulação de mercadorias"
+   },
+   {
+    "termo": "Ad valorem",
+    "significado": "Cobrança de imposto percentual sobre o preço do produto"
+   },
+   {
+    "termo": "PIS/Pasep, Cofins, Cide",
+    "significado": "Tributos federais cobrados sobre combustíveis"
+   }
+  ],
+  "pergunta": "Você sabia do impacto do ICMS no preço do diesel hoje?",
+  "tamanhoTexto": 1656,
+  "numeros": [
+   {
+    "valor": "735,7%",
+    "rotulo": "aumento do ICMS no diesel B entre 2002 e 2026"
+   },
+   {
+    "valor": "321,1%",
+    "rotulo": "inflação acumulada pelo IPCA no mesmo período"
+   },
+   {
+    "valor": "425%",
+    "rotulo": "alta do ICMS no GLP a granel de 2002 a 2026"
+   },
+   {
+    "valor": "273,8%",
+    "rotulo": "alta do ICMS na gasolina C no período"
+   },
+   {
+    "valor": "107,7%",
+    "rotulo": "aumento do ICMS no etanol hidratado"
+   },
+   {
+    "valor": "99,1%",
+    "rotulo": "aumento dos tributos federais no diesel B"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "735,7%",
+  "porQueImporta": "Entender a alta do ICMS sobre combustíveis como o diesel é essencial para quem opera ou investe, pois impacta custos, preços e setores ligados ao transporte e à produção. O aumento muito acima da inflação influencia a dinâmica do mercado e pode afetar decisões financeiras.",
+  "impactoMercado": "Para o mercado, a alta expressiva do ICMS pode pressionar custos em setores como transporte, agronegócio e indústria, que dependem do diesel. Isso pode influenciar a inflação e a margem de empresas desses setores, além de afetar o consumo de combustíveis e a demanda por ações ligadas.",
+  "entenda": "O ICMS é um imposto estadual cobrado sobre o preço dos combustíveis de forma percentual (ad valorem), o que faz sua cobrança variar com o preço do litro. Isso explica por que o ICMS no diesel subiu muito mais que os tributos federais, que são valores fixos por litro.",
+  "observar": "Importante acompanhar variações futuras do preço dos combustíveis e das alíquotas do ICMS, além de movimentos na política tributária estadual e federal que podem influenciar este cenário nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia conecta o aumento dos impostos sobre combustíveis ao custo para consumidores e empresas, mostrando a importância de entender impostos para operar no mercado e motivando conhecer conceitos financeiros fundamentais no curso.",
+  "gancho": "Alta do *ICMS* no *diesel*",
+  "ideias": [
+   "Como o ICMS impacta o preço do diesel no Brasil",
+   "Entenda a diferença entre tributos federais e estaduais nos combustíveis",
+   "Por que o ICMS no diesel subiu mais que a inflação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "url": "https://www.infomoney.com.br/economia/icms-sobre-o-diesel-acumula-alta-de-7357-desde-2002-acima-da-inflacao-acumulada/",
+  "publicadoEm": "2026-11-22T13:50:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-02"
+ },
+ {
+  "titulo": "Bolsas chinesas flexibilizam margem e reduzem taxas para apoiar ações",
+  "resumo": "As bolsas de Xangai, Shenzhen e Pequim vão reduzir o índice mínimo de margem de 100% para 80% a partir de 30/11, além de cortar taxas de negociação para impulsionar o mercado.",
+  "fatos": [
+   "As bolsas de Xangai, Shenzhen e Pequim reduziriam o índice mínimo de margem de 100% para 80% a partir de 30/11.",
+   "O volume de empréstimos de margem caiu mais de 20%, para 2,2 trilhões de iuanes, ante pico de 3 trilhões em junho.",
+   "O índice Shanghai Composite caiu quase 3% na semana passada, com menor cotação em 16 meses.",
+   "STAR Market e ChiNext caíram mais de 40% desde os picos de junho.",
+   "Bolsas de Xangai e Shenzhen anunciaram cortes de taxas para reduzir custos de negociação.",
+   "Bolsa de Shenzhen propôs mecanismo de formador de mercado no ChiNext para conter volatilidade.",
+   "Medidas ocorrem após Pequim divulgar ações para incentivar compra de ações no mercado.",
+   "Outros mercados asiáticos, como Coreia do Sul e Taiwan, também adotam mudanças regulatórias para estabilizar volatilidade.",
+   "As bolsas afirmaram que a flexibilização de margem melhorará liquidez e apoiará estabilidade a longo prazo.",
+   "Atividade de financiamento com margem enfraqueceu recentemente, apesar de alavancagem geral baixa."
+  ],
+  "explicacao": [
+   "As três maiores bolsas chinesas anunciaram medidas para apoiar o mercado acionário que enfrenta queda. A partir de 30 de novembro, o índice mínimo de margem para operações será reduzido de 100% para 80%, permitindo que investidores alavancem mais com a mesma garantia.",
+   "Essa flexibilização ocorre em meio a dificuldades no mercado chinês causadas pelo crescimento econômico lento, uma queda global nas ações do setor de inteligência artificial e tensões geopolíticas, que levaram índices como o Shanghai Composite a registrar a menor cotação em 16 meses.",
+   "Além da margem, as bolsas de Xangai e Shenzhen vão reduzir taxas para diminuir custos de negociação. A bolsa de Shenzhen ainda propôs criar um mecanismo de formador de mercado no ChiNext, focado em startups, para conter oscilações e melhorar a liquidez.",
+   "Essas ações seguem anúncios recentes de Pequim para estimular a compra de ações, buscando estabilizar o mercado e aumentar a confiança dos investidores. Com isso, as bolsas tentam reverter o enfraquecimento da atividade de financiamento com margem e a baixa alavancagem atual."
+  ],
+  "detalhes": [
+   "Quem: Bolsas de Xangai, Shenzhen e Pequim, autoridades regulatórias chinesas",
+   "Quando: Redução do índice de margem começa em 30 de novembro de 2026",
+   "Onde: Bolsas da China, incluindo plataformas STAR Market e ChiNext",
+   "Por que: Mercado sofre com crescimento lento, queda em ações de IA e tensões geopolíticas",
+   "Como: Redução do índice de margem de 100% para 80%, corte de taxas de negociação, mecanismo formador de mercado",
+   "Comparação: Volume de empréstimo de margem caiu de 3 trilhões para 2,2 trilhões de iuanes desde junho",
+   "Contexto: Mercado reage a dificuldade acionária e custo elevado para operar, buscando aumentar liquidez e confiança"
+  ],
+  "declaracoes": [
+   {
+    "quem": "As três bolsas de Xangai, Shenzhen e Pequim em comunicado",
+    "oque": "A flexibilização da margem vai melhorar a liquidez e apoiar a estabilidade e desenvolvimento saudável do mercado."
+   },
+   {
+    "quem": "As três bolsas de Xangai, Shenzhen e Pequim em comunicado",
+    "oque": "Atividade de financiamento com margem enfraqueceu significativamente, enquanto alavancagem geral está baixa."
+   },
+   {
+    "quem": "Bolsa de Shenzhen",
+    "oque": "Mecanismo de formador de mercado visa conter oscilações, melhorar eficiência e fortalecer resiliência do mercado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Novembro de 2026",
+    "oque": "Pequim anuncia medidas para incentivar compra de ações no mercado"
+   },
+   {
+    "quando": "22 de novembro de 2026",
+    "oque": "Três bolsas anunciam flexibilização da margem e outras medidas"
+   },
+   {
+    "quando": "30 de novembro de 2026",
+    "oque": "Início da redução do índice mínimo de margem para 80%"
+   },
+   {
+    "quando": "Semana anterior ao anúncio",
+    "oque": "Shanghai Composite cai quase 3%, menor valor em 16 meses"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Financiamento com margem",
+    "significado": "Empréstimo para comprar ações usando suas próprias ações como garantia."
+   },
+   {
+    "termo": "Formador de mercado",
+    "significado": "Participante que ajuda a dar liquidez e estabilidade no preço das ações."
+   },
+   {
+    "termo": "Índice mínimo de margem",
+    "significado": "Percentual mínimo de garantia exigida para operações com margem."
+   }
+  ],
+  "pergunta": "Você entende como a margem influencia suas operações na bolsa?",
+  "tamanhoTexto": 6247,
+  "numeros": [
+   {
+    "valor": "80%",
+    "rotulo": "Índice mínimo de margem a partir de 30/11"
+   },
+   {
+    "valor": "100%",
+    "rotulo": "Índice mínimo de margem anterior"
+   },
+   {
+    "valor": "2,2 trilhões iuanes",
+    "rotulo": "Empréstimos de margem em aberto atuais"
+   },
+   {
+    "valor": "3 trilhões iuanes",
+    "rotulo": "Pico de empréstimos de margem em junho"
+   },
+   {
+    "valor": "3%",
+    "rotulo": "Queda do Shanghai Composite na semana passada"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "Queda de STAR Market e ChiNext desde junho"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Índice mínimo de margem",
+    "antes": "100%",
+    "depois": "80%"
+   },
+   {
+    "item": "Volume de empréstimos de margem",
+    "antes": "3 trilhões de iuanes",
+    "depois": "2,2 trilhões de iuanes"
+   }
+  ],
+  "destaque": "Redução da margem",
+  "porQueImporta": "A flexibilização dos requisitos de margem e a redução de taxas impactam diretamente a liquidez e a confiança no mercado acionário chinês, essencial para investidores que buscam entender a dinâmica de estabilização de mercados em momentos de alta volatilidade e incertezas geopolíticas.",
+  "impactoMercado": "Essas medidas podem incentivar maior participação dos investidores no mercado chinês, aumentando operações com alavancagem e reduzindo custos, o que pode afetar setores tecnológicos e startups. Também sinalizam reação regulatória que influencia mercados asiáticos e estrangeiros conectados.",
+  "entenda": "Margem é o valor que o investidor deve garantir para operar com dinheiro emprestado na bolsa, permitindo alavancagem. Reduzir o índice mínimo de margem significa que é possível tomar mais crédito com a mesma garantia, ampliando potencial de compra, mas também riscos e liquidez no mercado.",
+  "observar": "Fique atento ao desempenho do Shanghai Composite e ao volume de operações com margem após 30 de novembro, além das respostas de outros mercados asiáticos às mudanças regulatórias nesta mesma janela.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Entenda as medidas chinesas para estabilizar um mercado abalado, ensinando conceitos úteis sobre margem, liquidez e volatilidade, fundamentais para quem opera ou quer aprender a investir.",
+  "gancho": "*Margem* flexibilizada na China",
+  "ideias": [
+   "O que muda com a redução da margem nas bolsas chinesas?",
+   "Como a flexibilização da margem impacta o investidor?",
+   "Entenda o papel dos formadores de mercado no ChiNext"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "seta",
+  "fonte": "InfoMoney; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "url": "https://www.infomoney.com.br/mercados/bolsas-chinesas-flexibilizam-requisitos-para-operacoes-com-margem/",
+  "publicadoEm": "2026-11-22T12:15:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-03"
+ },
+ {
+  "titulo": "EUA firmam acordos para reduzir dependência de minerais críticos no Pacífico",
+  "resumo": "Estados Unidos buscam diminuir dependência externa de minerais críticos por meio de acordos no Quad, envolvendo Japão, Índia e Austrália. A iniciativa visa proteger setores estratégicos e evitar pressões políticas por restrição de oferta.",
+  "fatos": [
+   "Reunião do Quad ocorreu nas Filipinas em novembro de 2026",
+   "Participantes: Estados Unidos, Japão, Índia e Austrália",
+   "Donald Trump anunciou novos acordos sobre minerais críticos",
+   "Objetivo é evitar vulnerabilidade e coerção na oferta desses minerais",
+   "Acordo preliminar com Tailândia prevê eliminação de tarifas e compras acima de US$ 18 bilhões",
+   "Compra inclui aeronaves, produtos agrícolas e gás natural liquefeito",
+   "A região do Indo-Pacífico tem disputas territoriais envolvendo a China",
+   "Estados Unidos reafirmam compromisso de defesa com as Filipinas",
+   "A inteligência artificial foi destaque na agenda do Quad",
+   "Próximas negociações incluirão China e assuntos de segurança internacional"
+  ],
+  "explicacao": [
+   "Os Estados Unidos anunciaram acordos com Japão, Índia e Austrália durante reunião do Quad nas Filipinas para garantir fornecimento seguro de minerais críticos. O presidente Donald Trump destacou que esses acordos evitam vulnerabilidades e coerção no acesso a esses recursos essenciais.",
+   "A motivação dessa estratégia é proteger setores industriais e tecnológicos que dependem desses minerais, além de evitar interrupções causadas por tensões políticas, conflitos comerciais e restrições exportacionais. A diversificação busca cadeias de suprimento estáveis.",
+   "Além de garantir segurança econômica, a iniciativa tem forte componente geopolítico, buscando equilibrar a influência chinesa na região do Indo-Pacífico. A cooperação militar também foi fortalecida com foco em estabilidade regional, somada ao investimento em tecnologia e IA.",
+   "No curto prazo, os EUA planejam avançar em acordos bilaterais, como com a Tailândia, para ampliar comércio e acesso a matérias-primas, com compromissos superiores a US$ 18 bilhões em compras. O movimento combina segurança econômica e fortalecimento de alianças estratégicas."
+  ],
+  "detalhes": [
+   "Trump enfatizou que a indústria americana depende dos minerais para inovação e segurança",
+   "Minerais críticos estão em equipamentos tecnológicos e defesa militar",
+   "A diversificação evita riscos como conflitos diplomáticos e mudanças nas políticas de exportação",
+   "O Quad busca ampliar integração para equilibrar influência econômica chinesa",
+   "Acordo com Tailândia resulta de negociações realizadas durante visita de Trump",
+   "Tensões no Mar do Sul da China afetam segurança regional e comércio",
+   "Os EUA planejam manutenção da liderança em inteligência artificial e tecnologia"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Donald Trump, presidente dos Estados Unidos",
+    "oque": "Anunciou acordos para evitar vulnerabilidade e coerção na oferta de minerais críticos"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Novembro de 2026",
+    "oque": "Reunião do Quad nas Filipinas com anúncio de acordos sobre minerais críticos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Minerais críticos",
+    "significado": "Recursos essenciais para tecnologia e indústria, com oferta limitada ou concentrada"
+   },
+   {
+    "termo": "Quad",
+    "significado": "Aliança estratégica entre EUA, Japão, Índia e Austrália"
+   },
+   {
+    "termo": "Indo-Pacífico",
+    "significado": "Região que engloba Ásia e Oceania, estratégica geopoliticamente"
+   }
+  ],
+  "pergunta": "Você conhece os minerais críticos e sua importância para a tecnologia?",
+  "tamanhoTexto": 8132,
+  "numeros": [
+   {
+    "valor": "US$ 18 bilhões",
+    "rotulo": "Valor previsto em compras pelo acordo com a Tailândia"
+   },
+   {
+    "valor": "14%",
+    "rotulo": "Queda nas ações da Nvidia citada na matéria"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 18 bilhões",
+  "porQueImporta": "Minerais críticos são essenciais para tecnologia e defesa. Para investidores, a estabilidade e diversificação no fornecimento reduzem riscos de interrupções na indústria tecnológica e militar dos EUA, refletindo nas cadeias globais de suprimentos e potencialmente nos mercados.",
+  "impactoMercado": "A estratégia dos EUA pode impactar setores industriais de tecnologia e defesa, influenciar cadeias de suprimento globais e afetar negociações comerciais e cooperação militar na Ásia. Empresas ligadas a minerais críticos e tecnologias emergentes podem ser diretamente afetadas.",
+  "entenda": "Minerais críticos são matérias-primas fundamentais para produtos tecnológicos, equipamentos industriais e defesa. A dependência de poucos fornecedores pode causar riscos, como falta de insumos. Diversificar o fornecimento ajuda a garantir estabilidade e segurança econômica e tecnológica.",
+  "observar": "Acompanhe as próximas negociações comerciais entre EUA e Tailândia, e os desdobramentos das conversas de Trump com China sobre segurança e comércio, que podem influenciar o cenário estratégico e econômico regional.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "Iniciantes"
+  ],
+  "angulo": "Explique como a geopolítica e a economia global se cruzam em acordos estratégicos para garantir fornecimento seguro de matérias-primas vitais para tecnologia, enriquecendo o aprendizado em mercado financeiro e política internacional.",
+  "gancho": "*Minerais* e *geopolítica* EUA-Ásia",
+  "ideias": [
+   "Como os minerais críticos influenciam a economia global",
+   "Entenda a aliança do Quad para garantir recursos estratégicos",
+   "Por que os EUA querem reduzir dependência da China em minerais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Global",
+  "icone": "globo",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "url": "https://timesbrasil.com.br/mundo/por-que-os-estados-unidos-querem-reduzir-a-dependencia-de-outros-paises-no-fornecimento-de-minerais-criticos/",
+  "publicadoEm": "2026-11-22T14:00:00-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-04"
+ },
+ {
+  "titulo": "PIB do Chile cai 1,8% no 3º tri, pior queda desde 2020",
+  "resumo": "PIB chileno recuou 1,8% no terceiro trimestre ante o anterior, segundo o BC. Presidente Rosanna Costa destaca baixa confiança empresarial e adiamento de projetos.",
+  "fatos": [
+   "PIB do Chile caiu 1,8% no 3º trimestre em comparação ao 2º trimestre.",
+   "Esta foi a pior queda do PIB chileno desde 2020.",
+   "Presidente do Banco Central, Rosanna Costa, indicou baixa confiança empresarial.",
+   "Rosanna Costa apontou mineração abaixo do esperado.",
+   "Desemprego elevado, clima severo e baixa do cobre afetaram negativamente o PIB.",
+   "Taxa básica de juros do Chile está em 4,5% ao ano, sem alteração recente.",
+   "Próxima decisão de juros será em 15 de dezembro.",
+   "Ministro da Fazenda Jorge Quiroz projeta crescimento acima de 3% em 2027 e até 4% em 2028."
+  ],
+  "explicacao": [
+   "No terceiro trimestre, o PIB do Chile caiu 1,8% em relação ao segundo trimestre, registrando o pior resultado desde 2020, conforme divulgado pelo Banco Central.",
+   "A presidente do BC, Rosanna Costa, atribui a queda à baixa confiança das empresas, adiamento de projetos e desempenho abaixo do esperado da mineração, setor fundamental na economia chilena.",
+   "Além disso, fatores como o desemprego elevado, clima severo e o preço fraco do cobre pressionaram a atividade econômica do país neste período.",
+   "Apesar do cenário negativo, o ministro da Fazenda Jorge Quiroz projeta recuperação com crescimento acima de 3% em 2027 e até 4% em 2028, conforme estímulos aos investimentos surtirem efeito."
+  ],
+  "detalhes": [
+   "Rosanna Costa é a presidente do Banco Central do Chile.",
+   "A queda no PIB foi medida entre o terceiro e o segundo trimestre deste ano.",
+   "Desemprego, mineração e clima foram citados como causas da retração.",
+   "O cobre, principal commodity chilena, teve baixo desempenho no período.",
+   "A taxa Selic chilena permanece estável em 4,5% ao ano.",
+   "Ministro Jorge Quiroz falou sobre projeções positivas para os próximos anos.",
+   "A próxima reunião do Banco Central para definir juros será em 15 de dezembro."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rosanna Costa, presidente do Banco Central do Chile",
+    "oque": "Confiança empresarial está baixa e projetos foram adiados, retardando a retomada."
+   },
+   {
+    "quem": "Jorge Quiroz, ministro da Fazenda",
+    "oque": "Projeção de crescimento acima de 3% em 2027 e até 4% em 2028 com investimentos futuros."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "3º trimestre de 2023",
+    "oque": "PIB do Chile caiu 1,8% ante o 2º trimestre."
+   },
+   {
+    "quando": "15 de dezembro de 2023",
+    "oque": "Próxima decisão sobre a taxa de juros chilena."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PIB",
+    "significado": "valor total dos bens e serviços produzidos no país"
+   },
+   {
+    "termo": "Taxa de juros",
+    "significado": "percentual usado para controlar a economia, afeta investimentos e consumo"
+   },
+   {
+    "termo": "Confiança empresarial",
+    "significado": "índice que mostra o otimismo das empresas sobre a economia"
+   }
+  ],
+  "pergunta": "Como você acha que a queda do PIB afeta seus investimentos no Chile?",
+  "tamanhoTexto": 3756,
+  "numeros": [
+   {
+    "valor": "1,8%",
+    "rotulo": "queda do PIB chileno no 3º trimestre"
+   },
+   {
+    "valor": "4,5%",
+    "rotulo": "taxa básica de juros atual do Chile"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "ano previsto para crescimento acima de 3%"
+   },
+   {
+    "valor": "2028",
+    "rotulo": "ano previsto para crescimento até 4%"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "PIB Chile 3º trimestre",
+    "antes": "dados anteriores não especificados",
+    "depois": "-1,8% em relação ao 2º trimestre"
+   }
+  ],
+  "destaque": "queda de 1,8%",
+  "porQueImporta": "A queda do PIB chileno reflete desafios econômicos reais como baixa confiança e condições adversas, que impactam setores de mineração e emprego. Investidores e operadores precisam entender o impacto dessa desaceleração nas decisões relacionadas a ativos da região.",
+  "impactoMercado": "A retração econômica pode afetar mercados ligados a commodities como cobre e influenciar juros locais e investimentos. A estabilidade da taxa em 4,5% e a próxima reunião são eventos importantes para quem acompanha a economia chilena.",
+  "entenda": "O PIB (Produto Interno Bruto) mede a soma da produção econômica do país, indicador chave para avaliar crescimento ou recessão. Uma queda no PIB indica desaceleração; fatores como desemprego e baixa mineração influenciam essa variação.",
+  "observar": "Acompanhe a decisão do Banco Central sobre juros em 15 de dezembro e projeções econômicas para 2027 e 2028 para entender tendências futuras.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Ao explicar a queda do PIB chileno com dados e causas concretas, este conteúdo ajuda o seguidor a entender ciclos econômicos e a importância de indicadores para acompanhar o mercado e decisões da faculdade.",
+  "gancho": "*PIB* do Chile em queda",
+  "ideias": [
+   "Por que o PIB do Chile caiu 1,8% no 3º trimestre?",
+   "Impactos do desemprego e mineração no PIB chileno",
+   "O que a baixa confiança empresarial significa para o mercado chileno?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "queda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "url": "https://bpmoney.com.br/economia/internacional-economia/pib-chile-cai-18-pior-resultado-desde-2020-banco-central-retomada-lenta/",
+  "publicadoEm": "2026-11-22T13:49:45-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-05"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-in-november-2026",
+  "titulo": "Mercado de previsões vê 73.5% de chance do Bitcoin atingir acima de 62,500 antes de dezembro.",
+  "resumo": "Os apostadores estão otimistas com uma valorização do Bitcoin, prevendo preços acima de 62,500.",
+  "probs": [
+   {
+    "opcao": "↑ 62,500",
+    "prob": 73.5
+   },
+   {
+    "opcao": "↓ 60,000",
+    "prob": 58.5
+   },
+   {
+    "opcao": "↓ 57,500",
+    "prob": 50.5
+   },
+   {
+    "opcao": "↑ 65,000",
+    "prob": 40.5
+   }
+  ],
+  "prazo": "2026-12-01",
+  "volume24h": "US$ 522 mil",
+  "fatos": [
+   "↑ 62,500: 73,5%",
+   "↓ 60,000: 58,5%",
+   "↓ 57,500: 50,5%",
+   "↑ 65,000: 40,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "73,5%",
+    "rotulo": "↑ 62,500"
+   },
+   {
+    "valor": "58,5%",
+    "rotulo": "↓ 60,000"
+   },
+   {
+    "valor": "50,5%",
+    "rotulo": "↓ 57,500"
+   },
+   {
+    "valor": "40,5%",
+    "rotulo": "↑ 65,000"
+   }
+  ],
+  "destaque": "73,5%",
+  "gancho": "*Otimismo em alta* para o Bitcoin",
+  "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-november-2026",
+  "publicadoEm": "2026-11-22T14:24:53-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "data": "2026-11-22",
+  "status": "nova",
+  "id": "2026-11-22-p1"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-ethereum-hit-in-november-2026",
+  "titulo": "Mercado de previsões vê 67.0% de chance de Ethereum cair abaixo de 1,700 em novembro.",
+  "resumo": "Uma maioria dos apostadores espera que o Ethereum não ultrapasse 1,700 neste período, refletindo uma expectativa de queda.",
+  "probs": [
+   {
+    "opcao": "↓ 1,700",
+    "prob": 67.0
+   },
+   {
+    "opcao": "↑ 1,800",
+    "prob": 60.5
+   },
+   {
+    "opcao": "↓ 1,600",
+    "prob": 51.5
+   },
+   {
+    "opcao": "↑ 1,900",
+    "prob": 28.5
+   }
+  ],
+  "prazo": "2026-12-01",
+  "volume24h": "US$ 284 mil",
+  "fatos": [
+   "↓ 1,700: 67,0%",
+   "↑ 1,800: 60,5%",
+   "↓ 1,600: 51,5%",
+   "↑ 1,900: 28,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "67,0%",
+    "rotulo": "↓ 1,700"
+   },
+   {
+    "valor": "60,5%",
+    "rotulo": "↑ 1,800"
+   },
+   {
+    "valor": "51,5%",
+    "rotulo": "↓ 1,600"
+   },
+   {
+    "valor": "28,5%",
+    "rotulo": "↑ 1,900"
+   }
+  ],
+  "destaque": "67,0%",
+  "gancho": "*Previsão conservadora* para Ethereum",
+  "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-november-2026",
+  "publicadoEm": "2026-11-22T14:24:53-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "data": "2026-11-22",
+  "status": "nova",
+  "id": "2026-11-22-p2"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "how-many-fed-rate-cuts-in-2026",
+  "titulo": "Mercado de previsões vê 98.4% de chance de nenhuma redução da taxa pelo Fed em 2026.",
+  "resumo": "Apenas uma pequena fração de apostadores acredita em cortes nas taxas de juros, sugerindo estabilidade nas políticas do Fed.",
+  "probs": [
+   {
+    "opcao": "0 (0 bps)",
+    "prob": 98.4
+   },
+   {
+    "opcao": "1 (25 bps)",
+    "prob": 0.4
+   },
+   {
+    "opcao": "2 (50 bps)",
+    "prob": 0.1
+   },
+   {
+    "opcao": "3 (75 bps)",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 100 mil",
+  "fatos": [
+   "0 (0 bps): 98,4%",
+   "1 (25 bps): 0,4%",
+   "2 (50 bps): 0,1%",
+   "3 (75 bps): 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "98,4%",
+    "rotulo": "0 (0 bps)"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "1 (25 bps)"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "2 (50 bps)"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "3 (75 bps)"
+   }
+  ],
+  "destaque": "98,4%",
+  "gancho": "*Estabilidade esperada* nas taxas do Fed",
+  "entenda": "As decisões de taxa de juros do Fed impactam os custos de empréstimos e o crescimento econômico. A expectativa de não haver cortes é um sinal de confiança no cenário econômico.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+  "publicadoEm": "2026-11-22T14:24:53-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "data": "2026-11-22",
+  "status": "nova",
+  "id": "2026-11-22-p3"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "largest-company-end-of-december-2026",
+  "titulo": "Mercado de previsões vê 94.8% de chance da Apple ser a maior empresa até dezembro.",
+  "resumo": "Os apostadores acreditam fortemente que a Apple permanecerá na liderança entre as empresas em valor de mercado no final do ano.",
+  "probs": [
+   {
+    "opcao": "Apple",
+    "prob": 94.8
+   },
+   {
+    "opcao": "NVIDIA",
+    "prob": 2.8
+   },
+   {
+    "opcao": "Alphabet",
+    "prob": 1.2
+   },
+   {
+    "opcao": "Microsoft",
+    "prob": 1.1
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 68 mil",
+  "fatos": [
+   "Apple: 94,8%",
+   "NVIDIA: 2,8%",
+   "Alphabet: 1,2%",
+   "Microsoft: 1,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "94,8%",
+    "rotulo": "Apple"
+   },
+   {
+    "valor": "2,8%",
+    "rotulo": "NVIDIA"
+   },
+   {
+    "valor": "1,2%",
+    "rotulo": "Alphabet"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "Microsoft"
+   }
+  ],
+  "destaque": "94,8%",
+  "gancho": "*Apple continua* no topo do mercado",
+  "entenda": "O valor das empresas é influenciado por suas performances financeiras e inovações. Prever qual será a maior empresa ajuda a entender as dinâmicas do mercado.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+  "publicadoEm": "2026-11-22T14:24:53-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-22T14:24:53-03:00",
+  "data": "2026-11-22",
+  "status": "nova",
+  "id": "2026-11-22-p4"
+ },
+ {
   "titulo": "Chicago Bears planeja estádio de US$ 10 bilhões em Chicago",
   "resumo": "Projeto Bronzeville Lakefront, de US$ 10 bilhões, prevê estádio para 75 mil pessoas e 5 mil moradias. Iniciativa visa manter o Chicago Bears na cidade e impulsionar a economia local.",
   "fatos": [
@@ -17012,150 +17898,6 @@
   "id": "2026-11-15-11"
  },
  {
-  "titulo": "Banco Central decreta 21 liquidações, 11 ligadas ao caso Master",
-  "resumo": "Em 2026, Banco Central liquidou 21 instituições, 11 conectadas ao Banco Master, maior número desde 2002. A ação reforça o aperto regulatório após escândalos financeiros.",
-  "fatos": [
-   "Banco Central liquidou 21 instituições em 2026.",
-   "11 dessas instituições tinham ligação com o Banco Master.",
-   "Maior número de liquidações desde 2002, que teve 24 encerramentos.",
-   "Banco Master e instituições do seu conglomerado foram liquidadas em novembro de 2025.",
-   "Capital mínimo para instituições de pagamento subiu de R$ 1 milhão para R$ 9,2 milhões.",
-   "Fundo Garantidor de Créditos resgatou mais de R$ 50 bilhões no caso Master.",
-   "Empresa MW foi liquidada por envolvimento em apostas ilegais.",
-   "Cronograma prevê que regras de capital exigido entrem completamente em vigor até 1º de janeiro de 2028.",
-   "Número de processos administrativos sancionadores aumentou no BC.",
-   "Esquemas suspeitos envolveram participação com o PCC e fraudes com carteiras de crédito."
-  ],
-  "explicacao": [
-   "O Banco Central decretou, em 2026, a liquidação extrajudicial de 21 instituições financeiras, das quais 11 estavam relacionadas ao Banco Master, do empresário Daniel Vorcaro. Esse foi o maior número de encerramentos desde 2002, quando 24 entidades foram liquidadas.",
-   "O endurecimento da fiscalização foi motivado pelo caso Master, que expôs graves irregularidades financeiras e envolvimento com o crime organizado, desencadeando uma série de liquidações em corretoras, cooperativas e outras instituições de pequeno porte.",
-   "Essa ação significa uma postura mais rigorosa do BC para proteger o sistema financeiro e evitar novos escândalos, aumentando requisitos como o capital mínimo para instituições de pagamento, que subiu de R$ 1 milhão para R$ 9,2 milhões.",
-   "Nas próximas etapas, espera-se estabilização do mercado à medida que as instituições se adapte às regras mais rígidas, enquanto o BC continua a monitorar e ajustar suas políticas para equilibrar inovação e segurança."
-  ],
-  "detalhes": [
-   "Daniel Vorcaro é dono do Banco Master e esteve no centro das liquidações.",
-   "O endurecimento do BC foi motivado pelo trauma provocado pelo caso Master desde novembro de 2025.",
-   "Instituições pequenas como corretoras e cooperativas foram alvo desse fechamento em série.",
-   "Investigações apontaram ligação entre algumas instituições e organizações criminosas, como o PCC.",
-   "Regras novas de capital são parte da resposta para barrar a infiltração do crime no sistema financeiro.",
-   "O BC também estabeleceu regras para criptoativos a partir de novembro de 2025, exigindo autorizações.",
-   "O processo de ajuste das instituições às novas regras deve durar até o final de 2027, segundo o calendário do BC."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Bruno Balduccini, sócio do Pinheiro Neto Advogados",
-    "oque": "BC está endurecendo regras e fiscalizando mais após cenário de fraude e crimes no sistema financeiro."
-   },
-   {
-    "quem": "Ricardo Hammoud, professor da FGV",
-    "oque": "Número de liquidações deve diminuir à medida que instituições se adaptam ao BC mais rigoroso."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "18 de novembro de 2025",
-    "oque": "BC comunicou liquidação do Banco Master e outras quatro instituições do mesmo grupo."
-   },
-   {
-    "quando": "março de 2026",
-    "oque": "Banco Master Múltiplo foi liquidado após regime especial temporário."
-   },
-   {
-    "quando": "setembro de 2026",
-    "oque": "BC anunciou liquidação da Trustee e Banvox, ligadas a ex-sócio do banco Master."
-   },
-   {
-    "quando": "1º de janeiro de 2028",
-    "oque": "Fim do prazo para adaptação das instituições às novas regras de capital."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Liquidação Extrajudicial",
-    "significado": "Encerramento forçado de instituição pelo BC devido a problemas financeiros graves."
-   },
-   {
-    "termo": "Capital mínimo",
-    "significado": "Montante mínimo de recursos que uma instituição financeira deve manter para operar."
-   },
-   {
-    "termo": "Regime de Administração Especial Temporária",
-    "significado": "Estado de alerta e intervenções para instituição antes da liquidação definitiva."
-   }
-  ],
-  "pergunta": "Você sabia do impacto do caso Master no controle do BC sobre instituições financeiras?",
-  "tamanhoTexto": 7844,
-  "numeros": [
-   {
-    "valor": "21",
-    "rotulo": "liquidações decretadas pelo BC em 2026"
-   },
-   {
-    "valor": "11",
-    "rotulo": "instituições relacionadas ao Banco Master liquidadas"
-   },
-   {
-    "valor": "24",
-    "rotulo": "liquidações em 2002, ano recorde anterior"
-   },
-   {
-    "valor": "R$ 1 milhão",
-    "rotulo": "capital mínimo anterior para instituições de pagamento"
-   },
-   {
-    "valor": "R$ 9,2 milhões",
-    "rotulo": "novo capital mínimo exigido para instituições de pagamento"
-   },
-   {
-    "valor": "R$ 50 bilhões",
-    "rotulo": "valor resgatado pelo Fundo Garantidor de Créditos no caso Master"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Capital mínimo para instituições de pagamento",
-    "antes": "R$ 1 milhão",
-    "depois": "R$ 9,2 milhões"
-   }
-  ],
-  "destaque": "21 liquidações em",
-  "porQueImporta": "Para quem investe, entender o endurecimento das regras do Banco Central após escândalos como o caso Master é crucial para avaliar riscos em instituições financeiras pequenas e em setores vulneráveis, como pagamentos e crédito.",
-  "impactoMercado": "O maior rigor do BC pode afetar corretores, instituições de pagamento e fintechs, impactando aprovação de novas empresas e exigindo adequação de capital e compliance, com reflexos em juros, crédito e operações financeiras.",
-  "entenda": "Liquidação extrajudicial é medida do BC para encerrar instituições financeiras com problemas graves e risco sistêmico, protegendo o sistema e os clientes ao retirar do mercado entidades irrecuperáveis.",
-  "observar": "Acompanhe o cumprimento do prazo até 1º de janeiro de 2028 para adequação das instituições às novas regras de capital e possíveis novos anúncios de liquidações pelo BC.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT",
-   "Empresários",
-   "Aposentados"
-  ],
-  "angulo": "Essa notícia mostra na prática como um escândalo financeiro pode provocar mudanças estruturais de fiscalização, importante para quem quer entender como o mercado financeiro se regula e protege investidores.",
-  "gancho": "*Master* e as liquidações no *BC*",
-  "ideias": [
-   "O que é liquidação extrajudicial do Banco Central?",
-   "Como o caso Master impactou o mercado financeiro brasileiro",
-   "Entenda a nova regra de capital para instituições financeiras"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "escudo",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T22:23:06-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caso-master-leva-banco-central-ao-maior-numero-de-liquidacoes-desde-2002.shtml",
-  "publicadoEm": "2026-11-14T23:00:00-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-15-12"
- },
- {
   "titulo": "Dirigente do Fed alerta que inflação nos EUA vai na direção errada",
   "resumo": "Jeff Schmid, presidente do Fed de Kansas City, afirma que inflação está acima da meta de 2% e o Fed tem trabalho para conter os preços. Mercados já precificam alta de juros em dezembro de 0,25 ponto percentual.",
   "fatos": [
@@ -18337,1379 +19079,5 @@
   "status": "atualizada",
   "id": "2026-11-15-p1",
   "atualizadoEm": "2026-11-20T15:01:54-03:00"
- },
- {
-  "titulo": "Mercado prevê juros acima de 10% até 2030 nos mandatos de Lula",
-  "resumo": "Pesquisa do Banco Central com 100 bancos indica que a Selic não cai para dígitos únicos até 2030, mantendo juros em dois dígitos durante os mandatos de Lula.",
-  "fatos": [
-   "Pesquisa do BC consultou mais de 100 bancos na última semana.",
-   "Atualmente, a Selic está em 13,75% ao ano, o mesmo nível do início de 2023.",
-   "Até maio de 2026, mercado previa Selic em 9,75% ao ano para 2030; depois, passou para 10%.",
-   "Dívida pública brasileira está em 82,9% do PIB pelo BC e 95,2% do PIB pelo FMI.",
-   "Déficits nas contas públicas persistiram durante o terceiro mandato de Lula apesar de aumento de impostos.",
-   "Pacote fiscal recente foca principalmente em aumento de receita, sem ajustes significativos em despesas.",
-   "Economistas destacam necessidade de revisão de benefícios previdenciários e programas como MEI e Simples Nacional."
-  ],
-  "explicacao": [
-   "A pesquisa realizada pelo Banco Central com mais de 100 instituições financeiras mostrou que a taxa Selic permanecerá acima de 10% ao ano até pelo menos 2030. Isso representa manter juros em dois dígitos durante os terceiro e quarto mandatos do presidente Lula.",
-   "Essa perspectiva é influenciada pelos déficits sucessivos nas contas públicas, mesmo com a carga tributária recorde e aumentos de impostos. A falta de ajuste fiscal mais rigoroso tem levado à percepção de que a dívida pública continuará crescente.",
-   "A taxa Selic, atualmente em 13,75% ao ano, está no maior patamar real do mundo. Juros elevados pressionam negativamente a economia ao encarecer crédito e aumentar despesas do setor público, gerando um ciclo que dificulta o corte da taxa.",
-   "Para reverter o cenário, economistas apontam necessidade de corte estrutural de despesas, especialmente em gastos obrigatórios, e ajustes fiscais que deem credibilidade à trajetória da dívida, juntamente com mudanças em benefícios e regimes tributários especiais."
-  ],
-  "detalhes": [
-   "Expectativa atual indica juros de dois dígitos até o fim de 2030 durante mandatos de Lula.",
-   "Taxa básica de juros não caiu para um dígito até 2026, embora se projetasse isso em 2023.",
-   "Dívida pública alta limita espaço para queda da Selic e contribui para prêmios fiscais elevados.",
-   "Equipe econômica flexibilizou metas fiscais, usando receitas extraordinárias e despesas fora do teto.",
-   "Juros reais no Brasil estão em 9,49% ao ano, o maior patamar mundial.",
-   "Analistas apontam que o pacote fiscal não muda a trajetória fiscal nem reduz risco da dívida.",
-   "A inflação, crescimento de despesas obrigatórias e alta dívida formam um ciclo vicioso elevando juros."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Jeferson Bittencourt, head de macroeconomia do ASA",
-    "oque": "Não há confiança suficiente no ajuste fiscal para estabilizar a dívida nos mandatos de Lula."
-   },
-   {
-    "quem": "Solange Srour, diretora de macroeconomia do UBS GWM Brasil",
-    "oque": "Juros altos refletem dúvidas sobre sustentabilidade da dívida e crescimento estrutural das despesas."
-   },
-   {
-    "quem": "Jeferson Bittencourt",
-    "oque": "O pacote fiscal foca mais no aumento da receita e pouco no corte de despesas, mantendo a estratégia atual."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Início de 2023",
-    "oque": "Mercado previa queda da Selic para dígito único já em 2024."
-   },
-   {
-    "quando": "Maio de 2026",
-    "oque": "Previsão de Selic para 2030 caiu para 9,75% ao ano."
-   },
-   {
-    "quando": "Após maio de 2026",
-    "oque": "Previsão da Selic para 2030 foi revisada para 10% ao ano."
-   },
-   {
-    "quando": "14 de novembro de 2026",
-    "oque": "Pesquisa do BC revelou projeções atuais do mercado para a Selic até 2030."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros usada pelo BC para controlar inflação."
-   },
-   {
-    "termo": "Dívida Pública",
-    "significado": "Total de empréstimos contraídos pelo governo."
-   },
-   {
-    "termo": "Déficit Público",
-    "significado": "Quando despesas do governo superam suas receitas."
-   }
-  ],
-  "pergunta": "Você acha que o Brasil conseguirá reduzir os juros abaixo de 10% até 2030?",
-  "tamanhoTexto": 9738,
-  "numeros": [
-   {
-    "valor": "13,75%",
-    "rotulo": "Taxa Selic atual (novembro 2026)"
-   },
-   {
-    "valor": "9,49%",
-    "rotulo": "Juros reais atuais no Brasil"
-   },
-   {
-    "valor": "82,9%",
-    "rotulo": "Dívida pública em % do PIB segundo BC"
-   },
-   {
-    "valor": "95,2%",
-    "rotulo": "Dívida pública em % do PIB segundo FMI"
-   },
-   {
-    "valor": "100",
-    "rotulo": "Instituições financeiras consultadas pelo BC"
-   },
-   {
-    "valor": "10%",
-    "rotulo": "Projeção mínima da Selic para 2030"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Projeção Selic para 2030",
-    "antes": "9,75% ao ano (até maio de 2026)",
-    "depois": "10% ao ano (a partir de maio de 2026)"
-   }
-  ],
-  "destaque": "Juros acima de",
-  "porQueImporta": "Juros altos por tanto tempo indicam maior custo para crédito e financiamento, impactando investimentos e economia. A alta persistente da Selic também reflete desafios fiscais e limita espaço para redução de custos financeiros, influenciando operações na Bolsa, renda fixa e câmbio.",
-  "impactoMercado": "A manutenção da Selic em dois dígitos pode frear o consumo e o crescimento econômico, aumentar despesas públicas e dificultar redução da dívida. Setores dependentes de crédito ficam mais pressionados, e investidores precisam acompanhar ajustes fiscais e políticas para entender tendências de juros e inflação.",
-  "entenda": "A Selic é a taxa básica de juros do Brasil, definida pelo Banco Central para controlar a inflação. Juros altos tornam empréstimos mais caros, impactando consumo e investimentos. A projeção de juros elevados significa que o mercado não espera condições econômicas favoráveis para redução da taxa no curto e médio prazo.",
-  "observar": "Fique atento a futuras propostas de reforma fiscal e anúncios do BC sobre a política monetária, que podem alterar as projeções para a Selic e o cenário da dívida pública.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Explicar as projeções de juros altos ajuda quem quer entender a influência das contas públicas na taxa Selic e seus efeitos para investimentos e crédito, ligando à importância de conhecer fundamentos econômicos para operar com mais segurança.",
-  "gancho": "*Juros*, *Selic* e *dívida* 2030",
-  "ideias": [
-   "Por que a Selic deve ficar acima de 10% até 2030?",
-   "Efeito dos déficits públicos nos juros altos no Brasil",
-   "Como juros elevados impactam seu bolso e seus investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "G1 Economia",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T22:18:27-03:00",
-  "url": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
-  "publicadoEm": "2026-11-14T00:00:00-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-10"
- },
- {
-  "titulo": "Binance prevê retomar saques totais até próxima semana",
-  "resumo": "Binance anuncia reabertura completa dos saques até o fim da próxima semana, após roubo de US$ 6,3 bilhões ligado à Coreia do Norte.",
-  "fatos": [
-   "Roubo de US$ 6,3 bilhões em criptomoedas ocorreu em 29 de outubro de 2026.",
-   "Binance reabriu saques para 87 redes nesta semana.",
-   "Meta de reabrir todos os saques é até o final da próxima semana.",
-   "Binance recuperou 95% dos tokens roubados.",
-   "FBI e Binance atribuem roubo a grupo norte-coreano 'TraderTraitor'.",
-   "Violação de segurança iniciou em junho de 2026.",
-   "Kaiser Ng, diretor financeiro, saiu pouco após o roubo.",
-   "Justin Yek assumiu como novo diretor financeiro da Binance."
-  ],
-  "explicacao": [
-   "A Binance, maior corretora de criptomoedas, anunciou em 14 de novembro de 2026 que pretende reabrir os saques para todas as redes e ativos até o final da próxima semana, após uma fase inicial que já liberou 87 redes.",
-   "O motivo dessa retomada gradual é a violação severa ocorrida em outubro, quando hackers associados à Coreia do Norte roubaram US$ 6,3 bilhões em criptomoedas da plataforma, considerado o maior roubo desse tipo na história.",
-   "A empresa conseguiu recuperar cerca de 95% do valor roubado e está avançando na normalização dos serviços, o que ajuda a restabelecer a confiança dos usuários e a continuidade das operações na plataforma.",
-   "Após o incidente, o diretor financeiro Kaiser Ng deixou a Binance e foi substituído por Justin Yek, que destacou-se como vice-presidente financeiro na Airwallex, reforçando o compromisso da empresa em superar a crise."
-  ],
-  "detalhes": [
-   "O roubo foi vinculado pela investigação à Coreia do Norte, que negou envolvimento.",
-   "A operação de hacking teve várias fases, iniciando meses antes do roubo final.",
-   "A retomada dos saques ocorre em etapas para garantir segurança e estabilidade.",
-   "A Binance se comprometeu a reembolsar integralmente os clientes afetados.",
-   "O novo CFO Justin Yek vem da Airwallex, trazendo experiência financeira.",
-   "O grupo 'TraderTraitor' é o principal suspeito por investigadores de blockchain.",
-   "A falha expôs vulnerabilidades nos ativos digitais e alertou o mercado."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Binance em postagem no X",
-    "oque": "Nosso objetivo é reabrir todos os saques restantes até o final da próxima semana."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "junho de 2026",
-    "oque": "Início das brechas de segurança na Binance."
-   },
-   {
-    "quando": "29 de outubro de 2026",
-    "oque": "Roubo de US$ 6,3 bilhões em criptomoedas da Binance."
-   },
-   {
-    "quando": "novembro de 2026",
-    "oque": "Binance começa a reabrir saques em fases, recuperando 95% dos valores roubados."
-   },
-   {
-    "quando": "14 de novembro de 2026",
-    "oque": "Anúncio da previsão para retomada total dos saques na próxima semana."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Saques",
-    "significado": "Retirada de dinheiro ou ativos digitais da corretora."
-   },
-   {
-    "termo": "Tokens",
-    "significado": "Unidades digitais que representam criptomoedas ou ativos."
-   },
-   {
-    "termo": "Hackers",
-    "significado": "Pessoa ou grupo que invade sistemas para roubar ou danificar."
-   }
-  ],
-  "pergunta": "Como você vê a segurança das suas criptomoedas após ataques como esse?",
-  "tamanhoTexto": 3081,
-  "numeros": [
-   {
-    "valor": "6,3 bilhões",
-    "rotulo": "US$ roubados em criptomoedas"
-   },
-   {
-    "valor": "87",
-    "rotulo": "redes com saques reabertos nesta semana"
-   },
-   {
-    "valor": "95%",
-    "rotulo": "percentual de tokens roubados recuperados"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "US$ 6,3 bilhões",
-  "porQueImporta": "Essa notícia é crucial para investidores e operadores porque mostra a capacidade da maior corretora de criptomoedas do mundo de recuperar e normalizar operações após um grande ataque, afetando liquidez, confiança e segurança no mercado cripto.",
-  "impactoMercado": "A retomada dos saques pode reduzir a volatilidade nos ativos digitais e amenizar temores sobre segurança em corretoras, influenciando negociações de criptomoedas e decisões sobre alocação em criptoativos.",
-  "entenda": "O saque em corretoras é a retirada de recursos pelos usuários. Quando uma corretora sofre ataques, os saques podem ser bloqueados para proteger fundos, o que impacta o acesso ao dinheiro investido.",
-  "observar": "Acompanhe se Binance cumpre a previsão de liberar todos os saques na próxima semana e eventuais atualizações sobre o processo de recuperação dos fundos roubados.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia oferece um estudo de caso real sobre segurança, riscos e recuperação no mercado de criptomoedas, incentivando o aprendizado e a prática segura que a academia Trader School Wendell Guimarães promove.",
-  "gancho": "*Binance* e o maior roubo cripto",
-  "ideias": [
-   "O maior roubo de cripto da história explicado",
-   "Como a Binance está recuperando fundos roubados",
-   "Segurança em corretoras: lições do ataque à Binance"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Cripto",
-  "icone": "cadeado",
-  "fonte": "Valor Econômico",
-  "impacto": "alto",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T22:18:27-03:00",
-  "url": "https://valor.globo.com/financas/noticia/2026/11/14/binance-prev-retomada-total-dos-saques-at-a-prxima-semana.ghtml",
-  "publicadoEm": "2026-11-14T14:01:30-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-11"
- },
- {
-  "titulo": "IA será motor principal de competitividade para 88% das empresas até 2030",
-  "resumo": "Pesquisa da IDC para Microsoft aponta que 88% das empresas brasileiras esperam IA como chave competitiva até 2030. Hoje, 23% já usam IA; em 2 anos, a meta é 51%.",
-  "fatos": [
-   "88% das empresas esperam IA como principal motor de competitividade até 2030.",
-   "Pesquisa realizada pela IDC e Microsoft com 73 executivos de empresas com mais de mil funcionários.",
-   "Atualmente, 23% das empresas já utilizam IA em produção; previsão é 51% nos próximos 24 meses.",
-   "Ganhos médios relatados de 24,5% associados a iniciativas de IA.",
-   "58% dos executivos consideram IA generativa e agentes IA as tecnologias mais estratégicas para os próximos dois anos.",
-   "28% do orçamento atual das empresas é destinado a iniciativas de IA; deve subir a 45% até 2028.",
-   "56% das empresas já usam agentes de IA, especialmente em atendimento, marketing e cibersegurança, com adoção prevista de 69% até 2028.",
-   "96% das empresas aumentaram investimentos em segurança para IA.",
-   "30% dos executivos apontam escassez de talentos como principal barreira para adoção.",
-   "86% investem em treinamento de profissionais de TI; 63% criaram novas funções dedicadas à IA."
-  ],
-  "explicacao": [
-   "Uma pesquisa conduzida pela IDC e encomendada pela Microsoft ouviu 73 executivos de empresas brasileiras com mais de mil funcionários, mostrando que 88% esperam que a IA seja o principal motor de competitividade até 2030.",
-   "O crescimento da IA nas empresas ocorre pela rápida evolução da tecnologia, que sai da fase experimental e avança para implementação em larga escala, com 23% já usando IA e previsão de 51% em dois anos.",
-   "Além de melhorar competitividade, as iniciativas de IA trazem ganhos médios de 24,5% para resultados financeiros e operacionais, e maior satisfação dos clientes, eficiência e redução de riscos.",
-   "Para continuar essa expansão, empresas intensificam investimentos em segurança e qualificação, com 86% treinando profissionais de TI e criando funções dedicadas à IA, preparando-se para uma adoção mais ampla."
-  ],
-  "detalhes": [
-   "Pesquisa acontece em março e abril de 2026, com executivos de empresas brasileiras.",
-   "Abrange diferentes setores econômicos com empresas com mais de mil funcionários.",
-   "Ganhos de 28,2% em satisfação do cliente e 27,7% em eficiência de processos com IA.",
-   "Agentes de IA são usados em experimentação ou produção por 56% das empresas, e 69% até 2028.",
-   "Investimentos atuais em IA representam 28% do orçamento, e devem subir para 45% até 2028.",
-   "Desafios para adoção: escassez de talentos (30%) e necessidade de segurança reforçada (96% aumentaram investimento).",
-   "Transformação inclui capacitação e criação de funções internas dedicadas à IA em 63% das empresas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Eduardo Campos, vice-presidente da área de Soluções Tecnológicas da Microsoft",
-    "oque": "Mercado brasileiro evolui rápido da experimentação para implementação em escala da IA."
-   },
-   {
-    "quem": "Luciano Ramos, Country Manager da IDC Brasil",
-    "oque": "Mercado brasileiro avança além da fase inicial, focando em escalar IA com impacto real."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "março e abril de 2026",
-    "oque": "Pesquisa realizada com 73 executivos de grandes empresas brasileiras."
-   },
-   {
-    "quando": "próximos 24 meses (até 2028)",
-    "oque": "Número de empresas com IA em produção deve dobrar de 23% para 51%."
-   },
-   {
-    "quando": "até 2028",
-    "oque": "Investimentos em IA podem chegar a 45% do orçamento e agentes de IA a 69% de adoção."
-   },
-   {
-    "quando": "até 2030",
-    "oque": "88% das empresas esperam que IA seja principal motor de competitividade."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IA generativa",
-    "significado": "IA que cria conteúdo novo, como texto, imagens ou código."
-   },
-   {
-    "termo": "Agentes de IA",
-    "significado": "Sistemas que automatizam tarefas específicas usando IA."
-   }
-  ],
-  "pergunta": "Você acha que a IA será decisiva para a competitividade das empresas brasileiras?",
-  "tamanhoTexto": 3471,
-  "numeros": [
-   {
-    "valor": "88%",
-    "rotulo": "empresas que esperam IA como motor principal até 2030"
-   },
-   {
-    "valor": "23%",
-    "rotulo": "empresas que já usam IA em produção hoje"
-   },
-   {
-    "valor": "51%",
-    "rotulo": "empresas previstas para usar IA em produção em 24 meses"
-   },
-   {
-    "valor": "24,5%",
-    "rotulo": "ganhos médios associados a iniciativas de IA"
-   },
-   {
-    "valor": "28,2%",
-    "rotulo": "impacto médio na satisfação do cliente com IA"
-   },
-   {
-    "valor": "28%",
-    "rotulo": "orçamento dedicado a investimentos em IA atualmente"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "uso de IA em produção",
-    "antes": "23%",
-    "depois": "51%"
-   },
-   {
-    "item": "orçamento para IA",
-    "antes": "28%",
-    "depois": "45%"
-   },
-   {
-    "item": "adoção de agentes de IA",
-    "antes": "56%",
-    "depois": "69%"
-   }
-  ],
-  "destaque": "88% expectativa até",
-  "porQueImporta": "A pesquisa mostra que a IA está deixando de ser apenas uma tecnologia experimental para se tornar um componente estratégico para a competitividade das empresas brasileiras, gerando ganhos reais e influenciando decisões de investimento. Para investidores e operadores, entender essa tendência ajuda a identificar setores e empresas comprometidos com inovação.",
-  "impactoMercado": "Com a adoção crescente de IA, empresas de tecnologia, serviços e até setores industriais poderão apresentar maior eficiência e inovação, impactando positivamente setores ligados a software, cibersegurança e automação. O crescimento de investimentos em IA pode atrair interesse em ativos dessas áreas.",
-  "entenda": "Inteligência Artificial (IA) é uma tecnologia que permite computadores aprenderem, tomarem decisões e automatizarem tarefas. No mercado, IA pode aumentar a eficiência das empresas, melhorar atendimento e reduzir riscos, tornando-se uma vantagem competitiva para quem investe em inovação.",
-  "observar": "Fique de olho no avanço dos investimentos em IA até 2028 e na adoção tecnológica, além do aumento nas iniciativas de segurança e formação de profissionais, que indicam a maturidade da tecnologia nas empresas.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Explicamos como a IA vira um motor estratégico nas empresas, mostrando a importância de entender essa tecnologia para acompanhar a inovação e o mercado financeiro.",
-  "gancho": "*IA* e Competitividade Empresarial",
-  "ideias": [
-   "Como a IA impulsiona a competitividade até 2030",
-   "Investimentos em IA: por que crescerão até 45% em 2028",
-   "Barreiras e soluções para adoção da IA no Brasil"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "CNN Brasil",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T22:18:27-03:00",
-  "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-sera-principal-motor-de-competitividade-para-88-das-empresas-ate-2030/",
-  "publicadoEm": "2026-11-14T20:36:36-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-12"
- },
- {
-  "titulo": "Sem sinal fiscal, ações cíclicas e Small Caps recuam em 2026 no Brasil",
-  "resumo": "Small Caps, Imobiliário e Consumo caem até 14% em 2026, enquanto Ibovespa sobe 7%. Sem sinais firmes de ajuste fiscal, Selic alta limita crescimento e pressiona ações cíclicas.",
-  "fatos": [
-   "Small Caps, Imobiliário e Consumo caem entre 12% e 14% em 2026.",
-   "Ibovespa sobe quase 7% no mesmo período.",
-   "Selic está em 13,75% ao ano, sem previsão de cortes futuros.",
-   "Copom pausou flexibilização monetária na última reunião.",
-   "Inadimplência está em níveis recordes no país.",
-   "Banco Central sinaliza manutenção da taxa até haver sinal fiscal.",
-   "Setores de consumo e ações cíclicas sofrem com alta dos juros.",
-   "Petrobras sobe mais de 50% em 2026, ajudando Ibovespa.",
-   "Investidores estrangeiros reverteram entrada de capital pós-eleição.",
-   "Analistas vinculam melhora do mercado às decisões sobre política fiscal."
-  ],
-  "explicacao": [
-   "Em 2026, os índices Small Caps (SMLL), Imobiliário (IMOB) e Consumo (ICON) acumulam quedas entre 12% e 14%, significativamente maiores que a alta de quase 7% do Ibovespa no mesmo período. Isso reflete o pessimismo dos investidores quanto à economia brasileira.",
-   "O pessimismo é causado pela falta de um sinal fiscal crível do governo Lula, que adotou um ciclo de juros altos, com a Selic estacionada em 13,75% ao ano após o Copom pausar cortes. A alta da taxa limita o crescimento, o consumo e os lucros das empresas, pesando sobre as ações cíclicas.",
-   "Sem um ajuste fiscal que demonstre equilíbrio e corte de gastos, o mercado projeta que os juros permanecerão altos, gerando inadimplência recorde e desaceleração do crédito. Isso afeta setores sensíveis aos juros, como consumo e imobiliário, deixando investidores cautelosos.",
-   "Gestores dizem que a Bolsa só deve melhorar com medidas fiscais claras e positivas. Caso contrário, a tendência é de aumento da taxa Selic futura e mais desgaste para ações cíclicas, mesmo que a Selic caia, pois a confiança permaneceria baixa."
-  ],
-  "detalhes": [
-   "Os índices SMLL, IMOB e ICON representam setores mais sensíveis à economia e a juros.",
-   "O governo Lula está no quarto mandato e enfrenta pressão para ajustar contas públicas.",
-   "A Selic, taxa básica de juros, está historicamente alta para conter inflação.",
-   "Setores cíclicos dependem da confiança e de juros menores para crescimento.",
-   "A inadimplência alta restringe condições de crédito para empresas e consumidores.",
-   "Petrobras se destaca na Bolsa devido ao conflito no Oriente Médio e preços do Brent.",
-   "Sem um plano fiscal robusto, juros futuros podem subir ainda mais na B3."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Eduardo Rahal, analista-chefe da Levante Inside Corp",
-    "oque": "Juros altos sufocam empresas; é preciso sinal fiscal para flexibilizar a Selic."
-   },
-   {
-    "quem": "Gabriel Mota, analista da Manchester Investimentos",
-    "oque": "Sem expectativa de corte de juros, ações cíclicas e de consumo perdem tração."
-   },
-   {
-    "quem": "Isabel Lemos, gestora da Fator Administração de Recursos",
-    "oque": "Sem ajuste fiscal, risco de desaceleração econômica e juros futuros mais altos."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2026",
-    "oque": "Pequenas caps, imobiliário e consumo caem, Ibovespa sobe."
-   },
-   {
-    "quando": "Reunião recente do Copom",
-    "oque": "Pausa na flexibilização monetária; Selic mantida em 13,75%."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Índices Small Caps",
-    "significado": "Ações de empresas de menor valor de mercado na Bolsa."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia brasileira, usada para controlar inflação."
-   },
-   {
-    "termo": "Ações cíclicas",
-    "significado": "Papéis sensíveis ao ciclo econômico, como consumo e imobiliário."
-   }
-  ],
-  "pergunta": "Como você enxerga o impacto dos juros altos nas suas operações ou investimentos?",
-  "tamanhoTexto": 6672,
-  "numeros": [
-   {
-    "valor": "12% a 14%",
-    "rotulo": "queda acumulada dos índices Small Caps, Imobiliário e Consumo em 2026"
-   },
-   {
-    "valor": "7%",
-    "rotulo": "alta acumulada do Ibovespa em 2026"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa Selic anual mantida pelo Banco Central"
-   },
-   {
-    "valor": "50%",
-    "rotulo": "alta das ações da Petrobras em 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "12% a 14%",
-  "porQueImporta": "A alta da Selic e a ausência de sinal fiscal forte limitam o crescimento econômico e geram incertezas que desestimulam investimentos em ações cíclicas, setores importantes para quem opera na bolsa. Entender essa dinâmica ajuda investidores a interpretar movimentos de mercado e risco.",
-  "impactoMercado": "Setores sensíveis a juros, como consumo e imobiliário, podem continuar pressionados se a Selic permanecer alta. A falta de confiança fiscal dificulta cortes nos juros e fluxo comprador, enquanto petróleo e ações atreladas a exportação ganham espaço no Ibovespa.",
-  "entenda": "A taxa Selic é o principal instrumento para controlar a inflação, afetando o custo do crédito e o consumo. Juros altos encarecem empréstimos e limitam o crescimento das empresas. Ajuste fiscal é o equilíbrio entre receita e gastos públicos, essencial para gerar confiança e permitir queda dos juros.",
-  "observar": "Acompanhe próximas decisões do Copom e sinais do governo sobre ajuste fiscal nas contas públicas. A postura da equipe econômica, especialmente no Ministério da Fazenda, será crucial para definir rumo da Selic e do mercado acionário.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia explica de forma simples por que ações de setores cíclicos sofrem com a Selic alta e incertezas fiscais, um tema essencial para quem quer entender o mercado e se preparar para operar ou investir melhor.",
-  "gancho": "*Selic* e *ações* em baixa",
-  "ideias": [
-   "Por que ações cíclicas caem com juros altos?",
-   "O que falta para a Selic cair no Brasil?",
-   "Entenda o papel do ajuste fiscal no mercado de ações"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "Money Times",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T22:18:27-03:00",
-  "url": "https://www.moneytimes.com.br/sem-sinal-fiscal-crivel-pessimismo-com-selic-e-pib-deve-seguir-punindo-acoes-ciclicas-pads/",
-  "publicadoEm": "2026-11-14T09:23:00-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-13"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-before-2027",
-  "titulo": "Mercado de previsões vê 59.5% de chance de Bitcoin abaixo de 60,000 em 2026",
-  "resumo": "Apostas indicam que existe uma probabilidade considerável de que o Bitcoin não atinja 60,000 até 2027, sem ser uma previsão oficial.",
-  "probs": [
-   {
-    "opcao": "abaixo de 60,000",
-    "prob": 59.5
-   },
-   {
-    "opcao": "abaixo de 55,000",
-    "prob": 31.5
-   },
-   {
-    "opcao": "abaixo de 50,000",
-    "prob": 16.2
-   },
-   {
-    "opcao": "abaixo de 45,000",
-    "prob": 8.6
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 1,1 mi",
-  "fatos": [
-   "abaixo de 60,000: 59,5%",
-   "abaixo de 55,000: 31,5%",
-   "abaixo de 50,000: 16,2%",
-   "abaixo de 45,000: 8,6%"
-  ],
-  "numeros": [
-   {
-    "valor": "59,5%",
-    "rotulo": "abaixo de 60,000"
-   },
-   {
-    "valor": "31,5%",
-    "rotulo": "abaixo de 55,000"
-   },
-   {
-    "valor": "16,2%",
-    "rotulo": "abaixo de 50,000"
-   },
-   {
-    "valor": "8,6%",
-    "rotulo": "abaixo de 45,000"
-   }
-  ],
-  "destaque": "59,5%",
-  "gancho": "*Cenário desafiador* para Bitcoin",
-  "entenda": "A perspectiva de preço do Bitcoin pode ser moldada por tendências de mercado, regulação e sentimento dos investidores.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
-  "publicadoEm": "2026-11-14T22:18:27-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-14T22:18:27-03:00",
-  "data": "2026-11-14",
-  "status": "atualizada",
-  "id": "2026-11-14-p1",
-  "atualizadoEm": "2026-11-15T22:23:06-03:00"
- },
- {
-  "titulo": "Falha nos EUA cancela 16 mil voos e causa atrasos graves no sistema aéreo",
-  "resumo": "Sistema aéreo dos EUA enfrentou a maior paralisação desde 11 de setembro, com 16 mil voos cancelados. A falha técnica gerou cancelamentos e atrasos, afetando as principais companhias e causando impacto financeiro e operacional.",
-  "fatos": [
-   "Mais de 16 mil voos cancelados nos EUA entre sexta e sábado.",
-   "FAA suspendeu decolagens por quase cinco horas na sexta-feira (13).",
-   "Operações começaram a ser retomadas por volta das 20h15 (Costa Leste) na sexta.",
-   "Problema ocorreu durante troca de cabos de cobre por fibra óptica pela L3Harris.",
-   "Delta, United e American cancelaram 20% de seus voos no sábado; JetBlue, 40%.",
-   "Secretário Sean Duffy solicitou US$ 50 bilhões para modernizar o sistema aéreo.",
-   "Investigações descartam, até o momento, ataque cibernético ou IA como causa.",
-   "Cancelamentos e atrasos geraram prejuízos nos papéis das companhias aéreas no mercado.",
-   "Passageiros ficaram retidos em aeroportos de todo o país, com grandes filas e lotação.",
-   "Falha provocou sobrecarga de dados e comunicação inconsistente entre controladores e pilotos."
-  ],
-  "explicacao": [
-   "Na sexta-feira (13) e sábado (14), os Estados Unidos sofreram interrupções massivas no sistema aéreo devido a uma falha na rede de comunicação da aviação, resultando em mais de 16 mil voos cancelados. A FAA interrompeu as decolagens por quase cinco horas na sexta, causando um dos maiores colapsos do setor desde 2001.",
-   "A falha ocorreu quando a empresa L3Harris, contratada para modernizar parte do sistema, realizava a substituição de cabos, provocando sobrecargas nos roteadores e inconsistências nos dados trocados entre controladores e pilotos. Investigações estão em andamento para identificar se o erro foi humano ou técnico.",
-   "Os efeitos persistiram no sábado, com as maiores companhias aéreas como Delta, United e American cancelando cerca de 20% de seus voos, e a JetBlue, até 40%. Aeroportos ficaram congestionados e cresce a necessidade de reorganizar a malha aérea, tripulações e manutenções, o que pode levar dias para normalização.",
-   "O secretário de Transportes dos EUA, Sean Duffy, pediu US$ 50 bilhões ao Congresso para modernização do sistema, enfatizando a urgência diante dos sistemas obsoletos. Apesar do problema, autoridades garantiram que a segurança dos voos permanece intacta e continuam as investigações para evitar novas falhas."
-  ],
-  "detalhes": [
-   "Data da paralisação: 13 e 14 de novembro de 2026.",
-   "Empresa responsável pela falha: L3Harris, vinculada à FAA.",
-   "Problema técnico: possível erro humano ou defeito no roteador durante instalação.",
-   "Principais companhias afetadas: Delta, United, American e JetBlue.",
-   "Contexto histórico: maior paralisação aérea nacional desde os ataques de 11 de setembro de 2001.",
-   "Reação do mercado: ações das companhias aéreas e da L3Harris caíram 1% a 3%.",
-   "Medidas imediatas: suspensão temporária de voos em aeroportos estratégicos para reduzir congestionamento."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Sean Duffy, secretário de Transportes dos EUA",
-    "oque": "Define o problema como uma emergência e pede US$ 50 bilhões para modernizar o sistema aéreo."
-   },
-   {
-    "quem": "Sean Duffy, secretário de Transportes dos EUA",
-    "oque": "Afirma que a falha foi causada por sobrecarga de dados e inconsistências nos roteadores."
-   },
-   {
-    "quem": "Markwayne Mullin, secretário de Segurança Interna dos EUA",
-    "oque": "Diz que não há evidências até o momento de ataques cibernéticos ou uso de IA na falha."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "13/11/2026 às 15h36 (horário Costa Leste)",
-    "oque": "Início da falha técnica nos sistemas de radar e comunicação."
-   },
-   {
-    "quando": "13/11/2026 por quase cinco horas",
-    "oque": "Suspensão nacional das decolagens ordenada pela FAA."
-   },
-   {
-    "quando": "13/11/2026 às 20h15",
-    "oque": "Retomada das operações aéreas após suspensão."
-   },
-   {
-    "quando": "14/11/2026",
-    "oque": "Mais de 3,7 mil voos cancelados e 2 mil atrasados ainda registrados."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "FAA",
-    "significado": "Agência americana que regula a aviação civil e controla o tráfego aéreo."
-   },
-   {
-    "termo": "Roteador",
-    "significado": "Equipamento que direciona dados entre redes de comunicação."
-   },
-   {
-    "termo": "Controladores de tráfego aéreo",
-    "significado": "Profissionais que gerenciam a movimentação dos aviões para evitar acidentes."
-   }
-  ],
-  "pergunta": "Como você acha que esse apagão aéreo pode afetar seus planos de viagem ou investimentos em companhias aéreas?",
-  "tamanhoTexto": 18760,
-  "numeros": [
-   {
-    "valor": "16.000",
-    "rotulo": "total de voos cancelados em dois dias"
-   },
-   {
-    "valor": "5 horas",
-    "rotulo": "duração da suspensão das decolagens na sexta-feira"
-   },
-   {
-    "valor": "20%",
-    "rotulo": "porcentual de cancelamentos nas principais companhias aéreas"
-   },
-   {
-    "valor": "40%",
-    "rotulo": "cancelamento de voos na JetBlue no sábado"
-   },
-   {
-    "valor": "50 bilhões de dólares",
-    "rotulo": "valor solicitado para modernização do sistema aéreo"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "16 mil voos",
-  "porQueImporta": "Essa paralisação evidencia vulnerabilidades do sistema aéreo americano, refletindo na logística global e no comportamento das companhias. Para quem investe, mostra riscos operacionais e impactos financeiros em ações de companhias aéreas e suas terceirizadas.",
-  "impactoMercado": "Com grande número de cancelamentos e atrasos, empresas aéreas enfrentam custos extras, afetando resultados e ações. A demanda por modernização deve influenciar decisões políticas e investimentos do setor, impactando o mercado financeiro, especialmente os setores ligados à infraestrutura e tecnologia aérea.",
-  "entenda": "O sistema de controle aéreo gerencia os voos para garantir segurança e eficiência. Ele depende do radar e comunicação entre controladores e pilotos. Uma falha nessa rede pode interromper voos por motivos de segurança. Essa paralisação mostra como problemas técnicos impactam toda cadeia aérea e o transporte.",
-  "observar": "Fique atento às atualizações das companhias aéreas e órgãos reguladores nas próximas semanas para acompanhar a recuperação do sistema e possíveis mudanças no planejamento aéreo e investimentos no setor.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "A notícia exemplifica desafios técnicos e operacionais do mercado aéreo, mostrando a importância de entender infraestrutura, riscos e como isso afeta empresas e investimentos. Pode despertar interesse em se aprofundar no mercado financeiro e operações complexas.",
-  "gancho": "*apagão* aéreo impacta voos e mercado",
-  "ideias": [
-   "Entenda o que causou o apagão aéreo nos EUA",
-   "Como 16 mil voos foram cancelados em 2 dias",
-   "Impactos do colapso aéreo no mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Global",
-  "icone": "globo",
-  "fonte": "Valor Econômico",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T17:05:20-03:00",
-  "url": "https://valor.globo.com/mundo/noticia/2026/11/14/milhares-de-voos-nos-eua-so-cancelados-e-sofrem-atrasos-enquanto-sistema-areo-se-recupera-de-paralisao.ghtml",
-  "publicadoEm": "2026-11-14T13:10:13-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-06"
- },
- {
-  "titulo": "Fim da escala 6×1 em 16 de dezembro avança no STF com 4 votos",
-  "resumo": "Quatro ministros do STF votaram a favor do início da transição da escala 6×1 em dezembro. A nova jornada reduzirá horas semanais e garante segundo dia de descanso remunerado.",
-  "fatos": [
-   "STF discute o fim da escala 6×1, suspensão do trabalho seis dias com uma folga.",
-   "Quatro ministros votaram para iniciar transição em 16 de dezembro de 2026.",
-   "Jornada semanal passará de 44 para 42 horas em dezembro de 2026.",
-   "Segundo dia de descanso remunerado será garantido a partir da mesma data.",
-   "Redução para 40 horas ocorrerá em 16 de dezembro de 2027.",
-   "Pedido de adiamento da CNC e CNI foi rejeitado pelo ministro Flávio Dino.",
-   "Folgas poderão ser definidas por acordo ou convenção coletiva.",
-   "Pelo menos uma folga semanal e média de dois dias de descanso remunerado devem ser mantidos.",
-   "Julgamento ocorre em plenário virtual e termina em 16 de novembro de 2026."
-  ],
-  "explicacao": [
-   "O Supremo Tribunal Federal (STF) realizou julgamento em plenário virtual, registrando quatro votos a favor da manutenção do início da transição para o fim da escala 6×1, prevista para 16 de dezembro de 2026. Essa escala implica trabalhar seis dias seguidos com uma folga semanal.",
-   "A Confederação Nacional do Comércio (CNC) e a Confederação Nacional da Indústria (CNI) solicitaram adiamento do prazo, requerendo 12 meses para iniciar a redução da jornada e outros 12 para atingir limite de 40 horas semanais. O ministro Flávio Dino rejeitou esses pedidos, alegando inexistência de inconstitucionalidade.",
-   "A decisão prevê que, a partir de 16 de dezembro de 2026, a jornada máxima cairá de 44 para 42 horas semanais, junto com a garantia do segundo dia de descanso remunerado semanal, e entrará em vigor etapa seguinte em dezembro de 2027 com limite a 40 horas.",
-   "Além disso, foi autorizado que a distribuição das folgas será negociada por acordo ou convenção coletiva, porém garantindo pelo menos uma folga semanal e, na média do mês, dois dias de descanso remunerado por semana."
-  ],
-  "detalhes": [
-   "STF conduz julgamento virtual entre 10 e 16 de novembro de 2026, liderado pelo ministro Flávio Dino.",
-   "CNC e CNI pedem ao STF adiamento de 12 meses para iniciar redução de jornada e mais 12 para chegar a 40 horas.",
-   "Data oficial para mudanças conforme calendário aprovado pelo Congresso Nacional.",
-   "Folgas semanais continuam obrigatórias e terão que ser negociadas entre sindicatos e empregadores.",
-   "Ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes acompanham o voto favorável de Flávio Dino.",
-   "Fim da escala 6×1 representa mudança importante nas condições de trabalho brasileiras.",
-   "Decisão promove maior equilíbrio entre jornada e descanso do trabalhador."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ministro Flávio Dino",
-    "oque": "Rejeitou adiamento e afirmou não haver violação constitucional para postergar transição."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro de 2026",
-    "oque": "Início da audiência de conciliação no STF sobre escala 6×1."
-   },
-   {
-    "quando": "13 de novembro de 2026",
-    "oque": "Registro de quatro votos a favor da transição no STF."
-   },
-   {
-    "quando": "16 de novembro de 2026",
-    "oque": "Encerramento do julgamento virtual no STF."
-   },
-   {
-    "quando": "16 de dezembro de 2026",
-    "oque": "Início da redução da jornada para 42 horas e segundo dia de descanso remunerado."
-   },
-   {
-    "quando": "16 de dezembro de 2027",
-    "oque": "Novo limite de 40 horas semanais passa a valer."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Escala 6×1",
-    "significado": "Jornada de 6 dias trabalhados seguidos com 1 dia de descanso semanal."
-   },
-   {
-    "termo": "Plenário virtual",
-    "significado": "Sistema do STF para ministros registrarem votos pela internet."
-   },
-   {
-    "termo": "Folga remunerada",
-    "significado": "Dia de descanso que o trabalhador recebe pagamento normalmente."
-   }
-  ],
-  "pergunta": "Como a redução da escala 6×1 pode impactar seu dia a dia de trabalho?",
-  "tamanhoTexto": 3027,
-  "numeros": [
-   {
-    "valor": "4",
-    "rotulo": "ministros a favor de iniciar transição em 2026"
-   },
-   {
-    "valor": "6×1",
-    "rotulo": "escala atual que será extinta (seis dias trabalhados, um de folga)"
-   },
-   {
-    "valor": "44",
-    "rotulo": "horas semanais atuais permitidas"
-   },
-   {
-    "valor": "42",
-    "rotulo": "nova quantidade máxima de horas semanais a partir de dezembro de 2026"
-   },
-   {
-    "valor": "40",
-    "rotulo": "teto de horas na etapa final em dezembro de 2027"
-   },
-   {
-    "valor": "12",
-    "rotulo": "meses solicitados para iniciar a transição pela CNC e CNI"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "4 votos favoráveis",
-  "porQueImporta": "Essa decisão do STF impacta diretamente a rotina e condições de trabalho, alterando a jornada semanal e aumentando os dias de descanso remunerados. Para trabalhadores e investidores, trata-se de um movimento relevante na regulação trabalhista que pode influenciar custos e negociações das empresas.",
-  "impactoMercado": "Reduções da jornada e aumento do descanso remunerado afetam a produtividade e despesas das companhias, especialmente comércio e indústria, partes interessadas no caso. O ajuste pode alterar negociações salariais, custos trabalhistas e até preferências de setores voltados ao consumo.",
-  "entenda": "A escala 6×1 é um modelo em que o trabalhador tem seis dias seguidos de trabalho e apenas um dia de folga. A mudança para escala com mais descanso e jornada reduzida visa equilibrar vida pessoal e trabalho, com limite máximo de horas e garantia de folgas pagas, negociadas entre sindicatos e empregadores.",
-  "observar": "Acompanhar resultado final do julgamento do STF até 16 de novembro. Observar implementação prática a partir de 16 de dezembro de 2026 e negociações por acordos coletivos sobre folgas.",
-  "publico": [
-   "Investidores",
-   "CLT",
-   "Empresários"
-  ],
-  "angulo": "Entender o julgamento e mudanças na escala 6×1 ajuda a compreender ajustes em leis trabalhistas e seu impacto nos custos e negociações das empresas, tema que traders e investidores precisam acompanhar para entender riscos e cenários econômicos.",
-  "gancho": "*Escala 6×1* muda em dezembro",
-  "ideias": [
-   "O que é a escala 6×1 e por que vai acabar?",
-   "Como vai funcionar a nova jornada de trabalho a partir de dezembro",
-   "STF e o impacto das decisões trabalhistas no mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "grafico",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T17:05:20-03:00",
-  "url": "https://timesbrasil.com.br/brasil/fim-da-escala-6x1-em-dezembro-fica-a-dois-votos-da-maioria-no-stf/",
-  "publicadoEm": "2026-11-14T15:46:16-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-07"
- },
- {
-  "titulo": "Explosão de petroleiros no Estreito de Ormuz aumenta risco para combustível no Brasil",
-  "resumo": "Dois navios bateram em minas no Estreito de Ormuz, que concentra até 25% do petróleo mundial. Incidentes recentes podem elevar preços da gasolina no Brasil ligados ao Brent.",
-  "fatos": [
-   "14 de novembro: dois petroleiros explodiram no Estreito de Ormuz após bater em minas.",
-   "Estreito de Ormuz concentra entre 20% e 25% do petróleo consumido no mundo.",
-   "Dois superpetroleiros já haviam explodido na região em 12 de novembro.",
-   "Petrobras usa Preço de Paridade de Importação atrelado ao petróleo Brent.",
-   "Brent fechou 13 de novembro cotado a US$ 95,84 por barril.",
-   "EUA impuseram bloqueio naval a portos iranianos e oferecem apoio militar a petroleiros.",
-   "Fluxo físico de petróleo via Ormuz não foi interrompido, com navios saindo carregados nos últimos dias.",
-   "Guerra na Ucrânia também pressiona preços de diesel e fertilizantes no Brasil.",
-   "Petrobras revisa PPI conforme cotação internacional se move consistentemente.",
-   "Petroleiros tentaram cruzar rota não autorizada com sistemas de radar desligados."
-  ],
-  "explicacao": [
-   "No dia 14 de novembro, a Guarda Revolucionária do Irã informou que dois petroleiros explodiram e pegaram fogo após colidirem com minas navais enquanto tentavam passar por rota não autorizada no Estreito de Ormuz. Um dos navios era um superpetroleiro.",
-   "Esse estreito concentra entre 20% e 25% do petróleo consumido globalmente, o que torna o incidente preocupante para países como o Brasil, mesmo que ele não dependa diretamente dessa rota para exportações.",
-   "O impacto dessa situação no Brasil está ligado ao sistema de preços da Petrobras, que segue o Preço de Paridade de Importação, amarrado à cotação do petróleo Brent. Interrupções ou riscos na rota podem elevar o preço do barril e custos do frete, pressionando os preços domésticos dos combustíveis.",
-   "Apesar do incidente, o fluxo de navios continua, e um acordo provisório entre EUA e Irã tem liberado petróleo retido, mantendo o mercado relativamente estável, mas o futuro dependerá do avanço das negociações e de eventuais novos conflitos na região."
-  ],
-  "detalhes": [
-   "Incidentes ocorreram dias 12 e 14 de novembro no Estreito de Ormuz.",
-   "Guardas iranianos acusam navios de navegar em rota não autorizada e desligar radar.",
-   "Um dos navios atingidos era superpetroleiro, indicativo de grande volume transportado.",
-   "Estreito é passagem diária para cerca de 20 milhões de barris de petróleo.",
-   "Estados Unidos reforçaram presença militar e bloqueio naval em resposta.",
-   "Petrobras atrelada ao Brent, não depende diretamente do petróleo de Ormuz.",
-   "Preço da gasolina no Brasil sofre pressão dupla: Ormuz e guerra na Ucrânia."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Guarda Revolucionária do Irã",
-    "oque": "Dois petroleiros explodiram após colidir com minas em rota não autorizada."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12 de novembro",
-    "oque": "Dois superpetroleiros explodiram no Estreito de Ormuz."
-   },
-   {
-    "quando": "14 de novembro",
-    "oque": "Mais dois petroleiros colidiram com minas e pegaram fogo."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Preço de Paridade de Importação",
-    "significado": "Preço no Brasil baseado no valor do petróleo importado, seguindo mercado internacional."
-   },
-   {
-    "termo": "Estreito de Ormuz",
-    "significado": "Canal estratégico marítimo por onde passa grande parte do petróleo mundial."
-   },
-   {
-    "termo": "Superpetroleiro",
-    "significado": "Navio muito grande usado para transportar grandes volumes de petróleo."
-   }
-  ],
-  "pergunta": "Como você acha que o risco geopolítico no Estreito de Ormuz afeta o preço dos combustíveis aqui?",
-  "tamanhoTexto": 4844,
-  "numeros": [
-   {
-    "valor": "20% a 25%",
-    "rotulo": "Petróleo mundial que passa pelo Estreito de Ormuz"
-   },
-   {
-    "valor": "5 milhões",
-    "rotulo": "Barris transportados por três petroleiros que saíram da região"
-   },
-   {
-    "valor": "US$ 95,84",
-    "rotulo": "Cotação do barril Brent em 13 de novembro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "20% a 25%",
-  "porQueImporta": "Este incidente pode pressurizar o preço do petróleo Brent, referência para o Brasil via Preço de Paridade de Importação, impactando os preços dos combustíveis. Para quem opera ou investe, entender o efeito de riscos geopolíticos internacionais ajuda na compreensão das oscilações do mercado e dos ativos relacionados.",
-  "impactoMercado": "A alta do prêmio de risco no Golfo pode provocar reajustes nos preços globais do petróleo e no custo do frete marítimo, afetando Petrobras e derivados. Investidores de petróleo, combustíveis e setores ligados devem monitorar essa instabilidade e o avanço das negociações entre EUA e Irã.",
-  "entenda": "O Estreito de Ormuz é um canal estratégico para o comércio mundial de petróleo, por onde passam até 25% do consumo global. Preço de Paridade de Importação é o método de precificação da Petrobras, que vincula preços domésticos às cotações internacionais do petróleo, especialmente o Brent.",
-  "observar": "Fique atento às próximas semanas para novidades nas negociações entre Estados Unidos e Irã, além de novos incidentes no Estreito de Ormuz, que podem alterar o preço do barril Brent e impactar a política de preços da Petrobras.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT"
-  ],
-  "angulo": "Entender episódios no Estreito de Ormuz ajuda a compreender a relação entre geopolítica e volatilidade do preço do petróleo, tema essencial para quem quer operar ou investir no mercado financeiro e quer aprender com exemplos reais.",
-  "gancho": "*Ormuz* e o preço da *gasolina*",
-  "ideias": [
-   "Como o Estreito de Ormuz impacta o preço do combustível no Brasil?",
-   "Entenda a relação entre petróleo Brent e preços domésticos na Petrobras",
-   "Impacto dos riscos geopolíticos no mercado financeiro brasileiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "foguete",
-  "fonte": "TV Sim Brasil",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T17:05:20-03:00",
-  "url": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/14/petroleiros-explodem-ormuz-ameacam-gasolina-brasil",
-  "publicadoEm": "2026-11-14T08:56:39-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-08"
- },
- {
-  "titulo": "Ibovespa sobe 2,35% na semana com Magazine Luiza em alta e CSN em queda",
-  "resumo": "Ibovespa fechou a semana aos 172.457,76 pontos, com alta de 2,35%. Magazine Luiza avançou 39,22%, e CSN caiu 15,65% após resultados do 3º trimestre.",
-  "fatos": [
-   "Ibovespa fechou a semana aos 172.457,76 pontos com alta semanal de 2,35%.",
-   "Dólar à vista avançou 2,66%, fechando a R$ 5,6550.",
-   "Pacote de ajuste fiscal aprovado pelo Senado prevê impacto entre R$ 50 bi e R$ 60 bi para 2027.",
-   "Selic manteve-se estável em 13,75% ao ano, conforme ata do Copom.",
-   "Inflação medida pelo IPCA de outubro subiu 0,14%, acima do esperado.",
-   "Magazine Luiza (MGLU3) subiu 39,22%, alcançando R$ 7,81 na semana.",
-   "CSN (CSNA3) caiu 15,65%, fechando a R$ 3,72, após prejuízo de R$ 1,247 bilhão no 3º trimestre.",
-   "Banco do Brasil (BBAS3) caiu 11,85% na semana, com lucro líquido recorrente de R$ 1,3 bilhão no 3T26.",
-   "Nvidia teve crise de liderança com renúncia do CEO e queda forte das ações nos EUA.",
-   "FedWatch indicou 85,50% de chance de alta de juros pelo Fed em dezembro."
-  ],
-  "explicacao": [
-   "O Ibovespa, índice principal da bolsa brasileira, acumulou alta de 2,35% na semana e encerrou na sexta-feira aos 172.457,76 pontos, apesar da volatilidade. O dólar à vista fechou em R$ 5,6550, alta de 2,66% frente ao real na mesma semana.",
-   "Esse desempenho ocorreu em meio à aprovação pelo Senado do pacote de ajuste fiscal, com impacto fiscal previsto entre R$ 50 bilhões e R$ 60 bilhões para 2027, medida que busca melhorar as contas públicas, mas sem garantir a sustentabilidade fiscal futura.",
-   "Além disso, a ata do Copom confirmou a manutenção da Selic em 13,75% para conter a inflação, que em outubro teve alta de 0,14%, acima das expectativas, aumentando as incertezas sobre a política monetária.",
-   "Na bolsa, Magazine Luiza (MGLU3) foi destaque positivo com alta de 39,22%, impulsionada pelos resultados operacionais do 3º trimestre, enquanto CSN (CSNA3) amargou queda de 15,65% após reportar prejuízo no mesmo período."
-  ],
-  "detalhes": [
-   "O pacote fiscal tem impacto previsto para 2027, mirando a redução do déficit primário de R$ 20 bilhões para superávit de R$ 7,9 bilhões, segundo BTG Pactual.",
-   "O mercado vê o pacote como insuficiente para resolver os problemas estruturais das contas brasileiras.",
-   "O lucro da Magazine Luiza indicou forte recuperação operacional, e a divulgação de dados mensais de vendas surpreendeu o mercado.",
-   "CSN reverteu lucro de R$ 76 milhões no 3T25 para prejuízo de R$ 1,247 bilhão no 3T26.",
-   "Banco do Brasil teve tombo de 66,5% no lucro em 12 meses, reflexo da carteira de crédito e inadimplência no agro.",
-   "Ata do Copom comentou que a economia desacelera, mas inflação faz manter juros altos por mais tempo.",
-   "Crise da Nvidia envolveu CEO com casos extraconjugais e suspeita de espionagem, shockando Wall Street."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Fábio Serrano, economista do BTG Pactual",
-    "oque": "O pacote fiscal pode virar déficit de R$ 20 bi em superávit de R$ 7,9 bi em 2027, mas não assegura sustentabilidade futura."
-   },
-   {
-    "quem": "Rafael Dadoorian, head de renda fixa da Convexa Investimentos",
-    "oque": "Incertezas fiscais e trajetória da dívida dificultam redução sustentável dos juros de longo prazo apesar da inflação desacelerada."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12 de novembro",
-    "oque": "Senado aprovou pacote de ajuste fiscal com impacto fiscal estimado entre R$ 50 bilhões e R$ 60 bilhões."
-   },
-   {
-    "quando": "13 de novembro",
-    "oque": "Ibovespa fechou aos 172.457,76 pontos com ganho semanal de 2,35%."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ibovespa",
-    "significado": "Índice que mede o desempenho das ações mais negociadas da B3."
-   },
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros da economia usada para controlar a inflação."
-   },
-   {
-    "termo": "Ajuste fiscal",
-    "significado": "Medidas do governo para equilibrar receitas e despesas públicas."
-   }
-  ],
-  "pergunta": "Como você vê o impacto dos resultados trimestrais no Ibovespa?",
-  "tamanhoTexto": 18381,
-  "numeros": [
-   {
-    "valor": "172.457,76",
-    "rotulo": "pontos do Ibovespa ao fechar sexta-feira"
-   },
-   {
-    "valor": "2,35%",
-    "rotulo": "alta acumulada semanal do Ibovespa"
-   },
-   {
-    "valor": "5,6550",
-    "rotulo": "cotação do dólar à vista em real"
-   },
-   {
-    "valor": "39,22%",
-    "rotulo": "valorização da Magazine Luiza na semana"
-   },
-   {
-    "valor": "15,65%",
-    "rotulo": "queda da CSN na semana"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "taxa Selic mantida pelo Copom"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "2,35% alta do",
-  "porQueImporta": "Essa alta do Ibovespa mostra como o mercado reage às notícias do ajuste fiscal e resultados trimestrais. Investidores precisam entender que pacotes fiscais impactam a confiança e a trajetória dos juros e inflação, afetando ativos e estratégias na bolsa.",
-  "impactoMercado": "O desempenho positivo de Magazine Luiza destaca o peso dos resultados operacionais para a valorização das ações, enquanto a queda da CSN e do Banco do Brasil reflete os riscos envolvidos nas expectativas frustradas e no ambiente fiscal. Juros mantidos e dólar em alta também influenciam setores.",
-  "entenda": "O Ibovespa é o principal índice da bolsa brasileira, que mede a valorização das ações mais negociadas. A Selic é a taxa básica de juros usada para controlar a inflação. O pacote fiscal é um conjunto de medidas do governo para equilibrar as contas públicas, e o IPCA mede a inflação oficial do país.",
-  "observar": "Acompanhe os próximos balanços trimestrais, dados de inflação e as decisões do Fed sobre juros nos EUA, além das desdobramentos do pacote fiscal no Congresso, que podem influenciar o mercado na próxima semana.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "A notícia explica em detalhes o que movimenta o Ibovespa e como notícias fiscais e resultados empresariais impactam o mercado, agregando conhecimento para quem quer entender o funcionamento da bolsa e investir com base sólida.",
-  "gancho": "*Ibovespa* em alta e *Magazine Luiza* em destaque",
-  "ideias": [
-   "Como o pacote fiscal impacta o Ibovespa e os juros?",
-   "Magazine Luiza: entenda a alta de 39% em uma semana",
-   "Por que CSN e Banco do Brasil caíram apesar da alta do índice?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "foguete",
-  "fonte": "Money Times; Seu Dinheiro; Suno Notícias",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T13:07:42-03:00",
-  "url": "https://www.moneytimes.com.br/magazine-luiza-mglu3-lidera-ganhos-com-alta-de-mais-de-39-enquanto-csn-csna3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
-  "publicadoEm": "2026-11-14T10:26:00-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-02"
- },
- {
-  "titulo": "GPA pagará R$ 231,8 mi e encerra disputa com Casas Bahia",
-  "resumo": "GPA aceitou pagar R$ 231,8 milhões à Casas Bahia para encerrar disputa judicial de valores cruzados. As negociações envolvem créditos e passivos desde a separação dos negócios em 2019.",
-  "fatos": [
-   "GPA pagará R$ 231,8 milhões para encerrar disputa com Casas Bahia.",
-   "Casas Bahia cobrava R$ 424 milhões do GPA de acordo antigo.",
-   "GPA tinha crédito tributário de R$ 708 milhões com a Casas Bahia.",
-   "Crédito tributário dependia de homologação prevista para 2036.",
-   "GPA reconheceu perda total do crédito no 3º trimestre de 2026.",
-   "Separação dos negócios entre as empresas foi concluída em 2019.",
-   "Casas Bahia está em recuperação judicial; GPA em recuperação extrajudicial.",
-   "Acordo elimina passivos financeiros e pendências judiciais antigas.",
-   "Relação entre as empresas iniciou com associação na Via Varejo.",
-   "Ao aceitar o acordo, GPA reverte provisões relacionadas aos passivos."
-  ],
-  "explicacao": [
-   "O GPA aceitou pagar R$ 231,8 milhões à Casas Bahia, encerrando uma disputa que envolvia cobranças bilionárias entre as varejistas. A disputa começou após a separação dos negócios em 2019, quando o GPA saiu da Via Varejo, antiga controladora da Casas Bahia.",
-   "A Casas Bahia cobrava R$ 424 milhões referentes a obrigações do antigo acordo de associação, enquanto o GPA possuía crédito de R$ 708 milhões referente à exclusão do ICMS da base de cálculo do PIS e da Cofins. O recebimento desse crédito estava condicionado a homologação prevista apenas para 2036 e foi incluído na recuperação judicial da Casas Bahia.",
-   "O GPA já havia reconhecido a perda total desse crédito (impairment) no terceiro trimestre de 2026. Com o acordo, as empresas eliminaram passivos antigos e pendências, reduzindo riscos de litígios futuros e aumentando a previsibilidade financeira.",
-   "O acordo ocorre em momento delicado, com o GPA em recuperação extrajudicial e a Casas Bahia em recuperação judicial, ajudando a reduzir as incertezas financeiras e melhorar a estabilidade da relação entre as companhias."
-  ],
-  "detalhes": [
-   "O acordo encerra processos de arbitragem e litígios envolvendo as empresas.",
-   "O crédito de R$ 708 milhões estava sujeito a aproveitamento e homologação pelas autoridades fiscais.",
-   "O valor de R$ 231,8 milhões pago pelo GPA é maior que a provisão inicial de R$ 174 milhões.",
-   "A separação da Via Varejo ocorreu em 2019, quando o GPA deixou grupo.",
-   "O acerto foi divulgado em 13 de novembro de 2026.",
-   "GPA se responsabilizará por parcelamentos tributários e despesas relacionadas ao acordo.",
-   "O acordo inclui compromissos mútuos de cooperação e não litigância."
-  ],
-  "declaracoes": [
-   {
-    "quem": "GPA",
-    "oque": "O acordo ajudará a otimizar a estrutura de passivos e fortalecer finanças."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2019",
-    "oque": "Separação dos negócios entre GPA e Casas Bahia com saída da Via Varejo."
-   },
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "GPA reconhece perda total do crédito tributário de R$ 708 milhões."
-   },
-   {
-    "quando": "13 de novembro de 2026",
-    "oque": "GPA anuncia acordo para pagar R$ 231,8 milhões e encerrar disputa."
-   },
-   {
-    "quando": "2036",
-    "oque": "Previsão original para início da homologação do crédito tributário."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Impairment",
-    "significado": "Reconhecimento contábil de perda no valor de um ativo."
-   },
-   {
-    "termo": "Recuperação judicial",
-    "significado": "Processo que reestrutura dívidas para evitar falência."
-   },
-   {
-    "termo": "Recuperação extrajudicial",
-    "significado": "Negociação de dívidas fora do tribunal para recuperação."
-   }
-  ],
-  "pergunta": "Você já conhecia essa disputa milionária entre GPA e Casas Bahia?",
-  "tamanhoTexto": 14249,
-  "numeros": [
-   {
-    "valor": "231,8 milhões",
-    "rotulo": "Valor que GPA pagará à Casas Bahia"
-   },
-   {
-    "valor": "424 milhões",
-    "rotulo": "Cobrança da Casas Bahia contra GPA"
-   },
-   {
-    "valor": "708 milhões",
-    "rotulo": "Crédito tributário do GPA sobre a Casas Bahia"
-   },
-   {
-    "valor": "174 milhões",
-    "rotulo": "Provisão do GPA para o caso, menor que valor pago"
-   },
-   {
-    "valor": "2019",
-    "rotulo": "Ano da separação dos negócios via saída da Via Varejo"
-   },
-   {
-    "valor": "3º trimestre de 2026",
-    "rotulo": "Momento da perda total do ativo reconhecida pelo GPA"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Provisão para passivo",
-    "antes": "R$ 174 milhões",
-    "depois": "R$ 231,8 milhões (acordado para pagamento)"
-   }
-  ],
-  "destaque": "R$ 231,8 milhões",
-  "porQueImporta": "A resolução desta disputa entre GPA e Casas Bahia é crucial para a gestão eficiente dos passivos financeiros das duas companhias. Ele elimina incertezas, melhora a previsibilidade dos resultados e fortalece o ambiente de recuperação judicial e extrajudicial em que ambas estão inseridas, impactando o cenário financeiro do setor varejista.",
-  "impactoMercado": "Com o encerramento do litígio e redução de passivos, o mercado pode enxergar maior estabilidade financeira nas ações das empresas. Isso pode influenciar negociações futuras, fluxo de caixa e percepção dos investidores, especialmente num cenário de recuperação judicial e desafios operacionais para os varejistas.",
-  "entenda": "Uma recuperação judicial ou extrajudicial é uma medida para empresas em dificuldades financeiras evitarem falência. Passivos antigos e litígios podem dificultar a recuperação, por isso acordos como esse eliminam pendências, melhorando a saúde financeira e a previsibilidade dos negócios.",
-  "observar": "Acompanhe os resultados financeiros do GPA e Casas Bahia, além das próximas decisões sobre os processos judiciais e eventuais impactos no mercado, especialmente ligados à recuperação das empresas e negociações de dívidas.",
-  "publico": [
-   "Investidores",
-   "Empresários",
-   "Iniciantes"
-  ],
-  "angulo": "Explicamos o acordo que resolve uma disputa financeira bilionária entre grandes varejistas, mostrando como a gestão eficiente de passivos é essencial para fortalecer empresas em recuperação no mercado financeiro.",
-  "gancho": "*Acerto* entre *GPA* e *Casas Bahia*",
-  "ideias": [
-   "Como o acordo entre GPA e Casas Bahia afeta o mercado de varejo?",
-   "Por que passivos antigos impactam empresas em recuperação?",
-   "Entenda o que é recuperação judicial e como isso influencia investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "cadeado",
-  "fonte": "BP Money; InvestNews",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T13:07:42-03:00",
-  "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/casas-bahia-gpa-acordo-disputa-bilionaria/",
-  "publicadoEm": "2026-11-14T10:00:00-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-03"
- },
- {
-  "titulo": "Itália multa Meta em €805 milhões por acessar fotos sem consentimento",
-  "resumo": "Autoridade italiana puniu Meta em €805 milhões (R$ 5 bilhões) por acessar fotos e vídeos de 20 milhões de usuários Android sem autorização clara. Multa exige mudanças no app Facebook em 60 dias.",
-  "fatos": [
-   "Multa de €805 milhões (R$ 5 bilhões) aplicada à Meta pela Itália.",
-   "20 milhões de usuários Android foram afetados.",
-   "Investigação começou em julho de 2025.",
-   "Recurso investigado: 'Obtenha sugestões da galeria enquanto navega no Facebook'.",
-   "Multa corresponde a 0,47% do faturamento mundial da empresa.",
-   "Meta tem 60 dias para adaptar o recurso, com mudança de consentimento.",
-   "Obrigação de comunicar medidas à autoridade em 30 e 90 dias.",
-   "Funcionalidade vinha ativa por padrão, mesmo sem consentimento específico.",
-   "Em 2024, Meta já havia sido multada €251 milhões na Irlanda por falha de segurança.",
-   "Denúncia partiu do Centro de Defesa dos Consumidores de Bolzano."
-  ],
-  "explicacao": [
-   "A Autoridade de Proteção de Dados italiana multou a Meta em €805 milhões neste sábado (14) por acessar fotos e vídeos de 20 milhões de usuários de Android sem consentimento informado. O recurso 'Obtenha sugestões da galeria' do Facebook, ativo desde 2023, foi o foco da investigação.",
-   "O órgão italiano identificou que a Meta pedia apenas uma autorização genérica para acessar a galeria do celular, sem informar que as imagens seriam usadas para sugestões de publicações, e o recurso vinha ativado por padrão, permitindo leitura permanente das fotos.",
-   "Considerando que isso viola o artigo 122 do Código de Privacidade italiano, que exige consentimento livre e informado para acesso a dados armazenados, a autoridade determinou que a Meta corrija o funcionamento em até 60 dias, com autorização específica e desligado por padrão.",
-   "A empresa deve ainda reportar à autoridade as mudanças feitas em prazos de 30 e 90 dias. A multa é cerca de 0,47% do faturamento mundial da Meta. O órgão rejeitou a jurisdição do regulador irlandês e pode abrir nova investigação sobre função de processamento na nuvem lançada em 2026."
-  ],
-  "detalhes": [
-   "A função investigada permite ao Facebook sugerir fotos para publicações.",
-   "A autorização era solicitada uma única vez, válida para múltiplas funções.",
-   "A autoridade italiana afirmou que nem usuário nem órgão sabiam quais dados eram realmente usados.",
-   "Alterações exigidas incluem consentimento claro, explicação da função e opção de desativação.",
-   "A função deve continuar desligada por padrão para todos os usuários, inclusive os que já consentiram antes.",
-   "Multa maior foi influenciada pela duração da irregularidade, afetando quem não atualizou o app.",
-   "A investigação não cobriu o uso dos dados para treinar IA, tema negado pela Meta."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Autoridade de proteção de dados da Itália",
-    "oque": "Rejeitou a jurisdição do regulador irlandês para este caso específico."
-   },
-   {
-    "quem": "Meta",
-    "oque": "Negou que fotos e vídeos tenham sido usados para treinar sistemas de inteligência artificial."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "julho de 2025",
-    "oque": "Início da investigação após denúncia na Itália."
-   },
-   {
-    "quando": "2023",
-    "oque": "Lançamento da função 'Obtenha sugestões da galeria' no Facebook."
-   },
-   {
-    "quando": "14 de abril de 2029",
-    "oque": "Aplicação da multa por autoridades italianas."
-   },
-   {
-    "quando": "março de 2026",
-    "oque": "Revelação sobre análises de imagens pelos funcionários dos óculos Ray-Ban Meta."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Consentimento informado",
-    "significado": "Autorização clara e específica do usuário para uso de seus dados."
-   },
-   {
-    "termo": "Diretiva ePrivacy",
-    "significado": "Regra europeia que protege a privacidade dos dados armazenados em dispositivos."
-   },
-   {
-    "termo": "Scraping",
-    "significado": "Coleta automatizada de dados de sites ou perfis online."
-   }
-  ],
-  "pergunta": "Você sabia da importância do consentimento para o uso de suas fotos e vídeos?",
-  "tamanhoTexto": 6988,
-  "numeros": [
-   {
-    "valor": "805 milhões de euros",
-    "rotulo": "Valor da multa aplicada à Meta"
-   },
-   {
-    "valor": "20 milhões",
-    "rotulo": "Usuários Android afetados na Itália"
-   },
-   {
-    "valor": "60 dias",
-    "rotulo": "Prazo para Meta adaptar o recurso do Facebook"
-   },
-   {
-    "valor": "30 dias",
-    "rotulo": "Prazo para comunicar início das mudanças"
-   },
-   {
-    "valor": "90 dias",
-    "rotulo": "Prazo para informar as medidas adotadas"
-   },
-   {
-    "valor": "0,47%",
-    "rotulo": "Percentual do faturamento global da Meta referente à multa"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Multa pela proteção de dados",
-    "antes": "251 milhões de euros em 2024 pela Irlanda",
-    "depois": "805 milhões de euros em 2029 pela Itália"
-   }
-  ],
-  "destaque": "€805 milhões (R$",
-  "porQueImporta": "Essa multa mostra o rigor crescente das autoridades europeias sobre a proteção de dados pessoais, impactando empresas globais como a Meta. Para investidores, ressalta o risco regulatório que pode afetar resultados financeiros e reputação das gigantes de tecnologia.",
-  "impactoMercado": "A decisão pode levar a revisões nos recursos e políticas de privacidade da Meta e outras empresas, influenciando como apps coletam dados. Setores de tecnologia e dados pessoais estarão em foco e poderão ver oscilações conforme novas regulações forem aplicadas.",
-  "entenda": "Consentimento informado significa que o usuário deve ser claramente avisado e aceitar como seus dados serão usados. A diretiva europeia ePrivacy protege especialmente dados armazenados em dispositivos, exigindo autorização clara para acessos como o de fotos e vídeos pessoais.",
-  "observar": "Fique atento ao prazo de 60 dias para as mudanças no Facebook e novos possíveis processos relacionados ao uso de dados para inteligência artificial, que podem trazer novas regras e impactos.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Mostre como regulações europeias moldam o uso de dados pelas gigantes digitais e como isso afeta decisões no mercado financeiro, destacando riscos regulatórios relevantes para quem quer entender tecnologia e investimentos.",
-  "gancho": "*Meta* multada por *privacidade*",
-  "ideias": [
-   "O que a multa da Itália à Meta ensina sobre privacidade",
-   "Como a função do Facebook acessava suas fotos sem você saber",
-   "Impactos das multas da União Europeia nas gigantes da tecnologia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "escudo",
-  "fonte": "G1 Economia",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-14T13:07:42-03:00",
-  "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
-  "publicadoEm": "2026-11-14T09:32:39-03:00",
-  "data": "2026-11-14",
-  "id": "2026-11-14-05"
  }
 ]
