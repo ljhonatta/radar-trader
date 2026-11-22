@@ -1,0 +1,376 @@
+{
+ "noticiaId": "2026-11-21-08",
+ "titulo": "Lula rejeita pressões do mercado e defende ajuste fiscal sem cortar programas sociais",
+ "perfil": "@traderjhonatta",
+ "voz": "JBFqnCBsd6RMkjVDRZzb",
+ "modelo": "eleven_v4",
+ "criadoEm": "2026-11-22T15:02:31-03:00",
+ "cenas": [
+  {
+   "cap": "URGENTE",
+   "narracao": "Lula bateu firme contra o mercado financeiro, dizendo que aqui quem manda é o povo!",
+   "visual": {
+    "tipo": "cena",
+    "topico": "LULA X MERCADO",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "citacao",
+      "frase": "Não aceito que o mercado me ensine a governar",
+      "quem": "Lula, presidente",
+      "gatilho": "mercado financeiro"
+     },
+     {
+      "tipo": "pessoa",
+      "gatilho": "Lula"
+     },
+     {
+      "tipo": "megafone",
+      "gatilho": "bateu forte"
+     }
+    ]
+   },
+   "audio": "cena-01.mp3",
+   "dur": 5.59,
+   "tw": [
+    0.08,
+    0.48,
+    0.8,
+    1.32,
+    1.467,
+    1.52,
+    1.92,
+    2.84,
+    3.28,
+    3.44,
+    3.76,
+    4.08,
+    4.44,
+    4.6,
+    4.76
+   ]
+  },
+  {
+   "cap": "O QUE ROLÔU",
+   "narracao": "O governo aprovou um ajuste fiscal para o orçamento de 2027. E é sem mexer em programas sociais!",
+   "visual": {
+    "tipo": "cena",
+    "topico": "AJUSTE SEM CORTES",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "cartao",
+      "rotulo": "Orçamento 2027",
+      "gatilho": "orçamento"
+     },
+     {
+      "tipo": "escudo",
+      "rotulo": "Proteção social",
+      "gatilho": "programas sociais"
+     }
+    ]
+   },
+   "audio": "cena-02.mp3",
+   "dur": 7.35,
+   "tw": [
+    0.067,
+    0.12,
+    0.6,
+    1.0,
+    1.12,
+    1.6,
+    2.08,
+    2.28,
+    2.4,
+    2.96,
+    3.12,
+    4.72,
+    4.92,
+    5.16,
+    5.32,
+    5.76,
+    6.0,
+    6.36
+   ]
+  },
+  {
+   "cap": "OS NÚMEROS",
+   "narracao": "São quinze bilhões cortados em benefícios fiscais e dezoito bilhões limitados em créditos tributários.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "VALORES DO AJUSTE",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "15",
+      "rotulo": "corte benefits fiscais",
+      "gatilho": "quinze bilhões"
+     },
+     {
+      "tipo": "numero",
+      "valor": "18",
+      "rotulo": "limitação créditos",
+      "gatilho": "dezoito bilhões"
+     }
+    ]
+   },
+   "audio": "cena-03.mp3",
+   "dur": 7.35,
+   "tw": [
+    0.16,
+    0.48,
+    0.88,
+    1.44,
+    2.04,
+    2.16,
+    2.8,
+    3.56,
+    3.68,
+    4.24,
+    4.72,
+    5.36,
+    5.6,
+    6.08
+   ]
+  },
+  {
+   "cap": "O IMPACTO",
+   "narracao": "No total, o ajuste pode gerar trinta e três bilhões de reais para o governo, sem tirar dos mais pobres.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "GANHO TOTAL",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "33",
+      "rotulo": "bilhões com ajustes",
+      "gatilho": "trinta e três bilhões"
+     },
+     {
+      "tipo": "grupo",
+      "gatilho": "mais pobres"
+     }
+    ]
+   },
+   "audio": "cena-04.mp3",
+   "dur": 6.95,
+   "tw": [
+    0.08,
+    0.4,
+    0.84,
+    0.96,
+    1.48,
+    1.76,
+    2.2,
+    2.56,
+    2.68,
+    3.04,
+    3.52,
+    3.68,
+    4.08,
+    4.187,
+    4.24,
+    5.04,
+    5.28,
+    5.68,
+    5.84,
+    6.08
+   ]
+  },
+  {
+   "cap": "POR QUE IMPORTA",
+   "narracao": "O governo quer controlar gastos, mas mantendo saúde, educação e salário mínimo protegidos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "FOCO SOCIAL",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "escudo",
+      "rotulo": "Saúde protegida",
+      "gatilho": "saúde"
+     },
+     {
+      "tipo": "escudo",
+      "rotulo": "Educação protegida",
+      "gatilho": "educação"
+     },
+     {
+      "tipo": "escudo",
+      "rotulo": "Salário mínimo",
+      "gatilho": "salário mínimo"
+     }
+    ]
+   },
+   "audio": "cena-05.mp3",
+   "dur": 6.95,
+   "tw": [
+    0.064,
+    0.12,
+    0.76,
+    1.08,
+    1.48,
+    2.36,
+    2.56,
+    3.04,
+    3.72,
+    4.48,
+    4.56,
+    5.12,
+    5.6
+   ]
+  },
+  {
+   "cap": "O QUE MUDA",
+   "narracao": "Mas atenção: setores ligados a benefícios fiscais podem enfrentar mudanças. E o mercado vai reagir.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "MERCADO ATENTO",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "predio",
+      "rotulo": "Setor financeiro",
+      "gatilho": "setores"
+     },
+     {
+      "tipo": "barras",
+      "rotulo": "Volatilidade bolsa",
+      "gatilho": "mercado"
+     }
+    ]
+   },
+   "audio": "cena-06.mp3",
+   "dur": 7.51,
+   "tw": [
+    0.08,
+    0.4,
+    1.24,
+    1.72,
+    2.16,
+    2.24,
+    2.88,
+    3.6,
+    3.92,
+    4.4,
+    5.4,
+    5.48,
+    5.68,
+    6.16,
+    6.4
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "Ajuste fiscal é controlar gastos públicos para garantir saúde das contas, sem cortar o essencial.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "AJUSTE FISCAL",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "balanca",
+      "rotulo": "Equilíbrio fiscal",
+      "gatilho": "ajuste fiscal"
+     },
+     {
+      "tipo": "cifrao",
+      "rotulo": "Gastos controlados",
+      "gatilho": "controlar gastos"
+     }
+    ]
+   },
+   "audio": "cena-07.mp3",
+   "dur": 7.19,
+   "tw": [
+    0.128,
+    0.56,
+    1.2,
+    1.48,
+    1.88,
+    2.4,
+    2.96,
+    3.2,
+    3.68,
+    4.2,
+    4.48,
+    5.12,
+    5.36,
+    5.76,
+    5.84
+   ]
+  },
+  {
+   "cap": "FIQUE DE OLHO",
+   "narracao": "Essa semana a Câmara discute o pacote. As próximas decisões vão definir o rumo da economia.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "ANÁLISE NA CÂMARA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "calendario",
+      "rotulo": "23 de novembro",
+      "gatilho": "Câmara"
+     },
+     {
+      "tipo": "lupa",
+      "rotulo": "Atenção nas decisões",
+      "gatilho": "decisões"
+     }
+    ]
+   },
+   "audio": "cena-08.mp3",
+   "dur": 6.79,
+   "tw": [
+    0.192,
+    0.32,
+    0.88,
+    1.12,
+    1.6,
+    1.96,
+    2.12,
+    3.08,
+    3.28,
+    3.76,
+    4.373,
+    4.6,
+    5.04,
+    5.24,
+    5.48,
+    5.56
+   ]
+  },
+  {
+   "cap": "E AGORA?",
+   "narracao": "Quer entender o mercado todo dia e ficar por dentro dessas novidades? É só seguir aqui.",
+   "visual": {
+    "tipo": "fim",
+    "texto": "Seguir"
+   },
+   "audio": "cena-09.mp3",
+   "dur": 6.07,
+   "tw": [
+    0.08,
+    0.32,
+    0.72,
+    0.8,
+    1.52,
+    1.76,
+    2.24,
+    2.32,
+    2.64,
+    2.92,
+    3.2,
+    3.52,
+    4.64,
+    4.84,
+    5.04,
+    5.36
+   ]
+  }
+ ],
+ "legenda": "Lula respondeu firme às pressões do mercado e garantiu ajuste fiscal sem mexer nos programas sociais. O pacote aprovado deve gerar economia de até trinta e três bilhões, tirando dos mais ricos, mas protegendo saúde, educação e salário mínimo.\n\nA discussão continua na Câmara dos Deputados e o mercado deve ficar atento às próximas decisões. Entender esses movimentos é essencial para todos que acompanham a economia de perto.\n\nFonte: Folha Mercado, Times Brasil e Seu Dinheiro\n#AjusteFiscal #Lula2026 #EconomiaBrasileira #MercadoFinanceiro #InvestimentoConsciente"
+}
