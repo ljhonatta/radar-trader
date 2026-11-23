@@ -1,5 +1,259 @@
 [
  {
+  "titulo": "Jensen Huang retorna como CEO da Nvidia e mercado reage positivamente",
+  "resumo": "Jensen Huang foi reintegrado como CEO e presidente da Nvidia em 23/01, com forte alta das ações e bitcoin. O pedido partiu de Donald Trump, que apoia sua volta alegando segurança nacional.",
+  "fatos": [
+   "Jensen Huang foi reintegrado como CEO e presidente da Nvidia em 23/01.",
+   "A decisão do conselho foi unânime e imediata.",
+   "Donald Trump pediu publicamente a volta de Huang pelo Truth Social.",
+   "Ações da Nvidia subiram até 35% após o anúncio.",
+   "Bitcoin avançou 4% nas últimas 24 horas, cotado a US$ 63 mil.",
+   "Nvidia mantém investigações internas sobre suspeita de espionagem estrangeira.",
+   "Conselho criou comitê de Segurança Nacional e Controles de Exportação.",
+   "Harvey C. Jones segue como presidente do conselho da Nvidia.",
+   "Colette Kress volta a ser diretora financeira após ceo interina.",
+   "O mercado global acompanha o caso, focando em inteligência artificial."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 23 de janeiro, a Nvidia anunciou que Jensen Huang retornou ao cargo de presidente e CEO, além de reassumir seu lugar no conselho. A decisão foi aprovada por unanimidade pelo conselho da empresa após várias reuniões e avaliações.",
+   "A volta de Huang ocorreu logo após o presidente dos EUA, Donald Trump, fazer um apelo público para sua reintegração, afirmando que era o melhor para a empresa e para o país, e esclarecendo que isso não apresenta risco à segurança nacional.",
+   "O mercado reagiu com entusiasmo: as ações da Nvidia subiram cerca de 28% a 35% durante o pregão, enquanto o bitcoin registrou alta de 4%, chegando a US$ 63 mil. O cenário positivo reflete confiança na liderança de Huang e no papel da Nvidia na revolução da inteligência artificial.",
+   "A Nvidia segue investigando internamente suspeitas de espionagem relacionadas ao executivo, com um comitê independente, demonstrando compromisso com a governança. O futuro próximo incluirá acompanhamento das investigações e o impacto das decisões para o mercado global de tecnologia e chips."
+  ],
+  "detalhes": [
+   "Jensen Huang é fundador e principal executivo da Nvidia, maior fabricante de chips gráficos.",
+   "O pedido de Trump veio horas antes da decisão oficial do conselho.",
+   "Huang se manifestou dizendo assumir o cargo com humildade e compromisso renovado.",
+   "O afastamento de Huang ocorreu por suspeitas de relação com espiã chinesa e possível envio irregular de chips.",
+   "Apesar da reintegração, a investigação interna continua com assessoria jurídica externa.",
+   "O comitê de Segurança Nacional será formado por conselheiros independentes.",
+   "A Nvidia busca um diretor de conformidade para garantir cumprimento das regras."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Jensen Huang, CEO da Nvidia",
+    "oque": "Assumo essa responsabilidade com humildade e renovado compromisso, e mal posso esperar para voltar ao trabalho."
+   },
+   {
+    "quem": "Donald Trump, ex-presidente dos EUA",
+    "oque": "Espero que o conselho da Nvidia recontrate Jensen Huang, é o melhor para a empresa e para o país."
+   },
+   {
+    "quem": "Harvey C. Jones, presidente do conselho da Nvidia",
+    "oque": "Jensen é a pessoa certa para liderar a Nvidia e seu retorno atende aos interesses de acionistas e parceiros."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de janeiro",
+    "oque": "Conselho da Nvidia reintegra Jensen Huang como CEO com efeito imediato."
+   },
+   {
+    "quando": "Mesmo dia, horas antes",
+    "oque": "Donald Trump pede publicamente a volta de Jensen Huang."
+   },
+   {
+    "quando": "Após anúncio",
+    "oque": "Ações da Nvidia e bitcoin disparam no mercado."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "CEO",
+    "significado": "Diretor executivo responsável por decisões estratégicas da empresa."
+   },
+   {
+    "termo": "Conselho de Administração",
+    "significado": "Grupo que supervisiona a gestão e toma decisões importantes na empresa."
+   },
+   {
+    "termo": "Inteligiência Artificial (IA)",
+    "significado": "Tecnologia que permite máquinas aprender e tomar decisões automatizadas."
+   }
+  ],
+  "pergunta": "Você acha que o retorno de Jensen Huang vai fortalecer a Nvidia no mercado?",
+  "tamanhoTexto": 9432,
+  "numeros": [
+   {
+    "valor": "28% a 35%",
+    "rotulo": "alta das ações da Nvidia após retorno de Jensen Huang"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "alta do bitcoin nas últimas 24 horas pós-anúncio"
+   },
+   {
+    "valor": "US$ 63 mil",
+    "rotulo": "cotação do bitcoin no momento da notícia"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "alta da ação Nvidia",
+    "antes": "não informado, mas estava em baixa",
+    "depois": "+28% a +35%"
+   }
+  ],
+  "destaque": "Retorno de Jensen",
+  "porQueImporta": "A volta de Jensen Huang à liderança da Nvidia, empresa-chave em chips para inteligência artificial, é crucial para investidores e operadores, pois impacta diretamente a confiança no setor tecnológico e em ativos relacionados, como ações e criptomoedas.",
+  "impactoMercado": "O anúncio gerou forte alta nas ações da Nvidia e repercute positivamente em criptomoedas, refletindo expectativas de crescimento em tecnologia e inteligência artificial, setores sensíveis à gestão e decisões estratégicas da empresa.",
+  "entenda": "O CEO é o principal executivo que toma decisões estratégicas na empresa. A Nvidia produz chips gráficos essenciais para inteligência artificial. A alta das ações mostra confiança do mercado na liderança de Jensen Huang, que retorna após investigação por suspeita de espionagem.",
+  "observar": "Acompanhe investigações internas da Nvidia e próximos resultados financeiros, além do impacto das decisões do comitê de Segurança Nacional e o comportamento das ações e do bitcoin nas próximas sessões.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores"
+  ],
+  "angulo": "Explique a relevância da liderança da Nvidia para o mercado de tecnologia e como decisões de alta gestão influenciam investimentos e ativos ligados a IA, conectando à formação em mercado financeiro.",
+  "gancho": "*Nvidia* e *CEO* retornam",
+  "ideias": [
+   "Por que a volta de Jensen Huang animou o mercado?",
+   "Entenda o papel do CEO na Nvidia e impacto nas ações",
+   "Como decisões estratégicas influenciam o mercado de criptomoedas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "categoria": "Empresas",
+  "icone": "foguete",
+  "fonte": "Livecoins (cripto); Money Times; InvestNews",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T18:41:59-03:00",
+  "url": "https://livecoins.com.br/nvidia-volta-jensen-huang-ao-cargo-de-ceo-e-presidente-mercado-anima-e-ate-o-bitcoin-dispara/",
+  "publicadoEm": "2026-11-23T13:52:33-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-01"
+ },
+ {
+  "titulo": "Petróleo recua mais de 3% com aumento da oferta no Oriente Médio",
+  "resumo": "Em 23/11, Brent caiu 3,46% a US$ 89,37 e WTI recuou 3,88% a US$ 80,17. Pressão veio da ampliação da oferta no Oriente Médio mesmo com ataques na região.",
+  "fatos": [
+   "Brent caiu 3,46%, fechando em US$ 89,37 por barril (23/11/2026).",
+   "WTI recuou 3,88%, terminando o dia a US$ 80,17 por barril.",
+   "Reabertura do oleoduto Sharara, na Líbia, aumentou oferta no mercado.",
+   "Grupo Houthi mantém ataques contra instalações da Saudi Aramco.",
+   "Múltiplos ataques a navios relatados pela Agência Britânica UKMTO no Estreito de Ormuz.",
+   "JPMorgan projeta preço do petróleo na faixa dos US$ 70 no primeiro semestre de 2027.",
+   "Declaração de autoridades israelenses indicam que Irã não é mais ameaça significativa, reduzindo percepção de risco.",
+   "Investidores mudaram comportamento, vendendo posições durante altas.",
+   "COP31 terminou sem acordo sobre eliminação gradual dos combustíveis fósseis."
+  ],
+  "explicacao": [
+   "Na segunda-feira, 23 de novembro de 2026, os preços do petróleo sofreram queda significativa. O contrato futuro do Brent fechou em US$ 89,37 por barril, queda de 3,46%, e o WTI fechou em US$ 80,17, caindo 3,88%. Foi a primeira vez em duas semanas que o Brent ficou abaixo de US$ 90.",
+   "A desvalorização ocorreu devido ao aumento da oferta da commodity no Oriente Médio e à reabertura do oleoduto Sharara, na Líbia. Esses fatores aumentaram a disponibilidade global do petróleo, reduzindo a pressão sobre os preços, apesar dos ataques contínuos na região.",
+   "Apesar do aumento da oferta, as tensões geopolíticas permanecem ativas, com ataques do grupo Houthi contra instalações da Saudi Aramco e agressões a embarcações pelo Estreito de Ormuz, limitando uma queda mais acentuada nos preços. Também houve mudança nos comportamentos dos investidores, que passaram a vender em momentos de alta.",
+   "Para o futuro, o JPMorgan revisou sua projeção para o petróleo, estimando queda até os US$ 70 por barril no primeiro semestre de 2027, considerando o excesso de oferta global. Investidores permanecem atentos aos conflitos no Oriente Médio e às decisões na COP31, que impactam o mercado energético."
+  ],
+  "detalhes": [
+   "Em Londres, na ICE, o Brent para janeiro teve queda de US$ 3,20 por barril.",
+   "Em Nova York, na Nymex, WTI recuou US$ 3,24 por barril.",
+   "O aumento da oferta ocorreu mesmo com ataques continuados contra navios e refinarias na região do Golfo.",
+   "O comportamento do mercado de petróleo mudou, com investidores vendendo nas altas.",
+   "A COP31 na Turquia fracassou ao não incluir a eliminação gradual dos combustíveis fósseis.",
+   "A análise da Ritterbusch & Associates aponta pressão dos preços físicos nos mercados internacionais devido à maior oferta.",
+   "As tensões no Oriente Médio continuam relevantes, limitando quedas mais profundas no preço do petróleo."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Cordeiro, analista de inteligência de mercado da StoneX",
+    "oque": "Declarações israelenses indicam redução do risco do Irã, estimulando vendas no mercado."
+   },
+   {
+    "quem": "Analistas da Ritterbusch & Associates",
+    "oque": "Investidores passaram a vender em rallies ao invés de comprar nas quedas de preço."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de novembro de 2026",
+    "oque": "Petróleo Brent e WTI fecharam em forte baixa, com Brent abaixo de US$ 90."
+   },
+   {
+    "quando": "Fim de semana antes do pregão",
+    "oque": "Múltiplos ataques a embarcações no Golfo e Estreito de Ormuz foram registrados."
+   },
+   {
+    "quando": "Domingo, 22 de novembro de 2026",
+    "oque": "COP31 terminou sem acordo sobre a eliminação gradual dos combustíveis fósseis."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Brent",
+    "significado": "Referência internacional para o preço do petróleo, negociada em Londres."
+   },
+   {
+    "termo": "WTI",
+    "significado": "West Texas Intermediate, referência do petróleo negociada em Nova York."
+   },
+   {
+    "termo": "Oleoduto Sharara",
+    "significado": "Duto na Líbia que transporta petróleo importante para o mercado."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da oferta do Oriente Médio no preço do petróleo para os próximos meses?",
+  "tamanhoTexto": 14385,
+  "numeros": [
+   {
+    "valor": "3,46%",
+    "rotulo": "Queda do preço do Brent em 23/11"
+   },
+   {
+    "valor": "89,37",
+    "rotulo": "Preço em dólares do Brent por barril em 23/11"
+   },
+   {
+    "valor": "3,88%",
+    "rotulo": "Queda do preço do WTI em 23/11"
+   },
+   {
+    "valor": "80,17",
+    "rotulo": "Preço em dólares do WTI por barril em 23/11"
+   },
+   {
+    "valor": "US$ 70",
+    "rotulo": "Projeção do JPMorgan para petróleo no 1° semestre de 2027"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Brent abaixo de",
+  "porQueImporta": "A queda do petróleo por maior oferta e tensão geopolítica afeta diretamente custos de produção e investimentos no setor energético, impactando indiretamente preços e setores econômicos sensíveis à commodity.",
+  "impactoMercado": "Mercado poderá ajustar expectativas e investimentos em petróleo, influenciando preços de ações de petroleiras e contratos futuros. A volatilidade deve se manter devido aos conflitos e incertezas na oferta.",
+  "entenda": "O petróleo Brent e WTI são referências globais de preço da commodity, negociados em bolsas de valores. Alterações em sua cotação refletem mudanças na oferta, demanda e riscos geopolíticos, influenciando mercados financeiros.",
+  "observar": "Acompanhar o desenrolar dos conflitos no Oriente Médio, os relatórios do JPMorgan para o mercado de petróleo e as decisões futuras na política global sobre energia, especialmente após a COP31.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "Entender como oferta, geopolítica e comportamento dos investidores influenciam o preço do petróleo ajuda a compreender o mercado financeiro e a dinâmica de ativos globais, mostrando a importância da análise diária para quem quer operar ou investir com visão ampla.",
+  "gancho": "*Petróleo* em queda: oferta + tensão",
+  "ideias": [
+   "Por que o petróleo Brent caiu abaixo de US$ 90?",
+   "Ataques no Oriente Médio: como afetam o preço do petróleo?",
+   "O que esperar dos preços do petróleo em 2027?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "foguete",
+  "fonte": "Times Brasil; Money Times; Exame Invest",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T18:41:59-03:00",
+  "url": "https://timesbrasil.com.br/mundo/petroleo/petroleo-recua-mais-de-3-com-aumento-da-oferta-no-oriente-medio/",
+  "publicadoEm": "2026-11-23T17:37:40-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-02"
+ },
+ {
   "titulo": "Câmara inicia semana decisiva para votar ajuste fiscal de 2027",
   "resumo": "Projeto que pode melhorar as contas públicas em até R$ 56,1 bilhões será votado. Mercado vê medidas insuficientes para recuperar confiança.",
   "fatos": [
@@ -1664,53 +1918,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 73.5% de chance do Bitcoin atingir acima de 62,500 antes de dezembro.",
-  "resumo": "Os apostadores estão otimistas com uma valorização do Bitcoin, prevendo preços acima de 62,500.",
+  "titulo": "Mercado de previsões vê 81.5% de chance do Bitcoin subir para 62,500",
+  "resumo": "Apostadores estão otimistas quanto ao preço do Bitcoin, prevendo uma alta significativa.",
   "probs": [
    {
     "opcao": "↑ 62,500",
-    "prob": 73.5
+    "prob": 81.5
    },
    {
     "opcao": "↓ 60,000",
-    "prob": 58.5
-   },
-   {
-    "opcao": "↓ 57,500",
-    "prob": 50.5
+    "prob": 72.0
    },
    {
     "opcao": "↑ 65,000",
-    "prob": 40.5
+    "prob": 38.5
+   },
+   {
+    "opcao": "↓ 57,500",
+    "prob": 37.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 522 mil",
+  "volume24h": "US$ 1,2 mi",
   "fatos": [
-   "↑ 62,500: 73,5%",
-   "↓ 60,000: 58,5%",
-   "↓ 57,500: 50,5%",
-   "↑ 65,000: 40,5%"
+   "↑ 62,500: 81,5%",
+   "↓ 60,000: 72,0%",
+   "↑ 65,000: 38,5%",
+   "↓ 57,500: 37,5%"
   ],
   "numeros": [
    {
-    "valor": "73,5%",
+    "valor": "81,5%",
     "rotulo": "↑ 62,500"
    },
    {
-    "valor": "58,5%",
+    "valor": "72,0%",
     "rotulo": "↓ 60,000"
    },
    {
-    "valor": "50,5%",
-    "rotulo": "↓ 57,500"
+    "valor": "38,5%",
+    "rotulo": "↑ 65,000"
    },
    {
-    "valor": "40,5%",
-    "rotulo": "↑ 65,000"
+    "valor": "37,5%",
+    "rotulo": "↓ 57,500"
    }
   ],
-  "destaque": "73,5%",
+  "destaque": "81,5%",
   "gancho": "*Otimismo em alta* para o Bitcoin",
   "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
   "categoria": "Previsões",
@@ -1723,59 +1977,60 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-22T14:24:53-03:00",
   "data": "2026-11-22",
-  "status": "nova",
-  "id": "2026-11-22-p1"
+  "status": "atualizada",
+  "id": "2026-11-22-p1",
+  "atualizadoEm": "2026-11-23T18:41:59-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "What price will Ethereum hit in November?",
-  "resumo": "Mercado de previsões aponta 94.5% de chance de que o preço do Ethereum fique abaixo de $1,700 em novembro. Refere-se a expectativas, não previsões oficiais.",
+  "titulo": "Mercado de previsões vê 88% de chance do Ethereum cair para 1,700",
+  "resumo": "Os apostadores esperam que o preço do Ethereum diminua em novembro, indicando uma perspectiva cautelosa.",
   "probs": [
    {
     "opcao": "↓ 1,700",
-    "prob": 94.5
+    "prob": 88.0
    },
    {
     "opcao": "↑ 1,800",
-    "prob": 57.5
+    "prob": 59.0
    },
    {
     "opcao": "↓ 1,600",
-    "prob": 50.0
+    "prob": 41.5
    },
    {
     "opcao": "↑ 1,900",
-    "prob": 26.5
+    "prob": 24.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 502 mil",
+  "volume24h": "US$ 580 mil",
   "fatos": [
-   "↓ 1,700: 94,5%",
-   "↑ 1,800: 57,5%",
-   "↓ 1,600: 50,0%",
-   "↑ 1,900: 26,5%"
+   "↓ 1,700: 88,0%",
+   "↑ 1,800: 59,0%",
+   "↓ 1,600: 41,5%",
+   "↑ 1,900: 24,5%"
   ],
   "numeros": [
    {
-    "valor": "94,5%",
+    "valor": "88,0%",
     "rotulo": "↓ 1,700"
    },
    {
-    "valor": "57,5%",
+    "valor": "59,0%",
     "rotulo": "↑ 1,800"
    },
    {
-    "valor": "50,0%",
+    "valor": "41,5%",
     "rotulo": "↓ 1,600"
    },
    {
-    "valor": "26,5%",
+    "valor": "24,5%",
     "rotulo": "↑ 1,900"
    }
   ],
-  "destaque": "94,5%",
+  "destaque": "88,0%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -1790,7 +2045,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-22T22:58:00-03:00"
+  "atualizadoEm": "2026-11-23T18:41:59-03:00"
  },
  {
   "tipo": "sinal",
@@ -1860,53 +2115,53 @@
  {
   "tipo": "sinal",
   "slug": "largest-company-end-of-december-2026",
-  "titulo": "Mercado de previsões vê 94.8% de chance da Apple ser a maior empresa até dezembro.",
-  "resumo": "Os apostadores acreditam fortemente que a Apple permanecerá na liderança entre as empresas em valor de mercado no final do ano.",
+  "titulo": "Mercado de previsões vê 85.4% de chance da Apple ser a maior empresa",
+  "resumo": "Apostadores estão confiantes de que a Apple se manterá como líder de mercado no final de 2026.",
   "probs": [
    {
     "opcao": "Apple",
-    "prob": 94.8
+    "prob": 85.4
    },
    {
     "opcao": "NVIDIA",
-    "prob": 2.8
-   },
-   {
-    "opcao": "Alphabet",
-    "prob": 1.2
+    "prob": 12.6
    },
    {
     "opcao": "Microsoft",
-    "prob": 1.1
+    "prob": 0.4
+   },
+   {
+    "opcao": "Alphabet",
+    "prob": 0.4
    }
   ],
   "prazo": "2027-01-01",
-  "volume24h": "US$ 68 mil",
+  "volume24h": "US$ 456 mil",
   "fatos": [
-   "Apple: 94,8%",
-   "NVIDIA: 2,8%",
-   "Alphabet: 1,2%",
-   "Microsoft: 1,1%"
+   "Apple: 85,4%",
+   "NVIDIA: 12,6%",
+   "Microsoft: 0,4%",
+   "Alphabet: 0,4%"
   ],
   "numeros": [
    {
-    "valor": "94,8%",
+    "valor": "85,4%",
     "rotulo": "Apple"
    },
    {
-    "valor": "2,8%",
+    "valor": "12,6%",
     "rotulo": "NVIDIA"
    },
    {
-    "valor": "1,2%",
-    "rotulo": "Alphabet"
+    "valor": "0,4%",
+    "rotulo": "Microsoft"
    },
    {
-    "valor": "1,1%",
-    "rotulo": "Microsoft"
+    "valor": "0,4%",
+    "rotulo": "Alphabet"
    }
   ],
-  "destaque": "94,8%",
+  "destaque": "85,4%",
   "gancho": "*Apple continua* no topo do mercado",
   "entenda": "O valor das empresas é influenciado por suas performances financeiras e inovações. Prever qual será a maior empresa ajuda a entender as dinâmicas do mercado.",
   "categoria": "Previsões",
@@ -1919,8 +2174,9 @@
   "horaEstimada": true,
   "coletadoEm": "2026-11-22T14:24:53-03:00",
   "data": "2026-11-22",
-  "status": "nova",
-  "id": "2026-11-22-p4"
+  "status": "atualizada",
+  "id": "2026-11-22-p4",
+  "atualizadoEm": "2026-11-23T18:41:59-03:00"
  },
  {
   "titulo": "Chicago Bears planeja estádio de US$ 10 bilhões em Chicago",
@@ -8190,71 +8446,6 @@
   "data": "2026-11-20",
   "status": "nova",
   "id": "2026-11-20-p2"
- },
- {
-  "tipo": "sinal",
-  "slug": "bitcoin-above-on-november-22-2026",
-  "titulo": "Mercado de previsões vê 97,8% de chance do Bitcoin estar acima de 54.000 em 22 de novembro de",
-  "resumo": "A maioria dos apostadores acredita que o Bitcoin manterá um preço saudável no final de novembro.",
-  "probs": [
-   {
-    "opcao": "54,000",
-    "prob": 97.8
-   },
-   {
-    "opcao": "56,000",
-    "prob": 93.1
-   },
-   {
-    "opcao": "58,000",
-    "prob": 75.3
-   },
-   {
-    "opcao": "60,000",
-    "prob": 35.5
-   }
-  ],
-  "prazo": "2026-11-22",
-  "volume24h": "US$ 122 mil",
-  "fatos": [
-   "54,000: 97,8%",
-   "56,000: 93,1%",
-   "58,000: 75,3%",
-   "60,000: 35,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "97,8%",
-    "rotulo": "54,000"
-   },
-   {
-    "valor": "93,1%",
-    "rotulo": "56,000"
-   },
-   {
-    "valor": "75,3%",
-    "rotulo": "58,000"
-   },
-   {
-    "valor": "35,5%",
-    "rotulo": "60,000"
-   }
-  ],
-  "destaque": "97,8%",
-  "gancho": "*Expectativa alta* para o Bitcoin",
-  "entenda": "O movimento de preços do Bitcoin é amplamente acompanhado como uma métrica de interesse e confiança no mercado de criptoativos.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bitcoin-above-on-november-22-2026",
-  "publicadoEm": "2026-11-20T19:21:15-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-20T19:21:15-03:00",
-  "data": "2026-11-20",
-  "status": "nova",
-  "id": "2026-11-20-p3"
  },
  {
   "titulo": "Dólar se fortalece por quarto semana seguida com Fed e IA",
@@ -18488,129 +18679,6 @@
   "id": "2026-11-16-04"
  },
  {
-  "titulo": "Programa capacita 3 mil servidores para inclusão de pessoas com deficiência",
-  "resumo": "Programa Nacional de Inclusão Produtiva oferece curso gratuito e certificado para agentes públicos. A iniciativa visa eliminar barreiras e melhorar acesso a serviços e trabalho para pessoas com deficiência.",
-  "fatos": [
-   "O programa terá duração de três anos com 3 mil participantes no total.",
-   "2,7 mil vagas para agentes públicos e 300 para funcionários do Banco do Brasil.",
-   "Curso com 120 horas divididas em seis jornadas de aprendizagem.",
-   "Lançamento ocorreu no dia 13 de outubro em Brasília.",
-   "Inscrições abertas até 23 de dezembro de 2026.",
-   "Aulas iniciam em 12 de janeiro de 2027.",
-   "Programa é financiado conforme Portaria nº 808/2023 do Ministério da Fazenda.",
-   "Plataforma digital Hub Inclusi-On será usada para a formação.",
-   "Certificação exige concluir 75% do curso e aplicar práticas no trabalho.",
-   "Banco Nacional de Boas Práticas irá reunir experiências e soluções."
-  ],
-  "explicacao": [
-   "Foi lançado em Brasília, no dia 13 de outubro, o Programa Nacional de Inclusão Produtiva para Agentes Públicos. Serão oferecidas 3 mil vagas gratuitas para servidores públicos e funcionários do Banco do Brasil, com duração total de três anos.",
-   "O curso busca preparar os servidores para identificar e eliminar obstáculos que pessoas com deficiência enfrentam no acesso a serviços públicos e oportunidades de emprego. O programa enfatiza a inclusão que vai além do cumprimento da lei, focando em atendimento, acessibilidade e adaptação de processos.",
-   "Com 120 horas de formação certificada, o conteúdo abrange legislação, acessibilidade, direito das pessoas com deficiência e gestão pública inclusiva. A aprendizagem ocorre por videoaulas, simulações, encontros on-line e mentoria, visando mudanças concretas nas instituições.",
-   "As inscrições vão até 23 de dezembro de 2026, com aulas começando em janeiro de 2027. A experiência dos participantes será registrada num banco nacional de boas práticas, permitindo que soluções de inclusão sejam compartilhadas e aplicadas em todo o país."
-  ],
-  "detalhes": [
-   "O programa é uma iniciativa conjunta do Banco do Brasil, Tesouro Nacional e empresa Inclusi.",
-   "Visa capacitar servidores federais, estaduais, distritais e municipais.",
-   "Das 300 vagas para funcionários do Banco do Brasil, o objetivo é fortalecer ações internas de inclusão.",
-   "Curso inclui videoaulas, simulações práticas, fóruns e mentoria online.",
-   "Aborda temas como legislação, acessibilidade, autonomia e gestão pública inclusiva.",
-   "O programa está vinculado a regras que exigem investimento em capacitação por bancos com operações garantidas pela União.",
-   "A participação e a aplicação prática das aprendizagens serão monitoradas durante todo o curso."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Banco do Brasil",
-    "oque": "A inclusão deve ir além do cumprimento da lei, promovendo atendimento e processos acessíveis"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "13 de outubro de 2023",
-    "oque": "Lançamento oficial do programa em Brasília"
-   },
-   {
-    "quando": "Até 23 de dezembro de 2026",
-    "oque": "Período para inscrições gratuitas no programa"
-   },
-   {
-    "quando": "12 de janeiro de 2027",
-    "oque": "Início das aulas da primeira turma"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Inclusão Produtiva",
-    "significado": "Ação de integrar pessoas com deficiência ao mercado e serviços, garantindo acesso e participação efetiva"
-   },
-   {
-    "termo": "Certificação Profissional",
-    "significado": "Reconhecimento formal da conclusão e aprendizado em um curso ou formação"
-   },
-   {
-    "termo": "Portaria nº 808/2023",
-    "significado": "Norma do Ministério da Fazenda que regula investimento em capacitação por bancos com garantia da União"
-   }
-  ],
-  "pergunta": "Como você acha que a inclusão no setor público influencia o mercado e a sociedade?",
-  "tamanhoTexto": 4670,
-  "numeros": [
-   {
-    "valor": "3.000",
-    "rotulo": "Número total de vagas ofertadas"
-   },
-   {
-    "valor": "2.700",
-    "rotulo": "Vagas para agentes públicos federais, estaduais, distritais e municipais"
-   },
-   {
-    "valor": "300",
-    "rotulo": "Vagas destinadas a funcionários do Banco do Brasil"
-   },
-   {
-    "valor": "120",
-    "rotulo": "Horas totais de formação certificada"
-   },
-   {
-    "valor": "75%",
-    "rotulo": "Conteúdo mínimo necessário para certificação"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "3.000 vagas gratuitas",
-  "porQueImporta": "Capacitar servidores para inclusão efetiva de pessoas com deficiência melhora o acesso a serviços públicos e cria ambientes mais acessíveis, fortalecendo a cidadania e a oferta de oportunidades no setor público.",
-  "impactoMercado": "Essa iniciativa tende a aumentar a eficiência e qualidade dos serviços públicos, impactando positivamente setores ligados à gestão pública e diversidade, sem previsões sobre preços ou investimentos financeiros específicos.",
-  "entenda": "Inclusão produtiva no setor público significa preparar agentes para identificar e retirar barreiras que pessoas com deficiência enfrentam, tornando serviços e ambientes públicos mais acessíveis e acolhedores para essa população.",
-  "observar": "Acompanhe as inscrições até dezembro de 2026 e o início das aulas em janeiro de 2027. Observe também os resultados práticos da capacitação que serão divulgados via Banco Nacional de Boas Práticas.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Explicar como a capacitação de servidores públicos em inclusão amplia o entendimento do mercado sobre diversidade e gestão pública eficiente, tema essencial para quem quer atuação responsável no mercado financeiro.",
-  "gancho": "*Inclusão* no setor público",
-  "ideias": [
-   "Por que incluir pessoas com deficiência no serviço público importa",
-   "Como o curso do Banco do Brasil promove acessibilidade e inclusão",
-   "Conheça o Programa Nacional de Inclusão Produtiva para agentes públicos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Comportamento do investidor",
-  "icone": "escudo",
-  "fonte": "Agência Brasil Economia",
-  "impacto": "medio",
-  "ordem": 11,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T08:32:44-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/curso-capacita-servidores-para-inclusao-de-pessoas-com-deficiencia",
-  "publicadoEm": "2026-11-15T15:00:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-16-05"
- },
- {
   "titulo": "Vendas no varejo, produção e investimentos desaceleram na China em outubro",
   "resumo": "Produção industrial, investimentos e vendas no varejo chineses caem mais que o previsto em outubro. Autoridades devem ampliar estímulos para conter a fraqueza da demanda interna.",
   "fatos": [
@@ -18693,1428 +18761,5 @@
   "publicadoEm": "2026-11-16T08:09:00-03:00",
   "data": "2026-11-16",
   "id": "2026-11-16-06"
- },
- {
-  "titulo": "Brasil aposta em minerais estratégicos para valorizar indústria e atrair investimentos",
-  "resumo": "Brasil identificou 27 minerais estratégicos, como lítio e terras raras, para desenvolver processamento industrial e atrair investimentos. Política busca transformar reservas em produtos com valor agregado e reduzir dependência de importações.",
-  "fatos": [
-   "Brasil definiu 27 minerais estratégicos divididos em três níveis de prioridade.",
-   "Alta prioridade inclui 9 minerais: terras raras, grafita, lítio, níquel, cobalto, cobre, manganês, silício e urânio.",
-   "Prioridade média abrange 8 minerais como tungstênio, crômio, potássio e enxofre.",
-   "Prioridade baixa contempla 10 minerais, entre eles nióbio, ouro e alumínio.",
-   "Fundo Garantidor da Atividade Mineral (FGAM) poderá receber até R$ 2 bilhões para apoiar projetos.",
-   "Política visa ampliar processamento mineral e produção local de bens de maior valor agregado.",
-   "Medidas buscam reduzir dependência de importação e fortalecer indústria nacional.",
-   "Demanda global por minerais estratégicos é impulsionada por eletrificação, energia renovável e tecnologia.",
-   "Investimentos são estimulados para inserir Brasil em cadeias produtivas internacionais.",
-   "Projeto faz parte da Política Nacional de Minerais Críticos e Estratégicos aprovada em 2026."
-  ],
-  "explicacao": [
-   "O Brasil possui 27 minerais classificados como críticos e estratégicos, contemplando desde lítio e cobre até potássio e terras raras, essenciais para a indústria de energia, tecnologia e agricultura. Essa lista foi aprovada pelo governo federal em 2026 como parte da Política Nacional de Minerais Críticos e Estratégicos (PNMCE).",
-   "A estratégia vai além da mineração, buscando estimular o processamento nacional desses minerais para gerar produtos de maior valor agregado, aumentando o potencial econômico do setor. Isso inclui produção local de baterias, semicondutores e fertilizantes, por exemplo.",
-   "O governo planeja apoiar projetos vinculados aos 27 minerais estratégicos por meio de mecanismos como o Fundo Garantidor da Atividade Mineral (FGAM), com previsão de aportes de até R$ 2 bilhões. O objetivo é facilitar investimentos e o desenvolvimento de uma cadeia produtiva mais completa dentro do país.",
-   "Esse movimento ocorre num contexto global de alta demanda por minerais estratégicos devido à eletrificação, energias renováveis e avanços tecnológicos, com impactos geopolíticos. O Brasil busca usar sua riqueza mineral para ganhar espaço internacional e diminuir vulnerabilidades a fornecedores externos."
-  ],
-  "detalhes": [
-   "O que: Política Nacional de Minerais Críticos e Estratégicos aprovada pelo governo brasileiro.",
-   "Quando: Publicada em 2026 com foco em desenvolvimento industrial e mineração.",
-   "Quem: Governo federal e setor mineral brasileiro, incluindo envolvidos em indústrias de alta tecnologia.",
-   "Como: Por meio de incentivos financeiros, regulamentações e apoio ao processamento nacional.",
-   "Prioridades divididas em alta, média e baixa, orientando concessão de incentivos públicos.",
-   "Contexto: Crescente demanda global por minerais usados em energia e tecnologia.",
-   "Comparação: Em vez de exportar minério bruto, Brasil estimula agregar valor localmente."
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "2026",
-    "oque": "Governo federal aprova lista de 27 minerais críticos e inicia política de incentivos."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Minerais estratégicos",
-    "significado": "Recursos essenciais para tecnologias e produção industrial crítica."
-   },
-   {
-    "termo": "PNMCE",
-    "significado": "Política Nacional de Minerais Críticos e Estratégicos aprovada pelo Brasil."
-   },
-   {
-    "termo": "Fundo Garantidor da Atividade Mineral",
-    "significado": "Fundo para financiar projetos ligados à cadeia mineral."
-   }
-  ],
-  "pergunta": "Você sabia que o Brasil tem 27 minerais estratégicos para o futuro da indústria?",
-  "tamanhoTexto": 16652,
-  "numeros": [
-   {
-    "valor": "27",
-    "rotulo": "minerais estratégicos listados pelo Brasil"
-   },
-   {
-    "valor": "9",
-    "rotulo": "minerais na lista de alta prioridade"
-   },
-   {
-    "valor": "8",
-    "rotulo": "minerais na lista de prioridade média"
-   },
-   {
-    "valor": "10",
-    "rotulo": "minerais na lista de baixa prioridade"
-   },
-   {
-    "valor": "R$ 2 bilhões",
-    "rotulo": "prováveis aportes ao Fundo Garantidor da Atividade Mineral"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "27 minerais estratégicos",
-  "porQueImporta": "Entender a política de minerais estratégicos é fundamental para investidores e operadores pois revela movimentações para fortalecer a indústria brasileira, reduzir dependências externas e aproveitar setores-chave ligados à tecnologia e energia, áreas com grande potencial de crescimento global.",
-  "impactoMercado": "A medida deve fomentar atração de investimentos industriais, ampliar cadeias produtivas nacionais e impactar setores de energia, tecnologia e agricultura. Operadores podem observar oportunidades em ações e ativos relacionados à mineração, processamento e indústria associada.",
-  "entenda": "Minerais estratégicos são matérias-primas essenciais para setores industriais importantes, como baterias, eletrônicos e fertilizantes. O valor agregado aumenta quando o país não apenas extrai o minério, mas também processa e fabrica produtos finais, promovendo desenvolvimento econômico.",
-  "observar": "Fique atento a anúncios sobre projetos aprovados para processar minerais, a utilização dos recursos do FGAM e a evolução dos incentivos governamentais até 2028, prazo para cumprimento das novas regras.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Essa notícia mostra como o Brasil está criando estratégias para transformar suas riquezas minerais em ativos industriais valiosos, importante para quem quer entender o mercado e a indústria do país, com foco em agregar valor e oportunidades.",
-  "gancho": "*minerais* e *investimentos* em alta",
-  "ideias": [
-   "Conheça os 27 minerais estratégicos do Brasil",
-   "Como o Brasil quer transformar minério em indústria",
-   "Por que lítio e terras raras são o futuro da economia nacional"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Commodities",
-  "icone": "foguete",
-  "fonte": "Times Brasil",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T22:23:06-03:00",
-  "url": "https://timesbrasil.com.br/empresas-e-negocios/energia/disputa-global-por-minerais-para-energia-abre-oportunidades-para-o-brasil-entenda-a-estrategia/",
-  "publicadoEm": "2026-11-15T20:00:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-10"
- },
- {
-  "titulo": "Plano propõe ajuste fiscal de R$ 353 bi por ano, 2,78% do PIB",
-  "resumo": "Estudo do economista Sergio Firpo indica que 30 medidas podem gerar economia de R$ 353 bilhões anuais para o governo, equivalente a 2,78% do PIB, com impacto gradual em dez anos.",
-  "fatos": [
-   "Economia anual estimada: R$ 353 bilhões, 2,78% do PIB.",
-   "Impacto gradual em dez anos, chegando a R$ 348,2 bilhões no décimo ano.",
-   "Em 2029, economia prevista é de R$ 90,9 bilhões (0,72% do PIB).",
-   "Das medidas, 7 dependem de emendas constitucionais, gerando R$ 222 bilhões em economia.",
-   "Reforma paramétrica da Previdência está entre as principais medidas.",
-   "Proposta recomenda congelar crescimento do piso federal da educação pela inflação.",
-   "Limitação do ganho real do salário mínimo entre 1% a 1,5% aumenta economia até 3,11% do PIB.",
-   "Cerca de 35,4% da economia afeta principalmente pessoas de renda alta.",
-   "Aprovação das emendas constitucionais prevista para 2026.",
-   "Atrasos na aprovação podem reduzir o impacto inicial em até 0,05% do PIB."
-  ],
-  "explicacao": [
-   "Um estudo coordenado pelo economista Sergio Firpo, do Insper, propõe 30 medidas de revisão de gastos públicos que podem gerar uma economia anual de R$ 353 bilhões, equivalente a 2,78% do PIB. A projeção considera impacto gradual, atingindo esse valor após dez anos.",
-   "O plano inclui reformas como a previdenciária paramétrica, encerramento do abono salarial, mudanças no abono salarial, reformas administrativas e limitações nas emendas parlamentares, com ênfase na aprovação de emendas constitucionais para viabilizar essas mudanças.",
-   "A proposta avalia a qualidade do gasto público segundo cinco critérios: efetividade, eficiência, sobreposição, efeitos distributivos e sustentabilidade, selecionando medidas que cortam gastos inferiores à média para melhorar o uso dos recursos.",
-   "O cronograma depende do Congresso para aprovação, com o impacto estimado em R$ 90,9 bilhões no segundo ano e possibilidade de redução do efeito caso haja atrasos, destacando a importância da tramitação ágil das propostas."
-  ],
-  "detalhes": [
-   "O estudo analisou 44 iniciativas e selecionou 30 com prioridade segundo qualidade do gasto.",
-   "Medidas que afetam grupos de renda alta representam maior parte da economia estimada.",
-   "Proposta prevê desvincular o piso federal da educação da receita e limitar seu crescimento à inflação.",
-   "Projeto inclui revisão do Simples, MEI e fim de deduções de saúde e educação no IRPF.",
-   "Impacto da economia depende da aprovação do Congresso, especialmente emendas constitucionais.",
-   "Sergio Firpo foi secretário no Ministério do Planejamento entre 2023 e 2025.",
-   "Recomendações consideram evitar cortes em benefícios sociais que garantem proteção."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Sergio Firpo, economista e coordenador acadêmico do Observatório do Insper",
-    "oque": "Cortar gastos de qualidade inferior eleva a qualidade do que permanece."
-   },
-   {
-    "quem": "Sergio Firpo",
-    "oque": "Risco de o Congresso preservar medidas que atingem principalmente o topo da renda."
-   },
-   {
-    "quem": "Sergio Firpo",
-    "oque": "Cada perda na tramitação deve ser compensada para manter economia projetada."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2026",
-    "oque": "Previsão de aprovação das emendas constitucionais no Congresso."
-   },
-   {
-    "quando": "2029",
-    "oque": "Segundo ano de implementação com economia estimada em R$ 90,9 bilhões."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Emenda Constitucional",
-    "significado": "Alteração na Constituição que requer aprovação especial no Congresso."
-   },
-   {
-    "termo": "Previdência Paramétrica",
-    "significado": "Reforma que ajusta regras da aposentadoria, como idade e tempo de contribuição."
-   },
-   {
-    "termo": "PIB",
-    "significado": "Produto Interno Bruto: soma de tudo que o país produz em bens e serviços."
-   }
-  ],
-  "pergunta": "Você acha que o Congresso conseguirá aprovar essas medidas a tempo?",
-  "tamanhoTexto": 6353,
-  "numeros": [
-   {
-    "valor": "R$ 353 bilhões",
-    "rotulo": "Economia anual estimada no longo prazo"
-   },
-   {
-    "valor": "2,78%",
-    "rotulo": "Economia anual equivalente ao PIB"
-   },
-   {
-    "valor": "R$ 90,9 bilhões",
-    "rotulo": "Economia estimada no segundo ano do programa (2029)"
-   },
-   {
-    "valor": "R$ 222 bilhões",
-    "rotulo": "Economia dependente de emendas constitucionais"
-   },
-   {
-    "valor": "7",
-    "rotulo": "Número de medidas que exigem emenda constitucional"
-   },
-   {
-    "valor": "1% a 1,5%",
-    "rotulo": "Limite proposto para ganho real do salário mínimo"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 353 bilhões",
-  "porQueImporta": "Esse plano mostra como o governo pode ajustar as contas públicas ao reduzir gastos que são menos eficazes, aumentando a qualidade do gasto e equilibrando o orçamento. Para investidores, esse ajuste pode afetar indicadores fiscais e a visão do mercado sobre a sustentabilidade da dívida pública no longo prazo.",
-  "impactoMercado": "Se o pacote for aprovado e implementado, pode melhorar a confiança no controle fiscal, influenciando a curva de juros e a percepção de risco da dívida pública. Setores ligados a políticas públicas também podem ser impactados, e será importante acompanhar ações e títulos federais relacionados.",
-  "entenda": "Este estudo indica um conjunto de medidas para cortar gastos públicos de forma gradual, visando preservar o que é mais importante e eficiente. O PIB representa tudo que o país produz, e a economia proposta equivale a quase 3% dessa produção anual, indicando um esforço significativo para conter despesas públicas.",
-  "observar": "Fique atento à tramitação das emendas constitucionais em 2026 e às votações das leis complementares, pois atrasos podem reduzir o impacto das economias previstas nos primeiros anos do plano.",
-  "publico": [
-   "Investidores",
-   "Empresários",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "A notícia mostra um plano concreto para rever gastos e melhorar as contas públicas, fundamental para quem quer entender como decisões políticas afetam o ambiente econômico e o mercado financeiro brasileiro.",
-  "gancho": "*Ajuste Fiscal* R$ 353 bilhões",
-  "ideias": [
-   "Entenda como o governo quer economizar R$ 353 bi por ano",
-   "Conheça as 7 medidas que precisam de aprovação constitucional",
-   "Impactos do ajuste fiscal no seu bolso e no mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "CNN Brasil",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T22:23:06-03:00",
-  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/plano-propoe-ajuste-fiscal-de-r-353-bi-por-ano-equivalente-a-278-do-pib/",
-  "publicadoEm": "2026-11-15T19:36:14-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-11"
- },
- {
-  "titulo": "Dirigente do Fed alerta que inflação nos EUA vai na direção errada",
-  "resumo": "Jeff Schmid, presidente do Fed de Kansas City, afirma que inflação está acima da meta de 2% e o Fed tem trabalho para conter os preços. Mercados já precificam alta de juros em dezembro de 0,25 ponto percentual.",
-  "fatos": [
-   "Jeff Schmid é presidente do Federal Reserve de Kansas City.",
-   "Data do discurso: 15 de novembro de 2026.",
-   "Inflação dos EUA está acima da meta de 2% do Fed.",
-   "O Fed elevou os juros em 0,25 ponto em setembro de 2026.",
-   "Faixa atual da Selic americana está entre 3,75% e 4,00% ao ano.",
-   "Schmid não tem direito a voto no FOMC em 2026.",
-   "Mercados precificam aumento de 0,25 ponto na reunião de dezembro.",
-   "Há pequena possibilidade de alta de 0,5 ponto no próximo encontro.",
-   "Schmid discursou em conferência de cooperativas de crédito no Havaí."
-  ],
-  "explicacao": [
-   "Jeff Schmid, presidente do Federal Reserve de Kansas City, declarou em 15 de novembro de 2026 que a inflação nos EUA está \"desconfortavelmente acima\" da meta de 2% e segue na direção errada, durante discurso numa conferência no Havaí.",
-   "Schmid destaca que a inflação resulta do desequilíbrio entre oferta e demanda, e critica a ideia de que a inflação atual seja causada apenas por choques de oferta. Ele enfatiza que o Fed tem ferramentas para agir pela via da demanda e conter a alta dos preços.",
-   "Apesar de não pedir explicitamente aumentos de juros, Schmid rejeita a narrativa de que fatores como a expansão da inteligência artificial sejam imunes à política monetária do Fed. O BC americano já elevou a taxa de juros em 0,25 ponto em setembro para intervalo de 3,75% a 4%.",
-   "Com dados recentes de inflação acima do esperado e falas de outros dirigentes do Fed, os mercados futuros precificam totalmente um aumento de 0,25 ponto percentual na próxima reunião do Fed em dezembro, com pequena chance de alta maior."
-  ],
-  "detalhes": [
-   "O Fed é o banco central dos EUA responsável pela política monetária.",
-   "A meta de inflação do Fed é estabilidade de preços em 2% ao ano.",
-   "Choques de oferta impactam inflação, mas a demanda forte agrava isso.",
-   "Schmid discorda da ideia de que expansão da inteligência artificial torna a inflação resistente a juros.",
-   "Desde setembro de 2026, a taxa básica de juros americano está entre 3,75% e 4%.",
-   "O FOMC é o comitê que define os juros nos EUA, com membros votantes e não votantes.",
-   "Mercados futuros são usados para precificar expectativas de altas ou cortes de juros."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Jeff Schmid, presidente do Fed de Kansas City",
-    "oque": "Inflação dos EUA está desconfortavelmente acima da meta de 2% e indo na direção errada."
-   },
-   {
-    "quem": "Jeff Schmid, presidente do Fed de Kansas City",
-    "oque": "Fed sempre tem ferramentas e responsabilidade para lidar com inflação via controle da demanda."
-   },
-   {
-    "quem": "Jeff Schmid, presidente do Fed de Kansas City",
-    "oque": "Fontes atuais da inflação, como a inteligência artificial, não são resistentes à política monetária do Fed."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Setembro de 2026",
-    "oque": "Fed elevou a taxa de juros em 0,25 ponto percentual."
-   },
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Fed optou por não aumentar juros na reunião do mês."
-   },
-   {
-    "quando": "15 de novembro de 2026",
-    "oque": "Discurso de Jeff Schmid alertando sobre inflação alta."
-   },
-   {
-    "quando": "Reunião de dezembro de 2026",
-    "oque": "Mercados precificam alta de juros de 0,25 ponto."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fed",
-    "significado": "Banco central dos Estados Unidos que define a política monetária."
-   },
-   {
-    "termo": "Inflação",
-    "significado": "Aumento generalizado dos preços no comércio."
-   },
-   {
-    "termo": "Taxa de juros",
-    "significado": "Custo do dinheiro definido pelo banco central."
-   }
-  ],
-  "pergunta": "Você entende como a alta dos juros do Fed afeta seus investimentos?",
-  "tamanhoTexto": 3995,
-  "numeros": [
-   {
-    "valor": "2%",
-    "rotulo": "Meta de inflação do Fed"
-   },
-   {
-    "valor": "0,25 ponto",
-    "rotulo": "Aumento dos juros feito em setembro de 2026"
-   },
-   {
-    "valor": "3,75% a 4,00%",
-    "rotulo": "Intervalo atual da taxa básica de juros nos EUA"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Taxa de juros americano",
-    "antes": "3,50% a 3,75%",
-    "depois": "3,75% a 4,00%"
-   }
-  ],
-  "destaque": "Inflação dos EUA",
-  "porQueImporta": "A inflação acima da meta afeta custos e preços globalmente. Para investidores, entender a postura do Fed ajuda a prever movimentos de juros que impactam ações, dólar e renda fixa, influenciando decisões financeiras e de trade.",
-  "impactoMercado": "A expectativa por alta de juros sinaliza ajuste monetário mais rígido, afetando setores sensíveis a crédito e crescimento, dólar e juros futuros. Investidores devem acompanhar decisões do Fed para ajustar estratégias em renda variável e renda fixa.",
-  "entenda": "A inflação é o aumento geral dos preços, medida contra a meta do Fed de 2%. Para conter a inflação, o Fed pode elevar juros, deixando o crédito mais caro, desacelerando demanda e ajudando a diminuir os preços no longo prazo.",
-  "observar": "Acompanhe dados de inflação nos próximos meses e reuniões do Fed, especialmente em dezembro, para entender as decisões sobre juros e o impacto no mercado financeiro global.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Explicamos a fala do presidente do Fed de Kansas City para ajudar a entender como decisões sobre juros e inflação impactam o mercado financeiro e sua estratégia de investimento.",
-  "gancho": "*Inflação* nos EUA e *Fed* alertam",
-  "ideias": [
-   "O que muda com a inflação alta nos EUA para investidores?",
-   "Por que o Fed pode aumentar juros em dezembro de 2026?",
-   "Como a inflação influencia decisões do banco central americano?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "InfoMoney; CNN Brasil",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://www.infomoney.com.br/economia/inflacao-nos-eua-esta-caminhando-na-direcao-errada-alerta-dirigente-do-fed/",
-  "publicadoEm": "2026-11-15T17:32:13-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-01"
- },
- {
-  "titulo": "Alckmin diz que projeto de ajuste fiscal vai na direção correta",
-  "resumo": "Geraldo Alckmin espera votação final do ajuste fiscal no Senado em 17/11 e envio à Câmara. Ministro Moretti projeta redução de R$ 50-60 bilhões em gastos para 2027.",
-  "fatos": [
-   "Texto-base do projeto aprovado no Senado em 12/11 com 45 votos favoráveis e 31 contrários.",
-   "Votação dos destaques no Senado esperada para 17/11, com envio para a Câmara em seguida.",
-   "Projeto prevê corte linear de 10% nos benefícios fiscais e controles em despesas obrigatórias.",
-   "Receitas extraordinárias de petróleo são retiradas da base dos pisos de saúde e educação, sem desvinculação da arrecadação.",
-   "Ministro Bruno Moretti projeta redução entre R$ 50 bilhões e R$ 60 bilhões em gastos para 2027.",
-   "Plano preserva ganhos sociais para população mais pobre e busca superávit fiscal para reduzir juros.",
-   "Senador Jaques Wagner apresentou proposta e Eduardo Braga, relator do orçamento de 2027, deu parecer.",
-   "Alckmin está no exercício da Presidência devido a viagem internacional de Lula.",
-   "Críticas internas ao projeto são reconhecidas, mas Alckmin destaca compromisso do governo com o equilíbrio fiscal.",
-   "Lula deve começar a discutir ministérios nos próximos dias após viagens internacionais."
-  ],
-  "explicacao": [
-   "O presidente em exercício, Geraldo Alckmin, afirmou que o governo espera terminar a votação dos destaques do projeto de ajuste fiscal na terça-feira (17) para enviá-lo à Câmara dos Deputados. O texto-base foi aprovado pelo Senado em 12 de novembro, com 45 votos a favor e 31 contra.",
-   "O projeto, apelidado de \"plano Moretti\" em referência ao ministro do Planejamento Bruno Moretti, visa conter gastos obrigatórios, limitar benefícios fiscais e retirar receitas extraordinárias de petróleo da base dos pisos de saúde e educação, buscando cumprir a meta fiscal de 2027.",
-   "Alckmin destacou que as medidas preservam os ganhos sociais para a população mais pobre e que o equilíbrio fiscal é fundamental para reduzir os juros da economia. Com juros menores, há potencial para crescimento econômico, mais empregos e renda.",
-   "O governo projeta um esforço fiscal extra entre R$ 46 bilhões e R$ 60 bilhões para 2027 com essas medidas e pretende aprovar o texto rapidamente para que as regras entrem em vigor no próximo ano. O presidente Lula deve discutir a composição ministerial nos próximos dias."
-  ],
-  "detalhes": [
-   "Quem: Geraldo Alckmin (presidente da República em exercício) e Bruno Moretti (ministro do Planejamento).",
-   "Quando: votação no Senado em 12/11, destaques em 17/11, expectativa de votação na Câmara em 18/11.",
-   "O que: plano de ajuste fiscal com cortes em benefícios fiscais e controle de gastos obrigatórios.",
-   "Por que: cumprir a meta fiscal de 2027, evitar déficit e reduzir a dívida pública e taxa de juros.",
-   "Contexto: projeto enfrenta resistência, inclusive na base do governo, mas prioriza equilíbrio das contas públicas.",
-   "Impacto: redução prevista de até R$ 60 bilhões em gastos e preservação de políticas sociais.",
-   "Próximos passos: votação final no Senado, envio à Câmara, decisão de Lula sobre ministérios."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Geraldo Alckmin, presidente da República em exercício",
-    "oque": "Projeto de ajuste fiscal vai na direção correta e pode ajudar a reduzir juros."
-   },
-   {
-    "quem": "Geraldo Alckmin",
-    "oque": "Governo não mexe na população mais pobre e busca superávit para baixar juros."
-   },
-   {
-    "quem": "Bruno Moretti, ministro do Planejamento",
-    "oque": "Medidas poderão reduzir entre R$ 50 bilhões e R$ 60 bilhões em gastos em 2027."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12/11/2026",
-    "oque": "Senado aprova texto-base do projeto de ajuste fiscal."
-   },
-   {
-    "quando": "15/11/2026",
-    "oque": "Alckmin declara que projeto vai na direção correta e visita sede do Inep."
-   },
-   {
-    "quando": "17/11/2026",
-    "oque": "Previsão para término da votação dos destaques no Senado e envio à Câmara."
-   },
-   {
-    "quando": "18/11/2026",
-    "oque": "Expectativa de votação do projeto na Câmara dos Deputados."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ajuste fiscal",
-    "significado": "Medidas para equilibrar receitas e despesas públicas."
-   },
-   {
-    "termo": "Superávit primário",
-    "significado": "Quando o governo tem mais receitas que despesas excluindo juros da dívida."
-   },
-   {
-    "termo": "Benefícios fiscais",
-    "significado": "Descontos ou isenções que o governo concede em tributos."
-   }
-  ],
-  "pergunta": "Como você acha que o ajuste fiscal pode impactar os juros e a economia em 2027?",
-  "tamanhoTexto": 11142,
-  "numeros": [
-   {
-    "valor": "45 votos",
-    "rotulo": "votos favoráveis ao texto-base no Senado"
-   },
-   {
-    "valor": "31 votos",
-    "rotulo": "votos contrários ao texto-base no Senado"
-   },
-   {
-    "valor": "R$ 50-60 bilhões",
-    "rotulo": "redução projetada de gastos para 2027"
-   },
-   {
-    "valor": "10%",
-    "rotulo": "corte linear nos benefícios fiscais previsto"
-   },
-   {
-    "valor": "17/11/2026",
-    "rotulo": "data prevista para término da votação no Senado"
-   },
-   {
-    "valor": "18/11/2026",
-    "rotulo": "data esperada para votação na Câmara"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 50-60 bilhões",
-  "porQueImporta": "O ajuste fiscal busca garantir equilíbrio nas contas públicas, o que é essencial para reduzir a taxa de juros e melhorar o ambiente econômico. Para quem investe ou opera, um cenário fiscal mais estável pode influenciar os juros futuros, a confiança dos mercados e a evolução dos ativos financeiros.",
-  "impactoMercado": "A aprovação do projeto pode conter a expansão dos gastos públicos e contribuir para a redução da dívida, o que tende a pressionar juros futuros para baixo. Isso pode afetar setores sensíveis à taxa de juros e a percepção de risco do país, influenciando investimentos em renda fixa e Bolsa.",
-  "entenda": "A proposta de ajuste fiscal é um conjunto de medidas para controlar gastos e aumentar a arrecadação do governo, visando evitar déficits e estabilizar a dívida pública. Isso ajuda a manter a confiança dos investidores e pode refletir em juros mais baixos na economia.",
-  "observar": "Acompanhe a votação dos destaques no Senado no dia 17/11 e a análise do projeto na Câmara em 18/11. Também é relevante monitorar decisões do presidente Lula sobre a formação ministerial e o impacto das medidas no orçamento de 2027.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "Explicar o projeto de ajuste fiscal ajuda o público a entender como políticas públicas influenciam juros e economia, incentivando o interesse em educação financeira e o mercado.",
-  "gancho": "*Ajuste Fiscal*: Entenda Impactos",
-  "ideias": [
-   "O que é o projeto de ajuste fiscal aprovado pelo Senado?",
-   "Como o ajuste fiscal pode influenciar os juros no Brasil?",
-   "O papel do ministro Bruno Moretti no ajuste fiscal 2027"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "Folha Mercado; G1 Economia",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-vai-na-direcao-correta-e-deve-chegar-a-camara-nesta-semana-diz-alckmin.shtml",
-  "publicadoEm": "2026-11-15T13:41:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-02"
- },
- {
-  "titulo": "JP Morgan vê riscos e espaço para Selic subir além de 13,75%",
-  "resumo": "Banco avalia que ajuste fiscal do governo é limitado e a Selic pode subir. Pressões pré-eleitorais e incerteza fiscal aumentam risco de juros mais altos.",
-  "fatos": [
-   "Selic atual em 13,75%, mantida ao longo de 2024, segundo JP Morgan.",
-   "Pacote fiscal prevê impacto entre R$ 50 bilhões e R$ 60 bilhões em 2027.",
-   "Medidas pré-eleitorais somam R$ 40 bilhões e podem anular esforço fiscal.",
-   "Inflação de outubro medida pelo IPCA subiu 0,14%, abaixo da expectativa de 0,25%.",
-   "Meta primária do governo para 2024 é 0,5% do PIB, considerada difícil pelo JP Morgan.",
-   "PIB projetado em 1,7% para 2026 e 1,3% para 2027 pelo banco.",
-   "Dívida bruta da União estimada em 83% do PIB para 2026 e 86% para 2027.",
-   "Pressões fiscais elevam incertezas sobre o equilíbrio das contas públicas."
-  ],
-  "explicacao": [
-   "O JP Morgan considera que o pacote fiscal anunciado não convenceu o mercado por ter medidas pouco estruturais e dúvidas quanto à sua continuidade. Segundo o banco, o BC deve manter a Selic em 13,75% ao longo de 2024, mas há espaço para nova alta.",
-   "O problema vai além do pacote fiscal e inclui os gastos pré-eleitorais estimados em R$ 40 bilhões, que podem anular grande parte do esforço fiscal previsto entre R$ 50 e R$ 60 bilhões para 2027.",
-   "Essa fragilidade fiscal impacta diretamente a política monetária, afetando câmbio e expectativa de inflação, fatores que sustentam a possibilidade de que a Selic retome alta a despeito da ata do Copom indicar maior tolerância a juros elevados.",
-   "Mesmo com a inflação de outubro abaixo do esperado, o JP Morgan alerta que é um alívio pontual e que riscos como El Niño, custos da reforma tributária e pressões nos combustíveis continuam ameaçando a dinâmica dos preços."
-  ],
-  "detalhes": [
-   "Pacote fiscal lançado em 11 de outubro, com implementação prevista para nova gestão de Lula.",
-   "Medidas fiscais incluem contenção de gastos e restrições a créditos tributários.",
-   "A inflação de outubro surpreendeu positivamente, mas não garante tendência para 2024.",
-   "Fenômeno El Niño ameaça elevar preços dos alimentos, pressionando a inflação.",
-   "Atividade econômica brasileira perde ritmo, afetando crescimento e investimentos.",
-   "Discussão sobre redução da jornada e reforma tributária adicionam incertezas fiscais.",
-   "Ata do Copom sinalizou mais tolerância para juros elevados, mas mercado vê riscos de nova alta."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Analistas Vinicius Moreira e Gustavo Ribeiro, JP Morgan",
-    "oque": "Pressões pré-eleitorais de R$ 40 bilhões tendem a anular grande parte do esforço fiscal do pacote."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "11 de outubro de 2023",
-    "oque": "Governo anunciou pacote fiscal com impacto fiscal entre R$ 50 bilhões e R$ 60 bilhões para 2027."
-   },
-   {
-    "quando": "12 de outubro de 2023",
-    "oque": "IPCA de outubro divulgado, subiu 0,14%, abaixo da expectativa de 0,25%."
-   },
-   {
-    "quando": "13 de outubro de 2023",
-    "oque": "Relatório do JP Morgan divulgado com avaliação do pacote fiscal e impactos na Selic."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros definida pelo Banco Central do Brasil."
-   },
-   {
-    "termo": "IPCA",
-    "significado": "Índice Nacional de Preços ao Consumidor Amplo, mede a inflação oficial."
-   },
-   {
-    "termo": "Resultado primário",
-    "significado": "Saldo das contas do governo excluindo despesas com juros da dívida."
-   }
-  ],
-  "pergunta": "Você acha que a Selic vai subir além de 13,75% em 2024? Por quê?",
-  "tamanhoTexto": 7638,
-  "numeros": [
-   {
-    "valor": "13,75%",
-    "rotulo": "Selic atual mantida ao longo de 2024"
-   },
-   {
-    "valor": "R$ 50-60 bilhões",
-    "rotulo": "Impacto fiscal do pacote em 2027"
-   },
-   {
-    "valor": "R$ 40 bilhões",
-    "rotulo": "Pressões fiscais pré-eleitorais estimadas"
-   },
-   {
-    "valor": "0,14%",
-    "rotulo": "IPCA de outubro, abaixo da expectativa"
-   },
-   {
-    "valor": "0,5% do PIB",
-    "rotulo": "Meta do resultado primário do governo para 2024"
-   },
-   {
-    "valor": "1,7%",
-    "rotulo": "Projeção do PIB para 2026"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "13,75%",
-  "porQueImporta": "Entender os riscos fiscais é fundamental para quem investe ou opera, pois podem influenciar a trajetória da Selic, afetando custos de crédito, renda fixa e a percepção de risco do mercado brasileiro.",
-  "impactoMercado": "A possibilidade de alta dos juros deve manter pressões no câmbio e na inflação, afetando segmentos sensíveis a custo de capital e retornos, como crédito, renda fixa e ações do setor financeiro e de consumo.",
-  "entenda": "A Selic é a taxa básica de juros da economia usada pelo BC para controlar inflação e estimular ou frear a atividade. Pacotes fiscais influenciam essa taxa, pois impactam as contas públicas e as expectativas de preço no mercado.",
-  "observar": "Acompanhe as próximas decisões do Copom, a implementação do pacote fiscal e os dados econômicos do PIB e inflação para analisar o impacto dos riscos fiscais sobre a Selic.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explica os efeitos fiscais e monetários que afetam os juros básicos, para ajudar seguidores a entenderem o cenário econômico e a importância da faculdade de mercado financeiro.",
-  "gancho": "*Selic* e *Riscos* fiscais 2024",
-  "ideias": [
-   "O que o JP Morgan diz sobre a Selic em 2024?",
-   "Como o pacote fiscal afeta os juros básicos?",
-   "Riscos pré-eleitorais podem pressionar a Selic: entenda"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Seu Dinheiro",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://www.seudinheiro.com/2026/economia/selic-a-1375-veio-para-ficar-jp-morgan-ve-riscos-de-o-ajuste-fiscal-nao-surtir-efeito-e-pressionar-os-juros-davs/",
-  "publicadoEm": "2026-11-15T15:07:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-03"
- },
- {
-  "titulo": "Banco ABC Brasil compra 40% da Angá Asset por R$ 690 milhões",
-  "resumo": "Banco ABC Brasil adquire 40% da Angá Asset Management, com R$ 24 bilhões sob gestão, e planeja 100% até 2031. A operação visa diversificar receitas e aproveitar sinergias.",
-  "fatos": [
-   "Banco ABC Brasil adquiriu 40% da Angá Controle Holding Ltda.",
-   "Angá Asset Management tem R$ 24 bilhões sob gestão.",
-   "Valor estimado total da compra: R$ 690 milhões.",
-   "Compra será até 2031, com participação final de 100%.",
-   "Angá administra cerca de 50 fundos financeiros.",
-   "Lucro líquido da Angá Asset em 2025 foi de R$ 79,8 milhões.",
-   "Compra é baseada em múltiplos do lucro líquido anual.",
-   "Aquisições anuais acontecerão de 2028 a 2031.",
-   "Angá especializada em crédito privado, FIDCs e investimentos alternativos.",
-   "Sinergias esperadas com as áreas de atacado e investimento do ABC Brasil."
-  ],
-  "explicacao": [
-   "O Banco ABC Brasil fechou um acordo para comprar 40% da Angá Controle Holding Ltda., que gerencia a Angá Asset Management, representante de R$ 24 bilhões em ativos sob gestão. O valor inicial da operação é de R$ 690 milhões, com intenção de chegar a 100% da holding até 2031.",
-   "Essa aquisição ocorre porque o ABC Brasil quer diversificar suas fontes de receita com um negócio de receitas recorrentes e menos intensivo em capital. A Angá Asset é conhecida por fundos de crédito privado, FIDCs e alternativas, gerindo cerca de 50 fundos e tendo lucro líquido de R$ 79,8 milhões em 2025.",
-   "A operação é estruturada para ocorrer por etapas, com base no lucro líquido anual da Angá Asset Management, começando em 2026. Até 2031, o Banco ABC Brasil efetuará compras anuais das participações restantes conforme os múltiplos do lucro líquido, alinhando o controle total à geração de resultados.",
-   "A compra reforça a estratégia do ABC Brasil de agregar expertises em portfólios diversificados e produtos estruturados, com ganhos esperados em sinergias nas áreas de banco de atacado, banco de investimento e setores como agronegócio, infraestrutura e imobiliário."
-  ],
-  "detalhes": [
-   "Quem: Banco ABC Brasil e Angá Controle Holding Ltda.",
-   "Quanto: R$ 690 milhões estimados para 100% até 2031.",
-   "Quando: Compra inicial de 40% em 2026, compras anuais até 2031.",
-   "Onde: No mercado financeiro brasileiro, com foco em gestores independentes.",
-   "Como: Contrato com avaliação baseada em lucro líquido anual da Angá.",
-   "Comparação: Angá tem R$ 24 bilhões sob gestão e lucro líquido próximo de R$ 80 milhões.",
-   "Contexto: Estratégia do ABC Brasil para receitas recorrentes e sinergias no agronegócio e infraestrutura."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Banco ABC Brasil",
-    "oque": "A operação está alinhada à estratégia de diversificação e geração de valor"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2025",
-    "oque": "Angá Asset registrou lucro líquido de R$ 79,8 milhões"
-   },
-   {
-    "quando": "2026",
-    "oque": "Compra inicial de 40% da Angá pelo Banco ABC Brasil"
-   },
-   {
-    "quando": "2028 a 2031",
-    "oque": "Aquisições anuais para chegar a 100% da Angá"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "FIDC",
-    "significado": "Fundo que aplica em direitos creditórios, como cobranças e recebíveis"
-   },
-   {
-    "termo": "Lucro líquido",
-    "significado": "Lucro após todas as despesas e impostos"
-   },
-   {
-    "termo": "Múltiplo do lucro",
-    "significado": "Valor da empresa baseado em quanto lucra"
-   }
-  ],
-  "pergunta": "Você já investiu em fundos de crédito privado ou FIDCs?",
-  "tamanhoTexto": 2031,
-  "numeros": [
-   {
-    "valor": "40%",
-    "rotulo": "participação inicial adquirida pelo ABC Brasil"
-   },
-   {
-    "valor": "R$ 690 milhões",
-    "rotulo": "valor total estimado para 100% da Angá"
-   },
-   {
-    "valor": "R$ 24 bilhões",
-    "rotulo": "ativos sob gestão na Angá Asset Management"
-   },
-   {
-    "valor": "R$ 79,8 milhões",
-    "rotulo": "lucro líquido da Angá em 2025"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 690 milhões",
-  "porQueImporta": "Essa compra mostra como bancos buscam diversificar suas receitas apostando em gestoras independentes que geram fluxo recorrente. Para investidores, demonstra movimento do setor em integrar fundos de crédito e diversificar portfólios além do tradicional.",
-  "impactoMercado": "A operação pode aumentar a oferta de produtos estruturados e crédito privado, influenciando áreas como agronegócio e infraestrutura. Investidores devem observar movimentos de fusões e aquisições que refletem estratégias na ampliação de receitas e expertise.",
-  "entenda": "Gestoras como a Angá Asset administram fundos que aplicam em crédito privado, uma alternativa além da renda fixa tradicional. O lucro líquido indica sua rentabilidade. O ABC pretende comprar parte da gestora para expandir seus negócios com receitas mais estáveis e menos capital intensivo.",
-  "observar": "Acompanhe nos próximos anos os relatórios financeiros da Angá e anúncios do ABC Brasil sobre compras adicionais até 2031. Observe evolução dos resultados e potenciais sinergias apresentadas.",
-  "publico": [
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Explique como bancos diversificam receitas investindo em gestoras independentes para gerar conteúdos sobre finanças e gestão no mercado, sem prometer ganhos.",
-  "gancho": "*Compra* do ABC Brasil na Angá",
-  "ideias": [
-   "Entenda a compra do ABC Brasil na Angá Asset",
-   "O que significa investir em crédito privado com a Angá",
-   "Como bancos diversificam receitas com aquisições financeiras"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "seta",
-  "fonte": "Estadão Economia",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://www.estadao.com.br/economia/banco-abc-brasil-compra-40-da-anga-asset-e-preve-assumir-100-ate-2031-por-r-690-milhoes/",
-  "publicadoEm": "2026-11-15T10:05:20-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-04"
- },
- {
-  "titulo": "Alckmin espera votação do ajuste fiscal no Senado até terça-feira",
-  "resumo": "Presidente em exercício Geraldo Alckmin afirmou que Senado deve concluir votação do projeto de ajuste fiscal em 17 de novembro. Proposta poderá ser enviada à Câmara nesta semana após análise dos destaques.",
-  "fatos": [
-   "Geraldo Alckmin é presidente em exercício em novembro de 2026.",
-   "Projeto de ajuste fiscal é a lei complementar nº 299 de 2026.",
-   "Texto-base foi aprovado no Senado em 12 de novembro de 2026.",
-   "Senado deve concluir a votação dos destaques até 17 de novembro de 2026.",
-   "Proposta poderá seguir para a Câmara ainda nesta semana após votação no Senado.",
-   "Projeto visa superávit fiscal e preserva gastos sociais.",
-   "Alckmin relaciona ajuste fiscal à possibilidade de queda dos juros."
-  ],
-  "explicacao": [
-   "No domingo, 15 de novembro de 2026, o presidente em exercício Geraldo Alckmin afirmou que o Senado deve concluir a votação do projeto de lei complementar nº 299 de 2026, que trata do ajuste fiscal, até terça-feira, 17 de novembro.",
-   "A proposta já teve o texto-base aprovado no Senado na quinta-feira, 12 de novembro, restando apenas a análise dos destaques, que são pedidos para votação separada de trechos do texto. O resultado dessa etapa pode alterar a redação final enviada à Câmara dos Deputados.",
-   "Alckmin destacou que o projeto preserva programas sociais e busca obter superávit fiscal, ou seja, saldo positivo nas contas públicas. Segundo ele, o equilíbrio fiscal pode abrir espaço para a redução dos juros, o que beneficiaria famílias de baixa renda e incentivaria a economia.",
-   "Após a aprovação dos destaques pelo Senado, a expectativa é que o projeto siga para a Câmara dos Deputados ainda nesta semana para prosseguir seu processo legislativo."
-  ],
-  "detalhes": [
-   "A votação do texto-base aconteceu no Senado em 12/11/2026.",
-   "Restam votar os destaques, que podem alterar a redação original.",
-   "Alckmin falou no Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), em Brasília.",
-   "O ajuste fiscal busca um superávit, ou seja, o saldo positivo nas contas públicas.",
-   "A redução dos juros pode aliviar a dívida de famílias de menor renda.",
-   "Após o Senado, a proposta vai para a Câmara dos Deputados.",
-   "Projeto trata de lei complementar e não de projeto ordinário."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Geraldo Alckmin, presidente em exercício",
-    "oque": "Projeto vai na direção correta, preserva ganhos sociais e busca superávit."
-   },
-   {
-    "quem": "Geraldo Alckmin, presidente em exercício",
-    "oque": "Juros menores podem aliviar dívidas e favorecer crescimento econômico."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "12 de novembro de 2026",
-    "oque": "Senado aprovou o texto-base do projeto de ajuste fiscal."
-   },
-   {
-    "quando": "15 de novembro de 2026",
-    "oque": "Alckmin declarou expectativa para conclusão da votação do Senado até 17/11."
-   },
-   {
-    "quando": "17 de novembro de 2026",
-    "oque": "Senado deve votar os destaques da proposta de ajuste fiscal."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Ajuste fiscal",
-    "significado": "Medidas para equilibrar as contas públicas e reduzir déficits."
-   },
-   {
-    "termo": "Superávit",
-    "significado": "Saldo positivo nas contas públicas após receitas menos despesas."
-   },
-   {
-    "termo": "Destaques",
-    "significado": "Pedidos para votar separadamente trechos do projeto no Senado."
-   }
-  ],
-  "pergunta": "Como você acha que o ajuste fiscal pode afetar os juros no Brasil?",
-  "tamanhoTexto": 2515,
-  "numeros": [
-   {
-    "valor": "299",
-    "rotulo": "Número do projeto de lei complementar"
-   },
-   {
-    "valor": "2026",
-    "rotulo": "Ano da proposta e das votações no Senado"
-   },
-   {
-    "valor": "12/11/2026",
-    "rotulo": "Data de aprovação do texto-base no Senado"
-   },
-   {
-    "valor": "17/11/2026",
-    "rotulo": "Prazo esperado para conclusão da votação no Senado"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Votação até 17",
-  "porQueImporta": "O avanço do ajuste fiscal pode impactar diretamente a política econômica do país, influenciando juros, controle da dívida pública e preservação de programas sociais, aspectos importantes para o custo do crédito e a estabilidade econômica que afetam investidores e operadores.",
-  "impactoMercado": "A aprovação do ajuste fiscal pode sinalizar ao mercado controle nas contas públicas, possibilidade de queda dos juros e maior estabilidade, o que tende a afetar a renda fixa, as ações e o ambiente de crédito, especialmente para setores sensíveis a juros e consumo.",
-  "entenda": "O ajuste fiscal é uma proposta para equilibrar as contas do governo, buscando reduzir déficits e alcançar superávit, o que pode liberar espaço para reduzir juros. Isso afeta a economia e o mercado financeiro, influenciando investimentos e o custo do dinheiro.",
-  "observar": "Fique de olho na votação dos destaques no Senado prevista para 17 de novembro e no encaminhamento do projeto para a Câmara ainda nesta semana.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Esta notícia revela a dinâmica do processo legislativo e suas consequências para a economia e mercado, reforçando a importância de compreender ajuste fiscal para quem deseja dominar o mercado financeiro.",
-  "gancho": "*Ajuste Fiscal*: votação e impactos",
-  "ideias": [
-   "Passo a passo: como funciona a votação do ajuste fiscal",
-   "O que o ajuste fiscal prevê e por que importa para os juros",
-   "Entenda os destaques do projeto que o Senado vota até terça"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "alvo",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://timesbrasil.com.br/brasil/alckmin-espera-que-senado-conclua-votacao-do-ajuste-fiscal-na-terca/",
-  "publicadoEm": "2026-11-15T17:30:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-05"
- },
- {
-  "titulo": "Semana tem ata do FOMC e dados econômicos no Brasil e EUA",
-  "resumo": "Entre 16 e 20/11, destaque para ata do FOMC nos EUA e indicadores econômicos no Brasil. Feriado na sexta reduz calendário brasileiro.",
-  "fatos": [
-   "Semana de 16 a 20 de novembro tem feriado no Brasil na sexta-feira (20).",
-   "Ata do FOMC será divulgada na quarta-feira (18) às 16h nos EUA.",
-   "IBC-Br referente a setembro será divulgado na segunda-feira (16).",
-   "Expectativa do Itaú para IBC-Br: queda mensal de 0,1%, alta anual de 0,5%.",
-   "IGP-10 de novembro será divulgado na segunda-feira (16), com alta mensal prevista de 0,20%.",
-   "FGV divulga IPC-S e IGP-10 na segunda-feira às 8h.",
-   "Banco Central divulga Relatório Focus na segunda-feira às 8h25.",
-   "No Brasil, dados trimestrais da Pnad Contínua são divulgados em 18 de novembro.",
-   "Nos EUA, índice Empire Manufacturing sai na segunda, e pedidos de auxílio-desemprego na quinta.",
-   "UC Michigan e confiança do consumidor da Área do Euro são divulgados na sexta-feira às 12h."
-  ],
-  "explicacao": [
-   "A semana de 16 a 20 de novembro terá calendário econômico reduzido no Brasil devido ao feriado do Dia da Consciência Negra, na sexta-feira (20). Destaques incluem o índice de atividade do Banco Central (IBC-Br) e dados de inflação como o IGP-10.",
-   "Nos Estados Unidos, a atenção do mercado está focada na ata da última reunião do Comitê Federal de Mercado Aberto (FOMC), que deve dar pistas sobre a política monetária e o balanço entre inflação e mercado de trabalho para a próxima reunião em dezembro.",
-   "No Brasil, espera-se que os dados econômicos, como produção industrial, volume de serviços e vendas no varejo, mostrem oscilações laterais, apontando para uma desaceleração econômica, enquanto a inflação medida pelo IGP-10 deve ter alta moderada de 0,20% em novembro.",
-   "A divulgação de indicadores tanto no Brasil quanto nos EUA durante a semana ajudará investidores e operadores a entenderem o cenário econômico, influenciando decisões futuras no mercado financeiro global e local."
-  ],
-  "detalhes": [
-   "O feriado nacional do Dia da Consciência Negra no Brasil reduz o calendário de dados econômicos na sexta-feira.",
-   "A ata do FOMC é importante porque indica a avaliação do Fed sobre inflação e emprego, influenciando a política monetária.",
-   "No Brasil, o pacote de ajuste fiscal é plano de fundo para os investidores acompanharem indicadores de atividade.",
-   "O IBC-Br é um índice que mede a atividade econômica mensal no Brasil, divulgado pelo Banco Central.",
-   "IGP-10 reflete a inflação do atacado e pode ser influenciado por preços de petróleo e commodities.",
-   "Os dados do IBGE sobre Pnad Contínua mostram informações do mercado de trabalho e são cruciais para análise econômica.",
-   "Os indicadores nos EUA, como Empire Manufacturing e pedidos de auxílio-desemprego, são sinais do desempenho econômico americano."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Bradesco",
-    "oque": "Mercado busca sinais na ata sobre próximos passos do Fed após dados fortes de emprego e inflação."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16 de novembro",
-    "oque": "Divulgação do IBC-Br, IPC-S, IGP-10, Relatório Focus e balança comercial semanal no Brasil."
-   },
-   {
-    "quando": "18 de novembro",
-    "oque": "Divulgação da ata do FOMC às 16h nos EUA; dados da Pnad Contínua trimestral no Brasil."
-   },
-   {
-    "quando": "19 de novembro",
-    "oque": "Divulgação do índice Fed da Filadélfia e pedidos semanais de auxílio-desemprego nos EUA."
-   },
-   {
-    "quando": "20 de novembro",
-    "oque": "Feriado no Brasil; indicadores de confiança no consumidor nos EUA e na Área do Euro às 12h."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "FOMC",
-    "significado": "Comitê americano que decide política monetária."
-   },
-   {
-    "termo": "IBC-Br",
-    "significado": "Índice mensal que mede a atividade econômica brasileira."
-   },
-   {
-    "termo": "IGP-10",
-    "significado": "Índice de inflação do atacado, cálculo mensal."
-   }
-  ],
-  "pergunta": "Como você espera que a ata do FOMC influencie o mercado nesta semana?",
-  "tamanhoTexto": 3568,
-  "numeros": [
-   {
-    "valor": "0,20%",
-    "rotulo": "Alta mensal prevista do IGP-10 em novembro"
-   },
-   {
-    "valor": "-0,1%",
-    "rotulo": "Expectativa de variação mensal do IBC-Br em setembro"
-   },
-   {
-    "valor": "+0,5%",
-    "rotulo": "Expectativa de variação anual do IBC-Br em setembro"
-   },
-   {
-    "valor": "5,0%",
-    "rotulo": "Taxa anual estável do IGP-10 prevista pelo Itaú"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Ata do FOMC",
-  "porQueImporta": "A ata do FOMC revela indicativos sobre a política monetária dos EUA, que impacta o mercado financeiro global. No Brasil, os indicadores de atividade e inflação mostram a saúde da economia local, influenciando decisões de investimento e operação de traders.",
-  "impactoMercado": "O documento do Fed pode alterar o cenário para juros e câmbio, afetando bolsa e dólar. No Brasil, dados de atividade e inflação influenciam expectativa para juros e avaliação de ativos locais, especialmente em um contexto de ajuste fiscal e desaceleração econômica.",
-  "entenda": "O FOMC é o comitê que define a política monetária nos EUA, cuja ata detalha decisões e percepções sobre economia. No Brasil, o IBC-Br é um índice mensal do Banco Central que mede o ritmo da economia, enquanto o IGP-10 é um indicador importante de inflação ao produtor.",
-  "observar": "Acompanhe na segunda dados de atividade e inflação no Brasil e a divulgação do Relatório Focus. Nos EUA, a ata do FOMC na quarta pode indicar rumos para a economia global. Na quinta e sexta, atenção para indicadores de confiança e ajuda desemprego.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos como a ata do FOMC e os indicadores brasileiros mostram o cenário econômico atual, ajudando seguidores a entender o mercado e a importância das decisões internacionais e domésticas.",
-  "gancho": "Semana de *FOMC* e *dados* econômicos",
-  "ideias": [
-   "O que esperar da ata do FOMC esta semana?",
-   "Como indicadores brasileiros mostram a saúde da economia",
-   "A importância do calendário econômico para traders e investidores"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Agenda",
-  "icone": "relogio",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/",
-  "publicadoEm": "2026-11-15T17:10:21-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-06"
- },
- {
-  "titulo": "Criptoativos dificultam rastreamento de apostas ilegais, alertam advogados",
-  "resumo": "Especialistas apontam que identificar beneficiários e comprovar lavagem em operações digitais é complexo. Ações envolvem corretoras estrangeiras, fintechs e empresas offshore, o que atrasa investigações.",
-  "fatos": [
-   "O concurso 7168 da Quina acumulou prêmio principal para R$ 13,5 milhões.",
-   "49 apostas com quatro acertos ganharam R$ 10.404,62 cada.",
-   "Criptoativos utilizados em apostas ilegais dificultam rastreamento e comprovação de origem ilícita.",
-   "As operações podem envolver stablecoins, exchanges estrangeiras, fintechs e empresas offshore.",
-   "Receita Federal cruza dados para identificar ativos não declarados e incoerências patrimoniais.",
-   "Paula Lima Hyppolito Oliveira é advogada especialista em Direito Penal Empresarial do Caputo, Bastos e Serra Advogados.",
-   "Gabriel Cervantes Ghiselli, especialista em apostas, destaca a complexidade para provar quem controla os recursos.",
-   "Investigadores precisam de provas convergentes para demonstrar controle e dolo.",
-   "Cooperação internacional é necessária para acessar informações financeiras em outros países.",
-   "Apenas a movimentação financeira elevada não comprova crime automaticamente."
-  ],
-  "explicacao": [
-   "Advogados explicam que o uso de criptoativos em apostas ilegais complica a identificação dos responsáveis e o rastreamento financeiro, dificultando a comprovação de lavagem de dinheiro devido ao caráter descentralizado e multilocal das transações.",
-   "O principal desafio está em identificar quem controla efetivamente os recursos, pois transações passam por plataformas diversas, exchanges estrangeiras e empresas offshore. Embora todas as movimentações sejam registradas em blockchains públicas, os dados nem sempre revelam os controladores.",
-   "Para configurar lavagem de dinheiro, é necessário comprovar dolo e que os recursos têm origem em infração penal, o que exige análise detalhada caso a caso. A Receita Federal pode auxiliar cruzando dados financeiros, mas depende da cooperação internacional para acessar informações externas.",
-   "Investigações são complexas e longas, pois exigem provas que conectem transações às pessoas que comandam as operações ilegais. A presença de múltiplos países e instituições financeiras estrangeiras pode atrasar o processo de identificação e bloqueio dos recursos."
-  ],
-  "detalhes": [
-   "Quem: Advogados Paula Lima e Gabriel Ghiselli do escritório Caputo, Bastos e Serra Advogados.",
-   "Quanto: prêmio de R$ 13,5 milhões no concurso 7168 da Quina.",
-   "Quando: próximo sorteio da Quina ocorre em 16 de maio.",
-   "Como: uso de plataformas digitais, blockchains públicas e intermediários financeiros estrangeiros complicam a investigação.",
-   "Comparação: movimentação suspeita precisa ser analisada individualmente para demonstrar dolo e origem ilícita.",
-   "Contexto: cooperação internacional pode atrasar investigações devido à distribuição de dados entre países.",
-   "Receita Federal atua cruzando declarações fiscais com registros de criptoativos para identificar possíveis irregularidades."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Paula Lima Hyppolito Oliveira, advogada especialista em Direito Penal Empresarial",
-    "oque": "O uso de criptomoedas não caracteriza automaticamente lavagem; é preciso dolo e prova de infração penal antecedente."
-   },
-   {
-    "quem": "Gabriel Cervantes Ghiselli, advogado especialista em apostas",
-    "oque": "O maior desafio é demonstrar quem controla efetivamente os recursos e sua relação com a infração penal."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16 de maio",
-    "oque": "Próximo sorteio da Quina com prêmio acumulado de R$ 13,5 milhões."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Criptoativo",
-    "significado": "Ativo digital baseado em criptografia, como criptomoedas."
-   },
-   {
-    "termo": "Blockchain",
-    "significado": "Banco de dados público que registra todas as transações digitais."
-   },
-   {
-    "termo": "Lavagem de dinheiro",
-    "significado": "Processo de ocultar origem ilícita de recursos."
-   }
-  ],
-  "pergunta": "Você conhece os desafios de rastrear cripto em operações ilegais?",
-  "tamanhoTexto": 7773,
-  "numeros": [
-   {
-    "valor": "13,5 milhões",
-    "rotulo": "prêmio acumulado da Quina no concurso 7168 (R$)"
-   },
-   {
-    "valor": "49",
-    "rotulo": "número de apostas que fizeram quatro acertos no concurso"
-   },
-   {
-    "valor": "10.404,62",
-    "rotulo": "valor em reais ganho por aposta com quatro acertos"
-   },
-   {
-    "valor": "4.223",
-    "rotulo": "apostas com três acertos no concurso"
-   },
-   {
-    "valor": "114,97",
-    "rotulo": "valor em reais ganho por aposta com três acertos"
-   },
-   {
-    "valor": "105.629",
-    "rotulo": "apostas com dois acertos"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "13,5 milhões em",
-  "porQueImporta": "Para quem opera ou investe, entender o uso de criptoativos em apostas ilegais mostra os riscos e desafios das operações financeiras digitais. Saber que transações podem ser complexas e que a justiça exige provas concretas para caracterizar crimes ajuda a entender o cenário regulatório e de compliance no mercado.",
-  "impactoMercado": "A complexidade no rastreamento de operações ilegais com criptoativos pode aumentar a atenção dos órgãos reguladores e afetar setores ligados a fintechs e criptomoedas. Investidores devem acompanhar possíveis mudanças regulatórias e impactos em corretoras envolvidas em compliance e segurança.",
-  "entenda": "Criptoativos são moedas digitais registradas em blockchain, que é um livro de registros público e descentralizado. Embora as transações sejam registradas, identificar quem controla o dinheiro pode ser difícil, justamente quando há intermediários e empresas em vários países, o que dificulta rastreamento e investigações.",
-  "observar": "Fique atento ao sorteio da Quina em 16 de maio e acompanhe notícias sobre regulamentação de criptoativos e ações da Receita Federal para identificar movimentações financeiras suspeitas no Brasil.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT"
-  ],
-  "angulo": "Esta notícia ajuda a entender como as tecnologias digitais desafiam as investigações financeiras, tema crucial para quem quer operar com segurança e entender a regulamentação do mercado.",
-  "gancho": "*Cripto* e *Lavagem de Dinheiro*",
-  "ideias": [
-   "Por que cripto dificulta identificar apostas ilegais?",
-   "Entenda os desafios do rastreamento em operações digitais",
-   "Como a Receita identifica movimentações suspeitas em criptoativos"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Cripto",
-  "icone": "cadeado",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://bpmoney.com.br/noticias/criptoativos-dificultam-rastreamento-de-apostas-ilegais-dizem-especialistas/",
-  "publicadoEm": "2026-11-15T14:00:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-07"
- },
- {
-  "titulo": "Solis vê FIDCs atraentes com juros altos e risco adiado até 2027",
-  "resumo": "Ricardo Binelli, da Solis Investimentos, aposta que juros elevados manterão investidores nos FIDCs e retardarão migração para Bolsa e multimercados.",
-  "fatos": [
-   "Juízos provavelmente altos até parte de 2027, segundo projeções do Boletim Focus.",
-   "Ricardo Binelli é sócio-diretor da Solis Investimentos.",
-   "Solis não espera mudanças abruptas de carteira para 2023.",
-   "FIDCs atraem por proteção ativa contra riscos de crédito.",
-   "Solis evita crédito pessoal sem garantia e empréstimos longos sem garantia a PMEs.",
-   "Carteira dos FIDCs foca em consignado público e privado, crédito imobiliário fora do tradicional e operações sob medida.",
-   "Gestora atua desde a criação dos fundos com parceiros especializados.",
-   "Solis observa melhora nas safras recentes ao priorizar qualidade sobre crescimento.",
-   "O orçamento engessado limita alterações econômicas relevantes.",
-   "FIDCs mantêm atratividade frente a Bolsa e multimercados por conta do custo financeiro elevado."
-  ],
-  "explicacao": [
-   "A Solis Investimentos, liderada por Ricardo Binelli, avalia que os juros elevados no Brasil, que devem se manter até parte de 2027, continuarão atraindo investimentos para os Fundos de Investimento em Direitos Creditórios (FIDCs). Essa manutenção adiará a realocação de capital para ativos mais voláteis como Bolsa e multimercados.",
-   "Essa análise é baseada na situação econômica do país, com orçamento engessado que limita mudanças profundas, independente do governo. As projeções do Boletim Focus sustentam a expectativa de juros altos, influenciando a cautela dos investidores em fugir da renda fixa.",
-   "Para a Solis, o contexto atual reforça o foco em renda fixa devido ao custo financeiro elevado, mas com atenção à qualidade do crédito das empresas. A gestora destaca que os FIDCs não são isentos de risco, mas possuem instrumentos de proteção para mitigar perdas potenciais de forma precoce.",
-   "Além disso, a Solis tem estruturado os FIDCs desde a origem, trabalhando com parceiros especializados para garantir rigorosas análises, escolher as melhores garantias e negociar remuneração adequada, evitando créditos de maior risco como pessoal sem garantia e empréstimos longos a pequenas e médias empresas."
-  ],
-  "detalhes": [
-   "A opinião é de Ricardo Binelli, sócio-diretor da Solis, em entrevista ao programa Stock Pickers.",
-   "Análise foi feita no meio do planejamento estratégico da gestora entre o primeiro e segundo turno das eleições.",
-   "Boletim Focus reforça expectativa de juros elevados além do curto prazo do DI.",
-   "FIDCs têm ferramentas ativas para proteger carteiras de crédito deteriorado.",
-   "A Solis descarta crédito pessoal sem garantias e empréstimos longos sem garantias a PMEs na seleção.",
-   "Segmento sofre compressão nas taxas pela disputa entre investidores maiores.",
-   "Foco em cinco frentes principais de crédito para os FIDCs: recebíveis comerciais, consignado, crédito imobiliário não tradicional e operações específicas."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ricardo Binelli, sócio-diretor da Solis Investimentos",
-    "oque": "O dinheiro fica ancorado na renda fixa, distante de ativos voláteis, devido ao custo financeiro mais pesado."
-   },
-   {
-    "quem": "Ricardo Binelli, sócio-diretor da Solis Investimentos",
-    "oque": "FIDCs não são imunes ao risco, mas possuem ferramentas que permitem agir precocemente contra deterioração."
-   }
-  ],
-  "cronologia": [],
-  "glossario": [
-   {
-    "termo": "FIDC",
-    "significado": "Fundo que investe em direitos creditórios, ou seja, créditos a receber."
-   },
-   {
-    "termo": "Boletim Focus",
-    "significado": "Relatório semanal com projeções econômicas e de juros divulgadas por bancos."
-   },
-   {
-    "termo": "Consignado",
-    "significado": "Empréstimo com desconto automático em folha de pagamento."
-   }
-  ],
-  "pergunta": "Você já investiu ou conhece os benefícios dos FIDCs em cenários de juros altos?",
-  "tamanhoTexto": 4391,
-  "numeros": [
-   {
-    "valor": "2027",
-    "rotulo": "Ano esperado para juros ainda elevados"
-   },
-   {
-    "valor": "R$ 159,6 bi",
-    "rotulo": "Patrimônio recorde dos fundos patrimoniais (endowments)"
-   },
-   {
-    "valor": "13,5%",
-    "rotulo": "Retorno projetado dos fundos patrimoniais em 2025"
-   },
-   {
-    "valor": "34%",
-    "rotulo": "Redução da captação dos fundos patrimoniais"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "juros altos até",
-  "porQueImporta": "Para investidores, entender que os juros elevados mantêm o interesse por FIDCs ajuda a planejar estratégias alinhadas ao cenário econômico. Isso impacta decisões entre renda fixa e ativos mais arriscados, mostrando a importância do controle de risco e diversificação.",
-  "impactoMercado": "Os juros altos criam maior demanda por FIDCs, segmentando investimentos e segurando a migração para Bolsa e multimercados. Isso pode tornar a renda fixa e crédito estruturado mais relevantes na carteira dos investidores que buscam proteção e retorno em cenário de volatilidade controlada.",
-  "entenda": "FIDCs são fundos que investem em direitos creditórios, ou seja, recebíveis de empresas. Eles oferecem uma forma de investir em crédito corporativo com mecanismos que protegem contra inadimplência, tornando-os interessantes quando os juros estão altos e o risco aumenta.",
-  "observar": "Fique atento às próximas decisões do governo sobre equipe econômica e controle de gastos, que podem influenciar os juros e o apetite por renda variável. Também acompanhe trimestralmente a qualidade das carteiras dos FIDCs da Solis.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Esta notícia mostra como entender o cenário econômico e os juros influencia o comportamento do investidor, ensinando sobre FIDCs e sua proteção, motivando conhecer mais em uma faculdade de mercado financeiro.",
-  "gancho": "FIDCs e *juros* altos até 2027",
-  "ideias": [
-   "Por que juros altos favorecem os FIDCs?",
-   "Como os FIDCs protegem investidores do risco de crédito?",
-   "O que a Solis espera para o mercado de crédito em 2027?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Renda fixa",
-  "icone": "seta",
-  "fonte": "SpaceMoney",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://www.spacemoney.com.br/investimentos/fundos-de-investimentos/solis-fidcs-juros-altos-risco-2027/",
-  "publicadoEm": "2026-11-15T07:19:26-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-08"
- },
- {
-  "titulo": "Incerteza fiscal faz gestoras elevarem caixa e reverem ativos no Brasil",
-  "resumo": "Gestoras aumentam caixa e buscam proteção após eleição, com dólar forte e foco em defensivas. Apostas na queda dos juros foram revistas diante da indefinição fiscal pós-eleição.",
-  "fatos": [
-   "Reeleição de Luiz Inácio Lula da Silva motivou redução de risco em ativos brasileiros.",
-   "Carteira de ações da Asset1 está 100% em caixa, segundo gestor Pedro Carneiro.",
-   "Duas vagas em aberto no Banco Central são apontadas como fonte de incerteza.",
-   "Fator encerrou posições em juros curtos e inflação implícita após primeiro turno.",
-   "Cardinal Partners aumentou caixa para um terço dos fundos de ações, recorde da gestora.",
-   "Nero Capital aumentou exposição a mineração, siderurgia, papel, celulose e energia elétrica.",
-   "Mantaro Capital reduziu exposição líquida em fundos de ações de 75% para 70%.",
-   "JGP diminuiu exposição direcional por menos espaço para cortes de juros.",
-   "Gestoras multiprodutos com cerca de R$ 120 bilhões elevaram posições em dólar e inflação implícita."
-  ],
-  "explicacao": [
-   "Após a reeleição de Lula, gestoras de investimentos reduziram a exposição a ativos brasileiros, elevaram o caixa e passaram a valorizar setores defensivos, além de proteger posições com dólar forte e revisar apostas na queda dos juros.",
-   "Essa mudança ocorreu devido à incerteza fiscal marcada pela ausência de clareza sobre o time do Ministério da Fazenda, duas vagas em aberto no Banco Central e um cenário complicado para 2027, o que gerou falta de visibilidade para a retomada dos negócios.",
-   "Consequentemente, fundos passaram a privilegiar setores como energia elétrica, mineração e papel e celulose, além de aumentar proteções cambiais e direcionar recursos a ativos mais defensivos, evitando riscos em ações cíclicas e com elevado endividamento.",
-   "No futuro próximo, as gestoras aguardam maiores definições da política fiscal e econômica, mantendo a cautela nos mercados de ações, juros e câmbio, observando possíveis impactos do pacote fiscal e a evolução das taxas de juros no Brasil."
-  ],
-  "detalhes": [
-   "Gestoras têm focado em ações defensivas, como seguradoras e empresas com caixa líquido positivo.",
-   "A alta incerteza ligada ao Ministério da Fazenda e Banco Central limita a visibilidade econômica.",
-   "O cenário fiscal complicado para 2027 preocupa os gestores e influencia as estratégias de investimento.",
-   "Estratégias de multimercados reforçam proteção cambial e aplicações de curto prazo.",
-   "Algumas ações negociadas a menos de cinco vezes o lucro projetado para 2027 ainda são vistas como oportunidades.",
-   "Diversas gestoras revisaram posições de juros e câmbio após os dois turnos eleitorais.",
-   "Setores sensíveis a atividade econômica e endividados vêm sofrendo redução de posição."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Pedro Carneiro, gestor na Asset1",
-    "oque": "A incerteza fiscal é o principal tema, e sem novidades positivas fica difícil ver melhora."
-   },
-   {
-    "quem": "Ricardo Farias, gestor da Fator",
-    "oque": "Operações em juros pós-primeiro turno atingiram objetivos, mas valorização parecia excessiva."
-   },
-   {
-    "quem": "Marcelo Audi, fundador da Cardinal Partners",
-    "oque": "Mudamos completamente de estratégia após o resultado eleitoral inesperado."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Após primeiro turno das eleições",
-    "oque": "Gestoras reduziram risco em juros e inflação implícita e elevaram caixa."
-   },
-   {
-    "quando": "Após segundo turno das eleições",
-    "oque": "Algumas casas apostaram brevemente na queda dos juros, mas retornaram ao caixa."
-   },
-   {
-    "quando": "Outubro de 2022",
-    "oque": "Exposição líquida da Mantaro Capital caiu nos fundos de ações."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Caixa",
-    "significado": "Recursos financeiros disponíveis e não investidos."
-   },
-   {
-    "termo": "Juros curtos",
-    "significado": "Taxas de juros para títulos com vencimento próximo."
-   },
-   {
-    "termo": "Inflação implícita",
-    "significado": "Expectativa de inflação embutida em títulos públicos."
-   }
-  ],
-  "pergunta": "Como você vê o impacto da incerteza fiscal nos seus investimentos?",
-  "tamanhoTexto": 9278,
-  "numeros": [
-   {
-    "valor": "100%",
-    "rotulo": "Carteira de ações da Asset1 em caixa"
-   },
-   {
-    "valor": "13,75%",
-    "rotulo": "Possível patamar da taxa Selic a se manter segundo especialistas"
-   },
-   {
-    "valor": "1/3",
-    "rotulo": "Caixa recorde dos fundos de ações da Cardinal Partners"
-   },
-   {
-    "valor": "R$ 120 bilhões",
-    "rotulo": "Patrimônio conjunto sob gestão das gestoras multiprodutos ouvidas"
-   },
-   {
-    "valor": "75% para 70%",
-    "rotulo": "Queda da exposição líquida do Mantaro LB em ações após eleições"
-   },
-   {
-    "valor": "5 vezes",
-    "rotulo": "Multiplicador lucro projetado para incorporadoras selecionadas"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "100% caixa na",
-  "porQueImporta": "A incerteza fiscal impacta a confiança dos investidores no Brasil, levando à maior cautela, aumento do caixa e preferência por proteção cambial e setores defensivos. Isso afeta decisões de alocação, volatilidade e a dinâmica de preços de ativos locais.",
-  "impactoMercado": "Com o mercado revisando expectativas sobre juros e política fiscal, setores sensíveis como bancos e plataformas financeiras podem ter menor apelo, enquanto energia, commodities e exportadoras tendem a receber mais atenção. O dólar forte reforça a proteção contra riscos externos.",
-  "entenda": "Após uma eleição, as gestoras avaliam os riscos fiscais e políticos para adaptar suas estratégias. A incerteza faz aumentar o caixa — recursos não investidos — enquanto se busca proteção no dólar e ativos defensivos, reduzindo exposição a investimentos mais voláteis e sensíveis à economia.",
-  "observar": "Fique atento às decisões do Ministério da Fazenda, nomeações no Banco Central, e ao pacote fiscal para 2027. Os próximos dados econômicos e reuniões do Copom poderão influenciar os juros e a percepção do mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra como a política e a economia real afetam a estratégia das gestoras, mostrando a importância de entender o cenário fiscal para operar de forma mais segura, tema que é aprofundado na faculdade de mercado financeiro.",
-  "gancho": "*Incerteza fiscal* e *estratégias* de investimento",
-  "ideias": [
-   "Por que as gestoras estão aumentando o caixa após as eleições?",
-   "Setores defensivos ganham destaque diante da incerteza fiscal",
-   "Como a taxa Selic influencia as estratégias pós-eleição"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Economia",
-  "icone": "escudo",
-  "fonte": "Seu Dinheiro",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "url": "https://www.seudinheiro.com/2026/economia/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-cbcb/",
-  "publicadoEm": "2026-11-15T11:42:00-03:00",
-  "data": "2026-11-15",
-  "id": "2026-11-15-09"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-solana-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 66% de chance do Solana subir acima de $70 em novembro",
-  "resumo": "Os apostadores estão otimistas, vislumbrando uma valorização do Solana, o que pode derramar otimismo no setor de criptos.",
-  "probs": [
-   {
-    "opcao": "↑ $70",
-    "prob": 66.0
-   },
-   {
-    "opcao": "↓ $60",
-    "prob": 34.9
-   },
-   {
-    "opcao": "↑ $80",
-    "prob": 25.5
-   },
-   {
-    "opcao": "↓ $50",
-    "prob": 11.8
-   }
-  ],
-  "prazo": "2026-12-01",
-  "volume24h": "US$ 92 mil",
-  "fatos": [
-   "↑ $70: 66,0%",
-   "↓ $60: 34,9%",
-   "↑ $80: 25,5%",
-   "↓ $50: 11,8%"
-  ],
-  "numeros": [
-   {
-    "valor": "66,0%",
-    "rotulo": "↑ $70"
-   },
-   {
-    "valor": "34,9%",
-    "rotulo": "↓ $60"
-   },
-   {
-    "valor": "25,5%",
-    "rotulo": "↑ $80"
-   },
-   {
-    "valor": "11,8%",
-    "rotulo": "↓ $50"
-   }
-  ],
-  "destaque": "66,0%",
-  "gancho": "*Expectativa negativa* para Solana",
-  "entenda": "As previsões de preço de Solana refletem as opiniões de apostadores sobre sua performance futura.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-solana-hit-in-november-2026",
-  "publicadoEm": "2026-11-15T17:35:07-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-15T17:35:07-03:00",
-  "data": "2026-11-15",
-  "status": "atualizada",
-  "id": "2026-11-15-p1",
-  "atualizadoEm": "2026-11-20T15:01:54-03:00"
  }
 ]

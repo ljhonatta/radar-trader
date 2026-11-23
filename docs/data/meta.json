@@ -1,15 +1,16 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-22T22:58:00-03:00",
+  "ultimaColeta": "2026-11-23T18:41:59-03:00",
   "novas": 2,
-  "atualizadas": 2,
+  "atualizadas": 3,
   "status": "ok",
-  "mensagem": "2 nova(s) e 2 atualizada(s): Ajuste fiscal decisivo em votação.",
+  "mensagem": "2 nova(s) e 3 atualizada(s): Nvidia e CEO retornam; Petróleo em queda: oferta + tensão.",
   "falhas": [
    "Sem cotação confiável: Euro"
   ],
   "manual": false,
   "historico": [
+   "2026-11-23T18:41:59-03:00",
    "2026-11-22T22:58:00-03:00",
    "2026-11-22T18:16:13-03:00",
    "2026-11-22T14:24:53-03:00",
@@ -20,56 +21,55 @@
    "2026-11-20T23:50:06-03:00",
    "2026-11-20T19:21:15-03:00",
    "2026-11-20T15:01:54-03:00",
-   "2026-11-19T23:35:54-03:00",
-   "2026-11-19T19:45:58-03:00"
+   "2026-11-19T23:35:54-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 5
+  "textosCompletos": 6
  },
  "placar": {
   "itens": [
    {
     "k": "IBOV",
     "nome": "Ibovespa",
-    "v": "166.376",
-    "var": "-0,69%"
+    "v": "164.796",
+    "var": "-0,95%"
    },
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,95",
-    "var": ""
+    "v": "R$ 5,93",
+    "var": "-0,32%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 60,8 mil",
-    "var": "+1,23%"
+    "v": "US$ 61,3 mil",
+    "var": "+0,59%"
    },
    {
     "k": "SPX",
     "nome": "S&P 500",
-    "v": "6.910",
-    "var": "-3,70%"
+    "v": "7.237",
+    "var": "+4,73%"
    },
    {
     "k": "NDX",
     "nome": "Nasdaq 100",
-    "v": "25.029",
-    "var": "-5,61%"
+    "v": "26.746",
+    "var": "+6,86%"
    },
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 92,16",
-    "var": "-0,44%"
+    "v": "US$ 89,40",
+    "var": "-3,42%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.608,80",
-    "var": "+2,66%"
+    "v": "US$ 3.636,70",
+    "var": "+3,45%"
    },
    {
     "k": "SELIC",
@@ -84,14 +84,14 @@
     "var": ""
    }
   ],
-  "obs": "Último fechamento",
-  "hora": "dom 22h",
-  "data": "2026-11-22",
-  "atualizadoEm": "2026-11-22T22:58:00-03:00",
-  "ibov": "166.376",
-  "ibovVar": "-0,69%",
-  "dolar": "R$ 5,95",
-  "dolarVar": "",
-  "btc": "US$ 60,8 mil"
+  "obs": "Fechamento",
+  "hora": "seg 18h",
+  "data": "2026-11-23",
+  "atualizadoEm": "2026-11-23T18:41:59-03:00",
+  "ibov": "164.796",
+  "ibovVar": "-0,95%",
+  "dolar": "R$ 5,93",
+  "dolarVar": "-0,32%",
+  "btc": "US$ 61,3 mil"
  }
 }
