@@ -1,5 +1,189 @@
 [
  {
+  "titulo": "Câmara inicia semana decisiva para votar ajuste fiscal de 2027",
+  "resumo": "Projeto que pode melhorar as contas públicas em até R$ 56,1 bilhões será votado. Mercado vê medidas insuficientes para recuperar confiança.",
+  "fatos": [
+   "Votação ocorre a partir de 23 de novembro de 2026, podendo se estender a 24 de novembro.",
+   "Projeto de Lei Complementar 299/2026 foi aprovado no Senado e agora está na Câmara.",
+   "Estimativa oficial de melhora no resultado primário para 2027 é entre R$ 45,1 bilhões e R$ 56,1 bilhões.",
+   "Sessão extraordinária convocada pelo presidente da Câmara, Hugo Motta (Republicanos-PB).",
+   "Relator na Câmara é Mauro Benevides Filho (União Brasil-CE).",
+   "Para aprovar, o texto precisa de pelo menos 257 votos dos 513 deputados.",
+   "Mercado financeiro demonstra cautela em relação às medidas aprovadas.",
+   "Analistas acreditam que o ajuste ainda é insuficiente para tranquilizar sobre dívidas e juros."
+  ],
+  "explicacao": [
+   "Nesta segunda-feira (23), a Câmara dos Deputados começa a votar o Projeto de Lei Complementar 299/2026, que trata do ajuste fiscal aprovado pelo Senado para o ano de 2027.",
+   "O pacote fiscal pode melhorar o resultado primário do governo em R$ 45,1 bilhões a R$ 56,1 bilhões, conforme números oficiais, buscando conter o aumento da dívida pública.",
+   "Apesar do potencial benefício fiscal, analistas consultados pelo Times Brasil alertam que apenas a aprovação não garante a recuperação da confiança do mercado, que permanece cauteloso.",
+   "O relator Mauro Benevides Filho pretende manter o texto oriundo do Senado para evitar atrasos na tramitação, e a Câmara precisará de pelo menos 257 votos para aprovar o projeto."
+  ],
+  "detalhes": [
+   "Quem: Governo de Luiz Inácio Lula da Silva com apoio do Congresso.",
+   "Quanto: Ajuste fiscal pode melhorar as contas em até R$ 56,1 bilhões em 2027.",
+   "Quando: Votação inicia em 23 de novembro de 2026, possível continuação em 24/11.",
+   "Onde: Câmara dos Deputados, Brasília.",
+   "Como: Projeto de Lei Complementar aprovado no Senado passa para votação na Câmara.",
+   "Comparação: Valor do ajuste representa melhoria estimada no resultado primário para 2027.",
+   "Contexto: Mercado financeiro segue cauteloso apesar do pacote ser considerado positiv0 pelos governistas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Mauro Benevides Filho, relator na Câmara",
+    "oque": "Pretende manter o texto do Senado para evitar nova análise e atrasos."
+   },
+   {
+    "quem": "Hugo Motta, presidente da Câmara",
+    "oque": "Convocou sessão extraordinária para a votação do projeto."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de novembro de 2026",
+    "oque": "Início da votação do ajuste fiscal na Câmara."
+   },
+   {
+    "quando": "24 de novembro de 2026",
+    "oque": "Possível continuação da votação do projeto na Câmara."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Resultado primário",
+    "significado": "Saldo das contas públicas sem considerar juros da dívida."
+   },
+   {
+    "termo": "Projeto de Lei Complementar (PLP)",
+    "significado": "Tipo de lei que complementa a Constituição, com quórum qualificado para aprovação."
+   },
+   {
+    "termo": "Dívida pública",
+    "significado": "Total do endividamento do governo federal."
+   }
+  ],
+  "pergunta": "Você acha que o ajuste fiscal vai recuperar a confiança do mercado?",
+  "tamanhoTexto": 1747,
+  "numeros": [
+   {
+    "valor": "R$ 56,1 bilhões",
+    "rotulo": "melhora máxima estimada no resultado primário em 2027"
+   },
+   {
+    "valor": "R$ 45,1 bilhões",
+    "rotulo": "melhora mínima estimada no resultado primário em 2027"
+   },
+   {
+    "valor": "257",
+    "rotulo": "votos mínimos necessários para aprovação na Câmara"
+   },
+   {
+    "valor": "513",
+    "rotulo": "total de deputados na Câmara"
+   },
+   {
+    "valor": "23/11/2026",
+    "rotulo": "data da votação na Câmara"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 56,1 bilhões",
+  "porQueImporta": "Esse ajuste fiscal é crucial para melhorar as contas públicas e pode influenciar a percepção do mercado sobre a trajetória da dívida pública e os juros, impactando decisões de investidores e operadores no Brasil.",
+  "impactoMercado": "A votação pode afetar as taxas de juros e o sentimento dos investidores, influenciando setores sensíveis a crédito público e ao risco fiscal, especialmente títulos públicos e câmbio, sem garantir estabilidade imediata.",
+  "entenda": "O ajuste fiscal busca reduzir o déficit público melhorando as receitas e controlando despesas, o que ajuda a conter o crescimento da dívida e evitar pressão maior sobre juros e inflação.",
+  "observar": "Acompanhe a votação na Câmara até o dia 24, além de sinais do mercado financeiro sobre a reação às medidas aprovadas.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia mostra como a aprovação do ajuste fiscal afeta o mercado e a economia, permitindo entender política fiscal, dívida e resultados econômicos.",
+  "gancho": "*Ajuste fiscal* decisivo em votação",
+  "ideias": [
+   "O que muda com o ajuste fiscal aprovado?",
+   "Como o ajuste fiscal impacta a dívida e os juros?",
+   "Por que o mercado ainda está cauteloso com o pacote fiscal?"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-22T22:58:00-03:00",
+  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/camara-abre-semana-decisiva-para-ajuste-fiscal/",
+  "publicadoEm": "2026-11-22T21:39:23-03:00",
+  "data": "2026-11-22",
+  "id": "2026-11-22-12"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "what-price-will-bitcoin-hit-before-2027",
+  "titulo": "What price will Bitcoin hit in 2026?",
+  "resumo": "Previsões do mercado mostram 52.5% de chance de que o preço do Bitcoin fique abaixo de $55,000 até o final de 2026. Esta é uma expectativa formada por apostadores.",
+  "probs": [
+   {
+    "opcao": "↓ 55,000",
+    "prob": 52.5
+   },
+   {
+    "opcao": "↓ 50,000",
+    "prob": 28.6
+   },
+   {
+    "opcao": "↓ 45,000",
+    "prob": 14.4
+   },
+   {
+    "opcao": "↓ 40,000",
+    "prob": 8.9
+   }
+  ],
+  "prazo": "2027-01-01",
+  "volume24h": "US$ 437 mil",
+  "fatos": [
+   "↓ 55,000: 52,5%",
+   "↓ 50,000: 28,6%",
+   "↓ 45,000: 14,4%",
+   "↓ 40,000: 8,9%"
+  ],
+  "numeros": [
+   {
+    "valor": "52,5%",
+    "rotulo": "↓ 55,000"
+   },
+   {
+    "valor": "28,6%",
+    "rotulo": "↓ 50,000"
+   },
+   {
+    "valor": "14,4%",
+    "rotulo": "↓ 45,000"
+   },
+   {
+    "valor": "8,9%",
+    "rotulo": "↓ 40,000"
+   }
+  ],
+  "destaque": "52,5%",
+  "gancho": "*Perspectivas* para Bitcoin em 2026",
+  "entenda": "Essas expectativas são formadas com base em análises do mercado de criptomoedas, onde a volatilidade é comum e os preços podem mudar rapidamente.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+  "publicadoEm": "2026-11-22T22:58:00-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-22T22:58:00-03:00",
+  "data": "2026-11-22",
+  "status": "nova",
+  "id": "2026-11-22-p6"
+ },
+ {
   "titulo": "Ashmore estima saída de até US$ 420 bi do Brasil em crise fiscal",
   "resumo": "Gestora Ashmore aponta risco de saída bruta de US$ 420 bilhões do Brasil em 18 meses sem ajustes fiscais eficazes. Montante equivale a 16% do PIB, alerta relatório de 18 de novembro.",
   "fatos": [
@@ -1545,53 +1729,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado vê 89.5% de chance de Ethereum a ↓ 1,700",
-  "resumo": "Os preços do Ethereum estão projetados para uma tendência de queda, segundo as apostas dos investidores.",
+  "titulo": "What price will Ethereum hit in November?",
+  "resumo": "Mercado de previsões aponta 94.5% de chance de que o preço do Ethereum fique abaixo de $1,700 em novembro. Refere-se a expectativas, não previsões oficiais.",
   "probs": [
    {
     "opcao": "↓ 1,700",
-    "prob": 89.5
+    "prob": 94.5
    },
    {
     "opcao": "↑ 1,800",
-    "prob": 64.5
+    "prob": 57.5
    },
    {
     "opcao": "↓ 1,600",
-    "prob": 48.0
+    "prob": 50.0
    },
    {
     "opcao": "↑ 1,900",
-    "prob": 31.5
+    "prob": 26.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 326 mil",
+  "volume24h": "US$ 502 mil",
   "fatos": [
-   "↓ 1,700: 89,5%",
-   "↑ 1,800: 64,5%",
-   "↓ 1,600: 48,0%",
-   "↑ 1,900: 31,5%"
+   "↓ 1,700: 94,5%",
+   "↑ 1,800: 57,5%",
+   "↓ 1,600: 50,0%",
+   "↑ 1,900: 26,5%"
   ],
   "numeros": [
    {
-    "valor": "89,5%",
+    "valor": "94,5%",
     "rotulo": "↓ 1,700"
    },
    {
-    "valor": "64,5%",
+    "valor": "57,5%",
     "rotulo": "↑ 1,800"
    },
    {
-    "valor": "48,0%",
+    "valor": "50,0%",
     "rotulo": "↓ 1,600"
    },
    {
-    "valor": "31,5%",
+    "valor": "26,5%",
     "rotulo": "↑ 1,900"
    }
   ],
-  "destaque": "89,5%",
+  "destaque": "94,5%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -1606,7 +1790,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-22T18:16:13-03:00"
+  "atualizadoEm": "2026-11-22T22:58:00-03:00"
  },
  {
   "tipo": "sinal",
@@ -14704,53 +14888,53 @@
  {
   "tipo": "sinal",
   "slug": "fed-decision-in-january-20260729233815502",
-  "titulo": "Mercado de previsões vê 48,5% de chance de sem mudança nas taxas do Fed em janeiro",
-  "resumo": "Embora haja expectativa de estabilidade nas taxas, o mercado permanece alerta às possíveis mudanças.",
+  "titulo": "Fed Decision in January?",
+  "resumo": "Mercado de previsões indica 53.5% de chance de aumento de 25 bps no encontro de janeiro do Fed. Probabilidade baseada nas expectativas dos investidores, não previsão oficial.",
   "probs": [
    {
-    "opcao": "Sem alteração",
-    "prob": 48.5
+    "opcao": "Aumento de 25 bps",
+    "prob": 53.5
    },
    {
-    "opcao": "Aumento de 25 bps",
-    "prob": 45.5
+    "opcao": "Sem alteração",
+    "prob": 44.5
    },
    {
     "opcao": "Redução de 25 bps",
-    "prob": 2.3
+    "prob": 1.9
    },
    {
     "opcao": "Aumento de 50+ bps",
-    "prob": 1.1
+    "prob": 0.9
    }
   ],
   "prazo": "2027-01-28",
-  "volume24h": "US$ 149 mil",
+  "volume24h": "US$ 185 mil",
   "fatos": [
-   "Sem alteração: 48,5%",
-   "Aumento de 25 bps: 45,5%",
-   "Redução de 25 bps: 2,3%",
-   "Aumento de 50+ bps: 1,1%"
+   "Aumento de 25 bps: 53,5%",
+   "Sem alteração: 44,5%",
+   "Redução de 25 bps: 1,9%",
+   "Aumento de 50+ bps: 0,9%"
   ],
   "numeros": [
    {
-    "valor": "48,5%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "45,5%",
+    "valor": "53,5%",
     "rotulo": "Aumento de 25 bps"
    },
    {
-    "valor": "2,3%",
+    "valor": "44,5%",
+    "rotulo": "Sem alteração"
+   },
+   {
+    "valor": "1,9%",
     "rotulo": "Redução de 25 bps"
    },
    {
-    "valor": "1,1%",
+    "valor": "0,9%",
     "rotulo": "Aumento de 50+ bps"
    }
   ],
-  "destaque": "48,5%",
+  "destaque": "53,5%",
   "gancho": "*Expectativa moderada* de aumento",
   "entenda": "As decisões do Fed sobre taxas de juros influenciam o mercado financeiro e as expectativas econômicas, afetando investimento e consumo.",
   "categoria": "Previsões",
@@ -14765,7 +14949,7 @@
   "data": "2026-11-18",
   "status": "atualizada",
   "id": "2026-11-18-p1",
-  "atualizadoEm": "2026-11-21T13:57:50-03:00"
+  "atualizadoEm": "2026-11-22T22:58:00-03:00"
  },
  {
   "tipo": "sinal",
