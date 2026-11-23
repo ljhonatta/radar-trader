@@ -1,0 +1,440 @@
+{
+ "noticiaId": "2026-11-22-01",
+ "titulo": "Goldman Sachs: Brasil precisa de ajuste de R$ 400 bi para conter dívida",
+ "perfil": "@traderjhonatta",
+ "voz": "JBFqnCBsd6RMkjVDRZzb",
+ "modelo": "eleven_v4",
+ "criadoEm": "2026-11-23T19:14:20-03:00",
+ "cenas": [
+  {
+   "cap": "A NOTÍCIA",
+   "narracao": "Você sabia que o Brasil pode precisar de um ajuste fiscal de quatrocentos bilhões de reais? Isso para conter a dívida que não para de crescer.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "BRASIL E A DÍVIDA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "cifrao",
+      "rotulo": "ajuste fiscal R$ 400 bi",
+      "direcao": "sobe",
+      "gatilho": "quatrocentos bilhões"
+     }
+    ]
+   },
+   "audio": "cena-01.mp3",
+   "dur": 9.03,
+   "tw": [
+    0.08,
+    0.4,
+    0.88,
+    0.987,
+    1.04,
+    1.44,
+    1.68,
+    2.2,
+    2.28,
+    2.4,
+    2.8,
+    3.32,
+    3.48,
+    4.4,
+    4.92,
+    5.04,
+    6.08,
+    6.4,
+    6.68,
+    7.0,
+    7.12,
+    7.52,
+    7.64,
+    7.96,
+    8.16,
+    8.28
+   ]
+  },
+  {
+   "cap": "A NOTÍCIA",
+   "narracao": "O economista do Goldman Sachs, Alberto Ramos, projetou um crescimento rasteiro para 2027, entre meio por cento e zero vírgula seis por cento.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "PROJEÇÃO ECONÔMICA",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "0,5% a 0,6%",
+      "rotulo": "crescimento Brasil 2027",
+      "gatilho": "meio por cento e zero vírgula seis"
+     }
+    ]
+   },
+   "audio": "cena-02.mp3",
+   "dur": 10.39,
+   "tw": [
+    0.064,
+    0.16,
+    0.8,
+    1.0,
+    1.36,
+    2.12,
+    2.48,
+    3.2,
+    3.68,
+    3.813,
+    4.36,
+    5.08,
+    5.24,
+    6.8,
+    7.04,
+    7.28,
+    7.52,
+    8.0,
+    8.24,
+    8.48,
+    8.96,
+    9.2,
+    9.36
+   ]
+  },
+  {
+   "cap": "A NOTÍCIA",
+   "narracao": "E a inflação? Vai continuar teimando lá entre cinco e seis por cento. Ou seja, preços vão subir ainda bastante.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "INFLAÇÃO RESISTENTE",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "5% a 6%",
+      "rotulo": "inflação prevista 2027",
+      "gatilho": "cinco e seis por cento"
+     }
+    ]
+   },
+   "audio": "cena-03.mp3",
+   "dur": 8.23,
+   "tw": [
+    0.064,
+    0.12,
+    0.24,
+    1.28,
+    1.6,
+    2.0,
+    2.64,
+    2.92,
+    3.2,
+    3.6,
+    3.8,
+    4.08,
+    4.4,
+    5.04,
+    5.28,
+    5.88,
+    6.24,
+    6.48,
+    6.72,
+    7.12
+   ]
+  },
+  {
+   "cap": "A CONTA",
+   "narracao": "Já a nossa dívida pública está perto de oitenta e três por cento do PIB. E pode passar de noventa por cento em até três anos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "DÍVIDA PÚBLICA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "83%",
+      "rotulo": "dívida atual do Brasil",
+      "gatilho": "oitenta e três por cento"
+     },
+     {
+      "tipo": "numero",
+      "valor": "90%",
+      "rotulo": "dívida em 3 anos",
+      "direcao": "sobe",
+      "gatilho": "noventa por cento"
+     }
+    ]
+   },
+   "audio": "cena-04.mp3",
+   "dur": 8.47,
+   "tw": [
+    0.16,
+    0.36,
+    0.48,
+    0.8,
+    1.2,
+    1.72,
+    1.96,
+    2.28,
+    2.44,
+    2.88,
+    3.0,
+    3.28,
+    3.52,
+    3.84,
+    4.0,
+    4.76,
+    4.88,
+    5.12,
+    5.52,
+    5.68,
+    6.16,
+    6.44,
+    6.72,
+    6.92,
+    7.2,
+    7.52
+   ]
+  },
+  {
+   "cap": "O IMPACTO",
+   "narracao": "Por que isso importa? Dívida alta deixa o governo frágil, ele não consegue gastar nem investir direito.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "POR QUE IMPORTA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "escudo",
+      "rotulo": "risco fiscal alto",
+      "direcao": "sobe",
+      "gatilho": "dívida alta"
+     }
+    ]
+   },
+   "audio": "cena-05.mp3",
+   "dur": 7.59,
+   "tw": [
+    0.128,
+    0.24,
+    0.4,
+    0.8,
+    1.76,
+    2.24,
+    2.64,
+    2.92,
+    3.0,
+    3.56,
+    4.32,
+    4.533,
+    4.76,
+    5.16,
+    5.813,
+    6.12,
+    6.6
+   ]
+  },
+  {
+   "cap": "O IMPACTO",
+   "narracao": "Sem ajuste, juros podem subir, bolsa fica volátil, e dólar pode disparar. Tudo isso afeta seus investimentos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "IMPACTO PARA VOCÊ",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "moedas",
+      "rotulo": "volatilidade da bolsa",
+      "direcao": "cai",
+      "gatilho": "bolsa volátil"
+     },
+     {
+      "tipo": "cifrao",
+      "rotulo": "juros altos",
+      "direcao": "sobe",
+      "gatilho": "juros podem subir"
+     },
+     {
+      "tipo": "barras",
+      "rotulo": "dólar alto",
+      "direcao": "cai",
+      "gatilho": "dólar disparar"
+     }
+    ]
+   },
+   "audio": "cena-06.mp3",
+   "dur": 8.55,
+   "tw": [
+    0.16,
+    0.4,
+    1.28,
+    1.68,
+    2.12,
+    2.8,
+    3.24,
+    3.56,
+    4.36,
+    4.48,
+    4.96,
+    5.2,
+    6.2,
+    6.48,
+    6.84,
+    7.24,
+    7.44
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "Endividamento alto significa governo gastando mais do que arrecada. A solução? Ajuste fiscal, cortando gastos ou aumentando impostos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "ENTENDA O AJUSTE",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "balanca",
+      "rotulo": "receitas x despesas",
+      "direcao": "sobe",
+      "gatilho": "ajuste fiscal"
+     }
+    ]
+   },
+   "audio": "cena-07.mp3",
+   "dur": 9.59,
+   "tw": [
+    0.08,
+    0.96,
+    1.36,
+    1.92,
+    2.44,
+    3.04,
+    3.32,
+    3.4,
+    3.48,
+    4.48,
+    4.56,
+    5.44,
+    5.92,
+    6.64,
+    7.2,
+    7.76,
+    7.88,
+    8.48
+   ]
+  },
+  {
+   "cap": "E AGORA",
+   "narracao": "Mas calma, o pacote fiscal atual de cinquenta bilhões de reais é pouco e não resolve o problema.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "PACOTE FISCAL INSUFICIENTE",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "cifrao",
+      "rotulo": "R$ 50 bilhões insuficientes",
+      "direcao": "sobe",
+      "gatilho": "cinquenta bilhões"
+     }
+    ]
+   },
+   "audio": "cena-08.mp3",
+   "dur": 7.35,
+   "tw": [
+    0.08,
+    0.4,
+    1.16,
+    1.28,
+    1.68,
+    2.16,
+    2.56,
+    2.72,
+    3.36,
+    3.84,
+    4.04,
+    4.56,
+    4.76,
+    5.36,
+    5.52,
+    5.92,
+    6.2,
+    6.32
+   ]
+  },
+  {
+   "cap": "E AGORA",
+   "narracao": "Fique de olho: inflação mensal, resultado fiscal e decisões do Banco Central vão dar as cartas em 2027.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "O QUE OBservar",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "calendario",
+      "rotulo": "2027",
+      "direcao": "sobe",
+      "gatilho": "fique de olho"
+     },
+     {
+      "tipo": "relogio",
+      "rotulo": "inflação mensal",
+      "direcao": "sobe",
+      "gatilho": "inflação mensal"
+     }
+    ]
+   },
+   "audio": "cena-09.mp3",
+   "dur": 8.47,
+   "tw": [
+    0.08,
+    0.4,
+    0.56,
+    1.28,
+    1.92,
+    2.56,
+    3.12,
+    3.72,
+    3.84,
+    4.48,
+    4.6,
+    4.88,
+    5.6,
+    5.84,
+    6.0,
+    6.16,
+    6.56,
+    6.72
+   ]
+  },
+  {
+   "cap": "FECHAMENTO",
+   "narracao": "Quer entender tudo sobre o mercado financeiro, sem complicação? Segue o perfil e fique por dentro das novidades todo dia!",
+   "visual": {
+    "tipo": "fim",
+    "texto": "Seguir"
+   },
+   "audio": "cena-10.mp3",
+   "dur": 7.91,
+   "tw": [
+    0.08,
+    0.24,
+    0.88,
+    1.2,
+    1.44,
+    1.6,
+    1.92,
+    2.72,
+    2.96,
+    4.16,
+    4.44,
+    4.72,
+    5.04,
+    5.16,
+    5.48,
+    5.72,
+    6.0,
+    6.16,
+    6.88,
+    7.2
+   ]
+  }
+ ],
+ "legenda": "O Goldman Sachs alerta: para conter a dívida do Brasil, seria preciso um ajuste fiscal de quatrocentos bilhões de reais até 2027. Isso num cenário de crescimento econômico muito baixo e inflação persistente entre cinco e seis por cento.\n\nSem esse ajuste, os riscos fiscais aumentam, a dívida pública sobe e o impacto se sente nas taxas de juros, no dólar e no mercado financeiro. Por isso, fique atento aos dados econômicos e às decisões do Banco Central para entender o que pode vir pela frente.\n\nFonte: BP Money; CNN Brasil\n#MercadoFinanceiro #EconomiaBrasileira #DívidaPública #Inflação #AjusteFiscal"
+}
