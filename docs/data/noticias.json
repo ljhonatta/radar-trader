@@ -1,5 +1,1586 @@
 [
  {
+  "titulo": "Petróleo fecha em alta por ataques no Estreito de Ormuz e tensão geopolítica",
+  "resumo": "Os contratos futuros de petróleo Brent e WTI subiram mais de 2% em 24/11 devido a ataques no Estreito de Ormuz e risco ao transporte marítimo.",
+  "fatos": [
+   "Petróleo Brent para janeiro fechou em alta de 2,27%, a US$ 91,40 por barril.",
+   "Petróleo WTI para janeiro teve alta de 2,35%, a US$ 82,05 por barril.",
+   "Três embarcações foram atingidas por projéteis no Estreito de Ormuz em 24/11.",
+   "Ataque atingiu torre financeira na Arábia Saudita, informado por porta-voz militar.",
+   "EUA investigam possível envolvimento do Irã em ataques cibernéticos a 50 caminhões-tanque.",
+   "Irã condiciona negociações com EUA a sete condições não especificadas.",
+   "Vice-presidente e secretário de Estado dos EUA reuniram-se com primeiro-ministro do Catar em 23/11."
+  ],
+  "explicacao": [
+   "No dia 24 de novembro, os contratos futuros do petróleo Brent e WTI fecharam em forte alta, com aumento superior a 2%, após inicialmente alcançarem mínima de três meses. O Brent negociado em Londres fechou a US$ 91,40 o barril e o WTI, em Nova York, a US$ 82,05.",
+   "O movimento foi motivado por ataques a três embarcações no Estreito de Ormuz por projéteis não identificados, aumento dos riscos para o transporte de petróleo na região e um ataque a torre financeira na Arábia Saudita. As investidas ocorrem em contexto de tensão contínua envolvendo Irã, Arábia Saudita e aliados.",
+   "Além disso, os EUA investigam possível participação iraniana em ataques cibernéticos a caminhões-tanque de energia. Em meio a isso, o Irã condiciona negociações com os EUA ao cumprimento de sete exigências, dificultando acordos.",
+   "O cenário geopolítico afetou a percepção de risco no mercado, influenciando a alta do petróleo como ativo sensível a conflitos em pontos estratégicos da logística mundial. O futuro do mercado dependerá da evolução dessas tensões e das negociações diplomáticas."
+  ],
+  "detalhes": [
+   "As principais bolsas negociam petróleo nas bolsas ICE (Londres) e Nymex (Nova York).",
+   "Ataques aumentam riscos para transporte marítimo no Estreito de Ormuz, rota estratégica.",
+   "A Arábia Saudita tem reforçado pedidos de interceptadores de mísseis após ataques.",
+   "Estreito de Ormuz é passagem fundamental para cerca de 30% do petróleo mundial.",
+   "O Irã é acusado de participar, segundo investigações americanas, das agressões cibernéticas.",
+   "Contexto reflete tensão entre Irã, Arábia Saudita e potências globais, impactando mercados.",
+   "Catar age como mediador no conflito entre EUA e Irã, tentando reativar negociações estagnadas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Brigadeiro-general Turki al-Maliki, porta-voz da Coalizão de Apoio à Legitimidade",
+    "oque": "Confirmou ataque a uma das torres do centro financeiro na Arábia Saudita."
+   },
+   {
+    "quem": "Mohammad Bagher Qalibaf, presidente do Parlamento do Irã",
+    "oque": "Afirma que Teerã não negociará com os EUA até que sete condições iranianas sejam atendidas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "24 de novembro",
+    "oque": "Ataques a embarcações no Estreito de Ormuz e a torre na Arábia Saudita são reportados."
+   },
+   {
+    "quando": "23 de novembro",
+    "oque": "Encontro entre vice-presidente e secretário de Estado dos EUA com primeiro-ministro do Catar."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Estreito de Ormuz",
+    "significado": "Canal estratégico por onde passa grande parte do petróleo mundial."
+   },
+   {
+    "termo": "Brent",
+    "significado": "Tipo de petróleo bruto negociado internacionalmente, referência global."
+   },
+   {
+    "termo": "WTI",
+    "significado": "Petróleo West Texas Intermediate, referência nos EUA."
+   }
+  ],
+  "pergunta": "Você acompanha como conflitos geopolíticos influenciam preços do petróleo?",
+  "tamanhoTexto": 9048,
+  "numeros": [
+   {
+    "valor": "91,40",
+    "rotulo": "preço do barril de petróleo Brent (US$)"
+   },
+   {
+    "valor": "82,05",
+    "rotulo": "preço do barril de petróleo WTI (US$)"
+   },
+   {
+    "valor": "2,27%",
+    "rotulo": "alta percentual do Brent em 24/11"
+   },
+   {
+    "valor": "2,35%",
+    "rotulo": "alta percentual do WTI em 24/11"
+   },
+   {
+    "valor": "50",
+    "rotulo": "caminhões-tanque atacados por ataques cibernéticos"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "alta de +2,3%",
+  "porQueImporta": "O aumento do petróleo reflete como conflitos geopolíticos em rotas estratégicas afetam o custo da energia global, impactando inflação, custos industriais e mercados financeiros. Investidores devem estar atentos a riscos políticos que influenciam preços e liquidez.",
+  "impactoMercado": "Setores ligados a energia e petróleo tendem a ver maior volatilidade em seus ativos com tensões no Estreito de Ormuz. O dólar e juros podem reagir a mudanças na percepção de risco global, influenciando carteiras diversificadas e estratégias de hedge.",
+  "entenda": "O Estreito de Ormuz é ponto chave na exportação mundial de petróleo. Situações de conflito na região podem restringir oferta e aumentar preços, afetando mercados financeiros e custos da economia global.",
+  "observar": "Acompanhe próximos relatórios sobre a situação no Estreito de Ormuz, declarações oficiais do Irã e EUA, e balanços de produção da OPEP para entender possíveis movimentações no petróleo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Mostre como eventos internacionais diretos afetam preços do petróleo e riscos do mercado, ensinando conceitos essenciais para entender oscilações e estratégias de investimentos.",
+  "gancho": "*Petróleo* sobe com *tensão* no Ormuz",
+  "ideias": [
+   "Como ataques no Estreito de Ormuz influenciam o preço do petróleo?",
+   "O que o aumento do petróleo significa para investidores brasileiros?",
+   "Entenda o impacto das tensões geopolíticas no mercado de energia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "raio",
+  "fonte": "Money Times; Valor Econômico; Times Brasil",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://www.moneytimes.com.br/petroleo-fecha-em-forte-alta-com-aumento-das-tensoes-no-estreito-de-ormuz-davs/",
+  "publicadoEm": "2026-11-24T17:04:07-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-04"
+ },
+ {
+  "titulo": "Câmara aprova Plano Moretti com economia de até R$ 60 bilhões em 2027",
+  "resumo": "Plano Moretti, aprovado pela Câmara em 23/11, prevê economia entre R$ 50 e R$ 60 bilhões em 2027. Projeto segue para sanção do presidente Lula, com medidas de controle de gastos e aumento da arrecadação.",
+  "fatos": [
+   "Plano Moretti aprovado na Câmara em 23 de novembro de 2026",
+   "Economia prevista entre R$ 50 bilhões e R$ 60 bilhões em 2027",
+   "Limite de crescimento real dos gastos federais reduzido de 2,5% para 2% a partir de 2027",
+   "Corte linear de benefícios fiscais ampliado de 10% para 20%",
+   "Exclusão das receitas de petróleo e gás do piso da saúde prorrogada até 2030",
+   "Revisão dos supersalários no funcionalismo público com prazo de 120 dias para o Congresso",
+   "Projeto sancionado pelo presidente Lula em 24 de novembro de 2026 sem vetos",
+   "Superávit primário previsto de 0,5% do PIB em 2027, equivalente a R$ 73,2 bilhões",
+   "Bruno Moretti é ministro do Planejamento e Orçamento desde março de 2026",
+   "Projeto recebeu 353 votos favoráveis, 128 contrários e 5 abstenções na Câmara"
+  ],
+  "explicacao": [
+   "Na segunda-feira, 23 de novembro de 2026, a Câmara dos Deputados aprovou o Plano Moretti, pacote de ajuste fiscal do governo federal. O projeto, que já tinha sido aprovado no Senado, projeta economizar entre R$ 50 bilhões e R$ 60 bilhões em 2027, primeiro ano do quarto mandato do presidente Lula.",
+   "O plano foi criado para estabilizar a dívida pública por meio do aumento da arrecadação e controle das despesas do governo. Entre as medidas, está a limitação do crescimento real dos gastos federais a 2% a partir de 2027 em caso de risco fiscal, redução de benefícios fiscais, e limites ao uso de compensações tributárias pelas empresas.",
+   "O texto também prorroga até 2030 a exclusão das receitas do petróleo e gás no cálculo do piso constitucional da saúde, uma forma de racionalizar despesas, além de prever a revisão dos supersalários no funcionalismo público, com prazo de 120 dias para o Congresso apreciar limites específicos.",
+   "Após a aprovação na Câmara, o projeto foi sancionado pelo presidente Lula em 24 de novembro de 2026, sem vetos. O governo sinaliza continuidade do ajuste fiscal, com expectativa de superávit primário de 0,5% do PIB em 2027 e 1,5% em 2030, além de preparar uma proposta de emenda constitucional para controlar gastos obrigatórios."
+  ],
+  "detalhes": [
+   "O plano recebeu apoio dentro do governo e setores do mercado financeiro, que cobram responsabilidade fiscal para o próximo mandato",
+   "O limite atual para crescimento real dos gastos é de 2,5%, que será reduzido a 2% se houver risco fiscal",
+   "O projeto inclui aumento do corte linear de benefícios fiscais e restrições ao uso de créditos tributários por empresas",
+   "O piso constitucional da saúde considera 15% da Receita Corrente Líquida, e a exclusão de receitas extraordinárias afeta esse cálculo",
+   "Supersalários pagos no funcionalismo público atualmente podem ultrapassar R$ 46.366,19, teto equivalente a ministros do STF",
+   "O Congresso tem 120 dias após publicação da lei para regular limites de verbas indenizatórias",
+   "O projeto não estabelece cortes imediatos, nem calcula a economia específica da revisão dos supersalários"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Defendeu a prorrogação da exclusão das receitas de petróleo e gás para racionalizar despesas"
+   },
+   {
+    "quem": "Lula, presidente da República",
+    "oque": "Reafirmou compromisso com políticas sociais e destacou necessidade de responsabilidade fiscal para atrair investimentos"
+   },
+   {
+    "quem": "Deputado Nikolas Ferreira (PL-MG)",
+    "oque": "Criticou o ajuste fiscal, afirmando que Lula transfere a conta dos cortes para a população"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23/11/2026",
+    "oque": "Câmara dos Deputados aprovou o Plano Moretti"
+   },
+   {
+    "quando": "18/11/2026",
+    "oque": "Senado aprovou o projeto de ajuste fiscal"
+   },
+   {
+    "quando": "24/11/2026",
+    "oque": "Presidente Lula sancionou o Plano Moretti sem vetos"
+   },
+   {
+    "quando": "Março de 2026",
+    "oque": "Bruno Moretti assumiu como ministro do Planejamento e Orçamento"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Piso constitucional da saúde",
+    "significado": "Valor mínimo que o governo deve investir em saúde, calculado em percentual da Receita Corrente Líquida"
+   },
+   {
+    "termo": "Benefícios fiscais",
+    "significado": "Descontos ou isenções de impostos concedidos a setores econômicos"
+   },
+   {
+    "termo": "Superávit primário",
+    "significado": "Saldo positivo das contas públicas antes do pagamento de juros da dívida"
+   }
+  ],
+  "pergunta": "Como você enxerga o impacto do Plano Moretti no equilíbrio fiscal do Brasil?",
+  "tamanhoTexto": 18845,
+  "numeros": [
+   {
+    "valor": "50 a 60 bilhões",
+    "rotulo": "Economia prevista com o Plano Moretti em 2027 (R$)"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "Limite máximo do crescimento real dos gastos federais a partir de 2027"
+   },
+   {
+    "valor": "2,5%",
+    "rotulo": "Limite atual para crescimento real dos gastos federais"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "Corte linear de benefícios fiscais previsto no Plano Moretti"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "Percentual do piso constitucional para saúde sobre Receita Corrente Líquida"
+   },
+   {
+    "valor": "120 dias",
+    "rotulo": "Prazo do Congresso para regular limites de verbas indenizatórias"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Limite do crescimento real dos gastos federais",
+    "antes": "2,5%",
+    "depois": "2%"
+   },
+   {
+    "item": "Corte linear de benefícios fiscais",
+    "antes": "10%",
+    "depois": "20%"
+   }
+  ],
+  "destaque": "R$ 50 a",
+  "porQueImporta": "O Plano Moretti é crucial pois estabelece medidas para controlar gastos públicos e aumentar a arrecadação, garantindo equilíbrio fiscal em 2027. Para investidores, isso indica maior estabilidade macroeconômica e influência em juros e confiabilidade do Brasil no mercado.",
+  "impactoMercado": "A aprovação do ajuste pode reduzir a pressão sobre a dívida pública e os juros, transmitindo sinais positivos ao mercado financeiro e investidores. Setores econômicos beneficiados por estímulos fiscais enfrentam cortes, impactando desempenho setorial e decisões de investimento.",
+  "entenda": "O Plano Moretti é um conjunto de medidas que visam controlar os gastos do governo federal e aumentar receitas para equilibrar as contas públicas, evitando o crescimento descontrolado da dívida. Inclui limites para despesas, redução de benefícios fiscais e revisão de salários públicos altos.",
+  "observar": "Fique atento à publicação da Lei de Diretrizes Orçamentárias para valores de cortes e investimentos, e a possíveis propostas da PEC para conter gastos obrigatórios, que podem influenciar o rumo fiscal do governo a partir de 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT",
+   "Aposentados",
+   "Empresários"
+  ],
+  "angulo": "A notícia do Plano Moretti ajuda a entender como o governo gerencia as contas públicas para manter o mercado estável, mostrando a importância de conhecimento técnico para quem quer operar e investir com maior segurança no Brasil.",
+  "gancho": "*Ajuste Fiscal* em Debate",
+  "ideias": [
+   "Entenda o Plano Moretti e a economia de R$ 60 bilhões",
+   "Como o controle de gastos afeta o mercado financeiro?",
+   "O que muda para o funcionário público com o Plano Moretti?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "G1 Economia; Estadão Economia; Folha Mercado",
+  "impacto": "alto",
+  "ordem": 7,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/11/24/entenda-o-plano-moretti-o-ajuste-fiscal-aprovado-pela-camara.ghtml",
+  "publicadoEm": "2026-11-24T08:21:42-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-05"
+ },
+ {
+  "titulo": "Empresas têm até 30/11 para pagar 1ª parcela do 13º salário de 2026",
+  "resumo": "Empresas e órgãos públicos devem pagar até 30 de novembro a primeira parcela do décimo terceiro salário, que representa cerca de 50% do benefício. A segunda parcela deve ser quitada até 18 de dezembro em 2026.",
+  "fatos": [
+   "Prazo limite para 1ª parcela do 13º: 30 de novembro de 2026.",
+   "1ª parcela equivale a 50% do décimo terceiro, sem descontos de INSS ou IR.",
+   "2ª parcela deve ser paga até 18 de dezembro de 2026, antecipada por cair domingo em 20/12.",
+   "O décimo terceiro é direito de empregados CLT, domésticos, servidores, avulsos, intermitentes e aposentados.",
+   "Quem trabalhou o ano todo recebe valor integral, proporcional para quem entrou durante o ano.",
+   "Cada mês trabalhado com pelo menos 15 dias conta como mês inteiro para cálculo.",
+   "O valor do benefício inclui salários fixos e médias de adicionais e comissões habituais.",
+   "Empresas que não pagarem podem ter multas e autuações administrativas.",
+   "Trabalhadores podem recorrer ao RH, sindicato ou Justiça do Trabalho em caso de atraso.",
+   "Governo antecipou o pagamento do 13º para aposentados do INSS no primeiro semestre de 2026."
+  ],
+  "explicacao": [
+   "Até segunda-feira, 30 de novembro, empresas e órgãos públicos precisam pagar a primeira parcela do décimo terceiro salário referente a 2026 para os trabalhadores elegíveis. Esta parcela equivale, em regra, a 50% do valor total sem descontos fiscais.",
+   "O motivo desse prazo é a legislação trabalhista que garante a gratificação natalina, podendo ser paga em duas parcelas: a primeira até novembro e a segunda até 20 de dezembro, antecipada para 18 de dezembro em 2026 por cair no domingo.",
+   "O décimo terceiro é um adicional de salário garantido para várias categorias, incluindo empregados sob CLT, servidores públicos e aposentados do INSS, calculado proporcionalmente ao tempo trabalhado no ano. A primeira parcela não sofre descontos de INSS ou IR.",
+   "O próximo passo é a quitação da segunda parcela em dezembro, que inclui os descontos legais. Para as empresas, é recomendado planejar financeiramente o pagamento durante o ano para evitar atrasos que podem gerar multas e processos trabalhistas."
+  ],
+  "detalhes": [
+   "Quem deve pagar: empresas e órgãos públicos de todo o Brasil.",
+   "Quando: 1ª parcela até 30/11; 2ª parcela até 18/12/2026 (antecipado).",
+   "Como calcular: metade do valor total, baseado em salário e adicionais habituais.",
+   "Para quem: trabalhadores formais, servidores, beneficiários do INSS e previdência própria.",
+   "O que não têm direito: autônomos, informais sem vínculo, estagiários e beneficiários assistenciais.",
+   "Importância: reforço financeiro no fim do ano e estímulo ao comércio.",
+   "Recomendações: planejamento financeiro mensal pelas empresas para evitar surpresas."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "30 de novembro de 2026",
+    "oque": "Prazo para pagar a primeira parcela do décimo terceiro salário"
+   },
+   {
+    "quando": "18 de dezembro de 2026",
+    "oque": "Data-limite para pagamento da segunda parcela do décimo terceiro salário"
+   },
+   {
+    "quando": "Abril e maio de 2026",
+    "oque": "Pagamento antecipado do décimo terceiro para aposentados do INSS"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Décimo terceiro salário",
+    "significado": "Gratificação natalina, pagamento extra anual aos trabalhadores formais."
+   },
+   {
+    "termo": "Contribuição Previdenciária",
+    "significado": "Descontos que financiam a previdência social, aplicados na 2ª parcela do 13º."
+   }
+  ],
+  "pergunta": "Você já sabe quando vai receber sua primeira parcela do décimo terceiro?",
+  "tamanhoTexto": 15670,
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "Valor comum da primeira parcela do décimo terceiro"
+   },
+   {
+    "valor": "30 de novembro",
+    "rotulo": "Data limite para pagamento da 1ª parcela em 2026"
+   },
+   {
+    "valor": "18 de dezembro",
+    "rotulo": "Data limite para pagamento da 2ª parcela em 2026"
+   },
+   {
+    "valor": "15 dias",
+    "rotulo": "Tempo mínimo para contar mês completo no cálculo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "30 de novembro",
+  "porQueImporta": "O pagamento do décimo terceiro salário é um compromisso legal importante que impacta diretamente o fluxo de caixa das empresas e a renda dos trabalhadores no fim de ano, afetando o consumo e o planejamento financeiro pessoal e empresarial.",
+  "impactoMercado": "A data e forma de pagamento do décimo terceiro influenciam a liquidez das empresas e a movimentação do comércio, além de impactar setores ligados ao consumo e serviços ao final do ano, essenciais para traders e investidores entenderem o comportamento econômico sazonal.",
+  "entenda": "O décimo terceiro salário é uma remuneração extra anual obrigatória no Brasil, que pode ser paga em duas parcelas: a primeira sem descontos, a segunda já com descontos fiscais, calculada proporcionalmente ao tempo trabalhado no ano.",
+  "observar": "Acompanhe o prazo de pagamento da segunda parcela do 13º até 18 de dezembro e fique atento a possíveis atrasos para buscar direitos junto ao RH ou órgãos competentes.",
+  "publico": [
+   "Iniciantes",
+   "CLT",
+   "Investidores"
+  ],
+  "angulo": "Explicar o funcionamento e prazos do décimo terceiro ajuda quem está começando a operar entender o perfil dos gastos no final do ano e a importância do planejamento financeiro empresarial e pessoal, tema central no mercado financeiro.",
+  "gancho": "*13º salário* em novembro",
+  "ideias": [
+   "Entenda o prazo para pagar a 1ª parcela do 13º",
+   "Como calcular o valor da primeira parcela do décimo terceiro",
+   "Quem tem direito e quem não recebe décimo terceiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "grafico",
+  "fonte": "Agência Brasil Economia; Estadão Economia; G1 Economia",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/empresas-tem-ate-30-de-novembro-para-pagar-primeira-parcela-do-13o",
+  "publicadoEm": "2026-11-24T07:37:00-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-06"
+ },
+ {
+  "titulo": "Petrobras prevê US$ 122 bi em investimentos e pode reduzir dividendos",
+  "resumo": "Plano da Petrobras para 2027-2031 prevê US$ 122 bilhões em investimentos, o que pode limitar dividendos no curto prazo. Anúncio inclui R$ 15,6 bi em dividendos extraordinários para 2026.",
+  "fatos": [
+   "Plano de negócios prevê US$ 122 bilhões em investimentos para 2027-2031.",
+   "Investimentos previstos de US$ 24 bilhões em 2027 e US$ 23 bilhões em 2028.",
+   "Pagamentos anuais de arrendamento devem chegar a US$ 12 bilhões.",
+   "Dívida líquida deve crescer de US$ 54 bilhões em 2026 para US$ 58 bilhões em 2028.",
+   "BTG estima preço de equilíbrio do Brent em aproximadamente US$ 80 por barril para 2027.",
+   "Petrobras anunciou dividendos extraordinários de R$ 15,6 bilhões para o exercício de 2026.",
+   "Dividendos ordinários estimados entre US$ 55 bilhões e US$ 60 bilhões para o quinquênio.",
+   "Previsão de produção de petróleo de 2,9 milhões de barris/dia entre 2027 e 2031.",
+   "Aquisição de 42% da produtora de etanol Neomille por R$ 2,8 bilhões."
+  ],
+  "explicacao": [
+   "A Petrobras anunciou um plano de negócios com US$ 122 bilhões em investimentos entre 2027 e 2031, valor 12% maior que o planejado anteriormente. Os investimentos concentrarão US$ 24 bilhões em 2027 e US$ 23 bilhões em 2028, acima da expectativa do mercado.",
+   "Essa intensificação dos gastos, especialmente nos primeiros anos, deve pressionar o caixa da estatal, limitando a distribuição de dividendos, conforme apontam analistas do BTG Pactual, Itaú BBA e XP. A dívida líquida deve subir de US$ 54 bilhões em 2026 para US$ 58 bilhões em 2028.",
+   "Para cobrir essas obrigações e manter dividendos mínimos, estima-se precisa-se de um preço do barril Brent em torno de US$ 80, valor acima dos US$ 74 usados pela companhia para 2027. Caso fique abaixo, o espaço para remunerar acionistas deve cair.",
+   "Ainda assim, a Petrobras anunciou um dividendo extraordinário de R$ 15,6 bilhões para 2026, causando surpresa positiva. A previsão é que a maior distribuição de dividendos ocorra nos últimos anos do plano, com poucos aumentos em 2027 e 2028."
+  ],
+  "detalhes": [
+   "O plano eleva os investimentos previstos em 12% comparado ao ciclo anterior de 2026-2030.",
+   "Maior parte dos recursos, US$ 113 bilhões, vai para projetos em implantação.",
+   "Previsão é manter produção de 2,9 milhões de barris de petróleo por dia até 2031, acima do plano anterior.",
+   "Dividendos extraordinários de R$ 15,6 bilhões equivalem a cerca de R$ 1,21 por ação preferencial.",
+   "Data ex-dividendos na B3 é 8 de dezembro, pagamento previsto para 23 de dezembro.",
+   "Analistas destacam que o aumento dos investimentos concentra pressão no caixa nos primeiros anos.",
+   "BTG e Itaú alertam que preços do petróleo abaixo de US$ 80 podem reduzir fluxo de caixa e dividendos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "BTG Pactual",
+    "oque": "Petrobras precisará do Brent a US$ 80 para cobrir obrigações e pagar dividendos mínimos em 2027."
+   },
+   {
+    "quem": "Itaú BBA",
+    "oque": "Se o preço do petróleo ficar abaixo de US$ 70, dividendos podem não ser sustentáveis em 2027."
+   },
+   {
+    "quem": "Analistas da XP",
+    "oque": "Maior parte do aumento dos dividendos deve ocorrer em 2030 e 2031, pouco muda em 2027 e 2028."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2027",
+    "oque": "Investimento anual previsto de US$ 24 bilhões, acima da expectativa do mercado."
+   },
+   {
+    "quando": "8 de dezembro de 2026",
+    "oque": "Data ex-dividendos na B3 para dividendos extraordinários de 2026."
+   },
+   {
+    "quando": "23 de dezembro de 2026",
+    "oque": "Pagamento previsto dos dividendos extraordinários na B3."
+   },
+   {
+    "quando": "2027 a 2031",
+    "oque": "Período do plano de negócios com US$ 122 bilhões em investimentos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dividendos",
+    "significado": "Parte do lucro distribuída aos acionistas."
+   },
+   {
+    "termo": "Capex",
+    "significado": "Investimentos em bens de capital para expandir ou manter negócios."
+   },
+   {
+    "termo": "Barril Brent",
+    "significado": "Referência internacional para o preço do petróleo."
+   }
+  ],
+  "pergunta": "Como você vê o impacto dos grandes investimentos da Petrobras sobre os dividendos?",
+  "tamanhoTexto": 16108,
+  "numeros": [
+   {
+    "valor": "122 bilhões",
+    "rotulo": "Investimentos totais previstos em dólares"
+   },
+   {
+    "valor": "24 bilhões",
+    "rotulo": "Investimento previsto em 2027 (US$)"
+   },
+   {
+    "valor": "23 bilhões",
+    "rotulo": "Investimento previsto em 2028 (US$)"
+   },
+   {
+    "valor": "12 bilhões",
+    "rotulo": "Pagamentos anuais de arrendamento (US$)"
+   },
+   {
+    "valor": "54 bilhões",
+    "rotulo": "Dívida líquida fim de 2026 (US$)"
+   },
+   {
+    "valor": "58 bilhões",
+    "rotulo": "Dívida líquida prevista para fim de 2028 (US$)"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Investimentos totais planejados",
+    "antes": "US$ 109 bilhões (2026-2030)",
+    "depois": "US$ 122 bilhões (2027-2031)"
+   },
+   {
+    "item": "Produção diária prevista em 2027",
+    "antes": "2,6 milhões de barris",
+    "depois": "2,9 milhões de barris"
+   }
+  ],
+  "destaque": "US$ 122 bilhões",
+  "porQueImporta": "O aumento dos investimentos da Petrobras e o maior comprometimento financeiro nos próximos anos impactam a geração de caixa e, consequentemente, limitam os dividendos no curto prazo. Isso é fundamental para investidores que contam com renda das ações e para entender os riscos de fluxo no setor de energia.",
+  "impactoMercado": "O planejamento da Petrobras, com maior desembolso inicial e dívida crescente, pode reduzir o rendimento dos papéis no curto prazo. Setores ligados ao petróleo e gás podem sentir efeitos na liquidez da companhia, enquanto a pressão no caixa reforça a importância do preço do petróleo para a rentabilidade.",
+  "entenda": "Dividendos são a parte do lucro distribuída aos acionistas. Quando a empresa faz grandes investimentos e aumenta seus gastos, pode não sobrar caixa para pagar muitos dividendos. A Petrobras pretende expandir sua produção e investir fortemente, o que pode limitar esses pagamentos nos primeiros anos do plano.",
+  "observar": "Fique atento aos preços do petróleo, às próximas divulgações de resultados da Petrobras e às datas próximas como o ex-dividendos de 8 de dezembro, que indicam o direito aos dividendos extraordinários anunciados.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Day traders"
+  ],
+  "angulo": "Mostra como um plano de investimentos bilionário afeta o caixa e os dividendos, incentivando a entender melhor decisões financeiras e o funcionamento do mercado de ações, conectando ao aprendizado em mercado financeiro.",
+  "gancho": "*Petrobras* e *dividendos*: pressão no caixa",
+  "ideias": [
+   "Entenda o plano bilionário da Petrobras e seus efeitos",
+   "Por que os dividendos da Petrobras podem cair em 2027-28?",
+   "Investimentos altos da Petrobras e o impacto para acionistas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "InvestNews; Exame Invest; Money Times",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://investnews.com.br/negocios/por-que-a-petrobras-pode-ter-menos-espaco-para-pagar-dividendos-nos-proximos-anos/",
+  "publicadoEm": "2026-11-24T12:12:04-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-07"
+ },
+ {
+  "titulo": "Confiança do consumidor dos EUA alcança maior nível em quase dois anos",
+  "resumo": "Em novembro, a confiança do consumidor nos EUA chegou ao maior patamar em quase dois anos, impulsionada pelo otimismo sobre o emprego e a economia após as eleições de meio de mandato.",
+  "fatos": [
+   "Confiança do consumidor dos EUA subiu em novembro de 2026",
+   "Nível mais alto em quase dois anos",
+   "Pesquisa divulgada em 24 de novembro de 2026",
+   "Otimismo vinculado ao mercado de trabalho",
+   "Sentimento positivo impulsionado após eleições de meio de mandato"
+  ],
+  "explicacao": [
+   "Em novembro de 2026, a confiança do consumidor nos Estados Unidos subiu, atingindo seu nível mais alto em quase dois anos. Essa melhora significativa foi apontada por uma pesquisa divulgada em 24 de novembro de 2026.",
+   "O aumento da confiança é atribuído ao otimismo dos consumidores sobre as condições do mercado de trabalho e o panorama econômico geral, especialmente após as eleições de meio de mandato realizadas no mesmo mês.",
+   "Esse cenário positivo indica que os consumidores estão mais seguros em relação à economia, o que pode influenciar o comportamento de consumo e decisões financeiras no curto prazo.",
+   "Agora, o mercado e os investidores acompanham como esse sentimento impactará os indicadores econômicos e o consumo das famílias nas próximas semanas e meses."
+  ],
+  "detalhes": [
+   "O levantamento foi divulgado em 24 de novembro de 2026",
+   "Eleições de meio de mandato ocorreram em novembro de 2026",
+   "Confiança reflete percepções sobre emprego e economia",
+   "Maior índice em quase dois anos indica recuperação gradual do otimismo",
+   "Contexto político impacta diretamente a visão do consumidor"
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "novembro de 2026",
+    "oque": "Eleições de meio de mandato nos EUA"
+   },
+   {
+    "quando": "24 de novembro de 2026",
+    "oque": "Divulgação da pesquisa de confiança do consumidor"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Confiança do consumidor",
+    "significado": "Índice que mede o otimismo das pessoas sobre a economia e suas finanças"
+   },
+   {
+    "termo": "Eleições de meio de mandato",
+    "significado": "Votação que ocorre entre eleições presidenciais para renovar cargos legislativos e estaduais"
+   }
+  ],
+  "pergunta": "Você acha que a confiança dos consumidores mantém o ritmo nas próximas pesquisas?",
+  "tamanhoTexto": 64,
+  "numeros": [
+   {
+    "valor": "novembro de 2026",
+    "rotulo": "mês da alta da confiança do consumidor"
+   },
+   {
+    "valor": "quase dois anos",
+    "rotulo": "tempo desde o último nível semelhante da confiança"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "confiança do consumidor",
+  "porQueImporta": "A confiança do consumidor é um termômetro do sentimento da população sobre a economia, influenciando o consumo e, consequentemente, o movimento das empresas e mercados. O aumento recente pode impactar positivamente setores ligados ao varejo e serviços.",
+  "impactoMercado": "Com mais confiança, consumidores tendem a gastar mais, potencialmente beneficiando ações de consumo e setores que dependem da demanda interna. O cenário também pode ser acompanhado por investidores que avaliam riscos econômicos e políticas futuras.",
+  "entenda": "A confiança do consumidor reflete a percepção das pessoas sobre o momento econômico e suas finanças pessoais. Esse índice ajuda a prever tendências de consumo, pois consumidores mais confiantes costumam gastar mais, influenciando o crescimento econômico.",
+  "observar": "Fique atento às próximas pesquisas de confiança e aos dados de consumo e emprego, que indicarão se o otimismo continuará ou se haverá reversão.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia ajuda a entender como o sentimento dos consumidores influencia a economia e o mercado, mostrando a importância de acompanhar indicadores econômicos para operar e investir com mais segurança.",
+  "gancho": "*Confiança* do consumidor em alta",
+  "ideias": [
+   "O que significa alta na confiança dos consumidores?",
+   "Eleições e o impacto na confiança econômica dos EUA",
+   "Como a confiança do consumidor afeta seu bolso e o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 9,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468068",
+  "publicadoEm": "2026-11-24T16:18:00-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-08"
+ },
+ {
+  "titulo": "Mãe solo de 28 anos inicia projeto para aprender trade do zero",
+  "resumo": "Giovanna Medeiros, mãe solo e iniciante, receberá apoio de três traders da Clear Corretora em projeto de um ano.",
+  "fatos": [
+   "Giovanna Medeiros tem 28 anos e é mãe solo de uma menina de 3 anos.",
+   "Ela nunca teve experiência prévia com mercado financeiro ou trade.",
+   "Giovanna trabalha atualmente com eventos, renda que considera baixa e instável.",
+   "O projeto Do Zero ao Trade vai ter duração de um ano.",
+   "Marcelo Carvalho, Maxwell Silva e Murilo Abdala são os traders que acompanharão Giovanna.",
+   "Giovanna participou do evento Casa Clear 2026, onde surgiu sua motivação.",
+   "Ela recebeu acompanhamento individual com ligações e feedbacks durante o aprendizado.",
+   "O objetivo é aprender operações em diferentes prazos, incluindo swing trade.",
+   "Ela entende que operar envolve riscos e que não há garantia de lucros.",
+   "Giovanna tem expectativa de construir uma reserva financeira em um ano."
+  ],
+  "explicacao": [
+   "Giovanna Medeiros, uma mãe solo de 28 anos, descobriu o mercado financeiro enquanto trabalhava em um evento e decidiu aprender trade para buscar uma renda extra e flexibilidade profissional.",
+   "Motivada pela possibilidade de maior autonomia financeira e pelo desejo de conciliar trabalho e maternidade, Giovanna aceitou o projeto Do Zero ao Trade, que acompanhará seu aprendizado durante um ano.",
+   "O projeto envolve o apoio direto dos traders Marcelo Carvalho, Maxwell Silva e Murilo Abdala, que ministrarão aulas e darão suporte constante para ajudar Giovanna a entender os fundamentos do mercado financeiro.",
+   "Nos próximos 12 meses, Giovanna pretende evoluir em seu conhecimento de operações como swing trade e planeja construir uma reserva financeira para ela e sua filha."
+  ],
+  "detalhes": [
+   "Giovanna mora sozinha com a filha de 3 anos e depende da renda obtida em eventos.",
+   "Durante o evento Casa Clear 2026, ela teve contato visual com gráficos de trade, despertando sua curiosidade.",
+   "Ela procurou o trader Marcelo Carvalho para entender o funcionamento do mercado financeiro.",
+   "O projeto Do Zero ao Trade foi criado para ensinar pessoas sem experiência a operar na Bolsa.",
+   "Os traders vão monitorar e dar suporte contínuo para a evolução de Giovanna no mercado.",
+   "A proposta inclui aulas e acompanhamento por telefone, acompanhando resultados e dificuldades.",
+   "Embora tenha grande motivação, Giovanna encara a dificuldade inicial do aprendizado sem experiência."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Giovanna Medeiros, mãe solo e participante",
+    "oque": "Tenho zero experiência e eles vão caminhar junto comigo no aprendizado."
+   },
+   {
+    "quem": "Giovanna Medeiros",
+    "oque": "Quero construir uma reserva para mim e para minha filha com o que aprender."
+   },
+   {
+    "quem": "Giovanna Medeiros",
+    "oque": "Estou animada e quero me dedicar para conseguir um resultado legal."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2026-11-24",
+    "oque": "Giovanna compartilhou sua história e entrou no projeto durante o Profit Summit 2026."
+   },
+   {
+    "quando": "Durante Casa Clear 2026",
+    "oque": "Giovanna teve seu primeiro contato com gráficos e trading."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Swing trade",
+    "significado": "Operação em ativos para ganhos em curto a médio prazo, dias ou semanas."
+   },
+   {
+    "termo": "Trader",
+    "significado": "Pessoa que compra e vende ativos no mercado financeiro buscando lucro."
+   },
+   {
+    "termo": "Clear Corretora",
+    "significado": "Corretora de valores que oferece plataformas para operações financeiras."
+   }
+  ],
+  "pergunta": "O que te motivaria a aprender a investir do zero?",
+  "tamanhoTexto": 14880,
+  "numeros": [
+   {
+    "valor": "28",
+    "rotulo": "idade de Giovanna Medeiros"
+   },
+   {
+    "valor": "3",
+    "rotulo": "idade da filha de Giovanna"
+   },
+   {
+    "valor": "1",
+    "rotulo": "ano de acompanhamento no projeto Do Zero ao Trade"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Projeto de 1",
+  "porQueImporta": "Esta história mostra como o mercado financeiro pode ser uma opção para quem busca maior autonomia e flexibilidade, especialmente para quem tem desafios pessoais como a maternidade solo. Entender essa realidade ajuda investidores a perceberem os caminhos e riscos envolvidos no aprendizado do trade.",
+  "impactoMercado": "O projeto evidencia a importância da educação e do suporte no mercado financeiro para iniciantes. O acompanhamento de traders experientes pode ampliar o interesse por investimentos, influenciando positivamente o perfil de novos participantes no mercado.",
+  "entenda": "Trade é a prática de comprar e vender ativos financeiros como ações e contratos para aproveitar oscilações de preço. Swing trade, por exemplo, significa operações realizadas em prazos de dias a semanas, buscando lucros em movimentos intermediários do mercado.",
+  "observar": "Acompanhar o andamento do projeto Do Zero ao Trade durante o ano, os resultados e o desenvolvimento de Giovanna podem trazer aprendizados para novos investidores iniciantes interessados em trade.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "A notícia é um exemplo real de como é possível começar na Bolsa com educação e acompanhamento, tema que conecta o aprendizado do mercado financeiro com a realidade e desafios do dia a dia, despertando interesse pela faculdade do Trader",
+  "gancho": "*Início* no trade: *mãe* aprende do zero",
+  "ideias": [
+   "Conheça o projeto Do Zero ao Trade: aprendizado real e acompanhamento",
+   "Como a curiosidade em um evento mudou a vida de Giovanna Medeiros",
+   "Maternidade solo e trade: desafios e motivações para começar no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "alvo",
+  "fonte": "InfoMoney; Folha Mercado; Times Brasil",
+  "impacto": "medio",
+  "ordem": 11,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://www.infomoney.com.br/mercados/mae-solo-de-28-anos-quer-aprender-trade-do-zero-ter-mais-tempo-com-filha/",
+  "publicadoEm": "2026-11-24T17:05:00-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-09"
+ },
+ {
+  "titulo": "Banco Central endurece regras e freia queda da concentração bancária",
+  "resumo": "A&S Partners revisou projeções e prevê queda menor na concentração bancária devido a novas regras do BC. Participação dos maiores bancos em crédito pode reduzir para 43,1% em 2031, contra previsão anterior de queda mais acentuada.",
+  "fatos": [
+   "Banco Central aumentou exigências regulatórias para o setor financeiro.",
+   "A&S Partners revisou suas projeções para os próximos cinco anos.",
+   "Participação dos maiores bancos no crédito brasileiro era 76,1% em 2022.",
+   "Projeta-se uma queda para 43,1% até 2031 segundo cenário anterior.",
+   "Novas regras devem desacelerar essa queda da concentração bancária.",
+   "Mercado financeiro brasileiro deve priorizar instituições com capital e compliance robustos.",
+   "A revisão ocorreu após as mudanças regulatórias do Banco Central.",
+   "A leitura indica um ciclo de crescimento mais seletivo no setor."
+  ],
+  "explicacao": [
+   "O Banco Central aumentou as exigências regulatórias para o mercado financeiro, o que fez a consultoria A&S Partners revisar suas perspectivas sobre concentração bancária e fintechs no Brasil.",
+   "Em fevereiro de 2025, a consultoria projetava que a participação dos maiores bancos no crédito brasileiro cairia de 76,1% em 2022 para 43,1% em 2031, indicando forte redução da concentração.",
+   "Com as novas regras do BC, a expectativa é de uma desaceleração dessa queda, sinalizando um mercado mais seletivo que prioriza estrutura de capital e conformidade robusta nas instituições.",
+   "Essa mudança reflete no equilíbrio do mercado financeiro, com maior rigor regulatório para as fintechs e bancos, e promete maior solidez e segurança para os agentes do setor nos próximos anos."
+  ],
+  "detalhes": [
+   "Quem: Banco Central do Brasil e consultoria A&S Partners.",
+   "Quanto: participação dos maiores bancos no crédito brasileiro, de 76,1% para 43,1%.",
+   "Quando: projeção atualizada em novembro de 2026, revisão de projeção de fevereiro de 2025.",
+   "Onde: mercado financeiro e de crédito brasileiro.",
+   "Como: aumento das exigências regulatórias afetam fintechs e concentração bancária.",
+   "Comparação: cenário anterior previa maior queda na concentração do mercado de crédito.",
+   "Contexto: nova fase de crescimento seletivo, com foco em capital e compliance."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "fevereiro de 2025",
+    "oque": "A&S Partners projeta queda da concentração bancária até 2031."
+   },
+   {
+    "quando": "novembro de 2026",
+    "oque": "Revisão das projeções após endurecimento das regras pelo BC."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Concentração Bancária",
+    "significado": "Participação dos grandes bancos no mercado de crédito."
+   },
+   {
+    "termo": "Exigências Regulatórias",
+    "significado": "Regras que instituições financeiras devem seguir para operar."
+   },
+   {
+    "termo": "Compliance",
+    "significado": "Conformidade com normas legais e regulatórias."
+   }
+  ],
+  "pergunta": "Como você vê o impacto das novas regras do BC para as fintechs?",
+  "tamanhoTexto": 7914,
+  "numeros": [
+   {
+    "valor": "76,1%",
+    "rotulo": "participação dos maiores bancos no crédito em 2022"
+   },
+   {
+    "valor": "43,1%",
+    "rotulo": "projeção de participação em 2031 (cenário anterior)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "43,1%",
+  "porQueImporta": "Essa notícia é fundamental para investidores e operadores porque mostra que o aumento da regulação pode manter a concentração bancária em níveis mais altos do que o esperado. Isso impacta a competição no setor financeiro, modelos de negócio das fintechs e decisões estratégicas nas instituições financeiras.",
+  "impactoMercado": "O endurecimento regulatório pelo BC deve influenciar o comportamento dos bancos e fintechs, afetando a dinâmica de crédito e concorrência. Setores financeiros e de inovação podem ter crescimento mais controlado, com maior foco em compliance e estrutura sólida, alterando riscos e oportunidades para investidores.",
+  "entenda": "Concentração bancária refere-se à fatia do mercado de crédito controlada pelos maiores bancos. Se a concentração cai, significa que mais instituições menores e fintechs ganham espaço. O Banco Central regula o mercado para garantir estabilidade e segurança, influenciando a participação dessas instituições no mercado.",
+  "observar": "Fique atento às próximas atualizações do Banco Central e novos relatórios da A&S Partners sobre o mercado de fintechs e concentração bancária, especialmente até 2031, para entender a evolução do setor.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "Entender como regulações impactam a concentração bancária ajuda a compreender o ambiente financeiro e a importância de uma faculdade do mercado para quem quer operar com conhecimento.",
+  "gancho": "*Banco Central* e *concentração*",
+  "ideias": [
+   "O que muda com as novas regras do Banco Central?",
+   "Concentração bancária: por que não vai cair tanto?",
+   "Fintechs e regulação: o que esperar até 2031?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "Valor Econômico; Seu Dinheiro",
+  "impacto": "medio",
+  "ordem": 12,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://valor.globo.com/financas/noticia/2026/11/24/novas-regras-do-bc-devem-desacelerar-queda-da-concentrao-bancria-projeta-as-partners.ghtml",
+  "publicadoEm": "2026-11-24T16:56:54-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-10"
+ },
+ {
+  "titulo": "Senior Living: moradia que une autonomia e cuidado para idosos",
+  "resumo": "No Brasil, mais de 32 milhões têm 60 anos ou mais, segundo o IBGE. Senior Living oferece moradia planejada para autonomia e suporte gradual na terceira idade.",
+  "fatos": [
+   "Brasil tem mais de 32 milhões de pessoas com 60 anos ou mais, segundo Censo Demográfico 2022 do IBGE.",
+   "Idosos representam 15,6% da população brasileira.",
+   "Senior Living reúne estrutura planejada, serviços e acompanhamento profissional.",
+   "Unidades em Porto Alegre são Magno Três Figueiras e Magno Moinhos de Vento.",
+   "Moradores mantenham autonomia com liberdade para sair e receber visitas sem restrições.",
+   "Acomodações são suítes individuais que preservam privacidade.",
+   "Magno Moinhos de Vento possui ala Memory Care para Alzheimer.",
+   "Senior Living combina acessibilidade, conforto, segurança e espaço para convivência.",
+   "Modelo auxilia familiares a compartilhar cuidados, permitindo convívio afetivo."
+  ],
+  "explicacao": [
+   "O envelhecimento da população brasileira, com mais de 32 milhões de pessoas acima de 60 anos (15,6% do total), destaca a necessidade por moradias que combinem autonomia e assistência. É nesse contexto que surge o conceito Senior Living, que oferece moradia estruturada para idosos.",
+   "O Senior Living difere dos residenciais tradicionais por preservar a independência dos moradores. Idosos podem manter rotinas, sair para passeios, trabalhar e receber visitas familiares sem restrições, contando com apoio conforme suas necessidades individuais.",
+   "Essas unidades são projetadas especificamente para idosos, integrando acessibilidade, conforto e atividades sociais, culturais e físicas, respeitando diferentes perfis. Algumas oferecem área especial para pessoas com Alzheimer, garantindo segurança e estímulos adequados.",
+   "Além do cuidado profissional, o modelo auxilia familiares a dividir responsabilidades, fortalecendo vínculos afetivos. Assim, o Senior Living promove qualidade de vida na longevidade, equilibrando independência, privacidade, assistência e convivência social."
+  ],
+  "detalhes": [
+   "O conceito Senior Living atende tanto idosos independentes quanto dependentes de cuidados.",
+   "Unidades foram projetadas desde o início para as necessidades do envelhecimento, diferente de adaptações posteriores.",
+   "Moradores autônomos podem realizar atividades externas e trabalho, se desejarem.",
+   "Visitas familiares não têm restrições de horários.",
+   "Touchpoints incluem socialização, atividades culturais, físicas e cognitivas personalizadas.",
+   "A ala Memory Care atende especificamente necessidades de pessoas com Alzheimer.",
+   "O modelo adapta o suporte conforme a progressão das necessidades do indivíduo."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "2022",
+    "oque": "Censo Demográfico do IBGE aponta população acima de 60 anos"
+   },
+   {
+    "quando": "24/11/2026",
+    "oque": "Matéria publicada sobre Senior Living e qualidade de vida na longevidade"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Senior Living",
+    "significado": "Modelo de moradia para idosos que une independência e cuidados profissionais."
+   },
+   {
+    "termo": "Memory Care",
+    "significado": "Área especializada para cuidados de pessoas com Alzheimer."
+   }
+  ],
+  "pergunta": "Você conhece o conceito de Senior Living para idosos?",
+  "tamanhoTexto": 7017,
+  "numeros": [
+   {
+    "valor": "32 milhões",
+    "rotulo": "pessoas com 60 anos ou mais no Brasil"
+   },
+   {
+    "valor": "15,6%",
+    "rotulo": "percentual da população brasileira com 60 anos ou mais"
+   },
+   {
+    "valor": "R$ 3,2 mil",
+    "rotulo": "valor de bolsas para estudantes em setor tecnológico (contexto geral)"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "32 milhões de",
+  "porQueImporta": "Com o envelhecimento da população, investir em conhecimento sobre moradia e cuidados para idosos permite entender um mercado em expansão e as transformações na economia correlacionadas à longevidade.",
+  "impactoMercado": "Senior Living representa oportunidade para setores imobiliário, saúde e serviços, além de influenciar demandas por investimentos em infraestrutura adaptada para idosos, afetando fundos imobiliários e ações ligadas ao segmento.",
+  "entenda": "Senior Living é um modelo de moradia desenhado para idosos que preserva autonomia e oferece suporte proporcional às necessidades, combinando privacidade, convivência, segurança e assistência profissional.",
+  "observar": "Acompanhe a expansão do conceito Senior Living e dados demográficos futuros do IBGE para monitorar a demanda por moradias especializadas e serviços ao idoso.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Empresários",
+   "Aposentados"
+  ],
+  "angulo": "Explica como o crescimento da população idosa cria demandas por moradia e serviços diferenciados, mostrando oportunidades reais ligadas ao mercado financeiro e imobiliário.",
+  "gancho": "*Senior Living*: autonomia e cuidado",
+  "ideias": [
+   "O que é Senior Living e por que cresce no Brasil?",
+   "Como a autonomia é mantida em residenciais para idosos?",
+   "Memory Care: cuidado especializado para Alzheimer em Senior Living"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "grafico",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 14,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/24/senior-living-integra-autonomia-e-cuidado-na-longevidade-1.ghtml",
+  "publicadoEm": "2026-11-24T17:08:12-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-11"
+ },
+ {
+  "titulo": "Abertas inscrições para estágios na Acciona, Grupo Ultra e Vivo",
+  "resumo": "Acciona, Grupo Ultra e Vivo lançam programas de estágio para estudantes de diversas áreas. Vagas abrangem engenharia, tecnologia e administração, com início previsto para início de 2027 em várias regiões do Brasil.",
+  "fatos": [
+   "Acciona abre vagas para engenharias, arquitetura, geologia, administração e mais.",
+   "Inscrições para Acciona vão até 1º de dezembro, início previsto para março de 2027.",
+   "Grupo Ultra oferece cerca de 500 vagas em três trilhas com bolsa de até R$ 3,2 mil.",
+   "Vagas do Grupo Ultra são para atuação em São Paulo, com início em janeiro de 2027.",
+   "Metade das vagas do Grupo Ultra são destinadas a pessoas negras.",
+   "Trilha Start do Grupo Ultra aceita estudantes de todos os cursos, com bolsa de até R$ 2 mil.",
+   "Vivo oferece programa com vagas em São Paulo, focando em inteligência artificial e dados.",
+   "Inscrições para Vivo vão até 16 de dezembro, com estágio de oito semanas.",
+   "Os estágios podem durar até dois anos e incluem treinamentos e avaliações periódicas.",
+   "Benefícios variam entre as empresas e programas, incluindo vale-transporte e seguro de vida."
+  ],
+  "explicacao": [
+   "Acciona, Grupo Ultra e Vivo abriram inscrições para seus programas de estágio voltados a estudantes de ensino superior nas áreas de engenharia, tecnologia, administração e outras, com atuação prevista para começar entre janeiro e março de 2027.",
+   "As vagas abrangem múltiplos cursos, como engenharias diversas, ciência da computação, economia, direito e psicologia, destinadas a estudantes no penúltimo ou último ano, com previsão de formatura entre 2027 e 2029, dependendo da empresa.",
+   "Os programas oferecem oportunidades presenciais e híbridas, duração entre dois anos e oito semanas, benefícios variados como bolsas de até R$ 3,2 mil, vale-refeição, assistência médica e treinamentos focados em áreas como inteligência artificial e automação.",
+   "Essas iniciativas destacam a aposta das empresas na formação técnica e digital, além da valorização da diversidade, com metade das vagas do Grupo Ultra destinadas a pessoas negras, e indicam forte expansão de programas para estudantes por todo o país."
+  ],
+  "detalhes": [
+   "Os programas exigem estar no penúltimo ou último ano da graduação, com formatura prevista entre dezembro de 2027 a dezembro de 2029.",
+   "Acciona seleciona para áreas como civil, elétrica, mecânica, ambiental, sanitária, produção, minas, mecatrônica e química.",
+   "As vagas do Grupo Ultra distribuem-se em trilhas Start, Expert (IA e cibersegurança) e Summer (experiência de férias).",
+   "A atuação das vagas ocorre em São Paulo, Paraná, Paraíba, Pernambuco e mais nove estados para Ultra.",
+   "A bolsa mais alta é de R$ 3,2 mil, ofertada pelo Grupo Ultra, com benefícios como assistência médica e auxílio academia.",
+   "A duração do programa varia de oito semanas no caso do Summer da Vivo, até dois anos para Acciona e Ultra.",
+   "Os programas incluem treinamentos, workshops, palestras, e seguimento com tutores para acompanhamento e avaliação."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Diretor financeiro e de relacionamento com investidores do Grupo Ultra,",
+    "oque": "Grupo Ultra oferece formação técnica com foco em inteligência artificial desde os primeiros meses."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "Até 1º de dezembro de 2026",
+    "oque": "Inscrições abertas para o programa de estágio da Acciona."
+   },
+   {
+    "quando": "Até 13 de novembro de 2026",
+    "oque": "Inscrições para o programa de estágio do Grupo Ultra."
+   },
+   {
+    "quando": "Até 16 de dezembro de 2026",
+    "oque": "Inscrições abertas para o programa de estágio da Vivo."
+   },
+   {
+    "quando": "Janeiro de 2027",
+    "oque": "Início previsto do programa de estágio do Grupo Ultra."
+   },
+   {
+    "quando": "Março de 2027",
+    "oque": "Início previsto do programa de estágio da Acciona."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Bolsa de estágio",
+    "significado": "Valor pago mensalmente ao estagiário pela empresa."
+   },
+   {
+    "termo": "Trilha de aprendizagem",
+    "significado": "Conjunto estruturado de treinamentos e experiências no programa."
+   },
+   {
+    "termo": "Modelo híbrido",
+    "significado": "Combinação de atividades presenciais e remotas."
+   }
+  ],
+  "pergunta": "Qual área você quer explorar em um estágio profissional?",
+  "tamanhoTexto": 8714,
+  "numeros": [
+   {
+    "valor": "3,2 mil",
+    "rotulo": "maior bolsa oferecida nos programas de estágio"
+   },
+   {
+    "valor": "500",
+    "rotulo": "vagas no programa do Grupo Ultra"
+   },
+   {
+    "valor": "24",
+    "rotulo": "duração em meses máxima para estágios"
+   },
+   {
+    "valor": "8",
+    "rotulo": "semanas de estágio na trilha Summer da Vivo"
+   },
+   {
+    "valor": "11",
+    "rotulo": "estados onde estão distribuídas vagas do Grupo Ultra"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "500 vagas no",
+  "porQueImporta": "Para quem está começando na carreira, esses programas representam chances reais de aprendizado e inserção no mercado em áreas com alta demanda, como engenharia e tecnologia. Conhecer benefícios e duração ajuda a planejar o ingresso e trajetória profissional.",
+  "impactoMercado": "Esses programas colaboram com a formação de mão de obra qualificada, especialmente em inteligência artificial e automação, setores que impactam diretamente a economia e investimentos em inovação. Setores como tecnologia e infraestrutura tendem a receber novos talentos.",
+  "entenda": "Programas de estágio são oportunidades para estudantes aplicarem na prática conhecimentos acadêmicos, adquirirem experiência profissional e desenvolverem habilidades em ambientes reais de trabalho, aumentando a empregabilidade e preparando para o mercado.",
+  "observar": "Fique atento ao prazo de inscrições que varia até 16 de dezembro e às datas de início em janeiro e março de 2027. Acompanhe os sites oficiais para detalhes sobre vagas específicas, benefícios e processos seletivos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Notícia sobre ampla oferta de estágios conecta o público iniciante ao mercado financeiro, mostrando como expandir habilidades técnicas e se preparar para oportunidades reais no setor econômico e tecnológico.",
+  "gancho": "*Estágios* abertos para *engenharia* e *tecnologia*",
+  "ideias": [
+   "As principais vagas de estágio em engenharia para 2027",
+   "Como programas de estágio estão focando em IA e tecnologia",
+   "Benefícios e duração dos maiores programas de estágio corporativo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Comportamento do investidor",
+  "icone": "relogio",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 17,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/11/acciona-grupo-ultra-e-vivo-abrem-programas-de-estagio.ghtml",
+  "publicadoEm": "2026-11-24T17:08:17-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-12"
+ },
+ {
+  "titulo": "Goiás cria fundo imobiliário para monetizar até R$ 1 bilhão em imóveis",
+  "resumo": "Governo de Goiás planeja fundo imobiliário em parceria com Rio Bravo e HGI Capital para monetizar imóveis públicos. Primeiras negociações com investidores devem ocorrer até junho de 2027, elevando patrimônio estadual.",
+  "fatos": [
+   "O fundo imobiliário goiano é estruturado em parceria com Rio Bravo e HGI Capital.",
+   "São 17 áreas mapeadas em Goiânia, Pirenópolis, Pires do Rio e Santa Helena de Goiás.",
+   "A expectativa é fechar as primeiras negociações com investidores privados até junho de 2027.",
+   "Venda imediata dos imóveis pode render entre R$ 500 milhões e R$ 800 milhões.",
+   "Com desenvolvimento imobiliário, patrimônio esperado sobe para R$ 1,8 bilhão.",
+   "Ganho estimado para o estado com o fundo é de cerca de R$ 1 bilhão.",
+   "Formalização do fundo depende da liberação do CNPJ pela Junta Comercial de SP.",
+   "Registro na CVM deve ocorrer em até 90 dias após liberação do CNPJ.",
+   "Não há confirmação sobre listagem das cotas na bolsa ou acesso para pessoa física.",
+   "A estrutura visa aluguel, reformas e parcerias para gerar receita."
+  ],
+  "explicacao": [
+   "O governo estadual de Goiás está estruturando um fundo imobiliário que visa transformar imóveis públicos subutilizados em fontes de receita. O consórcio formado pelas gestoras Rio Bravo e HGI Capital lidera o projeto, com previsão dos primeiros negócios até junho de 2027.",
+   "O fundo reunirá inicialmente 17 áreas em cidades como Goiânia e Pirenópolis. A venda direta dos imóveis poderia render até R$ 800 milhões, mas com desenvolvimento imobiliário o patrimônio pode chegar a R$ 1,8 bilhão, representando um ganho de R$ 1 bilhão para o estado.",
+   "Para formalizar o fundo, é necessária a liberação do CNPJ e o registro na CVM, que deve levar de 60 a 90 dias. Até o momento, não há detalhes sobre listagem na B3 nem acesso direto para investidores pessoa física.",
+   "A iniciativa busca monetizar ativos ociosos e aumentar receitas públicas por meio de parcerias com iniciativa privada, fomentando o mercado imobiliário goiano e oferecendo uma alternativa de investimento em FIIs no futuro."
+  ],
+  "detalhes": [
+   "Governador de Goiás: Daniel Vilela, que discutiu o cronograma do projeto",
+   "Localização dos imóveis: Goiânia, Pirenópolis, Pires do Rio e Santa Helena de Goiás",
+   "Parcerias: gestoras Rio Bravo e HGI Capital coordenam a estruturação e gestão",
+   "Cronograma: negociações com investidores privadas previstas para até junho de 2027",
+   "Volume financeiro: até R$ 1,8 bilhão de patrimônio estimado com desenvolvimento imobiliário",
+   "Formalização: necessária liberação do CNPJ pela Junta Comercial do Estado de São Paulo",
+   "Procedimento: estruturação e registro na CVM deve levar entre 60 e 90 dias"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Governo de Goiás",
+    "oque": "Busca monetizar imóveis ociosos e gerar receita pública com o fundo imobiliário"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "até junho de 2027",
+    "oque": "Previsão para fechar os primeiros negócios com investidores privados"
+   },
+   {
+    "quando": "entre 60 a 90 dias após",
+    "oque": "Tempo estimado para registro do fundo na CVM"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Fundo Imobiliário",
+    "significado": "Investimento coletivo em imóveis ou ativos imobiliários que gera renda aos cotistas"
+   },
+   {
+    "termo": "CVM",
+    "significado": "Comissão de Valores Mobiliários, órgão regulador dos investimentos no Brasil"
+   },
+   {
+    "termo": "CNPJ",
+    "significado": "Cadastro Nacional da Pessoa Jurídica, registro formal da empresa ou fundo"
+   }
+  ],
+  "pergunta": "Você investiria em um fundo imobiliário com imóveis públicos?",
+  "tamanhoTexto": 5653,
+  "numeros": [
+   {
+    "valor": "17",
+    "rotulo": "número de áreas mapeadas para o fundo imobiliário"
+   },
+   {
+    "valor": "R$ 500 milhões",
+    "rotulo": "potencial renda com venda imediata dos imóveis"
+   },
+   {
+    "valor": "R$ 800 milhões",
+    "rotulo": "renda potencial em condições favoráveis"
+   },
+   {
+    "valor": "R$ 1,8 bilhão",
+    "rotulo": "patrimônio máximo estimado com desenvolvimento imobiliário"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "ganho estimado para o patrimônio estadual"
+   },
+   {
+    "valor": "60 a 90 dias",
+    "rotulo": "prazo para registro do fundo na CVM após liberação do CNPJ"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 1 bilhão",
+  "porQueImporta": "Este fundo imobiliário é importante porque oferece uma nova forma para o governo estadual monetizar ativos públicos que estavam parados, gerando receita extra para o caixa público. Para investidores, a iniciativa pode futuramente representar uma nova categoria de fundo imobiliário com ativos do setor público, diversificando oportunidades.",
+  "impactoMercado": "A criação do fundo pode aquecer o mercado imobiliário regional, além de influenciar a oferta de fundos imobiliários com imóveis públicos. Investidores e operadores do mercado devem acompanhar como será a estruturação do produto, possíveis listagens e impacto na liquidez do setor de FIIs no país.",
+  "entenda": "Um fundo imobiliário reúne recursos de investidores para comprar, administrar e explorar imóveis, distribuindo os resultados. Monetizar imóveis públicos significa transformar bens ociosos em ativos produtivos, gerando renda por meio de aluguel ou valorização, em acesso ao mercado privado.",
+  "observar": "O mercado deve acompanhar a liberação do CNPJ, o registro na CVM e as negociações previstas até junho de 2027 para entender oportunidades e regras finais do fundo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicamos como um fundo imobiliário estadual pode transformar imóveis públicos em oportunidades de investimento e renda, conectando o público à dinâmica do mercado imobiliário e à estruturação de FIIs.",
+  "gancho": "*Fundo*, *Imobiliário*, Goiás",
+  "ideias": [
+   "Como o fundo imobiliário de Goiás vai monetizar imóveis públicos",
+   "O que muda para investidores com o fundo imobiliário estadual",
+   "Passo a passo da criação do fundo imobiliário de Goiás"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "FIIs",
+  "icone": "grafico",
+  "fonte": "Suno Notícias; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 18,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://www.suno.com.br/noticias/fundo-imobiliario-goias-ganho-1-bilhao/",
+  "publicadoEm": "2026-11-24T17:01:24-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-13"
+ },
+ {
+  "titulo": "Taxas do Tesouro Direto recuam, mas prefixados seguem acima de 15%",
+  "resumo": "Taxas dos títulos públicos caíram pouco em 24/11, com prefixados acima de 15%. Papéis longos atrelados à inflação tiveram maiores ganhos de preço.",
+  "fatos": [
+   "Taxas recuaram levemente em quase todos os títulos na terça (24/11).",
+   "Pacote fiscal aprovado na segunda à noite deve gerar impacto de até R$ 50 bilhões em 2027.",
+   "Tesouro Prefixado 2029 oferece 15,10% ao ano.",
+   "Prefixado 2032 paga 15,42% ao ano e 2037 paga 15,33% ao ano.",
+   "Maior queda nas taxas: Educa+ 2027, de IPCA +7,53% para IPCA +7,44%.",
+   "R$ 10 mil investidos no Educa+ 2044 passaram para cerca de R$ 10.112,64 em um dia.",
+   "R$ 10 mil no Educa+ 2027 renderam R$ 24,50 no mesmo período.",
+   "Dólar caiu 0,14% na segunda, fechando a R$ 5,9262.",
+   "Todos os títulos atrelados à inflação pagam acima de IPCA + 7% ao ano.",
+   "Taxas consideradas até as 18h do dia 23/11/2026 para comparação."
+  ],
+  "explicacao": [
+   "Na terça-feira (24), as taxas dos títulos do Tesouro Direto recuaram em quase toda a prateleira, com quedas pequenas de poucos centésimos de ponto percentual comparadas ao fechamento de segunda (23).",
+   "Essa estabilidade se deveu à redução do sentimento negativo após a aprovação pelo Congresso do pacote de ajuste fiscal do governo, que deve impactar R$ 50 bilhões nas contas públicas em 2027.",
+   "Entre os prefixados, o Tesouro Prefixado 2029 paga 15,10% ao ano, o Prefixado 2032, 15,42%, e o Prefixado 2037 com juros semestrais, 15,33%, todos com queda inferior a um décimo de ponto.",
+   "Já os títulos indexados à inflação tiveram quedas pequenas nas taxas e valorização maior no preço, especialmente os papéis com vencimento mais distante, como o Educa+ 2044, cujo R$ 10 mil investidos valorizaram R$ 112,64 em um dia."
+  ],
+  "detalhes": [
+   "Fonte das taxas: Tesouro Nacional, com dados de 24/11/2026.",
+   "Quedas nas taxas foram inferiores a 0,10 ponto percentual entre os prefixados.",
+   "Maior valorização no preço ocorreu em títulos com vencimento distante, por maior recalculo dos juros.",
+   "Ganhos indicados não consideram impostos nem taxas de custódia.",
+   "Pacote fiscal combina bloqueio de gastos e redução de renúncias tributárias.",
+   "Escolha entre prefixado, inflação ou Selic depende do objetivo e prazo do investidor.",
+   "A taxa travada na compra vale até o vencimento do título."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fonte: InvestNews",
+    "oque": "As taxas recuaram pouco, mostrando redução do sentimento negativo após o ajuste fiscal aprovado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de novembro de 2026 à",
+    "oque": "Câmara aprovou pacote de ajuste fiscal do governo."
+   },
+   {
+    "quando": "24 de novembro de 2026",
+    "oque": "Taxas do Tesouro Direto recuaram em quase todos os títulos."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Taxa prefixada",
+    "significado": "Juros fixos definidos na compra do título até seu vencimento."
+   },
+   {
+    "termo": "IPCA",
+    "significado": "Índice oficial de inflação usado para corrigir títulos."
+   },
+   {
+    "termo": "Ajuste fiscal",
+    "significado": "Medidas do governo para controlar gastos e aumentar receitas."
+   }
+  ],
+  "pergunta": "Você prefere investir em títulos prefixados ou atrelados à inflação? Por quê?",
+  "tamanhoTexto": 5534,
+  "numeros": [
+   {
+    "valor": "15,42%",
+    "rotulo": "Maior taxa paga pelo Tesouro Prefixado 2032"
+   },
+   {
+    "valor": "IPCA + 7,53%",
+    "rotulo": "Taxa anterior do Educa+ 2027"
+   },
+   {
+    "valor": "IPCA + 7,44%",
+    "rotulo": "Nova taxa do Educa+ 2027"
+   },
+   {
+    "valor": "R$ 10.112,64",
+    "rotulo": "Valor de R$ 10 mil investidos no Educa+ 2044 em 1 dia"
+   },
+   {
+    "valor": "R$ 24,50",
+    "rotulo": "Ganho de R$ 10 mil no Educa+ 2027 em 1 dia"
+   },
+   {
+    "valor": "R$ 50 bilhões",
+    "rotulo": "Impacto estimado do pacote fiscal em 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Educa+ 2027",
+    "antes": "IPCA + 7,53%",
+    "depois": "IPCA + 7,44%"
+   }
+  ],
+  "destaque": "Taxas prefixadas acima",
+  "porQueImporta": "Essas taxas influenciam o custo do dinheiro no país e afetam o retorno esperado em renda fixa. Entender suas variações ajuda investidores a escolher os títulos que mais se alinham com seus objetivos e o cenário econômico.",
+  "impactoMercado": "A leve queda nas taxas indica maior confiança no ajuste fiscal, o que pode reduzir a pressão sobre juros e dólar, impactando diretamente investimentos em renda fixa e o custo de captação para o governo.",
+  "entenda": "Tesouro Direto é um programa que permite investir em títulos públicos, que são dívidas do governo. Taxas prefixadas pagam uma taxa fixa; títulos atrelados à inflação pagam acima da variação do IPCA, protegendo contra perda do poder de compra.",
+  "observar": "Acompanhe a evolução das taxas nas próximas semanas e anúncios do governo sobre novas medidas fiscais para entender possíveis impactos nos títulos públicos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicar as variações das taxas do Tesouro Direto ajuda investidores a entender o impacto do ajuste fiscal e tomar decisões alinhadas ao perfil e objetivos financeiros.",
+  "gancho": "*Tesouro* taxas recuam pouco",
+  "ideias": [
+   "Como o ajuste fiscal impacta taxas do Tesouro Direto",
+   "Prefixados acima de 15%: o que isso significa para investidores",
+   "Por que títulos longos atrelados à inflação valorizam mais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Renda fixa",
+  "icone": "grafico",
+  "fonte": "InvestNews; Valor Econômico",
+  "impacto": "medio",
+  "ordem": 19,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-recuo-prefixados-24112026/",
+  "publicadoEm": "2026-11-24T09:51:25-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-14"
+ },
+ {
+  "titulo": "Arrecadação federal bate recorde de R$ 294 bi em outubro",
+  "resumo": "Receita Federal informou arrecadação de R$ 293,975 bi em outubro, alta real de 7,28%. Acumulado do ano chega a R$ 2,645 tri, maior da série histórica.",
+  "fatos": [
+   "Arrecadação federal em outubro: R$ 293,975 bilhões",
+   "Crescimento real em outubro: 7,28% acima de 2025",
+   "Arrecadação acumulada jan-out: R$ 2,645 trilhões",
+   "Crescimento real acumulado: 7%",
+   "Receitas da Secretaria da Receita: R$ 273,367 bilhões em outubro",
+   "Alta real das receitas da Secretaria: 5,8% em outubro",
+   "Receitas extraordinárias em outubro: R$ 5,91 bilhões",
+   "Pagamentos atípicos IRPJ/CSLL em outubro: R$ 3 bilhões",
+   "Imposto exportação petróleo em outubro: R$ 2,91 bilhões",
+   "Setores com maior crescimento: petróleo e gás, serviços de informação, financeiro, veículos e apostas"
+  ],
+  "explicacao": [
+   "Em outubro de 2026, a arrecadação das receitas federais atingiu R$ 293,975 bilhões, o maior valor já registrado para o mês desde 1995, com aumento real de 7,28% em relação a outubro de 2025.",
+   "Esse crescimento foi impulsionado pelo avanço da atividade econômica, maior massa salarial e receitas extraordinárias, incluindo pagamentos atípicos de IRPJ e CSLL e imposto sobre exportação de petróleo.",
+   "O resultado mostra que a economia brasileira teve uma base sólida no período, refletindo-se nas receitas com impostos como IRPJ, CSLL, contribuições previdenciárias e tributos sobre importação.",
+   "Para o acumulado de janeiro a outubro, a arrecadação chegou a R$ 2,645 trilhões, com crescimento real de 7%, mantendo o maior patamar histórico para esse período desde 1995."
+  ],
+  "detalhes": [
+   "Fonte: Receita Federal, dados de outubro de 2026",
+   "Recorde histórico para outubro desde série iniciada em 1995",
+   "Receitas extraordinárias impactaram fortemente o resultado",
+   "IRPJ e CSLL arrecadaram R$ 71,75 bilhões em outubro (+8,23%)",
+   "Receita previdenciária de outubro: R$ 63,61 bilhões (+4,13%)",
+   "Arrecadação sobre importações avançou 20,05% em outubro",
+   "Nos dez primeiros meses, setor de apostas arrecadou R$ 12,1 bilhões"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Receita Federal",
+    "oque": "Destacou crescimento da arrecadação devido à atividade econômica, massa salarial e receitas extraordinárias"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "outubro de 2026",
+    "oque": "Arrecadação mensal bate recorde histórico para o mês"
+   },
+   {
+    "quando": "janeiro a outubro de 2026",
+    "oque": "Arrecadação acumulada atinge maior nível da série histórica"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IRPJ",
+    "significado": "Imposto de Renda da Pessoa Jurídica, tributo sobre lucro das empresas"
+   },
+   {
+    "termo": "CSLL",
+    "significado": "Contribuição Social sobre o Lucro Líquido, tributo para financiar a seguridade social"
+   },
+   {
+    "termo": "Receita Federal",
+    "significado": "Órgão responsável pela arrecadação de tributos federais"
+   }
+  ],
+  "pergunta": "Como você acha que a arrecadação recorde influencia seu dia a dia financeiro?",
+  "tamanhoTexto": 3616,
+  "numeros": [
+   {
+    "valor": "293,975 bilhões",
+    "rotulo": "Arrecadação federal em outubro de 2026"
+   },
+   {
+    "valor": "7,28%",
+    "rotulo": "Crescimento real da arrecadação em outubro comparado a 2025"
+   },
+   {
+    "valor": "2,645 trilhões",
+    "rotulo": "Arrecadação acumulada de janeiro a outubro de 2026"
+   },
+   {
+    "valor": "5,91 bilhões",
+    "rotulo": "Receitas extraordinárias em outubro"
+   },
+   {
+    "valor": "8,23%",
+    "rotulo": "Crescimento real do IRPJ e CSLL em outubro"
+   },
+   {
+    "valor": "20,05%",
+    "rotulo": "Alta da arrecadação sobre importações em outubro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 293,975 bilhões",
+  "porQueImporta": "A alta da arrecadação reflete a saúde da economia, sua capacidade de gerar receita e fortalecer as contas públicas, impactando políticas econômicas e investimentos de longo prazo no Brasil.",
+  "impactoMercado": "Crescimento da receita indica possível estabilidade fiscal, influenciando a confiança dos investidores e o comportamento do mercado em setores ligados à economia real e arrecadação tributária.",
+  "entenda": "A arrecadação federal é o total de impostos e contribuições que o governo coleta para custear serviços públicos e investimentos. Seu aumento indica mais atividade econômica e pode influenciar políticas fiscais.",
+  "observar": "Seja atento aos próximos balanços da Receita em novembro e dezembro, que podem indicar tendência de arrecadação para o fechamento do ano e impacto fiscal para 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Entenda como a arrecadação federal elevada revela o cenário econômico e fiscal, essencial para quem quer profissionalizar seus investimentos e conhecer o mercado financeiro em profundidade.",
+  "gancho": "Arrecadação *recorde* mostra força da economia",
+  "ideias": [
+   "Por que a arrecadação recorde importa para investidores?",
+   "Como receitas extraordinárias influenciam os cofres públicos?",
+   "Setores que mais cresceram e impactaram a arrecadação em 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Bora Investir (B3)",
+  "impacto": "medio",
+  "ordem": 21,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://borainvestir.b3.com.br/noticias/arrecadacao-federal-atinge-r-294-bilhoes-e-bate-recorde-para-outubro/",
+  "publicadoEm": "2026-11-24T15:19:16-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-15"
+ },
+ {
+  "titulo": "Morgan Stanley vê real forte, dólar a R$ 5,25 em 2027 com ajuste fiscal",
+  "resumo": "Banco projeta real entre moedas mais valorizadas da América Latina em 2027, com dólar potencialmente a R$ 5,25. Sem plano fiscal, dólar pode romper R$ 6,00 no curto prazo.",
+  "fatos": [
+   "Morgan Stanley projeta dólar a R$ 5,25 em 2027 com ajuste fiscal",
+   "Sem plano fiscal, dólar pode ultrapassar R$ 6,00",
+   "Saídas financeiras líquidas esperadas de US$ 15 bilhões em dezembro",
+   "Real e peso chileno lideram valorização na América Latina em 2027",
+   "Peso mexicano e colombiano tendem a valorização moderada",
+   "Banco Central pode intensificar venda de dólares para controlar câmbio",
+   "Mercado subestima possibilidade de corte de juros no Brasil",
+   "Dólar já tocou R$ 6 em 2026 pela primeira vez desde abril de 2025",
+   "Intervenção do BC com venda de US$ 1 bilhão derrubou dólar temporariamente"
+  ],
+  "explicacao": [
+   "O Morgan Stanley projeta que o real será uma das moedas latino-americanas com melhor desempenho até 2027, podendo chegar a um dólar cotado a R$ 5,25. Essa previsão depende da aprovação de um ajuste fiscal robusto no Brasil para consolidar as contas públicas.",
+   "Sem um plano fiscal convincente, o banco alerta que o dólar pode superar os R$ 6,00, refletindo a desconfiança dos investidores sobre a capacidade do governo de controlar a dívida. Em dezembro, saídas financeiras líquidas podem alcançar US$ 15 bilhões devido ao envio de recursos e dividendos ao exterior.",
+   "A valorização do real até 2027 também está associada ao cenário de juros atrativos no Brasil, ao avanço na agenda fiscal e à atuação do Banco Central para manter estabilidade cambial. O banco destaca que, apesar de potenciais ganhos, o patamar do dólar deve permanecer acima dos níveis anteriores às eleições.",
+   "Além disso, o Morgan Stanley aponta que outros países latino-americanos terão desempenho variado: peso chileno deve se valorizar, pesos mexicano e colombiano apresentam alta mais moderada e há possíveis mudanças nas políticas monetárias regionais, incluindo possíveis cortes de juros no Brasil caso haja programa fiscal confiável."
+  ],
+  "detalhes": [
+   "Previsão do Morgan Stanley é para o ano de 2027, condicionada à consolidação fiscal",
+   "Sem ajuste fiscal, dólar pode romper o patamar de R$ 6,00 no curto prazo",
+   "Desvalorização do real em 2026 devido a saídas financeiras e envio de dividendos ao exterior",
+   "Perspectiva é que após dezembro de 2026 o real possa se valorizar com melhora dos fatores sazonais",
+   "Banco prevê diferentes trajetórias de política monetária para América Latina, incluindo Brasil, Chile, Peru e México",
+   "Banco Central pode usar vendas no mercado à vista e linhas de crédito para conter alta do dólar",
+   "Dólar fechou julho de 2026 perto de R$ 5,92 após oscilações e intervenção do BC"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Morgan Stanley",
+    "oque": "Projeta real entre moedas mais fortes da América Latina em 2027, se houver ajuste fiscal"
+   },
+   {
+    "quem": "Roberta Folgueral, diretora de câmbio",
+    "oque": "Alertou que volatilidade do dólar exige maior planejamento financeiro das empresas brasileiras"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "dezembro de 2026",
+    "oque": "Projeção de saídas financeiras líquidas de US$ 15 bilhões"
+   },
+   {
+    "quando": "janeiro de 2027",
+    "oque": "Início possível valorização do real com avanço fiscal e melhora sazonal"
+   },
+   {
+    "quando": "Julho de 2026",
+    "oque": "Dólar chegou a R$ 6,00 pela primeira vez desde abril de 2025"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Ajuste fiscal",
+    "significado": "Medidas para equilibrar contas públicas, reduzindo gastos ou aumentando receitas"
+   },
+   {
+    "termo": "Política monetária",
+    "significado": "Decisões do Banco Central para controlar juros e inflação"
+   },
+   {
+    "termo": "Saídas financeiras líquidas",
+    "significado": "Dinheiro saindo do país, como investimentos e dividendos enviados ao exterior"
+   }
+  ],
+  "pergunta": "Você acha que o governo brasileiro conseguirá consolidar as contas públicas para valorizar o real?",
+  "tamanhoTexto": 5766,
+  "numeros": [
+   {
+    "valor": "R$ 5,25",
+    "rotulo": "Projeção do dólar em 2027 com ajuste fiscal"
+   },
+   {
+    "valor": "R$ 6,00",
+    "rotulo": "Potencial rompimento do dólar sem plano fiscal crível"
+   },
+   {
+    "valor": "US$ 15 bilhões",
+    "rotulo": "Saídas financeiras líquidas previstas para dezembro"
+   },
+   {
+    "valor": "14,6%",
+    "rotulo": "Queda do real em um mês, maior perda entre 32 moedas"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "Valor usado pelo BC para intervenção no câmbio"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar",
+    "antes": "abaixo de R$ 6,00 até abril de 2025",
+    "depois": "pico de R$ 6,00 em julho de 2026"
+   }
+  ],
+  "destaque": "R$ 5,25",
+  "porQueImporta": "Essa projeção mostra como a política fiscal e ações do Banco Central podem influenciar o câmbio e setores ligados ao dólar, essenciais para investidores e traders entenderem os riscos e oportunidades no cenário brasileiro até 2027.",
+  "impactoMercado": "Se o real se valorizar conforme o Morgan Stanley prevê, ativos ligados à moeda local podem ter menos volatilidade cambial. Por outro lado, o risco de dólar acima de R$ 6,00 acende o alerta para setores exportadores, importadores e gestão de risco no curto prazo.",
+  "entenda": "O dólar é a moeda americana usada como referência global, e sua cotação frente ao real indica a força da moeda nacional. Ajuste fiscal significa controlar gastos e receitas do governo para estabilizar a economia, fundamental para a confiança dos investidores e o valor do real.",
+  "observar": "Fique atento à votação do pacote fiscal no Congresso, nomeações no Ministério da Fazenda e indicadores de inflação nos próximos meses, que podem influenciar a cotação do dólar e decisões do Banco Central.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Esta notícia conecta política fiscal e câmbio, mostrando como decisões públicas afetam o real e o dólar, tema ideal para quem quer entender o mercado financeiro e por isso se beneficiar da formação em uma faculdade de mercado.",
+  "gancho": "*Dólar* e *Real*: projeção 2027",
+  "ideias": [
+   "Por que Morgan Stanley vê real forte em 2027?",
+   "O que o ajuste fiscal significa para o dólar em 2026-2027?",
+   "Como saídas financeiras impactam a cotação do dólar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "BP Money",
+  "impacto": "medio",
+  "ordem": 22,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T17:21:41-03:00",
+  "url": "https://bpmoney.com.br/mercado/cambio/morgan-stanley-ve-dolar-r-525-2027-real-mais-forte/",
+  "publicadoEm": "2026-11-24T15:41:47-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-16"
+ },
+ {
   "titulo": "Flash lança gestão de combustível integrada a despesas corporativas",
   "resumo": "Flash lança solução para gerir combustível ligada à plataforma de despesas. Com decreto sobre VR e VA, mira ampliar mercado de gestão de combustível.",
   "fatos": [
@@ -3896,53 +5477,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 69.0% de chance do Bitcoin ultrapassar 62,500.",
-  "resumo": "As apostas indicam uma forte expectativa de valorização do Bitcoin até o fim de novembro de 2026.",
+  "titulo": "Mercado de previsões vê 57.5% de chance de Bitcoin abaixo de 57,500 em novembro",
+  "resumo": "As probabilidades refletidas pelos apostadores indicam um cenário misto para o preço do Bitcoin.",
   "probs": [
    {
-    "opcao": "↑ 62,500",
-    "prob": 69.0
-   },
-   {
     "opcao": "↓ 57,500",
-    "prob": 44.5
+    "prob": 57.5
    },
    {
-    "opcao": "↑ 65,000",
-    "prob": 30.5
+    "opcao": "↑ 62,500",
+    "prob": 45.5
    },
    {
     "opcao": "↓ 55,000",
-    "prob": 22.8
+    "prob": 28.8
+   },
+   {
+    "opcao": "↑ 65,000",
+    "prob": 18.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 1,1 mi",
+  "volume24h": "US$ 685 mil",
   "fatos": [
-   "↑ 62,500: 69,0%",
-   "↓ 57,500: 44,5%",
-   "↑ 65,000: 30,5%",
-   "↓ 55,000: 22,8%"
+   "↓ 57,500: 57,5%",
+   "↑ 62,500: 45,5%",
+   "↓ 55,000: 28,8%",
+   "↑ 65,000: 18,5%"
   ],
   "numeros": [
    {
-    "valor": "69,0%",
-    "rotulo": "↑ 62,500"
-   },
-   {
-    "valor": "44,5%",
+    "valor": "57,5%",
     "rotulo": "↓ 57,500"
    },
    {
-    "valor": "30,5%",
-    "rotulo": "↑ 65,000"
+    "valor": "45,5%",
+    "rotulo": "↑ 62,500"
    },
    {
-    "valor": "22,8%",
+    "valor": "28,8%",
     "rotulo": "↓ 55,000"
+   },
+   {
+    "valor": "18,5%",
+    "rotulo": "↑ 65,000"
    }
   ],
-  "destaque": "69,0%",
+  "destaque": "57,5%",
   "gancho": "*Otimismo em alta* para o Bitcoin",
   "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
   "categoria": "Previsões",
@@ -3957,58 +5538,58 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p1",
-  "atualizadoEm": "2026-11-24T02:30:55-03:00"
+  "atualizadoEm": "2026-11-24T17:21:41-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 50.5% de chance de Ethereum ultrapassar 1,800.",
-  "resumo": "Há uma expectativa moderada de alta para o Ethereum em novembro de 2026, conforme as apostas do mercado.",
+  "titulo": "Mercado de previsões vê 86.5% de chance de Ethereum acima de 1,700 em novembro",
+  "resumo": "As probabilidades apontam para uma valorização do Ethereum, refletindo a confiança dos apostadores.",
   "probs": [
    {
-    "opcao": "↑ 1,800",
-    "prob": 50.5
+    "opcao": "↑ 1,700",
+    "prob": 86.5
    },
    {
     "opcao": "↓ 1,600",
-    "prob": 45.0
+    "prob": 58.5
    },
    {
-    "opcao": "↑ 1,900",
-    "prob": 20.5
+    "opcao": "↑ 1,800",
+    "prob": 35.0
    },
    {
     "opcao": "↓ 1,500",
-    "prob": 17.6
+    "prob": 23.1
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 353 mil",
+  "volume24h": "US$ 137 mil",
   "fatos": [
-   "↑ 1,800: 50,5%",
-   "↓ 1,600: 45,0%",
-   "↑ 1,900: 20,5%",
-   "↓ 1,500: 17,6%"
+   "↑ 1,700: 86,5%",
+   "↓ 1,600: 58,5%",
+   "↑ 1,800: 35,0%",
+   "↓ 1,500: 23,1%"
   ],
   "numeros": [
    {
-    "valor": "50,5%",
-    "rotulo": "↑ 1,800"
+    "valor": "86,5%",
+    "rotulo": "↑ 1,700"
    },
    {
-    "valor": "45,0%",
+    "valor": "58,5%",
     "rotulo": "↓ 1,600"
    },
    {
-    "valor": "20,5%",
-    "rotulo": "↑ 1,900"
+    "valor": "35,0%",
+    "rotulo": "↑ 1,800"
    },
    {
-    "valor": "17,6%",
+    "valor": "23,1%",
     "rotulo": "↓ 1,500"
    }
   ],
-  "destaque": "50,5%",
+  "destaque": "86,5%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -4023,7 +5604,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-24T02:30:55-03:00"
+  "atualizadoEm": "2026-11-24T17:21:41-03:00"
  },
  {
   "tipo": "sinal",
