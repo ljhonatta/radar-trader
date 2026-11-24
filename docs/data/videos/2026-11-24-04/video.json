@@ -1,0 +1,412 @@
+{
+ "noticiaId": "2026-11-24-04",
+ "titulo": "Petróleo fecha em alta por ataques no Estreito de Ormuz e tensão geopolítica",
+ "perfil": "@traderjhonatta",
+ "voz": "JBFqnCBsd6RMkjVDRZzb",
+ "modelo": "eleven_v4",
+ "criadoEm": "2026-11-24T17:52:56-03:00",
+ "cenas": [
+  {
+   "cap": "A NOTÍCIA",
+   "narracao": "Petróleo disparou depois de ataques no Estreito de Ormuz. Quer entender o que rolou?",
+   "visual": {
+    "tipo": "cena",
+    "topico": "PETRÓLEO EM ALTA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "barril",
+      "rotulo": "petróleo",
+      "direcao": "sobe",
+      "gatilho": "disparou"
+     }
+    ]
+   },
+   "audio": "cena-01.mp3",
+   "dur": 5.03,
+   "tw": [
+    0.069,
+    0.68,
+    1.12,
+    1.52,
+    1.6,
+    2.08,
+    2.28,
+    2.68,
+    2.84,
+    3.68,
+    3.84,
+    4.2,
+    4.28,
+    4.44
+   ]
+  },
+  {
+   "cap": "A NOTÍCIA",
+   "narracao": "No dia vinte e quatro de novembro, três embarcações foram atingidas por projéteis não identificados.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "ATAQUES EM ORMUZ",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "barril",
+      "rotulo": "petróleo",
+      "direcao": "sobe",
+      "gatilho": "três"
+     },
+     {
+      "tipo": "grupo",
+      "rotulo": "embarcações",
+      "direcao": "cai",
+      "gatilho": "embarcações"
+     },
+     {
+      "tipo": "seta-cima",
+      "rotulo": "riscos aumentam",
+      "direcao": "sobe",
+      "gatilho": "atingidas"
+     }
+    ]
+   },
+   "audio": "cena-02.mp3",
+   "dur": 6.47,
+   "tw": [
+    0.08,
+    0.24,
+    0.48,
+    0.76,
+    0.84,
+    1.2,
+    1.28,
+    2.08,
+    2.32,
+    3.12,
+    3.48,
+    4.0,
+    4.32,
+    4.96,
+    5.12
+   ]
+  },
+  {
+   "cap": "A CONTA",
+   "narracao": "O Brent chegou a noventa e um dólares e quarenta centavos o barril...",
+   "visual": {
+    "tipo": "cena",
+    "topico": "PREÇOS SUBINDO",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "91,40",
+      "rotulo": "Brent US$",
+      "gatilho": "noventa e um"
+     }
+    ]
+   },
+   "audio": "cena-03.mp3",
+   "dur": 4.39,
+   "tw": [
+    0.128,
+    0.2,
+    0.52,
+    0.84,
+    0.96,
+    1.4,
+    1.48,
+    1.68,
+    2.12,
+    2.24,
+    2.72,
+    3.227,
+    3.28
+   ]
+  },
+  {
+   "cap": "A CONTA",
+   "narracao": "Já o WTI fechou a oitenta e dois dólares e cinco centavos. Alta acima de dois por cento!",
+   "visual": {
+    "tipo": "cena",
+    "topico": "PREÇOS SUBINDO",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "82,05",
+      "rotulo": "WTI US$",
+      "direcao": "cai",
+      "gatilho": "oitenta e dois"
+     },
+     {
+      "tipo": "numero",
+      "valor": "2,35%",
+      "rotulo": "alta WTI",
+      "direcao": "sobe",
+      "gatilho": "dois por cento"
+     }
+    ]
+   },
+   "audio": "cena-04.mp3",
+   "dur": 6.95,
+   "tw": [
+    0.2,
+    0.32,
+    0.64,
+    1.36,
+    1.72,
+    1.92,
+    2.36,
+    2.48,
+    2.76,
+    3.28,
+    3.44,
+    3.68,
+    4.72,
+    5.08,
+    5.44,
+    5.56,
+    5.88,
+    6.16
+   ]
+  },
+  {
+   "cap": "O IMPACTO",
+   "narracao": "E sabe o que aconteceu depois? A tensão geopolítica chegou forte, e isso mexe direto no bolso.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "IMPACTO NO MERCADO",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "escudo",
+      "rotulo": "tensão",
+      "direcao": "sobe",
+      "gatilho": "tensão"
+     },
+     {
+      "tipo": "cifrao",
+      "rotulo": "custo energético",
+      "direcao": "cai",
+      "gatilho": "bolso"
+     }
+    ]
+   },
+   "audio": "cena-05.mp3",
+   "dur": 6.71,
+   "tw": [
+    0.128,
+    0.2,
+    0.44,
+    0.52,
+    0.64,
+    1.2,
+    2.12,
+    2.24,
+    2.64,
+    3.4,
+    3.96,
+    4.52,
+    4.64,
+    4.84,
+    5.28,
+    5.6,
+    5.76
+   ]
+  },
+  {
+   "cap": "O IMPACTO",
+   "narracao": "Setores de energia e petróleo ficam mais voláteis, e investidores atentos às mudanças de risco.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "VOLATILIDADE E RISCO",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "pilha",
+      "rotulo": "energia",
+      "direcao": "sobe",
+      "gatilho": "voláteis"
+     },
+     {
+      "tipo": "relogio",
+      "rotulo": "atenção mercado",
+      "direcao": "cai",
+      "gatilho": "investidores"
+     }
+    ]
+   },
+   "audio": "cena-06.mp3",
+   "dur": 6.63,
+   "tw": [
+    0.16,
+    0.64,
+    0.72,
+    1.24,
+    1.36,
+    2.0,
+    2.28,
+    2.6,
+    3.44,
+    3.52,
+    4.4,
+    4.88,
+    5.013,
+    5.56,
+    5.68
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "O Estreito de Ormuz é a porta que entrega mais de vinte por cento do petróleo global.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "POR QUE IMPORTA?",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "mapa",
+      "rotulo": "Estreito de Ormuz",
+      "direcao": "sobe",
+      "gatilho": "Estreito"
+     }
+    ]
+   },
+   "audio": "cena-07.mp3",
+   "dur": 5.51,
+   "tw": [
+    0.064,
+    0.16,
+    0.64,
+    0.72,
+    1.36,
+    1.493,
+    1.6,
+    1.96,
+    2.12,
+    2.52,
+    2.84,
+    3.0,
+    3.28,
+    3.64,
+    3.84,
+    4.0,
+    4.48
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "Quando essa região sofre ataques, o frete aperta, a oferta cai e o preço dispara.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "OFERTA E DEMANDA",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "seta-cima",
+      "rotulo": "preço sobe",
+      "direcao": "sobe",
+      "gatilho": "dispara"
+     },
+     {
+      "tipo": "placa-pare",
+      "rotulo": "restrição",
+      "direcao": "cai",
+      "gatilho": "ataques"
+     }
+    ]
+   },
+   "audio": "cena-08.mp3",
+   "dur": 6.07,
+   "tw": [
+    0.08,
+    0.44,
+    0.68,
+    1.12,
+    1.36,
+    2.187,
+    2.32,
+    2.64,
+    3.333,
+    3.44,
+    4.16,
+    4.427,
+    4.48,
+    4.72,
+    5.08
+   ]
+  },
+  {
+   "cap": "E AGORA",
+   "narracao": "Fique de olho: declarações oficiais e os próximos relatórios serão decisivos para o mercado.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "PRÓXIMOS PASSOS",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "megafone",
+      "rotulo": "declaracões",
+      "direcao": "sobe",
+      "gatilho": "oficiais"
+     },
+     {
+      "tipo": "calendario",
+      "rotulo": "relatórios",
+      "direcao": "cai",
+      "gatilho": "próximos"
+     }
+    ]
+   },
+   "audio": "cena-09.mp3",
+   "dur": 6.47,
+   "tw": [
+    0.08,
+    0.36,
+    0.56,
+    1.2,
+    1.84,
+    2.6,
+    2.72,
+    2.88,
+    3.36,
+    4.0,
+    4.32,
+    5.12,
+    5.24,
+    5.44
+   ]
+  },
+  {
+   "cap": "E AGORA",
+   "narracao": "Quer se informar todo dia sobre o que realmente importa? Então segue aqui para não perder nenhuma novidade!",
+   "visual": {
+    "tipo": "fim",
+    "texto": "Seguir"
+   },
+   "audio": "cena-10.mp3",
+   "dur": 6.95,
+   "tw": [
+    0.08,
+    0.28,
+    0.48,
+    0.96,
+    1.28,
+    1.6,
+    1.84,
+    1.92,
+    2.08,
+    2.56,
+    3.44,
+    3.92,
+    4.24,
+    4.56,
+    4.8,
+    5.04,
+    5.44,
+    6.0
+   ]
+  }
+ ],
+ "legenda": "O petróleo fechou com alta forte após ataques no Estreito de Ormuz. A alta reflete tensões geopolíticas que impactam diretamente o custo da energia e a economia global.\n\nFique atento, porque o mercado pode ficar ainda mais volátil nessas condições. Entenda como eventos geopolíticos mexem com os preços e o que observar para tomar decisões informadas.\n\nFonte: Money Times, Valor Econômico, Times Brasil\n#mercadofinanceiro #petróleo #geopolítica #investimentos #economia"
+}
