@@ -1,5 +1,462 @@
 [
  {
+  "titulo": "Flash lança gestão de combustível integrada a despesas corporativas",
+  "resumo": "Flash lança solução para gerir combustível ligada à plataforma de despesas. Com decreto sobre VR e VA, mira ampliar mercado de gestão de combustível.",
+  "fatos": [
+   "Flash integra gestão de combustível com plataforma de despesas corporativas.",
+   "Decreto do presidente Lula ampliou concorrência nos mercados de VR e VA.",
+   "Sistema permite controle em rede aberta sem depender de rede credenciada.",
+   "Movimentação anual de R$ 250 milhões em despesas com combustível via Flash.",
+   "35% dos clientes usam duas ou mais soluções da Flash.",
+   "Previsão de dobrar participação em gestão de combustível no próximo ano.",
+   "Diretor-geral da unidade de Gestão de Despesas: Daniel Moreira.",
+   "Produto oferece indicadores para identificar desperdícios e acompanhamento ambiental.",
+   "Cartão corporativo é o principal uso para gestão de combustível na Flash."
+  ],
+  "explicacao": [
+   "A Flash, empresa de benefícios corporativos, anunciou uma nova ferramenta de gestão de combustível integrada à sua plataforma corporativa. A solução permite controle de veículos, condutores e regras de abastecimento em rede aberta via cartão corporativo.",
+   "Essa inovação vem após decreto do presidente Lula que abriu a concorrência nos mercados de vale-refeição (VR) e vale-alimentação (VA), movimentando o segmento de benefícios e despesas corporativas.",
+   "Com o sistema, clientes da Flash podem monitorar consumo, identificar desvios e acompanhar metas ambientais relacionadas a combustível, ampliando o controle e a eficiência.",
+   "Para 2027, a Flash projeta dobrar sua participação no mercado de gestão de combustível, que hoje é o principal uso do cartão corporativo entre seus clientes, movimentando cerca de R$ 250 milhões ao ano."
+  ],
+  "detalhes": [
+   "Flash aposta em gestão de combustível dentro de plataforma corporativa integrada.",
+   "Novo sistema controla veículos, condutores e regras de abastecimento sem limitação de rede.",
+   "Iniciativa reflete mudanças legislativas ampliando concorrência nos benefícios VR e VA.",
+   "A empresa administra R$ 250 milhões anuais em despesas com combustível via seu cartão.",
+   "35% dos clientes utilizam mais de uma solução Flash, indicando integração na oferta.",
+   "Para 2027, meta é ampliar participação no mercado de gestão de combustível.",
+   "O produto também oferece análise de consumo e metas ambientais incorporadas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Daniel Moreira, diretor-geral da unidade de Gestão de Despesas da",
+    "oque": "Dados centralizados são essenciais para detectar desvios e promover economia."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2026",
+    "oque": "Flash lança solução integrada de gestão de combustível."
+   },
+   {
+    "quando": "Próximo ano",
+    "oque": "Flash projeta dobrar participação no mercado de gestão de combustível."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "VR (Vale-Refeição)",
+    "significado": "Benefício para refeições oferecido por empresas."
+   },
+   {
+    "termo": "VA (Vale-Alimentação)",
+    "significado": "Benefício para compra de alimentos por empregados."
+   },
+   {
+    "termo": "SaaS",
+    "significado": "Software oferecido pela internet para uso corporativo."
+   }
+  ],
+  "pergunta": "Como a gestão integrada de combustível pode melhorar o controle nas empresas na sua opinião?",
+  "tamanhoTexto": 13697,
+  "numeros": [
+   {
+    "valor": "R$ 250 milhões",
+    "rotulo": "despesas anuais com combustível via cartão Flash"
+   },
+   {
+    "valor": "35%",
+    "rotulo": "clientes que usam mais de uma solução da Flash"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 250 milhões",
+  "porQueImporta": "Conhecer soluções integradas como a da Flash ajuda investidores e operadores a entenderem inovações que prometem eficiência no controle de despesas corporativas, uma área com alto impacto financeiro nas empresas.",
+  "impactoMercado": "A novidade da Flash sinaliza maior competitividade e tecnologia em gestão de despesas e benefícios, podendo influenciar setores de pagamentos corporativos e mobilidade, além de agregar valor a soluções integradas de cartões e softwares SaaS.",
+  "entenda": "Gestão de gastos corporativos envolve controle de despesas feitas por empresas, como combustível e alimentação, usando cartões e softwares que facilitam monitorar e otimizar os gastos.",
+  "observar": "Acompanhe para 2027 o avanço da Flash no mercado de gestão de combustível e possíveis impactos da nova concorrência em VR e VA regulada pelo governo.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia mostra a expansão de soluções tecnológicas para despesas corporativas que investidores e interessados no mercado financeiro devem entender para avaliar tendências e oportunidades, sem prometer ganhos.",
+  "gancho": "Flash aposta em *gestão* e *combustível*",
+  "ideias": [
+   "Flash e gestão integrada de combustível",
+   "Mudanças no mercado de VR e VA impactam Flash",
+   "Cartão corporativo e economia de combustível"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "grafico",
+  "fonte": "Folha Mercado; Money Times; Money Times",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T02:30:55-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/flash-aposta-em-gestao-de-combustivel-e-avanca-em-despesas-corporativas.shtml",
+  "publicadoEm": "2026-11-23T19:30:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-24-01"
+ },
+ {
+  "titulo": "Ações da Braskem disparam com avanço na recuperação extrajudicial",
+  "resumo": "Braskem conseguiu adesão acima de 50% dos credores para avançar na recuperação extrajudicial. A capitalização prevista é de US$ 4,9 bilhões, com aporte de US$ 1,3 bilhão da Petrobras.",
+  "fatos": [
+   "As ações da Braskem (BRKM5) subiram 10,38% na B3 e 27% na NYSE em 23 de outubro.",
+   "Mais de 50% dos credores da Braskem aderiram ao plano de recuperação extrajudicial.",
+   "O plano prevê capitalização de US$ 4,9 bilhões, com US$ 1,3 bilhão da Petrobras.",
+   "A Petrobras detém 47,03% do capital da Braskem.",
+   "Crise atual da Braskem envolve passivos de afundamento de solo em Maceió.",
+   "Dívida remanescente da Braskem deve ficar em torno de US$ 7 bilhões após reestruturação.",
+   "O plano evita que credores assumam controle direto, restringindo direitos de voto.",
+   "Em 24 de agosto, Braskem iniciou recuperação extrajudicial com 39,6% de adesão dos credores.",
+   "Negociações foram difíceis por divergência entre Petrobras e credores sobre aporte e redução de dívida.",
+   "Formalização do plano pode demandar até 20 dias úteis além do prazo inicial de 90 dias."
+  ],
+  "explicacao": [
+   "As ações da Braskem (BRKM5) subiram mais de 10% na B3 e chegaram a saltar 27% na NYSE em 23 de outubro, após o anúncio de que mais da metade dos credores aderiram ao plano de recuperação extrajudicial da empresa.",
+   "Esse plano envolve uma capitalização total de US$ 4,9 bilhões, com aporte imediato de US$ 1,3 bilhão da Petrobras, dona de 47,03% da companhia, e conversão de US$ 3,6 bilhões em dívida dos credores em participação acionária.",
+   "A reestruturação busca reduzir a dívida da Braskem para cerca de US$ 7 bilhões, permitindo que os credores entrem no capital sem assumir controle direto da gestão, aderindo a um acordo de acionistas junto à Petrobras e IG4, mas sem voto.",
+   "O próximo passo é a formalização do plano de recuperação extrajudicial perante a Justiça, que pode pedir até 20 dias úteis adicionais para transformar o acordo comercial em documento jurídico oficial, respeitando o prazo de 90 dias para conclusão."
+  ],
+  "detalhes": [
+   "Petroquímica brasileira Braskem iniciou recuperação extrajudicial em agosto.",
+   "Recuperação extrajudicial permite negociação direta com credores sem passar por recuperação judicial.",
+   "Dívida estimada antes da negociação era cerca de R$ 54 bilhões.",
+   "Crise causada por baixa no setor, endividamento alto e passivos ambientais.",
+   "Credores incluem fundos como Elliott e Contrarian.",
+   "Acordo prevê que credores recebiam ações, mas sem participação na governança.",
+   "A formalização jurídica deve detalhar condições e obrigações dos credores."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Fonte participante das negociações (Brazil Journal)",
+    "oque": "A recuperação judicial seria muito pior para todos, racionalidade prevaleceu no acordo."
+   },
+   {
+    "quem": "Gestor citado por Brazil Journal",
+    "oque": "Se empresa não gerar caixa, dinheiro será consumido rápido e mais capitalização será necessária."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "24 de agosto de 2023",
+    "oque": "Braskem iniciou processo de recuperação extrajudicial com adesão inicial de 39,6% dos credores."
+   },
+   {
+    "quando": "23 de outubro de 2023",
+    "oque": "Braskem alcança adesão superior a 50% dos credores e aprova plano de reestruturação."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Recuperação extrajudicial",
+    "significado": "Negociação direta da empresa com credores para reestruturar dívidas, sem processo judicial."
+   },
+   {
+    "termo": "Capitalização",
+    "significado": "Injeção de recursos financeiros para reforçar o capital da empresa."
+   },
+   {
+    "termo": "Conversão de dívida em ações",
+    "significado": "Transformar valores devidos em participação acionária na empresa."
+   }
+  ],
+  "pergunta": "Você já conhecia o processo de recuperação extrajudicial e seu impacto nas ações?",
+  "tamanhoTexto": 14795,
+  "numeros": [
+   {
+    "valor": "10,38%",
+    "rotulo": "alta das ações BRKM5 na B3 em 23/10"
+   },
+   {
+    "valor": "27%",
+    "rotulo": "pico de alta das ações na NYSE"
+   },
+   {
+    "valor": "47,03%",
+    "rotulo": "participação da Petrobras no capital da Braskem"
+   },
+   {
+    "valor": "US$ 4,9 bilhões",
+    "rotulo": "valor total da capitalização planejada"
+   },
+   {
+    "valor": "US$ 1,3 bilhão",
+    "rotulo": "aporte imediato previsto da Petrobras"
+   },
+   {
+    "valor": "US$ 3,6 bilhões",
+    "rotulo": "conversão de dívidas em ações para credores"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Adesão dos credores",
+    "antes": "39,6%",
+    "depois": "mais de 50%"
+   }
+  ],
+  "destaque": "US$ 4,9 bilhões",
+  "porQueImporta": "A reestruturação da dívida da Braskem evita uma recuperação judicial, que pode ser mais custosa e complexa, fortalecendo a estabilidade financeira da empresa e reduzindo incertezas para investidores e credores do setor petroquímico.",
+  "impactoMercado": "O avanço na recuperação extrajudicial elevou as ações da Braskem e pode melhorar a percepção de risco na petroquímica, influenciando setores ligados a commodities químicas e finanças corporativas, afetando também Petrobras como acionista majoritária.",
+  "entenda": "Recuperação extrajudicial é um processo onde a empresa em dificuldade financeira negocia diretamente com seus credores para reestruturar dívidas, sem precisar entrar na recuperação judicial, que envolve decisões judiciais mais rígidas e processos longos.",
+  "observar": "Fique atento às próximas formalizações jurídicas do plano de recuperação extrajudicial e às decisões da Justiça sobre o prazo adicional para consolidação do acordo, previstas para as próximas semanas.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia explica como funciona a renegociação de dívidas em empresas grandes, um tema essencial para quem quer entender os riscos e oportunidades no mercado financeiro e aprofundar os estudos na faculdade de mercado financeiro.",
+  "gancho": "*Braskem* e recuperação extrajudicial",
+  "ideias": [
+   "Como funciona a recuperação extrajudicial e seu impacto no mercado?",
+   "Por que as ações da Braskem dispararam após acordo com credores?",
+   "Entenda o papel da Petrobras na reestruturação da Braskem"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Empresas",
+  "icone": "alvo",
+  "fonte": "Seu Dinheiro; Money Times; Brazil Journal",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T02:30:55-03:00",
+  "url": "https://www.seudinheiro.com/2026/empresas/alivio-no-radar-acoes-da-braskem-brkm5-disparam-12-com-potencial-avanco-na-reestruturacao-da-divida-lmrs/",
+  "publicadoEm": "2026-11-23T16:11:01-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-24-02"
+ },
+ {
+  "titulo": "Dólar ultrapassa R$ 6 e fecha em queda a R$ 5,93 nesta segunda-feira",
+  "resumo": "Dólar à vista superou R$ 6, mas recuou e fechou em R$ 5,9293. Alta de 8,02% em 2026 reflete preocupações fiscais e expectativas sobre equipe econômica.",
+  "fatos": [
+   "Dólar atingiu R$ 6,006 na máxima do pregão em 23/11/2026.",
+   "Fechamento do dólar foi a R$ 5,9293, queda de 0,05% no dia.",
+   "Moeda americana acumula alta de 8,02% frente ao real no ano de 2026.",
+   "Câmara dos Deputados marcou sessão extraordinária para votar pacote fiscal em 23/11/2026.",
+   "Presidente do Banco Central Gabriel Galípolo defendeu equilíbrio entre política fiscal e monetária.",
+   "Mercado acompanha indicações para o Ministério da Fazenda no governo Lula.",
+   "Banco Central vendeu US$ 1 bilhão em leilão na quinta anterior para tentar conter alta.",
+   "Projeção do IPCA para 2027 subiu de 5% para 5,12% segundo Boletim Focus.",
+   "Expectativa da Selic subiu de 12,75% para 13%.",
+   "Dólar em alta pressiona preços e dificulta cortes futuros de juros no Brasil."
+  ],
+  "explicacao": [
+   "O dólar à vista chegou a ultrapassar a marca de R$ 6 durante o pregão do dia 23 de novembro de 2026, atingindo a máxima de R$ 6,006, antes de recuar e fechar em R$ 5,9293, queda de 0,05%.",
+   "O movimento foi influenciado por preocupações dos investidores com a política fiscal e as contas públicas brasileiras, que elevaram a tensão no câmbio logo cedo. Contudo, especulações sobre nomes favoráveis ao mercado na equipe econômica do presidente Lula ajudaram a conter essa alta.",
+   "Essa oscilação mostra que o mercado está atento tanto aos riscos fiscais quanto às possibilidades de ajustes econômicos que podem ser adotados, refletindo incertezas na condução da política econômica e nas medidas fiscais futuras.",
+   "Para os próximos dias, o foco está na votação do pacote de ajuste fiscal na Câmara dos Deputados e na confirmação dos nomes que irão compor a equipe econômica, elementos que devem seguir impactando a volatilidade do câmbio e as expectativas dos investidores."
+  ],
+  "detalhes": [
+   "Dólar chegou a R$ 6 pela primeira vez desde abril de 2025.",
+   "Alta recente ocorre desde reeleição de Lula, com 16 sessões positivas desde 26/10.",
+   "Presidente Lula afirmou não antecipar nomes da equipe econômica, apesar da pressão do mercado.",
+   "Relator do pacote fiscal na Câmara prepara sugestões para início de dezembro.",
+   "Investidores avaliam se pacote fiscal produzirá resultado duradouro de ajuste nas contas públicas.",
+   "Taxas de juros futuros voltaram a subir após fala do presidente do BC Galípolo com sinal de manutenção da meta de inflação.",
+   "Juros mais altos nos EUA elevam atratividade do dólar e reduzem apetite por ativos de emergentes, como o real."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Gabriel Galípolo, presidente do Banco Central",
+    "oque": "Defendeu equilíbrio entre política fiscal e monetária para preservar programas sociais e revisar regras fiscais."
+   },
+   {
+    "quem": "Luiz Inácio Lula da Silva, presidente do Brasil",
+    "oque": "Disse que está preocupado com o povo e fará o ajuste fiscal que achar adequado, sem se pautar pelo sistema financeiro."
+   },
+   {
+    "quem": "Hugo Motta, presidente da Câmara dos Deputados",
+    "oque": "Convocou sessão extraordinária para votar pacote fiscal com previsão de quórum acima dos 257 votos."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23 de novembro de 2026",
+    "oque": "Dólar ultrapassa R$ 6 pela primeira vez em 19 meses."
+   },
+   {
+    "quando": "23 de novembro de 2026, final",
+    "oque": "Dólar recua e fecha em R$ 5,9293."
+   },
+   {
+    "quando": "Semana de 23 de novembro de",
+    "oque": "Câmara dos Deputados vota pacote fiscal na sessão extraordinária."
+   },
+   {
+    "quando": "Primeira semana de dezembro de 2026",
+    "oque": "Relator do pacote fiscal deve apresentar sugestões ao governo."
+   },
+   {
+    "quando": "8 e 9 de dezembro de",
+    "oque": "Reunião do Federal Reserve para definir taxa de juros nos EUA."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Pacote Fiscal",
+    "significado": "Conjunto de medidas para ajustar as contas públicas e controlar gastos governamentais."
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira, usada pelo Banco Central para controlar a inflação."
+   },
+   {
+    "termo": "Boletim Focus",
+    "significado": "Relatório semanal com previsões do mercado para inflação, juros e câmbio."
+   }
+  ],
+  "pergunta": "Como você acha que o pacote fiscal pode influenciar o dólar e a economia?",
+  "tamanhoTexto": 15933,
+  "numeros": [
+   {
+    "valor": "6,006",
+    "rotulo": "Máxima do dólar em 23/11/2026"
+   },
+   {
+    "valor": "5,9293",
+    "rotulo": "Fechamento do dólar em 23/11/2026"
+   },
+   {
+    "valor": "0,05%",
+    "rotulo": "Queda do dólar no dia 23/11/2026"
+   },
+   {
+    "valor": "8,02%",
+    "rotulo": "Alta acumulada do dólar em 2026"
+   },
+   {
+    "valor": "1,17%",
+    "rotulo": "Alta do dólar próxima à máxima no dia"
+   },
+   {
+    "valor": "1,15%",
+    "rotulo": "Queda do Ibovespa em 23/11/2026"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "IPCA para 2027",
+    "antes": "5%",
+    "depois": "5,12%"
+   },
+   {
+    "item": "Selic para 2027",
+    "antes": "12,75%",
+    "depois": "13%"
+   }
+  ],
+  "destaque": "Dólar ultrapassa R$",
+  "porQueImporta": "A oscilação do dólar reflete a percepção dos investidores sobre os riscos fiscais e as expectativas de políticas econômicas, impactando diretamente o custo de importação, endividamento e inflação para empresas e consumidores no Brasil.",
+  "impactoMercado": "A volatilidade cambial e as dúvidas sobre o ajuste fiscal podem aumentar a pressão sobre juros futuros e bolsas, afetando setores sensíveis ao crédito e consumo, assim como o acesso a investimentos em ativos de países emergentes.",
+  "entenda": "O dólar à vista é o preço que a moeda americana é negociada para entrega imediata. A valorização do dólar ocorre quando investidores temem fatores econômicos locais ou globais, afetando contratos futuros, decisões do Banco Central e custo de importações.",
+  "observar": "Fique atento à votação do pacote fiscal na Câmara, à indicação dos ministros da equipe econômica e à próxima reunião do Fed em dezembro, que podem alterar a direção do dólar e dos juros futuros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia detalha as causas e impactos da oscilação do dólar, explicando decisões econômicas e políticas para quem quer entender mercado financeiro ou atuar como trader ou investidor.",
+  "gancho": "*Dólar* sobe, *fiscal* preocupa",
+  "ideias": [
+   "Entenda por que o dólar passou de R$ 6 hoje",
+   "Impacto do pacote fiscal no câmbio e juros futuros",
+   "O que esperar da equipe econômica de Lula para o mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "BP Money; InvestNews; Exame Invest",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T02:30:55-03:00",
+  "url": "https://bpmoney.com.br/mercado/cambio/dolar-hoje-recua-fecha-5-92-apos-bater-6-maxima/",
+  "publicadoEm": "2026-11-23T18:10:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-24-03"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bitcoin-above-on-november-27-2026",
+  "titulo": "Mercado de previsões vê 98.6% de chance do Bitcoin estar acima de 50,000.",
+  "resumo": "As apostas indicam grande confiança na manutenção do valor do Bitcoin acima do patamar de 50,000.",
+  "probs": [
+   {
+    "opcao": "50,000",
+    "prob": 98.6
+   },
+   {
+    "opcao": "52,000",
+    "prob": 97.5
+   },
+   {
+    "opcao": "54,000",
+    "prob": 94.6
+   },
+   {
+    "opcao": "56,000",
+    "prob": 91.5
+   }
+  ],
+  "prazo": "2026-11-27",
+  "volume24h": "US$ 69 mil",
+  "fatos": [
+   "50,000: 98,6%",
+   "52,000: 97,5%",
+   "54,000: 94,6%",
+   "56,000: 91,5%"
+  ],
+  "numeros": [
+   {
+    "valor": "98,6%",
+    "rotulo": "50,000"
+   },
+   {
+    "valor": "97,5%",
+    "rotulo": "52,000"
+   },
+   {
+    "valor": "94,6%",
+    "rotulo": "54,000"
+   },
+   {
+    "valor": "91,5%",
+    "rotulo": "56,000"
+   }
+  ],
+  "destaque": "98,6%",
+  "gancho": "*Expectativa alta* para Bitcoin",
+  "entenda": "O valor do Bitcoin é afetado por especulações, adoção no mercado e mudanças regulatórias, tornando-o uma opção intrigante.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bitcoin-above-on-november-27-2026",
+  "publicadoEm": "2026-11-24T02:30:55-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-24T02:30:55-03:00",
+  "data": "2026-11-24",
+  "status": "nova",
+  "id": "2026-11-24-p1"
+ },
+ {
   "titulo": "Área econômica sugere nomes favoráveis ao mercado para diretorias do BC",
   "resumo": "A área econômica escolheu nomes 'amigáveis ao mercado' para as diretorias do Banco Central, evitando perfis heterodoxos. A decisão visa reduzir a tensão e ajustar expectativas diante da atual volatilidade do dólar.",
   "fatos": [
@@ -2811,71 +3268,6 @@
   "id": "2026-11-22-11"
  },
  {
-  "tipo": "sinal",
-  "slug": "what-price-will-bitcoin-hit-on-november-22-2026",
-  "titulo": "Mercado indica 36.0% de chance de Bitcoin a ↑ 62,000",
-  "resumo": "Expectativas para o preço do Bitcoin em 22 de novembro de 2026 estão consistentemente em alta.",
-  "probs": [
-   {
-    "opcao": "↑ 62,000",
-    "prob": 36.0
-   },
-   {
-    "opcao": "↑ 63,000",
-    "prob": 10.5
-   },
-   {
-    "opcao": "↓ 58,000",
-    "prob": 7.5
-   },
-   {
-    "opcao": "↓ 57,000",
-    "prob": 3.1
-   }
-  ],
-  "prazo": "2026-11-23",
-  "volume24h": "US$ 622 mil",
-  "fatos": [
-   "↑ 62,000: 36,0%",
-   "↑ 63,000: 10,5%",
-   "↓ 58,000: 7,5%",
-   "↓ 57,000: 3,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "36,0%",
-    "rotulo": "↑ 62,000"
-   },
-   {
-    "valor": "10,5%",
-    "rotulo": "↑ 63,000"
-   },
-   {
-    "valor": "7,5%",
-    "rotulo": "↓ 58,000"
-   },
-   {
-    "valor": "3,1%",
-    "rotulo": "↓ 57,000"
-   }
-  ],
-  "destaque": "36,0%",
-  "gancho": "*Expectativa* de preço do Bitcoin",
-  "entenda": "Os apostadores fazem previsões baseadas em tendências do mercado e eventos futuros que podem impactar o preço do Bitcoin.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-november-22-2026",
-  "publicadoEm": "2026-11-22T18:16:13-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-22T18:16:13-03:00",
-  "data": "2026-11-22",
-  "status": "nova",
-  "id": "2026-11-22-p5"
- },
- {
   "titulo": "Goldman Sachs: Brasil precisa de ajuste de R$ 400 bi para conter dívida",
   "resumo": "Alberto Ramos projeta crescimento de até 0,6% em 2027 e inflação entre 5% e 6%. Banco vê dívida se aproximando de 83% do PIB, podendo superar 90% em 2-3 anos sem ajuste fiscal.",
   "fatos": [
@@ -3504,53 +3896,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 87.5% de chance de Bitcoin abaixo de 60.000 em novembro",
-  "resumo": "Apostas sobre o preço do Bitcoin para novembro de 2026 são predominantemente pessimistas.",
+  "titulo": "Mercado de previsões vê 69.0% de chance do Bitcoin ultrapassar 62,500.",
+  "resumo": "As apostas indicam uma forte expectativa de valorização do Bitcoin até o fim de novembro de 2026.",
   "probs": [
    {
-    "opcao": "↓ 60,000",
-    "prob": 87.5
-   },
-   {
     "opcao": "↑ 62,500",
-    "prob": 65.5
+    "prob": 69.0
    },
    {
     "opcao": "↓ 57,500",
-    "prob": 46.0
+    "prob": 44.5
    },
    {
     "opcao": "↑ 65,000",
-    "prob": 29.5
+    "prob": 30.5
+   },
+   {
+    "opcao": "↓ 55,000",
+    "prob": 22.8
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 1,2 mi",
+  "volume24h": "US$ 1,1 mi",
   "fatos": [
-   "↓ 60,000: 87,5%",
-   "↑ 62,500: 65,5%",
-   "↓ 57,500: 46,0%",
-   "↑ 65,000: 29,5%"
+   "↑ 62,500: 69,0%",
+   "↓ 57,500: 44,5%",
+   "↑ 65,000: 30,5%",
+   "↓ 55,000: 22,8%"
   ],
   "numeros": [
    {
-    "valor": "87,5%",
-    "rotulo": "↓ 60,000"
-   },
-   {
-    "valor": "65,5%",
+    "valor": "69,0%",
     "rotulo": "↑ 62,500"
    },
    {
-    "valor": "46,0%",
+    "valor": "44,5%",
     "rotulo": "↓ 57,500"
    },
    {
-    "valor": "29,5%",
+    "valor": "30,5%",
     "rotulo": "↑ 65,000"
+   },
+   {
+    "valor": "22,8%",
+    "rotulo": "↓ 55,000"
    }
   ],
-  "destaque": "87,5%",
+  "destaque": "69,0%",
   "gancho": "*Otimismo em alta* para o Bitcoin",
   "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
   "categoria": "Previsões",
@@ -3565,58 +3957,58 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p1",
-  "atualizadoEm": "2026-11-23T23:35:27-03:00"
+  "atualizadoEm": "2026-11-24T02:30:55-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 88% de chance do Ethereum cair para 1,700",
-  "resumo": "Os apostadores esperam que o preço do Ethereum diminua em novembro, indicando uma perspectiva cautelosa.",
+  "titulo": "Mercado de previsões vê 50.5% de chance de Ethereum ultrapassar 1,800.",
+  "resumo": "Há uma expectativa moderada de alta para o Ethereum em novembro de 2026, conforme as apostas do mercado.",
   "probs": [
    {
-    "opcao": "↓ 1,700",
-    "prob": 88.0
-   },
-   {
     "opcao": "↑ 1,800",
-    "prob": 59.0
+    "prob": 50.5
    },
    {
     "opcao": "↓ 1,600",
-    "prob": 41.5
+    "prob": 45.0
    },
    {
     "opcao": "↑ 1,900",
-    "prob": 24.5
+    "prob": 20.5
+   },
+   {
+    "opcao": "↓ 1,500",
+    "prob": 17.6
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 580 mil",
+  "volume24h": "US$ 353 mil",
   "fatos": [
-   "↓ 1,700: 88,0%",
-   "↑ 1,800: 59,0%",
-   "↓ 1,600: 41,5%",
-   "↑ 1,900: 24,5%"
+   "↑ 1,800: 50,5%",
+   "↓ 1,600: 45,0%",
+   "↑ 1,900: 20,5%",
+   "↓ 1,500: 17,6%"
   ],
   "numeros": [
    {
-    "valor": "88,0%",
-    "rotulo": "↓ 1,700"
-   },
-   {
-    "valor": "59,0%",
+    "valor": "50,5%",
     "rotulo": "↑ 1,800"
    },
    {
-    "valor": "41,5%",
+    "valor": "45,0%",
     "rotulo": "↓ 1,600"
    },
    {
-    "valor": "24,5%",
+    "valor": "20,5%",
     "rotulo": "↑ 1,900"
+   },
+   {
+    "valor": "17,6%",
+    "rotulo": "↓ 1,500"
    }
   ],
-  "destaque": "88,0%",
+  "destaque": "50,5%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -3631,7 +4023,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-23T18:41:59-03:00"
+  "atualizadoEm": "2026-11-24T02:30:55-03:00"
  },
  {
   "tipo": "sinal",
@@ -5882,71 +6274,6 @@
   "publicadoEm": "2026-11-21T08:23:06-03:00",
   "data": "2026-11-21",
   "id": "2026-11-21-37"
- },
- {
-  "tipo": "sinal",
-  "slug": "what-price-will-ethereum-hit-november-16-22-2026",
-  "titulo": "Mercado vê 81% de chance de Ethereum acima de 1,700",
-  "resumo": "Os apostadores preveem que o Ethereum poderá atingir valores acima de 1,700 entre 16 e 22 de novembro de 2026.",
-  "probs": [
-   {
-    "opcao": "↑ 1,700",
-    "prob": 81.0
-   },
-   {
-    "opcao": "↓ 1,600",
-    "prob": 21.0
-   },
-   {
-    "opcao": "↑ 1,800",
-    "prob": 6.8
-   },
-   {
-    "opcao": "↓ 1,500",
-    "prob": 3.2
-   }
-  ],
-  "prazo": "2026-11-23",
-  "volume24h": "US$ 330 mil",
-  "fatos": [
-   "↑ 1,700: 81,0%",
-   "↓ 1,600: 21,0%",
-   "↑ 1,800: 6,8%",
-   "↓ 1,500: 3,2%"
-  ],
-  "numeros": [
-   {
-    "valor": "81,0%",
-    "rotulo": "↑ 1,700"
-   },
-   {
-    "valor": "21,0%",
-    "rotulo": "↓ 1,600"
-   },
-   {
-    "valor": "6,8%",
-    "rotulo": "↑ 1,800"
-   },
-   {
-    "valor": "3,2%",
-    "rotulo": "↓ 1,500"
-   }
-  ],
-  "destaque": "81,0%",
-  "gancho": "*Expectativas em alta* para Ethereum",
-  "entenda": "As expectativas de preço do Ethereum refletem a confiança dos investidores na plataforma e seu potencial de valorização futura.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/what-price-will-ethereum-hit-november-16-22-2026",
-  "publicadoEm": "2026-11-21T22:34:11-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-21T22:34:11-03:00",
-  "data": "2026-11-21",
-  "status": "nova",
-  "id": "2026-11-21-p1"
  },
  {
   "titulo": "Lula rejeita pressões do mercado e defende ajuste fiscal sem cortar programas sociais",
@@ -18067,365 +18394,6 @@
   "id": "2026-11-17-07"
  },
  {
-  "titulo": "BTG diz que mercado cobra urgência no ajuste fiscal e Lula atenderá",
-  "resumo": "André Esteves, do BTG, afirmou que o mercado exige ajuste fiscal rápido e confia em Lula para entregar o esperado. Ativos caíram e dólar subiu, refletindo preocupação com cenário econômico e equipe futura.",
-  "fatos": [
-   "16 de novembro de 2026: mercado financeiro sinaliza urgência no ajuste fiscal.",
-   "Ibovespa caiu quase 2% no início da semana.",
-   "Dólar subiu 2,12%, fechando em R$ 5,77, maior valor desde abril de 2025.",
-   "André Esteves é presidente do conselho e sócio do BTG Pactual.",
-   "Mansueto Almeida é economista-chefe do BTG e ex-secretário do Tesouro.",
-   "Gasto público nos últimos quatro anos subiu em ritmo dobro do crescimento real do PIB.",
-   "PLP de ajuste fiscal prevê economia de R$ 50 a 60 bilhões em 2027.",
-   "Congresso terá até 120 dias para regulamentar verbas indenizatórias do funcionalismo público.",
-   "Plenário do Senado vota destaques do PLP em 17 de novembro de 2026.",
-   "Presidente em exercício Geraldo Alckmin afirmou que destaca o foco do projeto no equilíbrio fiscal."
-  ],
-  "explicacao": [
-   "Nesta segunda-feira, 16 de novembro de 2026, o presidente do conselho do BTG Pactual, André Esteves, destacou que o mercado financeiro sinalizou necessidade urgente de equilíbrio das contas públicas brasileiras, diante da alta do dólar e queda do Ibovespa em quase 2%.",
-   "A pressão ocorre por causa da piora das expectativas econômicas e incertezas sobre a equipe econômica do governo Lula. Esteves acredita que Lula cumprirá o esperado no ajuste fiscal, promovendo equilíbrio sem romper promessas de campanha.",
-   "O economista-chefe do BTG, Mansueto Almeida, complementou que o governo já tem o diagnóstico correto, mas falta um plano definido. Ele recomenda controlar o crescimento dos gastos públicos, que aumentaram o dobro do PIB real nos últimos quatro anos.",
-   "Para o futuro, espera-se aprovação do projeto de ajuste fiscal no Congresso, com medidas para conter gastos e promover a sustentabilidade das contas, enquanto o mercado segue atento à disposição política e liderança para esse ajuste."
-  ],
-  "detalhes": [
-   "Quem: André Esteves, presidente do conselho do BTG, economista Mansueto Almeida.",
-   "Quando: 16 de novembro de 2026, início da semana.",
-   "O que: mercado reage com alta do dólar e queda de ações por temor fiscal.",
-   "Por que: incertezas sobre equipe econômica do governo Lula e quadro fiscal.",
-   "Como: PLP de ajuste fiscal em tramitação no Senado prevê economizar cerca de R$ 60 bilhões.",
-   "Comparação: gastos públicos cresceram duas vezes mais que economia real nos quatro anos passados.",
-   "Contexto: debate e votação dos destaques do PLP marcada para 17 de novembro."
-  ],
-  "declaracoes": [
-   {
-    "quem": "André Esteves, presidente do conselho do BTG Pactual",
-    "oque": "O mercado demanda urgência no ajuste fiscal e Lula entregará o esperado sem quebrar promessas."
-   },
-   {
-    "quem": "Mansueto Almeida, economista-chefe do BTG",
-    "oque": "O governo tem diagnóstico correto, mas falta convencimento para um plano definido."
-   },
-   {
-    "quem": "Geraldo Alckmin, presidente em exercício",
-    "oque": "As alterações no PLP não esvaziam o foco do ajuste fiscal e não justificam oscilações do dólar."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16/11/2026",
-    "oque": "Mercado reagiu com forte alta do dólar e queda do Ibovespa."
-   },
-   {
-    "quando": "17/11/2026",
-    "oque": "Senado deve concluir votação dos destaques do PLP de ajuste fiscal."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "PLP",
-    "significado": "Projeto de Lei Complementar, um tipo de projeto para mudanças importantes na legislação."
-   },
-   {
-    "termo": "Ajuste fiscal",
-    "significado": "Medidas para equilibrar contas públicas, controlando gastos e receitas."
-   },
-   {
-    "termo": "Déficit primário",
-    "significado": "Quando gastos públicos são maiores que receitas, sem contar juros da dívida."
-   }
-  ],
-  "pergunta": "Como você acha que o ajuste fiscal vai impactar o seu investimento?",
-  "tamanhoTexto": 14640,
-  "numeros": [
-   {
-    "valor": "2%",
-    "rotulo": "queda do Ibovespa no início da semana"
-   },
-   {
-    "valor": "2,12%",
-    "rotulo": "alta do dólar em 16 de novembro de 2026"
-   },
-   {
-    "valor": "R$ 5,77",
-    "rotulo": "fechamento do dólar, maior desde abril de 2025"
-   },
-   {
-    "valor": "R$ 50 a 60 bilhões",
-    "rotulo": "economia prevista no PLP para 2027"
-   },
-   {
-    "valor": "120 dias",
-    "rotulo": "prazo para Congresso regulamentar verbas indenizatórias do funcionalismo"
-   },
-   {
-    "valor": "15%",
-    "rotulo": "aumento real insustentável para o salário mínimo em 4 anos, segundo Mansueto"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 50 a",
-  "porQueImporta": "O ajuste fiscal é essencial para recuperar a confiança do mercado, conter a alta dos juros e combater a instabilidade do câmbio. Para quem investe, entender a necessidade e as formas do ajuste ajuda a interpretar os impactos em ações, renda fixa e dólar no curto e médio prazo.",
-  "impactoMercado": "A sinalização de urgência no ajuste afeta diretamente os setores sensíveis a custo de capital e câmbio, penalizando ativos com exposição interna e valorizando títulos públicos se o ajuste for crível. A incerteza sobre a equipe econômica e o ritmo do ajuste gera volatilidade no Ibovespa e no dólar.",
-  "entenda": "A reforma fiscal busca equilibrar as contas públicas, controlando o crescimento dos gastos para evitar déficits que pressionam juros e câmbio. O PLP (Projeto de Lei Complementar) procura regras para esse ajuste, com metas de economia para evitar que a dívida pública se torne insustentável.",
-  "observar": "Acompanhe a votação dos destaques do PLP no Senado dia 17/11 e o encaminhamento para a Câmara, além de declarações da equipe econômica e indicadores fiscais para entender o rumo do ajuste.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia ajuda a entender a importância do ajuste fiscal para a estabilidade econômica, um tema essencial para quem quer operar ou investir com mais segurança e conhecimento sobre o cenário político e econômico.",
-  "gancho": "*Ajuste Fiscal* em foco",
-  "ideias": [
-   "O que é ajuste fiscal e por que o mercado cobra urgência?",
-   "Como o dólar e a bolsa reagiram à situação fiscal do Brasil?",
-   "Quem são André Esteves e Mansueto Almeida e o que dizem sobre o ajuste?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "Folha Mercado; Valor Econômico; Valor Econômico",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-17T01:10:50-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
-  "publicadoEm": "2026-11-16T19:55:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-17-01"
- },
- {
-  "titulo": "André Lara Resende defende corte da Selic para conter crise da dívida",
-  "resumo": "Economista propõe reduzir Selic com meta entre inflação e crescimento para estabilizar dívida. Sugere também internalizar dólares para fortalecer reservas e coordenação entre política fiscal e monetária.",
-  "fatos": [
-   "Proposta sugere intervalo de Selic entre inflação e crescimento nominal da renda.",
-   "Economista afirma que Estado brasileiro tributa muito e gasta mal.",
-   "Déficit nominal é elevado principalmente pelo serviço da dívida.",
-   "Alta taxa de juros reduz crescimento do PIB e acelera dívida.",
-   "Redução dos gastos públicos agressiva traria recessão, diz Resende.",
-   "Prazos para atingir intervalo de juros sugeridos entre 2 a 4 anos.",
-   "Reserva cambial atual amplificada pela internalização de dólares externa para mais de US$ 400 bilhões.",
-   "Argentina usa política semelhante em condições mais adversas há dois anos.",
-   "Redução da Selic proposta é comparada a ‘forward guidance’, não tabelamento.",
-   "Riscos cambiais podem ser mitigados por coordenação das metas de juros e câmbio."
-  ],
-  "explicacao": [
-   "André Lara Resende, economista e um dos criadores do Plano Real, publicou proposta para reduzir a taxa Selic para níveis inferiores aos atuais, com intervalo definido pelo piso inflacionário e o teto do crescimento nominal da renda. A proposta foi esclarecida em artigo seu no Substack em novembro de 2026.",
-   "Segundo ele, o País enfrenta uma crise fiscal com elevado déficit nominal devido a despesas do serviço da dívida, enquanto o déficit primário é pequeno. A alta Selic prejudica o crescimento do PIB e acelera a dívida, agravando essa trajetória insustentável da dívida/PIB.",
-   "Resende argumenta que cortes profundos em gastos públicos causariam recessão e contrariam a vontade popular, deixando a redução dos juros como única saída para estimular investimentos e conter a crise fiscal. Propõe política de ‘forward guidance’ para comunicar as metas de juros, diferente de tabelamento.",
-   "Além disso, defende internalização de dólares externos mantidos por exportadores, aumentando reservas para mais de US$ 400 bilhões, e política de suavização cambial coordenada com a meta da Selic para reduzir volatilidade e o risco do carry-trade."
-  ],
-  "detalhes": [
-   "O artigo foi publicado em novembro de 2026 no Substack de André Lara Resende.",
-   "O intervalo para taxa Selic visa evitar juros reais negativos e garantir estabilidade da dívida/PIB.",
-   "A política colocaria expectativas sob controle e garantiria a sustentabilidade fiscal.",
-   "Resende rejeita a crítica de a medida ser um tabelamento, ressaltando a comunicação clara das metas.",
-   "O economista enfatiza que o Brasil tem reservas cambiais robustas para proteger o câmbio.",
-   "Sugere revisões regulatórias para internalizar dólares no exterior de exportadores, reforçando reservas.",
-   "Refere-se também ao programa de desregulamentação e simplificação similar ao da Argentina."
-  ],
-  "declaracoes": [
-   {
-    "quem": "André Lara Resende, economista",
-    "oque": "Alta Selic diminui crescimento do PIB e aumenta a dívida, agravando o problema fiscal."
-   },
-   {
-    "quem": "André Lara Resende, economista",
-    "oque": "Reduzir os juros é a única saída para superar o atoleiro fiscal brasileiro."
-   },
-   {
-    "quem": "André Lara Resende, economista",
-    "oque": "A proposta não é tabelamento, mas ‘forward guidance’, comunicação da política monetária."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Novembro de 2026",
-    "oque": "André Lara Resende publica proposta detalhada para reduzir a taxa Selic."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Selic",
-    "significado": "Taxa básica de juros usada pelo Banco Central para controlar a economia."
-   },
-   {
-    "termo": "Forward guidance",
-    "significado": "Comunicação do banco central sobre expectativas futuras de política monetária."
-   },
-   {
-    "termo": "Dívida nominal",
-    "significado": "Total da dívida do governo incluindo juros e amortizações."
-   }
-  ],
-  "pergunta": "Você acha viável reduzir a Selic para ajudar a economia e conter a dívida pública?",
-  "tamanhoTexto": 17802,
-  "numeros": [
-   {
-    "valor": "2 a 4 anos",
-    "rotulo": "prazo sugerido para atingir meta da Selic"
-   },
-   {
-    "valor": "US$ 400 bilhões",
-    "rotulo": "reservas cambiais aumentadas com internalização de dólares"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "redução da Selic",
-  "porQueImporta": "Essa proposta de reduzir a Selic com metas claras indica uma alternativa para equilibrar as contas públicas sem cortar gastos drasticamente. Para investidores e operadores, entender essa articulação mostra como juros, dívida e câmbio podem ser influenciados por políticas coordenadas para sustentabilidade econômica.",
-  "impactoMercado": "Se adotada, a proposta pode diminuir as taxas de juros reais e abrir espaço para investimentos do setor privado. A estabilidade fiscal e maior previsibilidade podem afetar positivamente setores sensíveis ao crédito e ao câmbio, influenciando os ativos financeiros e a confiança no mercado.",
-  "entenda": "A Selic é a taxa básica de juros, usada para controlar a inflação e influenciar o crescimento. Uma 'forward guidance' é uma comunicação do banco central que orienta expectativas futuras sobre juros para dar previsibilidade. Reduzir juros estimula investimentos, ao passo que manter alta a taxa pode frear a economia e aumentar a dívida pública.",
-  "observar": "Fique atento a possíveis decisões do Banco Central e do governo sobre as metas da Selic e medidas fiscais. Acompanhe dados econômicos e comunicados oficiais para entender impactos nos juros e na confiança do mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos como propostas complexas de política monetária podem impactar juros e dívida, ajudando quem quer entender o mercado e a importância da educação para operar melhor.",
-  "gancho": "*Juros* em debate: soluções do Estado",
-  "ideias": [
-   "Entenda a proposta de reduzir a Selic para controlar a dívida",
-   "O que é ‘forward guidance’ e como afeta seus investimentos?",
-   "Como a dívida pública e os juros impactam o mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Juros",
-  "icone": "seta",
-  "fonte": "Valor Econômico; Money Times",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-17T01:10:50-03:00",
-  "url": "https://valor.globo.com/financas/intraday/post/2026/11/andre-lara-resende-diz-que-estado-gasta-mal-e-muito-mas-reduzir-juros-e-unica-saida.ghtml",
-  "publicadoEm": "2026-11-16T21:11:51-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-17-02"
- },
- {
-  "titulo": "André Esteves defende ajuste fiscal sem abandonar promessas sociais",
-  "resumo": "O banqueiro do BTG Pactual afirma que Brasil supera crise fiscal exagerada e que Congresso apoiará medidas. Ele destaca possível equilíbrio entre finanças públicas e programas sociais.",
-  "fatos": [
-   "Ibovespa caiu mais de 2% na segunda-feira (16).",
-   "Dólar chegou próximo a R$ 5,80, maior patamar em 18 meses.",
-   "André Esteves é sócio do BTG Pactual.",
-   "Banqueiro participou do Agro Fórum.",
-   "Esteves compara a crise fiscal a um 'copo d'água'.",
-   "Plano fiscal do governo está em análise, mas mercado cobra medidas mais robustas.",
-   "Há propostas para aumentar tributação sobre dividendos e acabar incentivos a LCIs/LCAs.",
-   "Equipe técnica do governo inclui Geraldo Alckmin e Aloizio Mercadante.",
-   "Banco Central mantém juros elevados reagindo ao cenário fiscal.",
-   "Esteves vê possibilidade de o Congresso apoiar o ajuste fiscal."
-  ],
-  "explicacao": [
-   "Na segunda-feira (16), momentos de alta aversão ao risco recolocaram o ajuste fiscal em debate, com Ibovespa caindo mais de 2% e dólar chegando a R$ 5,80. André Esteves, sócio do BTG Pactual, declarou que o Brasil está exagerando na preocupação com o ajuste fiscal, comparando a situação a um ‘copo d’água’.",
-   "Esteves atribui a tensão à demora na sinalização clara para equilibrar as contas públicas, mesmo com o plano fiscal apresentado pelo governo. Ele também critica a ideia de que responsabilidade fiscal contradiz programas sociais, defendendo que ambos são conciliáveis, independentemente do viés político.",
-   "Para o banqueiro, o Banco Central atua adequadamente ao reagir aos estímulos do cenário fiscal e econômico, funcionando como um 'agente de inteligência artificial'. Além disso, ele vê apoio político para medidas fiscais, citando nomes técnicos do governo como Geraldo Alckmin e Aloizio Mercadante, e espera que o Congresso apoie o ajuste.",
-   "O principal desafio apontado é a liderança política para explicar à sociedade a necessidade do ajuste sem quebrar as promessas de campanha, enfatizando que o equilíbrio fiscal é essencial para o país funcionar como uma casa ou empresa que não pode gastar mais do que arrecada."
-  ],
-  "detalhes": [
-   "O Banco Central funciona respondendo aos estímulos fiscais, segundo Esteves.",
-   "Propostas de cobrança maior sobre dividendos são defendidas por parlamentares do PT.",
-   "O dia 16 indicou forte aversão a risco por incertezas fiscais no mercado.",
-   "Equipe econômica do governo está comprometida com responsabilidade fiscal, segundo o banqueiro.",
-   "André Esteves condena pensamento que avalia mercado como inimigo da sociedade.",
-   "O ajuste previsto pode impactar as contas públicas em até R$ 60 bilhões até 2027.",
-   "Déficit e trajetória da dívida pública são as principais preocupações do mercado financeiro."
-  ],
-  "declaracoes": [
-   {
-    "quem": "André Esteves, sócio do BTG Pactual",
-    "oque": "Brasil se afoga em 'copo d'água' ao adiar ajuste fiscal e precisa agir logo."
-   },
-   {
-    "quem": "André Esteves, sócio do BTG Pactual",
-    "oque": "Finanças equilibradas são obrigação independente da orientação política."
-   },
-   {
-    "quem": "André Esteves, sócio do BTG Pactual",
-    "oque": "Banco Central funciona quase como inteligência artificial, entregando resultado aos parâmetros dados."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16 de outubro de 2023",
-    "oque": "Dia com forte queda do Ibovespa e alta do dólar motivou debate sobre ajuste fiscal."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Aversão ao risco",
-    "significado": "Preferência do investidor por segurança em tempos de incerteza."
-   },
-   {
-    "termo": "Dívida pública",
-    "significado": "Total das dívidas assumidas pelo governo federal."
-   },
-   {
-    "termo": "Plano fiscal",
-    "significado": "Conjunto de medidas para equilibrar receitas e despesas do governo."
-   }
-  ],
-  "pergunta": "Você acredita que é possível equilibrar as contas públicas sem cortar programas sociais?",
-  "tamanhoTexto": 6745,
-  "numeros": [
-   {
-    "valor": "2%",
-    "rotulo": "queda do Ibovespa em 16/10/2023"
-   },
-   {
-    "valor": "R$ 5,80",
-    "rotulo": "valor do dólar em 16/10/2023, maior em 18 meses"
-   },
-   {
-    "valor": "R$ 60 bilhões",
-    "rotulo": "impacto previsto do ajuste fiscal nas contas públicas em 2027"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Ibovespa cai 2%,",
-  "porQueImporta": "O equilíbrio das contas públicas impacta diretamente a estabilidade econômica. Para investidores e operadores, entender que equilíbrio fiscal e programas sociais podem coexistir ajuda a avaliar riscos e reações futuras do mercado a medidas governamentais.",
-  "impactoMercado": "A percepção quanto ao ajuste fiscal influencia ações brasileiras e câmbio, afetando setores sensíveis a juros e crédito. Apoio político ao ajuste pode estabilizar projeções para a dívida, reduzindo volatilidade em renda variável e câmbio.",
-  "entenda": "O ajuste fiscal é o conjunto de medidas para controlar as contas públicas, evitando gastos acima da receita e mantendo a dívida pública sustentável. Isso evita crises de confiança do investidor e flutuações bruscas em mercados como Bolsa e dólar.",
-  "observar": "Fique atento às próximas sinalizações do governo e do Congresso sobre o projeto de ajuste fiscal e seus impactos no orçamento previsto para 2027.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes",
-   "Empresários",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "A notícia explica debates cruciais sobre ajuste fiscal que afetam ativos e juros, convidando seguidores a entenderem a relação entre políticas públicas e mercado, mostrando a faculdade como fonte para aprofundar esse conhecimento.",
-  "gancho": "*Ajuste Fiscal* em Debate",
-  "ideias": [
-   "Por que o ajuste fiscal é comparado a um copo d’água?",
-   "Como equilíbrio fiscal e programas sociais podem coexistir?",
-   "Impactos do aumento da tributação sobre dividendos no mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "Seu Dinheiro",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-17T01:10:50-03:00",
-  "url": "https://www.seudinheiro.com/2026/economia/ajuste-fiscal-sem-drama-esteves-diz-que-brasil-se-afoga-em-copo-dagua-e-ve-solucao-ao-alcance-rnda/",
-  "publicadoEm": "2026-11-16T18:01:26-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-17-03"
- },
- {
   "tipo": "sinal",
   "slug": "bank-of-brazil-decision-in-december-20260918",
   "titulo": "Bank of Brazil decision in December?",
@@ -18554,1798 +18522,5 @@
   "data": "2026-11-17",
   "status": "nova",
   "id": "2026-11-17-p2"
- },
- {
-  "titulo": "HSBC alerta para risco do dólar voltar a R$ 6,30 com incertezas fiscais",
-  "resumo": "HSBC aponta risco de nova disparada do dólar até R$ 6,30 por incertezas fiscais no Brasil e desaceleração econômica em 2027.",
-  "fatos": [
-   "Joseph Incalcaterra é diretor de estratégia macro para a América Latina do HSBC.",
-   "O valor R$ 6,30 foi a máxima intradiária nominal do dólar em dezembro de 2024.",
-   "A entrevista foi dada ao Valor Econômico durante a passagem do executivo pelo Brasil.",
-   "A possibilidade de piora no Orçamento de 2027 contribui para a instabilidade.",
-   "Dezembro é um mês tradicional para remessas de dividendos ao exterior.",
-   "Investidores internacionais estão cautelosos diante do cenário brasileiro.",
-   "O real está mais vulnerável devido à desaceleração econômica prevista.",
-   "O alerta foi publicado em 16/11/2026 pelo Times Brasil."
-  ],
-  "explicacao": [
-   "O diretor de estratégia macro para a América Latina do HSBC, Joseph Incalcaterra, alertou que o dólar pode voltar a subir até R$ 6,30, valor registrado em dezembro de 2024.",
-   "Esse risco está ligado à deterioração das expectativas fiscais brasileiras e à desaceleração econômica prevista para 2027, que tornam o real mais vulnerável.",
-   "Além disso, a proximidade de dezembro, quando há remessas de dividendos ao exterior, pode reforçar a pressão sobre a moeda brasileira no câmbio.",
-   "Investidores estrangeiros vêm demonstrando cautela ao assumir posições no real, com comparações constantes à crise cambial de dois anos atrás."
-  ],
-  "detalhes": [
-   "O alerta foi dado em novembro de 2026, no contexto da preparação do Orçamento de 2027.",
-   "O dólar atingiu R$ 6,30 na máxima intradiária de dezembro de 2024, referência para a preocupação.",
-   "A expectativa fiscal brasileira se deteriora devido a dúvidas sobre o orçamento e a situação econômica.",
-   "O diretor do HSBC mencionou que o tema da alta do dólar está presente na mente dos investidores.",
-   "Remessas de dividendos ao exterior no final do ano influenciam a pressão sobre o câmbio.",
-   "O cenário gera cautela entre investidores estrangeiros que operam ou pretendem operar no mercado brasileiro.",
-   "Há um paralelo frequente na comparação do cenário atual com a crise cambial de 2024."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Joseph Incalcaterra, diretor de estratégia macro para América Latina do",
-    "oque": "O tema da alta do dólar está muito presente na cabeça dos investidores agora."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "dezembro de 2024",
-    "oque": "Dólar atingiu R$ 6,30 na máxima intradiária nominal."
-   },
-   {
-    "quando": "novembro de 2026",
-    "oque": "HSBC alerta sobre risco de novo salto do dólar ao redor de R$ 6,30."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "máxima intradiária nominal",
-    "significado": "Maior valor do dólar em um dia, sem ajuste pela inflação."
-   },
-   {
-    "termo": "expectativas fiscais",
-    "significado": "Percepção dos investidores sobre a saúde das contas públicas."
-   }
-  ],
-  "pergunta": "Você acha que o dólar chegará novamente perto de R$ 6,30?",
-  "tamanhoTexto": 1771,
-  "numeros": [
-   {
-    "valor": "6,30",
-    "rotulo": "máxima intradiária nominal do dólar em dezembro de 2024"
-   },
-   {
-    "valor": "2027",
-    "rotulo": "ano do Orçamento com incertezas fiscais apontadas"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "dólar a R$",
-  "porQueImporta": "Para quem investe ou opera, a volatilidade cambial aumenta o risco e a incerteza, especialmente para ativos e operações atreladas ao dólar. Entender os fatores que podem desvalorizar o real ajuda a planejar estratégias e acompanhar o impacto de políticas fiscais no mercado.",
-  "impactoMercado": "A pressão de valorização do dólar pode afetar setores expostos a câmbio, aumentar o custo de financiamentos e influenciar juros. Investidores podem reduzir a exposição ao real e buscar proteção cambial, impactando ações, renda fixa e outros ativos financeiros brasileiros.",
-  "entenda": "O dólar cambial reflete o valor da moeda americana em relação ao real. Desvalorização do real significa que o dólar fica mais caro, impactando importações, dívidas e investimentos. Expectativas fiscais e economia influenciam a confiança dos investidores, afetando diretamente o câmbio.",
-  "observar": "Acompanhe a aprovação do Orçamento de 2027 e a movimentação do dólar em dezembro, período de alta remessa de dividendos, para entender a evolução do cenário cambial.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra a importância de entender o impacto das políticas fiscais e movimentos cambiais para quem quer operar ou investir na bolsa, reforçando a necessidade de conhecimento sólido em mercado financeiro.",
-  "gancho": "Risco *dólar* e *real* em alta",
-  "ideias": [
-   "Por que o dólar pode voltar a R$ 6,30?",
-   "Impacto das incertezas fiscais no câmbio em 2027",
-   "Como a alta do dólar afeta seus investimentos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T20:50:26-03:00",
-  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/dolar-pode-voltar-a-r-6-com-incerteza-fiscal/",
-  "publicadoEm": "2026-11-16T20:15:10-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-10"
- },
- {
-  "titulo": "Ajuste fiscal insuficiente pode levar Brasil à recessão em 2027, alerta ex-secretário",
-  "resumo": "Carlos Kawall, economista e ex-secretário do Tesouro, alerta que falta de medidas fiscais profundas aumenta risco de recessão no Brasil em 2027. Plano fiscal do governo, com impacto de até R$ 60 bilhões, é considerado insuficiente para conter a expansão da dívida pública.",
-  "fatos": [
-   "Carlos Kawall é economista, sócio da Oriz Partners e ex-secretário do Tesouro Nacional.",
-   "O plano fiscal anunciado tem impacto estimado de até R$ 60 bilhões em 2027.",
-   "A dívida pública do Brasil pode subir de 76% do PIB em 2026 para até 90% do PIB em 2028.",
-   "O dólar pode chegar a R$ 6 nesta semana, segundo Kawall.",
-   "O Plano Moretti não compensa os aumentos de gastos pré-eleitorais.",
-   "O pacote fiscal atual não é suficiente para reduzir as taxas de juros.",
-   "A inflação projetada para 2027 vem aumentando, enquanto as estimativas de crescimento perdem força.",
-   "Há risco de recessão, crise de crédito e alta do desemprego já no próximo ano.",
-   "O cenário internacional com juros altos nos EUA dificulta a recuperação brasileira."
-  ],
-  "explicacao": [
-   "O economista Carlos Kawall, sócio da Oriz Partners e ex-secretário do Tesouro Nacional, advertiu que a ausência de reformas estruturais para controlar a dívida pública pode levar o Brasil à recessão já em 2027. Ele avaliou que o plano fiscal atual não resolve os desequilíbrios das contas públicas.",
-   "O chamado Plano Moretti, que prevê impacto fiscal de até R$ 60 bilhões em 2027, não compensa o aumento de gastos pré-eleitorais e é neutralizado por expansões em despesas obrigatórias. A resistência política, especialmente do PT, dificulta uma revisão efetiva dos gastos.",
-   "Essa situação eleva a desconfiança dos investidores, mantém os juros elevados e dificulta a recuperação econômica. Kawall destaca que a ausência de sinais claros sobre a equipe econômica e a agenda fiscal piora a volatilidade do mercado e o cenário macroeconômico.",
-   "O economista prevê que, sem medidas fiscais concretas ainda em 2026, a economia brasileira pode enfrentar contração continuada, aumento do desemprego e crise de crédito. Fatores externos, como a valorização do dólar e alta dos juros nos EUA, também reduzem a capacidade de resposta do Brasil."
-  ],
-  "detalhes": [
-   "Carlos Kawall concedeu entrevista ao Times Brasil em 16 de novembro de 2026.",
-   "O economista criticou a ausência de medidas estruturais no ajuste fiscal do governo.",
-   "Ele mencionou a resistência do PT até a medidas moderadas e a defesa de novas tributações.",
-   "O pacote prevê ajustes que não aliviam o aumento das despesas obrigatórias, como reajustes sociais.",
-   "A dívida pública prevista para 2026 era de 76% do PIB, podendo atingir 83% em 2027 e 90% em 2028.",
-   "A valorização recente do dólar e juros americanos altos pressionam a economia brasileira.",
-   "Kawall enfatizou que o arcabouço fiscal criado em 2023 não consegue estabilizar a dívida."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Carlos Kawall, economista e ex-secretário do Tesouro Nacional",
-    "oque": "O plano fiscal atual não resolve os desequilíbrios e pode acelerar a recessão em 2027."
-   },
-   {
-    "quem": "Carlos Kawall, economista e ex-secretário do Tesouro Nacional",
-    "oque": "Não há apoio político para revisão efetiva das despesas públicas no Brasil."
-   },
-   {
-    "quem": "Carlos Kawall, economista e ex-secretário do Tesouro Nacional",
-    "oque": "Sem reformas estruturais, juros vão continuar altos e a atividade econômica vai piorar."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2023",
-    "oque": "Criação do arcabouço fiscal brasileiro apontado como insuficiente."
-   },
-   {
-    "quando": "2026-11-16",
-    "oque": "Entrevista de Carlos Kawall alertando sobre riscos fiscais e recessão."
-   },
-   {
-    "quando": "Fim de 2024",
-    "oque": "Dólar chegou a R$ 6,30 em contexto de dúvidas fiscais."
-   },
-   {
-    "quando": "2027",
-    "oque": "Previsão crítica sobre recessão e alta da dívida pública."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dívida Pública",
-    "significado": "Total que o governo deve em relação ao PIB."
-   },
-   {
-    "termo": "Ajuste Fiscal",
-    "significado": "Medidas para equilibrar receitas e despesas do governo."
-   },
-   {
-    "termo": "Recessão",
-    "significado": "Queda prolongada da atividade econômica."
-   }
-  ],
-  "pergunta": "Você acredita que o Brasil conseguirá fazer um ajuste fiscal eficaz para evitar a recessão?",
-  "tamanhoTexto": 5862,
-  "numeros": [
-   {
-    "valor": "R$ 60 bilhões",
-    "rotulo": "Impacto fiscal estimado do pacote em 2027"
-   },
-   {
-    "valor": "76%",
-    "rotulo": "Dívida pública projetada para o fim de 2026 (% do PIB)"
-   },
-   {
-    "valor": "83%",
-    "rotulo": "Dívida pública prevista para 2027 (% do PIB, segundo estimativa)"
-   },
-   {
-    "valor": "90%",
-    "rotulo": "Dívida pública estimada para 2028 (% do PIB)"
-   },
-   {
-    "valor": "R$ 6",
-    "rotulo": "Possível valor do dólar nesta semana"
-   },
-   {
-    "valor": "-0,86%",
-    "rotulo": "Queda do PIB no trimestre, segundo prévia recente"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 60 bilhões",
-  "porQueImporta": "Esse alerta de ajuste fiscal insuficiente é crucial para investidores e operadores, pois mostra que a falta de medidas para controlar gastos pode elevar juros e aumentar o risco de recessão. Conhecer esses riscos ajuda a entender a volatilidade do mercado e a importância de acompanhar a política fiscal.",
-  "impactoMercado": "O cenário apontado pode pressionar juros e dólar, influenciar setores sensíveis a crédito e consumo, e impactar o Ibovespa. Investidores devem observar a definição da equipe econômica e medidas fiscais que poderão mudar a confiança do mercado e a dinâmica econômica.",
-  "entenda": "A dívida pública é o total que o governo deve, e se cresce sem controle, pode aumentar os juros e racionar crédito. O ajuste fiscal é o conjunto de medidas para equilibrar as contas públicas e evitar crises. Se for fraco, o risco de recessão e instabilidade financeira aumenta.",
-  "observar": "Fique atento às definições do ministério da Fazenda, novos pacotes fiscais, divulgação das contas públicas nos próximos meses e sinais internacionais como alta dos juros nos EUA e valorização do dólar para avaliar o impacto no mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Esta notícia explica os desafios fiscais brasileiros e os riscos que enfrentamos, mostrando a importância de compreender política econômica para operar com mais segurança e conhecer estratégias para lidar com volatilidade.",
-  "gancho": "*Ajuste fiscal* e *recessão* em 2027",
-  "ideias": [
-   "O que é ajuste fiscal e por que importa em 2027?",
-   "Risco de recessão no Brasil: sinais do mercado em 2026",
-   "Dívida pública em alta: impactos no seu investimento"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T20:50:26-03:00",
-  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/ajuste-fiscal-insuficiente-eleva-risco-de-recessao-em-2027/",
-  "publicadoEm": "2026-11-16T20:07:57-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-11"
- },
- {
-  "titulo": "XP anuncia R$ 1,3 bi em dividendos e recompra de ações até 2027",
-  "resumo": "XP pagará US$ 0,46 por ação Classe A em 17/dez/2026 e cancelará 11,69 mi ações. Novo programa permite recompra de até R$ 1,5 bi até nov/2027.",
-  "fatos": [
-   "XP pagará US$ 0,46 por ação Classe A em 17/12/2026.",
-   "Distribuição total estimada em R$ 1,3 bilhão no câmbio atual.",
-   "Cancelarão 11,69 milhões de ações Classe A em tesouraria.",
-   "Ações em circulação caem de 509,7 mi para 498 mi após cancelamento.",
-   "Novo programa de recompra com limite de R$ 1,5 bilhão até 18/11/2027.",
-   "Lucro líquido ajustado da XP no 3T26 foi de R$ 1,38 bilhão.",
-   "Ativos totais de clientes da XP atingiram R$ 2,24 trilhões no 3T26.",
-   "Recursos para recompra já estão disponíveis em caixa.",
-   "Programa pode ser revisto conforme cenário de mercado.",
-   "Recompras seguirão regras da SEC, incluindo normas 10b-18 e 10b5-1."
-  ],
-  "explicacao": [
-   "A XP Inc. divulgou um pacote para remunerar acionistas, incluindo pagamento de dividendos de US$ 0,46 por ação Classe A em 17 de dezembro de 2026, equivalente a cerca de R$ 1,3 bilhão no câmbio atual. Apenas acionistas registrados até 9 de dezembro poderão receber.",
-   "Além disso, a companhia aprovou o cancelamento de 11,69 milhões de ações em tesouraria, o que reduz o total em circulação para aproximadamente 498 milhões, diminuindo o capital social em 2,3%.",
-   "Para reforçar a estratégia de alocação de capital, a XP criou um programa de recompra de ações com limite de até R$ 1,5 bilhão e validade até 18 de novembro de 2027, podendo comprar papéis no mercado aberto ou privado.",
-   "O programa pode ser ajustado conforme cenário de mercado e tem respaldo nos resultados do 3º trimestre de 2026, período em que a XP reportou lucro líquido ajustado de R$ 1,38 bilhão e ativos totais de clientes de R$ 2,24 trilhões."
-  ],
-  "detalhes": [
-   "Pagamento dos dividendos: 17 de dezembro de 2026 para acionistas até 9 de dezembro.",
-   "Cancelamento reduz ações em tesouraria em 2,3% do capital total.",
-   "Recompra permite compra em mercado aberto ou privado, via corretora contratada.",
-   "Prazo do programa de recompra é até 18 de novembro de 2027, podendo encerrar antes.",
-   "Conselho aprovou todas as medidas como parte da alocação de capital da empresa.",
-   "Resultados do 3T26 sustentam política de remuneração e crescimento.",
-   "XP segue normas dos EUA para recompra, garantindo conformidade regulatória."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Conselho de Administração da XP",
-    "oque": "Aprovou medidas que alinham crescimento com distribuição de recursos aos acionistas."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16 de novembro de 2026",
-    "oque": "Anúncio do pacote de remuneração e resultados do 3T26."
-   },
-   {
-    "quando": "9 de dezembro de 2026",
-    "oque": "Data-base para acionistas terem direito a dividendos."
-   },
-   {
-    "quando": "17 de dezembro de 2026",
-    "oque": "Pagamento dos dividendos de US$ 0,46 por ação Classe A."
-   },
-   {
-    "quando": "18 de novembro de 2027",
-    "oque": "Fim da vigência prevista para o programa de recompra."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dividendos",
-    "significado": "Parte do lucro distribuída aos acionistas."
-   },
-   {
-    "termo": "Recompra de ações",
-    "significado": "Compra de ações pela própria empresa para controlar oferta."
-   },
-   {
-    "termo": "Ações em tesouraria",
-    "significado": "Ações da empresa que foram recompradas e mantidas pela companhia."
-   }
-  ],
-  "pergunta": "Você já investe em ações que pagam dividendos e fazem recompra? Por quê?",
-  "tamanhoTexto": 5077,
-  "numeros": [
-   {
-    "valor": "0,46",
-    "rotulo": "Dividendos em dólares por ação Classe A"
-   },
-   {
-    "valor": "1,3 bilhão",
-    "rotulo": "Valor aproximado em reais dos dividendos"
-   },
-   {
-    "valor": "11,69 milhões",
-    "rotulo": "Ações Classe A canceladas em tesouraria"
-   },
-   {
-    "valor": "2,3%",
-    "rotulo": "Porcentagem do capital total de ações canceladas"
-   },
-   {
-    "valor": "1,5 bilhão",
-    "rotulo": "Limite máximo para recompra em reais"
-   },
-   {
-    "valor": "1,38 bilhão",
-    "rotulo": "Lucro líquido ajustado no 3T26 (reais)"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Ações em circulação",
-    "antes": "509,7 milhões",
-    "depois": "498 milhões"
-   }
-  ],
-  "destaque": "R$ 1,3 bilhão",
-  "porQueImporta": "Esse pacote é relevante para acionistas e investidores porque demonstra como a XP está usando seu lucro para remunerar acionistas e fortalecer seu capital, com ações de dividendos, recompra e cancelamento que podem impactar o valor das ações e a liquidez no mercado.",
-  "impactoMercado": "A recompra e o cancelamento de ações podem reduzir a quantidade de papéis disponíveis, influenciando a dinâmica de oferta e demanda, enquanto o pagamento dos dividendos direto na Nasdaq pode atrair investidores internacionais, beneficiando o mercado financeiro e a percepção sobre a XP.",
-  "entenda": "Dividendos são parcelas de lucro distribuídas aos acionistas como remuneração. Recompra é quando a empresa compra suas próprias ações para controlar o número em circulação, o que pode valorizar os papéis. Cancelar ações reduz o capital social da empresa, influenciando o preço das ações.",
-  "observar": "Fique atento ao pagamento dos dividendos em 17/12/2026 e ao prazo do programa de recompra até 18/11/2027, que podem afetar o volume e preço das ações no mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicamos um caso real de remuneração aos acionistas pela XP, mostrando como ações como dividendos e recompra funcionam e influenciam o mercado, incentivando o entendimento do mercado financeiro e o interesse por formação especializada.",
-  "gancho": "*XP* paga R$ 1,3 bi aos acionistas",
-  "ideias": [
-   "Como funcionam dividendos e recompra? Entenda com XP",
-   "XP anuncia recompra de ações: o que muda para o investidor",
-   "XP paga R$ 1,3 bi em dividendos: por que isso importa"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Dividendos",
-  "icone": "foguete",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T20:50:26-03:00",
-  "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/xp-dividendos-r-13-bilhao-recompra-acoes/",
-  "publicadoEm": "2026-11-16T18:16:58-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-12"
- },
- {
-  "titulo": "Regulação das big techs pode reduzir custos em até R$ 50,6 bilhões",
-  "resumo": "Estudo do Ministério da Fazenda aponta que a regulação das big techs pode reduzir custos entre R$ 15,3 bi e R$ 50,6 bi por ano no Brasil, representando até 0,4% do PIB e afetando empresas como Google, Meta e Amazon.",
-  "fatos": [
-   "Estudo divulgado em 16 de novembro de 2026 pela Secretaria de Reformas Econômicas.",
-   "Redução potencial de custos estimada entre R$ 15,3 bilhões e R$ 50,6 bilhões anuais.",
-   "Proposta está em tramitação na Câmara dos Deputados, Projeto de Lei 4.675/2025.",
-   "Estimativa equivale a 0,1% a 0,4% do PIB brasileiro e R$ 70 a R$ 240 por habitante ao ano.",
-   "Faturamento das plataformas digitais foi de R$ 410 bilhões em 2025, 3,2% do PIB.",
-   "Segmentos avaliados: meios de pagamento, publicidade digital, computação em nuvem, apps de transporte e inteligência artificial.",
-   "Projeto prevê fiscalização reforçada do Cade sobre big techs com faturamento superior a R$ 50 bilhões no mundo ou R$ 5 bilhões no Brasil.",
-   "Relator da proposta é deputado Aliel Machado (PV-PR), que mira votação ainda em 2026.",
-   "Redução estimada de preços varia de 10% a 33% nos segmentos analisados.",
-   "Governos da União Europeia, Reino Unido, Alemanha, Japão e Coreia do Sul já adotaram regulação similar."
-  ],
-  "explicacao": [
-   "A Secretaria de Reformas Econômicas do Ministério da Fazenda divulgou um estudo em 16 de novembro de 2026 sobre os impactos da regulação concorrencial das big techs, estimando uma redução de custos no Brasil entre R$ 15,3 bilhões e R$ 50,6 bilhões por ano. A proposta visa empresas como Google, Meta, Amazon e Microsoft, e está em tramitação na Câmara dos Deputados.",
-   "O estudo analisa o Projeto de Lei 4.675/2025, que cria novos instrumentos para o Cade fiscalizar e regular grandes grupos econômicos digitais. A estimativa considera efeitos diretos da ampliação da concorrência sobre preços e taxas cobrados nos segmentos mais suscetíveis a problemas concorrenciais, como meios de pagamento, publicidade digital, computação em nuvem e apps de transporte.",
-   "O impacto econômico estimado equivale a 0,1% a 0,4% do PIB brasileiro, ou entre R$ 70 e R$ 240 por habitante anualmente. A expectativa é que a maior concorrência reduza taxas de intermediação e custos de serviços digitais usados por diversos setores, beneficiando também pequenos negócios que dependem desses serviços.",
-   "O projeto ainda aguarda votação na Câmara, com previsão para ser votado em 2026, devendo passar pelo Senado. Exemplos internacionais, como União Europeia e Japão, já adotaram regulações similares para ampliar a concorrência digital. Os próximos passos incluem debates políticos e eventuais ajustes na proposta para garantir a preservação da concorrência e inovação."
-  ],
-  "detalhes": [
-   "O estudo foi elaborado pela Secretaria de Reformas Econômicas do Ministério da Fazenda.",
-   "Projeto de Lei 4.675/2025 é de iniciativa do governo federal para regulamentar plataformas digitais.",
-   "A proposta prevê critérios para identificar empresas que terão obrigações adicionais no Cade.",
-   "Critérios incluem faturamento anual superior a R$ 50 bilhões globalmente ou R$ 5 bilhões no Brasil.",
-   "As condições para a aplicação das obrigações adicionais serão avaliadas individualmente pelo Cade.",
-   "O projeto não prevê controle direto de preços, mas reduz barreiras e amplia concorrência.",
-   "A votação está prevista para ocorrer na Câmara ainda em 2026, em regime de urgência."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Regis Dudena, secretário de Reformas Econômicas",
-    "oque": "A proposta ajudará a distribuir melhor os ganhos econômicos gerados pelas plataformas."
-   },
-   {
-    "quem": "Aliel Machado, deputado federal e relator do projeto",
-    "oque": "Trabalha para ampliar apoio político e manter a lógica da proposta sem comprometer objetivos."
-   },
-   {
-    "quem": "Paulo Pimenta, líder do governo na Câmara",
-    "oque": "Tem interesse em pautar o projeto e criar condições para sua aprovação."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2025",
-    "oque": "Faturamento agregado das plataformas digitais foi estimado em R$ 410 bilhões no Brasil."
-   },
-   {
-    "quando": "16 de novembro de 2026",
-    "oque": "Divulgação do estudo pelo Ministério da Fazenda sobre impactos da regulação das big techs."
-   },
-   {
-    "quando": "17 de novembro de 2026",
-    "oque": "Previsão de votação do PL 4.675/2025 na Câmara dos Deputados."
-   },
-   {
-    "quando": "até fim de 2026",
-    "oque": "Objetivo do governo para aprovação da proposta no Congresso Nacional."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Big techs",
-    "significado": "Grandes empresas de tecnologia que dominam setores digitais."
-   },
-   {
-    "termo": "Cade",
-    "significado": "Conselho Administrativo de Defesa Econômica, órgão antitruste brasileiro."
-   },
-   {
-    "termo": "Produtos Interno Bruto (PIB)",
-    "significado": "Valor total de bens e serviços produzidos no país."
-   }
-  ],
-  "pergunta": "Você acredita que essa regulação pode beneficiar o consumidor e as pequenas empresas?",
-  "tamanhoTexto": 7749,
-  "numeros": [
-   {
-    "valor": "R$ 15,3 bilhões a R$ 50,6 bilhões",
-    "rotulo": "Estima redução anual de custos com regulação das big techs"
-   },
-   {
-    "valor": "0,1% a 0,4%",
-    "rotulo": "Porcentagem do PIB brasileiro representada pela redução estimada"
-   },
-   {
-    "valor": "R$ 70 a R$ 240",
-    "rotulo": "Economia por habitante com a regulação, por ano"
-   },
-   {
-    "valor": "R$ 410 bilhões",
-    "rotulo": "Faturamento das plataformas digitais no Brasil em 2025"
-   },
-   {
-    "valor": "3,2%",
-    "rotulo": "Participação das plataformas digitais no PIB brasileiro em 2025"
-   },
-   {
-    "valor": "R$ 50 bilhões",
-    "rotulo": "Faturamento global mínimo para que uma big tech tenha obrigações adicionais"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 15,3 bi",
-  "porQueImporta": "A regulação das big techs pode reduzir custos significativos em diversos setores, beneficiando pequenas e grandes empresas. Isso pode incentivar um ambiente mais competitivo, impactando diretamente os preços e serviços digitais essenciais para negócios e consumidores.",
-  "impactoMercado": "O avanço dessa regulação tende a influenciar o setor de tecnologia, comércio eletrônico e serviços digitais, podendo afetar taxas, preços e acesso. A maior concorrência pode alterar estratégias de grandes empresas e beneficiar investidores atentos aos segmentos regulados.",
-  "entenda": "Big techs são grandes empresas digitais que controlam serviços essenciais como buscas, redes sociais e pagamentos. Regulá-las visa evitar práticas que restringem a concorrência, permitindo melhores preços e opções para consumidores e empresas no mercado digital.",
-  "observar": "Acompanhe as próximas votações na Câmara e Senado sobre o PL 4.675/2025, especialmente eventos ainda previstos para 2026, para entender como a aprovação pode evoluir.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Essa notícia explica o impacto real da regulação digital no Brasil e como ela pode transformar custos e concorrência, mostrando a importância de conhecer o mercado e se preparar para mudanças futuras.",
-  "gancho": "*big techs* e redução de custos",
-  "ideias": [
-   "Como a regulação das big techs pode baratear serviços digitais no Brasil",
-   "Impactos do PL 4.675/2025 para empresas e consumidores digitais",
-   "O papel do Cade na fiscalização das grandes plataformas digitais"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Economia",
-  "icone": "seta",
-  "fonte": "Agência Brasil Economia; Valor Econômico",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T20:50:26-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/regulacao-de-big-techs-pode-reduzir-custos-em-ate-r-50-bilhoes",
-  "publicadoEm": "2026-11-16T19:59:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-13"
- },
- {
-  "titulo": "XP reporta receita e lucro em alta, mas 'new money' desacelera no 3º tri",
-  "resumo": "XP captou R$ 22 bi no 3º tri, receita cresceu 8%, mas despesas subiram 12%. CEO diz captação está dentro do planejado.",
-  "fatos": [
-   "Receita total do 3º tri: R$ 5,34 bilhões, alta de 8% anual.",
-   "Lucro líquido ajustado no 3º tri: R$ 1,382 bilhão, 4% maior que o ano anterior.",
-   "Captação líquida total no tri: R$ 22 bilhões, contra R$ 28 bilhões no tri anterior.",
-   "Captação líquida no varejo: R$ 17 bilhões, abaixo do soft guidance de R$ 20 bilhões trimestrais.",
-   "Despesas gerais cresceram 12%, piorando índice de eficiência de 34,2% para 34,6%.",
-   "Ativos totais sob gestão chegaram a R$ 2,241 trilhões, crescimento anual de 15%.",
-   "XP distribuiu R$ 1,3 bilhão em dividendos e abriu novo programa de recompra de ações de até R$ 1,5 bilhão.",
-   "Banco de atacado cresceu 13%, com receita de R$ 1,2 bilhão no trimestre.",
-   "Número de clientes ativos: 4,8 milhões, aumento de 1%.",
-   "Take rate foi de 1,25% no trimestre, próximo dos 1,24% do ano anterior."
-  ],
-  "explicacao": [
-   "No terceiro trimestre de 2026, a XP teve receita de R$ 5,34 bilhões, um crescimento de 8% em relação ao mesmo período do ano anterior, e lucro líquido ajustado de R$ 1,382 bi, alta de 4% anual. A captação líquida totalizou R$ 22 bilhões, abaixo dos R$ 28 bilhões do trimestre anterior.",
-   "A desaceleração na captação líquida se deu principalmente por uma queda de 24% em 12 meses, com o varejo captando R$ 17 bilhões, ligeiramente abaixo do soft guidance da empresa, que estimava cerca de R$ 20 bilhões por trimestre. As despesas cresceram 12%, acima das receitas, piorando o índice de eficiência para 34,6%.",
-   "Segundo o CEO Thiago Maffra, o resultado está alinhado com o planejamento da XP. Ele ressaltou que a empresa tem ampliado seus negócios além dos investimentos, com 40% do resultado vindo de áreas como banking e banco de atacado, reforçando um modelo mais acíclico.",
-   "Para o próximo ano, a XP prevê crescimento estável dos ativos e mantém a meta de crescimento consolidado ao redor de 10% para 2027, apesar das incertezas macroeconômicas e turbulências nos mercados locais e internacionais."
-  ],
-  "detalhes": [
-   "O CEO da XP é Thiago Maffra, que comentou sobre o resultado e perspectivas.",
-   "A ação da XP caiu 4,2% no fechamento da Nasdaq após os resultados.",
-   "Receitas do varejo representaram 77,3% do total, com destaque para renda fixa e ações.",
-   "A empresa já recomprou R$ 1 bilhão em ações só em 2026.",
-   "O ROE foi de 21,7% no trimestre, ligeiramente inferior aos 22,5% do trimestre anterior.",
-   "Despesas aumentaram devido a bônus e eventos sazonais como a conferência Expert.",
-   "XP estima para 2027 crescimento do PIB em 0,3% e Selic em 13,75%."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Thiago Maffra, CEO da XP",
-    "oque": "A captação de R$ 17 bilhões está dentro do soft guidance de cerca de R$ 20 bilhões."
-   },
-   {
-    "quem": "Thiago Maffra, CEO da XP",
-    "oque": "O negócio está se tornando cada vez mais acíclico, com diversificação de receitas."
-   },
-   {
-    "quem": "Gustavo Alejo, diretor de finanças da XP",
-    "oque": "Há mais um trimestre de volatilidade pela frente, dadas as medidas econômicas do governo."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "XP reporta resultados financeiros do período."
-   },
-   {
-    "quando": "16 de novembro de 2026",
-    "oque": "Divulgação pública dos resultados da XP."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Captação Líquida",
-    "significado": "Dinheiro novo que a empresa recebe dos clientes num período."
-   },
-   {
-    "termo": "Índice de Eficiência",
-    "significado": "Percentual que mostra as despesas em relação à receita."
-   },
-   {
-    "termo": "Take Rate",
-    "significado": "Receita média gerada por cliente."
-   }
-  ],
-  "pergunta": "Como a desaceleração da captação líquida impacta sua visão sobre investimentos na XP?",
-  "tamanhoTexto": 10370,
-  "numeros": [
-   {
-    "valor": "22 bilhões",
-    "rotulo": "captação líquida no 3º tri 2026"
-   },
-   {
-    "valor": "17 bilhões",
-    "rotulo": "captação líquida do varejo no 3º tri"
-   },
-   {
-    "valor": "5,34 bilhões",
-    "rotulo": "receita total no 3º tri"
-   },
-   {
-    "valor": "1,382 bilhão",
-    "rotulo": "lucro líquido ajustado no 3º tri"
-   },
-   {
-    "valor": "12%",
-    "rotulo": "crescimento das despesas"
-   },
-   {
-    "valor": "34,6%",
-    "rotulo": "índice de eficiência atual"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "captação líquida total",
-    "antes": "R$ 28 bilhões no 2º tri 2026",
-    "depois": "R$ 22 bilhões no 3º tri 2026"
-   },
-   {
-    "item": "captação líquida varejo",
-    "antes": "R$ 20 bilhões (soft guidance)",
-    "depois": "R$ 17 bilhões no 3º tri"
-   },
-   {
-    "item": "índice de eficiência",
-    "antes": "34,2% há um ano",
-    "depois": "34,6% no 3º tri 2026"
-   },
-   {
-    "item": "ROE",
-    "antes": "22,5% no 2º tri 2026",
-    "depois": "21,7% no 3º tri 2026"
-   }
-  ],
-  "destaque": "R$ 22 bilhões",
-  "porQueImporta": "A desaceleração na captação líquida e o aumento das despesas impactam diretamente a eficiência e lucratividade da XP, refletindo desafios em ambiente de mercado volátil. Para investidores e operadores, entender essa dinâmica é vital para avaliar riscos e oportunidades no setor financeiro.",
-  "impactoMercado": "O crescimento das receitas junto com despesas elevadas pode pressionar margens e influenciar os preços das ações. A diversificação do negócio e a expansão do banco de atacado indicam mudanças nos setores mais relevantes, afetando ativos e decisões dentro do mercado financeiro.",
-  "entenda": "Captação líquida ou 'net new money' é o dinheiro novo que uma gestora conquista de clientes num período. A eficiência mede o quanto das receitas são consumidas por despesas, mostrando a rentabilidade operacional. Diversificação do negócio indica múltiplas fontes de receita, ajudando a empresa a resistir a crises no mercado.",
-  "observar": "Fique atento aos próximos resultados trimestrais e ao anúncio de programas de recompra e dividendos, além das mudanças macroeconômicas de 2027 que podem afetar o desempenho da XP.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Explicamos como os resultados da XP demonstram desafios e estratégias para se adaptar em mercados voláteis, com foco na diversificação e eficiência, tema essencial para quem quer entender finanças e investir com mais conhecimento.",
-  "gancho": "XP, resultado e *new money*",
-  "ideias": [
-   "O que é captação líquida e por que importa para investidores?",
-   "Entenda a eficiência operacional com o exemplo da XP",
-   "Como a diversificação do negócio ajuda a XP em mercados difíceis"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "grafico",
-  "fonte": "Brazil Journal; Valor Econômico",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T20:50:26-03:00",
-  "url": "https://braziljournal.com/na-xp-despesa-sobe-e-new-money-desacelera-ceo-ve-negocio-cada-vez-mais-aciclico",
-  "publicadoEm": "2026-11-16T20:23:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-14"
- },
- {
-  "titulo": "Portobello renegocia R$ 1 bilhão em dívidas para fortalecer finanças",
-  "resumo": "Portobello negocia R$ 1 bilhão, 75% da dívida de R$ 1,3 bi, para melhorar liquidez. Metade será renegociada com bancos e 45% convertida em ações pelos controladores.",
-  "fatos": [
-   "Dívida total da Portobello é R$ 1,3 bilhão",
-   "R$ 1 bilhão da dívida está sendo renegociado, 75% do total",
-   "55% desse valor (cerca de R$ 550 milhões) será renegociado com bancos",
-   "Prazo médio da dívida passará de 2,4 para 4,9 anos",
-   "Custo da dívida será reduzido de CDI +0,9% para CDI -0,8% ao ano",
-   "45% da dívida (aproximadamente R$ 450 milhões) será convertida em ações",
-   "Patrimônio líquido atual está negativo em R$ 342 milhões",
-   "Dívida líquida no 3º trimestre estava em R$ 1,1 bilhão",
-   "Alavancagem é de 3,82 vezes a relação dívida líquida/Ebitda ajustado",
-   "Receita líquida no 3º trimestre caiu 2,5% para R$ 590 milhões"
-  ],
-  "explicacao": [
-   "A Portobello, fabricante de revestimentos cerâmicos, está reestruturando cerca de R$ 1 bilhão da sua dívida total de R$ 1,3 bilhão, que representa 75% do total. A renegociação inclui postergação de vencimentos e redução do custo da dívida.",
-   "A empresa pretende prorrogar o prazo médio para amortização da dívida de 2,4 para 4,9 anos e reduzir o custo de CDI +0,9% para CDI -0,8% ao ano. Além disso, 45% da dívida será convertida em participação acionária pelos acionistas controladores.",
-   "Essa reestruturação visa aliviar a pressão financeira, já que a Portobello enfrenta queda nas vendas, aumento dos estoques e prejuízos recorrentes, em parte devido ao endividamento elevado e mercado interno fraco.",
-   "A conclusão da renegociação com credores deve ocorrer nas próximas semanas, seguida pela assembleia para aprovar a capitalização, prevista para o primeiro trimestre de 2024, o que espera-se fortalecer o patrimônio líquido e melhorar a classificação de crédito da empresa."
-  ],
-  "detalhes": [
-   "Renegociação envolve bancos como Banco do Brasil, BTG Pactual, Original, Daycoval, Fibra, Safra, BMG e XP",
-   "Capitalização será feita via subscrição privada, com direito de preferência aos minoritários",
-   "Famílias Gomes, Gutierrez, Rebello e Brennand detêm 57,8% das ações",
-   "Venda da marca Pointer para Grupo Almeida ocorreu em setembro",
-   "Queda nas vendas acompanha redução do consumo de materiais de construção pelo endividamento das famílias",
-   "Associação Brasileira da Indústria de Materiais de Construção revisou projeção de crescimento para 0,8% em 2026",
-   "Presidente financeiro, Ronei Gomes, indicou que processo deve ser concluído no começo de 2024"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ronei Gomes, vice-presidente de Finanças da Portobello",
-    "oque": "Esperamos concluir renegociação em poucos dias e capitalização no primeiro trimestre de 2024"
-   },
-   {
-    "quem": "Ronei Gomes",
-    "oque": "Com a reestruturação, vamos sair mais fortes, com patrimônio líquido positivo"
-   },
-   {
-    "quem": "Ronei Gomes",
-    "oque": "Tivemos um dos piores trimestres desde 2017, mercado foi mais difícil que o esperado"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "3º trimestre de 2023",
-    "oque": "Dívida líquida da Portobello estava em R$ 1,1 bilhão"
-   },
-   {
-    "quando": "Setembro de 2023",
-    "oque": "Venda da marca Pointer anunciada"
-   },
-   {
-    "quando": "16 de outubro de 2023",
-    "oque": "Teleconferência revelou andamento das negociações com bancos"
-   },
-   {
-    "quando": "1º trimestre de 2024",
-    "oque": "Previsão para conclusão da capitalização"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Dívida líquida",
-    "significado": "Total de dívidas menos o caixa disponível da empresa"
-   },
-   {
-    "termo": "Ebitda",
-    "significado": "Lucro antes de juros, impostos, depreciação e amortização"
-   },
-   {
-    "termo": "Capitalização",
-    "significado": "Processo de injetar recursos via emissão de ações"
-   }
-  ],
-  "pergunta": "Como você enxerga o impacto da reestruturação da Portobello no setor de revestimentos cerâmicos?",
-  "tamanhoTexto": 4061,
-  "numeros": [
-   {
-    "valor": "R$ 1,3 bilhão",
-    "rotulo": "Dívida total da Portobello"
-   },
-   {
-    "valor": "R$ 1 bilhão",
-    "rotulo": "Parte da dívida em renegociação"
-   },
-   {
-    "valor": "75%",
-    "rotulo": "Porcentagem da dívida total em renegociação"
-   },
-   {
-    "valor": "55%",
-    "rotulo": "Parte da renegociação com bancos"
-   },
-   {
-    "valor": "45%",
-    "rotulo": "Parte convertida em ações"
-   },
-   {
-    "valor": "2,4 anos",
-    "rotulo": "Prazo médio atual para amortização da dívida"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 1 bilhão",
-  "porQueImporta": "A renegociação da dívida da Portobello mostra como empresas do setor enfrentam desafios financeiros com ajuste da estrutura para garantir fôlego e sustentabilidade. Para investidores, entender essas operações é crucial para avaliar riscos e potenciais de recuperação das companhias.",
-  "impactoMercado": "A reestruturação pode melhorar a saúde financeira da Portobello, reduzindo custos e alavancagem, impactando positivamente sua avaliação e a percepção do mercado. Setores ligados à construção e materiais podem ser influenciados pela tendência de queda no consumo e ajustes de capital das empresas.",
-  "entenda": "A renegociação de dívida é um processo onde empresas ajustam prazos, custos e formas de pagamento para melhorar o fluxo financeiro. Transformar parte da dívida em ações é uma forma de diminuir o endividamento, convertendo credores em sócios e reduzindo pressões financeiras.",
-  "observar": "Fique atento aos próximos passos da Portobello, como a reunião da assembleia para aprovação da capitalização e possíveis atualizações sobre renegociação e resultados financeiros no 1º trimestre de 2024.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Mostrar como a renegociação de dívidas é uma estratégia real usada por empresas para superar crises financeiras, destacando a importância de entender finanças corporativas e mercado para quem quer operar ou investir.",
-  "gancho": "*Portobello* renegoce *dívidas*",
-  "ideias": [
-   "O que significa renegociar dívidas corporativas?",
-   "Como a crise no setor de materiais de construção afeta empresas",
-   "Entenda a transformação da dívida em ações na prática"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Empresas",
-  "icone": "cadeado",
-  "fonte": "Estadão Economia",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T20:50:26-03:00",
-  "url": "https://www.estadao.com.br/economia/negocios/portobello-de-revestimentos-ceramicos-renegocia-r-1-bilhao-de-dividas/",
-  "publicadoEm": "2026-11-16T17:27:18-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-15"
- },
- {
-  "titulo": "Dólar atinge R$ 5,79 com incertezas fiscais e nervosismo externo",
-  "resumo": "Na segunda (16), dólar subiu até R$ 5,7939, maior desde abril de 2025, por dúvidas no ajuste fiscal e cenário global.",
-  "fatos": [
-   "Dólar chegou a R$ 5,7939 em 16/11/2026, maior nível desde 17/4/2025.",
-   "Ibovespa caiu 2,23%, fechando aos 168.614 pontos.",
-   "Pacote fiscal prevê cortes de até R$ 60 bilhões para o Orçamento 2027.",
-   "Senado aprovou o texto-base do pacote fiscal, mas quatro destaques ainda serão votados.",
-   "Pacote inclui limites rígidos ao crescimento dos gastos e redução de até 20% em benefícios fiscais.",
-   "IBC-Br, prévia do PIB, recuou 0,9% no 3º trimestre de 2026.",
-   "Ações da Nvidia caíram 15% após escândalo sobre ex-CEO e suspeita de espionagem.",
-   "Preço do barril de petróleo Brent caiu 1,43% a US$ 94,47 em 16/11/2026.",
-   "Investidores estrangeiros retiraram R$ 5,4 bilhões líquidos da bolsa em novembro até dia 11.",
-   "Índice DXY do dólar ao redor de 103 pontos, maior desde fevereiro de 2025."
-  ],
-  "explicacao": [
-   "Na segunda-feira, 16 de novembro de 2026, o dólar chegou a R$ 5,7939, superando os fechamentos desde abril de 2025. O Ibovespa caiu 2,23% no mesmo dia, refletindo a cautela dos investidores.",
-   "O principal motivo foi a apreensão com o pacote fiscal enviado pelo governo, que prevê cortes de gastos de até R$ 60 bilhões em 2027, mas ainda enfrenta ajustes no Senado e Câmara, gerando dúvidas sobre sua efetividade.",
-   "Esse contexto cria incerteza sobre a trajetória da dívida pública e dos juros, pressionando a moeda americana a subir no Brasil. Além disso, o dólar também se fortalece globalmente, com altas nos juros americanos e temores sobre a economia.",
-   "Para avançar, o pacote fiscal precisa ser aprovado com menos concessões para garantir controle das contas públicas. Enquanto isso, investidores mantêm cautela, monitorando dados econômicos internos e acontecimentos externos, como balanços da Nvidia e preços do petróleo."
-  ],
-  "detalhes": [
-   "A alta do dólar é influenciada por dúvidas sobre o ajuste fiscal e pelo fortalecimento global da moeda americana.",
-   "O pacote fiscal do governo tenta cortar gastos para equilibrar a dívida pública em 2027.",
-   "Comando do Senado ainda avalia destaques que podem modificar as medidas antes de enviar à Câmara.",
-   "Indicador IBC-Br mostrou retração econômica, puxada pela agropecuária, indústria e serviços.",
-   "A saída de Jensen Huang da Nvidia, acusado de relacionamento com suspeita de espionagem chinesa, abalou a bolsa americana.",
-   "Queda no preço do petróleo reflete excesso de oferta global, apesar da guerra no Oriente Médio.",
-   "Rumores de aumento do IOF sobre investimentos isentos de imposto geram cautela no mercado."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Vitor Kayo, economista sênior da Nomad",
-    "oque": "A incerteza sobre o que será aprovado no pacote fiscal leva investidores a buscar proteção no dólar."
-   },
-   {
-    "quem": "Rebecca Nossig, estrategista de ações da Nomad",
-    "oque": "O pacote fiscal anunciado não conseguiu ancorar as expectativas dos agentes financeiros."
-   },
-   {
-    "quem": "William Castro Alves, estrategista chefe da Avenue",
-    "oque": "A alta do dólar tem relação com preocupações fiscais domésticas."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "13/11/2026",
-    "oque": "Senado aprovou texto-base do pacote fiscal com medidas de corte de gastos."
-   },
-   {
-    "quando": "16/11/2026",
-    "oque": "Dólar atingiu R$ 5,7939 e Ibovespa caiu 2,23%."
-   },
-   {
-    "quando": "12/11/2026",
-    "oque": "Nvidia anunciou saída imediata do CEO Jensen Huang após escândalo."
-   },
-   {
-    "quando": "3º trimestre de 2026",
-    "oque": "IBC-Br mostrou queda de 0,9% na atividade econômica."
-   },
-   {
-    "quando": "até 11/11/2026",
-    "oque": "Investidores estrangeiros retiraram R$ 5,4 bilhões da bolsa brasileira."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Pacote fiscal",
-    "significado": "Conjunto de medidas para controlar gastos e dívida pública."
-   },
-   {
-    "termo": "IBC-Br",
-    "significado": "Índice que antecipa o desempenho do PIB brasileiro."
-   },
-   {
-    "termo": "DXY",
-    "significado": "Índice que mede o valor do dólar contra moedas principais."
-   }
-  ],
-  "pergunta": "Você acha que o pacote fiscal será suficiente para conter a alta do dólar?",
-  "tamanhoTexto": 11532,
-  "numeros": [
-   {
-    "valor": "R$ 5,7939",
-    "rotulo": "Máxima do dólar em 16/11/2026"
-   },
-   {
-    "valor": "2,23%",
-    "rotulo": "Queda do Ibovespa em 16/11/2026"
-   },
-   {
-    "valor": "R$ 60 bilhões",
-    "rotulo": "Estimativa de cortes no pacote fiscal para 2027"
-   },
-   {
-    "valor": "0,9%",
-    "rotulo": "Queda do IBC-Br no 3º trimestre de 2026"
-   },
-   {
-    "valor": "15%",
-    "rotulo": "Queda das ações da Nvidia após escândalo"
-   },
-   {
-    "valor": "R$ 5,4 bilhões",
-    "rotulo": "Retirada líquida estrangeira da bolsa em novembro até dia 11"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 5,7939",
-  "porQueImporta": "A alta do dólar e a pressão sobre o mercado refletem o nervosismo frente às contas públicas e incertezas externas, afetando custos de investimentos e a dinâmica econômica. A compreensão dessas variáveis é essencial para quem opera ou investe, pois influenciam o risco e a volatilidade dos ativos.",
-  "impactoMercado": "Com o dólar em alta e a bolsa em queda, investidores podem se proteger comprando dólar ou fundos internacionais, enquanto o setor fiscal e empresarial pode ter volatilidade. Juros elevados nos EUA e dúvidas fiscais domésticas mantêm o cenário complexo para mercados emergentes.",
-  "entenda": "O dólar é a moeda americana, e sua valorização frente ao real pode encarecer importações e pressionar a inflação. O pacote fiscal é o conjunto de medidas que o governo usa para equilibrar gastos e dívida, buscando controlar juros e dar confiança ao mercado.",
-  "observar": "Acompanhe a votação dos destaques do pacote fiscal no Senado e Câmara, dados econômicos futuros, decisões do Fed em dezembro e balanços das empresas, que afetarão o cenário cambial e de mercado.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Esta notícia explica como decisões políticas e externas impactam o mercado e o dólar, mostrando a importância de entender o ambiente macroeconômico para abrir caminho no mercado financeiro.",
-  "gancho": "*Dólar* em alta com *fiscal* e *externo*",
-  "ideias": [
-   "Por que o dólar subiu a R$ 5,79? Entenda os motivos",
-   "Pacote fiscal e dólar: como o ajuste impacta o mercado?",
-   "Nvidia, juros e dólar: os fatores que movimentam o mercado hoje"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "UOL Economia; G1 Economia; InvestNews",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T16:52:59-03:00",
-  "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/16/dolar-vai-a-r-579-com-cautela-fiscal-e-aversao-ao-risco-no-exterior.htm",
-  "publicadoEm": "2026-11-16T15:32:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-07"
- },
- {
-  "titulo": "Executivo americano de 54 anos renova carreira usando estratégias modernas",
-  "resumo": "Dave Posey pediu demissão sem emprego e, em um mês, recebeu três ofertas. Ele mudou a forma de se apresentar, focando em resolver problemas atuais das empresas.",
-  "fatos": [
-   "Dave Posey trabalhou por 30 anos em manufatura, distribuição e vendas por canais.",
-   "Ele pediu demissão em maio de 2026, aos 54 anos, sem novo emprego.",
-   "Em junho, recebeu três ofertas em um mês e aceitou cargo na Sanborn.",
-   "Posey contratou uma consultora de carreira dois meses antes de pedir demissão.",
-   "A maior mudança foi destacar no discurso como resolver problemas atuais das empresas.",
-   "Ele aprimorou o LinkedIn, saindo do tradicional currículo para posts que apresentam soluções.",
-   "Gravou frases e treinou discursos para ficar seguro em entrevistas e networking.",
-   "Posey morava em Parker, Colorado, e completou 55 anos recentemente.",
-   "Ele diz que histórico não interessa, apenas o que pode ser feito agora.",
-   "Curso online e gratuito Processo Seletivo na Prática foi mencionado como ajuda."
-  ],
-  "explicacao": [
-   "Em maio de 2026, aos 54 anos, Dave Posey deixou seu emprego após 30 anos no setor de manufatura e vendas. Embora não tivesse outra posição garantida, ele recebeu três propostas de trabalho em apenas um mês.",
-   "Posey atribui o sucesso à consultoria de carreira que contratou antes de sair do emprego. Ela o ajudou a focar menos no histórico e mais em apresentar o valor que poderia gerar às empresas hoje.",
-   "A mudança foi significativa, principalmente ao transformar seu LinkedIn, currículo e discurso para abordar como ele resolve problemas atuais, deixando de lado a simples lista de experiências passadas.",
-   "Agora, Posey trabalha como gerente geral e vice-presidente na Sanborn e deseja auxiliar outros profissionais a adaptar sua comunicação para o mercado, mostrando habilidades de forma clara e direta."
-  ],
-  "detalhes": [
-   "Quem: Dave Posey, executivo americano de 54 anos com 30 anos de experiência.",
-   "Quando: pediu demissão em maio de 2026; recebeu ofertas em junho de 2026.",
-   "Como: contratou consultora para reformular sua apresentação profissional.",
-   "Onde: vive em Parker, no estado do Colorado, EUA.",
-   "Comparação: mudou de descrever passado para destacar solução de problemas atuais.",
-   "Contexto: mercado atual valoriza habilidades úteis no momento, não o histórico.",
-   "Resultado: conseguiu emprego importante como gerente geral e vice-presidente."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Dave Posey, executivo americano",
-    "oque": "O currículo garante a conversa, depois vira peso morto para recrutador."
-   },
-   {
-    "quem": "Dave Posey",
-    "oque": "O mercado só quer saber o que o candidato resolve hoje, não em 2014."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "maio de 2026",
-    "oque": "Dave Posey pediu demissão sem outro emprego."
-   },
-   {
-    "quando": "junho de 2026",
-    "oque": "Recebeu três propostas de trabalho em um mês."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "LinkedIn",
-    "significado": "rede social profissional para mostrar experiência e buscar empregos."
-   },
-   {
-    "termo": "currículo",
-    "significado": "documento que lista experiências, formação e habilidades."
-   },
-   {
-    "termo": "recrutador",
-    "significado": "profissional que seleciona candidatos para vagas de emprego."
-   }
-  ],
-  "pergunta": "Você já atualizou seu LinkedIn para mostrar como resolve problemas hoje?",
-  "tamanhoTexto": 5629,
-  "numeros": [
-   {
-    "valor": "54",
-    "rotulo": "idade de Dave Posey ao pedir demissão"
-   },
-   {
-    "valor": "3",
-    "rotulo": "ofertas de emprego recebidas em um mês"
-   },
-   {
-    "valor": "30",
-    "rotulo": "anos de experiência na área de Posey"
-   },
-   {
-    "valor": "8",
-    "rotulo": "módulos do curso 'Processo Seletivo na Prática'"
-   },
-   {
-    "valor": "69%",
-    "rotulo": "gestores com desconforto para conversar com times, citado no texto"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "3 ofertas em",
-  "porQueImporta": "Saber apresentar sua experiência focando em soluções atuais é fundamental para se destacar nas seleções, principalmente com carreiras longas. Posey mostra que adaptar discurso e perfil no LinkedIn pode abrir portas rapidamente, mesmo após uma demissão sem empregabilidade garantida.",
-  "impactoMercado": "Essa mudança de postura influencia como candidatos mais experientes se posicionam em processos seletivos, valorizando habilidades aplicáveis e atualizadas, impactando contratações em vagas sênior e médias. Pode gerar maior competitividade e exigência por clareza e objetividade em entrevistas e currículos.",
-  "entenda": "Um recrutador quer saber qual problema você resolve hoje, não seu histórico. Atualizar o currículo e o LinkedIn para mostrar soluções atuais e treinar a comunicação são passos essenciais na busca por vagas, principalmente para quem tem carreira longa e está há tempos na mesma empresa.",
-  "observar": "Fique atento ao curso online gratuito 'Processo Seletivo na Prática' que orienta do currículo à entrevista, e acompanhe como profissionais com longa carreira estão se reposicionando no mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "Ao transformar uma notícia com estratégias reais de carreira em conteúdo didático, você aprende a se destacar no mercado, fundamental para operar com conhecimento e construir sua trajetória financeira.",
-  "gancho": "*Carreira* e *Mercado* em alta",
-  "ideias": [
-   "Como se destacar no mercado após anos na mesma empresa",
-   "Reinvente seu currículo: da experiência à solução de problemas",
-   "Networking e LinkedIn: armas para conseguir vagas rápidas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Comportamento do investidor",
-  "icone": "seta",
-  "fonte": "Exame",
-  "impacto": "medio",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T16:52:59-03:00",
-  "url": "https://exame.com/carreira/aos-54-anos-ele-pediu-demissao-sem-ter-outro-emprego-em-um-mes-tinha-tres-ofertas/",
-  "publicadoEm": "2026-11-16T12:48:09-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-08"
- },
- {
-  "titulo": "Trump apoia retorno de Jensen Huang à liderança da Nvidia após escândalo",
-  "resumo": "Donald Trump declarou que vê com bons olhos a volta de Jensen Huang como CEO da Nvidia, após renúncia causada por escândalo de espionagem. Ele também sugeriu Tim Cook como possível substituto e planeja dar status de campeã nacional à Nvidia.",
-  "fatos": [
-   "Jensen Huang renunciou à CEO da Nvidia na semana anterior ao dia 16/11/2026.",
-   "Donald Trump falou publicamente sobre a possibilidade de Huang retornar em 16/11/2026.",
-   "Em 12/11/2026, Trump sugeriu Tim Cook como substituto na Nvidia.",
-   "A renúncia de Huang ocorreu em meio a escândalo de espionagem na Nvidia.",
-   "O governo Trump pretende incluir Nvidia na lista de campeãs nacionais.",
-   "Mais de 20 empresas devem ser classificadas como campeãs nacionais segundo o Wall Street Journal.",
-   "Medida facilitaria licenças de exportação de chips e tecnologias da Nvidia.",
-   "Visa ampliar apoio governamental e financiamento público para a Nvidia."
-  ],
-  "explicacao": [
-   "Na segunda-feira, 16 de novembro de 2026, o presidente dos Estados Unidos, Donald Trump, disse a jornalistas que seria positivo que Jensen Huang retornasse à posição de diretor-executivo da Nvidia, gigante americana de chips para inteligência artificial.",
-   "Huang renunciou na semana anterior ao cargo em meio a um escândalo de espionagem envolvendo a empresa, o que abalou a confiança dos investidores e movimentou o mercado de tecnologia.",
-   "Trump já havia sugerido na quinta-feira, 12, que Tim Cook, ex-CEO da Apple, deveria assumir o comando da Nvidia, ressaltando a substituição de uma lenda por outra.",
-   "Além disso, o governo Trump pretende classificar a Nvidia como campeã nacional, medida que facilitaria licenças de exportação, aumento de apoio governamental e acesso a financiamento público para fortalecer a empresa em meio à competição global."
-  ],
-  "detalhes": [
-   "Quem: Jensen Huang, CEO da Nvidia, e Donald Trump, presidente dos EUA.",
-   "Quando: declaração em 16 de novembro de 2026; renúncia na semana anterior.",
-   "Onde: declaração em Washington, EUA, antes de viagem à Ásia.",
-   "Como: renúncia motivada por escândalo de espionagem.",
-   "Comparação: Trump sugeriu Tim Cook, ex-Apple, para cargo após Huang.",
-   "Contexto: governo quer fortalecer Nvidia contra concorrentes estrangeiros.",
-   "Consequência: possível facilitação de exportações e aumento de apoio público."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "Seria bom que Jensen Huang voltasse a diretor-executivo da Nvidia."
-   },
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "Tim Cook é o único que pode substituir Jensen Huang, uma lenda substituindo outra lenda."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Semana anterior a 16/11/2026",
-    "oque": "Renúncia de Jensen Huang à CEO da Nvidia."
-   },
-   {
-    "quando": "12/11/2026",
-    "oque": "Trump sugeriu Tim Cook para substituir Huang."
-   },
-   {
-    "quando": "16/11/2026",
-    "oque": "Trump falou sobre apoio ao retorno de Huang."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Campeã nacional",
-    "significado": "Empresa recebendo apoio do governo para competir globalmente."
-   },
-   {
-    "termo": "Inteligência Artificial",
-    "significado": "Tecnologia que permite máquinas aprender e executar tarefas inteligentes."
-   },
-   {
-    "termo": "Escândalo de espionagem",
-    "significado": "Violação da segurança envolvendo roubo de informações confidenciais."
-   }
-  ],
-  "pergunta": "Você acha que Jensen Huang deve retornar à Nvidia como CEO?",
-  "tamanhoTexto": 1969,
-  "numeros": [
-   {
-    "valor": "20+",
-    "rotulo": "Empresas na lista de campeãs nacionais do governo Trump"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Retorno de Jensen",
-  "porQueImporta": "O apoio de Trump à volta de Jensen Huang à liderança da Nvidia demonstra como crises e escândalos influenciam diretamente a gestão das gigantes de tecnologia. Além disso, o status de campeã nacional pode mudar o cenário competitivo e regulatório da empresa.",
-  "impactoMercado": "O possível retorno de Huang e a classificação da Nvidia como campeã nacional podem facilitar sua participação no mercado internacional, melhorar o acesso a licenças e financiamento, o que pode impactar ações e a dinâmica do setor de chips e tecnologia.",
-  "entenda": "A Nvidia é uma líder global em chips para inteligência artificial. Crises internas podem abalar a confiança dos investidores. O termo campeã nacional indica uma empresa prioritária para o governo, com benefícios especiais para competir globalmente.",
-  "observar": "Fique atento a possíveis anúncios oficiais sobre a nomeação do novo CEO da Nvidia e o regulamento para a lista de campeãs nacionais, além do encontro entre EUA e China sobre restrições à exportação de chips.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "Explorar os impactos da gestão na Nvidia e como políticas públicas influenciam gigantes de tecnologia ajuda o público a entender decisões estratégicas que movimentam o mercado.",
-  "gancho": "*Nvidia* e *liderança* em discussão",
-  "ideias": [
-   "Quem é Jensen Huang e por que ele importa na Nvidia?",
-   "O que significa ser uma campeã nacional nos EUA?",
-   "Como crises internas afetam empresas de tecnologia?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T16:52:59-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-diz-que-nao-se-importaria-que-jensen-huang-voltasse-a-dirigir-a-nvidia.shtml",
-  "publicadoEm": "2026-11-16T12:32:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-09"
- },
- {
-  "titulo": "Suzano obtém financiamento de R$ 97,9 milhões do BNDES para inovação",
-  "resumo": "Suzano garantiu R$ 97,9 milhões do BNDES para 47 projetos de pesquisa em genética, produtos e manejo florestal, buscando aumentar competitividade global. Recursos apoiarão iniciativas em unidades no Brasil com colaboração de universidades e centros tecnológicos.",
-  "fatos": [
-   "Financiamento aprovado pelo BNDES de R$ 97,9 milhões para a Suzano.",
-   "Serão 47 projetos de P&D vinculados a genética, manejo florestal e novos produtos.",
-   "Objetivo é aumentar competitividade global da Suzano no longo prazo.",
-   "São projetos de inovação em papel, embalagens, celulose e fluff.",
-   "Os recursos abrangem unidades da Suzano em 5 estados brasileiros.",
-   "Projetos contam com colaboração de universidades públicas e instituições científicas.",
-   "Setor de papel e celulose no Brasil gera 2,8 milhões de empregos diretos e indiretos.",
-   "Em 2025, produção brasileira foi de 29,4 milhões de toneladas de celulose.",
-   "Concorrência do papel de impressão chinês pressiona preços no Brasil.",
-   "BNDES destaca importância da inovação para reduzir custos em commodity."
-  ],
-  "explicacao": [
-   "A Suzano recebeu do BNDES um financiamento de R$ 97,9 milhões para apoiar 47 projetos de pesquisa e desenvolvimento focados em inovação nas áreas de genética, manejo florestal, novos produtos como papel e embalagens, celulose e fluff. O valor foi aprovado recentemente para reforçar a competitividade da empresa a longo prazo.",
-   "Essa iniciativa surge para que a Suzano avance em produtividade e eficiência, combinando tecnologia e conhecimento aplicado em diferentes etapas da cadeia produtiva. Segundo o vice-presidente Marcos Assumpção, o foco é promover o desenvolvimento de soluções inovadoras que melhorem o desempenho da empresa globalmente.",
-   "O presidente do BNDES, Aloizio Mercadante, destacou que a inovação é fundamental para reduzir custos no setor de celulose, que atua como commodity e tem preços internacionais voláteis. A padronização dos produtos limita o diferencial competitivo, tornando os investimentos em P&D essenciais para a indústria brasileira.",
-   "Os recursos do financiamento serão liberados para projetos que ocorrem em unidades da Suzano em São Paulo, Mato Grosso do Sul, Espírito Santo, Bahia e Maranhão, com a parceria de instituições científicas, universidades públicas e laboratórios técnicos espalhados pelo país. Essa cooperação tecnológica amplia o alcance e impacto dos projetos."
-  ],
-  "detalhes": [
-   "Quem: Suzano e BNDES (Banco Nacional de Desenvolvimento Econômico e Social).",
-   "Quanto: R$ 97,9 milhões aprovados para financiamento.",
-   "Quando: notícia divulgada em novembro de 2026.",
-   "Onde: projetos em unidades da Suzano nos estados de SP, MS, ES, BA e MA.",
-   "Como: financiamento para 47 projetos focados em inovação e tecnologia.",
-   "Contexto: competição com papel de impressão importado da China no mercado brasileiro.",
-   "Colaboração: universidades públicas, institutos científicos e laboratórios técnicos."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Marcos Assumpção, vice-presidente executivo de Finanças e RI da Suzano",
-    "oque": "Projetos combinam pesquisa e tecnologia para avançar em produtividade e novas soluções."
-   },
-   {
-    "quem": "Aloizio Mercadante, presidente do BNDES",
-    "oque": "Inovação é essencial para reduzir custos e aumentar a competitividade do setor."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2026",
-    "oque": "Suzano recebe aprovação do BNDES para financiamento inovador."
-   },
-   {
-    "quando": "2025",
-    "oque": "Indústria brasileira de celulose produz 29,4 milhões de toneladas."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "BNDES",
-    "significado": "Banco de desenvolvimento que financia projetos econômicos no Brasil."
-   },
-   {
-    "termo": "Celulose",
-    "significado": "Material extraído da madeira usado para fabricar papel e produtos derivados."
-   },
-   {
-    "termo": "Inovação",
-    "significado": "Introdução de novas ideias, produtos ou processos para melhorar competitividade."
-   }
-  ],
-  "pergunta": "Como a inovação pode ajudar empresas a enfrentarem concorrência global?",
-  "tamanhoTexto": 6477,
-  "numeros": [
-   {
-    "valor": "97,9 milhões",
-    "rotulo": "financiamento do BNDES para Suzano em reais"
-   },
-   {
-    "valor": "47",
-    "rotulo": "projetos de pesquisa e desenvolvimento financiados"
-   },
-   {
-    "valor": "2,8 milhões",
-    "rotulo": "empregos diretos e indiretos gerados pelo setor no Brasil"
-   },
-   {
-    "valor": "29,4 milhões",
-    "rotulo": "toneladas de celulose produzidas no Brasil em 2025"
-   },
-   {
-    "valor": "5",
-    "rotulo": "estados brasileiros com unidades da Suzano beneficiadas"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 97,9 milhões",
-  "porQueImporta": "Esse financiamento do BNDES é importante para o investidor porque reforça o compromisso da Suzano com inovação, vital para manter a competitividade frente à volatilidade dos preços internacionais e aos desafios de um mercado globalizado, garantindo sustentabilidade a médio e longo prazo.",
-  "impactoMercado": "O investimento em P&D pode melhorar a eficiência e diferenciação da Suzano, influenciando positivamente setores ligados à celulose, papel e embalagens, podendo afetar avaliações de empresas do setor, custos de produção e percepção dos investidores sobre inovação industrial.",
-  "entenda": "Financiamento do BNDES é um tipo de empréstimo concedido a empresas para impulsionar projetos de inovação. Aqui, o foco é pesquisa na cadeia produtiva da Suzano, que atua com produtos como papel e celulose, commodities sensíveis a variações globais e com forte competição internacional.",
-  "observar": "Fique atento à liberação dos recursos nos próximos meses, ao avanço dos projetos de P&D da Suzano e ao impacto da concorrência internacional, especialmente do papel chinês, para entender os efeitos no setor de papel e celulose no Brasil.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra como o financiamento para inovação é crucial para enfrentar desafios do mercado global e economizar custos, ajudando quem quer entender a dinâmica do setor e potencial de crescimento das ações e da indústria.",
-  "gancho": "*Suzano* amplia inovação com apoio do *BNDES*",
-  "ideias": [
-   "Como Suzano usa R$ 97,9 milhões para inovar",
-   "Por que o BNDES investe em pesquisa na celulose",
-   "Impactos da inovação no setor de papel e celulose"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T08:32:44-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/suzano-consegue-financiamento-de-r-98-milhoes-junto-ao-bndes.shtml",
-  "publicadoEm": "2026-11-16T06:00:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-01"
- },
- {
-  "titulo": "IGP-10 sobe 0,76% em novembro e acumula alta de 5,63% em 12 meses",
-  "resumo": "O Índice Geral de Preços – 10 (IGP-10) subiu 0,76% em novembro, segundo a Fundação Getulio Vargas (FGV). O indicador acumula alta de 5,63% em 12 meses, refletindo desaceleração frente a outubro.",
-  "fatos": [
-   "IGP-10 subiu 0,76% em novembro de 2026.",
-   "Em outubro, o índice subiu 1,76%.",
-   "Acumula alta de 5,63% em 12 meses até novembro.",
-   "IPA subiu 0,94% em novembro, contra 2,36% em outubro.",
-   "Bens Finais subiram 0,59% em novembro, ante 1,48% em outubro.",
-   "IPC subiu 0,33% em novembro, contra 0,39% em outubro.",
-   "Habitação caiu de 0,23% para -0,08% em novembro.",
-   "INCC subiu 0,33% em novembro, superior a 0,28% de outubro.",
-   "Materiais e Equipamentos subiram 0,48% em novembro.",
-   "Serviços caíram de 0,29% para 0,03% em novembro."
-  ],
-  "explicacao": [
-   "Em novembro de 2026, o IGP-10 subiu 0,76%, desacelerando em relação aos 1,76% de outubro, segundo dados do Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre). No acumulado do ano, o índice avançou 5,58%, e em 12 meses, 5,63%.",
-   "Essa desaceleração deve-se principalmente à menor variação dos preços no atacado (IPA), que subiu 0,94% em novembro, contra 2,36% no mês anterior. O recuo dos preços industriais e agropecuários, bem como a desaceleração em bens finais, intermediários e matérias-primas, contribuiu para essa tendência.",
-   "No varejo, o Índice de Preços ao Consumidor (IPC) teve alta de 0,33% em novembro, menos que os 0,39% de outubro. Algumas categorias de despesas, como habitação e transportes, registraram quedas, enquanto educação e vestuário aumentaram seus preços.",
-   "O Índice Nacional de Custo da Construção (INCC) subiu 0,33% em novembro, levemente acima dos 0,28% de outubro, com destaque para aumento em materiais e equipamentos, enquanto serviços e mão de obra desaceleraram."
-  ],
-  "detalhes": [
-   "Fonte dos dados: Fundação Getulio Vargas, Instituto Brasileiro de Economia (FGV Ibre).",
-   "Data da divulgação: 16/11/2026.",
-   "IGP-10 mede inflação no atacado, construção e varejo.",
-   "IPA representa preços no atacado, principal componente do IGP-10.",
-   "IPC reflete variação de preços ao consumidor em diferentes categorias.",
-   "INCC mede custo dos insumos para a construção civil.",
-   "Comparação com novembro de 2025, quando IGP-10 subiu 0,18%."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Matheus Dias, economista do FGV Ibre",
-    "oque": "O IPA foi responsável pela menor variação do IGP-10 em novembro devido ao recuo dos preços industriais e agropecuários."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Outubro de 2026",
-    "oque": "IGP-10 subiu 1,76%, maior que novembro."
-   },
-   {
-    "quando": "Novembro de 2025",
-    "oque": "IGP-10 havia subido 0,18%, bem menor que em 2026."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IGP-10",
-    "significado": "Índice que mede variações de preços no atacado, varejo e construção"
-   },
-   {
-    "termo": "IPA",
-    "significado": "Índice de preços no atacado, parte principal do IGP-10"
-   },
-   {
-    "termo": "IPC",
-    "significado": "Índice de preços ao consumidor, mede inflação para o varejo"
-   }
-  ],
-  "pergunta": "Como você acha que a desaceleração do IGP-10 afeta suas operações?",
-  "tamanhoTexto": 3020,
-  "numeros": [
-   {
-    "valor": "0,76%",
-    "rotulo": "IGP-10 em novembro de 2026"
-   },
-   {
-    "valor": "1,76%",
-    "rotulo": "IGP-10 em outubro de 2026"
-   },
-   {
-    "valor": "5,63%",
-    "rotulo": "alta acumulada do IGP-10 em 12 meses"
-   },
-   {
-    "valor": "0,94%",
-    "rotulo": "variação do IPA em novembro"
-   },
-   {
-    "valor": "0,33%",
-    "rotulo": "variação do IPC em novembro"
-   },
-   {
-    "valor": "0,33%",
-    "rotulo": "alta do INCC em novembro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "IGP-10",
-    "antes": "1,76% em outubro",
-    "depois": "0,76% em novembro"
-   },
-   {
-    "item": "IPA",
-    "antes": "2,36% em outubro",
-    "depois": "0,94% em novembro"
-   },
-   {
-    "item": "IPC",
-    "antes": "0,39% em outubro",
-    "depois": "0,33% em novembro"
-   },
-   {
-    "item": "INCC",
-    "antes": "0,28% em outubro",
-    "depois": "0,33% em novembro"
-   }
-  ],
-  "destaque": "5,63% em 12",
-  "porQueImporta": "O IGP-10 é um relevante indicador da inflação no Brasil, impactando decisões do Banco Central e preço de contratos. Sua alta de 5,63% em 12 meses mostra pressão inflacionária no atacado e consumo, influenciando expectativas de investidores e operadores sobre juros e cenário econômico.",
-  "impactoMercado": "A desaceleração do IGP-10 pode sinalizar menor pressão inflacionária, afetando a trajetória dos juros futuros e o desempenho de setores como construção (INCC) e consumo (IPC). Investidores acompanham para ajustar estratégias em renda fixa, ações e câmbio conforme o movimento da inflação.",
-  "entenda": "O IGP-10 mede variações de preços em diferentes setores da economia: atacado (IPA), varejo (IPC) e construção (INCC). Esse índice antecipa tendências da inflação e é usado por bancos e empresas para ajustar contratos, indexar preços e avaliar a saúde econômica do país.",
-  "observar": "Acompanhe os próximos dados mensais do IGP-10 e relatório do Banco Central para entender o impacto nas decisões de política monetária e mercado financeiro.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "CLT",
-   "Aposentados",
-   "Empresários"
-  ],
-  "angulo": "Explicamos como a variação do IGP-10 influencia preços e juros, ajudando seguidores a entender o impacto da inflação nas finanças pessoais e no mercado.",
-  "gancho": "*Inflação* e *IGP-10* em novembro",
-  "ideias": [
-   "O que é e como funciona o IGP-10",
-   "Entenda o impacto da inflação do atacado no seu bolso",
-   "Por que a desaceleração do IGP-10 é importante para investidores"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Inflação",
-  "icone": "grafico",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T08:32:44-03:00",
-  "url": "https://valor.globo.com/brasil/noticia/2026/11/16/igp-10-sobe-076-pontos-percentuais-em-novembro-e-acumula-alta-de-563-em-12-meses-diz-fgv.ghtml",
-  "publicadoEm": "2026-11-16T08:16:47-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-02"
- },
- {
-  "titulo": "Shakira anuncia show privado na Arena Fonte Nova em janeiro de 2027",
-  "resumo": "Prefeito Bruno Reis confirmou apresentação de Shakira em Salvador no dia 6 de janeiro de 2027. Evento será privado, sem uso de recursos públicos, e visa fortalecer economia e turismo local.",
-  "fatos": [
-   "Show confirmado para 6 de janeiro de 2027 na Arena Fonte Nova, Salvador.",
-   "Anúncio feito pelo prefeito Bruno Reis em 15 de novembro de 2026.",
-   "Evento privado, sem uso de recursos públicos, com apoio institucional da Prefeitura.",
-   "Shakira realizou show gratuito em Copacabana, Rio de Janeiro, em maio de 2026, com cerca de 2 milhões de espectadores.",
-   "Turnê Las Mujeres Ya No Lloran passou por Rio de Janeiro e São Paulo em 2025.",
-   "Fenix Entertainment confirmou show no Brasil em 9 de novembro de 2026.",
-   "Não há detalhes divulgados sobre ingressos ou preços para o show em Salvador."
-  ],
-  "explicacao": [
-   "A cantora colombiana Shakira fará um show privado na Arena Fonte Nova, em Salvador, em 6 de janeiro de 2027, conforme anunciou o prefeito Bruno Reis (União Brasil) no dia 15 de novembro de 2026.",
-   "O evento, que não utilizará recursos públicos, terá apoio institucional da Prefeitura e tem como objetivo movimentar a economia da cidade, gerar empregos e fortalecer o turismo, além de destacar Salvador no cenário nacional e internacional.",
-   "Este show será parte da turnê Las Mujeres Ya No Lloran, que já passou pelo Rio e São Paulo em 2025, e vem após o show gratuito de Shakira em maio de 2026 na praia de Copacabana, que reuniu cerca de 2 milhões de pessoas.",
-   "Embora a produtora Fenix Entertainment tenha confirmado no início de novembro a realização de pelo menos um show no Brasil, ainda não há informações sobre venda de ingressos, preços ou possíveis outras datas e cidades para a turnê."
-  ],
-  "detalhes": [
-   "A Prefeitura de Salvador apoia institucionalmente o evento, sem financiamento público direto.",
-   "Bruno Reis é filiado ao partido União Brasil.",
-   "O show visa fortalecer a economia local, o turismo e gerar empregos.",
-   "A turnê anterior de Shakira no Brasil incluiu apenas Rio e São Paulo.",
-   "O show em Copacabana em maio de 2026 teve público estimado em 2 milhões.",
-   "A produtora Fenix Entertainment gerencia os eventos de Shakira na América do Sul.",
-   "Ainda não foram anunciadas outras datas no Brasil para a turnê atual."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Bruno Reis, prefeito de Salvador",
-    "oque": "O show movimenta a economia, gera emprego e fortalece o turismo local."
-   },
-   {
-    "quem": "Bruno Reis, prefeito de Salvador",
-    "oque": "Shakira é um dos maiores nomes da música mundial."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Maio de 2026",
-    "oque": "Shakira fez show gratuito na praia de Copacabana, Rio de Janeiro"
-   },
-   {
-    "quando": "6 de janeiro de 2027",
-    "oque": "Show de Shakira programado na Arena Fonte Nova, Salvador"
-   },
-   {
-    "quando": "9 de novembro de 2026",
-    "oque": "Fenix Entertainment confirma show de Shakira no Brasil"
-   },
-   {
-    "quando": "15 de novembro de 2026",
-    "oque": "Prefeito Bruno Reis anuncia oficialmente o show em Salvador"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Evento privado",
-    "significado": "Evento financiado sem uso de dinheiro público"
-   },
-   {
-    "termo": "Apoio institucional",
-    "significado": "Suporte oficial, sem investimento financeiro direto"
-   },
-   {
-    "termo": "Turnê",
-    "significado": "Série de shows realizados em várias cidades"
-   }
-  ],
-  "pergunta": "Você pretende ir ao show de Shakira em Salvador em 2027?",
-  "tamanhoTexto": 1302,
-  "numeros": [
-   {
-    "valor": "6 de janeiro de 2027",
-    "rotulo": "Data do show em Salvador"
-   },
-   {
-    "valor": "2.000.000",
-    "rotulo": "Público estimado no show gratuito em Copacabana"
-   },
-   {
-    "valor": "15 de novembro de 2026",
-    "rotulo": "Data do anúncio oficial do show"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "6 de janeiro",
-  "porQueImporta": "Esse show evidencia como grandes eventos musicais geram impacto econômico e turístico, fatores importantes para investidores e empreendedores que observam movimentação em setores como hospitalidade, transporte e comércio local.",
-  "impactoMercado": "A realização de um grande evento privado com apoio público pode impulsionar negócios ligados ao turismo, gastronomia e serviços em Salvador, além de destacar o potencial da cidade para futuros investimentos em entretenimento.",
-  "entenda": "Shows grandes como o de Shakira atraem público numeroso, movimentando economia local. Eventos privados não usam verba pública, mas podem receber apoio institucional, equilibrando cultura e finanças públicas.",
-  "observar": "Fique atento a próximas notícias sobre venda de ingressos e possíveis novas datas e cidades da turnê Las Mujeres Ya No Lloran no Brasil.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Explorar como eventos de grande porte movimentam economia e turismo, mostrando o funcionamento do mercado de entretenimento para interessados no setor financeiro.",
-  "gancho": "*Shakira* em Salvador 2027",
-  "ideias": [
-   "Entenda como shows movimentam a economia local",
-   "O que um show privado significa para a cidade e investidores",
-   "Turnês internacionais e seu impacto no mercado brasileiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "foguete",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 9,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T08:32:44-03:00",
-  "url": "https://www.infomoney.com.br/brasil/shakira-no-brasil-prefeito-anuncia-show-em-salvador-em-2027/",
-  "publicadoEm": "2026-11-16T08:26:16-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-03"
- },
- {
-  "titulo": "Quebra do Banco Master completa 1 ano com R$ 76 bi em perdas",
-  "resumo": "A falência do Banco Master em novembro de 2025 gerou perdas de R$ 76 bilhões e provocou mudanças regulatórias no sistema financeiro brasileiro.",
-  "fatos": [
-   "O Banco Master foi liquidado extrajudicialmente em 18 de novembro de 2025.",
-   "Perdas totais estimadas em R$ 76 bilhões relacionadas ao colapso do Master.",
-   "O Fundo Garantidor de Créditos arcou com cerca de R$ 58 bilhões para cobrir prejuízos.",
-   "O Banco de Brasília (BRB) precisa de capitalização de mais de R$ 8 bilhões devido à crise.",
-   "Fundos de previdência perderam aproximadamente R$ 3,2 bilhões com o caso.",
-   "Empresas ligadas a Vorcaro sofreram perdas de R$ 2,2 bilhões em títulos do banco.",
-   "O banco Fictor, ligado ao Master, entrou em recuperação judicial com dívidas de R$ 4,3 bilhões.",
-   "O Nubank teve impacto de cerca de US$ 100 milhões relacionado à liquidação da adquirente Entrepay.",
-   "O Banco Central afastou funcionários que recebiam propina de Vorcaro.",
-   "Novo acordo entre BC e CVM amplia monitoramento de entidades ligadas ao mercado de crédito."
-  ],
-  "explicacao": [
-   "Em 17 de novembro de 2025, o controlador do Banco Master, Daniel Vorcaro, foi preso no aeroporto de Guarulhos ao tentar embarcar para Dubai. No dia seguinte, o banco teve sua liquidação extrajudicial decretada, marcando o início de uma crise financeira que deixou um impacto bilionário no mercado.",
-   "A crise do Master deixou um rastro de aproximadamente R$ 76 bilhões em perdas, das quais R$ 58 bilhões foram cobertos pelo Fundo Garantidor de Créditos (FGC), que ressarciu depositantes e absorveu dívidas. O FGC é custeado pelos próprios bancos, o que potencialmente eleva o custo do crédito no Brasil.",
-   "O episódio revelou fraudes sofisticadas, envolvendo fundos em cascata e empréstimos para empresas de fachada, além de práticas ilegais de corrupção que envolveram autoridades e executivos. Instituições ligadas ao Master também foram liquidadas e bancos como o BRB sofreram perdas e necessitam de capitalização.",
-   "Após a crise, o Banco Central e outros reguladores adotaram medidas para aprimorar a supervisão, estabelecer limites de alavancagem e regras claras para ativos, além de discutir o risco moral dos investidores. Essas ações buscam fortalecer o sistema financeiro e evitar repetições do episódio."
-  ],
-  "detalhes": [
-   "Daniel Vorcaro foi preso ao tentar fugir para Dubai em seu jatinho particular.",
-   "O FGC é mantido por contribuições dos bancos, como Itaú Unibanco e Bradesco.",
-   "BRB comprou carteiras fraudulentas e tentou adquirir o Master sob suspeita de corrupção.",
-   "A crise expôs corrupção envolvendo autoridades dos Três Poderes da República.",
-   "Fictor captou bilhões via sociedades em conta de participação, sem proteção do FGC.",
-   "O Banco Central estabeleceu normas para bandeiras de cartão após prejuízo bilionário da Mastercard via Will.",
-   "O STF bloqueou a transferência dos depósitos judiciais do BRB para a Caixa."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Renato Gomes, presidente da Associação Brasileira de Bancos (ABBC)",
-    "oque": "Diz que o sistema financeiro sai mais forte com as mudanças pós-queima do Master."
-   },
-   {
-    "quem": "Fábio Coimbra, ex-diretor do BC",
-    "oque": "Afirma que fraude sofisticada exige revisão da supervisão, mas fraude não prova falha regulatória."
-   },
-   {
-    "quem": "Roberto Luis Troster, ex-economista-chefe da Febraban",
-    "oque": "Acredita ser necessária uma reforma estrutural na fiscalização para evitar repetição do caso."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "17 de novembro de 2025",
-    "oque": "Prisao de Daniel Vorcaro no aeroporto de Guarulhos."
-   },
-   {
-    "quando": "18 de novembro de 2025",
-    "oque": "Decretação da liquidação extrajudicial do Banco Master."
-   },
-   {
-    "quando": "Abril de 2026",
-    "oque": "BC e CVM firmam acordo para ampliar o Sistema de Informações de Crédito."
-   },
-   {
-    "quando": "Novembro de 2025",
-    "oque": "BC aprova normas para bandeiras de cartão após prejuízo do Will."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Liquidação extrajudicial",
-    "significado": "Encerramento forçado de banco para proteger clientes e evitar contaminação do sistema."
-   },
-   {
-    "termo": "Fundo Garantidor de Créditos (FGC)",
-    "significado": "Fundo que protege depósitos de clientes em bancos até um limite."
-   },
-   {
-    "termo": "Precatórios",
-    "significado": "Títulos representando dívidas que governos precisam pagar após decisão judicial."
-   }
-  ],
-  "pergunta": "Você sabia como a quebra de um banco pode impactar o sistema financeiro e investidores?",
-  "tamanhoTexto": 12000,
-  "numeros": [
-   {
-    "valor": "76 bilhões",
-    "rotulo": "Perdas totais relacionadas à crise do Banco Master"
-   },
-   {
-    "valor": "58 bilhões",
-    "rotulo": "Valor arcado pelo Fundo Garantidor de Créditos (FGC)"
-   },
-   {
-    "valor": "8 bilhões",
-    "rotulo": "Capitalização necessária para o Banco de Brasília (BRB)"
-   },
-   {
-    "valor": "3,2 bilhões",
-    "rotulo": "Perdas de fundos de previdência com CDBs do Master"
-   },
-   {
-    "valor": "4,3 bilhões",
-    "rotulo": "Dívidas da Fictor em recuperação judicial"
-   },
-   {
-    "valor": "US$ 100 milhões",
-    "rotulo": "Impacto no Nubank pela liquidação da Entrepay"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "R$ 76 bilhões",
-  "porQueImporta": "O episódio do Banco Master mostra como fraudes e má gestão podem gerar perdas bilionárias que afetam bancos, fundos e investidores, além de aumentar custos do crédito. Entender essa crise ajuda a reconhecer a importância da supervisão regulatória para manter a estabilidade financeira.",
-  "impactoMercado": "A falência do Master levou a uma maior rigidez regulatória e afetou diretamente bancos como o BRB e fundos previdenciários. O FGC, usado para cobrir perdas, pode impactar custos para bancos e crédito. O caso também evidenciou a necessidade de maior fiscalização sobre ativos e produtos financeiros.",
-  "entenda": "Liquidação extrajudicial é quando o Banco Central intervém para encerrar as atividades de um banco insolvente, protegendo depositantes. O Fundo Garantidor de Créditos (FGC) indeniza clientes até certo valor. Precatórios e produtos financeiros complexos, como os usados pelo Master, têm riscos altos e pouca liquidez.",
-  "observar": "Fique atento às decisões que o Banco Central deve tomar no próximo ano para mitigar riscos de investimentos e possíveis mudanças regulatórias ou medidas para o BRB e plataformas de investimentos.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "Day traders"
-  ],
-  "angulo": "A notícia dá uma visão realista dos riscos e do funcionamento do sistema financeiro, estimulando aprendizado sobre regulação, ativos complexos e impacto de crises para quem quer operar e investir com mais segurança.",
-  "gancho": "*Master* e o impacto financeiro",
-  "ideias": [
-   "Entenda a liquidação extrajudicial do Banco Master",
-   "Como o Fundo Garantidor de Créditos cobriu R$ 58 bilhões do Master",
-   "Impactos da crise do Master para investidores e bancos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "cadeado",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 10,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T08:32:44-03:00",
-  "url": "https://valor.globo.com/financas/noticia/2026/11/16/quebra-do-master-ha-um-ano-provoca-colapsos-em-serie-e-mudancas-regulatorias.ghtml",
-  "publicadoEm": "2026-11-16T05:00:02-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-04"
- },
- {
-  "titulo": "Vendas no varejo, produção e investimentos desaceleram na China em outubro",
-  "resumo": "Produção industrial, investimentos e vendas no varejo chineses caem mais que o previsto em outubro. Autoridades devem ampliar estímulos para conter a fraqueza da demanda interna.",
-  "fatos": [
-   "Produção industrial da China desacelera em outubro",
-   "Investimentos chineses também caem mais do que esperado no mesmo mês",
-   "Vendas no varejo da China desaceleram em outubro",
-   "A desaceleração superou as expectativas do mercado",
-   "Autoridades chinesas vão aumentar gastos com estímulos",
-   "Objetivo dos estímulos é sustentar a demanda interna"
-  ],
-  "explicacao": [
-   "Em outubro, a China apresentou uma desaceleração mais forte do que o esperado na produção industrial, investimentos e vendas no varejo. Esses três indicadores econômicos são fundamentais para medir a atividade econômica do país.",
-   "A desaceleração ocorre devido a uma demanda interna fraca, o que tem pressionado as autoridades chinesas a considerar acelerar os gastos com estímulos econômicos para reaquecer o consumo e os investimentos.",
-   "Isso significa que o crescimento da economia chinesa pode estar mais lento no curto prazo, afetando a confiança do mercado global, já que a China é uma das maiores economias e consumidoras mundiais.",
-   "As próximas ações esperadas são o aumento dos estímulos por parte do governo chinês para tentar reverter essa queda e promover maior dinamismo econômico, o que pode ter repercussão nos mercados internacionais."
-  ],
-  "detalhes": [
-   "Os dados são referentes a outubro de 2026",
-   "A produção industrial, investimentos e varejo são indicadores mensais da economia chinesa",
-   "A fraqueza da demanda interna é a principal causa da desaceleração",
-   "O governo pretende usar estímulos econômicos para reverter o cenário",
-   "Essa medida busca fortalecer o consumo e o investimento no país",
-   "Impactos podem ser sentidos no comércio global devido à relevância da China",
-   "A expectativa do mercado era por desaceleração, mas menor do que a realidade mostrada"
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "Outubro de 2026",
-    "oque": "Dados econômicos mostram desaceleração na produção, investimentos e vendas no varejo"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Produção industrial",
-    "significado": "Medida da quantidade de bens produzidos pelas fábricas do país"
-   },
-   {
-    "termo": "Investimentos",
-    "significado": "Gastos em obras, máquinas e equipamentos que aumentam a capacidade produtiva"
-   },
-   {
-    "termo": "Vendas no varejo",
-    "significado": "Total de vendas ao consumidor final em lojas e estabelecimentos"
-   }
-  ],
-  "pergunta": "Como você acha que a desaceleração na China afeta o mercado brasileiro?",
-  "tamanhoTexto": 64,
-  "numeros": [],
-  "comparativo": [],
-  "destaque": "desaceleração mais forte",
-  "porQueImporta": "Essa desaceleração é relevante para investidores e operadores porque indica possíveis ajustes na política econômica chinesa, que afetam os mercados globais e setores vinculados à demanda da China, como commodities e tecnologia.",
-  "impactoMercado": "O enfraquecimento da economia chinesa pode impactar setores exportadores brasileiros, o preço de commodities e influenciar o humor dos mercados financeiros, que acompanham de perto os estímulos econômicos do país.",
-  "entenda": "A produção industrial, investimentos e vendas no varejo são indicadores que medem a saúde econômica do país. Quando desaceleram, indicam que a economia está crescendo menos ou em contração, o que pode levar o governo a intervir para estimular o consumo e os negócios.",
-  "observar": "Fique atento aos próximos dados econômicos da China e anúncios de medidas de estímulo, que podem indicar os rumos da economia no curto prazo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicar a desaceleração chinesa ajuda a entender como indicadores influenciam decisões governamentais e impactos globais, convidando a aprender mais sobre economia na faculdade.",
-  "gancho": "*China* desacelera economia",
-  "ideias": [
-   "O que significa a desaceleração da economia chinesa?",
-   "Como estímulos do governo chinês influenciam o mercado global",
-   "Entenda produção industrial, investimentos e varejo na China"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 12,
-  "status": "nova",
-  "coletadoEm": "2026-11-16T08:32:44-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468055",
-  "publicadoEm": "2026-11-16T08:09:00-03:00",
-  "data": "2026-11-16",
-  "id": "2026-11-16-06"
  }
 ]
