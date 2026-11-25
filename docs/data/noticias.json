@@ -1,5 +1,391 @@
 [
  {
+  "titulo": "Banco Central limita crédito rotativo para conter endividamento em 2027",
+  "resumo": "Banco Central e CMN aprovam regras que reduzem limite do cartão para quem usa crédito rotativo várias vezes. Medidas entram em vigor a partir de 1º de julho de 2027 para proteger consumidores e reduzir risco de dívidas altas.",
+  "fatos": [
+   "Banco Central (BC) e CMN aprovaram regras para controle do crédito e endividamento em 25/11/2026.",
+   "Redução gradual do limite do cartão para quem usar crédito rotativo três vezes ou mais em seis meses.",
+   "Restrições terminam com pagamento integral de seis faturas consecutivas ou quitação do rotativo.",
+   "Contratação de crédito deverá ocorrer por canais seguros como apps e internet banking.",
+   "Proteção reforçada para clientes com dívidas em atraso há 90 dias ou mais em operações sem garantia.",
+   "Medidas entram em vigor em 1º de julho de 2027, exceção para negociação de direitos creditórios em 1º de novembro de 2027.",
+   "Instituições devem acompanhar risco e endividamento ao longo do ciclo de crédito.",
+   "Proposta de cálculo do Comprometimento Financeiro Individual (CFI) passará por consulta pública.",
+   "Transferência de dívidas a terceiros não pode reduzir direitos do consumidor.",
+   "Instituições que transferirem dívidas permanecem responsáveis pelo atendimento e informações."
+  ],
+  "explicacao": [
+   "O Banco Central (BC) e o Conselho Monetário Nacional (CMN) anunciaram novas regras para controlar o crédito e reduzir o endividamento das pessoas físicas. A principal medida é a redução gradual do limite de crédito no cartão para clientes que usarem com frequência o crédito rotativo, especialmente se deixarem de pagar integralmente três ou mais faturas em seis meses e financiarem o saldo pelo rotativo.",
+   "As medidas buscam preservar o cartão como meio de pagamento e evitar que o uso do rotativo eleve a dívida excessivamente. As instituições deverão comunicar os clientes antes de reduzir seu limite, e a restrição acaba quando o consumidor paga seis faturas completas consecutivas ou quita o saldo rotativo. A regra vale para todo o sistema financeiro, não só para uma instituição isolada.",
+   "Além disso, será obrigatório que a contratação do crédito ocorra por canais seguros, como apps e internet banking, com confirmação da identidade do cliente e registro do consentimento. Clientes com dívidas em atraso de 90 dias ou mais em modalidades sem garantia terão proteção reforçada, e as instituições não poderão aumentar empréstimos nesses casos, salvo exceções como crédito consignado.",
+   "Outras regras envolvem maior transparência e monitoramento do endividamento, acompanhamento de operações mesmo após venda das dívidas a terceiros, e a criação do indicador Comprometimento Financeiro Individual (CFI). A implementação geral começa em 1º de julho de 2027, com negociação de direitos creditórios valendo a partir de 1º de novembro."
+  ],
+  "detalhes": [
+   "Medida vale para clientes que deixaram de pagar integralmente três ou mais faturas em meses diferentes em seis meses.",
+   "O uso frequente do crédito rotativo é identificado considerando as dívidas do cliente em todo o sistema financeiro.",
+   "Além do crédito rotativo, o BC impõe limites à ampliação de crédito para clientes com inadimplência prolongada.",
+   "Contratação precisa ser finalizada pelos próprios canais da instituição, mesmo que a oferta seja feita por telefone ou mensagens.",
+   "Regras consideram compensações para clientes, como renegociação e portabilidade das dívidas.",
+   "Transferências de direitos creditórios a fundos e securitizadoras devem preservar direitos do cliente.",
+   "Consultas públicas sobre o indicador CFI duram 90 dias, buscando ampliar transparência e monitoramento."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Comunicado do CMN",
+    "oque": "Iniciativas fortalecem concessão sustentável de crédito e disciplina de mercado para preservar a saúde financeira."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25/11/2026",
+    "oque": "BC e CMN aprovam regras para controlar crédito rotativo e endividamento."
+   },
+   {
+    "quando": "1º de julho de 2027",
+    "oque": "Entram em vigor a maior parte das novas regras de crédito."
+   },
+   {
+    "quando": "1º de novembro de 2027",
+    "oque": "Começa a valer a regra sobre negociação de direitos creditórios."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Crédito rotativo",
+    "significado": "Modalidade que permite pagar menos do cartão com juros altos no saldo restante."
+   },
+   {
+    "termo": "Comprometimento Financeiro Individual (CFI)",
+    "significado": "Indicador que relaciona dívidas mensais à capacidade de pagamento do consumidor."
+   },
+   {
+    "termo": "Negociação de direitos creditórios",
+    "significado": "Venda de créditos a investidores fora do sistema bancário."
+   }
+  ],
+  "pergunta": "Você já usou o crédito rotativo do cartão? Como controla seu limite?",
+  "tamanhoTexto": 14087,
+  "numeros": [
+   {
+    "valor": "3",
+    "rotulo": "faturas não pagas integralmente em seis meses para ativar restrição"
+   },
+   {
+    "valor": "6",
+    "rotulo": "faturas consecutivas pagas para encerrar restrição"
+   },
+   {
+    "valor": "90",
+    "rotulo": "dias de atraso para proteção reforçada ao cliente"
+   },
+   {
+    "valor": "1º de julho de 2027",
+    "rotulo": "data de início das novas regras"
+   },
+   {
+    "valor": "1º de novembro de 2027",
+    "rotulo": "data de início da regra sobre direitos creditórios"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "redução gradual do",
+  "porQueImporta": "Essa regulação é importante para investidores e operadores porque pode reduzir o risco de inadimplência nas carteiras de crédito, impactando bancos e financeiras. Com o controle mais rígido no crédito rotativo, o endividamento excessivo pode ser evitado, trazendo maior estabilidade financeira para consumidores e instituições.",
+  "impactoMercado": "O mercado pode observar uma redução gradativa na rentabilidade de operações mais arriscadas do crédito rotativo, enquanto setores ligados ao crédito consignado e garantias reais podem se fortalecer. A novidade também reforça a fiscalização do risco e a transparência, elementos que influenciam políticas de crédito e precificação de ativos financeiros.",
+  "entenda": "O crédito rotativo do cartão é um financiamento automático usado quando o cliente não paga a fatura total. É a modalidade com juros muito altos e principal causa de endividamento elevado. O BC, ao limitar esse uso, busca melhorar a saúde financeira dos consumidores e garantir maior controle para instituições financeiras.",
+  "observar": "Fique atento para consulta pública sobre o CFI que vai durar 90 dias e, após 1º de julho de 2027, quando as novas regras entram em vigor para controle do crédito rotativo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT"
+  ],
+  "angulo": "Essa notícia conecta o funcionamento do crédito rotativo e o endividamento à regulação financeira, mostrando a importância de entender riscos e limites para gerir finanças e investir com mais consciência.",
+  "gancho": "*Crédito Rotativo* e *Endividamento*",
+  "ideias": [
+   "Entenda o crédito rotativo e suas regras novas",
+   "Como as mudanças do BC afetam seu limite no cartão",
+   "Dicas para evitar o endividamento no cartão de crédito"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "cadeado",
+  "fonte": "Times Brasil; G1 Economia; InfoMoney",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:47:48-03:00",
+  "url": "https://timesbrasil.com.br/brasil/banco-central-aprova-regras-para-limitar-credito-rotativo-e-conter-endividamento/",
+  "publicadoEm": "2026-11-25T20:07:48-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-20"
+ },
+ {
+  "titulo": "Queda na entrega de fertilizantes pesa no custo do produtor em 2026",
+  "resumo": "Após recorde de 49,1 milhões de toneladas em 2025, entrega de fertilizantes cai para 43,2 milhões em 2026, queda prevista de 12%. A alta do custo dos insumos e guerra no Irã explicam a desaceleração.",
+  "fatos": [
+   "Em 2025 foram entregues 49,1 milhões de toneladas de fertilizantes às lavouras.",
+   "Para 2026, a previsão é de 43,2 milhões de toneladas, queda de 12%.",
+   "Importações estão em 190 mil toneladas por dia útil, 7,3% acima do ano anterior.",
+   "Produtores de soja em Mato Grosso gastam 20,5 sacas para tonelada de fertilizante, número próximo a 2025.",
+   "Produtores de milho no Paraná gastam 70,6 sacas por tonelada, ante 56,5 há um ano.",
+   "Preço da ureia caiu de US$ 880 em abril para cerca de US$ 440, ainda acima do nível de 2025.",
+   "Importações de fertilizantes somaram 32,7 milhões de toneladas de janeiro a outubro, abaixo das 38,3 milhões no mesmo intervalo do ano anterior.",
+   "Gastos com fertilizantes caíram 4%, para US$ 12,7 bilhões no período.",
+   "Principais fornecedores em volume: Rússia, China e Canadá.",
+   "Juros altos e crédito restrito dificultam a compra pelos produtores."
+  ],
+  "explicacao": [
+   "Em 2025, as indústrias entregaram aos produtores um recorde de 49,1 milhões de toneladas de fertilizantes, conforme a consultoria MacroSector. Para 2026, a previsão é queda para 43,2 milhões de toneladas, representando 12% a menos em vendas, impactando o setor agrícola.",
+   "Essa redução se dá devido à queda nos preços das commodities no mercado global e ao aumento dos custos dos insumos, especialmente por causa da guerra no Irã, que afetou áreas produtoras e rotas de distribuição.",
+   "A relação de troca, ou seja, a quantidade de produtos agrícolas necessária para comprar fertilizantes, piorou para muitos produtores. Apesar de recente melhora nos preços internacionais dos fertilizantes e aumento das importações, ainda pesa mais que em novembro de 2025.",
+   "Fatores como juros altos, dificuldade de crédito e endividamento também inibem os produtores na hora de adquirir insumos. A expectativa é que os produtores monitorem custo e oferta, adaptando as compras à realidade financeira e do mercado."
+  ],
+  "detalhes": [
+   "A queda esperada de 43,2 milhões em 2026 é em relação às 49,1 milhões de toneladas entregues em 2025.",
+   "O conflito no Irã afetou produção e logística de fertilizantes, impactando preços e oferta.",
+   "Relação de troca representa quantas sacas de produto o agricultor precisa trocar por uma tonelada de fertilizante, indicador de custo.",
+   "Apesar da melhora nos preços dos fertilizantes recentemente, eles ainda não voltaram a patamares normais.",
+   "Produtores de milho no Paraná enfrentam maior aumento da relação de troca, refletindo maior pressão no custo.",
+   "Indústrias também enfrentam falta de matéria-prima, como enxofre, limitando produção de fertilizantes fosfatados.",
+   "O solo ainda retém nutrientes dos anos anteriores, o que contribui para menor uso de fertilizantes na expansão agrícola."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Andrei Rodrigues, consultoria MacroSector",
+    "oque": "A relação de troca melhorou após queda nos preços, mas ainda pesa para vários produtores."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2025",
+    "oque": "Recorde de entrega de 49,1 milhões de toneladas de fertilizantes."
+   },
+   {
+    "quando": "2026 (jan-out)",
+    "oque": "Importações caem para 32,7 milhões de toneladas, abaixo do ano anterior."
+   },
+   {
+    "quando": "abril 2026",
+    "oque": "Preço da ureia chegou a US$ 880 por tonelada, depois caiu para US$ 440."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Relação de troca",
+    "significado": "Quantidade de produto trocada por uma unidade de fertilizante"
+   },
+   {
+    "termo": "Fosfatados",
+    "significado": "Tipo de fertilizante à base de fósforo"
+   },
+   {
+    "termo": "Commodities",
+    "significado": "Produtos básicos, como soja e milho, comercializados globalmente"
+   }
+  ],
+  "pergunta": "Como você acha que o custo dos fertilizantes impacta a produção agrícola?",
+  "tamanhoTexto": 7109,
+  "numeros": [
+   {
+    "valor": "49,1 milhões",
+    "rotulo": "fertilizantes entregues em 2025"
+   },
+   {
+    "valor": "43,2 milhões",
+    "rotulo": "previsão de entrega em 2026"
+   },
+   {
+    "valor": "12%",
+    "rotulo": "queda na venda prevista"
+   },
+   {
+    "valor": "190 mil",
+    "rotulo": "toneladas diárias de importação (2026)"
+   },
+   {
+    "valor": "7,3%",
+    "rotulo": "aumento das importações em relação ao ano anterior"
+   },
+   {
+    "valor": "20,5 sacas",
+    "rotulo": "soja para 1 tonelada de fertilizante em MT"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Preço da ureia",
+    "antes": "US$ 880 (abril 2026)",
+    "depois": "US$ 440 (novembro 2026)"
+   },
+   {
+    "item": "Importações de fertilizantes (jan-out)",
+    "antes": "38,3 milhões (ano anterior)",
+    "depois": "32,7 milhões (2026)"
+   },
+   {
+    "item": "Relação de troca milho Paraná",
+    "antes": "56,5 sacas (há um ano)",
+    "depois": "70,6 sacas (2026)"
+   }
+  ],
+  "destaque": "queda de 12%",
+  "porQueImporta": "Para investidores e operadores, entender a queda na entrega de fertilizantes ajuda a analisar o custo da produção agrícola, afetando potencial oferta de commodities e setores ligados à cadeia do agronegócio no mercado.",
+  "impactoMercado": "A redução na venda de fertilizantes e custos elevados indicam menor demanda do setor agrícola, o que pode pressionar empresas do setor, alterar fluxo de importações e influenciar setores ligados a commodities e crédito agrícola.",
+  "entenda": "Fertilizantes são insumos essenciais para o campo, influenciando o custo de produção. Relação de troca indica quantos sacos da colheita são necessários para comprar fertilizantes, ajudando a medir a pressão financeira sobre o produtor.",
+  "observar": "Acompanhe nos próximos meses dados de importação de fertilizantes, preços internacionais da ureia e evolução nos custos de crédito agrícola para avaliar a recuperação do setor produtivo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Essa notícia ajuda a entender como fatores globais influenciam o custo agrícola e, consequentemente, a performance de setores ligados ao agronegócio no mercado financeiro.",
+  "gancho": "*fertilizantes* e custo no campo",
+  "ideias": [
+   "Queda na entrega de fertilizantes: impacto para o agricultor",
+   "Entenda a relação de troca e por que pesa no custo do produtor",
+   "Como preços internacionais afetam o mercado de fertilizantes no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:47:48-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/relacao-de-troca-melhora-mas-fertilizante-ainda-pesa-na-conta-do-produtor.shtml",
+  "publicadoEm": "2026-11-25T20:30:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-21"
+ },
+ {
+  "titulo": "Frustração com IA derruba bolsas asiáticas e americanas em 25/11",
+  "resumo": "Na quarta (25), ações de IA caíram nas bolsas dos EUA e Ásia. Nasdaq 100 recuou 0,6% e Kospi caiu 6,16%, refletindo dúvidas sobre retorno dos investimentos.",
+  "fatos": [
+   "Nasdaq 100 caiu 0,6% após recuar até 4,7% na abertura.",
+   "S&P 500 fechou em baixa de 0,3%, recuperando queda inicial de 3,2%.",
+   "Ações da Nvidia caíram 3,9%, revertendo cerca de 40% do ganho de segunda (23).",
+   "Kospi (Coreia do Sul) recuou 6,16%, o maior tombo entre índices asiáticos.",
+   "TWSE (Taiwan) registrou queda de 4,8%.",
+   "Nikkei (Japão) caiu 2,78%.",
+   "Hang Seng (Hong Kong) teve queda de 1,14%.",
+   "Governo dos EUA propôs tarifas de 20% sobre produtos da China para combater excesso estrutural de capacidade industrial.",
+   "Também foram propostas tarifas de 10% sobre aeronaves brasileiras e sobre açúcar."
+  ],
+  "explicacao": [
+   "Na quarta-feira, 25 de novembro de 2026, as ações de empresas ligadas à inteligência artificial sofreram quedas expressivas nos mercados asiáticos e americanos, provocando perdas nos principais índices, como Nasdaq 100 e Kospi.",
+   "A queda foi motivada pela incerteza quanto à capacidade dessas empresas de sustentar os elevados investimentos no setor e pela dúvida sobre os retornos financeiros futuros dessas aplicações.",
+   "Além disso, o anúncio de novas tarifas comerciais dos EUA, especialmente contra a China, ampliou o pessimismo nas bolsas asiáticas, impactando fabricantes essenciais para o ecossistema de IA e a cadeia global de tecnologia.",
+   "Os mercados americanos recuperaram parte das perdas no dia, mas o cenário permanece cauteloso, com expectativa pelo próximo pregão completo em 30 de novembro após o feriado de Ação de Graças."
+  ],
+  "detalhes": [
+   "Data do evento: quarta-feira, 25 de novembro de 2026.",
+   "Nasdaq 100 e S&P 500 recuperaram parte das perdas durante o pregão.",
+   "Queda asiática agravada por medidas tarifárias anunciadas pelo governo Trump.",
+   "Nvidia perdeu parte da alta recente após recondução do CEO Jensen Huang.",
+   "Mercados asiáticos são sensíveis por presença forte de fabricantes de chips.",
+   "Próximo pregão completo nos EUA será em 30 de novembro devido ao feriado.",
+   "Tarifas dos EUA impactam diretamente a China e atingem o Brasil em setores estratégicos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Análise de Luu (nome e cargo não detalhados)",
+    "oque": "O retorno do CEO da Nvidia intensificou o escrutínio sobre o setor de IA e sua sustentabilidade."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "segunda-feira, 23 de novembro de 2026",
+    "oque": "Nvidia teve disparada após reencomenda de Jensen Huang ao cargo de CEO."
+   },
+   {
+    "quando": "quarta-feira, 25 de novembro de 2026",
+    "oque": "Mercados asiáticos e americanos sofreram quedas significativas nas ações de IA."
+   },
+   {
+    "quando": "30 de novembro de 2026",
+    "oque": "Próximo pregão completo dos EUA após feriado de Ação de Graças."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Índice Bolsa",
+    "significado": "Mede o desempenho conjunto de várias ações numa bolsa."
+   },
+   {
+    "termo": "Tarifas comerciais",
+    "significado": "Impostos sobre produtos importados para proteger a indústria local."
+   },
+   {
+    "termo": "Inteligenia Artificial (IA)",
+    "significado": "Tecnologia que simula inteligência humana em máquinas."
+   }
+  ],
+  "pergunta": "Você acha que as tarifas vão frear os avanços no setor de IA?",
+  "tamanhoTexto": 6470,
+  "numeros": [
+   {
+    "valor": "0,6%",
+    "rotulo": "queda do Nasdaq 100 em 25/11"
+   },
+   {
+    "valor": "6,16%",
+    "rotulo": "queda do Kospi na Coreia do Sul"
+   },
+   {
+    "valor": "3,9%",
+    "rotulo": "queda das ações da Nvidia"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "tarifa proposta pelos EUA à China"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "tarifa proposta pelos EUA sobre aeronaves do Brasil"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "Queda de 6,16%",
+  "porQueImporta": "Esta notícia é relevante para investidores porque mostra a volatilidade do setor de IA, impacto das políticas comerciais e a sensibilidade dos mercados a medidas externas que podem afetar retornos e investimentos em tecnologia.",
+  "impactoMercado": "A retração nas ações de tecnologia e IA pode influenciar o desempenho dos índices, pressionar empresas do setor e gerar cautela para investimentos futuros, especialmente em mercados asiáticos fortemente ligados à cadeia produtiva global.",
+  "entenda": "Índices como Nasdaq 100 e Kospi refletem a variação dos preços das principais ações listadas. Tarifas comerciais são impostos que países aplicam em produtos importados, impactando preços e o fluxo de comércio global, gerando efeitos sobre mercados e investimentos.",
+  "observar": "Fique atento ao pregão completo de 30 de novembro nos EUA para avaliar os próximos movimentos, e acompanhe decisões políticas comerciais que podem afetar mercados e cadeias globais de tecnologia.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia ilustra como decisões políticas e resultados financeiros repercutem diretamente no mercado de tecnologia, motivando quem quer entender os riscos e oportunidades da bolsa e a importância de educação financeira sólida.",
+  "gancho": "*Queda* em ações de IA nos mercados",
+  "ideias": [
+   "Como a IA afeta sua carteira? Entenda a recente queda",
+   "Por que as ações de tecnologia caíram nos EUA e Ásia?",
+   "Tarifas comerciais e o impacto no mercado de IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "queda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:47:48-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/frustracao-com-empresas-de-ia-derruba-acoes-em-indices-asiaticos-e-americanos.shtml",
+  "publicadoEm": "2026-11-25T20:36:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-22"
+ },
+ {
   "titulo": "EUA propõem tarifa extra de 10% sobre aviões brasileiros e açúcar",
   "resumo": "Trump anunciou propostas para taxar aviões e açúcar do Brasil, afetando Embraer e importações. As propostas envolvem consulta pública até janeiro de 2027.",
   "fatos": [
