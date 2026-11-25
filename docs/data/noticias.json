@@ -1,5 +1,553 @@
 [
  {
+  "titulo": "EUA propõem tarifa extra de 10% sobre aviões brasileiros e açúcar",
+  "resumo": "Trump anunciou propostas para taxar aviões e açúcar do Brasil, afetando Embraer e importações. As propostas envolvem consulta pública até janeiro de 2027.",
+  "fatos": [
+   "Proposta de tarifa adicional de 10% para aviões brasileiros",
+   "Aumento do imposto sobre açúcar importado do Brasil",
+   "China receberia sobretaxa de até 20% por excesso de capacidade industrial",
+   "Propostas envolvem 14 parceiros comerciais além do Brasil e China",
+   "Planes brasileiros perderiam isenção tributária aplicada em julho de 2026",
+   "Embraer acionou análise sobre a proposta e teve queda de até 9,2% em ações",
+   "Consulta pública e audiências seguem até 14 de janeiro de 2027",
+   "Embraer atua há mais de 45 anos nos EUA com US$ 3,5 bilhões em ativos",
+   "Aviões prontos são quarto maior produto exportado pelo Brasil aos EUA"
+  ],
+  "explicacao": [
+   "Nesta quarta-feira (25/11/2026), o governo dos EUA, liderado por Donald Trump, propôs uma tarifa adicional de 10% sobre aviões brasileiros e aumento de impostos sobre o açúcar importado do Brasil. A medida ameaça a Embraer, fabricante afetada diretamente pelo fim da isenção que tinha até julho.",
+   "A motivação do governo americano é revisar exceções feitas ao 'tarifaço' de 25% imposto em julho sobre produtos brasileiros e combater o chamado 'excesso de capacidade industrial' em 14 parceiros comerciais, incluindo a China com tarifa proposta de até 20%.",
+   "Estas propostas ainda não estão valendo. Passam por consulta pública até 5 de janeiro de 2027, com audiências em 14 de janeiro. Só após esse processo o governo americano decidirá sobre a validade e valores das tarifas.",
+   "Para o Brasil, a decisão pode impactar exportações de aeronaves e açúcar, podendo encarecer produtos e reduzir margens, além de pressionar negociações comerciais entre os países com reflexos para empresas e mercado financeiro locais."
+  ],
+  "detalhes": [
+   "A tarifa de 10% sobre aviões acabou com a isenção vigente desde década de 1980",
+   "Para açúcar, proposta inclui tarifa por quilo e aumento sobre importações fora da cota",
+   "USTR afirma objetivo de evitar redirecionamento de açúcar por outros países",
+   "Produtos chineses sofrem acréscimo além das tarifas estabelecidas no primeiro mandato Trump",
+   "Vietnã, Índia e Singapura podem ter tarifas reduzidas se fecharem acordos comerciais",
+   "Audiência pública sobre as tarifas para Brasil marcada para 14/01/2027",
+   "Até 7/12/2026, interessados devem enviar pedidos para participar da audiência"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Jamieson Greer, representante comercial americano",
+    "oque": "Medidas pressionam o Brasil a avançar nas negociações comerciais, paradas desde julho de 2026."
+   },
+   {
+    "quem": "Embraer (comunicado oficial)",
+    "oque": "Defendemos a manutenção do regime de tarifa zero para a indústria aeroespacial global."
+   },
+   {
+    "quem": "Sidney Lima, analista da Ouro Preto Investimentos",
+    "oque": "Tarifa pode reduzir margens da Embraer e encarecer aeronaves, mas parte do custo pode ser repassado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "julho de 2026",
+    "oque": "EUA impõem tarifa de 25% sobre produtos brasileiros, com exceções para aviões e parte do açúcar."
+   },
+   {
+    "quando": "25 de novembro de 2026",
+    "oque": "Trump anuncia propostas para tarifas adicionais contra Brasil e outros 14 parceiros."
+   },
+   {
+    "quando": "7 de dezembro de 2026",
+    "oque": "Data final para pedido de participação em audiência pública nos EUA."
+   },
+   {
+    "quando": "14 de janeiro de 2027",
+    "oque": "Audiência pública para discutir tarifas sobre aviões e açúcar brasileiros."
+   },
+   {
+    "quando": "30 de dezembro de 2026",
+    "oque": "Prazo para envio de comentários escritos sobre as propostas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Tarifa adicional",
+    "significado": "Imposto extra sobre importações que aumenta preço dos produtos estrangeiros."
+   },
+   {
+    "termo": "Seção 301",
+    "significado": "Lei dos EUA que permite tarifas para proteger indústria contra práticas comerciais desleais."
+   },
+   {
+    "termo": "Consulta pública",
+    "significado": "Processo oficial para ouvir opiniões antes de implementar regras ou tarifas."
+   }
+  ],
+  "pergunta": "Como você acredita que essa tarifa afetará o mercado brasileiro?",
+  "tamanhoTexto": 19418,
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "tarifa proposta sobre aviões brasileiros"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "sobretaxa máxima proposta para produtos chineses"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "tarifa inicial já aplicada sobre produtos brasileiros em julho"
+   },
+   {
+    "valor": "3,5 bilhões",
+    "rotulo": "em dólares, ativos da Embraer nos EUA"
+   },
+   {
+    "valor": "45 anos",
+    "rotulo": "de atuação da Embraer no mercado americano"
+   },
+   {
+    "valor": "7%",
+    "rotulo": "queda inicial das ações da Embraer após anúncio"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Tarifa sobre aviões brasileiros",
+    "antes": "isenção tributária",
+    "depois": "tarifa adicional de 10%"
+   },
+   {
+    "item": "Tarifa sobre produtos chineses",
+    "antes": "cerca de 25%",
+    "depois": "até 45% (soma da tarifa anterior e proposta de 20%)"
+   }
+  ],
+  "destaque": "10% tarifa proposta",
+  "porQueImporta": "Essa proposta dos EUA sobre tarifas pode afetar diretamente exportadoras brasileiras, especialmente a Embraer, exacerbando conflitos comerciais e aumentando custos das exportações, com impacto nas negociações bilaterais e no mercado financeiro brasileiro.",
+  "impactoMercado": "O aumento das tarifas pode pressionar ações da Embraer, encarecer aeronaves e açúcar brasileiros no mercado americano, influenciar relações comerciais e gerar volatilidade em setores aeroespacial e agronegócio, além de poder reforçar tensões entre EUA e parceiros.",
+  "entenda": "Tarifas são impostos extras cobrados sobre produtos importados que aumentam seu custo. O governo dos EUA usa essas taxas para proteger suas indústrias locais e pressionar parceiros comerciais a ajustar políticas que considera injustas.",
+  "observar": "Acompanhe o encerramento da consulta pública em 5 de janeiro de 2027 e a audiência pública de 14 de janeiro para entender decisões finais que podem alterar tarifas sobre aviões e açúcar brasileiros.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Explorar a complexidade das relações comerciais e suas tarifas para quem quer entender como decisões internacionais influenciam ações brasileiras e estratégias de negociação.",
+  "gancho": "*Tarifas* e impacto *Embraer*",
+  "ideias": [
+   "Como funcionam as tarifas entre países?",
+   "Entenda o impacto da tarifa de 10% sobre aviões brasileiros",
+   "O que o aumento do imposto sobre açúcar significa para o Brasil?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "seta",
+  "fonte": "G1 Economia; Seu Dinheiro",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T16:36:39-03:00",
+  "url": "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml",
+  "publicadoEm": "2026-11-25T12:19:52-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-16"
+ },
+ {
+  "titulo": "Dólar recua a R$ 5,80; Bolsa sobe com sinal de ajuste fiscal e inflação dos EUA",
+  "resumo": "Dólar cai 1,54% e fecha a R$ 5,814 na quarta-feira (25). Ibovespa avança 1,76% após notícias de controle de gastos e dados de inflação nos EUA.",
+  "fatos": [
+   "Dólar recuou 1,54% e foi cotado a R$ 5,814 em 25 de outubro",
+   "Ibovespa subiu 1,76%, encerrando nos 167.016,27 pontos na mesma data",
+   "Déficit primário projetado para 2023 ampliado de R$ 80,9 bi para R$ 89,3 bi",
+   "Ministro Bruno Moretti confirmou elaboração de medidas fiscais para conter gastos",
+   "Proposta dos EUA inclui tarifa adicional de 10% sobre aeronaves brasileiras",
+   "Índice de preços PCE nos EUA subiu 0,3% em outubro, reforçando expectativas de alta de juros",
+   "Embraer teve queda de até 9,6% no pregão devido às tarifas norte-americanas",
+   "Petrobras avançou mais de 2% nas ações preferenciais após alta do petróleo",
+   "Banqueiro Luiz Carlos Trabuco se reuniu com Lula, especula-se convite ao Ministério da Fazenda",
+   "FedWatch indica 95% de chance de alta de juros pelo Fed em dezembro"
+  ],
+  "explicacao": [
+   "Na quarta-feira (25), o dólar iniciou o dia em alta e atingiu R$ 5,97, mas recuou 1,54% no início da tarde, cotado a R$ 5,814, influenciado por sinalizações do governo Lula sobre medidas para controle dos gastos públicos e ajuste fiscal.",
+   "O movimento do dólar opôs-se à alta da moeda americana no exterior, num contexto marcado pela proposta dos EUA de impor tarifas de 10% sobre aeronaves brasileiras e pela inflação mais alta que o esperado nos Estados Unidos reforçando a expectativa de maior aperto monetário lá.",
+   "No mesmo pregão, o Ibovespa teve alta de 1,76%, atingindo 167.016,27 pontos, beneficiado pela expectativa de medidas fiscais e possibilidade do ex-presidente do conselho do Bradesco, Luiz Carlos Trabuco, assumir o Ministério da Fazenda, sinalizando pontes com o mercado financeiro.",
+   "Além disso, o ministro do Planejamento, Bruno Moretti, confirmou que a equipe econômica prepara um 'cardápio' de medidas para ajustar o déficit primário, ampliado para R$ 89,3 bilhões em 2023, em um esforço de conter despesas obrigatórias e assegurar metas fiscais."
+  ],
+  "detalhes": [
+   "O dólar abriu o dia em alta a R$ 5,97, mas recuou após notícias do governo",
+   "O governo Lula trabalha em ajustes fiscais sem uma proposta única, como PEC",
+   "A proposta tarifária americana usa a Seção 301 da Lei de Comércio de 1974 para tarifas",
+   "A inflação preferida do Fed, núcleo do PCE, subiu acima do esperado em outubro",
+   "Os papéis da Embraer foram os mais prejudicados pela ameaça tarifária, caindo até 9,6%",
+   "Os bancos tiveram desempenho misto, com Bradesco e Banco do Brasil em alta, Santander em baixa",
+   "O BC realizou leilões de linha para ampliar a liquidez do mercado de dólar à vista"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Rebecca Nossig, estrategista de ações da Nomad",
+    "oque": "Mercado acompanha controle dos gastos e impacto das quedas das commodities nos papéis"
+   },
+   {
+    "quem": "Felipe Miranda, economista e ex-CEO da Empiricus",
+    "oque": "Novas medidas fiscais e possíveis nomes no BC e Fazenda aumentam otimismo dos ativos"
+   },
+   {
+    "quem": "Bruno Moretti, ministro do Planejamento e Orçamento",
+    "oque": "Não há proposta única de ajuste, mas sim discussões contínuas com espaço para avançar"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de outubro de 2023",
+    "oque": "Dólar recua a R$ 5,814; Ibovespa sobe para 167.016 pontos"
+   },
+   {
+    "quando": "23 de outubro de 2023",
+    "oque": "Luiz Carlos Trabuco se reuniu com Lula fora da agenda oficial"
+   },
+   {
+    "quando": "9 de dezembro de 2023",
+    "oque": "Reunião do Fed prevista para provável alta de juros de 25 pb"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Déficit Primário",
+    "significado": "Despesas públicas maiores que receitas, excluindo juros da dívida"
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede a performance das principais ações da bolsa brasileira"
+   },
+   {
+    "termo": "PCE",
+    "significado": "Índice de preços preferido pelo Federal Reserve para medir inflação"
+   }
+  ],
+  "pergunta": "Você acha que o governo conseguirá controlar o déficit e manter a confiança do mercado?",
+  "tamanhoTexto": 13251,
+  "numeros": [
+   {
+    "valor": "1,54%",
+    "rotulo": "queda do dólar em 25/10"
+   },
+   {
+    "valor": "R$ 5,814",
+    "rotulo": "cotação do dólar às 16h de 25/10"
+   },
+   {
+    "valor": "1,76%",
+    "rotulo": "alta do Ibovespa em 25/10"
+   },
+   {
+    "valor": "167.016,27",
+    "rotulo": "pontos do Ibovespa em 25/10"
+   },
+   {
+    "valor": "R$ 89,3 bilhões",
+    "rotulo": "déficit primário projetado para 2023"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "tarifa adicional proposta pelos EUA sobre aeronaves brasileiras"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Déficit primário 2023",
+    "antes": "R$ 80,9 bilhões",
+    "depois": "R$ 89,3 bilhões"
+   },
+   {
+    "item": "Dólar (cotação abertura vs baixa do dia)",
+    "antes": "R$ 5,97",
+    "depois": "R$ 5,814"
+   }
+  ],
+  "destaque": "1,54% queda do",
+  "porQueImporta": "O recuo do dólar e a alta da bolsa indicam como sinais positivos do mercado a expectativa por controle fiscal no Brasil e o manejo da inflação nos EUA, fatores que impactam decisões de investimento e a aversão ao risco dentro do cenário econômico global.",
+  "impactoMercado": "A sinalização de ajuste fiscal no Brasil pode reduzir a volatilidade e fortalecer ativos locais, principalmente ações de bancos e commodities. No exterior, a pressão tarifária e a inflação pressionam juros americanos, afetando metais preciosos e o dólar globalmente.",
+  "entenda": "O dólar é a principal moeda de reserva internacional. Sua cotação influencia importações, exportações e investimentos. O Ibovespa é o principal índice da bolsa brasileira, refletindo o sentimento do investidor sobre as ações. O déficit primário indica o equilíbrio das contas públicas sem considerar juros.",
+  "observar": "Fique atento a possíveis anúncios da equipe econômica sobre medidas fiscais, a reunião do Fed em dezembro para definição da taxa de juros, e ao andamento das negociações comerciais entre Brasil e Estados Unidos.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "A notícia sobre ajuste fiscal e reações do mercado à inflação americana ajuda o seguidor a entender como decisões políticas e dados econômicos impactam o dólar e a bolsa, despertando interesse em aprender mais sobre mercado e finanças com a",
+  "gancho": "*Dólar*, *Fiscal* e *Bolsa* em movimento",
+  "ideias": [
+   "Entenda por que o dólar caiu e o Ibovespa subiu",
+   "Como o ajuste fiscal afeta o mercado financeiro brasileiro",
+   "Impacto dos juros nos EUA e tarifas americanas sobre brasileiros"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "moeda",
+  "fonte": "CNN Brasil; InvestNews",
+  "impacto": "alto",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T16:36:39-03:00",
+  "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-25-novembro-2026/",
+  "publicadoEm": "2026-11-25T16:14:37-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-17"
+ },
+ {
+  "titulo": "Brasil tem saída líquida de US$ 2,3 bi no câmbio em novembro até dia 19",
+  "resumo": "Entre 1º e 19 de novembro, o Brasil registrou saída líquida de US$ 2,301 bilhões segundo dados do Banco Central. Em outubro, o cenário foi oposto, com ingresso líquido de US$ 18,130 bilhões.",
+  "fatos": [
+   "Saída líquida no câmbio entre 1º e 19 de novembro: US$ 2,301 bilhões (R$ 13,39 bilhões).",
+   "Ingresso líquido no câmbio em outubro: US$ 18,130 bilhões (R$ 105,52 bilhões).",
+   "Canal financeiro teve saída líquida de US$ 6,045 bilhões (R$ 35,18 bilhões).",
+   "Compras financeiras somaram US$ 32,024 bilhões; vendas, US$ 38,068 bilhões.",
+   "Operações comerciais registraram saldo positivo de US$ 3,744 bilhões.",
+   "Exportações entre 1º e 19 de novembro foram US$ 15,832 bilhões; importações, US$ 12,088 bilhões.",
+   "Acumulado em 2026 (até 19 de novembro): entrada líquida de US$ 26,421 bilhões.",
+   "Superávit comercial em 2026 até 19/11 foi de US$ 58,631 bilhões; saídas financeiras, US$ 32,210 bilhões.",
+   "Exportações anuais somaram US$ 284,071 bilhões; importações, US$ 225,440 bilhões."
+  ],
+  "explicacao": [
+   "Entre 1º e 19 de novembro, o mercado de câmbio brasileiro teve saída líquida de US$ 2,301 bilhões (R$ 13,39 bilhões), conforme dados preliminares divulgados pelo Banco Central em 25 de novembro de 2026.",
+   "A saída negativa foi puxada pelo canal financeiro, com saldo líquido negativo de US$ 6,045 bilhões, resultado de compras de US$ 32,024 bilhões contra vendas de US$ 38,068 bilhões. Essas operações incluem investimentos diretos, carteira, remessas de lucros e juros.",
+   "Por outro lado, as operações comerciais tiveram saldo positivo de US$ 3,744 bilhões, com exportações de US$ 15,832 bilhões e importações de US$ 12,088 bilhões, o que contribuiu para compensar parte das saídas financeiras.",
+   "No acumulado entre janeiro e 19 de novembro, o país ainda teve entrada líquida de US$ 26,421 bilhões no câmbio, com superávit comercial de US$ 58,631 bilhões que superou as saídas financeiras de US$ 32,210 bilhões."
+  ],
+  "detalhes": [
+   "Dados provisórios divulgados em 25/11/2026 pelo Banco Central do Brasil.",
+   "Canal financeiro inclui investimentos diretos e em carteira, remessas de lucros e pagamentos de juros.",
+   "Exportações incluem US$ 1,759 bi em adiantamentos de contratos de câmbio (ACC) e US$ 2,788 bi em pagamentos antecipados (PA).",
+   "No comércio exterior, exportações superam importações, mantendo saldo positivo mesmo com saída financeira.",
+   "Em outubro, o Brasil teve ingresso líquido cambial muito maior, com US$ 18,130 bilhões.",
+   "O resultado parcial de novembro indica reversão no fluxo cambial em relação ao mês anterior.",
+   "No acumulado do ano, o saldo continua positivo mesmo com as recentes saídas líquidas."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "outubro de 2026",
+    "oque": "ingresso líquido de US$ 18,130 bilhões no mercado cambial."
+   },
+   {
+    "quando": "1º a 19 de novembro de",
+    "oque": "saída líquida de US$ 2,301 bilhões no mercado cambial."
+   },
+   {
+    "quando": "2026 até 19 de novembro",
+    "oque": "acúmulo de entrada líquida de US$ 26,421 bilhões no câmbio."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Canal financeiro",
+    "significado": "Transações financeiras como investimentos, remessas e juros."
+   },
+   {
+    "termo": "Operações comerciais",
+    "significado": "Movimentações de exportação e importação de bens e serviços."
+   },
+   {
+    "termo": "Entradas líquidas",
+    "significado": "Quando entram mais dólares no país do que saem."
+   }
+  ],
+  "pergunta": "Você acha que a saída de dólares em novembro vai impactar o preço do dólar no Brasil?",
+  "tamanhoTexto": 3571,
+  "numeros": [
+   {
+    "valor": "2,301 bilhões",
+    "rotulo": "saída líquida em dólares no câmbio em novembro até 19"
+   },
+   {
+    "valor": "18,130 bilhões",
+    "rotulo": "ingresso líquido em dólares no câmbio em outubro"
+   },
+   {
+    "valor": "6,045 bilhões",
+    "rotulo": "saída líquida do canal financeiro em dólares novembro até 19"
+   },
+   {
+    "valor": "3,744 bilhões",
+    "rotulo": "saldo positivo das operações comerciais em novembro até 19"
+   },
+   {
+    "valor": "26,421 bilhões",
+    "rotulo": "entrada líquida cambial em 2026 até 19 de novembro"
+   },
+   {
+    "valor": "58,631 bilhões",
+    "rotulo": "superávit comercial em dólares em 2026 até 19 de novembro"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Fluxo cambial novembro até 19",
+    "antes": "ingresso líquido de US$ 18,130 bi em outubro",
+    "depois": "saída líquida de US$ 2,301 bi em novembro até dia 19"
+   }
+  ],
+  "destaque": "saída líquida de",
+  "porQueImporta": "O fluxo cambial indica como capital e comércio afetam a moeda e a economia, influenciando preços, juros e investimentos. A recente saída líquida pode refletir maior cautela dos investidores no mercado financeiro brasileiro, importante para quem opera e acompanha o dólar.",
+  "impactoMercado": "A saída líquida no canal financeiro pode afetar a oferta de moeda estrangeira e pressionar o dólar, enquanto o superávit comercial tenta compensar. Setores exportadores, empresas que dependem de dólar e investidores monitoram esses fluxos para ajustar estratégias.",
+  "entenda": "Fluxo cambial é o balanço entre entrada e saída de dólares no país. Engloba operações financeiras (investimentos, remessas) e comerciais (exportações/importações). Saldo líquido positivo eleva reservas e potencialmente valoriza a moeda local; saldo negativo tem efeito contrário.",
+  "observar": "Acompanhe os dados definitivos do Banco Central sobre fluxo cambial até o final do mês e os indicadores comerciais para entender a continuidade deste movimento em novembro.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explica a dinâmica do fluxo cambial e seus impactos diretos para quem opera dólar e os mercados financeiros, ilustrando como entender números e tendências do Banco Central faz parte da educação em mercado financeiro.",
+  "gancho": "Fluxo *câmbio* novembro Brasil",
+  "ideias": [
+   "O que significa saída líquida no câmbio?",
+   "Como fluxo cambial afeta investidores no Brasil?",
+   "Análise do movimento financeiro em câmbio em novembro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T16:36:39-03:00",
+  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/brasil-registra-saida-liquida-de-us-23-bilhoes-em-novembro/",
+  "publicadoEm": "2026-11-25T16:03:19-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-18"
+ },
+ {
+  "titulo": "Ouro e prata caem com expectativa de alta dos juros nos EUA",
+  "resumo": "Ouro recua 0,73% e prata cai 1,77% após dado de inflação acima do esperado em outubro. A alta do núcleo do índice PCE reforça apostas em aumento de juros pelo Fed em dezembro.",
+  "fatos": [
+   "Ouro para dezembro caiu 0,73% a US$ 3.535,80 por onça-troy em 25/11/2026.",
+   "Prata para dezembro recuou 1,77% a US$ 40,058 por onça-troy na mesma data.",
+   "Núcleo do índice PCE avançou 3,3% em outubro nos EUA, acima da expectativa de 3,2%.",
+   "Reunião do Fed para definir juros será em 9 de dezembro de 2026.",
+   "Aumento de juros previsto é de 0,25 ponto percentual, segundo banco ING.",
+   "Dólar enfraquecido ajudou a limitar perdas, mas não evitou queda do ouro.",
+   "Expectativa de aperto monetário é reforçada pelos dados de inflação persistente.",
+   "Possível renovação de tarifa pelo governo Trump também afeta o mercado."
+  ],
+  "explicacao": [
+   "Os preços do ouro e da prata fecharam em baixa na bolsa de Nova York (Comex) no dia 25/11/2026. O ouro para dezembro caiu 0,73%, a US$ 3.535,80 por onça-troy, e a prata recuou 1,77%, a US$ 40,058 por onça-troy.",
+   "A baixa nos metais ocorreu por causa da divulgação do núcleo do índice de preços de gastos com consumo (PCE) que subiu 3,3% em outubro na comparação anual, acima dos 3,2% previstos, indicando inflação persistente nos EUA.",
+   "Com a inflação elevada, o Federal Reserve (Fed) reforça a expectativa de elevação dos juros, especificamente um aumento de 0,25 ponto percentual na reunião de 9 de dezembro, o que pressiona a atratividade de ativos sem rendimento como ouro e prata.",
+   "Embora a queda da cotação do dólar tenha limitado a queda do ouro, as expectativas de aperto monetário e as tensões comerciais geradas por possíveis novas tarifas dos EUA mantêm a pressão negativa sobre os metais preciosos."
+  ],
+  "detalhes": [
+   "Fechamento na divisão de metais da bolsa de Nova York (Comex), parte da Nymex.",
+   "O índice PCE é o indicador de inflação preferido do Federal Reserve.",
+   "O último aumento de juros pelo Fed foi em setembro de 2026.",
+   "Banco ING indica que alta de juros na reunião de dezembro está praticamente certa.",
+   "Os dados do PCE sobre pressões inflacionárias vieram acima do esperado em relação a outubro.",
+   "Renovação da ofensiva tarifária do governo Trump aumenta tensões comerciais globais.",
+   "Queda do ouro foi maior que 2% durante a sessão antes do fechamento."
+  ],
+  "declaracoes": [
+   {
+    "quem": "David Meger, diretor de negociação de metais da High Ridge",
+    "oque": "Pressões inflacionárias acima da meta do Fed aumentam expectativa de alta dos juros e pressionam o ouro."
+   },
+   {
+    "quem": "Banco ING",
+    "oque": "A decisão de aumentar em 25 pontos-base os juros em dezembro está praticamente selada."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25/11/2026",
+    "oque": "Núcleo do índice PCE dos EUA divulgado e preços do ouro e prata caem."
+   },
+   {
+    "quando": "9/12/2026",
+    "oque": "Reunião do Federal Reserve para definir nova taxa de juros."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Onça-troy",
+    "significado": "Medida padrão para pesar metais preciosos, equivalente a cerca de 31,1 gramas."
+   },
+   {
+    "termo": "Índice PCE",
+    "significado": "Índice de preços de gastos com consumo, que mede inflação e guia o Fed."
+   },
+   {
+    "termo": "Federal Reserve (Fed)",
+    "significado": "Banco central dos Estados Unidos que regula a política monetária."
+   }
+  ],
+  "pergunta": "Como você acha que a alta dos juros nos EUA afeta seu investimento em metais preciosos?",
+  "tamanhoTexto": 6361,
+  "numeros": [
+   {
+    "valor": "3,3%",
+    "rotulo": "Avanço do núcleo do índice PCE em outubro nos EUA"
+   },
+   {
+    "valor": "0,73%",
+    "rotulo": "Queda do ouro em 25/11/2026"
+   },
+   {
+    "valor": "1,77%",
+    "rotulo": "Queda da prata em 25/11/2026"
+   },
+   {
+    "valor": "0,25",
+    "rotulo": "Pontos percentuais previstos de alta dos juros pelo Fed"
+   },
+   {
+    "valor": "US$ 3.535,80",
+    "rotulo": "Cotação do ouro por onça-troy em 25/11/2026"
+   },
+   {
+    "valor": "US$ 40,058",
+    "rotulo": "Cotação da prata por onça-troy em 25/11/2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "0,73% queda do",
+  "porQueImporta": "A notícia mostra como indicadores econômicos influenciam a inflação e a reação do banco central, que impactam diretamente os metais preciosos, ativos sensíveis às mudanças nos juros e no dólar. Investidores precisam entender esses efeitos para acompanhar riscos e oportunidades no mercado de commodities.",
+  "impactoMercado": "A expectativa de alta dos juros nos EUA reduz a atratividade do ouro e prata, pois aumentam os rendimentos de ativos com juros, pressionando setores ligados aos metais. Operadores e investidores podem observar maior volatilidade e ajuste nas estratégias diante desses dados econômicos e decisões do Fed.",
+  "entenda": "O índice PCE mede a inflação do consumo nos EUA e é o indicador preferido do Federal Reserve para suas decisões. Se o PCE sobe, o Fed tende a aumentar os juros para conter a inflação, o que pode reduzir o preço de ativos que não geram juros, como ouro e prata.",
+  "observar": "Fique atento à reunião do Federal Reserve em 9 de dezembro e aos próximos dados de inflação nos EUA que podem confirmar ou modificar as expectativas atuais de juros.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "Explicamos como dados econômicos americanos impactam juros e preços do ouro e prata, ajudando operadores a entenderem os mecanismos do mercado financeiro.",
+  "gancho": "*Ouro* e *juros* em foco",
+  "ideias": [
+   "Por que o ouro cai com a alta dos juros nos EUA?",
+   "Como o índice PCE afeta sua estratégia de investimento?",
+   "Entenda a relação entre inflação, Fed e preços do ouro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Commodities",
+  "icone": "moeda",
+  "fonte": "Times Brasil; Money Times",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T16:36:39-03:00",
+  "url": "https://timesbrasil.com.br/investimentos/ouro/ouro-recua-073-e-prata-cai-177-com-expectativas-de-alta-dos-juros-nos-eua/",
+  "publicadoEm": "2026-11-25T16:28:31-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-19"
+ },
+ {
   "titulo": "União Europeia adia retorno do Brasil no fornecimento de frango e mel",
   "resumo": "Ministro André de Paula manifestou indignação com adiamento da UE sobre o retorno do Brasil na oferta de carne de aves e mel após auditoria técnica.",
   "fatos": [
@@ -8054,53 +8602,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 64.5% de chance de Bitcoin abaixo de 57,500 em novembro",
-  "resumo": "Os apostadores acreditam que o Bitcoin pode cair consideravelmente.",
+  "titulo": "Mercado de previsões vê 51,5% de chance de Bitcoin a >62,500",
+  "resumo": "Os investidores apostam que o Bitcoin pode ultrapassar 62,500 até dezembro, indicando otimismo no ambiente cripto.",
   "probs": [
    {
-    "opcao": "↓ 57,500",
-    "prob": 64.5
+    "opcao": "↑ 62,500",
+    "prob": 51.5
    },
    {
-    "opcao": "↑ 62,500",
-    "prob": 37.5
+    "opcao": "↓ 57,500",
+    "prob": 48.0
+   },
+   {
+    "opcao": "↑ 65,000",
+    "prob": 21.5
    },
    {
     "opcao": "↓ 55,000",
-    "prob": 29.9
-   },
-   {
-    "opcao": "↓ 52,500",
-    "prob": 12.5
+    "prob": 20.1
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 827 mil",
+  "volume24h": "US$ 1,2 mi",
   "fatos": [
-   "↓ 57,500: 64,5%",
-   "↑ 62,500: 37,5%",
-   "↓ 55,000: 29,9%",
-   "↓ 52,500: 12,5%"
+   "↑ 62,500: 51,5%",
+   "↓ 57,500: 48,0%",
+   "↑ 65,000: 21,5%",
+   "↓ 55,000: 20,1%"
   ],
   "numeros": [
    {
-    "valor": "64,5%",
-    "rotulo": "↓ 57,500"
-   },
-   {
-    "valor": "37,5%",
+    "valor": "51,5%",
     "rotulo": "↑ 62,500"
    },
    {
-    "valor": "29,9%",
-    "rotulo": "↓ 55,000"
+    "valor": "48,0%",
+    "rotulo": "↓ 57,500"
    },
    {
-    "valor": "12,5%",
-    "rotulo": "↓ 52,500"
+    "valor": "21,5%",
+    "rotulo": "↑ 65,000"
+   },
+   {
+    "valor": "20,1%",
+    "rotulo": "↓ 55,000"
    }
   ],
-  "destaque": "64,5%",
+  "destaque": "51,5%",
   "gancho": "*Otimismo em alta* para o Bitcoin",
   "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
   "categoria": "Previsões",
@@ -8115,58 +8663,58 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p1",
-  "atualizadoEm": "2026-11-25T01:35:33-03:00"
+  "atualizadoEm": "2026-11-25T16:36:39-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 86.5% de chance de Ethereum acima de 1,700 em novembro",
-  "resumo": "As probabilidades apontam para uma valorização do Ethereum, refletindo a confiança dos apostadores.",
+  "titulo": "Mercado de previsões vê 94% de chance de Ethereum a >1,700",
+  "resumo": "Os apostadores estão confiantes em que o preço do Ethereum superará 1,700, refletindo otimismo no mercado de criptomoedas.",
   "probs": [
    {
     "opcao": "↑ 1,700",
-    "prob": 86.5
+    "prob": 94.0
    },
    {
     "opcao": "↓ 1,600",
-    "prob": 58.5
+    "prob": 46.5
    },
    {
     "opcao": "↑ 1,800",
-    "prob": 35.0
+    "prob": 39.5
    },
    {
     "opcao": "↓ 1,500",
-    "prob": 23.1
+    "prob": 16.1
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 137 mil",
+  "volume24h": "US$ 374 mil",
   "fatos": [
-   "↑ 1,700: 86,5%",
-   "↓ 1,600: 58,5%",
-   "↑ 1,800: 35,0%",
-   "↓ 1,500: 23,1%"
+   "↑ 1,700: 94,0%",
+   "↓ 1,600: 46,5%",
+   "↑ 1,800: 39,5%",
+   "↓ 1,500: 16,1%"
   ],
   "numeros": [
    {
-    "valor": "86,5%",
+    "valor": "94,0%",
     "rotulo": "↑ 1,700"
    },
    {
-    "valor": "58,5%",
+    "valor": "46,5%",
     "rotulo": "↓ 1,600"
    },
    {
-    "valor": "35,0%",
+    "valor": "39,5%",
     "rotulo": "↑ 1,800"
    },
    {
-    "valor": "23,1%",
+    "valor": "16,1%",
     "rotulo": "↓ 1,500"
    }
   ],
-  "destaque": "86,5%",
+  "destaque": "94,0%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -8181,7 +8729,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-24T17:21:41-03:00"
+  "atualizadoEm": "2026-11-25T16:36:39-03:00"
  },
  {
   "tipo": "sinal",
