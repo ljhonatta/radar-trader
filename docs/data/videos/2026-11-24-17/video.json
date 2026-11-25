@@ -1,0 +1,419 @@
+{
+ "noticiaId": "2026-11-24-17",
+ "titulo": "Dólar cai a R$ 5,91 com expectativa de ajuste fiscal de Lula",
+ "perfil": "@traderjhonatta",
+ "voz": "JBFqnCBsd6RMkjVDRZzb",
+ "modelo": "eleven_v4",
+ "criadoEm": "2026-11-25T17:10:30-03:00",
+ "cenas": [
+  {
+   "cap": "GANCHO",
+   "narracao": "Dólar caindo... E sabe o motivo? Tem a ver com o que o presidente Lula está fazendo!",
+   "visual": {
+    "tipo": "cena",
+    "topico": "DÓLAR CAI",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "seta-baixo",
+      "rotulo": "queda do dólar",
+      "direcao": "cai",
+      "gatilho": "Dólar caindo"
+     }
+    ]
+   },
+   "audio": "cena-01.mp3",
+   "dur": 5.51,
+   "tw": [
+    0.08,
+    0.4,
+    1.24,
+    1.36,
+    1.56,
+    1.72,
+    2.48,
+    2.6,
+    2.72,
+    2.96,
+    3.08,
+    3.16,
+    3.24,
+    3.4,
+    4.0,
+    4.32,
+    4.52
+   ]
+  },
+  {
+   "cap": "O QUE ACONTECEU",
+   "narracao": "Na terça, o dólar fechou em cinco reais e noventa e um centavos. Um leve recuo, mas significativo.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "COTAÇÃO DO DÓLAR",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "5,911",
+      "rotulo": "R$ 5,91",
+      "gatilho": "dólar fechou em cinco reais"
+     }
+    ]
+   },
+   "audio": "cena-02.mp3",
+   "dur": 7.11,
+   "tw": [
+    0.08,
+    0.32,
+    0.92,
+    1.04,
+    1.36,
+    1.76,
+    2.0,
+    2.32,
+    2.72,
+    2.88,
+    3.24,
+    3.32,
+    3.44,
+    4.48,
+    4.64,
+    4.88,
+    5.72,
+    5.96
+   ]
+  },
+  {
+   "cap": "O QUE ACONTECEU",
+   "narracao": "E não parou aí... O Ibovespa também caiu, puxado pelas ações da Vale e Petrobras.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "IBOVESPA EM QUEDA",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "0,43%",
+      "rotulo": "queda do Ibovespa",
+      "gatilho": "Ibovespa também caiu"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "barras",
+      "rotulo": "mineradoras e Petrobras",
+      "direcao": "cai",
+      "gatilho": "puxado pelas ações"
+     }
+    ]
+   },
+   "audio": "cena-03.mp3",
+   "dur": 6.31,
+   "tw": [
+    0.128,
+    0.24,
+    0.48,
+    0.8,
+    1.48,
+    1.56,
+    2.267,
+    2.64,
+    3.28,
+    3.76,
+    4.12,
+    4.36,
+    4.56,
+    4.96,
+    5.12
+   ]
+  },
+  {
+   "cap": "OS NÚMEROS",
+   "narracao": "Pra ter ideia, a ação da Vale despencou cinco vírgula cinquenta e um por cento, brutal.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "QUEDA NAS AÇÕES",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "5,51%",
+      "rotulo": "queda ação Vale",
+      "gatilho": "ação da Vale despencou"
+     }
+    ]
+   },
+   "audio": "cena-04.mp3",
+   "dur": 6.47,
+   "tw": [
+    0.08,
+    0.24,
+    0.56,
+    1.16,
+    1.36,
+    1.6,
+    1.8,
+    2.16,
+    2.8,
+    3.2,
+    3.6,
+    4.12,
+    4.2,
+    4.32,
+    4.56,
+    5.36
+   ]
+  },
+  {
+   "cap": "OS NÚMEROS",
+   "narracao": "Já a Petrobras caiu quase dois por cento, mesmo com notícias de investimentos bilionários.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "QUEDA NAS AÇÕES",
+    "continua": true,
+    "atores": [
+     {
+      "tipo": "numero",
+      "valor": "1,82%",
+      "rotulo": "queda ações Petrobras",
+      "gatilho": "Petrobras caiu"
+     }
+    ]
+   },
+   "audio": "cena-05.mp3",
+   "dur": 6.47,
+   "tw": [
+    0.16,
+    0.36,
+    0.48,
+    1.2,
+    1.48,
+    1.84,
+    2.08,
+    2.32,
+    3.12,
+    3.52,
+    3.72,
+    4.2,
+    4.4,
+    5.04
+   ]
+  },
+  {
+   "cap": "POR QUE IMPORTA",
+   "narracao": "Mas por que isso importa pra você? A queda do dólar mostra que o mercado acredita numa contenção dos gastos públicos.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "POR QUE IMPORTA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "escudo",
+      "rotulo": "controle gastos",
+      "direcao": "sobe",
+      "gatilho": "contém gastos"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "cifrao",
+      "rotulo": "dinheiro público",
+      "direcao": "cai",
+      "gatilho": "mercado acredita"
+     }
+    ]
+   },
+   "audio": "cena-06.mp3",
+   "dur": 7.51,
+   "tw": [
+    0.08,
+    0.32,
+    0.52,
+    0.64,
+    1.0,
+    1.36,
+    1.573,
+    2.2,
+    2.32,
+    2.64,
+    2.8,
+    3.28,
+    3.68,
+    3.76,
+    3.84,
+    4.32,
+    4.88,
+    5.24,
+    5.84,
+    6.133,
+    6.48
+   ]
+  },
+  {
+   "cap": "O QUE MUDA",
+   "narracao": "Com o dólar mais baixo, os custos de importação podem baixar, e a inflação pode até sentir uma trégua.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "IMPACTOS PRÁTICOS",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "carrinho",
+      "rotulo": "importação",
+      "direcao": "cai",
+      "gatilho": "dólar mais baixo"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "termometro",
+      "rotulo": "inflação",
+      "direcao": "cai",
+      "gatilho": "a inflação"
+     }
+    ]
+   },
+   "audio": "cena-07.mp3",
+   "dur": 7.03,
+   "tw": [
+    0.128,
+    0.2,
+    0.32,
+    0.64,
+    0.96,
+    1.64,
+    1.88,
+    2.2,
+    2.4,
+    3.04,
+    3.36,
+    4.12,
+    4.2,
+    4.32,
+    4.96,
+    5.24,
+    5.56,
+    5.84,
+    6.08
+   ]
+  },
+  {
+   "cap": "ENTENDA",
+   "narracao": "Lembra: ajuste fiscal é o governo controlando gastos pra equilibrar as contas e fortalecer a moeda local.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "ENTENDA",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "balanca",
+      "rotulo": "equilíbrio financeiro",
+      "direcao": "cai",
+      "gatilho": "ajuste fiscal"
+     }
+    ]
+   },
+   "audio": "cena-08.mp3",
+   "dur": 7.51,
+   "tw": [
+    0.08,
+    0.88,
+    1.32,
+    1.92,
+    2.04,
+    2.12,
+    2.76,
+    3.2,
+    3.76,
+    3.92,
+    4.52,
+    4.76,
+    5.2,
+    5.36,
+    6.107,
+    6.16,
+    6.72
+   ]
+  },
+  {
+   "cap": "O QUE OBSERVAR",
+   "narracao": "Agora fique ligado: o pacote fiscal foi sancionado, mas tem relatório das contas públicas chegando, e o Congresso pode mexer mais.",
+   "visual": {
+    "tipo": "cena",
+    "topico": "FIQUE DE OLHO",
+    "continua": false,
+    "atores": [
+     {
+      "tipo": "objeto",
+      "objeto": "calendario",
+      "rotulo": "25 de outubro",
+      "direcao": "sobe",
+      "gatilho": "relatório das contas"
+     },
+     {
+      "tipo": "objeto",
+      "objeto": "megafone",
+      "rotulo": "pacote fiscal",
+      "direcao": "sobe",
+      "gatilho": "pacote fiscal"
+     }
+    ]
+   },
+   "audio": "cena-09.mp3",
+   "dur": 8.71,
+   "tw": [
+    0.08,
+    0.44,
+    0.76,
+    1.48,
+    1.64,
+    2.0,
+    2.48,
+    2.68,
+    3.72,
+    3.92,
+    4.08,
+    4.64,
+    4.8,
+    5.2,
+    5.64,
+    6.4,
+    6.48,
+    6.56,
+    7.2,
+    7.44,
+    7.92
+   ]
+  },
+  {
+   "cap": "FECHAMENTO",
+   "narracao": "Quer ficar por dentro do mercado todo dia? Segue o perfil pra não perder nenhuma novidade!",
+   "visual": {
+    "tipo": "fim",
+    "texto": "Seguir"
+   },
+   "audio": "cena-10.mp3",
+   "dur": 5.75,
+   "tw": [
+    0.064,
+    0.24,
+    0.56,
+    0.84,
+    1.08,
+    1.28,
+    1.8,
+    2.0,
+    2.84,
+    3.0,
+    3.28,
+    3.6,
+    3.733,
+    3.92,
+    4.36,
+    4.8
+   ]
+  }
+ ],
+ "legenda": "O dólar avança em queda após anúncio do pacote fiscal de Lula e aprovação de medidas para controlar gastos públicos. O mercado reage também com queda no Ibovespa, puxado pelas ações da Vale e Petrobras, mesmo em meio a investimento bilionário da estatal.\n\nEssa movimentação impacta diretamente o câmbio e a confiança dos investidores, com reflexos nos custos de importação, inflação e setores ligados às commodities no Brasil.\n\nFonte: Agência Brasil Economia; BP Money; Money Times\n\n#dólar #mercadofinanceiro #Ibovespa #ajustefiscal #economia"
+}
