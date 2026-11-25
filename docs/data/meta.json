@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-24T21:07:13-03:00",
-  "novas": 4,
-  "atualizadas": 1,
+  "ultimaColeta": "2026-11-25T01:35:33-03:00",
+  "novas": 16,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "4 nova(s) e 1 atualizada(s): Dólar e ajuste fiscal em queda; Reforma Tributária em foco; Ajuste Fiscal em pauta.",
+  "mensagem": "16 nova(s) e 2 atualizada(s): Exportação e Agronegócio em suspenso; Contrato e Recuperação do BRB; Argentina em recessão técnica.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-25T01:35:33-03:00",
    "2026-11-24T21:07:13-03:00",
    "2026-11-24T17:21:41-03:00",
    "2026-11-24T02:30:55-03:00",
@@ -18,12 +19,11 @@
    "2026-11-22T14:24:53-03:00",
    "2026-11-21T22:34:11-03:00",
    "2026-11-21T18:09:38-03:00",
-   "2026-11-21T13:57:50-03:00",
-   "2026-11-21T10:07:45-03:00"
+   "2026-11-21T13:57:50-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 4
+  "textosCompletos": 19
  },
  "placar": {
   "itens": [
@@ -36,20 +36,20 @@
    {
     "k": "USD",
     "nome": "Dólar comercial",
-    "v": "R$ 5,91",
-    "var": "-0,01%"
+    "v": "R$ 5,90",
+    "var": "-0,05%"
    },
    {
     "k": "EUR",
     "nome": "Euro",
-    "v": "R$ 6,48",
-    "var": ""
+    "v": "R$ 6,46",
+    "var": "-0,19%"
    },
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 59,7 mil",
-    "var": "-2,35%"
+    "v": "US$ 59,1 mil",
+    "var": "-2,27%"
    },
    {
     "k": "SPX",
@@ -66,14 +66,14 @@
    {
     "k": "BRENT",
     "nome": "Petróleo Brent",
-    "v": "US$ 91,01",
-    "var": "-0,43%"
+    "v": "US$ 90,18",
+    "var": "-1,33%"
    },
    {
     "k": "OURO",
     "nome": "Ouro",
-    "v": "US$ 3.549,30",
-    "var": "-0,35%"
+    "v": "US$ 3.552,10",
+    "var": "-0,28%"
    },
    {
     "k": "SELIC",
@@ -88,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "ter 21h",
-  "data": "2026-11-24",
-  "atualizadoEm": "2026-11-24T21:07:13-03:00",
+  "obs": "Último fechamento",
+  "hora": "qua 1h",
+  "data": "2026-11-25",
+  "atualizadoEm": "2026-11-25T01:35:33-03:00",
   "ibov": "164.090",
   "ibovVar": "-0,43%",
-  "dolar": "R$ 5,91",
-  "dolarVar": "-0,01%",
-  "btc": "US$ 59,7 mil"
+  "dolar": "R$ 5,90",
+  "dolarVar": "-0,05%",
+  "btc": "US$ 59,1 mil"
  }
 }
