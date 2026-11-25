@@ -1,5 +1,507 @@
 [
  {
+  "titulo": "Dólar cai a R$ 5,91 com expectativa de ajuste fiscal de Lula",
+  "resumo": "Na terça (24), dólar recuou 0,26%, fechando a R$ 5,91 com a sanção do pacote fiscal. Ibovespa caiu 0,43%, afetado por mineradoras e Petrobras.",
+  "fatos": [
+   "Dólar comercial fechou a R$ 5,911 com queda de 0,26% no dia 24/10.",
+   "Ibovespa caiu 0,43%, encerrando aos 164.089,81 pontos.",
+   "Ações da Vale recuaram 5,51%, cotadas a R$ 55,19.",
+   "Petrobras teve queda de 1,82%, ações a R$ 40,55.",
+   "Presidente Lula autorizou envio de PEC para limite de despesas obrigatórias.",
+   "Pacote fiscal aprovado pela Câmara na segunda-feira (23).",
+   "Petróleo Brent subiu 2,27%, para US$ 91,40 o barril.",
+   "Petróleo WTI subiu 2,35%, para US$ 82,05 o barril.",
+   "Índice DXY caiu 0,51%, para 103,8080 pontos.",
+   "Relatório bimestral das contas públicas foi adiado para 25/10."
+  ],
+  "explicacao": [
+   "Nesta terça-feira (24), o dólar comercial encerrou o dia em queda de 0,26%, cotado a R$ 5,911, influenciado por notícias sobre controle dos gastos públicos e sanção do pacote fiscal pelo presidente Lula. No mesmo dia, o Ibovespa caiu 0,43%, aos 164.089 pontos, pressionado por mineradoras e Petrobras.",
+   "A queda da moeda americana ocorreu depois do presidente Luiz Inácio Lula da Silva autorizar o envio ao Congresso de uma proposta de Emenda Constitucional para limitar o crescimento das despesas obrigatórias, como Previdência, saúde, educação e emendas parlamentares. Embora o pacote fiscal aprovado pela Câmara ainda seja considerado insuficiente, ele reforçou a expectativa de contenção dos gastos públicos.",
+   "O recuo do dólar também acompanhou o enfraquecimento da moeda no mercado global, onde o índice DXY, que mede a força do dólar contra seis moedas, caiu 0,51%. Já o Ibovespa sentiu a queda das ações da Vale (-5,51%) e Petrobras (-1,82%), mesmo após o anúncio de investimentos de US$ 122 bilhões e dividendos extraordinários da estatal petrolífera.",
+   "O cenário externo trouxe alta acima de 2% nos preços do petróleo Brent e WTI por causa de tensões no Oriente Médio, principalmente no Golfo Pérsico. Para os próximos dias, investidores monitoram a sanção do pacote fiscal, o relatório bimestral das contas públicas adiado para quarta-feira (25) e os impactos das medidas de controle nos mercados."
+  ],
+  "detalhes": [
+   "Dólar recuou pela expectativa de ajuste fiscal e propostas para controlar despesas obrigatórias.",
+   "Medidas incluem limite para gastos em saúde, educação e emendas parlamentares.",
+   "Ibovespa pressionado principalmente pelas ações da Vale e Petrobras, mesmo com dividendos anunciados.",
+   "Alta do petróleo influenciada por tensões no Golfo Pérsico e ameaças de ataques na Arábia Saudita.",
+   "Relatório oficial sobre contas públicas, previsto para 24/10, foi transferido para a manhã de 25/10.",
+   "Dólar chegou a recuar até R$ 5,80 no pregão, mas fechou próximo de R$ 5,91.",
+   "Pacote fiscal aprovado pela Câmara aguarda sanção presidencial para entrar em vigor."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Presidente Luiz Inácio Lula da Silva",
+    "oque": "Autorizou envio ao Congresso de PEC para limitar despesas obrigatórias."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "23/10",
+    "oque": "Câmara aprovou pacote de ajuste fiscal."
+   },
+   {
+    "quando": "24/10",
+    "oque": "Dólar recua para R$ 5,911 após notícias sobre ajuste fiscal."
+   },
+   {
+    "quando": "25/10",
+    "oque": "Ministério do Planejamento deve divulgar relatório bimestral das contas públicas."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PEC",
+    "significado": "Proposta para mudar a Constituição que rege despesas do governo."
+   },
+   {
+    "termo": "Ibovespa",
+    "significado": "Índice que mede o desempenho das principais ações da Bolsa brasileira."
+   },
+   {
+    "termo": "Dólar comercial",
+    "significado": "Valor do dólar usado para comércio e investimentos no Brasil."
+   }
+  ],
+  "pergunta": "Você acha que a PEC de limites para despesas pode fortalecer o real?",
+  "tamanhoTexto": 10458,
+  "numeros": [
+   {
+    "valor": "0,26%",
+    "rotulo": "queda do dólar em 24/10"
+   },
+   {
+    "valor": "R$ 5,911",
+    "rotulo": "cotação do dólar comercial em 24/10"
+   },
+   {
+    "valor": "0,43%",
+    "rotulo": "queda do Ibovespa em 24/10"
+   },
+   {
+    "valor": "164.089,81",
+    "rotulo": "pontos do Ibovespa em 24/10"
+   },
+   {
+    "valor": "5,51%",
+    "rotulo": "queda da ação da Vale em 24/10"
+   },
+   {
+    "valor": "1,82%",
+    "rotulo": "queda das ações preferenciais da Petrobras"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar",
+    "antes": "R$ 5,926 em 23/10",
+    "depois": "R$ 5,911 em 24/10"
+   }
+  ],
+  "destaque": "R$ 5,91 -",
+  "porQueImporta": "A queda do dólar com expectativa de ajuste fiscal demonstra como medidas governamentais influenciam o câmbio e a confiança dos investidores no Brasil. Isso afeta diretamente custos de importação, inflação e investimentos em ações e ativos ligados à economia doméstica.",
+  "impactoMercado": "O ajuste fiscal esperado deve reduzir a pressão sobre o real e impactar setores dependentes do câmbio, como exportadoras e commodities. Quedas nas ações da Petrobras e Vale mostram sensibilidade do mercado à combinação entre política econômica e preços internacionais de commodities.",
+  "entenda": "O dólar é a moeda americana usada como referência global no câmbio. Ajustes fiscais são medidas para conter despesas públicas e melhorar o equilíbrio das contas do país, o que pode fortalecer a moeda local ao reduzir riscos econômicos e financeiros.",
+  "observar": "Fique atento à sanção presidencial do pacote fiscal, ao relatório das contas públicas previsto para quarta-feira (25) e às possíveis medidas adicionais de contenção de despesas no Congresso.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Explicar o efeito do ajuste fiscal no dólar e Ibovespa ajuda a entender como política e economia impactam o mercado, fundamental para quem quer investir ou operar, e mostra o que se aprende na Trader School Wendell Guimarães.",
+  "gancho": "*Dólar* e *ajuste fiscal* em queda",
+  "ideias": [
+   "Como o ajuste fiscal impacta o dólar e a bolsa?",
+   "Por que o dólar caiu com pacote de gastos públicos?",
+   "O que investidores devem saber sobre o plano fiscal de Lula?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Agência Brasil Economia; BP Money; Money Times",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T21:07:13-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
+  "publicadoEm": "2026-11-24T19:01:00-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-17"
+ },
+ {
+  "titulo": "Empresas brasileiras têm baixa preparação para reforma tributária, aponta Fiesp",
+  "resumo": "Diagnóstico da Fiesp com 631 empresas mostra maturidade média de 59%, abaixo de 75%. Curso gratuito do Senai-SP ajuda na transição.",
+  "fatos": [
+   "Diagnóstico feito pela Fiesp com 631 autodiagnósticos voluntários.",
+   "Índice médio de maturidade foi 59%, abaixo da referência de 75%.",
+   "Preparação econômico-financeira alcançou 53%; conhecimento regulatório, 66%.",
+   "Nenhuma das cinco dimensões avaliadas superou índice de 75%.",
+   "Avaliação da redução do IPI a partir de 2027 teve nota 1,99 em escala de 1 a 4.",
+   "72% das empresas têm nível inicial ou básico em avaliação dos impactos nos custos.",
+   "Diferença de 20 pontos percentuais entre micro (53%) e grandes empresas (73%).",
+   "Curso gratuito online da Fiesp e Senai-SP oferece até 24 horas de formação.",
+   "Curso atende empresários, gestores e profissionais de fiscal, financeiro, contábil e TI.",
+   "Relatório gerado em 30 de outubro de 2026."
+  ],
+  "explicacao": [
+   "A Federação das Indústrias do Estado de São Paulo (Fiesp) realizou um diagnóstico com 631 empresas para avaliar a preparação frente à reforma tributária. O índice médio de maturidade foi de 59%, inferior à referência de 75% estipulada pela entidade, indicando fragilidade no preparo financeiro.",
+   "O levantamento detectou que a preparação econômico-financeira atingiu 53%, enquanto o conhecimento regulatório ficou em 66%. Nenhuma das cinco áreas avaliadas (financeira, regulatória, governança, operacional e fiscal) alcançou a meta desejada. O item com menor maturidade foi a avaliação do impacto da redução das alíquotas do IPI a partir de 2027.",
+   "A situação evidencia uma lacuna entre o entendimento das novas regras e a capacidade de implementá-las, podendo afetar fluxo de caixa, rentabilidade e até o preço dos produtos. Especialistas alertam que falta planejamento pode aumentar custos e pressionar o capital de giro das empresas.",
+   "Para ajudar, a Fiesp e o Senai-SP lançaram o curso gratuito e online “Reforma Tributária: Plano de Adequação”, com até 24 horas, destinado a empresários e profissionais das áreas fiscal, financeira e jurídica. A ideia é facilitar a adaptação e garantir competitividade durante a transição."
+  ],
+  "detalhes": [
+   "O diagnóstico avaliou cinco dimensões: financeiro, regulatório, governança, operacional e fiscal.",
+   "Microempresas (até 29 funcionários) têm maturidade de 53%; grandes (500+ funcionários) alcançam 73%.",
+   "Regimes tributários analisados: Lucro Real (67% maturidade), Lucro Presumido (59%) e Simples Nacional (53%).",
+   "Avaliação dos efeitos da Reforma Tributária considera itens como fluxo de caixa, capital de giro e adequação de contratos.",
+   "Curso do Senai-SP tem oito trilhas personalizadas conforme regime tributário e segmento.",
+   "Falta de planejamento pode levar empresas a operar no prejuízo ou tomar empréstimos.",
+   "Inscrições para o curso são feitas pelo portal www.sp.senai.br/cursos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Andre Rebelo, economista e diretor-executivo de projetos especiais da Fiesp",
+    "oque": "A reforma tributária muda o recolhimento dos impostos e afeta preço, rentabilidade e fluxo de caixa das empresas."
+   },
+   {
+    "quem": "Andre Rebelo, economista e diretor-executivo de projetos especiais da Fiesp",
+    "oque": "Quem não se preparar para a reforma vai perder dinheiro, capital de giro e poderá operar no prejuízo."
+   },
+   {
+    "quem": "Andre Rebelo, economista e diretor-executivo de projetos especiais da Fiesp",
+    "oque": "O curso lançado ajuda a entender e aplicar as novas regras na operação diária das empresas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "30 de outubro de 2026",
+    "oque": "Relatório com diagnóstico da preparação das empresas para a reforma tributária foi gerado."
+   },
+   {
+    "quando": "24 de novembro de 2026",
+    "oque": "Notícia divulgada sobre o diagnóstico e o lançamento do curso gratuito da Fiesp e Senai-SP."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Índice de maturidade",
+    "significado": "Nível de preparo de uma empresa para mudanças tributárias."
+   },
+   {
+    "termo": "IPI",
+    "significado": "Imposto sobre Produtos Industrializados."
+   },
+   {
+    "termo": "Recolhimento de impostos",
+    "significado": "Processo de pagamento dos tributos ao governo."
+   }
+  ],
+  "pergunta": "Como sua empresa está se preparando para a reforma tributária?",
+  "tamanhoTexto": 7267,
+  "numeros": [
+   {
+    "valor": "631",
+    "rotulo": "autodiagnósticos voluntários no levantamento da Fiesp"
+   },
+   {
+    "valor": "59%",
+    "rotulo": "índice médio de maturidade das empresas para reforma tributária"
+   },
+   {
+    "valor": "75%",
+    "rotulo": "referência de maturidade definida pela Fiesp"
+   },
+   {
+    "valor": "53%",
+    "rotulo": "preparação econômico-financeira das empresas"
+   },
+   {
+    "valor": "66%",
+    "rotulo": "nível de conhecimento regulatório nas empresas"
+   },
+   {
+    "valor": "1,99",
+    "rotulo": "nota média (1 a 4) para avaliação da redução do IPI a partir de 2027"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "maturidade das microempresas",
+    "antes": "não informado",
+    "depois": "53%"
+   },
+   {
+    "item": "maturidade das grandes empresas",
+    "antes": "não informado",
+    "depois": "73%"
+   },
+   {
+    "item": "maturidade do Lucro Real",
+    "antes": "não informado",
+    "depois": "67%"
+   },
+   {
+    "item": "maturidade do Lucro Presumido",
+    "antes": "não informado",
+    "depois": "59%"
+   }
+  ],
+  "destaque": "59%",
+  "porQueImporta": "A pouca preparação financeira para a reforma tributária pode causar dificuldades no fluxo de caixa, prejudicar a rentabilidade e elevar custos operacionais das empresas. Entender essa fragilidade ajuda investidores e empresários a avaliar riscos e a necessidade de planejamento para enfrentar as mudanças.",
+  "impactoMercado": "A baixa maturidade na adaptação da reforma pode afetar setores produtivos que precisarão ajustar preços e custos, influenciado o desempenho de ações e moedas relacionadas. Para investidores, o cenário reforça a importância de acompanhar empresas que têm maior capacidade e recursos para se adequar rapidamente.",
+  "entenda": "Reforma tributária significa mudança nas leis que regulam impostos, afetando como as empresas pagam tributos, precificam produtos e gerenciam dinheiro. Maturidade em gestão tributária é o grau de preparo da empresa para entender e aplicar essas mudanças sem problemas financeiros.",
+  "observar": "Fique de olho nas atualizações da reforma tributária previstas para 2027, além do andamento do curso gratuito da Fiesp e Senai-SP que oferece ferramentas para a adaptação empresarial.",
+  "publico": [
+   "Empresários",
+   "Investidores",
+   "Iniciantes"
+  ],
+  "angulo": "Explica como a baixa preparação das empresas afecta finanças e operações diante da reforma tributária, incentivando a busca por conhecimento para enfrentar mudanças no mercado.",
+  "gancho": "*Reforma Tributária* em foco",
+  "ideias": [
+   "Entenda os desafios da reforma tributária para empresas",
+   "Fiesp e Senai-SP lançam curso gratuito para preparar negócios",
+   "Impactos da reforma tributária no fluxo de caixa das empresas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Economia",
+  "icone": "grafico",
+  "fonte": "Times Brasil",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T21:07:13-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/reforma-tributaria-empresas-tem-baixa-preparacao-para-transicao/",
+  "publicadoEm": "2026-11-24T20:36:49-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-18"
+ },
+ {
+  "titulo": "Senadores esperam PEC de ajuste fiscal até próxima semana",
+  "resumo": "Senadores governistas aguardam que Lula envie PEC para limitar despesas obrigatórias. O Congresso tem pouco mais de três semanas para aprovar antes do recesso.",
+  "fatos": [
+   "Data da discussão: 24 de novembro de 2026.",
+   "Senador Eduardo Braga (MDB-AM) é relator do Orçamento 2027.",
+   "Votação do Orçamento prevista até 20 ou 23 de dezembro.",
+   "PEC deve focar em limitar despesas obrigatórias do Executivo.",
+   "Parlamentares querem votar PEC antes do orçamento.",
+   "Congresso dispõe de pouco mais de três semanas antes do recesso de fim de ano.",
+   "Projeto de lei complementar sobre ajuste fiscal foi aprovado pela Câmara em 23 de novembro.",
+   "Senadores querem mais debate para PEC, diferente do PLP.",
+   "Senadores governistas receberam sinalização da área econômica sobre foco em despesas obrigatórias."
+  ],
+  "explicacao": [
+   "Senadores alinhados ao governo Lula esperam que o presidente envie uma proposta de emenda à Constituição (PEC) contendo medidas de ajuste fiscal até a próxima semana, segundo discussões internas do dia 24 de novembro de 2026.",
+   "A expectativa é que o foco do texto seja a limitação do crescimento das despesas obrigatórias do Executivo federal, um passo importante para o controle das contas públicas. Detalhes das medidas ainda não foram revelados aos parlamentares.",
+   "O Congresso terá pouco mais de três semanas para analisar e votar a PEC antes do recesso de fim de ano. O relator do Orçamento 2027, senador Eduardo Braga, pretende votar o orçamento até 20 ou 23 de dezembro, visando compatibilizar os dois processos.",
+   "Senadores defendem que a proposta seja amplamente debatida no Parlamento, em contraste com o processo do projeto de lei complementar aprovado na Câmara, e buscam aprovar a PEC antes do orçamento para garantir o ajuste fiscal."
+  ],
+  "detalhes": [
+   "A PEC será proposta pelo presidente Luiz Inácio Lula da Silva (PT).",
+   "O ajuste fiscal visa controlar o crescimento das despesas obrigatórias do Executivo federal.",
+   "O prazo para votação é curto, dado o recesso parlamentar de fim de ano.",
+   "Senadores ressaltam a importância da votação antes da deliberação do Orçamento 2027.",
+   "O PLP aprovado na Câmara teve menos debate entre parlamentares do que o previsto para a PEC.",
+   "Eduardo Braga é senador pelo MDB do Amazonas e relator do PLOA 2027.",
+   "A expectativa da área econômica é que o ajuste seja estruturado para conter despesas obrigatórias."
+  ],
+  "declaracoes": [
+   {
+    "quem": "senadores governistas",
+    "oque": "Esperam que Lula envie PEC de ajuste fiscal até a próxima semana com foco nas despesas obrigatórias."
+   },
+   {
+    "quem": "senador Eduardo Braga (MDB-AM)",
+    "oque": "Intenção de votar o Orçamento 2027 até 20 ou 23 de dezembro."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "24/11/2026",
+    "oque": "Discussão entre lideranças governistas sobre PEC de ajuste fiscal."
+   },
+   {
+    "quando": "23/11/2026",
+    "oque": "Câmara aprovou projeto de lei complementar sobre ajuste fiscal."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PEC",
+    "significado": "Proposta de Emenda à Constituição que altera regras constitucionais."
+   },
+   {
+    "termo": "Despesas obrigatórias",
+    "significado": "Gastos do governo que a lei determina que sejam pagos, sem margem de corte fácil."
+   },
+   {
+    "termo": "Orçamento 2027",
+    "significado": "Plano financeiro anual do governo para o ano de 2027."
+   }
+  ],
+  "pergunta": "Você acha que a PEC vai conseguir controlar as despesas do governo em 2027?",
+  "tamanhoTexto": 2976,
+  "numeros": [
+   {
+    "valor": "3 semanas",
+    "rotulo": "Tempo disponível no Congresso antes do recesso"
+   },
+   {
+    "valor": "20 de dezembro",
+    "rotulo": "Prazo pretendido para votar o Orçamento 2027"
+   },
+   {
+    "valor": "23 de dezembro",
+    "rotulo": "Prazo possível para votação do Orçamento, se necessário"
+   },
+   {
+    "valor": "24/11/2026",
+    "rotulo": "Data da reunião dos senadores governistas"
+   },
+   {
+    "valor": "23/11/2026",
+    "rotulo": "Dia da aprovação do PLP na Câmara"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "PEC deve ser",
+  "porQueImporta": "Por controlar o crescimento das despesas obrigatórias, a PEC de ajuste fiscal é essencial para a estabilidade das contas públicas, influenciando decisões de investidores e a confiança no ambiente econômico geral.",
+  "impactoMercado": "A aprovação da PEC pode condicionar a política fiscal e o ritmo de gastos do governo, afetando juros, avaliação de risco e os setores sensíveis a cortes ou controles nos gastos públicos.",
+  "entenda": "Uma PEC é uma proposta que altera a Constituição e, quando relacionada ao ajuste fiscal, busca impor regras para controlar gastos públicos, garantindo maior equilíbrio nas contas do governo.",
+  "observar": "Fique atento às datas da votação do orçamento (20 e 23 de dezembro) e possíveis envio e discussão da PEC durante estas semanas no Congresso.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicar o processo e importância do ajuste fiscal ajuda a entender a dinâmica do orçamento público e decisões governamentais que impactam o mercado financeiro e o planejamento de investimentos.",
+  "gancho": "*Ajuste Fiscal* em pauta",
+  "ideias": [
+   "O que é uma PEC de ajuste fiscal?",
+   "Como despesas obrigatórias impactam o orçamento do governo?",
+   "Por que o Congresso corre para votar o orçamento de 2027?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "seta",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T21:07:13-03:00",
+  "url": "https://valor.globo.com/politica/noticia/2026/11/24/senadores-governistas-esperam-que-eventual-pec-de-ajuste-fiscal-va-para-o-congresso-ate-a-proxima-semana.ghtml",
+  "publicadoEm": "2026-11-24T20:25:39-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-19"
+ },
+ {
+  "titulo": "Banco Central fará leilão de até US$ 2 bi em dólar amanhã",
+  "resumo": "O BC anunciou dois leilões de venda de dólares com recompra para 25/10, totalizando até US$ 2 bilhões, para atuar no câmbio.",
+  "fatos": [
+   "Dois leilões de dólar serão feitos pelo BC em 25 de outubro.",
+   "O total oferecido será de até US$ 2 bilhões.",
+   "As operações são de venda com compromisso de recompra.",
+   "O anúncio foi feito em comunicado nesta terça-feira, 24 de outubro.",
+   "A iniciativa visa atuar no mercado cambial brasileiro."
+  ],
+  "explicacao": [
+   "O Banco Central informou que realizará nesta quarta-feira, dia 25, dois leilões de dólares com compromisso de recompra, ofertando até US$ 2 bilhões ao mercado.",
+   "Esses leilões são usados pelo BC para fornecer liquidez em dólares e conter volatilidade cambial, sem alterar permanentemente o estoque de reservas internacionais.",
+   "A venda com recompra significa que o BC vende dólares agora, mas compromete-se a recomprá-los em data futura, atuando temporariamente no mercado.",
+   "Esta operação ajuda a estabilizar o dólar, mantendo o funcionamento do mercado cambial e reduzindo movimentos bruscos nas cotações."
+  ],
+  "detalhes": [
+   "Banco Central do Brasil: responsável pela operação.",
+   "Valor máximo: até US$ 2 bilhões no total.",
+   "Data dos leilões: 25 de outubro.",
+   "Tipo de operação: venda de dólares com compromisso de recompra.",
+   "Objetivo: ofertar liquidez e conter volatilidade cambial.",
+   "Comunicação oficial foi divulgada um dia antes, em 24/10.",
+   "Essa prática é comum para controle do câmbio em momentos de maior instabilidade."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "24 de outubro",
+    "oque": "BC divulga comunicado anunciando leilões para 25 de outubro"
+   },
+   {
+    "quando": "25 de outubro",
+    "oque": "Realização dos dois leilões de dólares com recompra"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Leilão de dólares",
+    "significado": "Operação em que o BC vende dólares ao mercado com metas definidas."
+   },
+   {
+    "termo": "Compromisso de recompra",
+    "significado": "Acordo para o BC recomprar dólares vendidos após prazo determinado."
+   },
+   {
+    "termo": "Liquidez cambial",
+    "significado": "Disponibilidade de dólares para operações no mercado de câmbio."
+   }
+  ],
+  "pergunta": "Como você acha que o leilão de dólar do BC pode impactar o mercado hoje?",
+  "tamanhoTexto": 64,
+  "numeros": [
+   {
+    "valor": "2 bilhões",
+    "rotulo": "valor máximo em dólares ofertado nos leilões"
+   },
+   {
+    "valor": "25 de outubro",
+    "rotulo": "data dos leilões"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 2 bilhões",
+  "porQueImporta": "Essa operação do Banco Central impacta o mercado cambial ao aumentar a liquidez em dólares, ajudando a reduzir oscilações bruscas no câmbio, o que é fundamental para traders e investidores que operam com moedas e ativos atrelados ao dólar.",
+  "impactoMercado": "O leilão pode estabilizar o dólar frente ao real, influenciando mercados de câmbio, juros e ações, especialmente setores sensíveis à oscilação cambial, sem alterar a política monetária diretamente.",
+  "entenda": "Leilões de venda de dólares com recompra são operações em que o BC vende dólares para o mercado e combina a recompra desses dólares depois, uma forma de atuar temporariamente para controlar a variação cambial e manter o mercado equilibrado.",
+  "observar": "Fique atento a eventuais novos comunicados do Banco Central e oscilações do dólar próximo ao leilão em 25 de outubro, que podem afetar decisões de operação no câmbio.",
+  "publico": [
+   "Day traders",
+   "Investidores",
+   "Iniciantes"
+  ],
+  "angulo": "Conteúdo que explica uma operação importante do BC no câmbio, ajudando o público a entender como o Banco Central atua para manter estabilidade cambial, fundamental para quem quer saber sobre mercado financeiro e day trade.",
+  "gancho": "*Leilão* de dólar do BC",
+  "ideias": [
+   "Entenda o leilão de dólar anunciado pelo BC",
+   "O que é venda de dólar com recompra pelo Banco Central?",
+   "Como o BC atua para conter a volatilidade do dólar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Folha Mercado",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-24T21:07:13-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468069",
+  "publicadoEm": "2026-11-24T19:34:00-03:00",
+  "data": "2026-11-24",
+  "id": "2026-11-24-20"
+ },
+ {
   "titulo": "Petróleo fecha em alta por ataques no Estreito de Ormuz e tensão geopolítica",
   "resumo": "Os contratos futuros de petróleo Brent e WTI subiram mais de 2% em 24/11 devido a ataques no Estreito de Ormuz e risco ao transporte marítimo.",
   "fatos": [
@@ -5477,20 +5979,20 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 57.5% de chance de Bitcoin abaixo de 57,500 em novembro",
-  "resumo": "As probabilidades refletidas pelos apostadores indicam um cenário misto para o preço do Bitcoin.",
+  "titulo": "Mercado de previsões vê 52,5% de chance de Bitcoin a menos de 57.500 em novembro",
+  "resumo": "A probabilidade é baseada em apostas, não é uma previsão oficial.",
   "probs": [
    {
     "opcao": "↓ 57,500",
-    "prob": 57.5
+    "prob": 52.5
    },
    {
     "opcao": "↑ 62,500",
-    "prob": 45.5
+    "prob": 49.5
    },
    {
     "opcao": "↓ 55,000",
-    "prob": 28.8
+    "prob": 26.8
    },
    {
     "opcao": "↑ 65,000",
@@ -5498,24 +6000,24 @@
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 685 mil",
+  "volume24h": "US$ 866 mil",
   "fatos": [
-   "↓ 57,500: 57,5%",
-   "↑ 62,500: 45,5%",
-   "↓ 55,000: 28,8%",
+   "↓ 57,500: 52,5%",
+   "↑ 62,500: 49,5%",
+   "↓ 55,000: 26,8%",
    "↑ 65,000: 18,5%"
   ],
   "numeros": [
    {
-    "valor": "57,5%",
+    "valor": "52,5%",
     "rotulo": "↓ 57,500"
    },
    {
-    "valor": "45,5%",
+    "valor": "49,5%",
     "rotulo": "↑ 62,500"
    },
    {
-    "valor": "28,8%",
+    "valor": "26,8%",
     "rotulo": "↓ 55,000"
    },
    {
@@ -5523,7 +6025,7 @@
     "rotulo": "↑ 65,000"
    }
   ],
-  "destaque": "57,5%",
+  "destaque": "52,5%",
   "gancho": "*Otimismo em alta* para o Bitcoin",
   "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
   "categoria": "Previsões",
@@ -5538,7 +6040,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p1",
-  "atualizadoEm": "2026-11-24T17:21:41-03:00"
+  "atualizadoEm": "2026-11-24T21:07:13-03:00"
  },
  {
   "tipo": "sinal",
