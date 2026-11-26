@@ -1,5 +1,752 @@
 [
  {
+  "titulo": "Banco Central injeta US$ 2 bi e derruba dólar para R$ 5,75",
+  "resumo": "BC aplicou US$ 2 bilhões em leilão de linha para conter alta do dólar, que recuou de R$ 6,00 a R$ 5,75 após eleição.",
+  "fatos": [
+   "Banco Central injetou US$ 2 bilhões no câmbio em 25/04/2023.",
+   "Dólar caiu de R$ 6,00 para R$ 5,75 após intervenção.",
+   "Operação foi o Leilão de Câmbio 362/2026 com compromisso de recompra.",
+   "Taxa de corte da operação foi 6,177700% pós-fixada à Selic.",
+   "Opção conhecida como leilão de linha, não reduz reservas internacionais.",
+   "Liquidez entrou via venda de dólar com recompra coordenada pelo DEPIN.",
+   "Queda do dólar alivia custos de importados, combustíveis e criptomoedas.",
+   "Chefe do DEPIN, Luis Guilherme Siciliano Pontes, assinou documento oficial.",
+   "Operação visa atender demanda de curto prazo por divisas e desestimular especulação.",
+   "Exportadoras recebem menos reais por dólar, mas importadores ganham margem."
+  ],
+  "explicacao": [
+   "Na quarta-feira (25), o Banco Central do Brasil lançou um leilão de linha, injetando US$ 2 bilhões no mercado de câmbio para frear a valorização do dólar, que chegou a R$ 6,00 após a eleição presidencial.",
+   "Essa intervenção técnica, por meio de operação com compromisso de recompra, empresta dólares aos bancos no curto prazo sem reduzir as reservas oficiais, aumentando a liquidez e diminuindo a pressão na moeda.",
+   "Com a redução da cotação do dólar para R$ 5,75, houve alívio nos preços de produtos importados, insumos industriais, combustíveis e até no custo local de criptomoedas, favorecendo consumidores e empresas que dependem do dólar.",
+   "O mecanismo enfria a volatilidade cambial gerada por incertezas políticas e fiscais, e mantém o estoque integral das reservas internacionais; próximos passos indicam monitoramento do mercado para novas intervenções caso necessário."
+  ],
+  "detalhes": [
+   "A operação ocorreu em 25 de abril, via leilão público no mercado interbancário.",
+   "O Leilão 362/2026 permite venda de dólares com compromisso de recompra futura à taxa Selic.",
+   "Coordenação feita pelo Departamento das Reservas Internacionais (DEPIN) do BC.",
+   "O dólar respondeu descendo de R$ 6,00 para R$ 5,75 entre quarta e quinta-feira.",
+   "Esse tipo de intervenção não afeta o estoque líquido das reservas internacionais.",
+   "A medida é reação à pressão cambial pós-eleição presidencial ampliar incertezas.",
+   "Inclui impacto para setores como indústria, importação, combustível e criptoativos."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luis Guilherme Siciliano Pontes, chefe do DEPIN",
+    "oque": "Formalizou o aporte bilionário de liquidez que ajudou a conter a alta do dólar."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25 de abril de 2023",
+    "oque": "Banco Central realiza leilão de linha injetando US$ 2 bilhões no câmbio."
+   },
+   {
+    "quando": "26 de abril de 2023",
+    "oque": "Dólar recua de R$ 6,00 para R$ 5,75 após intervenção do BC."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Leilão de linha",
+    "significado": "Venda de dólares com compromisso de recompra futura pelo Banco Central."
+   },
+   {
+    "termo": "Reserva internacional",
+    "significado": "Recursos em moeda estrangeira que o BC mantém para estabilizar economia."
+   },
+   {
+    "termo": "Compromisso de recompra",
+    "significado": "Acordo para o banco devolver dólares ao BC numa data futura."
+   }
+  ],
+  "pergunta": "Você já conhecia o leilão de linha e seu uso no controle do câmbio?",
+  "tamanhoTexto": 5110,
+  "numeros": [
+   {
+    "valor": "2 bilhões",
+    "rotulo": "US$ injetados pelo Banco Central no mercado de câmbio"
+   },
+   {
+    "valor": "6,177700%",
+    "rotulo": "taxa de corte da operação pós-fixada à Selic"
+   },
+   {
+    "valor": "6,00",
+    "rotulo": "pico do dólar antes da intervenção"
+   },
+   {
+    "valor": "5,75",
+    "rotulo": "cotação do dólar após a intervenção"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Dólar",
+    "antes": "R$ 6,00",
+    "depois": "R$ 5,75"
+   }
+  ],
+  "destaque": "US$ 2 bilhões",
+  "porQueImporta": "Essa intervenção permite que o dólar não suba excessivamente em momentos de instabilidade política, reduzindo riscos especulativos para investidores. O impacto direto nos custos de importação e no mercado financeiro torna essencial acompanhar essas ações para entender o ambiente econômico.",
+  "impactoMercado": "Reduzir o preço do dólar alivia custos para empresas que dependem de insumos importados e consumidores finais, além de conter a volatilidade no mercado cambial. Investidores em criptoativos e ativos atrelados ao dólar também sentem efeito, tornando o ambiente mais estável no curto prazo.",
+  "entenda": "Leilão de linha é uma operação em que o Banco Central vende dólares aos bancos com compromisso de recomprá-los depois, aumentando oferta temporária de moeda sem usar reservas permanentes. Essa medida ajuda a conter oscilações bruscas do dólar e garante liquidez para transações no curto prazo.",
+  "observar": "Fique atento aos próximos leilões de câmbio e divulgações do Banco Central, especialmente em contextos políticos e fiscais que podem aumentar a volatilidade do dólar.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "Explicar o impacto das intervenções cambiais do Banco Central ajuda a entender riscos e oportunidades no mercado, mostrando como funcionam medidas técnicas para estabilizar a moeda e evitar grandes oscilações, um conhecimento valioso para quem quer dominar o mercado financeiro.",
+  "gancho": "Intervenção cambial freia dólar",
+  "ideias": [
+   "Como o Banco Central controla a alta do dólar?",
+   "O que é leilão de linha e por que é usado?",
+   "Impactos da queda do dólar para importadores e investidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Livecoins (cripto)",
+  "impacto": "medio",
+  "ordem": 2,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:17:58-03:00",
+  "url": "https://livecoins.com.br/banco-central-injeta-us-2-bilhoes-no-cambio-e-derruba-dolar-para-r-575-apos-escalada-pos-eleicao/",
+  "publicadoEm": "2026-11-26T14:09:09-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-03"
+ },
+ {
+  "titulo": "Entidades do agro, comércio e transporte pedem adiamento da reforma tributária",
+  "resumo": "CNA, CNC e CNT acionam STF para prorrogar nova etapa da reforma tributária, alegando falta de regulamentação e risco para empresas.",
+  "fatos": [
+   "Pedido de adiamento foi feito em 26/11/2026 pelas confederações CNA, CNC e CNT.",
+   "Nova etapa da reforma tributária tem início previsto em 1º de janeiro de 2027.",
+   "Senado tem até 15 de dezembro de 2026 para definir a alíquota da CBS.",
+   "Empresas teriam apenas 17 dias para se adaptar após definição da alíquota.",
+   "Reforma aprovada em 2023 substitui PIS e Cofins pela CBS e cria o Imposto Seletivo.",
+   "As confederações argumentam que a anterioridade nonagesimal, regra de 90 dias, foi afastada para a CBS.",
+   "O cálculo da alíquota da CBS foi aprovado pelo TCU em 28 de outubro de 2026.",
+   "A ação pede que o regime de transição vigente em 2026 continue até regulamentação completa."
+  ],
+  "explicacao": [
+   "Entidades do agronegócio, comércio e transporte, como a CNA, CNC e CNT, recorreram ao STF para pedir o adiamento da implementação da nova fase da reforma tributária, prevista para 1º de janeiro de 2027.",
+   "O pedido se baseia na ausência de regulamentação de pontos essenciais da reforma, especialmente a definição das alíquotas da Contribuição sobre Bens e Serviços (CBS), o que impediria as empresas de se prepararem adequadamente.",
+   "As confederações destacam que, sem informações para calcular tributos e ajustar contratos, há insegurança jurídica e risco de desorganização nas empresas para o início da cobrança integral dos tributos.",
+   "Agora, o STF avaliará o pedido para manter o regime de transição vigente e garantir um prazo mínimo de 90 dias para as adaptações após a regulamentação, além de respeitar a anterioridade anual no caso do IBS."
+  ],
+  "detalhes": [
+   "Quem: Confederação da Agricultura e Pecuária do Brasil (CNA), Confederação Nacional do Comércio (CNC), Confederação Nacional do Transporte (CNT).",
+   "Quando: Reforma aprovada em 2023; testes em 2026; nova etapa prevista para 1º de janeiro de 2027.",
+   "O que: Cobrança integral da Contribuição sobre Bens e Serviços (CBS) e início do Imposto Seletivo.",
+   "Por que: Falta de regulamentação e definição das alíquotas atrasa preparo das empresas e gera insegurança jurídica.",
+   "Pedido: Adiar etapa da reforma e garantir 90 dias após regulamentação para adaptação.",
+   "Regra questionada: Anterioridade nonagesimal afastada para fixação das alíquotas da CBS.",
+   "Prazo considerado curto pelas entidades: de 15 de dezembro até 1º de janeiro, apenas 17 dias para adaptação."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Confederações CNA, CNC e CNT",
+    "oque": "Empresas terão só 17 dias para se adaptar às novas alíquotas da CBS, gerando insegurança jurídica."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2023",
+    "oque": "Aprovação da reforma tributária que substitui PIS/Cofins pela CBS."
+   },
+   {
+    "quando": "2026",
+    "oque": "Ano de testes do novo modelo tributário."
+   },
+   {
+    "quando": "28 de outubro de 2026",
+    "oque": "TCU aprova cálculo da alíquota da CBS."
+   },
+   {
+    "quando": "15 de dezembro de 2026",
+    "oque": "Prazo para o Senado fixar alíquotas da CBS."
+   },
+   {
+    "quando": "1º de janeiro de 2027",
+    "oque": "Início previsto da cobrança integral da CBS e do Imposto Seletivo."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Contribuição sobre Bens e Serviços",
+    "significado": "Novo tributo que substituirá PIS e Cofins sobre consumo."
+   },
+   {
+    "termo": "Anterioridade nonagesimal",
+    "significado": "Regra que exige 90 dias entre criação/alteração do tributo e sua cobrança."
+   },
+   {
+    "termo": "Imposto Seletivo",
+    "significado": "Tributo sobre produtos específicos criado pela reforma."
+   }
+  ],
+  "pergunta": "Você acha justo o prazo de adaptação de 17 dias para a nova tributação?",
+  "tamanhoTexto": 3142,
+  "numeros": [
+   {
+    "valor": "1º de janeiro de 2027",
+    "rotulo": "Início da nova etapa da reforma tributária"
+   },
+   {
+    "valor": "15 de dezembro de 2026",
+    "rotulo": "Prazo para Senado fixar alíquota da CBS"
+   },
+   {
+    "valor": "17 dias",
+    "rotulo": "Prazo para adaptação das empresas após definição da alíquota"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "Prazo da anterioridade nonagesimal questionado"
+   },
+   {
+    "valor": "28 de outubro de 2026",
+    "rotulo": "Data de aprovação do cálculo da alíquota pelo TCU"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "17 dias para",
+  "porQueImporta": "Essa questão é importante para quem opera ou investe porque a insegurança jurídica e falta de regulamentação podem afetar preços e custos das empresas, impactando resultados no mercado e levando a ajustes inesperados nas operações financeiras.",
+  "impactoMercado": "O adiamento da reforma pode manter estabilidade temporária nos custos tributários para setores do agro, comércio e transporte, evitando surpresas nos preços e contratos. Porém, a indefinição pode provocar volatilidade e cautela em negociações e no planejamento fiscal.",
+  "entenda": "A reforma tributária altera como impostos sobre consumo são cobrados, substituindo PIS e Cofins pela CBS e criando Imposto Seletivo. Regulamentações e alíquotas precisam estar claras para empresas ajustarem preços e contratos, evitando riscos e dúvidas no mercado.",
+  "observar": "Fique atento ao julgamento do STF sobre o adiamento; data limite de 15/12 para definição das alíquotas da CBS pelo Senado também será decisiva para o mercado.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Empresários",
+   "Day traders"
+  ],
+  "angulo": "Entenda como a falta de regulamentação da reforma tributária cria insegurança para empresas e investidores, e por que conhecimento desse tema é essencial para navegar no mercado financeiro.",
+  "gancho": "*Reforma tributária* em risco",
+  "ideias": [
+   "O que muda com a nova etapa da reforma tributária?",
+   "Por que o mercado reagiu ao pedido de adiamento da reforma?",
+   "Como entender a CBS e seu impacto no seu negócio ou investimentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:17:58-03:00",
+  "url": "https://www.infomoney.com.br/brasil/entidades-do-agro-comercio-e-transporte-acionam-stf-para-adiar-reforma-tributaria/",
+  "publicadoEm": "2026-11-26T15:17:58-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-04"
+ },
+ {
+  "titulo": "Inmet emite alerta laranja para tempestades em seis estados nesta quinta",
+  "resumo": "O Inmet divulgou alerta laranja para chuvas intensas e ventos de até 100 km/h em Minas Gerais, Goiás, São Paulo, Rio de Janeiro, Espírito Santo e Mato Grosso do Sul.",
+  "fatos": [
+   "Alerta laranja emitido para seis estados: Minas Gerais, Goiás, São Paulo, Rio de Janeiro, Espírito Santo e Mato Grosso do Sul.",
+   "Previsão de chuvas entre 30 e 60 mm por hora ou até 100 mm ao longo do dia.",
+   "Rajadas de vento previstas entre 60 e 100 km/h.",
+   "Alerta válido das 0h até 23h59 do dia 26 de novembro de 2026.",
+   "Inmet também emitiu alerta amarelo para 14 estados e o Distrito Federal.",
+   "Defesa Civil de São Paulo ativou gabinete especial para monitorar e prevenir riscos.",
+   "População recebe recomendações para evitar ficar sob árvores e desligar aparelhos elétricos.",
+   "Risco de quedas de galhos, alagamentos, descargas elétricas e cortes de energia é considerado baixo, mas presente.",
+   "Chuva persistente na faixa leste paulista, com destaque para litoral e Serra da Mantiqueira.",
+   "Previsão de redução gradual das precipitações a partir de sexta-feira, 27 de novembro."
+  ],
+  "explicacao": [
+   "O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta laranja nesta quinta-feira, 26 de novembro de 2026, para seis estados brasileiros. A previsão é de chuvas intensas com precipitações entre 30 e 60 milímetros por hora e ventos fortes que podem chegar a 100 km/h.",
+   "Esse alerta foi motivado pelos riscos aumentados de alagamentos, quedas de árvores e possíveis interrupções no fornecimento de energia, comuns durante tempestades intensas. O Inmet recomenda cuidados como evitar ficar perto de árvores e desligar aparelhos elétricos durante as tempestades.",
+   "Para a população, isso significa um período de atenção máxima, especialmente em áreas críticas como o litoral paulista e a Serra da Mantiqueira, onde as chuvas podem ser ainda mais fortes. A Defesa Civil de São Paulo mobilizou um gabinete especial para monitorar a situação e coordenar respostas a emergências.",
+   "O alerta vale até o final do dia 26, com previsão de redução das chuvas a partir da sexta-feira, 27. No entanto, o risco de deslizamentos e alagamentos pode persistir devido ao solo já encharcado, exigindo cuidado contínuo por parte da população e autoridades."
+  ],
+  "detalhes": [
+   "Quem: Instituto Nacional de Meteorologia (Inmet) e Defesa Civil de São Paulo.",
+   "Quando: alerta emitido no dia 26 de novembro de 2026, válido até 23h59 do mesmo dia.",
+   "Onde: seis estados do Sudeste e Centro-Oeste – MG, GO, SP, RJ, ES e MS.",
+   "Quanto: chuvas de 30 a 60 mm/h e ventos de até 100 km/h no alerta laranja.",
+   "Como: devido à combinação de chuvas fortes e ventos intensos, com potencial para alagamentos, quedas de árvores e interrupções de energia.",
+   "Comparação: alerta amarelo de perigo potencial para outros 14 estados, com chuvas e ventos menores.",
+   "Contexto: Defesa Civil mantém a população informada e pronta para emergências, considerando o solo já saturado após chuvas anteriores."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Instituto Nacional de Meteorologia (Inmet)",
+    "oque": "Recomenda evitar áreas abertas, ficar longe de árvores e desligar aparelhos durante tempestades."
+   },
+   {
+    "quem": "Defesa Civil de São Paulo",
+    "oque": "Mobilizou gabinete especial para coordenar ações de prevenção diante das chuvas intensas."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de novembro de 2026",
+    "oque": "Inmet emite alerta laranja válido de 0h até 23h59 sobre tempestades."
+   },
+   {
+    "quando": "25 e 26 de novembro de",
+    "oque": "Defesa Civil de São Paulo ativa gabinete especial para monitorar o tempo."
+   },
+   {
+    "quando": "27 de novembro de 2026",
+    "oque": "Previsão de redução gradual nas precipitações."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Alerta Laranja",
+    "significado": "Indica perigo com risco elevado de eventos climáticos severos e possíveis danos."
+   },
+   {
+    "termo": "Precipitação",
+    "significado": "Quantidade de chuva que cai em um dado período, medida em milímetros."
+   },
+   {
+    "termo": "Rajada de vento",
+    "significado": "Aumento repentino e breve da velocidade do vento."
+   }
+  ],
+  "pergunta": "Você já passou por tempestades com ventos fortes na sua cidade?",
+  "tamanhoTexto": 4939,
+  "numeros": [
+   {
+    "valor": "100",
+    "rotulo": "km/h de ventos máximos previstos"
+   },
+   {
+    "valor": "30-60",
+    "rotulo": "mm de chuva por hora no alerta laranja"
+   },
+   {
+    "valor": "100",
+    "rotulo": "mm de chuva total possível no dia"
+   },
+   {
+    "valor": "60-100",
+    "rotulo": "km/h possíveis de rajadas de vento"
+   },
+   {
+    "valor": "14",
+    "rotulo": "estados com alerta amarelo de chuvas intensas"
+   },
+   {
+    "valor": "40-60",
+    "rotulo": "km/h de ventos no alerta amarelo"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "alerta laranja para",
+  "porQueImporta": "Esse alerta é importante para quem vive ou opera em áreas atingidas, pois tempestades intensas afetam infraestrutura, mobilidade e segurança, influenciando mercados locais e decisões de investimento em setores sensíveis a clima severo.",
+  "impactoMercado": "Chuvas fortes e ventos intensos podem impactar o funcionamento de empresas, transporte e fornecimento de energia, especialmente nas regiões com alerta laranja, afetando setores como energia, construção, logística e comércio.",
+  "entenda": "Alertas meteorológicos como o laranja indicam perigo potencial de fenômenos severos. Eles ajudam a preparar autoridades e população para minimizar danos causados por fortes chuvas, ventos e riscos associados, protegendo vidas e bens.",
+  "observar": "Fique atento à previsão para a sexta-feira, 27, quando há expectativa de redução das chuvas; acompanhe alertas oficiais para proteger sua segurança e patrimônio.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "CLT",
+   "Empresários",
+   "Day traders",
+   "Aposentados"
+  ],
+  "angulo": "Transforme a previsão de tempestades em aprendizado para entender como eventos climáticos impactam mercados e infraestrutura, mostrando a importância do conhecimento financeiro para preparação e segurança.",
+  "gancho": "*tempestades* e *alertas* meteorológicos",
+  "ideias": [
+   "O que o alerta laranja do Inmet significa para sua região?",
+   "Como chuvas intensas podem afetar setores da economia?",
+   "Prevenção e mercado: o papel dos alertas meteorológicos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Agenda",
+  "icone": "raio",
+  "fonte": "Exame",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:17:58-03:00",
+  "url": "https://exame.com/brasil/chuva-e-ventos-de-100-km-h-inmet-emite-alerta-para-seis-estados-nesta-quinta/",
+  "publicadoEm": "2026-11-26T13:02:22-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-05"
+ },
+ {
+  "titulo": "IPCA-15 de novembro fica abaixo do esperado, mas inflação anual segue alta",
+  "resumo": "Inflação medida pelo IPCA-15 subiu 0,22% em novembro, abaixo da expectativa de 0,36%. A inflação acumulada em 12 meses avançou para 4,64%, acima da meta do Banco Central.",
+  "fatos": [
+   "IPCA-15 subiu 0,22% em novembro, segundo o IBGE.",
+   "Expectativa mediana da Bloomberg era 0,36% para o IPCA-15.",
+   "Inflação acumulada em 12 meses avançou para 4,64%.",
+   "Meta do Banco Central para inflação é 3%, com tolerância de 1,5 ponto percentual.",
+   "Real recuou a mais de R$ 6 por dólar recentemente.",
+   "Alimentação e bebidas subiram 1,51% em novembro, maior alta no índice.",
+   "Custos com transportes caíram 0,71% na prévia de novembro.",
+   "Ministério da Fazenda reduziu projeção de crescimento para menos de 2% neste e no próximo ano.",
+   "Copom manteve taxa Selic em 13,75% no início de novembro, após cinco cortes consecutivos.",
+   "Analistas esperam Selic em 13% no fim de 2027, mais alta que antes da reeleição de Lula."
+  ],
+  "explicacao": [
+   "O IPCA-15, índice que mede a inflação ao consumidor no Brasil na primeira metade do mês, subiu 0,22% em novembro, segundo o IBGE, menos do que a mediana de 0,36% projetada pela Bloomberg. A inflação acumulada nos últimos 12 meses acelerou para 4,64%.",
+   "Esse resultado ocorreu mesmo após a reeleição do presidente Lula e diante de riscos fiscais e cambiais, com o real enfraquecendo e rompendo a barreira de R$ 6 por dólar, cenário que poderia pressionar ainda mais os preços pelo aumento dos custos dos importados.",
+   "A inflação segue acima do centro da meta do Banco Central (3%), que tem uma margem de tolerância de 1,5 ponto percentual para mais ou menos. Este contexto mantém o Banco Central em alerta, já que a inflação afeta decisões sobre a política monetária.",
+   "Com a atividade econômica desacelerando e o Ministério da Fazenda cortando a projeção de crescimento para menos de 2%, o mercado teme que a taxa Selic, mantida em 13,75% pelo Copom em novembro, continue elevada por mais tempo, contrariando expectativas de cortes futuros."
+  ],
+  "detalhes": [
+   "O índice IPCA-15 é uma prévia mensal da inflação, divulgada um pouco antes do IPCA oficial.",
+   "O aumento de 0,22% ficou abaixo de todas as estimativas em pesquisa da Bloomberg.",
+   "A inflação em alimentos e bebidas foi o principal fator de alta, enquanto transporte teve queda.",
+   "A desvalorização do real aumenta o custo dos produtos importados, podendo pressionar preços ao consumidor.",
+   "O cenário macroeconômico inclui fatores como riscos fiscais pós-eleição de Lula e eventos climáticos como o El Niño.",
+   "O Banco Central tem usado taxa básica Selic elevada para controlar a inflação sem estimular a economia.",
+   "Apesar da desaceleração econômica, a taxa de juros deve permanecer alta por mais tempo, segundo analistas."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Conforme analistas consultados pelo Banco Central no boletim Focus",
+    "oque": "Taxa Selic deve encerrar 2027 em 13%, acima da estimativa pré-eleição de Lula"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "26 de novembro",
+    "oque": "IBGE divulga dados do IPCA-15 de novembro"
+   },
+   {
+    "quando": "Início de novembro",
+    "oque": "Copom mantém Selic em 13,75%, interrompendo ciclo de cortes"
+   },
+   {
+    "quando": "Segunda-feira recente",
+    "oque": "Ministério da Fazenda reduz projeções de crescimento econômico"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "IPCA-15",
+    "significado": "Prévia mensal da inflação oficial do Brasil"
+   },
+   {
+    "termo": "Selic",
+    "significado": "Taxa básica de juros da economia brasileira"
+   },
+   {
+    "termo": "Meta de inflação",
+    "significado": "Objetivo oficial do Banco Central para controlos de preços"
+   }
+  ],
+  "pergunta": "Você acha que a Selic vai continuar alta após esses dados de inflação?",
+  "tamanhoTexto": 3035,
+  "numeros": [
+   {
+    "valor": "0,22%",
+    "rotulo": "IPCA-15 de novembro"
+   },
+   {
+    "valor": "0,36%",
+    "rotulo": "Expectativa mediana para IPCA-15"
+   },
+   {
+    "valor": "4,64%",
+    "rotulo": "Inflação acumulada em 12 meses"
+   },
+   {
+    "valor": "3%",
+    "rotulo": "Meta do Banco Central para inflação"
+   },
+   {
+    "valor": "1,5 ponto percentual",
+    "rotulo": "Margem de tolerância da meta"
+   },
+   {
+    "valor": "1,51%",
+    "rotulo": "Alta em alimentação e bebidas"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Selic",
+    "antes": "abaixo de 13%",
+    "depois": "projetada em 13% para 2027"
+   }
+  ],
+  "destaque": "0,22% IPCA-15 em",
+  "porQueImporta": "A inflação está entre os principais indicadores que afetam juros, investimentos e o poder de compra. Inflação acima da meta força o Banco Central a manter juros altos, impactando custos de crédito e o desempenho do mercado financeiro.",
+  "impactoMercado": "Inflação menor que o esperado pode aliviar pressões de alta nos juros, mas cenário com alta contínua e real desvalorizado mantém risco para ativos sensíveis a juros e câmbio, além de influenciar estratégias do Banco Central.",
+  "entenda": "O IPCA-15 é um índice que mostra a inflação na primeira quinzena do mês, funcionando como uma prévia da inflação oficial. Ele é importante para entender tendências de preços e influencia decisões do Banco Central sobre a taxa de juros.",
+  "observar": "Acompanhe a divulgação do IPCA oficial e o próximo encontro do Copom para entender os próximos passos da política monetária diante desse cenário inflacionário.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Essa notícia explica como os dados de inflação impactam juros e economia, mostrando a importância de entender índices econômicos para investidores e traders. Conhecer esse tema é essencial para quem quer aprofundar seus estudos em mercado financeiro.",
+  "gancho": "*IPCA-15* surpreende mercado",
+  "ideias": [
+   "O que é IPCA-15 e por que importa para seus investimentos?",
+   "Inflação em novembro: análise dos números oficiais e expectativas",
+   "Como a inflação influencia os juros e a política do Banco Central?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Inflação",
+  "icone": "seta",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:17:58-03:00",
+  "url": "https://investnews.com.br/economia/inflacao-pelo-ipca-15-fica-abaixo-das-expectativas-em-novembro/",
+  "publicadoEm": "2026-11-26T09:48:45-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-06"
+ },
+ {
+  "titulo": "Mercado reage bem à sondagem de Trabuco para Ministério da Fazenda",
+  "resumo": "Lula sondou Luiz Carlos Trabuco para equipe econômica, gerando queda no dólar e juros futuros. Dario Durigan e Rafael Fonteles seguem na disputa pelo cargo.",
+  "fatos": [
+   "Lula sondou Luiz Carlos Trabuco, presidente do conselho do Bradesco.",
+   "Dólar caiu 1,8%, chegando a R$ 5,71 após notícia da sondagem.",
+   "Juros futuros recuaram mais de 20 pontos-base ao longo da curva.",
+   "Ibovespa subiu mais de 4% na mesma sessão.",
+   "Trabuco foi cogitado para o Ministério da Fazenda, sem proposta formal.",
+   "Dario Durigan e Rafael Fonteles seguem como opções para o cargo.",
+   "Banco Central vendeu US$ 1 bilhão no mercado à vista, primeira intervenção desde dezembro de 2024.",
+   "Trabuco já foi convidado em 2014 para o Ministério da Fazenda, mas recusou."
+  ],
+  "explicacao": [
+   "O presidente Luiz Inácio Lula da Silva sondou Luiz Carlos Trabuco Cappi, presidente do conselho do Bradesco, para integrar sua equipe no quarto mandato, sem formalizar convite, segundo fontes próximas.",
+   "A iniciativa visa reduzir a apreensão dos investidores sobre a deterioração fiscal e a trajetória da dívida pública, sinalizando disposição de Lula para ajuste fiscal e controle dos gastos.",
+   "O mercado recebeu a notícia positivamente, com o dólar caindo 1,8%, contratos de juros futuros recuando mais de 20 pontos-base e o Ibovespa subindo mais de 4% em reação à sondagem.",
+   "Além de Trabuco, atual ministro Dario Durigan e o governador Rafael Fonteles permanecem candidatos. A escolha da equipe econômica é fundamental para tranquilizar os mercados após volatilidade e alta do dólar."
+  ],
+  "detalhes": [
+   "A sondagem de Trabuco não foi uma proposta formal, segundo fontes.",
+   "Trabuco é conhecido e interlocutor antigo de Lula, membro do Conselho de Desenvolvimento Econômico Social Sustentável.",
+   "Investidores estavam preocupados com a trajetória da dívida pública e gastos futuros.",
+   "Lula evitava formalizar convites sem certeza de aceitação.",
+   "A pesquisa veio após alta do dólar que ultrapassou R$ 6 quatro dias antes.",
+   "A gestão anterior de Dilma Rousseff tentou austeridade com Joaquim Levy, que enfrentou resistência.",
+   "Trabuco recusou o convite de Dilma em 2014 por compromissos no banco."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Guilherme Abbud, CEO da Persevera Asset Management",
+    "oque": "Lula demonstrou disposição para ajustes fiscais com um ministro que tenha liberdade de atuação."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2014",
+    "oque": "Trabuco foi convidado por Dilma para Ministério da Fazenda, mas recusou."
+   },
+   {
+    "quando": "Últimos dias antes da sondagem",
+    "oque": "Dólar ultrapassou R$ 6 e Banco Central interveio vendendo US$ 1 bilhão."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "juros futuros",
+    "significado": "contratos que refletem expectativa de taxa de juros futura"
+   },
+   {
+    "termo": "ajuste fiscal",
+    "significado": "medidas para controlar gastos públicos e equilibrar as contas"
+   },
+   {
+    "termo": "dólar à vista",
+    "significado": "compra e venda de dólar para entrega imediata"
+   }
+  ],
+  "pergunta": "Você acha que um ministro do mercado financeiro pode ajudar a conter a alta do dólar?",
+  "tamanhoTexto": 5661,
+  "numeros": [
+   {
+    "valor": "1,8%",
+    "rotulo": "queda do dólar após a notícia da sondagem"
+   },
+   {
+    "valor": "R$ 5,71",
+    "rotulo": "valor do dólar após queda com a notícia"
+   },
+   {
+    "valor": "20 pontos-base",
+    "rotulo": "recuo dos contratos de juros futuros"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "alta do Ibovespa na mesma sessão"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "venda do Banco Central no mercado de câmbio"
+   },
+   {
+    "valor": "2024",
+    "rotulo": "última intervenção do BC antes da atual, em dezembro"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "queda de 1,8%",
+  "porQueImporta": "A sondagem de Trabuco indica que o governo pode priorizar um perfil de equipe econômica alinhado ao mercado, importante para reduzir temores fiscais e estabilizar os investimentos neste novo mandato presidencial.",
+  "impactoMercado": "A expectativa por um ajuste fiscal e um ministro com liberdade para agir pode fortalecer a confiança dos investidores, influenciando a estabilidade do dólar, juros futuros e do Ibovespa, impactando diversos setores da economia.",
+  "entenda": "Sondar um ministro significa avaliar seu interesse antes de oficializar um convite. No mercado financeiro, nomes com histórico no setor bancário e alinhamento com ajuste fiscal costumam tranquilizar investidores preocupados com a saúde das contas públicas.",
+  "observar": "Fique atento às próximas nomeações oficiais para a equipe econômica e às reações do mercado em dólar, juros e Bolsa, que indicam a confiança dos investidores nas decisões do governo.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders"
+  ],
+  "angulo": "Explicamos como a sondagem de um banqueiro experiente para a Fazenda pode sinalizar um ajuste fiscal, tema fundamental para quem quer entender a política econômica e mercados.",
+  "gancho": "*Trabuco* e o *Ministério* da *Fazenda*",
+  "ideias": [
+   "Quem é Luiz Carlos Trabuco e por que o mercado o quer na Fazenda",
+   "Entenda a reação do dólar e juros futuros após sondagem de Trabuco",
+   "Disputa pela Fazenda: Trabuco, Durigan e Fonteles no radar de Lula"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Política monetária",
+  "icone": "moeda",
+  "fonte": "InvestNews",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:17:58-03:00",
+  "url": "https://investnews.com.br/economia/lula-sonda-trabuco-bradesco-para-governo/",
+  "publicadoEm": "2026-11-26T13:01:12-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-07"
+ },
+ {
+  "titulo": "Lula cobra nova PEC criativa para ajuste fiscal sem cortar programas sociais",
+  "resumo": "Lula pediu criatividade na proposta fiscal, que deve chegar ao Congresso após definição do ministro da Fazenda. Nova PEC visa conter despesas preservando programas sociais e deve complementar ajuste de R$ 56 bilhões.",
+  "fatos": [
+   "Lula pediu criatividade para ajuste fiscal sem cortes em programas sociais",
+   "Nova proposta deve ser enviada ao Congresso ainda em 2026",
+   "Ainda não definido se será PEC ou projeto de lei comum",
+   "Projeto aprovado e sancionado gera impacto fiscal de R$ 56 bilhões",
+   "Reunião durou 3 horas no Palácio da Alvorada",
+   "Participaram ministros da Fazenda, Planejamento, Casa Civil, Gestão e presidente do Banco Central",
+   "Lula aguarda decisão do novo ministro da Fazenda antes do envio",
+   "Luiz Carlos Trabuco é principal nome para ministério da Fazenda",
+   "Ministro Dario Durigan destacou foco no controle das despesas",
+   "Nova proposta visa estabilizar a dívida e ter superávit a partir de 2027"
+  ],
+  "explicacao": [
+   "O presidente Lula solicitou à equipe econômica que elabore uma proposta fiscal inovadora para conter a crise e o aperto nas contas públicas, sem reduzir os programas sociais. A decisão deve ser tomada ainda este ano, com a proposta enviada ao Congresso.",
+   "A nova PEC ou projeto de lei surge após aprovação e sanção de medida que gerou R$ 56 bilhões de impacto fiscal, focada em receitas. A ideia é agora atuar no lado das despesas para um ajuste mais estrutural.",
+   "Participaram da reunião ministros, vice-presidente e presidente do Banco Central, que discutiram continuidade do plano fiscal dentro dos limites do arcabouço fiscal. O desafio político é uma barreira principal para avançar.",
+   "A nomeação do novo ministro da Fazenda, provável Luiz Carlos Trabuco, será o próximo passo antes do envio da proposta. O foco será em restringir crescimento das despesas obrigatórias conforme o arcabouço fiscal para equilibrar as contas."
+  ],
+  "detalhes": [
+   "Data da reunião: 24/11/2026, no Palácio da Alvorada",
+   "Impacto fiscal da proposta anterior: R$ 56 bilhões",
+   "Pessoas na reunião: Lula, Alckmin, Durigan, Moretti, Belchior, Dweck, Galípolo",
+   "Desafio principal: decisão política, não técnica",
+   "Proposta anterior agiu sobre receitas, nova deve tratar despesas",
+   "Projeto pode alterar Constituição para limitar despesas obrigatórias",
+   "Nome principal para ministro da Fazenda: Luiz Carlos Trabuco"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Ministro da Fazenda, Dario Durigan",
+    "oque": "Pedi ao presidente mostrar medidas concretas e plano fiscal dentro do arcabouço"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "24/11/2026",
+    "oque": "Reunião no Palácio da Alvorada para discutir nova proposta fiscal"
+   },
+   {
+    "quando": "Semana anterior a 24/11/2026",
+    "oque": "Projeto fiscal de R$ 56 bilhões aprovado pelo Congresso e sancionado"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "PEC",
+    "significado": "Proposta para mudar a Constituição Federal."
+   },
+   {
+    "termo": "Arcabouço Fiscal",
+    "significado": "Conjunto de regras para controlar gastos públicos."
+   },
+   {
+    "termo": "Superávit Primário",
+    "significado": "Saldo positivo das contas públicas antes dos juros da dívida."
+   }
+  ],
+  "pergunta": "Como você acha que o governo deve equilibrar ajuste fiscal e proteção aos programas sociais?",
+  "tamanhoTexto": 3075,
+  "numeros": [
+   {
+    "valor": "56 bilhões",
+    "rotulo": "Impacto em reais da proposta fiscal recentemente sancionada"
+   },
+   {
+    "valor": "3 horas",
+    "rotulo": "Duração da reunião entre Lula e equipe econômica"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "Ano previsto para superávits primários crescentes"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 56 bilhões",
+  "porQueImporta": "Essa iniciativa é importante para investidores e operadores porque demonstra o esforço do governo em conter gastos públicos preservando benefícios sociais, o que pode melhorar a confiança fiscal e evitar impactos negativos em setores sensíveis e na economia.",
+  "impactoMercado": "A nova PEC, ao focar em limitar despesas obrigatórias, pode reduzir a pressão sobre juros e câmbio, influenciando positivamente a percepção de segurança para investimentos e reduzindo volatilidade em ativos relacionados ao risco fiscal.",
+  "entenda": "Uma PEC (Proposta de Emenda à Constituição) é uma iniciativa para alterar regras da Constituição, essencial para mudanças estruturais no ajuste fiscal, diferente de projeto de lei comum que tem limitações em temas fiscais.",
+  "observar": "Fique atento à nomeação do novo ministro da Fazenda e ao envio da proposta fiscal ao Congresso ainda em 2026, que vão definir os próximos passos para o ajuste das contas públicas.",
+  "publico": [
+   "Investidores",
+   "Empresários",
+   "CLT"
+  ],
+  "angulo": "A notícia mostra o desafio político por trás do ajuste fiscal e ajuda a entender os impactos das decisões do governo para o mercado, tema central da faculdade de mercado financeiro e day trade.",
+  "gancho": "*Ajuste Fiscal* sem Cortes Sociais",
+  "ideias": [
+   "O que é uma PEC e por que ela importa no ajuste fiscal?",
+   "Entenda o papel do ministro da Fazenda no equilíbrio das contas públicas",
+   "Como o ajuste fiscal afeta investidores e a economia real"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Política monetária",
+  "icone": "escudo",
+  "fonte": "InfoMoney",
+  "impacto": "medio",
+  "ordem": 8,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:17:58-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-cobra-criatividade-em-novo-ajuste-fiscal-para-evitar-cortes-em-programas-sociais/",
+  "publicadoEm": "2026-11-26T15:50:22-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-08"
+ },
+ {
   "titulo": "Defesa de Vorcaro contesta distribuição de caso a Nunes Marques no STF",
   "resumo": "Advogados do ex-banqueiro Daniel Vorcaro questionaram a remessa do pedido ao ministro Kassio Nunes Marques e pedem que análise fique com Gilmar Mendes.",
   "fatos": [
@@ -9114,53 +9861,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-bitcoin-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 61.5% de chance de Bitcoin acima de 62,500 em novembro",
-  "resumo": "Apostadores antecipam um aumento acentuado no preço do Bitcoin neste período.",
+  "titulo": "Mercado de previsões vê 82.5% de chance de Bitcoin cair abaixo de 60,000 em novembro",
+  "resumo": "Apostadores indicam alta probabilidade de uma queda no preço do Bitcoin no final de novembro.",
   "probs": [
    {
-    "opcao": "↑ 62,500",
-    "prob": 61.5
+    "opcao": "abaixo de 60,000",
+    "prob": 82.5
    },
    {
-    "opcao": "↓ 57,500",
-    "prob": 36.5
+    "opcao": "acima de 62,500",
+    "prob": 47.5
    },
    {
-    "opcao": "↑ 65,000",
-    "prob": 24.5
+    "opcao": "abaixo de 57,500",
+    "prob": 30.5
    },
    {
-    "opcao": "↓ 55,000",
-    "prob": 14.5
+    "opcao": "acima de 65,000",
+    "prob": 15.5
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 1,1 mi",
+  "volume24h": "US$ 739 mil",
   "fatos": [
-   "↑ 62,500: 61,5%",
-   "↓ 57,500: 36,5%",
-   "↑ 65,000: 24,5%",
-   "↓ 55,000: 14,5%"
+   "abaixo de 60,000: 82,5%",
+   "acima de 62,500: 47,5%",
+   "abaixo de 57,500: 30,5%",
+   "acima de 65,000: 15,5%"
   ],
   "numeros": [
    {
-    "valor": "61,5%",
-    "rotulo": "↑ 62,500"
+    "valor": "82,5%",
+    "rotulo": "abaixo de 60,000"
    },
    {
-    "valor": "36,5%",
-    "rotulo": "↓ 57,500"
+    "valor": "47,5%",
+    "rotulo": "acima de 62,500"
    },
    {
-    "valor": "24,5%",
-    "rotulo": "↑ 65,000"
+    "valor": "30,5%",
+    "rotulo": "abaixo de 57,500"
    },
    {
-    "valor": "14,5%",
-    "rotulo": "↓ 55,000"
+    "valor": "15,5%",
+    "rotulo": "acima de 65,000"
    }
   ],
-  "destaque": "61,5%",
+  "destaque": "82,5%",
   "gancho": "*Otimismo em alta* para o Bitcoin",
   "entenda": "O valor do Bitcoin é altamente volátil e pode ser influenciado por vários fatores do mercado. As previsões refletem a confiança dos apostadores nas tendências de preço.",
   "categoria": "Previsões",
@@ -9175,58 +9922,58 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p1",
-  "atualizadoEm": "2026-11-26T00:45:54-03:00"
+  "atualizadoEm": "2026-11-26T16:17:58-03:00"
  },
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 41.5% de chance de Ethereum abaixo de 1,600 em novembro",
-  "resumo": "Expectativas dos apostadores indicam uma leve queda no preço do Ethereum neste período.",
+  "titulo": "Mercado de previsões vê chance igual de 31.5% de Ethereum subir ou cair em novembro",
+  "resumo": "Os apostadores estão divididos entre uma alta ou baixa no preço do Ethereum próximo ao final do mês.",
   "probs": [
    {
-    "opcao": "↓ 1,600",
-    "prob": 41.5
+    "opcao": "abaixo de 1,600",
+    "prob": 31.5
    },
    {
-    "opcao": "↑ 1,800",
-    "prob": 38.5
+    "opcao": "acima de 1,800",
+    "prob": 31.5
    },
    {
-    "opcao": "↓ 1,500",
-    "prob": 11.7
-   },
-   {
-    "opcao": "↑ 1,900",
+    "opcao": "acima de 1,900",
     "prob": 10.5
+   },
+   {
+    "opcao": "abaixo de 1,500",
+    "prob": 7.8
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 278 mil",
+  "volume24h": "US$ 226 mil",
   "fatos": [
-   "↓ 1,600: 41,5%",
-   "↑ 1,800: 38,5%",
-   "↓ 1,500: 11,7%",
-   "↑ 1,900: 10,5%"
+   "abaixo de 1,600: 31,5%",
+   "acima de 1,800: 31,5%",
+   "acima de 1,900: 10,5%",
+   "abaixo de 1,500: 7,8%"
   ],
   "numeros": [
    {
-    "valor": "41,5%",
-    "rotulo": "↓ 1,600"
+    "valor": "31,5%",
+    "rotulo": "abaixo de 1,600"
    },
    {
-    "valor": "38,5%",
-    "rotulo": "↑ 1,800"
-   },
-   {
-    "valor": "11,7%",
-    "rotulo": "↓ 1,500"
+    "valor": "31,5%",
+    "rotulo": "acima de 1,800"
    },
    {
     "valor": "10,5%",
-    "rotulo": "↑ 1,900"
+    "rotulo": "acima de 1,900"
+   },
+   {
+    "valor": "7,8%",
+    "rotulo": "abaixo de 1,500"
    }
   ],
-  "destaque": "41,5%",
+  "destaque": "31,5%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -9241,7 +9988,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-26T00:45:54-03:00"
+  "atualizadoEm": "2026-11-26T16:17:58-03:00"
  },
  {
   "tipo": "sinal",
