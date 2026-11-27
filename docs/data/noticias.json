@@ -1,5 +1,378 @@
 [
  {
+  "titulo": "Juros futuros despencam com escolha de Trabuco para Fazenda",
+  "resumo": "A nomeação de Luiz Carlos Trabuco para ministro da Fazenda fez os juros futuros caírem forte, retornando a níveis pré-eleição.",
+  "fatos": [
+   "Luiz Carlos Trabuco foi confirmado ministro da Fazenda em 27/11/2026.",
+   "Juros futuros recuaram até 80 pontos-base na sexta-feira (27).",
+   "Taxa do DI jan/2028 caiu de 14,185% para 13,700%.",
+   "Ibovespa fechou em queda de 0,13%, aos 176.573 pontos.",
+   "Dólar comercial caiu 4%, para R$ 5,51 no dia 27/11/2026.",
+   "Bolsa chegou a subir até 3,86% no dia, mas perdeu força.",
+   "Petrobras e Vale tiveram quedas superiores a 2,4%.",
+   "Volume financeiro na B3 em 27/11 foi R$ 54,7 bilhões.",
+   "Expectativa de ajuste fiscal mais rigoroso impulsionou juros e dólar em baixa.",
+   "Equipe econômica e medidas para 2027 são os próximos focos do mercado."
+  ],
+  "explicacao": [
+   "Na sexta-feira, 27 de novembro de 2026, a confirmação de Luiz Carlos Trabuco como ministro da Fazenda levou a queda expressiva dos juros futuros no mercado brasileiro, com redução de até 80 pontos-base na curva diária.",
+   "Essa reação ocorreu porque Trabuco, presidente do Conselho do Bradesco, é visto pelo mercado como sinal de compromisso com ajuste fiscal rigoroso e continuidade da política econômica atual, o que diminui o prêmio de risco.",
+   "Com a queda dos juros futuros, contratos de Depósito Interfinanceiro (DI) para 2028, 2029, 2031 e 2037 registraram recuo entre 45 e 60 pontos-base, retornando a níveis próximos aos anteriores às eleições presidenciais.",
+   "Agora, o mercado aguarda os detalhes sobre a equipe econômica e as medidas de ajuste fiscal para 2027, que serão fundamentais para manter ou modificar as expectativas atuais sobre os juros e o risco brasileiro."
+  ],
+  "detalhes": [
+   "Trabuco é presidente do Conselho de Administração do Bradesco.",
+   "Queda dos juros futuros ocorreu após especulações iniciadas em 25/11/2026.",
+   "Redução dos juros refletiu menor prêmio de risco fiscal após as eleições.",
+   "Ibovespa teve alta inicial impulsionada pela escolha de Trabuco, mas encerrou em leve queda.",
+   "Dólar caiu fortemente com expectativa de maior credibilidade fiscal.",
+   "Queda de Petrobras foi influenciada pela valorização do real e preços do petróleo.",
+   "Investidores buscam sinais sobre equipe econômica e plano fiscal para 2027."
+  ],
+  "declaracoes": [
+   {
+    "quem": "Nicolas Gass, estrategista da GT Capital",
+    "oque": "Trabuco é um nome com credibilidade que reduziu prêmio de risco fiscal nos ativos brasileiros."
+   },
+   {
+    "quem": "Equipe do Bradesco BBI",
+    "oque": "A nomeação de Trabuco dá credibilidade fiscal para evitar 'armadilha de valor' no mercado."
+   },
+   {
+    "quem": "Nicolas Gass, estrategista da GT Capital",
+    "oque": "A queda nos juros longos mostra retirada do prêmio fiscal da curva, não apenas aposta em corte da Selic."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "25/11/2026",
+    "oque": "Começaram as especulações sobre o nome de Trabuco para o Ministério da Fazenda."
+   },
+   {
+    "quando": "26/11/2026",
+    "oque": "Juros caíram 50 pontos-base com início das especulações."
+   },
+   {
+    "quando": "27/11/2026",
+    "oque": "Confirmação oficial de Trabuco; juros futuros caem até 80 pontos-base."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Juros futuros",
+    "significado": "Taxas de juros para períodos futuros negociadas no mercado financeiro."
+   },
+   {
+    "termo": "DI (Depósito Interfinanceiro)",
+    "significado": "Contrato de juros usado como referência para taxa básica de juros no Brasil."
+   },
+   {
+    "termo": "Prêmio de risco fiscal",
+    "significado": "Custo extra para financiar dívida devido a incertezas sobre saúde das contas públicas."
+   }
+  ],
+  "pergunta": "Como você vê o impacto de Trabuco na política fiscal e no mercado financeiro?",
+  "tamanhoTexto": 13063,
+  "numeros": [
+   {
+    "valor": "80",
+    "rotulo": "pontos-base de queda dos juros futuros em 27/11/2026"
+   },
+   {
+    "valor": "13,700%",
+    "rotulo": "taxa do DI jan/2028 após queda"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "queda do dólar frente ao real"
+   },
+   {
+    "valor": "176.573",
+    "rotulo": "fechamento do Ibovespa em pontos no dia 27/11"
+   },
+   {
+    "valor": "54,7 bilhões",
+    "rotulo": "volume financeiro negociado na B3 em R$ no pregão"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Taxa DI jan/2028",
+    "antes": "14,185%",
+    "depois": "13,700%"
+   }
+  ],
+  "destaque": "80 pontos-base de",
+  "porQueImporta": "A queda dos juros futuros com a nomeação de Trabuco indica maior confiança do mercado na política fiscal, reduzindo custos de financiamento e prêmios de risco. Para quem investe ou opera, isso melhora o cenário de investimentos em renda fixa e ações, ajustando expectativa para política econômica em 2027.",
+  "impactoMercado": "Com a menor percepção de risco, o real se valoriza e os juros futuros caem, podendo beneficiar setores sensíveis a custo do dinheiro, como bancos e empresas domésticas. O mercado de renda variável pode ficar mais atrativo para estratégias de médio prazo, enquanto commodities exportadoras tendem a enfrentar pressão por real forte.",
+  "entenda": "Juros futuros são taxas negociadas para contratos de DI que indicam o custo do dinheiro no futuro. A queda dessas taxas mostra que o mercado espera menor risco fiscal e juros estáveis ou em queda, refletindo confiança na política econômica. A curva de juros é usada para precificar títulos públicos e orientar decisões de investimento.",
+  "observar": "Fique atento à composição da equipe econômica e às medidas fiscais para 2027 para entender o rumo dos juros e da Bolsa. Dados de inflação e decisões do Banco Central também serão importantes nos próximos meses.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários"
+  ],
+  "angulo": "A notícia mostra como mudanças na liderança econômica influenciam as expectativas dos juros e do risco fiscal, essenciais para quem quer entender decisões do mercado e o funcionamento da economia.",
+  "gancho": "*Juros* caem com *Trabuco* na Fazenda",
+  "ideias": [
+   "Quem é Luiz Carlos Trabuco e por que importa para o mercado",
+   "Como a nomeação do ministro afeta os juros futuros e seus investimentos",
+   "Entenda o que significa queda nos juros futuros para a economia brasileira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Juros",
+  "icone": "seta",
+  "fonte": "Times Brasil; Valor Econômico; BP Money",
+  "impacto": "alto",
+  "ordem": 1,
+  "status": "nova",
+  "coletadoEm": "2026-11-27T20:44:08-03:00",
+  "url": "https://timesbrasil.com.br/brasil/economia-brasileira/juros-futuros-despencam-com-escolha-de-trabuco/",
+  "publicadoEm": "2026-11-27T20:07:26-03:00",
+  "data": "2026-11-27",
+  "id": "2026-11-27-15"
+ },
+ {
+  "titulo": "Rede D’Or antecipa pagamento de dividendos de R$ 2,1 bilhões para 9 de dezembro",
+  "resumo": "Conselho da Rede D’Or adiou pagamento de dividendos de R$ 2,1 bilhões para 9/12, antes previsto para 30/12. O valor equivale a R$ 0,95171 por ação ordinária, com base na composição acionária de dezembro de 2025.",
+  "fatos": [
+   "Pagamento antecipado para 9 de dezembro de 2026.",
+   "Montante bruto de dividendos de R$ 2,1 bilhões.",
+   "Valor por ação ordinária de R$ 0,95171.",
+   "Composição acionária considerada de 18 de dezembro de 2025.",
+   "Antes, o pagamento estava previsto para 30 de dezembro de 2026."
+  ],
+  "explicacao": [
+   "O conselho de administração da Rede D’Or aprovou antecipar para 9 de dezembro o pagamento de dividendos no valor bruto de R$ 2,1 bilhões. Antes, o pagamento estava previsto para 30 de dezembro. O valor corresponde a R$ 0,95171 por ação ordinária da empresa.",
+   "A antecipação considera a composição acionária de 18 de dezembro de 2025, usada como base para a distribuição dos dividendos. Essa movimentação pode ser uma estratégia para melhorar o retorno aos acionistas ou ajuste no calendário financeiro da companhia.",
+   "O pagamento desses dividendos representa um fluxo significativo de distribuição de lucros aos investidores, refletindo a rentabilidade e os resultados positivos da Rede D’Or. Essa decisão pode impactar a percepção do mercado sobre a empresa.",
+   "Agora, os acionistas devem observar a data-base para receber os proventos e acompanhar os próximos resultados da companhia, além da reação do mercado diante dessa antecipação e seus efeitos nos preços das ações."
+  ],
+  "detalhes": [
+   "Quem: Conselho de administração da Rede D’Or.",
+   "Quanto: R$ 2,1 bilhões em dividendos brutos.",
+   "Quando: antecipação do pagamento para 9/12/2026, originalmente 30/12/2026.",
+   "Como: com base na composição acionária de dezembro de 2025.",
+   "Contexto: ação comunicada em 27/11/2026.",
+   "Impacto: valor distribuído por ação ON é R$ 0,95171.",
+   "Finalidade: pagar proventos a acionistas."
+  ],
+  "declaracoes": [],
+  "cronologia": [
+   {
+    "quando": "27/11/2026",
+    "oque": "Rede D’Or anuncia antecipação do pagamento de dividendos"
+   },
+   {
+    "quando": "9/12/2026",
+    "oque": "Nova data para pagamento dos dividendos de R$ 2,1 bilhões"
+   },
+   {
+    "quando": "30/12/2026",
+    "oque": "Data anterior prevista para o pagamento dos dividendos"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Dividendos",
+    "significado": "Parte do lucro distribuída aos acionistas pela empresa."
+   },
+   {
+    "termo": "Composição acionária",
+    "significado": "Lista dos acionistas e quantidade de ações em determinada data."
+   },
+   {
+    "termo": "Ação ordinária (ON)",
+    "significado": "Tipo de ação que confere direito a voto ao acionista."
+   }
+  ],
+  "pergunta": "Você já acompanha o calendário de dividendos das suas ações favoritas?",
+  "tamanhoTexto": 6892,
+  "numeros": [
+   {
+    "valor": "R$ 2,1 bilhões",
+    "rotulo": "Montante bruto total dos dividendos"
+   },
+   {
+    "valor": "R$ 0,95171",
+    "rotulo": "Valor bruto do dividendo por ação ordinária"
+   },
+   {
+    "valor": "18/12/2025",
+    "rotulo": "Data-base da composição acionária para pagamento"
+   },
+   {
+    "valor": "9/12/2026",
+    "rotulo": "Nova data para pagamento dos dividendos"
+   },
+   {
+    "valor": "30/12/2026",
+    "rotulo": "Data anterior para pagamento dos dividendos"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "Data de pagamento dos dividendos",
+    "antes": "30/12/2026",
+    "depois": "9/12/2026"
+   }
+  ],
+  "destaque": "R$ 2,1 bilhões",
+  "porQueImporta": "A antecipação do pagamento de dividendos impacta a liquidez dos investidores e pode influenciar a movimentação das ações no curto prazo, indicando a solidez financeira da Rede D’Or e a gestão ativa na distribuição de resultados.",
+  "impactoMercado": "Essa distribuição relevante pode afetar o preço das ações da Rede D’Or no pregão próximo à data de pagamento, além de sinalizar a saúde financeira da companhia, fator considerado por investidores e analistas em suas decisões.",
+  "entenda": "Dividendos são parcelas do lucro que uma empresa distribui aos seus acionistas como rendimento. A antecipação do pagamento altera a data de recebimento dos valores, mas não muda o valor total distribuído, impactando o fluxo dos investidores.",
+  "observar": "Fique atento a 18 de dezembro de 2025, data-base para dividendos, e ao pagamento em 9 de dezembro de 2026 para acompanhar impacto no preço das ações.",
+  "publico": [
+   "Investidores",
+   "Iniciantes",
+   "Day traders"
+  ],
+  "angulo": "Esta notícia mostra como datas e valores de dividendos impactam o retorno do investidor, fundamental para quem quer entender fluxos de caixa e decisões financeiras na bolsa.",
+  "gancho": "*Dividendos* antecipados Rede D’Or",
+  "ideias": [
+   "Por que a Rede D’Or antecipou seus dividendos?",
+   "O que muda para o investidor com essa antecipação?",
+   "Entenda como datas de dividendos influenciam a bolsa"
+  ],
+  "formatos": [
+   "Carrossel"
+  ],
+  "categoria": "Dividendos",
+  "icone": "grafico",
+  "fonte": "Valor Econômico; Folha Mercado; G1 Economia",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-27T20:44:08-03:00",
+  "url": "https://valor.globo.com/empresas/noticia/2026/11/27/rede-dor-antecipa-pagamento-de-dividendos-de-r-21-bilhes.ghtml",
+  "publicadoEm": "2026-11-27T20:06:18-03:00",
+  "data": "2026-11-27",
+  "id": "2026-11-27-16"
+ },
+ {
+  "titulo": "BC anuncia leilões de até US$ 2 bilhões em linha cambial para 30/11",
+  "resumo": "Banco Central realizará dois leilões de linha somando até US$ 2 bilhões na segunda-feira. A medida atua no cupom cambial sem impactar o câmbio à vista, sendo uma ação prudencial diante da escassez de dólares.",
+  "fatos": [
+   "O Banco Central anunciou leilões para até US$ 2 bilhões via linha cambial.",
+   "Leilões serão realizados em 30 de novembro, segunda-feira.",
+   "Leilão de linha vende dólares com compromisso de recompra.",
+   "Venda não altera o nível do câmbio à vista, mas impacta o cupom cambial.",
+   "Ferramenta é usada em situações de escassez temporária de dólares.",
+   "Novembro tende a apresentar forte saída de remessas corporativas.",
+   "Objetivo da medida é garantir liquidez e estabilidade no mercado cambial.",
+   "Dólar atingiu maior valor desde março do ano anterior recentemente.",
+   "Analistas destacam pressão baixista futura com desaceleração do investimento em IA."
+  ],
+  "explicacao": [
+   "O Banco Central (BC) informou que realizará dois leilões de linha, totalizando até US$ 2 bilhões, na próxima segunda-feira, 30 de novembro. O leilão de linha consiste na venda de dólares com compromisso de recompra, diferente da venda tradicional à vista, e não altera o valor do câmbio imediato.",
+   "Esse mecanismo é usado pelo BC para atuar de forma prudencial diante de sinais de escassez de dólares no mercado, visando proporcionar liquidez temporária e controlar o cupom cambial, taxa de juros em dólar praticada no país.",
+   "A iniciativa ocorre em um momento em que novembro pode registrar forte saída de remessas corporativas, reduzindo a liquidez no mercado. Assim, o BC busca mitigar a pressão no mercado de câmbio e evitar volatilidade excessiva.",
+   "No futuro próximo, esses leilões devem ajudar a manter a estabilidade do mercado cambial, ainda em meio a incertezas globais e ao impacto dos investimentos em tecnologia sobre o dólar no médio prazo, conforme alertam analistas financeiros."
+  ],
+  "detalhes": [
+   "Quem: Banco Central do Brasil",
+   "Quanto: até US$ 2 bilhões em dois leilões de linha",
+   "Quando: 30 de novembro de 2026 (segunda-feira)",
+   "Como: venda de dólares com compromisso de recompra (leilão de linha)",
+   "Por que: para irrigar mercado diante de sinais de escassez de dólares e fluxo menor por remessas corporativas",
+   "Impacto: não altera câmbio à vista, mas afeta cupom cambial, taxa de juros em dólar no Brasil",
+   "Contexto: mercado tende a ficar menos líquido em novembro pela saída de remessas"
+  ],
+  "declaracoes": [
+   {
+    "quem": "analistas do Goldman Sachs",
+    "oque": "projeção negativa para médio prazo do dólar devido à desaceleração dos investimentos em IA"
+   },
+   {
+    "quem": "analistas da Principal Asset Management",
+    "oque": "previsão de maior volatilidade em 2027 pela cautela sobre retorno dos investimentos em IA"
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "27 de novembro de 2026",
+    "oque": "Banco Central anuncia leilões de linha de dólares para 30 de novembro"
+   },
+   {
+    "quando": "30 de novembro de 2026",
+    "oque": "Realização dos leilões de linha cambial pelo Banco Central"
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Leilão de linha",
+    "significado": "Venda temporária de dólares com recompra garantida pelo BC"
+   },
+   {
+    "termo": "Cupom cambial",
+    "significado": "Taxa de juros em dólar praticada no Brasil"
+   },
+   {
+    "termo": "Remessas corporativas",
+    "significado": "Transferências de recursos por empresas ao exterior"
+   }
+  ],
+  "pergunta": "Você sabe como os leilões de linha impactam o mercado de câmbio?",
+  "tamanhoTexto": 12340,
+  "numeros": [
+   {
+    "valor": "2 bilhões",
+    "rotulo": "valor em dólares dos leilões de linha"
+   },
+   {
+    "valor": "30 de novembro de 2026",
+    "rotulo": "data dos leilões da linha cambial"
+   },
+   {
+    "valor": "11,52 bilhões",
+    "rotulo": "estimativa de faturamento do varejo na Black Friday 2026 em reais"
+   },
+   {
+    "valor": "43,58 trilhões",
+    "rotulo": "US$ em capitalização da Nasdaq em junho de 2026"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "US$ 2 bilhões",
+  "porQueImporta": "Entender como o Banco Central age para garantir liquidez no mercado de câmbio ajuda investidores e operadores a perceberem mecanismos que controlam volatilidades, principalmente em meses de baixa liquidez e maior saída de dólares.",
+  "impactoMercado": "A atuação do BC com leilões de linha pode reduzir oscilações abruptas no cupom cambial e no custo do dólar em dólar no país, afetando custos de empresas e investidores expostos à moeda americana, especialmente no curto prazo.",
+  "entenda": "Leilão de linha é a venda temporária de dólares pelo Banco Central com obrigação de recompra futura, diferente da venda definitiva. É usado para aumentar oferta momentânea de dólares e controlar o cupom cambial, sem alterar o câmbio à vista.",
+  "observar": "Monitorar o efeito dos leilões na liquidez do mercado após 30/11 e acompanhar possíveis novas intervenções diante da evolução do fluxo cambial e volatilidade do dólar.",
+  "publico": [
+   "Iniciantes",
+   "Day traders",
+   "Investidores",
+   "Empresários"
+  ],
+  "angulo": "Explicar como o Banco Central atua para controlar a liquidez e a taxa de juros em dólar, ajudando o público a entender mecanismos complexos do mercado financeiro e a importância da Faculdade de Mercado Financeiro.",
+  "gancho": "*Banco Central* aciona linha cambial",
+  "ideias": [
+   "O que é leilão de linha e como afeta o mercado de câmbio?",
+   "Por que o BC atua com leilões de dólares em novembro?",
+   "Entenda o impacto do cupom cambial na economia e investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Câmbio",
+  "icone": "moeda",
+  "fonte": "Valor Econômico",
+  "impacto": "medio",
+  "ordem": 6,
+  "status": "nova",
+  "coletadoEm": "2026-11-27T20:44:08-03:00",
+  "url": "https://valor.globo.com/financas/intraday/post/2026/11/bc-anuncia-venda-ate-us-2-bi-via-linha-mercado-ve-atuacao-como-medida-prudencial.ghtml",
+  "publicadoEm": "2026-11-27T19:08:48-03:00",
+  "data": "2026-11-27",
+  "id": "2026-11-27-17"
+ },
+ {
   "titulo": "Pluxee e Petrobras lançam grupo sobre segurança alimentar na ONU",
   "resumo": "Rede Brasil do Pacto Global da ONU criou grupo de trabalho com apoio da Pluxee e Petrobras para segurança alimentar dos trabalhadores, anunciado no Fórum da ONU em Genebra.",
   "fatos": [
@@ -12234,53 +12607,53 @@
  {
   "tipo": "sinal",
   "slug": "what-price-will-ethereum-hit-in-november-2026",
-  "titulo": "Mercado de previsões vê 73% de chance de Ethereum acima de 1,700",
-  "resumo": "Os apostadores antecipam que o Ethereum pode se manter acima de 1,700, refletindo um otimismo considerável neste ativo.",
+  "titulo": "Mercado de previsões vê 63,5% de chance do Ethereum acima de 1.700 em novembro.",
+  "resumo": "Probabilidade segundo apostadores, não previsão oficial.",
   "probs": [
    {
-    "opcao": "↑ 1,700",
-    "prob": 73.0
+    "opcao": "acima de 1.700",
+    "prob": 63.5
    },
    {
-    "opcao": "↓ 1,600",
-    "prob": 40.0
+    "opcao": "abaixo de 1.600",
+    "prob": 44.0
    },
    {
-    "opcao": "↑ 1,800",
-    "prob": 13.0
+    "opcao": "acima de 1.800",
+    "prob": 10.5
    },
    {
-    "opcao": "↓ 1,500",
-    "prob": 9.4
+    "opcao": "abaixo de 1.500",
+    "prob": 10.2
    }
   ],
   "prazo": "2026-12-01",
-  "volume24h": "US$ 191 mil",
+  "volume24h": "US$ 189 mil",
   "fatos": [
-   "↑ 1,700: 73,0%",
-   "↓ 1,600: 40,0%",
-   "↑ 1,800: 13,0%",
-   "↓ 1,500: 9,4%"
+   "acima de 1.700: 63,5%",
+   "abaixo de 1.600: 44,0%",
+   "acima de 1.800: 10,5%",
+   "abaixo de 1.500: 10,2%"
   ],
   "numeros": [
    {
-    "valor": "73,0%",
-    "rotulo": "↑ 1,700"
+    "valor": "63,5%",
+    "rotulo": "acima de 1.700"
    },
    {
-    "valor": "40,0%",
-    "rotulo": "↓ 1,600"
+    "valor": "44,0%",
+    "rotulo": "abaixo de 1.600"
    },
    {
-    "valor": "13,0%",
-    "rotulo": "↑ 1,800"
+    "valor": "10,5%",
+    "rotulo": "acima de 1.800"
    },
    {
-    "valor": "9,4%",
-    "rotulo": "↓ 1,500"
+    "valor": "10,2%",
+    "rotulo": "abaixo de 1.500"
    }
   ],
-  "destaque": "73,0%",
+  "destaque": "63,5%",
   "gancho": "*Previsão conservadora* para Ethereum",
   "entenda": "Ethereum é uma das principais criptomoedas e seu preço é afetado pela demanda do mercado e pela atividade de investidores. As previsões no mercado indicam tendências esperadas de preço.",
   "categoria": "Previsões",
@@ -12295,7 +12668,7 @@
   "data": "2026-11-22",
   "status": "atualizada",
   "id": "2026-11-22-p2",
-  "atualizadoEm": "2026-11-27T16:11:20-03:00"
+  "atualizadoEm": "2026-11-27T20:44:08-03:00"
  },
  {
   "tipo": "sinal",
