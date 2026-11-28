@@ -1,13 +1,14 @@
 {
  "coleta": {
-  "ultimaColeta": "2026-11-27T20:44:08-03:00",
+  "ultimaColeta": "2026-11-28T00:30:20-03:00",
   "novas": 3,
-  "atualizadas": 1,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "3 nova(s) e 1 atualizada(s): Juros caem com Trabuco na Fazenda; Dividendos antecipados Rede D’Or; Banco Central aciona linha cambial.",
+  "mensagem": "3 nova(s): Open BRL: stablecoin da B3 e bancos; Block trade movimenta ISA Energia.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-28T00:30:20-03:00",
    "2026-11-27T20:44:08-03:00",
    "2026-11-27T16:11:20-03:00",
    "2026-11-27T09:35:41-03:00",
@@ -18,12 +19,11 @@
    "2026-11-25T20:47:48-03:00",
    "2026-11-25T16:36:39-03:00",
    "2026-11-25T01:35:33-03:00",
-   "2026-11-24T21:07:13-03:00",
-   "2026-11-24T17:21:41-03:00"
+   "2026-11-24T21:07:13-03:00"
   ],
   "modelo": "gpt-4o-mini",
   "modeloEscrita": "gpt-4.1-mini",
-  "textosCompletos": 6
+  "textosCompletos": 5
  },
  "placar": {
   "itens": [
@@ -48,8 +48,8 @@
    {
     "k": "BTC",
     "nome": "Bitcoin",
-    "v": "US$ 59,8 mil",
-    "var": "-0,98%"
+    "v": "US$ 59,9 mil",
+    "var": "-2,68%"
    },
    {
     "k": "SPX",
@@ -88,14 +88,14 @@
     "var": ""
    }
   ],
-  "obs": "Fechamento",
-  "hora": "sex 20h",
-  "data": "2026-11-27",
-  "atualizadoEm": "2026-11-27T20:44:08-03:00",
+  "obs": "Último fechamento",
+  "hora": "sáb 0h",
+  "data": "2026-11-28",
+  "atualizadoEm": "2026-11-28T00:30:20-03:00",
   "ibov": "176.573",
   "ibovVar": "-0,13%",
   "dolar": "R$ 5,56",
   "dolarVar": "-1,64%",
-  "btc": "US$ 59,8 mil"
+  "btc": "US$ 59,9 mil"
  }
 }

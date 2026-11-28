@@ -1,5 +1,340 @@
 [
  {
+  "titulo": "B3 e bancos criam stablecoin Open BRL atrelada ao real para mercado",
+  "resumo": "B3, junto com seis bancos, desenvolve a Open BRL, stablecoin vinculada ao real para operações financeiras digitais. A meta é lançamento em 2027, com uso em negociações de ações e pagamentos, ampliando o mercado de ativos digitais no Brasil.",
+  "fatos": [
+   "Data do anúncio: 27 de novembro de 2026",
+   "Parceiros: Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander, XP",
+   "Nome da stablecoin: Open BRL",
+   "Emissor inicial: Banco B3",
+   "Previsão de lançamento: primeira metade de 2027, com negociações de ações tokenizadas no segundo semestre de 2027",
+   "Lastro: títulos públicos federais de curto prazo e taxa flutuante",
+   "Uso principal: operações no mercado de ativos digitais, inclusive liquidação de ações",
+   "Controle: mecanismos contra lavagem de dinheiro e crimes financeiros",
+   "Diferença para Drex: Open BRL é ativo privado, Drex é versão digital do real emitida pelo Banco Central",
+   "Crescimento da cripto na América Latina: 76% em 2025, Brasil cresce 109% no uso"
+  ],
+  "explicacao": [
+   "Nesta sexta-feira, 27 de novembro, a B3 anunciou em parceria com Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP o desenvolvimento da Open BRL, uma stablecoin atrelada ao real. Ela será emitida inicialmente pelo Banco B3 e pretende começar a operar em 2027.",
+   "A iniciativa busca criar uma infraestrutura tecnológica comum para que instituições financeiras desenvolvam serviços digitais integrados. A Bolsa pretende usar a Open BRL para automatizar a liquidação de compras e vendas de ações numa plataforma digital que planeja lançar no segundo semestre de 2027.",
+   "Diferente do Bitcoin, cujo valor oscila, stablecoins como a Open BRL mantêm a paridade com o real, lastreadas em títulos públicos federais de curto prazo comprados pela B3. Isso dá estabilidade e segurança na conversão dos tokens em reais quando solicitada.",
+   "O projeto também visa permitir negociações 24/7, especialmente úteis para investidores estrangeiros, e incorpora contratos inteligentes que executam automaticamente ordens conforme regras programadas. A operação depende da autorização do Banco Central, sem prazo definido para a aprovação."
+  ],
+  "detalhes": [
+   "Open BRL quer integrar diferentes sistemas financeiros para interoperabilidade entre bancos",
+   "B3 desenvolverá a tecnologia; bancos cuidarão da integração dos sistemas clientes",
+   "A stablecoin mantém paridade 1:1 com o real, com lastro garantido por títulos públicos",
+   "Visa expandir mercado digital com liquidação instantânea e ampla disponibilidade",
+   "Mecanismos de governança e auditoria acompanharão o uso do ativo para evitar fraudes",
+   "Investidores estrangeiros poderão operar 24h por dia, sete dias por semana",
+   "Autorização do Banco Central é requisito para uso da stablecoin como meio de pagamento"
+  ],
+  "declaracoes": [
+   {
+    "quem": "Luiz Masagão, vice-presidente de produtos e clientes da B3",
+    "oque": "A Open BRL será usada principalmente para o mercado de ativos digitais e poderá ter uso cotidiano, como pagamentos."
+   },
+   {
+    "quem": "Luiz Masagão, vice-presidente de produtos e clientes da B3",
+    "oque": "Todo valor aportado na moeda será investido em títulos públicos federais para garantir o lastro e paridade."
+   },
+   {
+    "quem": "Luiz Masagão, vice-presidente de produtos e clientes da B3",
+    "oque": "Queremos ser a catalisadora da transformação do mercado financeiro tradicional para um modelo descentralizado e regulado."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "27 de novembro de 2026",
+    "oque": "Anúncio da parceria B3 e bancos para criar a stablecoin Open BRL."
+   },
+   {
+    "quando": "primeira metade de 2027",
+    "oque": "Expectativa de início da distribuição da Open BRL no mercado."
+   },
+   {
+    "quando": "segundo semestre de 2027",
+    "oque": "Previsão de lançamento da plataforma de negociação de ações tokenizadas com liquidação instantânea."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Stablecoin",
+    "significado": "Criptoativo com valor estável, vinculado a uma moeda ou ativo"
+   },
+   {
+    "termo": "Lastro",
+    "significado": "Garantia financeira que assegura a conversão do ativo digital em dinheiro real"
+   },
+   {
+    "termo": "Contrato inteligente",
+    "significado": "Programa que executa automaticamente operações financeiras quando condições são cumpridas"
+   }
+  ],
+  "pergunta": "Como você vê o impacto da Open BRL no futuro das operações financeiras no Brasil?",
+  "tamanhoTexto": 16825,
+  "numeros": [
+   {
+    "valor": "6",
+    "rotulo": "Bancos parceiros da B3 no projeto"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "Ano de previsão para início das operações da Open BRL"
+   },
+   {
+    "valor": "1:1",
+    "rotulo": "Paridade da Open BRL com o real"
+   },
+   {
+    "valor": "76%",
+    "rotulo": "Crescimento de transações de ativos digitais na América Latina em 2025"
+   },
+   {
+    "valor": "109%",
+    "rotulo": "Crescimento do mercado de criptoativos no Brasil em 2025"
+   }
+  ],
+  "comparativo": [
+   {
+    "item": "projeto Open BRL vs Drex",
+    "antes": "Drex é stablecoin emitida pelo Banco Central",
+    "depois": "Open BRL é stablecoin de emissão privada e lastreada por títulos públicos"
+   }
+  ],
+  "destaque": "Open BRL, stablecoin",
+  "porQueImporta": "A criação da Open BRL marca a entrada de grandes bancos e a Bolsa em um mercado crescente de ativos digitais, com lastro no real. Isso indica transformação tecnológica e financeira, aproximando o mercado tradicional do universo das criptomoedas com maior segurança e regulamentação.",
+  "impactoMercado": "Com a Open BRL, operações financeiras como negociações de ações poderão ganhar agilidade e operar 24/7, atraindo investidores nacionais e estrangeiros. Setores ligados a tecnologia, bancos e a própria B3 podem ver maior inovação com potencial de ampliar serviços financeiros digitais integrados.",
+  "entenda": "Stablecoins são moedas digitais com valor estável porque são atreladas a uma moeda tradicional, como o real. Elas funcionam para comprar, vender e transferir ativos digitais com menos volatilidade que criptomoedas comuns. A Open BRL é uma dessas stablecoins para o mercado brasileiro.",
+  "observar": "Fique atento à autorização do Banco Central para uso da Open BRL como meio de pagamento e ao lançamento planejado da plataforma de ações tokenizadas da B3 em 2027.",
+  "publico": [
+   "Iniciantes",
+   "Investidores",
+   "Day traders",
+   "Empresários",
+   "CLT",
+   "Aposentados"
+  ],
+  "angulo": "Esta notícia mostra como a B3 e grandes bancos estão impulsionando a inovação no mercado financeiro tradicional com criptoativos, aproximando o investidor da tecnologia blockchain e das transações digitais seguras.",
+  "gancho": "*Open BRL*: stablecoin da B3 e bancos",
+  "ideias": [
+   "O que é a stablecoin Open BRL e como funciona?",
+   "B3 e bancos lançam moeda digital lastreada no real",
+   "Como a Open BRL pode mudar a liquidação de ações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "categoria": "Cripto",
+  "icone": "moeda",
+  "fonte": "Folha Mercado; Brazil Journal; Suno Notícias",
+  "impacto": "alto",
+  "ordem": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-28T00:30:20-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/b3-quer-usar-criptoativo-atrelado-ao-real-em-operacoes-com-acoes-entenda.shtml",
+  "publicadoEm": "2026-11-27T23:00:00-03:00",
+  "data": "2026-11-27",
+  "id": "2026-11-28-01"
+ },
+ {
+  "titulo": "Axia vende R$ 2,1 bi em ações da ISA Energia no rali Trabuco",
+  "resumo": "Axia Energia realizou block trade de R$ 2,1 bilhões em 77 mi ações da ISA, ao preço de R$ 26,65 cada. A venda representa cerca de 10% do capital da transmissora e 60% da posição da Axia.",
+  "fatos": [
+   "Axia vendeu R$ 2,1 bilhões em ações da ISA Energia.",
+   "Block trade envolveu 77 milhões de ações, ao preço de R$ 26,65 por ação.",
+   "Venda representa cerca de 10% do capital da ISA Energia.",
+   "BTG Pactual coordenou venda e deu garantia firme a R$ 26 por ação.",
+   "Preço final ficou 2,5% acima da garantia inicial do BTG.",
+   "Demanda totalizou quase R$ 3 bilhões, com 60% local e 40% internacional.",
+   "Axia já havia reduzido participação de 35,7% para 17,14 em outras vendas.",
+   "Venda ocorreu após alta da ação em meio ao rali provocado pela indicação de Trabuco ao Ministério da Fazenda.",
+   "ISA Energia vale cerca de R$ 20,6 bilhões na bolsa.",
+   "A ação da ISA caiu 2,6% nos últimos 12 meses, enquanto a Axia subiu 1,4% no período."
+  ],
+  "explicacao": [
+   "A Axia Energia vendeu R$ 2,1 bilhões em ações da ISA Energia num block trade coordenado pelo BTG Pactual, envolvendo 77 milhões de papéis a R$ 26,65 cada, valor 2,5% acima da garantia dada pelo BTG.",
+   "A venda ocorreu para aproveitar o otimismo do mercado gerado pela nomeação de Luiz Carlos Trabuco para o Ministério da Fazenda, o que aqueceu a demanda e permitiu melhorar o preço final da operação.",
+   "Essa operação corresponde a cerca de 10% do capital total da ISA Energia e a mais de 60% da posição detida pela Axia na empresa, que já vinha reduzindo sua participação desde a privatização da antiga Eletrobras.",
+   "O movimento reforça a estratégia da Axia de realizar aportes via venda de fatias minoritárias para captar recursos, enquanto a expectativa no mercado está voltada para a transição política e ajustes fiscais futuros."
+  ],
+  "detalhes": [
+   "A operação foi feita via block trade, negociada diretamente com grandes investidores.",
+   "O BTG Pactual deu garantia firme para todo o volume, o que significa que compraria o lote se não vendesse aos investidores.",
+   "A cotação final de R$ 26,65 representou um desconto de 1,8% em relação ao fechamento da véspera, que estava em R$ 27,14.",
+   "Antes dessa venda, Axia já havia vendido R$ 500 milhões em ações durante o período eleitoral.",
+   "Demanda pelo bloco foi elevada, com interesse de investidores tanto brasileiros quanto estrangeiros.",
+   "A venda da Axia acontece em um cenário de expectativa quanto às políticas econômicas do novo ministro da Fazenda, Luiz Carlos Trabuco.",
+   "Essa redução da participação segue a estratégia da privativa para focar em ativos com controle."
+  ],
+  "declaracoes": [
+   {
+    "quem": "fonte do Brazil Journal",
+    "oque": "A Axia aproveitou a euforia do mercado com a ida de Luiz Carlos Trabuco para a Fazenda para realizar a venda."
+   },
+   {
+    "quem": "mesma fonte",
+    "oque": "A venda é quase como um follow-on primário, dado o volume de recursos que vai entrar no caixa da Axia."
+   }
+  ],
+  "cronologia": [
+   {
+    "quando": "2026",
+    "oque": "Axia reduziu participação em ISA de 35,7% para 17,14% antes do block trade."
+   },
+   {
+    "quando": "período eleitoral 2026",
+    "oque": "Axia vendeu cerca de R$ 500 milhões em ações da ISA no mercado."
+   },
+   {
+    "quando": "27 de novembro de 2026",
+    "oque": "Block trade da Axia com 77 milhões de ações da ISA por R$ 2,1 bilhões."
+   }
+  ],
+  "glossario": [
+   {
+    "termo": "Block trade",
+    "significado": "Venda ou compra de grande volume de ações em operação única fora do pregão tradicional."
+   },
+   {
+    "termo": "Garantia firme",
+    "significado": "Compromisso do coordenador de compra se os investidores não adquirirem as ações."
+   },
+   {
+    "termo": "Follow-on",
+    "significado": "Oferta pública de ações por empresa já listada, para captar dinheiro."
+   }
+  ],
+  "pergunta": "Como você vê o impacto da nomeação de Trabuco nas ações do setor elétrico?",
+  "tamanhoTexto": 12589,
+  "numeros": [
+   {
+    "valor": "2,1 bilhões",
+    "rotulo": "valor da venda da Axia em ações da ISA"
+   },
+   {
+    "valor": "77 milhões",
+    "rotulo": "quantidade de ações negociadas no block trade"
+   },
+   {
+    "valor": "26,65",
+    "rotulo": "preço por ação na operação"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "porcentagem do capital da ISA negociada"
+   },
+   {
+    "valor": "60%",
+    "rotulo": "parte da posição da Axia desfeita na operação"
+   },
+   {
+    "valor": "27,14",
+    "rotulo": "fechamento da ação da ISA na sessão anterior"
+   }
+  ],
+  "comparativo": [],
+  "destaque": "R$ 2,1 bilhões",
+  "porQueImporta": "Essa venda da Axia no momento de otimismo com a chegada de Trabuco à Fazenda mostra como eventos políticos influenciam diretamente o interesse e o preço dos ativos, impactando a liquidez e estratégias financeiras de grandes investidores no setor elétrico.",
+  "impactoMercado": "O block trade movimenta um volume significativo de ações da ISA Energia e pode sinalizar para o mercado a confiança na direção das políticas econômicas, influenciando o comportamento das ações do setor de energia e dos ativos relacionados ao ajuste fiscal previsto.",
+  "entenda": "Um block trade é uma negociação de grande volume de ações feita fora do pregão regular, geralmente entre grandes investidores, para minimizar a volatilidade e garantir liquidez. Neste caso, a Axia vendia fatias expressivas da ISA Energia para captar recursos para sua estratégia.",
+  "observar": "Fique atento aos próximos balanços da ISA Energia, à divulgação das medidas fiscais de Trabuco como ministro e às movimentações em ações do setor elétrico, pois podem refletir o impacto dessas mudanças.",
+  "publico": [
+   "Investidores",
+   "Day traders",
+   "Iniciantes"
+  ],
+  "angulo": "A notícia mostra como acontecimentos políticos podem abrir oportunidades para entender operações importantes do mercado, como block trades, e a influência desses eventos no valor e na liquidez dos ativos negociados na bolsa.",
+  "gancho": "*Block trade* movimenta ISA Energia",
+  "ideias": [
+   "O que é um block trade e como funciona?",
+   "Por que Axia vendeu 10% da ISA Energia agora?",
+   "Impacto da nomeação de Trabuco no mercado de energia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "categoria": "Bolsa",
+  "icone": "grafico",
+  "fonte": "Brazil Journal; Suno Notícias; Estadão Economia",
+  "impacto": "medio",
+  "ordem": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-28T00:30:20-03:00",
+  "url": "https://braziljournal.com/axia-vende-r-2-1-bilhoes-de-isa-energia-surfando-o-rali-trabuco",
+  "publicadoEm": "2026-11-27T14:35:00-03:00",
+  "data": "2026-11-27",
+  "id": "2026-11-28-02"
+ },
+ {
+  "tipo": "sinal",
+  "slug": "bank-of-england-decision-in-december-2026",
+  "titulo": "Mercado de previsões vê 77,5% de chance de aumento de 25 bps pelo Banco da Inglaterra em dezembro",
+  "resumo": "Essa é uma probabilidade dada por apostadores e não uma previsão formal do banco.",
+  "probs": [
+   {
+    "opcao": "Aumento de 25 bps",
+    "prob": 77.5
+   },
+   {
+    "opcao": "Sem mudança",
+    "prob": 20.5
+   },
+   {
+    "opcao": "Redução de 50+ bps",
+    "prob": 0.1
+   },
+   {
+    "opcao": "Redução de 25 bps",
+    "prob": 0.1
+   }
+  ],
+  "prazo": "2026-12-17",
+  "volume24h": "US$ 28 mil",
+  "fatos": [
+   "Aumento de 25 bps: 77,5%",
+   "Sem mudança: 20,5%",
+   "Redução de 50+ bps: 0,1%",
+   "Redução de 25 bps: 0,1%"
+  ],
+  "numeros": [
+   {
+    "valor": "77,5%",
+    "rotulo": "Aumento de 25 bps"
+   },
+   {
+    "valor": "20,5%",
+    "rotulo": "Sem mudança"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 50+ bps"
+   },
+   {
+    "valor": "0,1%",
+    "rotulo": "Redução de 25 bps"
+   }
+  ],
+  "destaque": "77,5%",
+  "gancho": "*Expectativa* para o BoE",
+  "entenda": "As decisões de política monetária do Banco da Inglaterra impactam a economia do Reino Unido, muitas vezes focando no controle da inflação.",
+  "categoria": "Previsões",
+  "icone": "alvo",
+  "impacto": "medio",
+  "ordem": 50,
+  "fonte": "Polymarket (mercado de previsões)",
+  "url": "https://polymarket.com/event/bank-of-england-decision-in-december-2026",
+  "publicadoEm": "2026-11-28T00:30:20-03:00",
+  "horaEstimada": true,
+  "coletadoEm": "2026-11-28T00:30:20-03:00",
+  "data": "2026-11-28",
+  "status": "nova",
+  "id": "2026-11-28-p1"
+ },
+ {
   "titulo": "Juros futuros despencam com escolha de Trabuco para Fazenda",
   "resumo": "A nomeação de Luiz Carlos Trabuco para ministro da Fazenda fez os juros futuros caírem forte, retornando a níveis pré-eleição.",
   "fatos": [
@@ -9102,71 +9437,6 @@
   "id": "2026-11-24-03"
  },
  {
-  "tipo": "sinal",
-  "slug": "bitcoin-above-on-november-27-2026",
-  "titulo": "Mercado de previsões vê 98.6% de chance do Bitcoin estar acima de 50,000.",
-  "resumo": "As apostas indicam grande confiança na manutenção do valor do Bitcoin acima do patamar de 50,000.",
-  "probs": [
-   {
-    "opcao": "50,000",
-    "prob": 98.6
-   },
-   {
-    "opcao": "52,000",
-    "prob": 97.5
-   },
-   {
-    "opcao": "54,000",
-    "prob": 94.6
-   },
-   {
-    "opcao": "56,000",
-    "prob": 91.5
-   }
-  ],
-  "prazo": "2026-11-27",
-  "volume24h": "US$ 69 mil",
-  "fatos": [
-   "50,000: 98,6%",
-   "52,000: 97,5%",
-   "54,000: 94,6%",
-   "56,000: 91,5%"
-  ],
-  "numeros": [
-   {
-    "valor": "98,6%",
-    "rotulo": "50,000"
-   },
-   {
-    "valor": "97,5%",
-    "rotulo": "52,000"
-   },
-   {
-    "valor": "94,6%",
-    "rotulo": "54,000"
-   },
-   {
-    "valor": "91,5%",
-    "rotulo": "56,000"
-   }
-  ],
-  "destaque": "98,6%",
-  "gancho": "*Expectativa alta* para Bitcoin",
-  "entenda": "O valor do Bitcoin é afetado por especulações, adoção no mercado e mudanças regulatórias, tornando-o uma opção intrigante.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/bitcoin-above-on-november-27-2026",
-  "publicadoEm": "2026-11-24T02:30:55-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-24T02:30:55-03:00",
-  "data": "2026-11-24",
-  "status": "nova",
-  "id": "2026-11-24-p1"
- },
- {
   "titulo": "Área econômica sugere nomes favoráveis ao mercado para diretorias do BC",
   "resumo": "A área econômica escolheu nomes 'amigáveis ao mercado' para as diretorias do Banco Central, evitando perfis heterodoxos. A decisão visa reduzir a tensão e ajustar expectativas diante da atual volatilidade do dólar.",
   "fatos": [
@@ -16749,279 +17019,6 @@
   "id": "2026-11-21-03"
  },
  {
-  "titulo": "Nasdaq despenca 5% e índice do medo sobe 31% com correção em techs",
-  "resumo": "Na sexta (20), Nasdaq caiu 5,28%, ampliando queda de 2026; VIX subiu 31%. Dúvidas sobre investimentos em IA e queda da Nvidia dominaram o dia.",
-  "fatos": [
-   "Nasdaq caiu 5,28% no dia 20 de novembro de 2026.",
-   "Índice VIX subiu 31%, chegando próximo a 36 pontos.",
-   "S&P 500 caiu 3,70%; Dow Jones recuou 1,93%.",
-   "Ações da Nvidia caíram até 14%, ampliando queda acumulada para quase 50% desde outubro.",
-   "Fabricantes de chips como AMD e Micron tiveram quedas acima de 10%.",
-   "Anthropic recuou 8,5% no segundo dia após sua estreia em IPO.",
-   "71 das 101 empresas do Nasdaq 100 estão em bear market.",
-   "Nasdaq acumula queda de 10,02% em 2026, pior desde março de 2020.",
-   "Venda se espalhou a outras bolsas globais, criptomoedas e commodities.",
-   "Segundo Goldman Sachs, investidores sistemáticos venderam US$ 57 bilhões em ações no último mês."
-  ],
-  "explicacao": [
-   "Na sexta-feira, 20 de novembro de 2026, os mercados americanos sofreram forte turbulência, com o índice Nasdaq caindo 5,28%, aprofundando a correção de suas ações de tecnologia. O índice VIX, conhecido como índice do medo, disparou 31% no pregão, refletindo maior aversão ao risco.",
-   "O movimento foi puxado por dúvidas em relação à continuidade dos altos investimentos em inteligência artificial (IA), impactando fabricantes de semicondutores líderes como Nvidia, AMD, Broadcom e Micron, que tiveram perdas superiores a 10%. Ainda pesaram reportagens sobre investigações da Nvidia sobre práticas contábeis.",
-   "A liquidação afetou significativamente as chamadas \"Magnificent Seven\", grupo de gigantes de tecnologia que perderam mais de US$ 1 trilhão em valor de mercado em poucos dias, com a Nvidia respondendo por quase US$ 440 bilhões. O índice Nasdaq 100 tem 71 das 101 empresas em território de bear market.",
-   "Além dos EUA, as bolsas europeias e asiáticas também fecharam em baixa, com receios sobre desaceleração global, restrições à exportação de chips e custos crescentes dos investimentos. O movimento refletiu em criptomoedas e ADRs brasileiros negociados nos EUA, ampliando o clima de aversão ao risco."
-  ],
-  "detalhes": [
-   "Queda ocorreu em 20 de novembro de 2026, sexta-feira.",
-   "Movimento foi liderado pelo setor de tecnologia e semicondutores.",
-   "VIX é considerado o indicador do medo do mercado nos EUA.",
-   "Investigações da SEC sobre Nvidia pesaram no sentimento dos investidores.",
-   "IPO da Anthropic levantou US$ 81 bilhões, mas suas ações caíram após estreia.",
-   "Venda de ações não ficou restrita ao setor tech; afetou todos os 11 setores do S&P 500.",
-   "Bolsa brasileira B3 estava fechada pelo feriado da Consciência Negra."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Massimo Santicchia, chefe de ações dos EUA da Procyon",
-    "oque": "Movimento atual é uma ampla aversão ao risco, não apenas uma correção de valuation."
-   },
-   {
-    "quem": "Tejal Patel, analista",
-    "oque": "A queda pós-IPO da Anthropic alerta para volatilidade futura e incertezas no setor."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "19 de novembro de 2026",
-    "oque": "Índices já recuaram mais de 2%, Dow Jones abaixo de 50 mil pontos pela primeira vez desde junho."
-   },
-   {
-    "quando": "20 de novembro de 2026",
-    "oque": "Nasdaq cai 5,28%, VIX sobe 31%, ações de tecnologia despencam."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Nasdaq",
-    "significado": "Índice americano que reúne ações principalmente de tecnologia."
-   },
-   {
-    "termo": "Índice VIX",
-    "significado": "Indicador que mede a volatilidade e o medo no mercado financeiro."
-   },
-   {
-    "termo": "Bear market",
-    "significado": "Quando uma ação ou índice cai mais de 20% em relação ao pico recente."
-   }
-  ],
-  "pergunta": "Você acredita que a correção em tecnologia já atingiu o fundo ou ainda tem espaço para queda?",
-  "tamanhoTexto": 16649,
-  "numeros": [
-   {
-    "valor": "5,28%",
-    "rotulo": "queda do Nasdaq no dia 20/11/2026"
-   },
-   {
-    "valor": "31%",
-    "rotulo": "alta do índice VIX no pregão"
-   },
-   {
-    "valor": "50%",
-    "rotulo": "queda acumulada da Nvidia desde outubro"
-   },
-   {
-    "valor": "71",
-    "rotulo": "número de empresas do Nasdaq 100 em bear market"
-   },
-   {
-    "valor": "US$ 81 bilhões",
-    "rotulo": "valor levantado no IPO da Anthropic"
-   },
-   {
-    "valor": "US$ 1 trilhão",
-    "rotulo": "perda em valor de mercado das Magnificent Seven recentemente"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Nasdaq",
-    "antes": "perdas menores em setembro e outubro",
-    "depois": "queda de 5,28% em 20/11/2026"
-   },
-   {
-    "item": "VIX",
-    "antes": "níveis baixos nos meses anteriores",
-    "depois": "subiu 31% no pregão de 20/11/2026"
-   }
-  ],
-  "destaque": "5,28% queda do",
-  "porQueImporta": "A queda do Nasdaq e o salto do índice VIX indicam forte aversão ao risco, especialmente em tecnologia e IA, impactando traders e investidores que acompanham a volatilidade e buscam entender os riscos atuais no mercado.",
-  "impactoMercado": "O movimento pode aumentar a volatilidade nos ativos de tecnologia e semicondutores, influenciar a renda variável global e afetar a disposição de investidores em assumir riscos, com reflexos em ADRs brasileiros e criptomoedas.",
-  "entenda": "O índice Nasdaq reúne muitas empresas de tecnologia e é sensível a expectativas sobre inovação. O VIX mede a volatilidade esperada, sendo chamado de 'índice do medo', que aumenta quando incertezas crescem, impactando o humor do mercado.",
-  "observar": "Fique atento às próximas divulgações de balanços da Nvidia e Anthropic, além de anúncios do Federal Reserve sobre política monetária, que podem influenciar a recuperação ou continuidade da volatilidade.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Explicar a correção nas ações de tecnologia e o aumento do medo no mercado ajuda seguidores a entender riscos atuais e o impacto da IA, convidando-os a aprofundar conhecimento financeiro na faculdade.",
-  "gancho": "*Correção* no Nasdaq e *medo* no mercado",
-  "ideias": [
-   "O que moveu a queda de 5% no Nasdaq? Entenda!",
-   "Índice do medo dispara 31%: o que isso significa?",
-   "IA em xeque: por que as ações de tecnologia caíram tanto?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "Money Times; Seu Dinheiro; InfoMoney",
-  "impacto": "alto",
-  "ordem": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-21T13:57:50-03:00",
-  "url": "https://www.moneytimes.com.br/mercado-do-urso-nasdaq-tem-forte-correcao-e-despenca-5-indice-do-medo-salta-ate-31-com-liquidacao-de-techs/",
-  "publicadoEm": "2026-11-20T18:11:50-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-21-04"
- },
- {
-  "titulo": "Diretora do Fed rejeita esperar para subir juros contra inflação",
-  "resumo": "Lisa Cook, do Fed, advertiu em discurso no Chile que adiar alta de juros pode aumentar pressões inflacionárias nos EUA. A inflação medida pelo PCE subiu 3,8% em 12 meses até outubro, permanecendo acima da meta há 67 meses.",
-  "fatos": [
-   "Lisa Cook é diretora do Federal Reserve (Fed) dos Estados Unidos.",
-   "Discurso aconteceu em 20 de novembro, em Santiago, no Chile.",
-   "Índice PCE subiu 3,8% em 12 meses até outubro, núcleo subiu 3,2%.",
-   "Inflação está acima da meta de 2% há 67 meses consecutivos.",
-   "Taxa de desemprego dos EUA estava em 4,1% em outubro.",
-   "PIB dos EUA cresceu 3,4% anualizado no terceiro trimestre de 2023.",
-   "Cook votou para aumento de 25 pontos-base em outubro, mas foi vencida.",
-   "Taxa de juros no intervalo entre 3,75% e 4% após alta em setembro.",
-   "Cook alertou para riscos de altas maiores no futuro se juros forem adiados."
-  ],
-  "explicacao": [
-   "Em 20 de novembro, Lisa Cook, diretora do Federal Reserve, falou em Santiago, Chile, destacando que a política monetária dos EUA precisa ser mais firme para conter a inflação elevada e disseminada pelo país. Ela defendeu que postergar o aumento da taxa básica pode exigir elevações maiores no futuro.",
-   "Cook explicou que a inflação medida pelo índice de preços do PCE avançou 3,8% em 12 meses até outubro, com o núcleo em alta de 3,2%. O Banco Central dos EUA não atingiu a meta de inflação de 2% nos últimos 67 meses, o que preocupa na formação das expectativas de preços e salários.",
-   "A diretora ressaltou que, apesar da economia aquecida – com desemprego em 4,1% e crescimento anualizado do PIB de 3,4% no terceiro trimestre –, as condições financeiras permanecem muito frouxas. Ela foi contra a decisão de manter os juros em outubro e apoiava um aumento de 0,25 ponto percentual naquele mês.",
-   "Cook também apontou que a aposta em investimentos tecnológicos, como em inteligência artificial, cria incertezas, inclusive em custos de produção e no mercado de trabalho, especialmente para jovens. Seu foco atual está na estabilidade dos preços para preservar o equilíbrio econômico."
-  ],
-  "detalhes": [
-   "Lisa Cook discursou em evento organizado pelo Banco Central do Chile.",
-   "Em setembro, Fed elevou taxa de juros para faixa entre 3,75%-4%.",
-   "Em outubro, decidiu-se não alterar os juros, Cook discordou.",
-   "Adiar alta dos juros pode impactar negativamente famílias e sistema financeiro.",
-   "Os riscos globais citados incluem conflitos e bloqueios ao comércio.",
-   "Investimento em IA é um fator de crescimento e desafio econômico.",
-   "Mercado de trabalho continua sólido com 165 mil empregos criados em outubro."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Lisa Cook, diretora do Fed",
-    "oque": "Adiar ajuste dos juros pode exigir altas maiores no futuro e não temos esse luxo."
-   },
-   {
-    "quem": "Lisa Cook, diretora do Fed",
-    "oque": "Dados recentes não indicam retorno consistente à meta oficial de inflação de 2%."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "Setembro 2023",
-    "oque": "Fed aumentou juros para intervalo entre 3,75% e 4%."
-   },
-   {
-    "quando": "Outubro 2023",
-    "oque": "Fed manteve juros estáveis; Cook votou por aumento em 25 pontos-base."
-   },
-   {
-    "quando": "20 de novembro de 2023",
-    "oque": "Lisa Cook falou no Chile defendendo política monetária mais rigorosa."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fed",
-    "significado": "Banco Central dos Estados Unidos, que define políticas monetárias."
-   },
-   {
-    "termo": "PCE",
-    "significado": "Índice de preços que mede os gastos de consumo, usado para medir inflação."
-   },
-   {
-    "termo": "Taxa de juros",
-    "significado": "Custo do dinheiro, influencia empréstimos e investimentos."
-   }
-  ],
-  "pergunta": "Como você acha que a alta dos juros do Fed afeta o mercado financeiro no Brasil?",
-  "tamanhoTexto": 4570,
-  "numeros": [
-   {
-    "valor": "3,8%",
-    "rotulo": "alta do índice PCE em 12 meses até outubro"
-   },
-   {
-    "valor": "3,2%",
-    "rotulo": "alta do núcleo do índice PCE no mesmo período"
-   },
-   {
-    "valor": "67 meses",
-    "rotulo": "tempo que a inflação está acima da meta de 2%"
-   },
-   {
-    "valor": "4,1%",
-    "rotulo": "taxa de desemprego nos EUA em outubro"
-   },
-   {
-    "valor": "3,4%",
-    "rotulo": "crescimento anualizado do PIB no 3º trimestre"
-   },
-   {
-    "valor": "0,25 ponto percentual",
-    "rotulo": "aumento defendido por Cook em outubro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Taxa de juros",
-    "antes": "3,5% a 3,75% em agosto",
-    "depois": "3,75% a 4% após setembro"
-   }
-  ],
-  "destaque": "3,8% inflação PCE",
-  "porQueImporta": "A postura do Fed em elevar os juros impacta o custo do crédito e a inflação, afetando diretamente o poder de compra das famílias e os investimentos das empresas. Entender essa dinâmica ajuda investidores a interpretar movimentos em títulos, ações e dólar.",
-  "impactoMercado": "Um Fed mais duro com a inflação tende a elevar juros e fortalecer o dólar, influenciando juros futuros, ações de setores sensíveis ao crédito e investimentos ligados ao mercado interno nos EUA e globalmente.",
-  "entenda": "A inflação medida pelo PCE é o indicador oficial do Fed para definir metas. Quando está acima da meta (2%), o banco central pode aumentar juros para desaquecer a economia e controlar preços elevados.",
-  "observar": "Acompanhe decisões e declarações oficiais do Fed nas próximas reuniões e dados mensais de inflação divulgados nos EUA para entender os próximos passos da política monetária.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Explicamos como o Fed pensa em controlar a inflação e por que isso é fundamental para quem quer dominar o mercado financeiro, mostrando impactos diretos dos juros no cotidiano.",
-  "gancho": "*Fed* e *Juros*: inflação em foco",
-  "ideias": [
-   "Por que o Fed não pode esperar para aumentar juros?",
-   "Entenda o impacto da inflação elevada para o mercado financeiro",
-   "Como a decisão do Fed afeta investidores e famílias nos EUA"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-21T13:57:50-03:00",
-  "url": "https://bpmoney.com.br/economia/internacional-economia/diretora-fed-lisa-cook-nao-temos-esse-luxo-inflacao-juros/",
-  "publicadoEm": "2026-11-20T16:52:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-21-05"
- },
- {
   "titulo": "Bayer fechará acordo de até US$ 7,25 bi para processos do Roundup",
   "resumo": "Justiça dos EUA aprovou acordo de até US$ 7,25 bilhões para encerrar processos contra Bayer por Roundup. Indenizações vão cobrir pessoas com linfoma não-Hodgkin associadas ao uso do herbicida.",
   "fatos": [
@@ -17397,2097 +17394,5 @@
   "publicadoEm": "2026-11-21T07:00:00-03:00",
   "data": "2026-11-21",
   "id": "2026-11-21-01"
- },
- {
-  "titulo": "Queda em Wall Street reacende dúvidas sobre rali da inteligência artificial",
-  "resumo": "Na semana de 20/11/2026, ações de tecnologia em Wall Street caíram forte, com Nasdaq recuando 5,28%. Investidores questionam se o ciclo de alta das empresas de IA está próximo do fim.",
-  "fatos": [
-   "Nasdaq caiu 5,28% no dia 20/11/2026, a 22.617,733 pontos",
-   "Dow Jones recuou 1,93%, fechando em 48.147,42 pontos",
-   "S&P 500 caiu 3,69%, aos 6.910,77 pontos",
-   "Nas semana as perdas foram: Dow Jones 8,02%, S&P 8,61%, Nasdaq 10,02%",
-   "Setores de tecnologia tiveram queda diária de 7,11%",
-   "Ações de Nvidia recuaram 13,8%, Micron 13,86%, SanDisk 16,03%",
-   "IPO da Anthropic arrecadou US$ 93,5 bilhões, mas ações caíram 8,5% no dia seguinte",
-   "Valor de mercado da Nvidia caiu para US$ 3,03 trilhões",
-   "Índice VIX subiu mais de 39%, chegando ao maior nível desde abril do ano passado"
-  ],
-  "explicacao": [
-   "Nesta semana, os principais índices acionários de Nova York sofreram fortes quedas. O Nasdaq caiu 5,28%, apagando a valorização acumulada no ano, enquanto Dow Jones e S&P 500 entraram em território de correção, com perdas semanais de até 10,02%.",
-   "Esse movimento foi provocado pela aversão ao risco diante de juros mais altos nos EUA e incertezas sobre o retorno dos investimentos bilionários em infraestrutura de inteligência artificial, impactando especialmente ações de tecnologia e fabricantes de semicondutores.",
-   "A situação indica que a confiança dos investidores na sustentação do rali de IA, uma das estratégias mais rentáveis dos últimos anos, está abalada. O índice de volatilidade VIX subiu mais de 39%, refletindo o nervosismo no mercado.",
-   "Especialistas do J.P. Morgan destacam que, embora a demanda por IA permaneça forte, a concretização dos ganhos de produtividade deve demorar e isso pode exigir paciência dos investidores, com maior atenção às revisões das expectativas futuras das empresas."
-  ],
-  "detalhes": [
-   "Quedas ocorreram entre 18 e 20 de novembro de 2026 nas bolsas americanas",
-   "Juros mais altos nos EUA aumentaram a aversão ao risco dos investidores",
-   "Empresas de semicondutores, base para infraestrutura de IA, foram as mais penalizadas",
-   "IPO recorde da Anthropic não evitou queda do setor tecnológico",
-   "Mais de 60% do valor de mercado do índice S&P 500 de tecnologia depende de expectativas futuras",
-   "J.P. Morgan prevê ganhos de produtividade da IA só na década de 2030",
-   "Grandes empresas de computação em nuvem têm posição mais sólida que fornecedores de hardware no curto prazo"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Seema Shah, estrategista-chefe global da Principal Asset Management",
-    "oque": "Mercado tecnológico é vulnerável a revisões nas expectativas futuras dos lucros"
-   },
-   {
-    "quem": "Madison Faller, diretora-executiva de estratégia global de investimentos no J.P.",
-    "oque": "Demanda por IA segue forte, mas ganhos de produtividade levarão tempo para se concretizar"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "20/11/2026",
-    "oque": "Fortes quedas nos índices Dow Jones, S&P 500 e Nasdaq"
-   },
-   {
-    "quando": "19/11/2026",
-    "oque": "IPO recorde da Anthropic levantou US$ 93,5 bilhões"
-   },
-   {
-    "quando": "Desde abril de 2025",
-    "oque": "Nível de volatilidade VIX atinge máximas similares às do 'Dia da Libertação'"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "IPO",
-    "significado": "Oferta pública inicial de ações para captar recursos"
-   },
-   {
-    "termo": "Índice VIX",
-    "significado": "Indicador de volatilidade e estresse nos mercados"
-   },
-   {
-    "termo": "Correção",
-    "significado": "Queda de 10% ou mais nos preços das ações em relação ao pico recente"
-   }
-  ],
-  "pergunta": "Você acredita que a queda das ações de IA é uma correção ou o fim do rali?",
-  "tamanhoTexto": 6531,
-  "numeros": [
-   {
-    "valor": "5,28%",
-    "rotulo": "Queda do índice Nasdaq no dia 20/11/2026"
-   },
-   {
-    "valor": "3,69%",
-    "rotulo": "Queda do índice S&P 500 no dia 20/11/2026"
-   },
-   {
-    "valor": "1,93%",
-    "rotulo": "Queda do índice Dow Jones no dia 20/11/2026"
-   },
-   {
-    "valor": "93,5 bilhões",
-    "rotulo": "Arrecadação do IPO da Anthropic em dólares"
-   },
-   {
-    "valor": "39%",
-    "rotulo": "Alta do índice VIX de volatilidade no dia 20/11/2026"
-   },
-   {
-    "valor": "3,03 trilhões",
-    "rotulo": "Valor de mercado da Nvidia em dólares após queda"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Nasdaq",
-    "antes": "valorização acumulada no ano",
-    "depois": "apagou a valorização acumulada no ano com queda de 5,28%"
-   },
-   {
-    "item": "Índice VIX",
-    "antes": "níveis abaixo de 30 pontos",
-    "depois": "superou 40 pontos, maior desde abril do ano passado"
-   }
-  ],
-  "destaque": "5,28% queda do",
-  "porQueImporta": "Esta queda evidencia a volatilidade do setor de tecnologia e IA diante de políticas de juros e expectativas de lucro, mostrando como esse ambiente afeta diretamente a confiança dos investidores no mercado acionário.",
-  "impactoMercado": "A retração dos ativos de tecnologia pode afetar fundos e investidores expostos ao setor, além de demandar maior atenção para a gestão de riscos diante da incerteza sobre o ritmo de crescimento e produtividade da IA.",
-  "entenda": "O índice Nasdaq reúne principalmente empresas de tecnologia e comunicação, setor que puxou o rali da inteligência artificial. Correção de mercado ocorre quando o índice cai mais de 10% a partir do seu pico recente. O índice VIX mede a expectativa de volatilidade dos mercados.",
-  "observar": "Fique atento aos próximos dados econômicos dos EUA, decisões do Fed sobre juros e relatórios de resultados do setor de tecnologia para entender o movimento futuro dos ativos de IA.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores"
-  ],
-  "angulo": "Mostramos como a volatilidade recente em ações de IA afeta o mercado e destacamos aspectos da gestão de risco, incentivando seguidores a aprofundar conhecimentos na faculdade Trader School Wendell Guimarães.",
-  "gancho": "Queda em *IA* e *bolsa*",
-  "ideias": [
-   "O que causa a queda das ações de inteligência artificial?",
-   "Entenda por que o Nasdaq perdeu ganhos do ano em um dia",
-   "Como juros altos impactam o rali tecnológico em Wall Street"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "Valor Econômico",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://valor.globo.com/financas/intraday/post/2026/11/queda-das-acoes-em-wall-street-reacende-duvidas-sobre-o-folego-do-rali-da-ia.ghtml",
-  "publicadoEm": "2026-11-20T19:40:33-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-10"
- },
- {
-  "titulo": "Alta do dólar reflete juros nos EUA e incertezas fiscais no Brasil",
-  "resumo": "O dólar subiu 4% em uma semana, alcançando R$ 5,93, a maior cotação desde abril de 2025. Fatores globais e dúvidas sobre a política fiscal brasileira pressionam o real.",
-  "fatos": [
-   "Dólar fechou em R$ 5,93 em 19 de novembro de 2025, alta de 4% na semana",
-   "Maior cotação do dólar desde 8 de abril de 2025 (R$ 5,99)",
-   "Juros nos EUA subiram em setembro, e novas altas são esperadas",
-   "Brasil aprovou pacote fiscal com corte de déficit de R$ 53 bilhões para 2027",
-   "Real foi a moeda emergente que mais desvalorizou nos últimos 30 dias",
-   "Banco Central fez leilão de US$ 1 bilhão para conter alta do dólar",
-   "Incertezas sobre equipe econômica e política fiscal elevam volatilidade do real",
-   "China é principal compradora de commodities brasileiras, economia estáfraca",
-   "Queda do preço de petróleo reduz entrada de dólares no Brasil"
-  ],
-  "explicacao": [
-   "Na segunda semana de novembro, o dólar iniciou a segunda-feira (16) em R$ 5,69 e fechou a quinta-feira (19) a R$ 5,93, um aumento de 4% em apenas quatro dias, maior valor desde abril de 2025. A alta acelerou após o segundo turno das eleições brasileiras.",
-   "O fortalecimento do dólar tem causas externas, como o aumento dos juros nos EUA, que atraem investidores em busca de rendimentos maiores. Além disso, a desaceleração da economia chinesa e a queda nos preços de commodities como o petróleo diminuem a entrada de dólares no Brasil.",
-   "Internamente, o real sofre pela instabilidade fiscal. Investidores aguardam definições claras sobre a equipe econômica do novo governo e o plano fiscal, essenciais para estabilizar a dívida pública. A incerteza aumenta a aversão ao risco e pressiona a moeda nacional.",
-   "Para reverter esse cenário, o governo precisaria mostrar credibilidade fiscal. Ajustes no orçamento e estabilização das contas públicas podem ajudar o Banco Central a reduzir juros, o que influenciaria positivamente o câmbio."
-  ],
-  "detalhes": [
-   "Leilão de US$ 1 bilhão pelo Banco Central não conteve alta do dólar em 19/11",
-   "Pacote Moretti promove corte fiscal, mas é considerado insuficiente para controlar dívida",
-   "Alta dos juros nos EUA aumenta atratividade do dólar globalmente",
-   "Exportadores brasileiros tendem a manter receitas em dólar fora do país",
-   "Incerteza fiscal gera clima de insegurança, afetando PIB e arrecadação",
-   "Mercado aguarda anúncio da nova equipe econômica do governo Lula",
-   "Movimento de alta do dólar acelerou após o segundo turno das eleições brasileiras"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Marcelo Fonseca, economista-chefe da CVPAR",
-    "oque": "Juros mais altos nos EUA atraem capitais, fortalecendo o dólar mundialmente."
-   },
-   {
-    "quem": "André Galhardo, economista-chefe da Análise Econômica",
-    "oque": "Real sofre mais por incertezas fiscais e composição da equipe econômica brasileira."
-   },
-   {
-    "quem": "Marcelo Fonseca",
-    "oque": "Plano fiscal crível ajudará o Banco Central a cortar juros no futuro."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "8 de abril de 2025",
-    "oque": "Dólar atingiu seu maior valor recente a R$ 5,99."
-   },
-   {
-    "quando": "Maio de 2025",
-    "oque": "Dólar recuou para R$ 4,99 antes de voltar a subir."
-   },
-   {
-    "quando": "Setembro de 2025",
-    "oque": "Juros nos EUA foram elevados, gerando maior atratividade do dólar."
-   },
-   {
-    "quando": "16 a 19 de novembro de",
-    "oque": "Dólar subiu 4% em quatro dias, chegando a R$ 5,93."
-   },
-   {
-    "quando": "Novembro de 2025",
-    "oque": "Pacote Meotti com corte fiscal de R$ 53 bilhões aprovado."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Plano fiscal",
-    "significado": "Conjunto de regras para controlar gastos e dívidas do governo."
-   },
-   {
-    "termo": "Leilão de dólar",
-    "significado": "Venda de dólares pelo Banco Central para estabilizar o câmbio."
-   },
-   {
-    "termo": "Juros nos EUA",
-    "significado": "Taxas que definem o custo do dinheiro no mercado americano."
-   }
-  ],
-  "pergunta": "Como você acha que o dólar alto impacta seu bolso e seus investimentos?",
-  "tamanhoTexto": 7507,
-  "numeros": [
-   {
-    "valor": "4%",
-    "rotulo": "Alta do dólar de 16 a 19 de novembro de 2025"
-   },
-   {
-    "valor": "R$ 5,93",
-    "rotulo": "Fechamento do dólar em 19 de novembro de 2025"
-   },
-   {
-    "valor": "R$ 5,99",
-    "rotulo": "Maior valor do dólar desde abril de 2025"
-   },
-   {
-    "valor": "US$ 1 bilhão",
-    "rotulo": "Leilão de dólares pelo Banco Central em 19 de novembro"
-   },
-   {
-    "valor": "R$ 53 bilhões",
-    "rotulo": "Corte no déficit fiscal previsto para 2027 no pacote Moretti"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Dólar em reais",
-    "antes": "R$ 4,99 em maio de 2025",
-    "depois": "R$ 5,93 em novembro de 2025"
-   }
-  ],
-  "destaque": "4% alta do",
-  "porQueImporta": "Investidores acompanham o dólar de perto, pois a valorização altera custos de importação, inflação e atratividade de investimentos. Em mercados emergentes, como o Brasil, a política fiscal e as taxas de juros locais influenciam diretamente a cotação do dólar e o risco país, afetando decisões de investidores e traders.",
-  "impactoMercado": "A alta do dólar tende a pressionar os preços internos, podendo influenciar setores de commodities exportadoras e importadoras. Juros mais altos nos EUA sinalizam fluxo de capitais para lá, enquanto dúvidas fiscais no Brasil podem aumentar a volatilidade, impactando ações, câmbio e juros futuros.",
-  "entenda": "O dólar é a moeda de referência global e a cotação frente ao real reflete oferta e demanda. Quando juros nos EUA sobem, investidores preferem lá, fortalecendo o dólar. Já o plano fiscal é o conjunto de decisões do governo sobre gastos e dívidas, que influencia a confiança dos investidores e o valor da moeda local.",
-  "observar": "Fique atento ao anúncio da nova equipe econômica e políticas fiscais do governo nas próximas semanas, além da evolução dos juros americanos e indicadores da economia chinesa, que poderão influenciar o câmbio e a confiança do mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra como fatores externos e internos influenciam o dólar, explicando conceitos-chave para quem quer entender ou operar no mercado financeiro, na jornada de aprender e lidar com riscos de câmbio e política fiscal.",
-  "gancho": "*dólar* em alta no Brasil",
-  "ideias": [
-   "Por que o dólar está subindo tanto em 2025?",
-   "Juros nos EUA e impacto no real e no seu bolso",
-   "Entenda o papel do plano fiscal na cotação do dólar"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "G1 Economia; Estadão Economia",
-  "impacto": "alto",
-  "ordem": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
-  "publicadoEm": "2026-11-20T22:01:51-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-11"
- },
- {
-  "titulo": "EWZ cai 3,29% em meio a queda global de tech e dúvidas fiscais no Brasil",
-  "resumo": "O ETF EWZ, que replica o Ibovespa em dólar nos EUA, despencou 3,29% em 20/11. A desvalorização reflete tanto a aversão ao setor de tecnologia americano quanto preocupações com o plano fiscal do governo Lula.",
-  "fatos": [
-   "EWZ caiu 3,29% em 20/11, fechando a US$ 28,54.",
-   "Ibovespa fechou aos 166.376,43 pontos no pregão de 19/11.",
-   "Dólar fechou a R$ 5,9350, alta de 4,95% na semana.",
-   "Nasdaq caiu 5,28% e S&P 500 recuou 3,70% no mesmo dia.",
-   "Índice VIX subiu 31%, alcançando cerca de 36 pontos.",
-   "ADRs de Petrobras caiu 1,72%; Vale 3,46%; Itaú 2,54%.",
-   "Pacote fiscal no Brasil prevê corte de até R$ 60 bilhões.",
-   "Definição do ministro da Fazenda pode sair na próxima semana.",
-   "Dow Jones Brazil Titans 20 ADR caiu 2,48% em 20/11."
-  ],
-  "explicacao": [
-   "Na sexta-feira, 20 de novembro de 2026, o iShares MSCI Brazil ETF (EWZ) despencou 3,29% nos EUA, enquanto o mercado brasileiro esteve fechado pelo feriado da Consciência Negra. Apesar da liquidez inferior ao Ibovespa, o EWZ é um termômetro importante para investidores estrangeiros.",
-   "A queda foi causada pela forte aversão a ações de tecnologia nos EUA, com a Nasdaq caindo 5,28% e o S&P 500 recuando 3,70%. Notícias sobre possível investigação da SEC na Nvidia pioraram o clima, aumentando o índice VIX em 31%.",
-   "Além disso, a percepção negativa sobre o Brasil, em função do plano fiscal considerado insuficiente para conter as contas públicas, contribuiu para a venda de ativos brasileiros no exterior. ADRs da Petrobras, Vale e Itaú também recuaram na Bolsa americana.",
-   "Com o mercado brasileiro fechado até segunda-feira, os investidores continuam atentos à definição da equipe econômica do governo Lula e à efetividade do ajuste fiscal aprovado, que deverá influenciar o humor dos mercados na próxima semana."
-  ],
-  "detalhes": [
-   "O EWZ é o principal ETF brasileiro negociado na Bolsa americana e reflete percepções externas sobre o mercado brasileiro.",
-   "Mercados brasileiros estiveram fechados por feriado da Consciência Negra em 20/11.",
-   "A queda do EWZ foi agravada pela desvalorização de ações de tecnologia nos EUA, destacando a Nvidia sob suspeita.",
-   "O plano fiscal do governo Lula, apesar de recente aprovação no Congresso, ainda gera dúvidas quanto à sustentabilidade das contas públicas brasileiras.",
-   "Investidores aguardam a definição da equipe econômica, com nomes como Rafael Fonteles e Geraldo Alckmin cotados para a Fazenda.",
-   "ADRs são recibos que permitem a compra de ações brasileiras no mercado dos EUA sem operação direta na Bolsa brasileira.",
-   "A alta do dólar frente ao real soma quase 5% na semana, pressionando as empresas e o mercado local."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Adam Turnquist, LPL Financial",
-    "oque": "Disse que o entusiasmo com IPOs de IA não se estende ao mercado de tecnologia, gerando alerta aos investidores."
-   },
-   {
-    "quem": "Tejal Patel",
-    "oque": "Comentou que a queda após IPOs pode indicar volatilidade e alerta para continuidade do movimento."
-   },
-   {
-    "quem": "Richard Saperstein, Treasury Partners",
-    "oque": "Indicou que o mercado revisa preços da IA com desaceleração do setor e expectativa de juros altos."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "20/11/2026",
-    "oque": "EWZ e Dow Jones Brazil Titans 20 ADR caem com bolsas americanas fechando em forte baixa."
-   },
-   {
-    "quando": "19/11/2026",
-    "oque": "Ibovespa fecha aos 166.376 pontos antes do feriado no Brasil."
-   },
-   {
-    "quando": "Semana de 16 a 20/11",
-    "oque": "Dólar avança quase 5% frente ao real no período."
-   },
-   {
-    "quando": "Próxima semana",
-    "oque": "Possível decisão sobre o ministro da Fazenda no governo Lula."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "ETF",
-    "significado": "Fundo de índice que replica carteira de ações ou ativos."
-   },
-   {
-    "termo": "ADR",
-    "significado": "Recibo que permite comprar ações estrangeiras nos EUA."
-   },
-   {
-    "termo": "VIX",
-    "significado": "Índice que mede a volatilidade e o risco do mercado americano."
-   }
-  ],
-  "pergunta": "Você acha que o plano fiscal brasileiro traz segurança para os investidores?",
-  "tamanhoTexto": 11716,
-  "numeros": [
-   {
-    "valor": "3,29%",
-    "rotulo": "queda do EWZ em 20/11"
-   },
-   {
-    "valor": "166.376,43",
-    "rotulo": "Ibovespa em pontos em 19/11"
-   },
-   {
-    "valor": "4,95%",
-    "rotulo": "alta do dólar na semana frente ao real"
-   },
-   {
-    "valor": "31%",
-    "rotulo": "alta do índice VIX em 20/11"
-   },
-   {
-    "valor": "60 bilhões",
-    "rotulo": "corte previsto no plano fiscal brasileiro"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "EWZ",
-    "antes": "preço anterior não informado",
-    "depois": "queda de 3,29% até US$ 28,54"
-   },
-   {
-    "item": "Nasdaq",
-    "antes": "não informado",
-    "depois": "queda de 5,28%"
-   },
-   {
-    "item": "S&P 500",
-    "antes": "não informado",
-    "depois": "queda de 3,70%"
-   },
-   {
-    "item": "Dólar (Real)",
-    "antes": "R$ 5,65 (aproximado, para +4,95%)",
-    "depois": "R$ 5,9350"
-   }
-  ],
-  "destaque": "queda de 3,29%",
-  "porQueImporta": "A queda do EWZ indica como investidores estrangeiros avaliam os riscos do Brasil, especialmente frente a dúvidas fiscais e dólar forte. Para quem investe em ações brasileiras via exterior, é um sinal claro de maior aversão ao risco e atenção às políticas e condições globais.",
-  "impactoMercado": "Essa pressão pode afetar a liquidez e a precificação dos ativos brasileiros, especialmente bancos, commodities e ações negociadas nos EUA. Também reflete um cenário global com alta volatilidade, juros americanos em alta e dólar valorizado, influenciando custos e apetite por risco.",
-  "entenda": "O EWZ é um ETF que reúne ações das maiores empresas brasileiras e é negociado na Bolsa dos EUA. Assim, mesmo com a B3 fechada, o preço do EWZ mostra a percepção dos investidores externos sobre o Brasil, influenciado tanto por fatores locais quanto internacionais como juros e notícias corporativas.",
-  "observar": "Nas próximas semanas, fique atento à definição do ministro da Fazenda do novo governo e à reação dos mercados ao pacote fiscal em meio a juros internacionais e volatilidade dos setores de tecnologia.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia mostra como fatores externos (como a aversão a tecnologia) e internos (dúvidas fiscais) interagem para impactar ativos brasileiros no exterior, despertando o interesse de aprender a navegar nesse cenário.",
-  "gancho": "Queda do *EWZ* e pressão no *dólar*",
-  "ideias": [
-   "O que explica a queda de 3% do EWZ?",
-   "Como a bolsa de tecnologia dos EUA afeta o mercado brasileiro?",
-   "Por que o plano fiscal brasileiro preocupa investidores?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "Money Times; InfoMoney; Investidor10",
-  "impacto": "alto",
-  "ordem": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/",
-  "publicadoEm": "2026-11-20T18:28:06-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-12"
- },
- {
-  "titulo": "Ações da Nvidia têm pior queda semanal desde 2008 em Nasdaq",
-  "resumo": "Na sexta (20), ações da Nvidia caíram mais de 7%, marcando a sétima semana seguida de perdas, a pior sequência desde 2008. A empresa agora vale US$ 3,7 trilhões, atrás de Microsoft, Apple e Google.",
-  "fatos": [
-   "Na sexta-feira (20), ações da Nvidia caíram mais de 7% na Nasdaq.",
-   "Nvidia acumula sete semanas consecutivas de queda, pior desde 2008.",
-   "Queda acumulada desde 16 de outubro é de cerca de 30,4%.",
-   "Valor de mercado atual da Nvidia é US$ 3,7 trilhões (R$ 5,95 trilhões).",
-   "Jensen Huang renunciou ao cargo em 12 de novembro de 2026.",
-   "Nasdaq recuou 3,33% na sexta, zerando ganhos acumulados de 2026.",
-   "Ações da Anthropic caíram 6% após alta de 17% na estreia.",
-   "Setores de IA pressionam pela preocupação com custos e riscos regulatórios.",
-   "A ação da Nvidia já sofria pressão por dúvidas sobre a sustentabilidade da demanda por IA."
-  ],
-  "explicacao": [
-   "As ações da Nvidia caíram mais de 7% na sexta-feira, 20 de novembro, na bolsa americana Nasdaq, acumulando a sétima semana seguida de desvalorização. Essa é a pior sequência de quedas da empresa desde 2008.",
-   "A queda recente é consequência de um escândalo interno, que resultou na saída do seu presidente Jensen Huang em 12 de novembro, além da pressão de analistas sobre a sustentabilidade da demanda por inteligência artificial, que vinha impulsionando a empresa.",
-   "O valor de mercado da Nvidia despencou para US$ 3,7 trilhões, caindo para a quarta posição global, atrás de Microsoft, Apple e Alphabet, que controla o Google. A instabilidade no setor de IA também afetou outros papéis na Nasdaq, zerando os ganhos acumulados de 2026.",
-   "Agora, o mercado observa o impacto dos eventos recentes, como a estreia da Anthropic e os balanços trimestrais da Nvidia, que não conseguiram recuperar a confiança dos investidores diante das dúvidas sobre rentabilidade, riscos regulatórios e aumento de custos."
-  ],
-  "detalhes": [
-   "A Nasdaq é a bolsa americana que reúne empresas de tecnologia como Apple, Meta e Tesla.",
-   "A queda representa o pior desempenho da Nvidia desde a crise financeira de 2008.",
-   "Escândalo interno envolvendo suspeita de espionagem levou à saída do presidente Jensen Huang.",
-   "Antes, a Nvidia ocupava o topo mundial entre empresas de capital aberto por valor de mercado.",
-   "O aumento dos custos de empréstimos e riscos regulatórios nos EUA influenciam negativamente o setor de IA.",
-   "A estreia da Anthropic na bolsa tinha gerado expectativa para estabilizar o setor, mas suas ações caíram.",
-   "A queda da Nvidia e outros papéis causou a pior queda semanal dos índices americanos desde abril de 2025."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Sadiq Adatia, diretor de investimentos da BMO Global Asset Management",
-    "oque": "Investidores questionam se os investimentos crescentes estão sendo financiados pela operação principal ou por dívida."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16 de outubro de 2026",
-    "oque": "Data do fechamento usado para medir a queda acumulada da Nvidia."
-   },
-   {
-    "quando": "12 de novembro de 2026",
-    "oque": "Jensen Huang renuncia ao cargo de presidente da Nvidia."
-   },
-   {
-    "quando": "20 de novembro de 2026",
-    "oque": "Nvidia cai mais de 7% na Nasdaq, sétima semana seguida de perdas."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Nasdaq",
-    "significado": "Bolsa americana onde são negociadas grandes empresas de tecnologia."
-   },
-   {
-    "termo": "Valor de mercado",
-    "significado": "Valor total das ações de uma empresa no mercado."
-   },
-   {
-    "termo": "IPO",
-    "significado": "Oferta pública inicial, quando uma empresa abre ações na bolsa."
-   }
-  ],
-  "pergunta": "Você já operou ações de empresas de inteligência artificial? Como lida com a volatilidade?",
-  "tamanhoTexto": 16234,
-  "numeros": [
-   {
-    "valor": "7%",
-    "rotulo": "queda das ações da Nvidia em 20 de novembro"
-   },
-   {
-    "valor": "7 semanas",
-    "rotulo": "sequência de perdas consecutivas da Nvidia"
-   },
-   {
-    "valor": "30,4%",
-    "rotulo": "queda acumulada da Nvidia desde 16 de outubro"
-   },
-   {
-    "valor": "US$ 3,7 trilhões",
-    "rotulo": "valor de mercado atual da Nvidia"
-   },
-   {
-    "valor": "3,33%",
-    "rotulo": "queda do índice Nasdaq em 20 de novembro"
-   },
-   {
-    "valor": "6%",
-    "rotulo": "queda das ações da Anthropic após estreia"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "30,4% queda acumulada",
-  "porQueImporta": "A queda prolongada da Nvidia indica possível desaceleração no setor de IA e maior cautela dos investidores sobre o modelo de negócios e sustentabilidade dos investimentos em tecnologia, afetando quem opera ações da empresa ou do setor.",
-  "impactoMercado": "Com a queda das ações da Nvidia e outras relacionadas à IA, índices como a Nasdaq registram perdas significativas, gerando volatilidade e impacto em fundos e investidores que apostam no setor tech e inovação.",
-  "entenda": "A Nasdaq é uma bolsa americana que reúne empresas de tecnologia. A Nvidia é líder em chips usados em inteligência artificial, área que teve forte valorização recente mas agora enfrenta dúvidas e quedas devido a eventos internos e mercado.",
-  "observar": "Fique atento ao próximo balanço trimestral da Nvidia e à evolução das ações da Anthropic, além de possíveis notícias sobre regulação do setor e movimentações internas na empresa.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Esta notícia ajuda o investidor a entender riscos recentes no setor de IA e como eventos internos e externos afetam o valor das ações, reforçando a importância do conhecimento para operar o mercado financeiro com segurança.",
-  "gancho": "*Nvidia* enfrenta queda histórica",
-  "ideias": [
-   "Por que as ações da Nvidia caem sete semanas seguidas?",
-   "Entenda o impacto do escândalo interno na Nvidia",
-   "Como a baixa nas ações de IA afeta o mercado tecnológico"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Bolsa",
-  "icone": "queda",
-  "fonte": "G1 Economia; InfoMoney; Seu Dinheiro",
-  "impacto": "medio",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
-  "publicadoEm": "2026-11-20T15:47:51-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-13"
- },
- {
-  "titulo": "Tempestade no RS destrói lavouras e prejudica grandes empresas do agro",
-  "resumo": "Temporal de 20/11/2026 no RS atingiu lavouras e infraestrutura em Tupanciretã, comprometendo produtores rurais e cooperativas como C.Vale e Grupo Vega.",
-  "fatos": [
-   "Tempestade ocorreu na madrugada de 20 de novembro de 2026 em Tupanciretã, RS.",
-   "Tupanciretã é o segundo maior produtor de soja do RS, com 147 mil hectares previstos para a safra 2026/27.",
-   "Aproximadamente 70% da área de soja já havia sido plantada antes do temporal.",
-   "C.Vale faturou R$ 20,6 bilhões no período jan-set 2026 e movimenta 6,56 milhões de toneladas de produtos agrícolas.",
-   "Grupo Vega anunciou investimento superior a R$ 50 milhões em novo complexo de armazenamento em Tupanciretã em 19/11/2026.",
-   "Tempestade destruiu silos, armazéns e equipamentos da C.Vale e Grupo Vega na região.",
-   "Corsan deslocou nove geradores para recuperar abastecimento de água após queda de energia.",
-   "Defesa Civil identificou passagem de supercélula e ventos de 114 km/h em Tupanciretã.",
-   "33 municípios do RS registraram danos relacionados às tempestades desde 16 de novembro.",
-   "Brasil teve aumento de 67% nas perdas econômicas por eventos climáticos no 1º semestre de 2026, totalizando R$ 51,9 bilhões."
-  ],
-  "explicacao": [
-   "Na madrugada de 20 de novembro de 2026, uma forte tempestade atingiu Tupanciretã, importante região produtora do RS, destruindo lavouras, silos e armazéns, afetando operações agrícolas e industriais.",
-   "A crise financeira dos produtores rurais, já fragilizada por estiagens e alto endividamento, se agravou com perdas no trigo, soja e milho, algumas irreversíveis, e a maioria dos agricultores não tem seguro para cobrir os danos.",
-   "Grandes cooperativas como C.Vale e empresas do Grupo Vega tiveram instalações e estoques danificados, comprometendo a armazenagem, processamento e distribuição, o que elevará custos logísticos e pode atrasar operações.",
-   "A tempestade também danificou a infraestrutura urbana, causando falta de energia e afetando o abastecimento de água em Tupanciretã. A Defesa Civil registrou três mortos, 60 feridos e danos em 33 municípios do RS."
-  ],
-  "detalhes": [
-   "Produtores iniciaram safra 2026/27 com alto endividamento e dificuldade de crédito.",
-   "Perdas de trigo próximas à colheita consideradas irreversíveis.",
-   "Soja precisará de replantio, implicando gastos extras com sementes e máquinas.",
-   "Milho poderá não ser recuperado devido ao calendário agrícola.",
-   "C.Vale opera em seis estados e no Paraguai, atuando em mais de 50 países.",
-   "Grupo Vega tem unidades em RS e atuação no Paraguai e Uruguai, emprega mais de 140 trabalhadores em Tupanciretã.",
-   "Incerteza sobre atrasos em entregas e impacto nas exportações após o temporal."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Antônio da Luz, economista-chefe da Farsul",
-    "oque": "Produtores rurais enfrentam crise financeira grave e alto endividamento, dificultando recuperação das perdas."
-   },
-   {
-    "quem": "Evandro Riboli, gerente regional da C.Vale",
-    "oque": "Três instalações importantes da cooperativa sofreram danos severos que ainda estão sendo avaliados."
-   },
-   {
-    "quem": "Silvana Spiazzi, CEO do Grupo Vega",
-    "oque": "Prioridade é atendimento aos afetados; equipes e recursos foram mobilizados para apoio emergencial."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "16 de novembro de 2026",
-    "oque": "Início do monitoramento das tempestades que atingiram RS."
-   },
-   {
-    "quando": "19 de novembro de 2026",
-    "oque": "Grupo Vega anuncia investimento de R$ 50 milhões em Tupanciretã."
-   },
-   {
-    "quando": "20 de novembro de 2026",
-    "oque": "Tempestade destrói lavouras e instalações em Tupanciretã."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Silo",
-    "significado": "Estrutura para armazenar grãos após a colheita."
-   },
-   {
-    "termo": "Moega",
-    "significado": "Equipamento para receber e encaminhar grãos armazenados."
-   },
-   {
-    "termo": "Safra 2026/27",
-    "significado": "Período de plantio e colheita agrícola entre 2026 e 2027."
-   }
-  ],
-  "pergunta": "Como você avalia o impacto da tempestade no agronegócio do RS?",
-  "tamanhoTexto": 12000,
-  "numeros": [
-   {
-    "valor": "147.000",
-    "rotulo": "hectares de soja previstos para safra 2026/27 em Tupanciretã"
-   },
-   {
-    "valor": "20,6 bilhões",
-    "rotulo": "faturamento da C.Vale entre janeiro e setembro de 2026 (R$)"
-   },
-   {
-    "valor": "6,56 milhões",
-    "rotulo": "toneladas de produtos agrícolas movimentados pela C.Vale em 2025"
-   },
-   {
-    "valor": "50 milhões",
-    "rotulo": "investimento anunciado pelo Grupo Vega para Tupanciretã (R$)"
-   },
-   {
-    "valor": "114 km/h",
-    "rotulo": "rajada máxima de vento registrada pelo Inmet em Tupanciretã"
-   },
-   {
-    "valor": "3",
-    "rotulo": "mortos pela tempestade em Tupanciretã"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Tempestade destrói lavouras",
-  "porQueImporta": "A tempestade agrava uma crise financeira já existente dos produtores rurais no RS, impactando produção, endividamento e infraestrutura. Isso dificulta a recuperação da safra e afeta empresas que movimentam grandes volumes agrícolas e exportações, podendo alterar custos e operações do agronegócio.",
-  "impactoMercado": "Os danos à infraestrutura e plantações elevam custos de produção e logística, pressionando margens do setor agro. A escassez pontual pode afetar oferta regional de soja, milho e trigo. Cooperativas e empresas envolvidas enfrentam desafios operacionais e financeiros, potencialmente impactando suas ações e negócios no curto prazo.",
-  "entenda": "Tempestades severas como essa derrubam plantações e estruturas, causando perdas diretas aos agricultores e empresas do setor. Endividamento e falta de seguro agravam a crise, pois os produtores custeiam prejuízos sozinhos. Infraestrutura danificada dificulta armazenamento e distribuição, elevando custos e podendo atrasar entregas e vendas.",
-  "observar": "Acompanhe atualizações sobre recuperação das instalações das cooperativas, estimativas oficiais de prejuízos agrícolas e dados da safra 2026/27. Fique atento a novos boletins da Defesa Civil e Inmet sobre eventos climáticos na região.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Mostre como eventos climáticos extremos afetam a produção agrícola, empresas e finanças rurais, despertando interesse por entender riscos e operações do mercado financeiro ligado ao agronegócio.",
-  "gancho": "*Tempestade* no RS abala *agro*",
-  "ideias": [
-   "Como a tempestade de novembro impacta a safra gaúcha?",
-   "Endividamento e perdas agrícolas: a crise dos produtores no RS",
-   "Grandes cooperativas do agro enfrentam desafios após temporal"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "raio",
-  "fonte": "Times Brasil",
-  "impacto": "medio",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://timesbrasil.com.br/brasil/tempestade-no-rs-compromete-safra-atinge-gigantes-do-agro-e-agrava-crise-de-produtores-endividados/",
-  "publicadoEm": "2026-11-20T20:40:15-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-14"
- },
- {
-  "titulo": "Nova POF do IBGE promete retrato melhor da pobreza no Brasil",
-  "resumo": "IBGE divulgará dados da POF 2024–2025 em novembro, atualizando o perfil dos recursos das famílias pobres, incluindo MEIs e trabalhadores por aplicativo.",
-  "fatos": [
-   "A POF investiga detalhadamente rendimentos monetários e não monetários das famílias.",
-   "Pnad Contínua é a principal fonte para indicadores como insegurança alimentar e pobreza.",
-   "Em 2017-2018, renda média mensal per capita dos 10% mais pobres era R$ 96 na Pnad e R$ 217 na POF.",
-   "Entre os 25% mais pobres, renda era R$ 217 na Pnad e R$ 364 na POF no mesmo período.",
-   "POF é feita a cada cinco anos, Pnad é anual.",
-   "Divulgação da POF 2024-2025 está prevista para 27 de novembro.",
-   "Renda irregular e autoconsumo são fundamentais para captar realidade das famílias mais pobres.",
-   "Trabalhadores como MEIs e por aplicativo têm variações significativas de rendimento mensal.",
-   "A complementação entre Pnad e POF visa melhorar diagnósticos para políticas sociais.",
-   "Estudo do livro ‘A desigualdade brasileira caiu?’ usa a POF para metodologia mais abrangente."
-  ],
-  "explicacao": [
-   "O IBGE prepara a divulgação dos primeiros resultados da Pesquisa de Orçamentos Familiares (POF) 2024–2025 em 27 de novembro. Essa pesquisa detalha consumo, despesas e rendimentos monetários e não monetários das famílias brasileiras.",
-   "A POF complementa a Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua), que é referência para análise social, mas não captura com a mesma riqueza renda variável, autoconsumo e outros recursos importantes para os mais pobres.",
-   "Na comparação entre as pesquisas de 2017–2018, a renda mensal média per capita dos 10% mais pobres foi mais que o dobro na POF (R$ 217) frente à Pnad (R$ 96), evidenciando diferenças relevantes para diagnóstico socioeconômico.",
-   "O uso combinado da Pnad e POF pode melhorar a precisão das políticas públicas, identificando melhor necessidades específicas, como qualificação profissional ou transferência de renda, especialmente para trabalhadores informais e MEIs."
-  ],
-  "detalhes": [
-   "A POF detalha rendimentos, consumo e despesas, incluindo recursos não monetários como autoconsumo e doações.",
-   "A Pnad Contínua atualiza anualmente o panorama, mas com menor detalhamento sobre rendimentos irregulares.",
-   "Trabalhadores informais e autônomos nem sempre têm seus rendimentos totalmente captados pela Pnad.",
-   "O INICIO da divulgação da POF 2024-2025 ocorre em 27 de novembro pelo IBGE.",
-   "A POF é realizada quinquenalmente, o que limita sua atualização frequente em comparação à Pnad.",
-   "Os recursos captados pela POF ajudam a identificar necessidades específicas para políticas sociais.",
-   "O estudo citado foi publicado em 2026, com dados históricos de 2017-2018."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Ricardo Paes de Barros, economista e autor",
-    "oque": "Usar dados da POF permite medir renda familiar mais próxima da realidade dos mais pobres."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "27 de novembro de 2024",
-    "oque": "Divulgação dos primeiros resultados da POF 2024–2025 pelo IBGE"
-   },
-   {
-    "quando": "2017–2018",
-    "oque": "Dados usados para comparar POF e Pnad sobre renda dos mais pobres"
-   },
-   {
-    "quando": "2026",
-    "oque": "Publicação do livro que analisa desigualdade com dados da POF"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "POF",
-    "significado": "Pesquisa detalhada sobre consumo, renda e despesas das famílias brasileiras."
-   },
-   {
-    "termo": "Pnad Contínua",
-    "significado": "Pesquisa anual que mede renda, emprego e pobreza no país."
-   },
-   {
-    "termo": "MEI",
-    "significado": "Microempreendedor Individual, trabalhador autônomo formalizado."
-   }
-  ],
-  "pergunta": "Você sabia que a renda dos mais pobres pode ser maior do que mostram as pesquisas tradicionais?",
-  "tamanhoTexto": 7720,
-  "numeros": [
-   {
-    "valor": "R$ 217",
-    "rotulo": "Renda média mensal per capita dos 10% mais pobres na POF 2017-2018"
-   },
-   {
-    "valor": "R$ 96",
-    "rotulo": "Renda média mensal per capita dos 10% mais pobres na Pnad 2017-2018"
-   },
-   {
-    "valor": "27 de novembro de 2024",
-    "rotulo": "Data prevista para divulgação da POF 2024-2025"
-   },
-   {
-    "valor": "5 anos",
-    "rotulo": "Periodicidade da realização da POF"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Renda média dos 10% mais pobres",
-    "antes": "R$ 96 na Pnad 2017-2018",
-    "depois": "R$ 217 na POF 2017-2018"
-   },
-   {
-    "item": "Renda média dos 25% mais pobres",
-    "antes": "R$ 217 na Pnad 2017-2018",
-    "depois": "R$ 364 na POF 2017-2018"
-   }
-  ],
-  "destaque": "R$ 217 renda",
-  "porQueImporta": "Para investidores e operadores, entender como o IBGE mede a riqueza real das famílias mais pobres ajuda a captar as bases da demanda interna e do consumo, influenciando setores e políticas sociais que podem impactar o ambiente econômico e financeiro brasileiro.",
-  "impactoMercado": "A atualização dos dados da POF pode afetar a percepção do mercado sobre a vulnerabilidade social, influenciando decisões em setores ligados a consumo, crédito e políticas públicas, além de moldar debates sobre programas sociais e investimentos em qualificação.",
-  "entenda": "A POF é uma pesquisa detalhada que mostra quanto as famílias realmente ganham, considerando não só dinheiro recebido, mas comida própria, moradia e doações, ajudando a entender melhor a pobreza e orientar políticas sociais mais eficazes.",
-  "observar": "Fique atento à divulgação dos resultados da POF 2024-2025 no dia 27 de novembro para acompanhar a atualização das condições de vida das famílias brasileiras.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários",
-   "CLT"
-  ],
-  "angulo": "Mostramos como uma pesquisa detalhada do IBGE pode revelar fatos importantes sobre a renda dos mais pobres e influenciar políticas sociais, despertando interesse em estudar o mercado financeiro com base em dados reais.",
-  "gancho": "*POF* e *pobreza*: dados que importam",
-  "ideias": [
-   "Como o IBGE mede a renda dos mais pobres?",
-   "Diferenças entre POF e Pnad: o que muda na análise social?",
-   "Por que entender renda irregular importa para o mercado?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "grafico",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/11/nova-pesquisa-do-ibge-pode-ajudar-a-combater-a-pobreza.shtml",
-  "publicadoEm": "2026-11-20T23:00:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-15"
- },
- {
-  "titulo": "Trump exige que Filipinas comprem só produtos agrícolas dos EUA a partir de 1º de janeiro",
-  "resumo": "Donald Trump afirmou que as Filipinas devem adquirir 100% de seus produtos agrícolas dos EUA, substituindo países como Brasil. Negociação inclui também compra de energia americana e envolve questões comerciais e militares.",
-  "fatos": [
-   "Donald Trump fez declaração em 20 de novembro na Casa Branca.",
-   "Filipinas devem comprar 100% de produtos agrícolas dos EUA a partir de 1º de janeiro, segundo Trump.",
-   "Brasil exportou 900 mil toneladas de produtos alimentícios para Filipinas em 2026, totalizando US$ 1,2 bilhão.",
-   "Carne suína representa 251 mil toneladas e US$ 587 milhões dessas exportações brasileiras para Filipinas.",
-   "Carne bovina exportada do Brasil soma 63 mil toneladas e US$ 310 milhões.",
-   "Carnes de aves brasileiras representaram US$ 181 milhões em exportações para as Filipinas em 2026.",
-   "Trump afirmou que a continuidade da aliança comercial e militar dos EUA com as Filipinas depende da compra exclusiva dos produtos americanos.",
-   "Filipinas ainda não confirmaram as afirmações de Trump e disseram que negociações continuam.",
-   "Casa Branca divulgou documento em 18 de novembro destacando a intenção de reduzir déficit comercial ampliando compras agrícolas e de energia dos EUA pelas Filipinas."
-  ],
-  "explicacao": [
-   "O presidente dos Estados Unidos, Donald Trump, declarou em 20 de novembro que as Filipinas terão que comprar apenas produtos agrícolas americanos a partir de 1º de janeiro. A exigência foi feita durante reunião com o presidente filipino Ferdinand Marcos Jr. e inclui também a compra de energia dos EUA.",
-   "Trump justificou a medida afirmando que as Filipinas importavam grandes volumes de produtos agrícolas do Brasil e de outros países, e condicionou a continuidade da relação comercial e militar entre os EUA e as Filipinas à compra exclusiva de produtos agrícolas americanos.",
-   "Essa imposição sinaliza uma possível perda significativa para o agronegócio brasileiro no mercado filipino, que em 2026 exportou cerca de 900 mil toneladas em alimentos, principalmente carnes suína, bovina e de aves, totalizando US$ 1,2 bilhão.",
-   "Embora Trump tenha afirmado o fechamento do acordo para compra exclusiva a partir de janeiro, o governo filipino ainda negocia os termos e não confirmou comprometimento de abandonar fornecedores brasileiros. As conversas bilaterais continuam em andamento."
-  ],
-  "detalhes": [
-   "Exigência feita durante reunião de Trump com o presidente filipino Ferdinand Marcos Jr.",
-   "Filipinas importavam grande quantidade de produtos agrícolas do Brasil, especialmente carnes suína, bovina e de aves.",
-   "Trump relacionou a negociação ao vínculo militar dos EUA com as Filipinas, citando possíveis conflitos na região com a China.",
-   "Governo filipino ainda está negociando e não confirmou exclusividade nas compras.",
-   "Casa Branca destacou ampliar compras filipinas para reduzir déficit comercial dos EUA, sem impor exclusividade.",
-   "Trump também mencionou acordo para compra integral da energia importada pelas Filipinas.",
-   "A declaração foi dada após viagem de Trump à Ásia e reunião da cúpula da Apec."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "As Filipinas vão comprar 100% dos seus produtos agrícolas dos EUA a partir de 1º de janeiro."
-   },
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "Condicionei a relação comercial e segurança entre nossos países à ampliação das compras americanas."
-   },
-   {
-    "quem": "Donald Trump, presidente dos EUA",
-    "oque": "O Brasil vai ajudar as Filipinas contra a China? Acho que não."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "18 de novembro de 2026",
-    "oque": "Casa Branca divulga documento sobre intenção de ampliar compras filipinas de produtos e energia dos EUA."
-   },
-   {
-    "quando": "20 de novembro de 2026",
-    "oque": "Trump anuncia condição para Filipinas comprarem só produtos agrícolas americanos a partir de 1º de janeiro."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Agronegócio",
-    "significado": "Conjunto de atividades econômicas ligadas à agricultura e pecuária para produção e comércio."
-   },
-   {
-    "termo": "Déficit comercial",
-    "significado": "Quando um país importa mais do que exporta em termos de valor."
-   },
-   {
-    "termo": "Exportação",
-    "significado": "Venda de bens e serviços para outros países."
-   }
-  ],
-  "pergunta": "Como você acha que essa exclusividade afetará o agronegócio brasileiro no mercado asiático?",
-  "tamanhoTexto": 11045,
-  "numeros": [
-   {
-    "valor": "900 mil toneladas",
-    "rotulo": "exportações brasileiras de alimentos para Filipinas em 2026"
-   },
-   {
-    "valor": "US$ 1,2 bilhão",
-    "rotulo": "valor total das exportações agrícolas brasileiras para Filipinas em 2026"
-   },
-   {
-    "valor": "251 mil toneladas",
-    "rotulo": "volume de carne suína exportada do Brasil para Filipinas"
-   },
-   {
-    "valor": "US$ 587 milhões",
-    "rotulo": "valor das exportações de carne suína brasileira às Filipinas"
-   },
-   {
-    "valor": "63 mil toneladas",
-    "rotulo": "carne bovina exportada às Filipinas pelo Brasil"
-   },
-   {
-    "valor": "US$ 310 milhões",
-    "rotulo": "valor das exportações brasileiras de carne bovina às Filipinas"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "100% produtos agrícolas",
-  "porQueImporta": "A possível exclusividade na compra de produtos agrícolas dos EUA pelas Filipinas pode impactar as exportações brasileiras, especialmente do agronegócio, e alterar fluxos comerciais importantes para o Brasil, depois de volumes significativos já exportados em 2026.",
-  "impactoMercado": "O movimento pode reduzir a participação brasileira no mercado filipino, afetar exportadores do agronegócio e influenciar negociações comerciais internacionais. A amplitude da substituição ainda é incerta, mas o setor agrícola pode enfrentar riscos comerciais relevantes.",
-  "entenda": "Exportações agrícolas envolvem venda de produtos como carnes e grãos a outros países. Negociações comerciais podem incluir exigências de compra exclusiva. Relações comerciais e militares podem estar ligadas, influenciando decisões de importação e acordos internacionais.",
-  "observar": "Acompanhe as negociações comerciais oficiais entre EUA e Filipinas nas próximas semanas e eventuais confirmações do governo filipino sobre as condições de compra exclusiva.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Empresários"
-  ],
-  "angulo": "Explicar a conexão entre negociações internacionais, exportação agrícola e impacto comercial enseja conhecer melhor a dinâmica do mercado e incentivar aprofundamento em estudos financeiros.",
-  "gancho": "*Agronegócio* e *comércio* nas *Filipinas*",
-  "ideias": [
-   "Entenda o acordo agrícola EUA-Filipinas anunciado por Trump",
-   "Como a exclusividade nas compras americanas impacta o Brasil",
-   "O que significa condicionamento comercial ligado à segurança entre países"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Economia",
-  "icone": "seta",
-  "fonte": "Folha Mercado; CNN Brasil",
-  "impacto": "medio",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T23:50:06-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/trump-diz-ter-exigido-que-filipinas-comprem-produtos-agricolas-dos-eua-e-cancelem-negocios-com-brasil.shtml",
-  "publicadoEm": "2026-11-20T17:39:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-16"
- },
- {
-  "titulo": "SEC investiga práticas contábeis da Nvidia em meio a escândalo",
-  "resumo": "A SEC iniciou uma investigação sobre as práticas contábeis da Nvidia, aumentando os desafios legais da empresa ligada a um escândalo envolvendo o ex-CEO Jensen Huang e possíveis violações de exportação.",
-  "fatos": [
-   "SEC investiga práticas contábeis da Nvidia após escândalo envolvendo ex-CEO Jensen Huang.",
-   "Investigação tem foco em possíveis irregularidades contábeis, segundo fontes anônimas.",
-   "Alice Huang, ligada a Megaspeed, é suspeita de espionagem e a empresa é investigada desde 2024.",
-   "Crise fez ações da Nvidia caírem mais de um terço.",
-   "Nvidia mudou em 2025 a forma de reportar receitas por região, omitindo Cingapura da divisão geográfica.",
-   "Departamentos de Justiça e Comércio dos EUA investigam envio ilegal de chips para a China.",
-   "Aquisição de US$ 12,9 bilhões da Hugging Face também está sob análise antitruste.",
-   "SEC criou nova unidade para casos contábeis recentemente.",
-   "Colette Kress, CEO interina, afirmou que serão mais seletivos em operações financeiras para IA."
-  ],
-  "explicacao": [
-   "A Comissão de Valores Mobiliários dos Estados Unidos (SEC) está investigando as práticas contábeis da fabricante de chips Nvidia, conforme fontes informadas. Esta apuração amplia os problemas legais da companhia, já envolvida em um escândalo relacionado ao ex-presidente-executivo Jensen Huang, divulgado em novembro de 2026.",
-   "A investigação ocorre em meio a suspeitas relacionadas a relações extraconjugais de Jensen Huang, incluindo com Alice Huang, líder da Megaspeed, empresa sob investigação por possíveis violações de controle de exportação de chips para a China. Essas acusações afetam diretamente a confiança dos investidores na Nvidia.",
-   "Além disso, a Nvidia fez uma mudança contábil que alterou a forma como reporta receitas por região, deixando de evidenciar vendas em Cingapura, uma região-chave para vendas da empresa, o que chamou atenção em meio à crise. A SEC examina se essas mudanças e acordos financeiros complexos refletem com clareza a situação da companhia.",
-   "Agora, a Nvidia enfrenta uma temporada crítica, com investigação da SEC focada em contabilidade, problemas antitruste ligados à compra da Hugging Face e a necessidade de maior transparência, enquanto as autoridades buscam garantir a adequada divulgação dos riscos para investidores."
-  ],
-  "detalhes": [
-   "Investigação da SEC ampliada após escândalo pessoal do ex-CEO Jensen Huang.",
-   "Alice Huang deixou a Megaspeed em agosto de 2025.",
-   "Mudança contábil pela Nvidia priorizou localização do cliente sobre endereço de faturamento.",
-   "Megaspeed sediada em Cingapura, importante região para vendas da Nvidia.",
-   "Departamentos do governo americano suspeitam de violações de controle de exportação desde 2024.",
-   "Nvidia está sob pressão devido à queda das ações e escrutínio regulatório.",
-   "SEC procura garantir maior transparência nos riscos das empresas de IA."
-  ],
-  "declaracoes": [
-   {
-    "quem": "David Woodcock, chefe da divisão de fiscalização da SEC",
-    "oque": "A SEC examina divulgações corporativas para garantir visão completa dos riscos aos investidores."
-   },
-   {
-    "quem": "Colette Kress, presidente-executiva interina da Nvidia",
-    "oque": "A Nvidia será mais seletiva em operações financeiras voltadas para o setor de inteligência artificial."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "2024",
-    "oque": "Início da investigação dos Departamentos de Justiça e Comércio sobre Megaspeed."
-   },
-   {
-    "quando": "Agosto de 2025",
-    "oque": "Alice Huang deixa a Megaspeed, conforme comunicado da empresa."
-   },
-   {
-    "quando": "2025",
-    "oque": "Nvidia altera método de contabilização das receitas por região geográfica."
-   },
-   {
-    "quando": "Novembro de 2026",
-    "oque": "Escândalo envolvendo Jensen Huang ganha repercussão pública."
-   },
-   {
-    "quando": "Novembro de 2026",
-    "oque": "SEC inicia investigação das práticas contábeis da Nvidia."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Nvidia",
-    "significado": "Empresa americana fabricante de chips, com foco em IA."
-   },
-   {
-    "termo": "SEC",
-    "significado": "Comissão de Valores Mobiliários dos EUA, órgão regulador do mercado."
-   },
-   {
-    "termo": "Contabilidade",
-    "significado": "Registro e apresentação das finanças de uma empresa."
-   }
-  ],
-  "pergunta": "Como você avalia o impacto dessas acusações na confiança dos investidores em empresas de tecnologia?",
-  "tamanhoTexto": 7156,
-  "numeros": [
-   {
-    "valor": "12,9 bilhões",
-    "rotulo": "Valor da aquisição da Hugging Face pela Nvidia, em dólares"
-   },
-   {
-    "valor": "mais de um terço",
-    "rotulo": "Queda das ações da Nvidia após escândalo"
-   },
-   {
-    "valor": "2024",
-    "rotulo": "Ano em que começou investigação contra Megaspeed"
-   },
-   {
-    "valor": "agosto de 2025",
-    "rotulo": "Mês e ano da saída de Alice Huang da Megaspeed"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "investigação contábil da",
-  "porQueImporta": "Investidores ficam atentos a investigações regulatórias como a da SEC porque elas indicam potenciais riscos legais e operacionais para as empresas, afetando a percepção de valor e a confiança nos ativos no mercado financeiro.",
-  "impactoMercado": "A investigação da SEC pode aumentar a volatilidade nas ações da Nvidia e pressionar o setor de tecnologia e chips, especialmente em segmentos ligados à inteligência artificial e exportação, além de estender a cautela dos investidores sobre empresas com práticas contábeis complexas.",
-  "entenda": "A SEC é a agência reguladora que fiscaliza as práticas financeiras das empresas nos EUA para proteger investidores. Ela investiga contas e divulgação de informações para garantir transparência e evitar fraudes, o que é fundamental para a confiança no mercado.",
-  "observar": "Fique atento aos próximos relatórios trimestrais da Nvidia e comunicados da SEC para atualizações sobre a investigação e medidas que a empresa adotará para esclarecer dúvidas.",
-  "publico": [
-   "Investidores",
-   "Day traders",
-   "Iniciantes"
-  ],
-  "angulo": "Explorar como investigações regulatórias em grandes empresas de tecnologia impactam o mercado e a importância de entender práticas contábeis para quem opera na bolsa.",
-  "gancho": "*SEC* investiga *Nvidia*: entenda",
-  "ideias": [
-   "O que a investigação da SEC significa para a Nvidia?",
-   "Entenda o impacto das práticas contábeis na confiança do investidor",
-   "Como crises legais afetam ações de empresas de tecnologia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Empresas",
-  "icone": "escudo",
-  "fonte": "Valor Econômico",
-  "impacto": "medio",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T19:21:15-03:00",
-  "url": "https://valor.globo.com/empresas/noticia/2026/11/20/sec-investiga-contabilidade-da-nvidia-em-meio-a-crise-envolvendo-ex-ceo-dizem-fontes.ghtml",
-  "publicadoEm": "2026-11-20T16:47:16-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-07"
- },
- {
-  "titulo": "Mercado vê chance de manutenção dos juros pelo Fed em dezembro",
-  "resumo": "CME indica 7,9% de chance de manutenção dos juros pelo Fed na reunião de 9 de dezembro, enquanto a aposta de alta de 50 pontos-base zerou.",
-  "fatos": [
-   "Data da reunião do Fed: 9 de dezembro de 2026",
-   "Probabilidade de manutenção dos juros: 7,9%, segundo FedWatch do CME",
-   "Probabilidade de alta de 50 pontos-base zerada",
-   "Até ontem, chance da alta de 50 pontos-base era 6,1%",
-   "Probabilidade de alta de 25 pontos-base está em 92,1%",
-   "Dirigente do Fed, Lisa Cook, pediu ação mais agressiva contra inflação",
-   "Secretário do Tesouro comentou análise de dirigente que apoiou alta de 50 pontos no passado",
-   "Inflação prevista para 1 e 5 anos caiu, mas está acima da meta de 2%"
-  ],
-  "explicacao": [
-   "O mercado, segundo a ferramenta FedWatch do CME Group, passou a considerar uma probabilidade de 7,9% para que o Federal Reserve mantenha a taxa de juros na próxima reunião de política monetária, em 9 de dezembro de 2026.",
-   "Este movimento ocorre mesmo após diversas declarações de integrantes do Fed ressaltando a necessidade de aumentos nos juros para conter a inflação alta, como a diretora Lisa Cook, que defendeu resposta mais agressiva da política monetária.",
-   "Na sessão, o mercado descartou a chance de um aumento de 50 pontos-base na taxa dos Fed Funds, que havia até ontem 6,1% de probabilidade, e manteve como principal aposta um aumento de 25 pontos-base, com 92,1% de chance.",
-   "Além disso, dados recentes indicam que as expectativas de inflação para 1 e 5 anos recuaram, mas ainda permanecem acima da meta de 2% do Fed, o que mantém a pressão para ajustes na política monetária."
-  ],
-  "detalhes": [
-   "Ferramenta usada: FedWatch do CME Group, que monitora apostas de mercado",
-   "Reunião de política monetária marcada para 9 de dezembro, decisiva para juros",
-   "Alta de 25 pontos-base elevaria taxa para faixa de 4% a 4,25% ao ano",
-   "Sinalizações recentes do Fed mostram disposição para control os juros para conter inflação persistente",
-   "Dados da Universidade de Michigan indicaram redução nas expectativas de inflação, porém ainda altas",
-   "Comentário do secretário do Tesouro destacou reversão de opinião de dirigente sobre taxa no ano anterior",
-   "Mercado revisa cenário após semanas de sinalizações divergentes sobre tamanho do aumento"
-  ],
-  "declaracoes": [
-   {
-    "quem": "Lisa Cook, diretora do Fed",
-    "oque": "Inflamação elevada e disseminada exige resposta mais agressiva da política monetária"
-   },
-   {
-    "quem": "Secretário do Tesouro dos EUA",
-    "oque": "Dirigente que apoia aumento de 50 pontos-base já defendeu corte semelhante no ano passado"
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "até 19/11/2026",
-    "oque": "Chance de manutenção dos juros era nula"
-   },
-   {
-    "quando": "até 19/11/2026",
-    "oque": "Probabilidade de alta de 50 pontos-base era 6,1%"
-   },
-   {
-    "quando": "20/11/2026",
-    "oque": "Probabilidade de manutenção dos juros subiu para 7,9%"
-   },
-   {
-    "quando": "20/11/2026",
-    "oque": "Probabilidade de alta de 50 pontos-base zerada"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fed Funds",
-    "significado": "Taxa básica de juros americana definida pelo Fed"
-   },
-   {
-    "termo": "FedWatch",
-    "significado": "Ferramenta que mostra probabilidade de mudanças nos juros"
-   },
-   {
-    "termo": "Pontos-base",
-    "significado": "Unidade que representa 0,01% em taxas de juros"
-   }
-  ],
-  "pergunta": "Você acha que o Fed deve pausar ou aumentar os juros em dezembro?",
-  "tamanhoTexto": 1586,
-  "numeros": [
-   {
-    "valor": "7,9%",
-    "rotulo": "Probabilidade de manutenção dos juros"
-   },
-   {
-    "valor": "0%",
-    "rotulo": "Probabilidade de alta de 50 pontos-base"
-   },
-   {
-    "valor": "6,1%",
-    "rotulo": "Probabilidade anterior da alta de 50 pontos-base"
-   },
-   {
-    "valor": "92,1%",
-    "rotulo": "Probabilidade do aumento de 25 pontos-base"
-   },
-   {
-    "valor": "4% a 4,25%",
-    "rotulo": "Faixa estimada da taxa dos Fed Funds após alta de 25 pontos-base"
-   },
-   {
-    "valor": "2%",
-    "rotulo": "Meta de inflação anual do Fed"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Probabilidade de manutenção dos juros",
-    "antes": "0%",
-    "depois": "7,9%"
-   },
-   {
-    "item": "Probabilidade da alta de 50 pontos-base",
-    "antes": "6,1%",
-    "depois": "0%"
-   }
-  ],
-  "destaque": "7,9% chance de",
-  "porQueImporta": "Este dado mostra que o mercado está considerando uma pausa nos aumentos de juros do Fed, um sinal relevante dado o contexto de inflação persistente e a incerteza sobre o ritmo da política monetária americana. Investidores precisam acompanhar essas mudanças para ajustar posicionamentos conforme a expectativa de custos de crédito e retorno.",
-  "impactoMercado": "A revisão das expectativas para os juros do Fed pode influenciar o dólar, os juros futuros e o mercado de ações global. Setores sensíveis a crédito, como bancos e tecnologia, podem reagir às decisões, assim como investidores que acompanham câmbio e títulos de renda fixa.",
-  "entenda": "O Fed Funds é a taxa básica de juros americana definida pelo Federal Reserve. Decisões sobre essa taxa influenciam todo o mercado financeiro, afetando empréstimos, investimentos e inflação. Ferramentas como o FedWatch mensuram a probabilidade de movimentos nos juros com base nas posições do mercado.",
-  "observar": "Acompanhe a reunião do Fed em 9 de dezembro e os dados de inflação que podem alterar as expectativas sobre juros. Declarações dos dirigentes do Fed também poderão influenciar o mercado.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicar as mudanças nas expectativas do Fed ajuda seguidores a entenderem como decisões de juros afetam oportunidades e riscos na bolsa e renda fixa, conectando com os benefícios de estudar o mercado financeiro.",
-  "gancho": "*Fed* e juros em dezembro",
-  "ideias": [
-   "O que o Fed sinaliza para os juros em dezembro?",
-   "Entenda as apostas do mercado para os Fed Funds",
-   "Como a inflação impacta a decisão do Fed sobre juros?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Política monetária",
-  "icone": "seta",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T19:21:15-03:00",
-  "url": "https://www.infomoney.com.br/economia/cme-mercado-ve-chance-de-manutencao-de-juro-pelo-fed-em-dezembro/",
-  "publicadoEm": "2026-11-20T18:29:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-08"
- },
- {
-  "titulo": "Qual a parcela ideal para renda fixa em sua carteira de investimentos?",
-  "resumo": "A proporção de renda fixa ideal varia conforme objetivos, riscos e retornos. Michael Viriato explica que não há regra fixa, e a alocação depende do perfil e condições do mercado brasileiro.",
-  "fatos": [
-   "Não existe regra fixa de alocação entre renda fixa e renda variável para investidores brasileiros.",
-   "Recomendações tradicionais falham por basearem-se em características dos mercados americanos.",
-   "Juros reais elevados permitem alcançar objetivos com maior proporção em renda fixa.",
-   "Renda fixa deve garantir recursos para curto prazo, estabilidade e retornos futuros.",
-   "Títulos prefixados e pós-fixados atendem a necessidades diferentes dentro da renda fixa.",
-   "O percentual ideal depende dos objetivos, perfil de risco e condições do mercado.",
-   "Um investidor com retorno real necessário de 5% pode não precisar arriscar mais.",
-   "As condições de mercado influenciam se renda fixa ou outros ativos são mais atraentes.",
-   "Idade e perfil de risco são insuficientes para determinar alocação ideal.",
-   "Michael Viriato é planejador patrimonial e sócio fundador da Casa do Investidor."
-  ],
-  "explicacao": [
-   "Michael Viriato destaca que a decisão sobre quanto do patrimônio investir em renda fixa depende dos objetivos financeiros, tolerância a riscos e dos retornos disponíveis no mercado. Não existe uma regra universal como 60% em ações e 40% em renda fixa aplicável ao investidor brasileiro.",
-   "A origem dessas regras geralmente vem de estudos dos EUA, que nem sempre se aplicam ao Brasil devido às diferenças no mercado e nas taxas de juros reais. Por exemplo, com juros altos, um investidor consegue atingir seus objetivos mesmo com 100% em renda fixa.",
-   "A renda fixa desempenha três funções principais: garantir recursos para compromissos de curto prazo, proporcionar estabilidade à carteira e buscar retornos reais previsíveis para metas futuras. Diferentes títulos e prazos são necessários para cada função, portanto, 100% em renda fixa não significa necessariamente conservador.",
-   "Por fim, é importante avaliar o retorno mínimo necessário para cada investidor. Se um portfólio de renda fixa oferece esse retorno com prazos compatíveis, não será preciso assumir riscos maiores. Contudo, assumir riscos pode ser necessário para quem precisa acumular patrimônio e tolerar volatilidade."
-  ],
-  "detalhes": [
-   "O texto foi publicado na Folha Mercado em 20 de novembro de 2026 às 18h00.",
-   "Michael Viriato alerta que recomendações fixas ignoram o contexto brasileiro.",
-   "Funções da renda fixa: liquidez para curto prazo, estabilidade e proteção contra inflação.",
-   "Os títulos públicos indexados à inflação ajudam a preservar o poder de compra.",
-   "A volatilidade de títulos prefixados pode ser alta antes do vencimento.",
-   "Renda fixa não implica necessariamente em carteira conservadora.",
-   "A decisão inclui avaliar o custo de oportunidade de não investir em ações ou imóveis."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Michael Viriato, planejador patrimonial e sócio fundador da Casa do",
-    "oque": "Não existe proporção fixa para renda fixa; depende dos objetivos, riscos e mercado."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "20/11/2026",
-    "oque": "Publicação da análise sobre alocação em renda fixa na Folha Mercado."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Renda fixa",
-    "significado": "Investimentos com retorno previsível e menor volatilidade."
-   },
-   {
-    "termo": "Juros reais",
-    "significado": "Taxa de juros descontada a inflação."
-   },
-   {
-    "termo": "Títulos prefixados",
-    "significado": "Títulos com taxa de juros fixada no momento da compra."
-   }
-  ],
-  "pergunta": "Qual a sua estratégia atual para alocar renda fixa na carteira? Você já adaptou conforme seus objetivos?",
-  "tamanhoTexto": 9179,
-  "numeros": [
-   {
-    "valor": "60%",
-    "rotulo": "proporção tradicional em ações recomendada nos EUA"
-   },
-   {
-    "valor": "40%",
-    "rotulo": "proporção tradicional em renda fixa recomendada nos EUA"
-   },
-   {
-    "valor": "5%",
-    "rotulo": "retorno real líquido anual que um investidor pode precisar alcançar"
-   },
-   {
-    "valor": "7",
-    "rotulo": "acessos gratuitos por dia para não assinantes liberados por assinantes"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Não existe proporção",
-  "porQueImporta": "Entender que a alocação em renda fixa depende dos objetivos, do perfil de risco e do cenário do mercado ajuda o investidor a montar uma carteira mais alinhada à sua necessidade, evitando decisões baseadas em regras genéricas que podem não servir para o contexto brasileiro.",
-  "impactoMercado": "Essa análise reforça a importância de avaliar o cenário econômico e as taxas de juros para escolher entre renda fixa e renda variável. Mudanças nas condições de juros reais podem impactar o apetite por volatilidade, afetando setores e tipos de ativos preferidos pelos investidores.",
-  "entenda": "Renda fixa inclui investimentos que oferecem pagamentos previsíveis, como títulos públicos e privados. Eles são usados para garantir dinheiro para compromissos, proteger o patrimônio e buscar retornos estáveis. A escolha da proporção ideal depende de quanto risco se pode e quer assumir.",
-  "observar": "Acompanhe as mudanças nas taxas de juros reais, preços das ações e índices de inflação, pois elas influenciam as decisões sobre alocação entre renda fixa e variável.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicando de forma clara e contextualizada, esta notícia ajuda o seguidor a entender como montar uma carteira planejada, considerando o mercado brasileiro e perfil pessoal, incentivando a busca de conhecimento e formação em mercado financeiro.",
-  "gancho": "*Renda Fixa* na Carteira",
-  "ideias": [
-   "Como escolher a proporção ideal de renda fixa na sua carteira?",
-   "Renda fixa: estabilidade e segurança para diferentes objetivos",
-   "Por que não existe uma regra fixa para investir em renda fixa?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "categoria": "Renda fixa",
-  "icone": "escudo",
-  "fonte": "Folha Mercado",
-  "impacto": "medio",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T19:21:15-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/quanto-da-sua-carteira-deveria-estar-em-renda-fixa.shtml",
-  "publicadoEm": "2026-11-20T18:00:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-09"
- },
- {
-  "tipo": "sinal",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "titulo": "Mercado de previsões vê 94.5% de chance de aumento de 25 bps na decisão do Fed em dezembro.",
-  "resumo": "Indivíduos apostadores estão considerando uma alta de juros muito provável neste mês.",
-  "probs": [
-   {
-    "opcao": "Aumento de 25 bps",
-    "prob": 94.5
-   },
-   {
-    "opcao": "Sem alteração",
-    "prob": 3.7
-   },
-   {
-    "opcao": "Aumento de 50+ bps",
-    "prob": 2.1
-   },
-   {
-    "opcao": "Redução de 25 bps",
-    "prob": 0.2
-   }
-  ],
-  "prazo": "2026-12-10",
-  "volume24h": "US$ 2,4 mi",
-  "fatos": [
-   "Aumento de 25 bps: 94,5%",
-   "Sem alteração: 3,7%",
-   "Aumento de 50+ bps: 2,1%",
-   "Redução de 25 bps: 0,2%"
-  ],
-  "numeros": [
-   {
-    "valor": "94,5%",
-    "rotulo": "Aumento de 25 bps"
-   },
-   {
-    "valor": "3,7%",
-    "rotulo": "Sem alteração"
-   },
-   {
-    "valor": "2,1%",
-    "rotulo": "Aumento de 50+ bps"
-   },
-   {
-    "valor": "0,2%",
-    "rotulo": "Redução de 25 bps"
-   }
-  ],
-  "destaque": "94,5%",
-  "gancho": "*Expectativa* de política monetária do Fed",
-  "entenda": "O Federal Reserve, banco central dos EUA, define taxas de juros para controlar a inflação e estimular a economia. As decisões impactam os mercados financeiros.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-  "publicadoEm": "2026-11-20T19:21:15-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-20T19:21:15-03:00",
-  "data": "2026-11-20",
-  "status": "atualizada",
-  "id": "2026-11-20-p1",
-  "atualizadoEm": "2026-11-27T09:35:41-03:00"
- },
- {
-  "tipo": "sinal",
-  "slug": "how-many-fed-rate-hikes-in-2026-20260623190717369",
-  "titulo": "Mercado de previsões vê 90% de chance de 2 aumentos de taxa (50 bps) pelo Fed em 2026",
-  "resumo": "Os apostadores estão prevendo uma abordagem gradual nas elevações das taxas de juros ao longo do ano.",
-  "probs": [
-   {
-    "opcao": "2 (50 bps)",
-    "prob": 90.0
-   },
-   {
-    "opcao": "1 (25 bps)",
-    "prob": 7.1
-   },
-   {
-    "opcao": "3 (75 bps)",
-    "prob": 3.4
-   },
-   {
-    "opcao": "4 (100 bps)",
-    "prob": 0.1
-   }
-  ],
-  "prazo": "2027-01-01",
-  "volume24h": "US$ 77 mil",
-  "fatos": [
-   "2 (50 bps): 90,0%",
-   "1 (25 bps): 7,1%",
-   "3 (75 bps): 3,4%",
-   "4 (100 bps): 0,1%"
-  ],
-  "numeros": [
-   {
-    "valor": "90,0%",
-    "rotulo": "2 (50 bps)"
-   },
-   {
-    "valor": "7,1%",
-    "rotulo": "1 (25 bps)"
-   },
-   {
-    "valor": "3,4%",
-    "rotulo": "3 (75 bps)"
-   },
-   {
-    "valor": "0,1%",
-    "rotulo": "4 (100 bps)"
-   }
-  ],
-  "destaque": "90,0%",
-  "gancho": "*Mudança* na política monetária",
-  "entenda": "As decisões de aumento das taxas visam controlar a inflação e estabilizar o crescimento econômico, afetando diversos ativos financeiros.",
-  "categoria": "Previsões",
-  "icone": "alvo",
-  "impacto": "medio",
-  "ordem": 50,
-  "fonte": "Polymarket (mercado de previsões)",
-  "url": "https://polymarket.com/event/how-many-fed-rate-hikes-in-2026-20260623190717369",
-  "publicadoEm": "2026-11-20T19:21:15-03:00",
-  "horaEstimada": true,
-  "coletadoEm": "2026-11-20T19:21:15-03:00",
-  "data": "2026-11-20",
-  "status": "nova",
-  "id": "2026-11-20-p2"
- },
- {
-  "titulo": "Dólar se fortalece por quarto semana seguida com Fed e IA",
-  "resumo": "Dólar caminha para alta pela 4ª semana consecutiva, apoiado em expectativas de aperto do Fed e busca de proteção por inteligência artificial.",
-  "fatos": [
-   "Dólar próximo de 103,9 pontos no índice DXY, maior nível desde abril de 2025.",
-   "Alta do dólar sustentada desde 10 de novembro com dados de inflação acima do esperado nos EUA.",
-   "Christopher Waller sugeriu aumento de 50 pontos-base em dezembro pelo Fed.",
-   "Banco Central vendeu US$ 1 bilhão na quinta-feira (19) para conter dólar.",
-   "Dólar fechou a R$ 5,93 no Brasil, maior valor desde abril de 2025.",
-   "MSCI mundial recuou por sete sessões consecutivas, maior sequência desde 2023.",
-   "Anthropic fez estreia recorde no mercado em 19 de novembro, mas não restaurou confiança.",
-   "Anna Paulson e Austan Goolsbee, presidentes regionais do Fed, indicam continuidade do aperto.",
-   "Iene subiu 0,6% contra o dólar após inflação japonesa acelerar para 2,2% em outubro."
-  ],
-  "explicacao": [
-   "O dólar operava estável na sexta-feira (20) e se encaminha para subir pela quarta semana seguida, refletindo a expectativa de aperto monetário do Federal Reserve e preocupações ligadas à inteligência artificial.",
-   "A valorização ganhou força após dados de inflação nos EUA acima do esperado em 10 de novembro, levando o Fed a considerar um aumento de juros de 50 pontos-base em dezembro, segundo Christopher Waller, diretor do Fed.",
-   "Essa alta também reflete menor apetite ao risco, prejudicando bolsas globais, principalmente após preocupações sobre a inteligência artificial, mesmo após estreia recorde da Anthropic no mercado.",
-   "No Brasil, o dólar atingiu R$ 5,93, maior patamar desde abril de 2025, mesmo com intervenção do Banco Central na venda de US$ 1 bilhão, diante do cenário fiscal e incertezas econômicas do novo governo."
-  ],
-  "detalhes": [
-   "O dólar se fortaleceu no índice DXY, refletindo expectativas de alta dos juros americanos.",
-   "Christopher Waller, diretor do Fed, recomendou aumento de 50 pontos-base em reunião de dezembro.",
-   "Preocupações sobre a inteligência artificial derrubaram bolsas globais, impulsionando busca por ativos seguros.",
-   "Banco Central brasileiro tentou conter a valorização do dólar com venda de US$ 1 bilhão no mercado à vista.",
-   "No Brasil, a moeda fechou próximo a R$ 5,93, maior desde abril de 2025.",
-   "A inflação subjacente do Japão subiu para 2,2%, maior que a meta do Banco do Japão.",
-   "Especialistas apontam que o Fed deve manter discurso firme para conter inflação elevada."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Christopher Waller, diretor do Fed",
-    "oque": "Uma elevação de 50 pontos-base em dezembro deveria ser considerada."
-   },
-   {
-    "quem": "Anna Paulson, presidente do Fed de Filadélfia",
-    "oque": "O Fed precisará voltar a elevar os juros porque a inflação está alta demais."
-   },
-   {
-    "quem": "Austan Goolsbee, presidente do Fed de Chicago",
-    "oque": "Não há evidências de que a inflação voltará sozinha para a meta de 2%."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "10 de novembro",
-    "oque": "Dados de inflação nos EUA vieram acima do esperado, reforçando aposta em aperto monetário."
-   },
-   {
-    "quando": "19 de novembro",
-    "oque": "Anthropic fez estreia recorde no mercado; dólar fechou em alta no Brasil em R$ 5,93."
-   },
-   {
-    "quando": "Sexta-feira, 20 de novembro",
-    "oque": "Dólar opera estável e caminha para quarta alta semanal consecutiva."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Fed",
-    "significado": "Banco Central dos Estados Unidos, controla política monetária."
-   },
-   {
-    "termo": "Aperto monetário",
-    "significado": "Alta dos juros para conter inflação e desacelerar a economia."
-   },
-   {
-    "termo": "Carry trade",
-    "significado": "Operação que toma empréstimos em moeda com juros baixos para investir em ativos com retorno maior."
-   }
-  ],
-  "pergunta": "Como você acha que a alta do dólar afeta seus investimentos?",
-  "tamanhoTexto": 8563,
-  "numeros": [
-   {
-    "valor": "103,9",
-    "rotulo": "Índice do dólar (DXY), maior desde abril de 2025"
-   },
-   {
-    "valor": "50 pontos-base",
-    "rotulo": "Possível aumento da Selic pelo Fed em dezembro"
-   },
-   {
-    "valor": "R$ 5,93",
-    "rotulo": "Cotação do dólar no Brasil, maior desde abril de 2025"
-   },
-   {
-    "valor": "US$ 1 bilhão",
-    "rotulo": "Venda de dólar pelo Banco Central no mercado à vista"
-   },
-   {
-    "valor": "2,2%",
-    "rotulo": "Inflação subjacente do Japão em outubro"
-   },
-   {
-    "valor": "0,6%",
-    "rotulo": "Valorização do iene contra o dólar"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Cotação do dólar no Brasil",
-    "antes": "inferior a R$ 5,93 em 2026 pré-abril",
-    "depois": "fechou em R$ 5,93 em 19/11/2026"
-   }
-  ],
-  "destaque": "Quarta semana consecutiva",
-  "porQueImporta": "A alta do dólar influencia custos de importação, investimentos em renda variável e estratégias de traders e investidores, especialmente frente ao cenário de juros nos EUA e incertezas globais por IA, exigindo atenção quanto à volatilidade do câmbio.",
-  "impactoMercado": "Dólar forte tende a pressionar bolsas globais e ativos emergentes, impactar operações de carry trade e intensificar efeitos do aperto monetário nos juros futuros, mexendo em estratégias de investidores em renda fixa e câmbio.",
-  "entenda": "O índice DXY mede a força do dólar contra uma cesta de moedas importantes. Ajustes nos juros pelo Fed afetam essa força. Expectativas de alta nos juros tornam o dólar mais atrativo, elevando sua cotação e impactando o mercado global.",
-  "observar": "Fique atento ao relatório de despesas de consumo pessoal (PCE) dos EUA na próxima semana, importante indicador de inflação que pode influenciar decisões do Fed e impacto no dólar.",
-  "publico": [
-   "Iniciantes",
-   "Day traders",
-   "Investidores",
-   "CLT"
-  ],
-  "angulo": "Esta notícia revela como as decisões do Fed e eventos globais como IA influenciam o câmbio, mostrando a importância de entender política monetária e riscos para operar ou investir com mais consciência.",
-  "gancho": "*Dólar* segue forte, confira motivos",
-  "ideias": [
-   "O que está impulsionando a alta do dólar?",
-   "Como o Fed pode afetar seus investimentos em dezembro",
-   "Inteligência artificial e mercado: por que o dólar sobe?"
-  ],
-  "formatos": [
-   "Carrossel"
-  ],
-  "categoria": "Câmbio",
-  "icone": "moeda",
-  "fonte": "Folha Mercado",
-  "impacto": "alto",
-  "ordem": 1,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T15:01:54-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-caminha-para-quarta-alta-semanal-apoiado-por-expectativas-de-aperto-do-fed-e-busca-por-protecao-impulsionada-pela-ia.shtml",
-  "publicadoEm": "2026-11-20T10:38:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-01"
- },
- {
-  "titulo": "Ferrari lidera equipes mais valiosas da Fórmula 1 em 2026 com US$ 9,5 bi",
-  "resumo": "Em 2026, Ferrari é a equipe mais valiosa da Fórmula 1, avaliada em US$ 9,5 bilhões. A Haas lidera crescimento, com alta de 87% na avaliação.",
-  "fatos": [
-   "Valorização média das equipes em 2026 foi de 53%",
-   "Média de avaliação das equipes em 2026 é de US$ 5,2 bilhões",
-   "Em 2025, média era US$ 3,6 bilhões",
-   "Ferrari avaliada em US$ 9,5 bilhões em 2026",
-   "Crescimento da Ferrari de 46% em um ano",
-   "Receita da Ferrari em 2025 foi de US$ 850 milhões",
-   "Lucro operacional da Ferrari em 2025 foi de US$ 160 milhões",
-   "Exor vendeu 3,7% das ações da Ferrari por cerca de € 3 bilhões",
-   "Haas teve a maior alta no ranking com 87%",
-   "Há 11 equipes na Fórmula 1 atualmente"
-  ],
-  "explicacao": [
-   "A Fórmula 1 teve valorização média das equipes de 53% em 2026, refletindo maior interesse global, patrocinadores e presença digital. As 11 escuderias atingiram média de US$ 5,2 bilhões, alta de 47% frente a 2025 com US$ 3,6 bilhões.",
-   "A Ferrari é a equipe mais valiosa, avaliada em US$ 9,5 bilhões, crescendo 46% em um ano. Apesar de não ter vencido um título desde 2007, sua receita em 2025 foi estimada em US$ 850 milhões, com lucro operacional de US$ 160 milhões.",
-   "O crescimento financeiro recente decorre da transformação do esporte e operações financeiras importantes, como venda de 3,7% das ações da Ferrari pela Exor, que movimentou cerca de € 3 bilhões (US$ 3,14 bilhões), reforçando investimentos.",
-   "O cenário evidencia como a estrutura comercial da Fórmula 1 valoriza suas equipes, projetando crescimento contínuo e maior atração de investidores globais, apesar do desempenho esportivo individual das escuderias."
-  ],
-  "detalhes": [
-   "Ranking inclui 11 equipes da Fórmula 1 em 2026",
-   "Crescimento geral em valor de mercado das equipes reflete a expansão da indústria do esporte",
-   "Ferrari não vence título desde 2007, mas cresce financeiramente",
-   "Movimento financeiro da Exor envolve entrada de capital externo na Ferrari",
-   "Transformação financeira da Fórmula 1 inclui maior valor das marcas e contratos de patrocínio",
-   "Haas é destaque pelo maior crescimento percentual no ano, 87%",
-   "A valorização não depende só de desempenho em pista, mas também do apelo comercial"
-  ],
-  "declaracoes": [],
-  "cronologia": [
-   {
-    "quando": "2025",
-    "oque": "Receita da Ferrari estimada em US$ 850 milhões"
-   },
-   {
-    "quando": "2025",
-    "oque": "Lucro operacional da Ferrari foi de US$ 160 milhões"
-   },
-   {
-    "quando": "2026",
-    "oque": "Valor médio das equipes alcançou US$ 5,2 bilhões"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Valorização",
-    "significado": "Aumento do valor financeiro de um ativo ou empresa"
-   },
-   {
-    "termo": "Lucro operacional",
-    "significado": "Resultado financeiro antes de juros e impostos"
-   },
-   {
-    "termo": "Escuderia",
-    "significado": "Equipe ou time na Fórmula 1"
-   }
-  ],
-  "pergunta": "Você sabia que o valor das equipes na Fórmula 1 cresce mesmo com resultados esportivos variados?",
-  "tamanhoTexto": 2352,
-  "numeros": [
-   {
-    "valor": "9,5 bilhões",
-    "rotulo": "Valorização da Ferrari em dólares"
-   },
-   {
-    "valor": "53%",
-    "rotulo": "Crescimento médio das equipes em 2026"
-   },
-   {
-    "valor": "87%",
-    "rotulo": "Crescimento da Haas em 2026"
-   },
-   {
-    "valor": "850 milhões",
-    "rotulo": "Receita da Ferrari em 2025, em dólares"
-   },
-   {
-    "valor": "160 milhões",
-    "rotulo": "Lucro operacional da Ferrari em 2025, em dólares"
-   },
-   {
-    "valor": "3,7%",
-    "rotulo": "Percentual das ações da Ferrari vendidas pela Exor"
-   }
-  ],
-  "comparativo": [
-   {
-    "item": "Valor médio das equipes",
-    "antes": "US$ 3,6 bilhões",
-    "depois": "US$ 5,2 bilhões"
-   },
-   {
-    "item": "Valorização Ferrari",
-    "antes": "não informado",
-    "depois": "US$ 9,5 bilhões em 2026"
-   }
-  ],
-  "destaque": "US$ 9,5 bi",
-  "porQueImporta": "A valorização recorde das equipes da Fórmula 1 mostra como o esporte evolui economicamente, atraindo investimentos e patrocinadores globais. Isso revela a importância de entender não só resultados esportivos, mas também o impacto financeiro que pode afetar contratos e parcerias no mercado.",
-  "impactoMercado": "O crescimento das avaliações nas equipes da Fórmula 1 pode influenciar investimentos em ações relacionadas, contratos de patrocínio e direitos de mídia. Para investidores e operadores, entender essa dinâmica ajuda a identificar setores ligados a esportes e entretenimento que ganham mais valor.",
-  "entenda": "A valorização das equipes na Fórmula 1 representa o valor financeiro da marca, contratos e lucros, separada do desempenho esportivo nas pistas. Isso envolve contratos de direitos, patrocínios e investimentos, que são componentes importantes para analisar o mercado financeiro ligado ao esporte.",
-  "observar": "Acompanhe os próximos relatórios financeiros das equipes, foco em novas parcerias e resultados do campeonato para avaliar impacto no valor das escuderias em 2027.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders",
-   "Empresários",
-   "CLT",
-   "Aposentados"
-  ],
-  "angulo": "Mostrar como o mercado financeiro também atua nos bastidores da Fórmula 1, despertando interesse por investimentos relacionados e destacando a importância da análise financeira em esportes de alto investimento.",
-  "gancho": "*Fórmula 1* e *valorização* em 2026",
-  "ideias": [
-   "Ranking das equipes mais valiosas da Fórmula 1 em 2026",
-   "Por que a Ferrari é a equipe mais valiosa apesar do desempenho nas pistas?",
-   "Como a Fórmula 1 cresce financeiramente e impacta mercados e empresas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Empresas",
-  "icone": "foguete",
-  "fonte": "Times Brasil",
-  "impacto": "alto",
-  "ordem": 2,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T15:01:54-03:00",
-  "url": "https://timesbrasil.com.br/brasil/equipes-mais-valiosas-da-formula-1-veja-o-ranking-e-quem-mais-cresceu-em-2026/",
-  "publicadoEm": "2026-11-20T14:37:45-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-02"
- },
- {
-  "titulo": "Houthis atacam prédio mais alto da Arábia Saudita sem feridos",
-  "resumo": "Grupo iemenita Houthi atingiu torre do fundo soberano em Riad, causando danos materiais. Não houve feridos no ataque do dia 19/11/2026.",
-  "fatos": [
-   "Ataque ocorreu em 19 de novembro de 2026.",
-   "Prédio atingido é o mais alto de Riad, abriga o Fundo de Investimento Público (PIF).",
-   "Não houve feridos segundo a Defesa Civil da Arábia Saudita.",
-   "Danos materiais em vários andares do edifício e prédios vizinhos.",
-   "Houthis ameaçaram atacar portos sauditas, incluindo o porto de Jidá.",
-   "Ataque vinculado à escalada na guerra entre Houthis e Arábia Saudita.",
-   "Porta-voz militar dos Houthis é Yahya Saree.",
-   "Aviso para que funcionários e moradores do centro financeiro da Cidade Econômica Rei Abdullah se afastem.",
-   "Houthis enviaram alerta para companhias aéreas sobre possíveis operações no espaço aéreo saudita.",
-   "Grupo apoiado pelo Irã."
-  ],
-  "explicacao": [
-   "Na quinta-feira, 19 de novembro de 2026, o grupo rebelde iemenita Houthis realizou um ataque contra o prédio mais alto de Riad, que abriga o Fundo de Investimento Público (PIF) da Arábia Saudita. A ação causou danos materiais em vários andares do edifício e em prédios vizinhos, segundo informou a Defesa Civil saudita e a Saudi Press Agency.",
-   "O ataque faz parte da escalada na guerra entre os Houthis, apoiados pelo Irã, e a Arábia Saudita. O grupo emitiu ameaças de atacar portos sauditas na costa do Mar Vermelho, especialmente o porto de Jidá, caso a Arábia Saudita bombardeie o porto de Hodeida, no Iêmen, cenário que agrava a tensão regional.",
-   "Apesar do dano estrutural, não houve feridos na investida. A comunicação oficial dos Houthis seguiu no tom de alerta, com declarações do porta-voz militar Yahya Saree sobre a transformação de alvos financeiros em alvos militares e avisos para que civis se afastem dessas áreas.",
-   "O fato sinaliza maior risco geopolítico que pode impactar setores ligados a investimentos internacionais, segurança e comércio na região, reforçando a importância de monitorar conflitos e suas repercussões econômicas."
-  ],
-  "detalhes": [
-   "O ataque foi contra o edifício PIF Tower, sede do fundo soberano da Arábia Saudita.",
-   "Data do ataque: 19 de novembro de 2026.",
-   "Houthis responderam a ameaças sauditas contra o porto de Hodeida, no Iêmen.",
-   "O ataque causou danos materiais, sem vítimas.",
-   "Centro financeiro da Cidade Econômica Rei Abdullah foi declarado alvo militar pelos Houthis.",
-   "O aviso dos Houthis veio via canal oficial no Telegram.",
-   "Riad e o Mar Vermelho são áreas estratégicas para o comércio e investimento regional."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Yahya Saree, porta-voz militar dos Houthis",
-    "oque": "Declarou que o centro financeiro da Cidade Econômica Rei Abdullah é alvo militar e orientou afastamento imediato."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "19/11/2026",
-    "oque": "Ataque dos Houthis atinge torre do Fundo de Investimento Público em Riad."
-   },
-   {
-    "quando": "20/11/2026",
-    "oque": "Houthis ameaçam atacarem portos e alertam companhias aéreas."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Houthis",
-    "significado": "Grupo rebelde iemenita em conflito com a Arábia Saudita."
-   },
-   {
-    "termo": "Fundo de Investimento Público (PIF)",
-    "significado": "Maior fundo soberano da Arábia Saudita, com investimentos estratégicos."
-   },
-   {
-    "termo": "Cidade Econômica Rei Abdullah",
-    "significado": "Centro financeiro estratégico na Arábia Saudita."
-   }
-  ],
-  "pergunta": "Você acha que conflitos geopolíticos assim impactam seus investimentos?",
-  "tamanhoTexto": 1638,
-  "numeros": [
-   {
-    "valor": "19/11/2026",
-    "rotulo": "Data do ataque"
-   },
-   {
-    "valor": "sem feridos",
-    "rotulo": "Número de feridos no ataque"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Ataque ao prédio",
-  "porQueImporta": "Conflitos como esse aumentam a incerteza geopolítica, que pode afetar investimentos, comércio e estabilidade econômica na região do Oriente Médio, cenário importante para investidores globais.",
-  "impactoMercado": "A escalada dos ataques pode provocar volatilidade nos mercados regionais, afetando ações, fundos de investimento e setores ligados a petróleo e infraestrutura, além de influenciar o risco-país na avaliação dos investidores.",
-  "entenda": "Os Houthis são um grupo rebelde do Iêmen, apoiados pelo Irã, em conflito com a Arábia Saudita. Ataques a infraestruturas estratégicas visam pressionar politicamente e causar impacto econômico e social.",
-  "observar": "Acompanhe as próximas declarações oficiais e possíveis reações regionais, além de dados sobre comércio e segurança na costa do Mar Vermelho.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Essa notícia explica como tensões geopolíticas afetam economia e investimentos, mostrando a importância de entender riscos globais na faculdade de mercado financeiro.",
-  "gancho": "*Ataque* ao prédio mais alto",
-  "ideias": [
-   "Como conflitos geopolíticos influenciam o mercado financeiro?",
-   "O que é o Fundo de Investimento Público da Arábia Saudita?",
-   "Por que ataques estratégicos impactam investimentos globais?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Global",
-  "icone": "raio",
-  "fonte": "InfoMoney",
-  "impacto": "medio",
-  "ordem": 6,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T15:01:54-03:00",
-  "url": "https://www.infomoney.com.br/mundo/houthis-atacam-predio-mais-alto-da-arabia-saudita-nao-houve-feridos/",
-  "publicadoEm": "2026-11-20T14:51:47-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-03"
- },
- {
-  "titulo": "Petróleo cai e amarga terceira semana seguida de perdas",
-  "resumo": "Brent recua cerca de 5% e WTI cai 7% na semana, pressionados por excesso de oferta e tensões no Oriente Médio.",
-  "fatos": [
-   "Petróleo Brent caiu 0,9% a US$ 91,14 na sexta-feira (20/11).",
-   "WTI recuou 1,3% para US$ 82,10 o barril em contratos de dezembro.",
-   "Na semana, Brent caiu cerca de 5%; WTI perdeu aproximadamente 7%.",
-   "Ataques dos Houthis ao Mar Vermelho ameaçam portos sauditas.",
-   "Estreito de Ormuz teve incidentes com petroleiros atingidos por minas.",
-   "AIE projeta excedente global de 1,7 milhão de barris/dia no trimestre.",
-   "Próxima reunião da OPEP+ será em 29 de novembro para definir produção 2027.",
-   "Produção russa pode cair após ataques ucranianos a refinarias.",
-   "Mercados globais em aversão ao risco pressionam preços do petróleo."
-  ],
-  "explicacao": [
-   "Os preços do petróleo Brent e WTI caíram nesta sexta (20), registrando a terceira semana consecutiva de perdas, com Brent em US$ 91,14 e WTI em torno de US$ 82 o barril.",
-   "A queda ocorre apesar das tensões no Oriente Médio, como os ataques dos Houthis à Arábia Saudita e incidentes no Estreito de Ormuz, devido à manutenção das exportações e expectativa de oferta abundante no mercado global.",
-   "A Agência Internacional de Energia projeta superávit de 1,7 milhão de barris/dia para o trimestre, enquanto a OPEP+ se prepara para definir a política de produção para 2027, o que influencia as perspectivas do mercado.",
-   "Investidores também acompanham o impacto do recuo na demanda projetada por causas como aceleração da eletrificação e tensões geopolíticas, além da aversão ao risco nos mercados globais que pressiona o petróleo."
-  ],
-  "detalhes": [
-   "O recuo do Brent e WTI ocorre mesmo com tensões militares no Oriente Médio.",
-   "Os Houthis alertaram moradores e companhias para evacuarem áreas próximas dos portos sauditas.",
-   "Os ataques a petroleiros no Estreito de Ormuz mantêm prêmio de risco geopolítico.",
-   "O movimento dos fluxos de exportação pelo Estreito voltou a níveis anteriores ao conflito regional.",
-   "A produção de petróleo na Rússia recuou 45% desde o final de outubro devido a ataques com drones.",
-   "O excedente projetado pela AIE está relacionado à recuperação da oferta, apesar dos riscos.",
-   "O aumento da aversão ao risco mundial afeta as bolsas asiáticas, com impacto na demanda."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Aldo Spanjer, estrategista de commodities do BNP Paribas",
-    "oque": "Mercado mantém forte fluxo de exportação e vê possibilidade de acordo para redução das tensões."
-   },
-   {
-    "quem": "Aldo Spanjer, estrategista de commodities do BNP Paribas",
-    "oque": "Risco geopolítico não deve ser subestimado; espera recuperação dos preços no futuro."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "20 de novembro",
-    "oque": "Petróleo Brent e WTI operam em queda na Bolsa"
-   },
-   {
-    "quando": "19 de novembro",
-    "oque": "Houthis lançam mísseis contra Riad, Arábia Saudita"
-   },
-   {
-    "quando": "29 de novembro",
-    "oque": "Reunião da OPEP+ definirá política de produção para 2027"
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Brent",
-    "significado": "Tipo de petróleo referência usado na Europa e Ásia."
-   },
-   {
-    "termo": "WTI",
-    "significado": "West Texas Intermediate, referência do petróleo nos EUA."
-   },
-   {
-    "termo": "Estreito de Ormuz",
-    "significado": "Passagem marítima estratégica para exportação de petróleo."
-   }
-  ],
-  "pergunta": "Como você acha que as tensões no Oriente Médio influenciam o preço do petróleo?",
-  "tamanhoTexto": 6771,
-  "numeros": [
-   {
-    "valor": "91,14",
-    "rotulo": "Preço do barril Brent em US$ no dia 20/11"
-   },
-   {
-    "valor": "82,10",
-    "rotulo": "Preço do barril WTI em US$ no dia 20/11"
-   },
-   {
-    "valor": "5",
-    "rotulo": "Queda porcentual semanal do Brent, aprox."
-   },
-   {
-    "valor": "7",
-    "rotulo": "Queda porcentual semanal do WTI, aprox."
-   },
-   {
-    "valor": "1,7",
-    "rotulo": "Excedente global projetado em milhões de barris/dia"
-   },
-   {
-    "valor": "45",
-    "rotulo": "Redução percentual da produção russa desde outubro"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "Brent cai 5%",
-  "porQueImporta": "A queda do petróleo impacta os preços dos combustíveis e pode alterar a rentabilidade das empresas do setor. Investidores acompanham os efeitos dos conflitos geopolíticos e do excesso de oferta para ajustar suas estratégias segundo a volatilidade do mercado.",
-  "impactoMercado": "O cenário de excesso de oferta e tensões no Oriente Médio gera volatilidade nos preços do petróleo, podendo influenciar bolsas, dólar e setores ligados à energia. A definição da política de produção da OPEP+ e os riscos na Rússia são pontos chave para investidores de commodities e fundos relacionados.",
-  "entenda": "O petróleo Brent e WTI são referências internacionais do preço do barril. Preços são influenciados pela oferta, demanda, e fatores geopolíticos, como conflitos que podem interromper exportações. A OPEP+ é um grupo que decide a produção para equilibrar o mercado. Excesso de oferta faz preços caírem, e riscos geopolíticos podem elevar preços.",
-  "observar": "Fique atento para a reunião da OPEP+ em 29/11, que deve definir produção para 2027, e para novos desdobramentos das tensões no Oriente Médio que podem impactar preços no curto prazo.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "A notícia detalha como fatores geopolíticos e oferta global afetam o preço do petróleo, importante para quem quer entender o impacto do mercado global e aprender a interpretar riscos e oportunidades estudando na faculdade de mercado financeiro.",
-  "gancho": "*Petróleo* em queda e *tensões* globais",
-  "ideias": [
-   "Por que o petróleo cai mesmo com conflito no Oriente Médio?",
-   "Entenda a influência da OPEP+ no preço do petróleo em 2027",
-   "Como excesso de oferta afeta os preços do petróleo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "categoria": "Commodities",
-  "icone": "foguete",
-  "fonte": "BP Money",
-  "impacto": "medio",
-  "ordem": 7,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T15:01:54-03:00",
-  "url": "https://bpmoney.com.br/mercado/commodities/petroleo-cai-terceira-queda-semanal-fluxos-oriente-medio/",
-  "publicadoEm": "2026-11-20T13:01:00-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-04"
- },
- {
-  "titulo": "Binance adiciona seis criptomoedas à lista de monitoramento",
-  "resumo": "A Binance incluiu seis criptomoedas, como Initia e Mitosis, em sua lista de monitoramento nesta sexta-feira (20). A medida indica riscos e pode levar à remoção dos ativos da plataforma.",
-  "fatos": [
-   "Binance adicionou seis criptomoedas à lista de monitoramento em 20 de janeiro.",
-   "Criptomoedas incluídas: Lorenzo Protocol, Initia, Mitosis, Harmony, THENA e Zilliqa.",
-   "Quedas de até 12,7% foram registradas em 24 horas após o anúncio.",
-   "Mitosis (MITO) teve a maior queda, de 12,7%.",
-   "A lista atual da Binance contém 37 criptomoedas com a tag de monitoramento.",
-   "Initia (INIT) é a maior das cinco recém adicionadas, entre as 600 maiores do mercado.",
-   "Binance removeu a seed tag dos tokens Morpho Token (MORPHO) e Hyperliquid (HYPE).",
-   "A tag sinaliza riscos como volume baixo, falhas técnicas, fraudes ou falta de comprometimento dos desenvolvedores.",
-   "Tokens na lista passam por revisões periódicas e podem ser removidos da corretora.",
-   "A tag geralmente provoca pressão vendedora imediata e queda de liquidez."
-  ],
-  "explicacao": [
-   "Nesta sexta-feira (20), a Binance adicionou seis criptomoedas ao seu sistema interno de monitoramento de risco, incluindo projetos como Initia (INIT), Mitosis (MITO) e Harmony. A ação gerou quedas de até 12,7% nesses ativos nas últimas 24 horas.",
-   "A inclusão na lista ocorre quando tokens apresentam problemas relacionados a volume de negociação, comprometimento dos desenvolvedores, segurança ou estabilidade técnica, entre outros fatores. A Binance usa essa classificação para reforçar a governança e alertar o mercado.",
-   "Ter uma criptomoeda na lista de monitoramento aumenta o risco para investidores, pois os tokens podem ser removidos da plataforma caso não melhorem nas áreas avaliadas. Isso também pressiona a liquidez e a volatilidade desses ativos.",
-   "Após a inclusão, os projetos passarão por revisões periódicas rigorosas. Caso não apresentem melhorias, a Binance poderá deslistá-los. A corretora também removeu a seed tag de dois outros tokens, Morpho Token e Hyperliquid."
-  ],
-  "detalhes": [
-   "A lista de monitoramento indica potencial deslistagem de tokens que não atendem aos critérios da Binance.",
-   "A pressão vendedora após o anúncio impacta diretamente o preço e a liquidez desses criptoativos.",
-   "A corretora avalia comprometimento dos desenvolvedores, segurança, volume e comunicação pública dos projetos.",
-   "A Seed tag foi removida de Morpho Token e Hyperliquid para indicar mudança na avaliação do risco.",
-   "A lista inclui projetos famosos e diversos, como Stacks (STX) e FTX Token (FTT).",
-   "O anúncio ocorreu em um momento de queda geral do Bitcoin nas últimas 24 horas.",
-   "A tag funciona como alerta para investidores monitorarem riscos ampliados nos tokens."
-  ],
-  "declaracoes": [
-   {
-    "quem": "Binance",
-    "oque": "Tokens na lista de monitoramento apresentam riscos altos e podem ser removidos caso não melhorem."
-   }
-  ],
-  "cronologia": [
-   {
-    "quando": "20 de janeiro",
-    "oque": "Binance adiciona seis criptomoedas à lista de monitoramento."
-   }
-  ],
-  "glossario": [
-   {
-    "termo": "Lista de Monitoramento",
-    "significado": "sinaliza tokens com risco, podendo ser removidos da exchange"
-   },
-   {
-    "termo": "Seed Tag",
-    "significado": "classificação de risco atribuída pela exchange a tokens específicos"
-   },
-   {
-    "termo": "Deslistagem",
-    "significado": "remoção de uma criptomoeda da plataforma de negociação"
-   }
-  ],
-  "pergunta": "Você já investe ou acompanha algum token da lista de monitoramento da Binance?",
-  "tamanhoTexto": 4295,
-  "numeros": [
-   {
-    "valor": "6",
-    "rotulo": "criptomoedas adicionadas à lista de monitoramento"
-   },
-   {
-    "valor": "12,7%",
-    "rotulo": "máxima queda das criptomoedas monitoradas nas últimas 24h"
-   },
-   {
-    "valor": "37",
-    "rotulo": "quantidade total de criptomoedas com tag de monitoramento na Binance"
-   },
-   {
-    "valor": "US$ 2,78 bilhões",
-    "rotulo": "valor de mercado do Stacks (STX) na lista"
-   }
-  ],
-  "comparativo": [],
-  "destaque": "6 criptomoedas adicionadas",
-  "porQueImporta": "Investidores e traders precisam entender que a inclusão na lista de monitoramento indica riscos aumentados e possibilidade real de deslistagem, afetando negociações e valorização desses ativos na Binance, principal exchange do mundo.",
-  "impactoMercado": "Essas movimentações podem gerar pressão vendedora, maior volatilidade e menor liquidez nos tokens afetados, exigindo atenção redobrada de investidores e operadores quanto ao risco de perdas em exchanges centralizadas.",
-  "entenda": "A lista de monitoramento da Binance sinaliza projetos que não atendem a critérios mínimos de segurança, volume e desenvolvimento, podendo ser removidos da plataforma e assim perder acesso a liquidez e ampla negociação.",
-  "observar": "Acompanhe revisões periódicas da Binance sobre os tokens na lista e notícias de possíveis remoções até que os projetos apresentem melhorias claras.",
-  "publico": [
-   "Iniciantes",
-   "Investidores",
-   "Day traders"
-  ],
-  "angulo": "Explicar como a Binance avalia o risco dos tokens ajuda operadores a entenderem possíveis quedas e oportunidades de monitoramento na faculdade de mercado financeiro.",
-  "gancho": "*Binance* inclui 6 criptomoedas na lista de *monitoramento*",
-  "ideias": [
-   "O que significa a lista de monitoramento da Binance?",
-   "Quais criptomoedas entraram para a lista de risco da Binance?",
-   "Como a lista de monitoramento pode afetar seus investimentos em cripto?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories",
-   "Reels"
-  ],
-  "categoria": "Cripto",
-  "icone": "cadeado",
-  "fonte": "Livecoins (cripto)",
-  "impacto": "medio",
-  "ordem": 8,
-  "status": "nova",
-  "coletadoEm": "2026-11-20T15:01:54-03:00",
-  "url": "https://livecoins.com.br/binance-adiciona-seis-criptomoedas-em-sua-lista-de-monitoramento/",
-  "publicadoEm": "2026-11-20T11:04:39-03:00",
-  "data": "2026-11-20",
-  "id": "2026-11-20-05"
  }
 ]
